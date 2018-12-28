@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<minimap>
+		<frustum left="-15245" right="15245" top="9528.11" bottom="-9528.11" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1200" />
+		<image left="466.95" right="1490.95" top="74.9" bottom="1098.9" name="./Data/Resource/Image/Map/Minimap/02020001.dds" icon="" />
+		<camera position="-5347.074707, -5569.257813, 8668.504883" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="7.94009" />
+	</minimap>
+	<fog color="20,70,72" near="0" far="15000" />
+	<heightfog color="115,175,234" upper="1800" lower="700" percentage="80" />
+	<clientProperty bgDay="BG_Kritias_E.dds" />
+</ms2>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!--  MS2TriggerModel  TriggerModelID =  9991  -->
+  <!--  이 트리거는 최초 시작 지점에 있는 메인 보스판 지점에 들어서기 위한 포탈을 제거하기 위한 용도로 설정합니다.-->
+<ms2>  
+
+ <state name="Ready">
+    <onEnter>
+
+		
+    </onEnter>
+	
+		<condition name="여러명의유저를감지했으면" arg1="750" arg2="1"> <!--   MS2TriggerBox   TriggerObjectID = 750, 이 트리거 박스 안에 플레이어가 한명이라도 체크 되면,          750은 스타팅 지점 전투판 다  포함되는 범위, 700은 전투판만 포함되는 범위-->
+				<transition state="시작지점포탈_우선생성"/>
+		</condition>		
+		
+    <onExit>
+    </onExit>
+  </state>
+  
+ 
+   <state name="시작지점포탈_우선생성">
+    <onEnter>
+
+		<action name="포탈을설정한다" arg1="3" arg2="1" arg3="1" arg4="1"/>   <!-- 최초 스타팅 포인트 지점에 배치된 메인 전투판으로 들어서기 위한 포탈 최초에 활성화 시키기,   arg1="3" 은 포탈ID -->	
+			<!-- 툴벤치 포탈 기능의 버그때문에 이렇게 설정하였는데, 툴벤치 포탈 설정이 IsVisible=Ture 인 상태에서 트리거로 트리거 기능을 제거해도 포탈 모양의 이펙트는 남아있는 버그가 있기 때문에, 최초에는 포탈을  IsVisible=False로 해놓고 트리거로 활성화 상태로 해놓고 이후 비활성화 상태로 해야 버그가 발생 안함-->		
+    </onEnter>
+
+		<condition name="WaitTick" waitTick="30000">  <!-- 던전 최초 진임 후 30초 지나면 메인 전투판 진입 포탈 제거하기 -->
+			<transition state="시작지점포탈제거_실행"/>	
+		</condition>	
+	
+    <onExit>
+    </onExit>
+  </state>
+  
+   <state name="시작지점포탈제거_실행">
+    <onEnter>
+
+		<action name="포탈을설정한다" arg1="3" arg2="0" arg3="0" arg4="0"/>   <!-- 최초 스타팅 포인트 지점에 배치된 메인 전투판으로 들어서기 위한 포탈을 비활성화 상태로 만들기,   arg1="3" 은 포탈ID -->	
+				
+    </onEnter>
+
+		<condition name="WaitTick" waitTick="1000" > 
+			<transition state="종료"/>	
+		</condition>	
+	
+    <onExit>
+    </onExit>
+  </state>
+	
+	<state name="종료">
+		<onEnter>
+		</onEnter>
+	</state>
+
+	
+  
+
+</ms2>

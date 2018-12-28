@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<minimap>
+		<frustum left="-17779.4" right="17779.4" top="10000.9" bottom="-10000.9" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1080" />
+		<image left="434" right="1458" top="33" bottom="1057" name="./Data/Resource/Image/Map/Minimap/02020061.dds" icon="" />
+		<camera position="-3192.474121, -4441.434082, 7080.055176" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="9.26011" />
+	</minimap>
+	<clientProperty bgDay="BG_Lapenta_A.dds" />
+</ms2>

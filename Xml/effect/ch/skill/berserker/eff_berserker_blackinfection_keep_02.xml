@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <effect type="chaoslight" layer="99" startDelay="0.1" loop="true">
+   
+    <transition loop="true" fresnelBoost="17.50" fresnelExponent="7.5" dimmer="0.0" rgb="0.95, 0.57, 0.22" />
+  </effect>
+  
+  <effect type="nif" filePath="CH/Skill/Berserker/Eff_Berserker_BeyondLimit_Keep_01_02.nif" startDelay="0" offSkip="true" loop="true">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Bip01 Spine" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
+    <update translate="true" rotation="false" scale="true" />
+  </effect>
+  <effect type="nif" filePath="CH/Skill/Berserker/Eff_Berserker_BeyondLimit_Keep_01.nif" startDelay="0" offSkip="true" loop="true">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
+    <update translate="true" rotation="false" scale="true" />
+  </effect>
+  <effect type="nif" filePath="CH/Skill/Berserker/Eff_Berserker_SpiritOfBerserker_Keep_01_Face_a.nif" startDelay="0" offSkip="true" loop="true">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Bip01 Head" />
+    <transform translate="16.2, 17.5, 0.0" rotation="1.0, 0.0, 0.0" scale="1.0" />
+    <update translate="true" rotation="true" scale="false" />
+  </effect>     
+</ms2>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+
+
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_L.nif" startDelay="0.0" duration="8.0" viewDistance="0">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="scene Root" />
+    <transform translate="0.0, 0.0,-80.0" rotation="7.0, 0.0, 0.0" scale="0.8" /> <!-- 레이저 줄기 발사 각도는 7~10도 정도 위로 올라가는 것이 좋을거 같습니다.-->
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_L.nif" startDelay="0.33" duration="8.0" viewDistance="0">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="scene Root" />
+    <transform translate="0.0, 0.0, -80.0" rotation="7.0, 0.0, 0.0" scale="0.8" /> <!-- 레이저 줄기 발사 각도는 7~10도 정도 위로 올라가는 것이 좋을거 같습니다.-->
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_L.nif" startDelay="0.66" duration="8.0" viewDistance="0">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="scene Root" />
+    <transform translate="0.0, 0.0, -80.0" rotation="7.0, 0.0, 0.0" scale="0.8" /> <!-- 레이저 줄기 발사 각도는 7~10도 정도 위로 올라가는 것이 좋을거 같습니다.-->
+  </effect>
+
+  
+  
+
+</ms2>

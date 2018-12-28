@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<quest id="80020001">
+		<script id="100" feature="" locale="">
+			<content text="$script:0628212818002889$" />
+			<content text="$script:0628212818002890$" />
+			<content text="$script:0628212818002891$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0628212818002892$" />
+		</script>
+	</quest>
+	<quest id="80020002">
+		<script id="100" feature="" locale="">
+			<content text="$script:0628212818002893$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0628212818002894$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0628212818002895$" />
+		</script>
+	</quest>
+	<quest id="80020010">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:0913155418002896$" />
+			<content text="$script:0913155418002897$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:0913155418002898$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:0913155418002899$" />
+		</script>
+	</quest>
+	<quest id="80020020">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:0913174818002900$" />
+			<content text="$script:0913174818002901$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:0913174818002902$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:0913174818002903$" />
+		</script>
+	</quest>
+	<quest id="80020030">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:0919182218002904$" />
+			<content text="$script:0919182218002905$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:0919182218002906$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:0919182218002907$" />
+		</script>
+	</quest>
+	<quest id="80020040">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:0927173618002912$" />
+			<content text="$script:0927173618002913$" />
+			<content text="$script:0927173618002914$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:0927173618002915$" />
+		</script>
+	</quest>
+	<quest id="80020041">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:0927173618002916$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:0927173618002917$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:0927173618002918$" />
+		</script>
+	</quest>
+	<quest id="80020050">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:1023175818002912$">
+				<distractor text="$script:1023175818002913$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="NA">
+			<content text="$script:1023175818002914$" />
+			<content text="$script:1023175818002915$">
+				<distractor text="$script:1023175818002916$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="NA">
+			<content text="$script:1023175818002917$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:1023175818002918$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:1023175818002919$" />
+			<content text="$script:1023175818002920$" />
+		</script>
+	</quest>
+	<quest id="80020051">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:1023175818002921$" />
+			<content text="$script:1023175818002922$" />
+			<content text="$script:1023175818002923$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:1023175818002924$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:1023175818002925$" />
+		</script>
+	</quest>
+	<quest id="80020060">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:1101164818002926$" />
+			<content text="$script:1101164818002927$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:1101164818002928$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:1101164818002929$" />
+		</script>
+	</quest>
+	<quest id="80020061">
+		<script id="100" feature="" locale="NA">
+			<content text="$script:1101164818002930$" />
+			<content text="$script:1101164818002931$" />
+		</script>
+		<script id="200" feature="" locale="NA">
+			<content text="$script:1101164818002932$" />
+		</script>
+		<script id="300" feature="" locale="NA">
+			<content text="$script:1101164818002933$" />
+		</script>
+	</quest>
+</ms2>

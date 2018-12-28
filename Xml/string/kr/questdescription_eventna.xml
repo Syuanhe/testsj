@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<quest questID="80020001" name="레인보우 슬라임, 키워 보실래요?" desc="귀여운 레인보우 슬라임을 키우고 선물도 받아 보자!" manual="레인보우 슬라임을 키우는 방법 들어 보기" complete="레인보우 슬라임을 키우는 방법 들어 보기" count="1" locale="" locking="0" />
+	<quest questID="80020002" name="레인보우 슬라임의 보금자리 짓기" desc="내 집에 $item:50400282$$pp:를,을$ 설치해 보자!&#x0A;$item:50400282$$pp:는,은$ &apos;건설 시작하기&apos; 메뉴에서 왼쪽의 &apos;레인보우 슬라임&apos; 탭을 누르면 확인할 수 있다.&#x0A;이미 설치한 경우에는 제거했다가 다시 설치하면 된다." manual="내 집에 $item:50400282$$pp:를,을$ 설치하기" complete="내 집에 $item:50400282$$pp:를,을$ 설치하기" count="1" locale="" locking="0" />
+	<quest questID="80020010" name="펫을 포획해 보자" desc="메이플 월드 곳곳에서 다양한 펫을 포획하여 도감을 채워 보자!&#x0A;필드를 돌아다니며 펫을 15마리 포획하면&#x0A;$npc:11001003$에게서 $item:60000032$$pp:를,을$ 받을 수 있다.&#x0A;&#x0A;도감을 채우고 선물로 귀여운 펫도 받아 보자." manual="펫 15마리 포획하기" complete="$map:02000064$에서 $npc:11001003$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020020" name="다크 스트림을 정복하라" desc="$dungeonTitle:25008001$&#x0A;(입구 맵 : $map:2000048$)&#x0A;&#x0A;$map:02000350$이 어떤 곳인지 궁금해 하는 $npc:11001003$의 궁금증을 풀어 주기 위해 직접 짙은 어둠 속을 다녀와 보자.&#x0A;$map:02000350$에서 열다섯 번째 어둠을 통과한 뒤 $npc:11001003$에게 말을 걸면 선물을 받을 수 있다." manual="다크 스트림 15라운드 통과하기" complete="$map:02000064$에서 $npc:11001003$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020030" name="별풍선을 찾아라" desc="메이플 월드 곳곳에서 별풍선을 찾아 조사해 보자!&#x0A;매일 10회 조사를 완료하면, $npc:11001002$에게서 맛있는 &apos;$item:20001034$&apos; 을 받을 수 있다.&#x0A;&#x0A;$item:20001034$ 30개 획득 시, &apos;팡팡 별풍선 축제&apos; 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 $item:11850109$를 획득할 수 있다. &#x0A;&#x0A;* 별풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다." manual="별풍선 조사하기" complete="$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020040" name="펌키를 키워 주세요!" desc="귀여운 호박 악마 펌키를 키우고 선물도 받아 보자!" manual="펌키를 키우는 방법 들어 보기" complete="펌키를 키우는 방법 들어 보기" count="1" locale="NA" locking="0" />
+	<quest questID="80020041" name="펌키의 보금자리 마련해 주기" desc="내 집에 $item:50400309$$pp:를,을$ 설치해 보자!&#x0A;$item:50400309$$pp:는,은$ &apos;건설 시작하기&apos; 메뉴에서 왼쪽의 &apos;호박 악마 펌키&apos; 탭을 누르면 확인할 수 있다.&#x0A;이미 설치한 경우에는 제거했다가 다시 설치하면 된다." manual="내 집에 $item:50400309$$pp:를,을$ 설치하기" complete="내 집에 $item:50400309$$pp:를,을$ 설치하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020050" name="메이슨의 특별한 그대" desc="메이플 월드 수호를 위해 스카이 포트리스 함대 출동을 준비 중인 신관기사 메이슨!&#x0A;그의 마음을 한순간에 녹여버린 귀엽고 깜찍한 휴먼메럿이 있었으니… &#x0A;그의 남다른 취향을 함께 공유하고 특별한 인연을 맺어보자. &#x0A;&#x0A;* $item:30001051$$pp:는,은$ 이벤트 기간 동안 $map:02000064$에서 $npc:11001002$$pp:가,이$ 주는 일일퀘스트 [메이슨의 사적 취향] 보상으로 1개씩 획득할 수 있다.&#x0A;* 이벤트 기간 : 2018년 11월 17일 - 2018년 12월 06일 점검 전까지" manual="$item:30001051$ 모으기" complete="$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020051" name="메이슨의 사적 취향" desc="메이플 월드 수호를 위해 스카이 포트리스 함대 출동을 준비 중인 신관기사 메이슨!&#x0A;수려한 외모에 지성과 냉철함을 겸비한 그의 마음을 사로잡았다는 귀엽고 깜찍한 휴먼 메럿을 메이플 월드 곳곳에서 찾아 쓰다듬어보자!&#x0A;&#x0A;* 휴먼 메럿은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다." manual="휴먼 메럿 쓰다듬기" complete="$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020060" name="거대 칠면조의 습격" desc="추수감사절만 되면 모험가들의 식탁에 오르는 신세가 된 칠면조들이 더 이상 참지 못하고 추수감사절을 망치기 위해 메이플 월드를 습격했다! $map:02000092$에 나타난 $npc:27000051$$pp:를,을$ 처치하고 메이플 월드의 주민들을 보호하자!" manual="$map:02000092$에서 $npc:27000051$ 처치하기" complete="$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기" count="1" locale="NA" locking="0" />
+	<quest questID="80020061" name="맛있는 칠면조 구이를 만들어 볼까요?" desc="$npc:27000051$$pp:를,을$ 요리하면 보통의 칠면조와는 비교조차 할 수 없을 만큼 훌륭한 진미가 된다는 소문이 있다. $npc:11001002$$pp:는,은$ 추수감사절 기간에 손님들을 대접하기 위해 $npc:27000051$$pp:로,으로$ 만든 요리를 올리고 싶다고 한다. $npc:11001002$에게 열흘 동안 $npc:27000051$$pp:를,을$ 잡아서 가져다 주면 많은 손님들을 대접할 만큼 충분할 것 같다." manual="$quest:80020060$ 퀘스트 10회 완료하기" complete="$quest:80020060$ 퀘스트 10회 완료하기" count="1" locale="NA" locking="0" />
+	<quest questID="89040000" name="10레벨 달성하기" desc="" manual="10레벨 달성하기" complete="10레벨 달성하기" count="1" locale="" locking="0" />
+	<quest questID="89040001" name="맵 10개 방문하기" desc="" manual="맵 10개 방문하기" complete="맵 10개 방문하기" count="1" locale="" locking="0" />
+	<quest questID="89040002" name="내 집에 $item:50400096$ 설치하기" desc="" manual="내 집에 $item:50400096$ 설치하기" complete="내 집에 $item:50400096$ 설치하기" count="1" locale="" locking="0" />
+	<quest questID="89040003" name="다른 사람에게 친구 요청하기" desc="" manual="다른 사람에게 친구 요청하기" complete="다른 사람에게 친구 요청하기" count="1" locale="" locking="0" />
+	<quest questID="89040004" name="다른 사람 집 방문하기" desc="" manual="다른 사람 집 방문하기" complete="다른 사람 집 방문하기" count="1" locale="" locking="0" />
+	<quest questID="89040005" name="20레벨 달성" desc="" manual="20레벨 달성" complete="20레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040006" name="MC 케이 이벤트 5회 참여" desc="" manual="MC 케이 이벤트 5회 참여" complete="MC 케이 이벤트 5회 참여" count="1" locale="" locking="0" />
+	<quest questID="89040007" name="야수형 몬스터 처치하기" desc="" manual="야수형 몬스터 처치하기" complete="야수형 몬스터 처치하기" count="1" locale="" locking="0" />
+	<quest questID="89040008" name="모험 던전 보스 3회 처치" desc="" manual="모험 던전 보스 3회 처치" complete="모험 던전 보스 3회 처치" count="1" locale="" locking="0" />
+	<quest questID="89040009" name="길드 가입하기" desc="" manual="길드 가입하기" complete="길드 가입하기" count="1" locale="" locking="0" />
+	<quest questID="89040010" name="30레벨 달성" desc="" manual="30레벨 달성" complete="30레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040011" name="나무 보물상자 30회 열기" desc="" manual="나무 보물상자 30회 열기" complete="나무 보물상자 30회 열기" count="1" locale="" locking="0" />
+	<quest questID="89040012" name="필드보스 1회 처치하기" desc="" manual="필드보스 1회 처치하기" complete="필드보스 1회 처치하기" count="1" locale="" locking="0" />
+	<quest questID="89040013" name="UGC 1개 디자인" desc="" manual="UGC 1개 디자인" complete="UGC 1개 디자인" count="1" locale="" locking="0" />
+	<quest questID="89040014" name="트라이아에서 3곡 연주" desc="" manual="트라이아에서 3곡 연주" complete="트라이아에서 3곡 연주" count="1" locale="" locking="0" />
+	<quest questID="89040015" name="35레벨 달성" desc="" manual="35레벨 달성" complete="35레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040016" name="게임 장비 아이템을 10개 분해하기" desc="" manual="게임 장비 아이템을 10개 분해하기" complete="게임 장비 아이템을 10개 분해하기" count="1" locale="" locking="0" />
+	<quest questID="89040017" name="생활기술 1개 3레벨 달성" desc="" manual="생활기술 1개 3레벨 달성" complete="생활기술 1개 3레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040018" name="트로피 10개 달성" desc="" manual="트로피 10개 달성" complete="트로피 10개 달성" count="1" locale="" locking="0" />
+	<quest questID="89040019" name="월드 퀘스트 &apos;불길한 물방울&apos; 완료" desc="" manual="월드 퀘스트 &apos;불길한 물방울&apos; 완료" complete="월드 퀘스트 &apos;불길한 물방울&apos; 완료" count="1" locale="" locking="0" />
+	<quest questID="89040020" name="40레벨 달성" desc="" manual="40레벨 달성" complete="40레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040021" name="길드 퀘스트 1회 완료" desc="" manual="길드 퀘스트 1회 완료" complete="길드 퀘스트 1회 완료" count="1" locale="" locking="0" />
+	<quest questID="89040022" name="코코섬에서 50m 수영하기" desc="" manual="코코섬에서 50m 수영하기" complete="코코섬에서 50m 수영하기" count="1" locale="" locking="0" />
+	<quest questID="89040023" name="물고기 300마리 잡기" desc="" manual="물고기 300마리 잡기" complete="물고기 300마리 잡기" count="1" locale="" locking="0" />
+	<quest questID="89040024" name="황금 보물 상자 10회 열기" desc="" manual="황금 보물 상자 10회 열기" complete="황금 보물 상자 10회 열기" count="1" locale="" locking="0" />
+	<quest questID="89040025" name="45레벨 달성" desc="" manual="45레벨 달성" complete="45레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040026" name="$dungeonTitle:29004001$ 1회 클리어" desc="" manual="보물던전 6회 클리어" complete="보물던전 6회 클리어" count="1" locale="" locking="0" />
+	<quest questID="89040027" name="캐시마트 아르바이트 1회 참여" desc="" manual="캐시마트 아르바이트 1회 참여" complete="캐시마트 아르바이트 1회 참여" count="1" locale="" locking="0" />
+	<quest questID="89040028" name="헤어스타일 상담사 제인과 대화하기" desc="" manual="헤어스타일 상담사 제인과 대화하기" complete="헤어스타일 상담사 제인과 대화하기" count="1" locale="" locking="0" />
+	<quest questID="89040029" name="$item:30000869$ 획득하기" desc="" manual="$item:30000869$ 획득하기" complete="$item:30000869$ 획득하기" count="1" locale="" locking="0" />
+	<quest questID="89040030" name="50레벨 달성" desc="" manual="50레벨 달성" complete="50레벨 달성" count="1" locale="" locking="0" />
+	<quest questID="89040031" name="펫 1회 포획하기" desc="" manual="펫 1회 포획하기" complete="펫 1회 포획하기" count="1" locale="" locking="0" />
+	<quest questID="89040032" name="다크스트림 5라운드 클리어" desc="" manual="다크스트림 5라운드 클리어" complete="다크스트림 5라운드 클리어" count="1" locale="" locking="0" />
+	<quest questID="89040033" name='&quot;$dungeonTitle:20014002$&quot;에서 $npc:23000011$ 마주하기' desc="" manual='&quot;$dungeonTitle:20014002$&quot;에서 $npc:23000011$ 마주하기' complete='&quot;$dungeonTitle:20014002$&quot;에서 $npc:23000011$ 마주하기' count="1" locale="" locking="0" />
+	<quest questID="89040034" name="$dungeonTitle:29005001$ 1회 참여" desc="" manual="$dungeonTitle:29005001$ 1회 클리어" complete="$dungeonTitle:29005001$ 1회 클리어" count="1" locale="" locking="0" />
+	<quest questID="89050001" name="내 집의 호박 밭에서 호박 10회 수확" desc="" manual="* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.&#x0A;&#x0A;내 집의 호박 밭에서 10회 수확하기" complete="* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.&#x0A;&#x0A;내 집의 호박 밭에서 10회 수확하기" count="1" locale="" locking="0" />
+	<quest questID="89050002" name="$map:63000067$에서 거미줄 4회 치우기" desc="" manual="$map:63000067$에서 거미줄 4회 치우기" complete="$map:63000067$에서 거미줄 4회 치우기" count="1" locale="" locking="0" />
+	<quest questID="89050003" name="$map:63000067$에서 $npc:27000043$ 6회 처치" desc="" manual="$map:63000067$에서 $npc:27000043$ 6회 처치하기" complete="$map:63000067$에서 $npc:27000043$ 6회 처치하기" count="1" locale="" locking="0" />
+	<quest questID="89050004" name="$map:63000068$에 5회 입장" desc="" manual="$map:63000068$에 5회 입장하기" complete="$map:63000068$에 5회 입장하기" count="1" locale="" locking="0" />
+	<quest questID="89050005" name="퀘스트 할로윈 파티의 초대장 완료" desc="" manual="퀘스트 할로윈 파티의 초대장 완료하기" complete="퀘스트 할로윈 파티의 초대장 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050006" name="다른 사람에게 친구 요청 5번 하기" desc="" manual="다른 사람에게 친구 요청 5번 하기" complete="다른 사람에게 친구 요청 5번 하기" count="1" locale="" locking="0" />
+	<quest questID="89050007" name="필드 보스 4회 처치" desc="" manual="필드 보스 4회 처치" complete="필드 보스 4회 처치" count="1" locale="" locking="0" />
+	<quest questID="89050008" name="[일일] 트릭 오어 트릿 1회 완료" desc="" manual="[일일] 트릭 오어 트릿 1회 완료하기" complete="[일일] 트릭 오어 트릿 1회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050009" name="[일일] 트릭 오어 트릿 3회 완료" desc="" manual="[일일] 트릭 오어 트릿 3회 완료하기" complete="[일일] 트릭 오어 트릿 3회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050010" name="[일일] 트릭 오어 트릿 4회 완료" desc="" manual="[일일] 트릭 오어 트릿 4회 완료하기" complete="[일일] 트릭 오어 트릿 4회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050011" name="[일일] 트릭 오어 트릿 5회 완료" desc="" manual="[일일] 트릭 오어 트릿 5회 완료하기" complete="[일일] 트릭 오어 트릿 5회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050012" name="퀘스트 몽슈 백작의 혼령 완료" desc="" manual="퀘스트 몽슈 백작의 혼령 완료하기" complete="퀘스트 몽슈 백작의 혼령 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050013" name="$map:63000069$에 3회 방문" desc="" manual="$map:63000069$에 3회 방문하기" complete="$map:63000069$에 3회 방문하기" count="1" locale="" locking="0" />
+	<quest questID="89050014" name="[일일] 블러디 몽슈슈 할로윈 소동 2회 완료" desc="" manual="[일일] 블러디 몽슈슈 할로윈 소동 2회 완료하기" complete="[일일] 블러디 몽슈슈 할로윈 소동 2회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050015" name="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료" desc="" manual="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기" complete="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050016" name="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료" desc="" manual="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기" complete="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89050017" name="$map:63000065$에서 유령들과 /안녕 10회 하기" desc="" manual="$map:63000065$에서 유령들과 /안녕 10회 하기" complete="$map:63000065$에서 유령들과 /안녕 10회 하기" count="1" locale="" locking="0" />
+	<quest questID="89060001" name="300초간 해피 빌리지에 앉아서 여유 즐기기" desc="" manual="300초간 해피 빌리지에 앉아서 여유 즐기기" complete="300초간 해피 빌리지에 앉아서 여유 즐기기" count="1" locale="" locking="0" />
+	<quest questID="89060002" name="해피 빌리지에서 합주 3번 하기" desc="" manual="해피 빌리지에서 합주 3번 하기" complete="해피 빌리지에서 합주 3번 하기" count="1" locale="" locking="0" />
+	<quest questID="89060003" name="해피 빌리지에서 크리스마스 케이크 3회 반응하기" desc="" manual="해피 빌리지에서 크리스마스 케이크 반응하기" complete="해피 빌리지에서 크리스마스 케이크 반응하기" count="1" locale="" locking="0" />
+	<quest questID="89060004" name="해피 빌리지에서 보보스마스 낚기" desc="" manual="해피 빌리지에서 보보스마스 낚기" complete="해피 빌리지에서 보보스마스 낚기" count="1" locale="" locking="0" />
+	<quest questID="89060005" name="퀘스트 [아주 커다란 케이크] 완료하기" desc="" manual="퀘스트 [아주 커다란 케이크] 완료하기" complete="퀘스트 [아주 커다란 케이크] 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89060006" name="퀘스트 [모두 함께 파티를] 완료하기" desc="" manual="퀘스트 [모두 함께 파티를] 완료하기" complete="퀘스트 [모두 함께 파티를] 완료하기" count="1" locale="" locking="0" />
+	<quest questID="89060007" name="[Happy Winter] 악보 10회 연주하기" desc="" manual="[Happy Winter] 악보 10회 연주하기" complete="[Happy Winter] 악보 10회 연주하기" count="1" locale="" locking="0" />
+	<quest questID="89060008" name="따뜻한 거실 5회 방문" desc="" manual="따뜻한 거실 5회 방문" complete="따뜻한 거실 5회 방문" count="1" locale="" locking="0" />
+	<quest questID="89060009" name="우아한 식당 5회 방문" desc="" manual="우아한 식당 5회 방문" complete="우아한 식당 5회 방문" count="1" locale="" locking="0" />
+	<quest questID="89060010" name="이글루스힐에서 망원경으로 풍경 감상하기" desc="" manual="이글루스힐에서 망원경으로 풍경 감상하기" complete="이글루스힐에서 망원경으로 풍경 감상하기" count="1" locale="" locking="0" />
+	<quest questID="89060011" name="화이트 스칼프에서 산타파파 만나기" desc="" manual="화이트 스칼프에서 산타파파 만나기" complete="화이트 스칼프에서 산타파파 만나기" count="1" locale="" locking="0" />
+	<quest questID="89060012" name="바니바 스노우 파크의 외딴 섬에서 눈사람 조사하기" desc="" manual="바니바 스노우 파크의 외딴 섬에서 눈사람 조사하기" complete="바니바 스노우 파크의 외딴 섬에서 눈사람 조사하기" count="1" locale="" locking="0" />
+	<quest questID="89060013" name="300초간 눈을 밟고 크리스마스 축제 즐기기" desc="" manual="300초간 눈을 밟고 크리스마스 축제 즐기기" complete="300초간 눈을 밟고 크리스마스 축제 즐기기" count="1" locale="" locking="0" />
+	<quest questID="89060014" name="빙하집 내려찍어 몬스터 10회 공격하기" desc="" manual="빙하집 내려찍어 몬스터 10회 공격하기" complete="빙하집 내려찍어 몬스터 10회 공격하기" count="1" locale="" locking="0" />
+	<quest questID="89060015" name="나무 때리기 50회" desc="" manual="나무 때리기 50회" complete="나무 때리기 50회" count="1" locale="" locking="0" />
+	<quest questID="89060016" name="차가운 물에서 냉수목욕 즐기기 300초" desc="" manual="차가운 물에서 냉수목욕 즐기기 300초" complete="차가운 물에서 냉수목욕 즐기기 300초" count="1" locale="" locking="0" />
+	<quest questID="89060017" name="나의 집이나 남의 집에 설치된 캐럴 벨 트리 아이템 반응시키기" desc="" manual="나의 집이나 남의 집에 설치된 캐럴 벨 트리 아이템 반응시키기" complete="나의 집이나 남의 집에 설치된 캐럴 벨 트리 아이템 반응시키기" count="1" locale="" locking="0" />
+	<quest questID="89060018" name="모험[일반/어려움] 보너스 상자(1단계) 받기 1회" desc="" manual="모험[일반/어려움] 보너스 상자(1단계) 받기 1회" complete="모험[일반/어려움] 보너스 상자(1단계) 받기 1회" count="1" locale="" locking="0" />
+	<quest questID="89060019" name="필드보스 20회 처치 " desc="" manual="필드보스 20회 처치 " complete="필드보스 20회 처치 " count="1" locale="" locking="0" />
+	<quest questID="89060020" name="크리스마스 댄스댄스스탑에서 /안녕 10회 하기" desc="" manual="크리스마스 댄스댄스스탑에서 /안녕 10회 하기" complete="크리스마스 댄스댄스스탑에서 /안녕 10회 하기" count="1" locale="" locking="0" />
+	<quest questID="89060021" name="크리스마스 댄스댄스스탑에서 캐럴 벨 트리 작동하기" desc="" manual="크리스마스 댄스댄스스탑에서 캐럴 벨 트리 작동하기" complete="크리스마스 댄스댄스스탑에서 캐럴 벨 트리 작동하기" count="1" locale="" locking="0" />
+	<quest questID="89060022" name="크리스마스 댄스댄스스탑에서 별 스탠드 조명 켜기" desc="" manual="크리스마스 댄스댄스스탑에서 별 스탠드 조명 켜기" complete="크리스마스 댄스댄스스탑에서 별 스탠드 조명 켜기" count="1" locale="" locking="0" />
+	<quest questID="89060023" name="[주간] 크리스마스에는 춤을 퀘스트 1회 완료" desc="" manual="[주간] 크리스마스에는 춤을 퀘스트 1회 완료" complete="[주간] 크리스마스에는 춤을 퀘스트 1회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060024" name="[주간] 크리스마스에는 춤을 퀘스트 2회 완료" desc="" manual="[주간] 크리스마스에는 춤을 퀘스트 2회 완료" complete="[주간] 크리스마스에는 춤을 퀘스트 2회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060025" name="[일일] 수습 루돌프는 어둠이 싫어요 5회 완료" desc="" manual="[일일] 수습 루돌프는 어둠이 싫어요 5회 완료" complete="[일일] 수습 루돌프는 어둠이 싫어요 5회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060026" name="[일일] 수습 루돌프는 어둠이 싫어요 10회 완료" desc="" manual="[일일] 수습 루돌프는 어둠이 싫어요 10회 완료" complete="[일일] 수습 루돌프는 어둠이 싫어요 10회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060027" name="[일일] 수습 루돌프는 어둠이 싫어요 15회 완료" desc="" manual="[일일] 수습 루돌프는 어둠이 싫어요 15회 완료" complete="[일일] 수습 루돌프는 어둠이 싫어요 15회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060028" name="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 3회 완료" desc="" manual="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 3회 완료" complete="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 3회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060029" name="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 7회 완료" desc="" manual="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 7회 완료" complete="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 7회 완료" count="1" locale="" locking="0" />
+	<quest questID="89060030" name="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 12회 완료" desc="" manual="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 12회 완료" complete="[일일] 수습 루돌프와 크리스마스 트리를 꾸며요 12회 완료" count="1" locale="" locking="0" />
+</ms2>

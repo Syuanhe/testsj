@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 길 막고 있는 NPC에게 감정표현하기 --> 
+<ms2>	
+    <state name="Wait"> 
+        <onEnter>	
+		<action name="메쉬를설정한다" arg1="4000" arg2="0" arg3="0" arg4="0" arg5="0"/> <!-- InvisibleBlock -->	
+		<action name="액터를설정한다" arg1="4100" arg2="0" arg3="Idle_A"/> <!-- Dummy RareBox --> 		
+		<action name="오브젝트반응설정한다" arg1="12000070" arg2="2" />	<!-- RareBox / 기믹 종료 오브젝트 / Additional Effect 71001151 걸어서 71001051 제거 -->	
+		<action name="오브젝트반응설정한다" arg1="12000078" arg2="2" />	<!-- NPC_TurnedAround / 기믹 시작 오브젝트 / TypeA / Additional Effect 71001051 71001231 부여 -->	
+		<action name="오브젝트반응설정한다" arg1="12000093" arg2="1" />	<!-- NPC_TurnedAround / 기믹 시작 오브젝트 / TypeB / Additional Effect 71001051 71001241 부여 -->			
+		<action name="몬스터소멸시킨다" arg1="101,102,201,202"/> 
+		<action name="이펙트를설정한다" arg1="4200" arg2="0"/> <!-- Success Sound Effect --> 
+		<action name="이펙트를설정한다" arg1="4201" arg2="0"/> <!-- Right Sound Effect --> 	
+		<action name="이펙트를설정한다" arg1="4202" arg2="0"/> <!-- Wrong Sound Effect --> 		
+        </onEnter>
+		<condition name="CheckUser">  
+			<transition state="SettingDelay"/>	
+		</condition> 	
+        <onExit> 			
+        </onExit>  
+    </state>
+
+    <state name="SettingDelay"> <!-- 임시 스테이트 테스트용 -->
+        <onEnter>		
+        </onEnter>
+		<condition name="WaitTick" waitTick="7000">
+			<transition state="CheckPCIsInside"/>	
+		</condition>				
+        <onExit>
+        </onExit>
+    </state>	
+
+    <state name="CheckPCIsInside"> <!-- 막힌 길 안 쪽에 PC가 있는지 확인 --> 
+        <onEnter>	
+		<action name="액터를설정한다" arg1="4100" arg2="1" arg3="Idle_A"/> <!-- Dummy RareBox --> 				
+		<action name="메쉬를설정한다" arg1="4000" arg2="1" arg3="0" arg4="0" arg5="0"/> <!-- InvisibleBlock -->			
+        </onEnter>
+		<condition name="!유저를감지했으면" arg1="9000">
+			<transition state="Setting"/>	
+		</condition>		
+		<condition name="유저를감지했으면" arg1="9000"> 
+			<transition state="PCForceToMove"/>	
+		</condition>			
+        <onExit>
+        </onExit>
+    </state>	
+	
+    <state name="PCForceToMove">   
+        <onEnter>			
+		<action name="유저를이동시킨다" arg1="0" arg2="100" arg3="9000" />	<!-- arg1 맵id / 트리거 위치가 필드이므로 PC 위치 저장된다는 가정 하에 맵 코드 입력 안하고 현재 맵으로 이동 -->
+        </onEnter>
+		<condition name="!유저를감지했으면" arg1="9000">
+			<transition state="Setting"/>	
+		</condition>	
+		<condition name="유저를감지했으면" arg1="9000">
+			<transition state="CheckPCIsInside"/>	
+		</condition>			
+        <onExit>
+        </onExit>
+    </state>	
+	
+	<state name="Setting">
+        <onEnter>	
+		<action name="타이머를설정한다" arg1="1" arg2="180" arg3="1" arg4="0" arg5="0" />  <!-- UI 표시 안함 / 황금 상자 소유권 Additional Effect 71001051 지속시간 동일 -->		
+		<action name="오브젝트반응설정한다" arg1="12000078" arg2="1" />	<!-- NPC_TurnedAround / 기믹 시작 오브젝트 / Additional Effect 71001051 부여 -->		
+        </onEnter>	
+		<condition name="오브젝트가반응했으면" arg1="12000078" arg2="0">
+			<transition state="InteractWithNpc_NpcTypeRandomPick"/>
+		</condition>
+        <onExit>				
+        </onExit>			
+    </state>	
+	
+    <state name="InteractWithNpc_NpcTypeRandomPick">
+        <onEnter>	
+		<action name="이펙트를설정한다" arg1="4201" arg2="1"/> <!-- Right Sound Effect --> 		
+		<action name="오브젝트반응설정한다" arg1="12000078" arg2="0" />		
+        </onEnter>
+			<condition name="랜덤조건" arg1="50">
+				<transition state="InteractWithNpc_NpcTypeA_NpcSpawn"/>
+			</condition>
+			<!--<condition name="랜덤조건" arg1="50">
+				<transition state="InteractWithNpc_NpcTypeB_Spawn01"/>
+			</condition>	-->
+        <onExit>
+        </onExit>
+    </state>	
+	
+
+    <state name="InteractWithNpc_NpcTypeA_NpcSpawn" >
+        <onEnter>	
+		<action name="오브젝트반응설정한다" arg1="12000078" arg2="2" />			
+		<action name="몬스터를생성한다" arg1="101" arg2="1" /> 		
+        </onEnter>
+		<condition name="UserValue" key="StandAsideTypeA" value="1">
+			<transition state="InteractWithNpc_NpcTypeA_NpcChange"/>
+		</condition>		
+        <onExit>
+        </onExit>
+    </state>	
+
+    <state name="InteractWithNpc_NpcTypeA_NpcChange" >
+        <onEnter>	
+		<action name="이펙트를설정한다" arg1="4201" arg2="1"/> <!-- Right Sound Effect --> 			
+		<action name="몬스터소멸시킨다" arg1="101"/> 
+		<action name="몬스터를생성한다" arg1="102" arg2="1" /> 			
+        </onEnter>
+		<condition name="WaitTick" waitTick="500">
+			<transition state="InteractWithNpc_NpcTypeA_StandAside"/>
+		</condition>		
+        <onExit>
+        </onExit>
+    </state>
+	
+    <state name="InteractWithNpc_NpcTypeA_StandAside" >
+        <onEnter>	
+		<action name="메쉬를설정한다" arg1="4000" arg2="0" arg3="0" arg4="0" arg5="0"/> <!-- InvisibleBlock -->			
+		<action name="NPC를이동시킨다" arg1="102" arg2="MS2PatrolData_102" />
+        </onEnter>	
+		
+        <onExit>
+        </onExit>
+    </state>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+    <state name="InteractWithNpc_Play05" >
+        <onEnter>
+		<action name="오브젝트반응설정한다" arg1="12000091" arg2="0"/> <!-- CheckPosition_Tree04 -->	
+		<action name="이펙트를설정한다" arg1="4201" arg2="1"/> <!-- Right Sound Effect --> 			
+		<action name="액터를설정한다" arg1="4041" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower01_Of_Tree04 --> 
+		<action name="액터를설정한다" arg1="4042" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower02_Of_Tree04 --> 
+		<action name="액터를설정한다" arg1="4043" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower03_Of_Tree04 --> 	
+		<action name="액터를설정한다" arg1="4044" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower03_Of_Tree04 --> 			
+        </onEnter>
+		<condition name="오브젝트가반응했으면" arg1="12000092" arg2="0">
+			<transition state="InteractWithNpc_End"/>
+		</condition>					
+        <onExit>
+        </onExit>
+    </state>	
+
+    <state name="InteractWithNpc_End" >
+        <onEnter>
+		<action name="오브젝트반응설정한다" arg1="12000092" arg2="0"/> <!-- CheckPosition_Tree05 -->	
+		<action name="이펙트를설정한다" arg1="4201" arg2="1"/> <!-- Right Sound Effect --> 			
+		<action name="액터를설정한다" arg1="4051" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower01_Of_Tree05 --> 
+		<action name="액터를설정한다" arg1="4052" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower02_Of_Tree05 --> 
+		<action name="액터를설정한다" arg1="4053" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower03_Of_Tree05 --> 	
+		<action name="액터를설정한다" arg1="4054" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower04_Of_Tree05 --> 	
+		<action name="액터를설정한다" arg1="4055" arg2="1" arg3="tr_functobj_light_B01_on" /> <!-- Flower05_Of_Tree05 --> 	
+        </onEnter>
+		<condition name="WaitTick" waitTick="1000">
+			<transition state="InteractWithNpc_Success"/>
+		</condition>		
+        <onExit>
+        </onExit>
+    </state>	
+
+	
+<!-- 퍼즐 성공 후 종료 -->  	
+    <state name="InteractWithNpc_Success" >
+        <onEnter>	
+		<action name="이펙트를설정한다" arg1="4200" arg2="1"/> <!-- Success Sound Effect --> 	
+		<action name="오브젝트반응설정한다" arg1="12000070" arg2="1" />	<!-- RareBox / 기믹 종료 오브젝트 / Additional Effect 71001151 걸어서 71001051 제거 -->					
+        </onEnter>
+		<condition name="오브젝트가반응했으면" arg1="12000070" arg2="0">
+			<transition state="InteractWithNpc_SuccessDelay"/>	 
+		</condition>		
+        <onExit>
+        </onExit>
+    </state>	
+
+    <state name="InteractWithNpc_SuccessDelay" >
+        <onEnter>		
+        </onEnter>
+		<condition name="WaitTick" waitTick="5000">
+			<transition state="InteractWithNpc_Quit"/>
+		</condition>	
+		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
+			<transition state="ResetTimer"/>
+		</condition>			
+        <onExit>	
+        </onExit>
+    </state>	
+	
+    <state name="InteractWithNpc_Quit" >
+        <onEnter>
+		<action name="타이머를초기화한다" arg1="1"/> 			
+        </onEnter>
+		<condition name="WaitTick" waitTick="1000">
+			<transition state="Wait"/>
+		</condition>	
+        <onExit>	
+        </onExit>
+    </state>	
+		
+<!-- 오답 터치 --> 
+    <state name="InteractWithNpc_FailDelay" >	
+        <onEnter>	
+		<action name="이펙트를설정한다" arg1="4202" arg2="1"/> <!-- Wrong Sound Effect --> 			
+        </onEnter>	
+		<condition name="WaitTick" waitTick="1000">
+			<transition state="InteractWithNpc_Fail"/>
+		</condition>	
+        <onExit>	
+        </onExit>
+    </state>	
+ 
+    <state name="InteractWithNpc_Fail" >	
+        <onEnter>	
+		<action name="오브젝트반응설정한다" arg1="12000088" arg2="0"/> <!-- CheckPosition_Tree01 -->	
+		<action name="오브젝트반응설정한다" arg1="12000089" arg2="0"/> <!-- CheckPosition_Tree02 -->	
+		<action name="오브젝트반응설정한다" arg1="12000090" arg2="0"/> <!-- CheckPosition_Tree03 -->
+		<action name="오브젝트반응설정한다" arg1="12000091" arg2="0"/> <!-- CheckPosition_Tree04 -->	
+		<action name="오브젝트반응설정한다" arg1="12000092" arg2="0"/> <!-- CheckPosition_Tree05 -->			
+		<action name="액터를설정한다" arg1="4011" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower01_Of_Tree01 --> 
+		<action name="액터를설정한다" arg1="4021" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower01_Of_Tree02 --> 
+		<action name="액터를설정한다" arg1="4022" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower02_Of_Tree02 --> 
+		<action name="액터를설정한다" arg1="4031" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower01_Of_Tree03 --> 
+		<action name="액터를설정한다" arg1="4032" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower02_Of_Tree03 --> 
+		<action name="액터를설정한다" arg1="4033" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower03_Of_Tree03 --> 
+		<action name="액터를설정한다" arg1="4041" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower01_Of_Tree04 --> 
+		<action name="액터를설정한다" arg1="4042" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower02_Of_Tree04 --> 
+		<action name="액터를설정한다" arg1="4043" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower03_Of_Tree04 --> 	
+		<action name="액터를설정한다" arg1="4044" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower03_Of_Tree04 --> 	
+		<action name="액터를설정한다" arg1="4051" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower01_Of_Tree05 --> 
+		<action name="액터를설정한다" arg1="4052" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower02_Of_Tree05 --> 
+		<action name="액터를설정한다" arg1="4053" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower03_Of_Tree05 --> 	
+		<action name="액터를설정한다" arg1="4054" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower04_Of_Tree05 --> 	
+		<action name="액터를설정한다" arg1="4055" arg2="0" arg3="tr_functobj_light_B01_off" /> <!-- Flower05_Of_Tree05 --> 			
+        </onEnter>	
+		<condition name="WaitTick" waitTick="2000">
+			<transition state="InteractWithNpc_Play01"/>
+		</condition>			
+		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
+			<transition state="ResetTimer"/>
+		</condition>	
+        <onExit>	
+        </onExit>
+    </state>	
+	
+    <state name="ResetTimer" >
+        <onEnter>
+		<action name="타이머를초기화한다" arg1="1"/> 			
+        </onEnter>
+		<condition name="WaitTick" waitTick="1000">
+			<transition state="Wait"/>
+		</condition>	
+        <onExit>	
+        </onExit>
+    </state>	
+	
+<!-- 제한 시간 종료 --> 	
+	
+</ms2>

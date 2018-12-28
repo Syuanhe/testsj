@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<ms2>
+
+    <state name="사망조건" >
+		<onEnter>		
+		</onEnter>	
+                <condition name="UserValue" key="End" value="1">
+					<transition state="몬스터사망"/>	
+				</condition>				
+				
+    </state>	
+<!--
+    <state name="몬스터사망" >
+		<onEnter>		
+		</onEnter>	
+				<condition name="몬스터가죽어있으면" arg1="1001,1002,1003,1004,1005,1006"  >	
+					<transition state="종료"/>	
+				</condition>				
+				
+    </state>		
+-->	
+    <state name="종료" >
+		<onEnter>		
+            <action name="SetUserValue" triggerID="102" key="Timmer" value="2" />					
+			<action name="SetUserValue" triggerID="101" key="Potion" value="2" />					
+			<action name="SetUserValue" triggerID="103" key="Main" value="2" />		
+			<action name="SetUserValue" triggerID="105" key="Summon_monster" value="2" />				
+		</onEnter>	
+                <condition name="UserValue" key="End" value="2">
+					<transition state="사망조건"/>	
+				</condition>				
+				
+    </state>	
+  
+</ms2>
