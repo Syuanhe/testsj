@@ -3,7 +3,7 @@
 <ms2>
 	<achieves id="23300067" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,collect" feature="Season1" locale="NA">
 		<grade value="1">
-			<condition type="hero_achieve_byuser" code="23300028,23300030" value="2" target="1" />
+			<condition type="revise_achieve_multi_grade" code="23300028,23300030" value="2" target="1" />
 			<reward type="shop_ride" code="50600023" value="0" rank="1" />
 		</grade>
 	</achieves>

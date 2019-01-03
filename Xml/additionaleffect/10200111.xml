@@ -36,6 +36,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="1" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -103,6 +108,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="2" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -170,6 +180,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="3" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -237,6 +252,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="4" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -304,6 +324,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="5" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -371,6 +396,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="6" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -438,6 +468,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="7" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -505,6 +540,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="8" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -572,6 +612,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="9" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -639,6 +684,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="10" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -706,6 +756,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="11" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -773,6 +828,11 @@
 			<requireSkillCodes code="10200255" />
 			<requireSkillCodes code="10200256" />
 			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="12" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -819,6 +879,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="1" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -865,6 +951,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="2" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -911,6 +1023,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="3" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -957,6 +1095,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="4" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1003,6 +1167,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="5" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1049,6 +1239,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="6" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1095,6 +1311,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="7" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1141,6 +1383,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="8" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1187,6 +1455,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="9" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1233,6 +1527,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="10" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1279,6 +1599,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="11" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1325,6 +1671,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="12" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1371,6 +1743,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="1" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1417,6 +1815,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="2" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1463,6 +1887,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="3" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1509,6 +1959,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="4" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1555,6 +2031,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="5" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1601,6 +2103,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="6" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1647,6 +2175,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="7" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1693,6 +2247,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="8" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1739,6 +2319,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="9" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1785,6 +2391,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="10" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1831,6 +2463,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="11" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -1877,6 +2535,32 @@
 			<requireSkillCodes code="10200051" />
 			<requireSkillCodes code="10200071" />
 			<requireSkillCodes code="10200091" />
+			<requireSkillCodes code="10200171" />
+			<requireSkillCodes code="10200172" />
+			<requireSkillCodes code="10200181" />
+			<requireSkillCodes code="10200182" />
+			<requireSkillCodes code="10200201" />
+			<requireSkillCodes code="10200202" />
+			<requireSkillCodes code="10200203" />
+			<requireSkillCodes code="10200204" />
+			<requireSkillCodes code="10200205" />
+			<requireSkillCodes code="10200206" />
+			<requireSkillCodes code="10200231" />
+			<requireSkillCodes code="10200232" />
+			<requireSkillCodes code="10200233" />
+			<requireSkillCodes code="10200234" />
+			<requireSkillCodes code="10200235" />
+			<requireSkillCodes code="10200251" />
+			<requireSkillCodes code="10200252" />
+			<requireSkillCodes code="10200253" />
+			<requireSkillCodes code="10200255" />
+			<requireSkillCodes code="10200256" />
+			<requireSkillCodes code="10200257" />
+			<requireSkillCodes code="10200271" />
+			<requireSkillCodes code="10200281" />
+			<requireSkillCodes code="10200282" />
+			<requireSkillCodes code="10200283" />
+			<requireSkillCodes code="10200291" />
 			<stat />
 		</beginCondition>
 		<BasicProperty level="12" accountEffect="0" group="0" buffType="2" buffSubType="4" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />

@@ -2,7 +2,7 @@
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2 feature="">
 	<basic feature="JobChange_02">
-		<ui icon="./Data/Resource/Image/skill/icon/11000213.png" movie="" exceptUI="1" attackType="0" />
+		<ui icon="./Data/Resource/Image/skill/icon/11000313.png" movie="" exceptUI="1" attackType="0" />
 		<kinds type="0" subType="2" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="1" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="0" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="0" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="11000211" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>

@@ -20,7 +20,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0.65" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat hp="1" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="10500293,10500251" changeSkillCheckEffectLevel="0,1" changeSkillCheckEffectOverlapCount="0,0" changeSkillID="10500153,10500152" changeSkillLevel="1,1" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="10500293,10500296,10500251" changeSkillCheckEffectLevel="0,0,1" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="10500153,10500153,10500152" changeSkillLevel="1,1,1" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">

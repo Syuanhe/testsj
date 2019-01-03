@@ -4,6 +4,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="1" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -40,6 +41,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="2" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -76,6 +78,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="3" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -112,6 +115,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="4" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -148,6 +152,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="5" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -184,6 +189,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="6" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -220,6 +226,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="7" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -256,6 +263,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="8" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -292,6 +300,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="9" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -328,6 +337,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="10" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -364,6 +374,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="11" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
@@ -400,6 +411,7 @@
 	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="10700301" eventSkillID="" eventEffectID="" />
 			<target hasBuffID="10700231" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 		</beginCondition>
 		<BasicProperty level="12" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />

@@ -55,6 +55,17 @@
 	<key id="21100054" name="한계를 넘어서" locale="NA" />
 	<key id="21100055" name="진취적인 모험가" locale="NA" />
 	<key id="21100056" name="잠재된 힘의 개방" feature="KarkarIsland" locale="NA" />
+	<key id="21100065" name="마스터 세인츠 나이트!" feature="JobChange_02" />
+	<key id="21100066" name="마스터 블러디 버서커!" feature="JobChange_02" />
+	<key id="21100067" name="마스터 매지컬 위자드!" feature="JobChange_02" />
+	<key id="21100068" name="마스터 하이 프리스트!" feature="JobChange_02" />
+	<key id="21100069" name="마스터 샤프 레인저!" feature="JobChange_02" />
+	<key id="21100070" name="마스터 하이퍼 헤비거너!" feature="JobChange_02" />
+	<key id="21100071" name="마스터 팬텀 시프!" feature="JobChange_02" />
+	<key id="21100072" name="마스터 쉐도우 어쌔신!" feature="JobChange_02" />
+	<key id="21100073" name="마스터 아케인 룬 블레이더!" feature="JobChange_02" />
+	<key id="21100074" name="마스터 얼티밋 스트라이커!" feature="JobChange_02" />
+	<key id="21100075" name="마스터 미스틱 소울바인더!" feature="JobChange_02" />
 	<key id="21210001" name="킬러의 본능" />
 	<key id="21210002" name="채식주의자" />
 	<key id="21210003" name="어머 짐승!" />
@@ -924,6 +935,7 @@
 	<key id="22210014" name="숲의 평화를 지키는 자" feature="Season1" />
 	<key id="22210016" name="아휴 덥다 더워!" feature="Season1" />
 	<key id="22210017" name="(계정) 이제 아무 문제 없어!" feature="ContentsGuide01" />
+	<key id="22210018" name="FGT 기념!" feature="JobChangeFGT" />
 	<key id="22210029" name="(계정) 탈환! 블랙노프호" feature="KarkarIsland" locale="NA" />
 	<key id="22210030" name="쇼핑의 달인" feature="KarkarIsland" locale="NA" />
 	<key id="22210031" name="사막에 사는 물고기" feature="KarkarIsland" locale="NA" />

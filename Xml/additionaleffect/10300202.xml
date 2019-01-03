@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -25,7 +25,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.360000" />
@@ -41,7 +41,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -65,7 +65,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.400000" />
@@ -81,7 +81,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -105,7 +105,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.440000" />
@@ -121,7 +121,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -145,7 +145,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.480000" />
@@ -161,7 +161,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -185,7 +185,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.520000" />
@@ -201,7 +201,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -225,7 +225,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.560000" />
@@ -241,7 +241,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -265,7 +265,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.600000" />
@@ -281,7 +281,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -305,7 +305,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.640000" />
@@ -321,7 +321,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -345,7 +345,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.680000" />
@@ -361,7 +361,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -385,7 +385,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.720000" />
@@ -401,7 +401,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -425,7 +425,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.760000" />
@@ -441,7 +441,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_02">
+	<level feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -465,7 +465,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/41000003.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<InvokeEffectProperty skillID="10300204" effectID="0" types="2" values="0.000000" rates="0.800000" />
@@ -481,7 +481,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -521,7 +521,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -561,7 +561,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -601,7 +601,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -641,7 +641,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -681,7 +681,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -721,7 +721,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -761,7 +761,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -801,7 +801,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -841,7 +841,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -881,7 +881,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
@@ -921,7 +921,7 @@
 			</beginCondition>
 		</splashSkill>
 	</level>
-	<level feature="JobChange_01">
+	<level feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>

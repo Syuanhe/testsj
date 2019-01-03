@@ -55,6 +55,17 @@
 	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21100065" desc="세인츠 나이트 마스터 스킬 {0}회 사용하기" complete="세인츠 나이트 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100066" desc="블러디 버서커 마스터 스킬 {0}회 사용하기" complete="블러디 버서커 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100067" desc="매지컬 위자드 마스터 스킬 {0}회 사용하기" complete="매지컬 위자드 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100068" desc="하이 프리스트 마스터 스킬 {0}회 사용하기" complete="하이 프리스트 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100069" desc="샤프 레인저 마스터 스킬 {0}회 사용하기" complete="샤프 레인저 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100070" desc="하이퍼 헤비거너 마스터 스킬 {0}회 사용하기" complete="하이퍼 헤비거너 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100071" desc="팬텀 시프 마스터 스킬 {0}회 사용하기" complete="팬텀 시프 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100072" desc="쉐도우 어쌔신 마스터 스킬 {0}회 사용하기" complete="쉐도우 어쌔신 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100073" desc="아케인 룬 블레이더 마스터 스킬 {0}회 사용하기" complete="아케인 룬 블레이더 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100074" desc="얼티밋 스트라이커 마스터 스킬 {0}회 사용하기" complete="얼티밋 스트라이커 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100075" desc="미스틱 소울바인더 마스터 스킬 {0}회 사용하기" complete="미스틱 소울바인더 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
 	<achieve id="21210001" desc="몬스터 {0}마리 처치하기!" complete="지금까지 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21210002" desc="식물 몬스터 {0}마리 처치하기!" complete="지금까지 식물 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21210003" desc="야수 몬스터 {0}마리 처치하기!" complete="지금까지 야수 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
@@ -888,6 +899,7 @@
 	<achieve id="22210014" desc='모험[일반] : &quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot; 중 1개 {0}회 완료하기' complete='모험[일반] : &quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot; 중 1개 {0}회 완료' manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22210016" desc="용암에서 누적 1분 버티기" complete="용암에서 누적 1분 버팀" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22210017" desc="집에서 배우는 메이플 가이드 모두 완료하기" complete="집에서 배우는 메이플 가이드를 모두 완료했다!" manualDesc="" manualComplete="" feature="ContentsGuide01" />
+	<achieve id="22210018" desc="FGT를 기념합니다." complete="FGT를 기념합니다." manualDesc="" manualComplete="" feature="JobChangeFGT" />
 	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
 		<reward grade="1" uiDesc="쇼핑몰 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="쇼핑몰 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />

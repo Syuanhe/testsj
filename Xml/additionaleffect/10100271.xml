@@ -12,7 +12,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -28,12 +28,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="1" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -46,7 +40,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -62,12 +56,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="2" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -80,7 +68,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -96,12 +84,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="3" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -114,7 +96,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -130,12 +112,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="4" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -148,7 +124,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -164,12 +140,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="5" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -182,7 +152,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -198,12 +168,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="6" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -216,7 +180,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -232,12 +196,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="7" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -250,7 +208,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -266,12 +224,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="8" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -284,7 +236,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -300,12 +252,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="9" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -318,7 +264,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -334,12 +280,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="10" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -352,7 +292,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -368,12 +308,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="11" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -386,7 +320,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat atpvalue="10" />
+			<Stat />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -402,11 +336,5 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="12" skillID="10100272" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="10100261" eventEffectID="" />
-			</beginCondition>
-		</conditionSkill>
 	</level>
 </ms2>

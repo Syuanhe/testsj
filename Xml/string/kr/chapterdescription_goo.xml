@@ -109,4 +109,5 @@
 	<chapter id="3106" name="존경의 표시" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
 	<chapter id="3107" name="눈치빠른 녀석" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
 	<chapter id="3108" name="이상한 사람" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+	<chapter id="3109" name="마스터 스킬" isTutorial="" regionID="" feature="JobChange_02" />
 </ms2>

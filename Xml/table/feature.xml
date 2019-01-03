@@ -415,7 +415,7 @@
 	<feature name="FreeSkin2tab" KR="38" JP="99" CN="99" NA="99" />
 	<feature name="NextEpicQuestGuide" KR="99" JP="30" CN="99" NA="30" />
 	<feature name="CharacterBalance_04" KR="39" JP="100" CN="100" NA="100" />
-	<feature name="JobChangeFGT" KR="100" JP="100" CN="100" NA="100" />
+	<feature name="JobChangeFGT" KR="43" JP="100" CN="100" NA="100" />
 	<feature name="KREquipmentBalance_01" KR="1" JP="100" CN="100" NA="100" />
 	<feature name="RedCrystal" KR="39" JP="99" CN="40" NA="99" />
 	<feature name="GamePadLStickMoveSensitivity" KR="40" JP="30" CN="41" NA="30" />
@@ -427,7 +427,7 @@
 	<feature name="MushkingLand" KR="99" JP="30" CN="99" NA="99" />
 	<feature name="FoundersPackMode" KR="100" JP="100" CN="100" NA="31" />
 	<feature name="PremiumShop" KR="1" JP="99" CN="1" NA="1" />
-	<feature name="JobChange_02" KR="99" JP="99" CN="99" NA="99" />
+	<feature name="JobChange_02" KR="43" JP="99" CN="99" NA="99" />
 	<feature name="JewelBox_01" KR="40" JP="30" CN="42" NA="31" />
 	<feature name="GemStoneJewelBox_01" KR="40" JP="30" CN="42" NA="31" />
 	<feature name="LumiStoneJewelBox_01" KR="40" JP="99" CN="42" NA="99" />

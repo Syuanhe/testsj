@@ -29,15 +29,16 @@
 	<Season seasonID="27" seasonName="# season 27" eventStart="2018-05-03-07-00-00" eventEnd="2018-05-31-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
 	<Season seasonID="28" seasonName="# season 28" eventStart="2018-05-31-07-00-00" eventEnd="2018-06-28-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
 	<Season seasonID="29" seasonName="# season 29" eventStart="2018-06-28-07-00-00" eventEnd="2018-07-05-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="30" seasonName="# season 30" eventStart="2018-07-05-07-00-00" eventEnd="2100-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="31" seasonName="# season 31" eventStart="2100-01-01-07-00-00" eventEnd="2110-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="32" seasonName="# season 32" eventStart="2110-01-01-07-00-00" eventEnd="2120-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="33" seasonName="# season 33" eventStart="2120-01-01-07-00-00" eventEnd="2130-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="34" seasonName="# season 34" eventStart="2130-01-01-07-00-00" eventEnd="2140-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="35" seasonName="# season 35" eventStart="2140-01-01-07-00-00" eventEnd="2150-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="36" seasonName="# season 36" eventStart="2150-01-01-07-00-00" eventEnd="2160-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="37" seasonName="# season 37" eventStart="2160-01-01-07-00-00" eventEnd="2170-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="38" seasonName="# season 38" eventStart="2170-01-01-07-00-00" eventEnd="2180-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="39" seasonName="# season 39" eventStart="2180-01-01-07-00-00" eventEnd="2190-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
-	<Season seasonID="40" seasonName="# season 40" eventStart="2190-01-01-07-00-00" eventEnd="2200-01-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="30" seasonName="# season 30" eventStart="2019-01-17-07-00-00" eventEnd="2019-02-14-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="31" seasonName="# season 31" eventStart="2019-02-14-07-00-00" eventEnd="2019-03-14-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="32" seasonName="# season 32" eventStart="2019-03-14-07-00-00" eventEnd="2019-04-11-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="33" seasonName="# season 33" eventStart="2019-04-11-07-00-00" eventEnd="2019-05-09-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="34" seasonName="# season 34" eventStart="2019-05-09-07-00-00" eventEnd="2019-06-06-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="35" seasonName="# season 35" eventStart="2019-06-06-07-00-00" eventEnd="2019-07-04-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="36" seasonName="# season 36" eventStart="2019-07-04-07-00-00" eventEnd="2019-08-01-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="37" seasonName="# season 37" eventStart="2019-08-01-07-00-00" eventEnd="2019-08-29-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="38" seasonName="# season 38" eventStart="2019-08-29-07-00-00" eventEnd="2019-09-26-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="39" seasonName="# season 39" eventStart="2019-09-26-07-00-00" eventEnd="2019-10-24-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="40" seasonName="# season 40" eventStart="2019-10-24-07-00-00" eventEnd="2019-11-21-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="41" seasonName="# season 41" eventStart="2019-11-21-07-00-00" eventEnd="2019-12-19-07-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
 </ms2>

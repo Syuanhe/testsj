@@ -3079,6 +3079,11 @@
 	<key id="11004311" name="마리엔" feature="Season1" />
 	<key id="11004317" name="메이플 룰렛" />
 	<key id="11004318" name="파스크" feature="Season1" />
+	<key id="11004337" name="작은 동굴 입구" feature="JobChange_02" />
+	<key id="11004338" name="정체불명의 빛" feature="JobChange_02" />
+	<key id="11004339" name="라펜타 에너지" feature="JobChange_02" />
+	<key id="11004340" name="라네모네" feature="JobChange_02" />
+	<key id="11004341" name="네이린" feature="JobChange_02" />
 	<key id="11004345" name="에블린" feature="Season1" />
 	<key id="11004346" name="에이든" feature="Season1" />
 	<key id="11004347" name="미아" feature="Season1" />

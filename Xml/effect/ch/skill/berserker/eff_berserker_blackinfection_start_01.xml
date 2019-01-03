@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
-     
+  <effect type="nif" filePath="CH/Skill/Berserker/Eff_Berserker_BlackInfection_Start_01.nif" startDelay="0.0" duration="2">
+    <attachInfo attachType="weaponR" applyNodeTransform="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
+  </effect>
+
 </ms2>

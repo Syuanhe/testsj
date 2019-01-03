@@ -235,4 +235,16 @@
 			<action type="uiTextTip" isNotClose="1" textId="200023923" />
 		</openAction>
 	</event>
+	<event id="40002793" saveId="40002793" desc="마스터스킬 획득 가이드" feature="JobChange_02">
+		<open>
+			<condition type="questComplete" value="40002795" />
+			<condition type="fieldId" value="02020041" />
+		</open>
+		<close>
+			<condition type="timeout" value="20000" />
+		</close>
+		<openAction>
+			<action type="uiTextTip" entityId="40002793" isNotClose="0" textId="40002793" />
+		</openAction>
+	</event>
 </ms2>

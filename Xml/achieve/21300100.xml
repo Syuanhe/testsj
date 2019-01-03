@@ -3,13 +3,13 @@
 <ms2>
 	<achieves id="21300100" account="0" icon="hero_battle.png" noticePercent="1" locking="" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03">
 		<grade value="1">
-			<condition type="hero_achieve_byuser" code="21300084,21300085,21300086,21300087,21300088,21300089" value="6" target="1" />
+			<condition type="revise_achieve_multi_grade" code="21300084,21300085,21300086,21300087,21300088,21300089" value="6" target="1" />
 			<reward type="title" code="10000534" value="0" rank="1" />
 		</grade>
 	</achieves>
 	<achieves id="21300100" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="NA">
 		<grade value="1">
-			<condition type="hero_achieve_byuser" code="21300084,21300085,21300086,21300087,21300088,21300089" value="6" target="1" />
+			<condition type="revise_achieve_multi_grade" code="21300084,21300085,21300086,21300087,21300088,21300089" value="6" target="1" />
 			<reward type="title" code="10000534" value="0" rank="1" />
 		</grade>
 	</achieves>

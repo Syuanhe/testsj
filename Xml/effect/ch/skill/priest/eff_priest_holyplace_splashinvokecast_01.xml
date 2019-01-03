@@ -4,7 +4,7 @@
     <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
     <transform translate="0.0, -215.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Priest" event="03100011">
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Priest" event="03100043">
     <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" doNotStop="true" />
   </effect>
 </ms2>

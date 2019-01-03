@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2 feature="">
-	<basic feature="JobChange_02">
-		<ui icon="./Data/Resource/Image/skill/icon/10300251.png" movie="" exceptUI="0" attackType="2" showCastingBar="1" tooltip="10300252" />
-		<kinds type="0" subType="2" rangeType="2" continue="0" spRecoverySkill="0" element="1" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
-		<stateAttr battle="1" speedRank="0" superArmor="1" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="1" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="10300251" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
-	</basic>
 	<basic feature="JobChange_01">
 		<ui icon="./Data/Resource/Image/skill/icon/10300251.png" movie="" exceptUI="0" attackType="2" showCastingBar="1" tooltip="10300252" />
 		<kinds type="0" subType="2" rangeType="2" continue="0" spRecoverySkill="0" element="1" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="1" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="1" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="10300251" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>
-	<level value="1" feature="JobChange_02">
+	<basic feature="Old_JobChange_01">
+		<ui icon="./Data/Resource/Image/skill/icon/10300251.png" movie="" exceptUI="0" attackType="2" showCastingBar="1" tooltip="10300252" />
+		<kinds type="0" subType="2" rangeType="2" continue="0" spRecoverySkill="0" element="1" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
+		<stateAttr battle="1" speedRank="0" superArmor="1" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="1" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="10300251" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
+	</basic>
+	<level value="1" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -45,7 +45,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="2" feature="JobChange_02">
+	<level value="2" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -79,7 +79,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="3" feature="JobChange_02">
+	<level value="3" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -113,7 +113,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="4" feature="JobChange_02">
+	<level value="4" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -147,7 +147,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="5" feature="JobChange_02">
+	<level value="5" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -181,7 +181,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="6" feature="JobChange_02">
+	<level value="6" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -215,7 +215,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="7" feature="JobChange_02">
+	<level value="7" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -249,7 +249,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="8" feature="JobChange_02">
+	<level value="8" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -283,7 +283,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="9" feature="JobChange_02">
+	<level value="9" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -317,7 +317,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="10" feature="JobChange_02">
+	<level value="10" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -351,7 +351,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="11" feature="JobChange_02">
+	<level value="11" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -385,7 +385,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="12" feature="JobChange_02">
+	<level value="12" feature="JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -419,7 +419,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="1" feature="JobChange_01">
+	<level value="1" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -453,7 +453,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="2" feature="JobChange_01">
+	<level value="2" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -487,7 +487,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="3" feature="JobChange_01">
+	<level value="3" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -521,7 +521,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="4" feature="JobChange_01">
+	<level value="4" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -555,7 +555,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="5" feature="JobChange_01">
+	<level value="5" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -589,7 +589,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="6" feature="JobChange_01">
+	<level value="6" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -623,7 +623,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="7" feature="JobChange_01">
+	<level value="7" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -657,7 +657,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="8" feature="JobChange_01">
+	<level value="8" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -691,7 +691,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="9" feature="JobChange_01">
+	<level value="9" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -725,7 +725,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="10" feature="JobChange_01">
+	<level value="10" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -759,7 +759,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="11" feature="JobChange_01">
+	<level value="11" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />
@@ -793,7 +793,7 @@
 			</attack>
 		</motion>
 	</level>
-	<level value="12" feature="JobChange_01">
+	<level value="12" feature="Old_JobChange_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<requireEffect code="10300260" />
 			<stat hp="1" sp="60" />

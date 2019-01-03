@@ -469,10 +469,8 @@
 	<key id="s_fittingdoll_transform_done_all" value="모든 아이템을 갈아입었습니다." />
 	<key id="s_fittingdoll_transform_done_partially" value="갈아입을 수 없는 아이템이 있어 일부 아이템만 갈아입었습니다." />
 	<key id="s_msg_chatting_welcome" value="메이플스토리2에 오신 것을 환영합니다. 오늘도 좋은 하루 되세요~" />
-	<key id="s_msg_chatting_welcome_pubtest1" value="빌드업 FGT서버에 오신 것을 환영합니다. \n빌드업 FGT 서버는 서비스가 다소 불안정할 수 있으며,\n빌드업 FGT 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
-	<key id="s_msg_chatting_welcome_pubtest2" value="빌드업 FGT서버에 오신 것을 환영합니다. \n빌드업 FGT 서버는 서비스가 다소 불안정할 수 있으며,\n빌드업 FGT 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
-	<key id="s_msg_chatting_welcome_pubtest1" value="테스트 서버에 오신 것을 환영합니다. \n테스트 서버는 서비스가 다소 불안정할 수 있으며,\n본 서버의 내용은 추후 정식 서버에 적용되는 내용과 다를 수 있습니다." locale="CN" />
-	<key id="s_msg_chatting_welcome_pubtest2" value="테스트 서버에 오신 것을 환영합니다. \n테스트 서버는 서비스가 다소 불안정할 수 있으며,\n본 서버의 내용은 추후 정식 서버에 적용되는 내용과 다를 수 있습니다." locale="CN" />
+	<key id="s_msg_chatting_welcome_pubtest1" value="마스터 스킬 테스트 서버에 오신 것을 환영합니다. \n마스터 스킬 테스트 서버는 서비스가 다소 불안정할 수 있으며,\n마스터 스킬 테스트 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
+	<key id="s_msg_chatting_welcome_pubtest2" value="마스터 스킬 테스트 서버에 오신 것을 환영합니다. \n마스터 스킬 테스트 서버는 서비스가 다소 불안정할 수 있으며,\n마스터 스킬 테스트 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
 	<key id="s_msg_chatting_changechannel" value="{0}번 채널에 접속했습니다." />
 	<key id="s_msg_chatting_consume_merat" value="{0} 메럿이 소모되었습니다." />
 	<key id="s_msg_chatting_consume_merat_blue" value="{0} 블루 메럿이 소모되었습니다." />
@@ -2830,7 +2828,7 @@
 	<key id="s_action_nurturing_eating" value="먹이 주는 중..." />
 	<key id="s_action_nurturing_playing" value="놀아 주는 중..." />
 	<key id="s_action_nurturing_gifting" value="선물 받는 중..." />
-	<key id="s_action_skill_cating_progress" value="시전 중" />
+	<key id="s_action_skill_cating_progress" value="{0}" />
 	<key id="s_action_taxi_call_progress" value="택시 부르는 중" />
 	<key id="s_action_cash_taxi_call_progress" value="헬기 부르는 중" />
 	<key id="s_action_summon_pet" value="펫 부르는 중" />
@@ -4980,7 +4978,6 @@
 	<key id="s_selectItemBox_select_notice" value="받을 아이템을 {0}개 선택해주세요" />
 	<key id="s_selectItemBox_select_itemCount" value="선택한 아이템({0}/{1})" />
 	<key id="s_selectItemBox_cant_select_more" value="더 이상 선택할 수 없습니다" />
-	<key id="s_selectItemBox_select_wrong" value="선택이 잘못 되었습니다. 다시 시도해 주세요" />
 	<key id="s_gameevent_enterfield_confirm" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;\n이벤트 맵으로 이동합니다." />
 	<key id="s_card_reverse_game_consume_fail" value=" $item:{0}$ 개수가 부족합니다." />
 	<key id="s_card_reverse_game_select_count" value="선택된 카드 {0}/{1}" />

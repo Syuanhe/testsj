@@ -813,7 +813,9 @@
 		</key>
 	</field>
 	<field fieldID="02020041">
-		<key id="11004340" enableInMask="1" />
+		<key id="11004340" enableInMask="1">
+			<mask startQuestID="40002793" startQuestState="3" endQuestID="40002795" endQuestState="2" feature="JobChange_02" />
+		</key>
 	</field>
 	<field fieldID="63000072">
 		<key id="11004345" enableInMask="1">

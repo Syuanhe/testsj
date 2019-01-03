@@ -789,6 +789,7 @@
 	<v key="NurturingPlayMailId" value="18101804" locale="NA" />
 	<v key="SkillPointLimitLevel1" value="80" />
 	<v key="SkillPointLimitLevel2" value="70" />
+	<v key="SkillPointLimitLevel2" value="80" feature="JobChange_02" />
 	<v key="SellPriceNormalMax" value="4628" />
 	<v key="SellPriceRareMax" value="5785" />
 	<v key="SellPriceEliteMax" value="7405" />

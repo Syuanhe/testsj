@@ -3,7 +3,7 @@
 <ms2>
 	<achieves id="22210029" account="1" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="KarkarIsland" locale="NA">
 		<grade value="1">
-			<condition type="hero_achieve_byuser" code="21220033,21230054" value="2" target="1" />
+			<condition type="revise_achieve_multi_grade" code="21220033,21230054" value="2" target="1" />
 			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400177,female:10400178" />
 		</grade>
 	</achieves>

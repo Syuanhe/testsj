@@ -22,10 +22,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="0.74" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.29" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -50,10 +50,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="0.84" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.44" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -78,10 +78,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="0.94" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.59" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -106,10 +106,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.04" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.74" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -134,10 +134,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.14" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.89" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -162,10 +162,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.24" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.04" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -190,10 +190,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.34" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.19" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -218,10 +218,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.44" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.34" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -246,10 +246,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.54" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.49" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -274,10 +274,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.64" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.64" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -302,10 +302,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.74" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.79" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>
@@ -330,10 +330,10 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="0" value="0" rate="1.84" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="0" value="0" rate="2.94" spValue="0" epValue="0" hand="0" element="1" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10600201_buff.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" iconOnOff="1" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 	</level>

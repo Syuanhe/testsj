@@ -3,7 +3,7 @@
 <ms2>
 	<achieves id="22100014" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,move" feature="Season1">
 		<grade value="1">
-			<condition type="hero_achieve_byuser" code="22100001,22100002,22100008,22100009,22100003" value="5" target="1" />
+			<condition type="revise_achieve_multi_grade" code="22100001,22100002,22100008,22100009,22100003" value="5" target="1" />
 			<reward type="statPoint" code="0" value="1" rank="1" />
 		</grade>
 	</achieves>

@@ -562,4 +562,15 @@
 	<key id="10000641" name="가위바위보 달인" locale="CN" />
 	<key id="10000642" name="보안 의식이 우수한" locale="KR" />
 	<key id="10000644" name="신비한 힘을 가진" />
+	<key id="10000651" name="세인츠" feature="JobChange_02" />
+	<key id="10000652" name="블러디" feature="JobChange_02" />
+	<key id="10000653" name="매지컬" feature="JobChange_02" />
+	<key id="10000654" name="하이" feature="JobChange_02" />
+	<key id="10000655" name="샤프" feature="JobChange_02" />
+	<key id="10000656" name="하이퍼" feature="JobChange_02" />
+	<key id="10000657" name="팬텀" feature="JobChange_02" />
+	<key id="10000658" name="쉐도우" feature="JobChange_02" />
+	<key id="10000659" name="아케인" feature="JobChange_02" />
+	<key id="10000660" name="얼티밋" feature="JobChange_02" />
+	<key id="10000661" name="미스틱" feature="JobChange_02" />
 </ms2>

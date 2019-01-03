@@ -4,7 +4,7 @@
     <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
-  <!--<effect type="vibrate" startDelay="0.0" duration="0.05" freq="10" amp="5"></effect>-->
+
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500170" startDelay="0.0">
     <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect>

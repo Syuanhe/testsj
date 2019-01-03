@@ -9,4 +9,5 @@
     <transform translate="0.0, -250.0, 150.0" rotation="0.0, 0.0, 0.0" scale="0.25" />
     <lerp type="bird" Step="3.0" MaxLength="100" Velocity="450" />
   </effect>  
+  
 </ms2>

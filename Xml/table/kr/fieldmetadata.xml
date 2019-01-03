@@ -10038,6 +10038,12 @@
 		<field id="50000011" />
 		<field id="50000012" />
 	</npc>
+	<npc id="11004338">
+		<field id="52000188" />
+	</npc>
+	<npc id="11004339">
+		<field id="52000188" />
+	</npc>
 	<npc id="11004345">
 		<field id="63000072" />
 	</npc>
@@ -20901,17 +20907,6 @@
 	<npc id="23290005">
 		<field id="2000037" />
 		<field id="2000419" />
-	</npc>
-	<npc id="23400071">
-		<field id="2000207" />
-	</npc>
-	<npc id="23409071">
-		<field id="2000207" />
-	</npc>
-	<npc id="23409072">
-		<field id="2000207" />
-		<field id="2000207" />
-		<field id="2000426" />
 	</npc>
 	<npc id="23501001">
 		<field id="2020101" />
@@ -41032,6 +41027,9 @@
 		<portal id="1" targetField="0" targetPortal="0" portalType="0" portalIndoor="0" />
 		<portal id="30" targetField="0" targetPortal="0" portalType="0" portalIndoor="0" />
 	</fieldPortal>
+	<fieldPortal field="52000188" indoor="1">
+		<portal id="1" targetField="0" targetPortal="0" portalType="0" portalIndoor="0" />
+	</fieldPortal>
 	<fieldPortal field="52010001" indoor="1">
 		<portal id="1" targetField="2010043" targetPortal="2" portalType="0" portalIndoor="0" />
 	</fieldPortal>
@@ -42343,9 +42341,9 @@
 	<fluid field="63000010" attr="water" />
 	<fluid field="2000289" attr="water" />
 	<fluid field="63000011" attr="water" />
+	<fluid field="63000012" attr="water" />
 	<fluid field="2000290" attr="water,default" />
 	<fluid field="3000089" attr="poison" />
-	<fluid field="63000012" attr="water" />
 	<fluid field="63000013" attr="water" />
 	<fluid field="2000291" attr="water" />
 	<fluid field="3000090" attr="poison" />
@@ -42435,6 +42433,7 @@
 	<fluid field="63000060" attr="water" />
 	<fluid field="3000137" attr="poison" />
 	<fluid field="2000338" attr="water" />
+	<fluid field="52000188" attr="water" />
 	<fluid field="66100012" attr="water" />
 	<fluid field="63000062" attr="water" />
 	<fluid field="66100013" attr="water" />

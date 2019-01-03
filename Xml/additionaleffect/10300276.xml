@@ -25,7 +25,7 @@
 		<DotDamageProperty type="0" useGrade="0" value="0" rate="0" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="0" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/10300281_buff.png" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
+		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<conditionSkill splash="0" level="1" skillID="10300277" skillTarget="1" skillOwner="3" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">

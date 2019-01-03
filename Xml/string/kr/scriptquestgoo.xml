@@ -2908,4 +2908,199 @@
 	<key id="0531171305004095" feature="LapentaFrontierQuest" npc="시프" name="…이 녀석만큼은 내가 없애." />
 	<key id="0531171305004096" feature="LapentaFrontierQuest" npc="시프" name="이건 진심이야." />
 	<key id="0531171305004097" feature="LapentaFrontierQuest" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(…아까와는 다른 분위기…)&lt;/font&gt;' />
+	<key id="1023143105004331" feature="JobChange_02" npc="네이린" name="$MyPCName$님! &#x0A;신대륙에 도착하셨다는 이야기를 듣고 급하게 연락드려요!" />
+	<key id="1023143105004332" feature="JobChange_02" npc="네이린" name='말씀 주셨던 정보에 관해 이야기 해드릴 수 있을 것 같아요.&#x0A;저는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020041$&lt;/font&gt;에 있어요.&#x0A;저를 찾아와주세요!' />
+	<key id="1023143105004333" feature="JobChange_02" npc="네이린" name="정말 놀라워요!" />
+	<key id="1023143105004334" feature="JobChange_02" npc="네이린" name="앗, 오셨군요!&#x0A;찾아오느라 수고가 많으셨네요." />
+	<key id="1023143105004335" feature="JobChange_02" npc="PC" name="다들 굉장히 바빠 보이는데…" />
+	<key id="1023143105004336" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(익숙한 얼굴들도 몇몇 있고.)&lt;/font&gt;' />
+	<key id="1023143105004337" feature="JobChange_02" npc="네이린" name="하하, 뭐.&#x0A;신대륙 착륙으로 다들 정신이 없는 거죠.&#x0A;조사할 것도 많고요." />
+	<key id="1023143105004338" feature="JobChange_02" npc="PC" name="그보다 급하게 연락하신 이유가 뭐죠?" />
+	<key id="1023143105004339" feature="JobChange_02" npc="네이린" name='아, 네!&#x0A;미리 연락드렸던 것처럼, &lt;font color=&quot;#ffd200&quot;&gt;&apos;그 정보&apos;&lt;/font&gt;에 대한 것 때문이에요.' />
+	<key id="1023143105004340" feature="JobChange_02" npc="네이린" name='메이플 월드에서 느꼈던 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;의 위치가 포착되었습니다.' />
+	<key id="1023143105004341" feature="JobChange_02" npc="PC" name="…!!!" />
+	<key id="1023143105004342" feature="JobChange_02" npc="네이린" name="레이더망을 보시면 아시겠지만 한 군데가 아니에요.&#x0A;그리고 느껴지는 에너지의 힘은… &#x0A;지금까지 경험하지 못했던 수치이고요." />
+	<key id="1023143105004343" feature="JobChange_02" npc="PC" name="이곳에 대한 조사는 어떻게 이루어지고 있는 거죠?&#x0A;뭔가 더 알아낸 게 있나요?" />
+	<key id="1023143105004344" feature="JobChange_02" npc="네이린" name="아, 조…조사요!&#x0A;그게 사실은…!" />
+	<key id="1023143105004345" feature="JobChange_02" npc="네이린" name="시작대사" />
+	<key id="1023143105004346" feature="JobChange_02" npc="네이린" name="진행대사" />
+	<key id="1023143105004347" feature="JobChange_02" npc="네이린" name="사실…" />
+	<key id="1023143105004348" feature="JobChange_02" npc="네이린" name='아까도 말씀드렸지만,&#x0A;현재 스카이 포트리스의 인력은 모두 &lt;font color=&quot;#ffd200&quot;&gt;현지 조사&lt;/font&gt;에 투입된 상황이에요.' />
+	<key id="1023143105004349" feature="JobChange_02" npc="네이린" name='&lt;font color=&quot;#ffd200&quot;&gt;새로운 생태&lt;/font&gt;와 &lt;font color=&quot;#ffd200&quot;&gt;대기 환경&lt;/font&gt; 조사… &#x0A;이것에만 공을 들여도 빠듯한 상황이라서요.&#x0A;해당 위치에 대한 조사는 아직 이루어지지 못했답니다.' />
+	<key id="1023143105004350" feature="JobChange_02" npc="네이린" name="사실 지금도 언제 투입을 할 수 있을지 알 수 없는 상태에요." />
+	<key id="1023143105004351" feature="JobChange_02" npc="PC" name="…레이더망의 위치는 정확한 건가요?" />
+	<key id="1023143105004352" feature="JobChange_02" npc="네이린" name="앗, 네!&#x0A;워낙 강한 에너지이다 보니, 좌표는 정확하게 표시되고 있어요." />
+	<key id="1023143105004353" feature="JobChange_02" npc="PC" name="그렇다면…으음." />
+	<key id="1023143105004354" feature="JobChange_02" npc="PC" name="제가 갈게요.&#x0A;위치만 정확하게 알려주세요." />
+	<key id="1023143105004355" feature="JobChange_02" npc="네이린" name="!!!!&#x0A;저, 정말 그래 주실 수 있나요?!" />
+	<key id="1023143105004356" feature="JobChange_02" npc="네이린" name='&lt;font size=&quot;20&quot;&gt;살았다…!&lt;/font&gt; &#x0A;그럼 바로 좌표를 보여드릴게요!' />
+	<key id="1023143105004357" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(방금 뭔가 작게 중얼거린 것 같은데…?)&lt;/font&gt;' />
+	<key id="1023143105004358" feature="JobChange_02" npc="네이린" name='이 중에서도 가장 &lt;font color=&quot;#ffd200&quot;&gt;강한 에너지&lt;/font&gt;가 발생하고 있는 이곳!&#x0A;이곳의 상황을 파악해주시면 될 것 같아요.' />
+	<key id="1023143105004359" feature="JobChange_02" npc="네이린" name="부디 몸조심하세요!&#x0A;방심하지 마시고요!" />
+	<key id="1023143105004360" feature="JobChange_02" npc="작은 동굴 입구" name="시작대사" />
+	<key id="1023143105004361" feature="JobChange_02" npc="작은 동굴 입구" name="진행대사" />
+	<key id="1023143105004362" feature="JobChange_02" npc="PC" name="!!!&#x0A;여긴?" />
+	<key id="1023143105004363" feature="JobChange_02" npc="PC" name="(미약하지만, 이곳에서만 뭔가 이질적인 에너지가 느껴지는 듯하다.)" />
+	<key id="1023143105004364" feature="JobChange_02" npc="PC" name='설마 이런 장소에 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;$pp:가,이$ 있는 걸까?' />
+	<key id="1023143105004365" feature="JobChange_02" npc="PC" name="$npcName:11004341[gender:0]$$pp:가,이$ 준 좌표는 분명히 이 근처가 맞고….&#x0A;신대륙이라 다른 에너지가 존재할 가능성도 있으니." />
+	<key id="1023143105004366" feature="JobChange_02" npc="PC" name="흐으음…." />
+	<key id="1023143105004367" feature="JobChange_02" npc="PC" name="일단 들어가 봐야 알 수 있겠지." />
+	<key id="1023143105004368" feature="JobChange_02" npc="PC" name="무슨 큰일이라도 생기겠어?" />
+	<key id="1023143105004369" feature="JobChange_02" npc="정체불명의 빛" name="시작대사" />
+	<key id="1023143105004370" feature="JobChange_02" npc="정체불명의 빛" name="진행대사" />
+	<key id="1023143105004371" feature="JobChange_02" npc="PC" name="이건…!" />
+	<key id="1023143105004372" feature="JobChange_02" npc="PC" name='이 빛은 대체…&#x0A;아니, 빛이라기엔 &lt;font color=&quot;#ffd200&quot;&gt;힘&lt;/font&gt;에 가까워.&#x0A;왠지 익숙한 느낌도 드는 것 같고.' />
+	<key id="1023143105004373" feature="JobChange_02" npc="PC" name="그리고 이 장소.&#x0A;오랫동안 아무도 찾지 않은 듯하고…&#x0A;사람의 흔적이 아무 데도 없는 걸 보니." />
+	<key id="1023143105004374" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;미지의 장소&lt;/font&gt;, 처음 보지만 &lt;font color=&quot;#ffd200&quot;&gt;익숙한 에너지&lt;/font&gt;.' />
+	<key id="1023143105004375" feature="JobChange_02" npc="PC" name="…바로 이곳이로군.&#x0A;$npcName:11004341[gender:0]$$pp:가,이$ 말해주었던 장소가 말이야." />
+	<key id="1023143105004376" feature="JobChange_02" npc="PC" name='그리고 이게 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;란 말이지?' />
+	<key id="1023143105004377" feature="JobChange_02" npc="라펜타 에너지" name="시작대사" />
+	<key id="1023143105004378" feature="JobChange_02" npc="라펜타 에너지" name="진행대사" />
+	<key id="1023143105004379" feature="JobChange_02" npc="PC" name="그럼, 조사를 시작해볼까?&#x0A;$npcName:11004341[gender:0]$$pp:가,이$ 알려준대로 $npcName:11004339$$pp:를,을$…" />
+	<key id="1023143105004380" feature="JobChange_02" npc="PC" name="…." />
+	<key id="1023143105004381" feature="JobChange_02" npc="PC" name="………." />
+	<key id="1023143105004382" feature="JobChange_02" npc="PC" name='&lt;font size=&quot;45&quot;&gt;음?!&lt;/font&gt;&#x0A;바, 방금 잠시 사고가 정지하는 느낌이…들었는데?' />
+	<key id="1023143105004383" feature="JobChange_02" npc="PC" name="$npcName:11004339$$pp:를,을$ 계속 바라보고 있으니&#x0A;무언가에 이끌리는 듯한… 그런…" />
+	<key id="1023143105004384" feature="JobChange_02" npc="PC" name="(신비롭게 일렁이는 에너지를 멍하니 쳐다본다.)" />
+	<key id="1023143105004385" feature="JobChange_02" npc="PC" name="어차피 조사를 진행해야 하고…&#x0A;조금 만져보는 정도는 괜찮지 않을까?" />
+	<key id="1023143105004386" feature="JobChange_02" npc="PC" name="…" />
+	<key id="1023143105004387" feature="JobChange_02" npc="PC" name='?! &#x0A;&lt;font size=&quot;45&quot;&gt;으앗?!&lt;/font&gt;' />
+	<key id="1023143105004388" feature="JobChange_02" npc="PC" name="이건…!!!" />
+	<key id="1023143105004389" feature="JobChange_02" npc="라펜타 에너지" name="시작대사" />
+	<key id="1023143105004390" feature="JobChange_02" npc="라펜타 에너지" name="진행대사" />
+	<key id="1023143105004391" feature="JobChange_02" npc="PC" name="바…방금…&#x0A;무슨 일이 일어난 거지?" />
+	<key id="1023143105004392" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;에 손을 뻗었고, 그리고…' />
+	<key id="1023143105004393" feature="JobChange_02" npc="PC" name="잘 기억이 나진 않지만, 검에서 무언가의 힘이 느껴져." />
+	<key id="1023143105004394" feature="JobChange_02" npc="PC" name="그것도 매우 강력한…&#x0A;스승님께 수련을 받았던 그때보다 더." />
+	<key id="1023143105004395" feature="JobChange_02" npc="PC" name="혹시 이곳에 있는 $npcName:11004339$$pp:와,과$ 뭔가 연관이 있는 걸까?" />
+	<key id="1023143105004396" feature="JobChange_02" npc="PC" name="…내게 무슨 일이 벌어진 것은 분명한데." />
+	<key id="1023143105004397" feature="JobChange_02" npc="PC" name="흐음…." />
+	<key id="1023143105004398" feature="JobChange_02" npc="PC" name="일단, 여기서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하는게 먼저인가…" />
+	<key id="1023143105004399" feature="JobChange_02" npc="PC" name="$npcName:11004341[gender:0]$에게 돌아가자." />
+	<key id="1023143105004400" feature="JobChange_02" npc="PC" name="허억…헉…!" />
+	<key id="1023143105004401" feature="JobChange_02" npc="PC" name="방금 그건…으윽…." />
+	<key id="1023143105004402" feature="JobChange_02" npc="PC" name='몸속에서 뜨거운 힘이 느껴져…&#x0A;이건 마치, &lt;font color=&quot;#ffd200&quot;&gt;분노의 힘&lt;/font&gt;을 처음 느꼈을 때와 비슷한…!' />
+	<key id="1023143105004403" feature="JobChange_02" npc="PC" name="분노의 힘이라면,&#x0A;그때 $npcName:11003921[gender:0]$$pp:와,과$의 수련으로 완벽하게 제어할 수 있게 된 것 아니었나?!" />
+	<key id="1023143105004404" feature="JobChange_02" npc="PC" name="지금은 제어가 안 된다기 보다,&#x0A;마치 나와 한 몸이 된 것 같은 느낌인데…." />
+	<key id="1023143105004405" feature="JobChange_02" npc="PC" name="도대체 무슨 일이 벌어진 거야…!!!" />
+	<key id="1023143105004406" feature="JobChange_02" npc="PC" name="…후우…&#x0A;일단 정신 차리고…" />
+	<key id="1023143105004407" feature="JobChange_02" npc="PC" name="쳇, 일단 이곳에서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하는 게 먼저인가." />
+	<key id="1023143105004408" feature="JobChange_02" npc="PC" name="$npcName:11004341[gender:0]$에게 돌아가보자." />
+	<key id="1023143105004409" feature="JobChange_02" npc="PC" name="으음?!?!?!" />
+	<key id="1023143105004410" feature="JobChange_02" npc="PC" name="뭐지? 뭐야?! 무슨 일이 일어난 거야?!!" />
+	<key id="1023143105004411" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;$pp:를,을$ 계속해서 바라보다가,&#x0A;뭔가에 이끌린 듯 손을 뻗었고…그리고…?' />
+	<key id="1023143105004412" feature="JobChange_02" npc="PC" name="으음…기억이 잘 안 나는데, 뭔가…" />
+	<key id="1023143105004413" feature="JobChange_02" npc="PC" name='몸에 &lt;font color=&quot;#ffd200&quot;&gt;엄청난 양의 마나&lt;/font&gt;가 흐르는 게 느껴져.&#x0A;아니, 이건 확실해!' />
+	<key id="1023143105004414" feature="JobChange_02" npc="PC" name="하지만, 이전에 멋모르고 라펜샤드를 먹었을 때와는 다른 기분이 드는데…&#x0A;이건 마치…$npcName:11004339$. 그 자체?" />
+	<key id="1023143105004415" feature="JobChange_02" npc="PC" name="도대체 무슨 일이 일어난 거야~!!!&#x0A;케이트가 알게 되면 또 난리를 칠 텐데." />
+	<key id="1023143105004416" feature="JobChange_02" npc="PC" name="…하아." />
+	<key id="1023143105004417" feature="JobChange_02" npc="PC" name="일단, $npcName:11004341[gender:0]$에게 가서 지금까지 있었던 일을 말해주는 게 먼저려나?&#x0A;그리고 나서 케이트에게…" />
+	<key id="1023143105004418" feature="JobChange_02" npc="PC" name="으으.&#x0A;일단 돌아가자, 돌아가!" />
+	<key id="1023143105004419" feature="JobChange_02" npc="PC" name="…으…머리야…" />
+	<key id="1023143105004420" feature="JobChange_02" npc="PC" name="…이게 무슨일이지?" />
+	<key id="1023143105004421" feature="JobChange_02" npc="PC" name="$npcName:11004339$에 무의식적으로 손을 뻗은 후부터,&#x0A;잘 기억이 나지 않는데…" />
+	<key id="1023143105004422" feature="JobChange_02" npc="PC" name="몸에서 느껴지는 빛의 힘이 평소와는 다른 것 같아.&#x0A;함께 느껴지는 힘이 마치…" />
+	<key id="1023143105004423" feature="JobChange_02" npc="PC" name='이 곳의 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;$pp:와,과$ 같은, 그런 기분이 드는데.&#x0A;내 몸에 뭔가 변화라도 생긴 걸까…?' />
+	<key id="1023143105004424" feature="JobChange_02" npc="PC" name="…흐으음." />
+	<key id="1023143105004425" feature="JobChange_02" npc="PC" name="일단, 여기서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하는 게 먼저일까?" />
+	<key id="1023143105004426" feature="JobChange_02" npc="PC" name="$map:02020041$로 돌아가자." />
+	<key id="1023143105004427" feature="JobChange_02" npc="PC" name="무슨 일이…일어난 거지?" />
+	<key id="1023143105004428" feature="JobChange_02" npc="PC" name='활과 화살에서 평소와는 &lt;font color=&quot;#ffd200&quot;&gt;다른 힘&lt;/font&gt;이 느껴져.' />
+	<key id="1023143105004429" feature="JobChange_02" npc="PC" name="…아니.&#x0A;다른 기운이 느껴지는 건, 내 몸인가?" />
+	<key id="1023143105004430" feature="JobChange_02" npc="PC" name="활시위를 잡은 손에서&#x0A;무언가의 에너지가 흘러나오는 것 같기도 하고…." />
+	<key id="1023143105004431" feature="JobChange_02" npc="PC" name='$npcName:11003932[gender:0]$에게 받았던 &lt;font color=&quot;#ffd200&quot;&gt;라펜샤드의 힘&lt;/font&gt;보다&#x0A;어쩌면 더 강한.' />
+	<key id="1023143105004432" feature="JobChange_02" npc="PC" name="혹시… &#x0A;이곳의 $npcName:11004339$$pp:와,과$ 뭔가 관련이 있는 건가?" />
+	<key id="1023143105004433" feature="JobChange_02" npc="PC" name="흐음…" />
+	<key id="1023143105004434" feature="JobChange_02" npc="PC" name="기분 탓일지도 모르니까.&#x0A;일단 여기서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하는 게 좋겠어." />
+	<key id="1023143105004435" feature="JobChange_02" npc="PC" name="$npcName:11004341[gender:0]$에게 돌아가자." />
+	<key id="1023143105004436" feature="JobChange_02" npc="PC" name="…" />
+	<key id="1023143105004437" feature="JobChange_02" npc="PC" name="이건…" />
+	<key id="1023143105004438" feature="JobChange_02" npc="PC" name="평소에는 생각조차 하지 못했던 수식과 계산된 수치들이&#x0A;머릿속에 마구 떠오르고 있어." />
+	<key id="1023143105004439" feature="JobChange_02" npc="PC" name="몸은 텅 빈 것 같은 데,&#x0A;머릿속은 한계 이상으로 차오르고 있는 듯한 기분이야." />
+	<key id="1023143105004440" feature="JobChange_02" npc="PC" name="마치 퓨전 코어 그 이상… 아니.&#x0A;새로운 것의 개발도 가능할 것 같은 느낌이 들어." />
+	<key id="1023143105004441" feature="JobChange_02" npc="PC" name="이 기분은…뭔가 나쁘지 않은걸?" />
+	<key id="1023143105004442" feature="JobChange_02" npc="PC" name="……." />
+	<key id="1023143105004443" feature="JobChange_02" npc="PC" name="윽, 이대로 정신줄을 놓고 있을 때가 아니지." />
+	<key id="1023143105004444" feature="JobChange_02" npc="PC" name="일단, 여기서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하는게 우선이지!" />
+	<key id="1023143105004445" feature="JobChange_02" npc="PC" name="새롭게 떠오른 아이디어는 그 이후에 정리해도 늦지 않아!" />
+	<key id="1023143105004446" feature="JobChange_02" npc="PC" name="허억…헉…방금 그건…!" />
+	<key id="1023143105004447" feature="JobChange_02" npc="PC" name="뭔가, 가슴 안쪽에서 뜨거운 힘이 느껴져." />
+	<key id="1023143105004448" feature="JobChange_02" npc="PC" name="…왜 지금 그 녀석의 얼굴이 떠오르는거지?" />
+	<key id="1023143105004449" feature="JobChange_02" npc="PC" name="$npcName:11003759[gender:0]$…그 자식의 얼굴이 왜 지금 떠오르냔 말이야!" />
+	<key id="1023143105004450" feature="JobChange_02" npc="PC" name='녀석을 향한 미칠듯한 &lt;font color=&quot;#ffd200&quot;&gt;복수심&lt;/font&gt;이, 점점 더 생생해지는 듯한…' />
+	<key id="1023143105004451" feature="JobChange_02" npc="PC" name="왜…왜이러는 거지?" />
+	<key id="1023143105004452" feature="JobChange_02" npc="PC" name="…." />
+	<key id="1023143105004453" feature="JobChange_02" npc="PC" name="크윽, 정신차려야해." />
+	<key id="1023143105004454" feature="JobChange_02" npc="PC" name="일단, 여기서 있었던 일을 $npcName:11004341[gender:0]$에게 보고하자." />
+	<key id="1023143105004455" feature="JobChange_02" npc="PC" name="$map:02020041$로 돌아가는 거야." />
+	<key id="1023143105004456" feature="JobChange_02" npc="PC" name="크윽…머리가…" />
+	<key id="1023143105004457" feature="JobChange_02" npc="PC" name='방금 그건 뭐지?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;과거의 기억&lt;/font&gt;이 다시 상기되는 듯한…!' />
+	<key id="1023143105004458" feature="JobChange_02" npc="PC" name='그때 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004235[gender:0]$&lt;/font&gt;$pp:가,이$ 건네줬던 &lt;font color=&quot;#ffd200&quot;&gt;라펜샤드&lt;/font&gt;의 기운보다&#x0A;훨씬 강력함 힘이 느껴져.' />
+	<key id="1023143105004459" feature="JobChange_02" npc="PC" name="그것도 그 힘이, 내 몸 안쪽에서 뿜어져 나오는 것 같은…&#x0A;이 느낌은 뭐지?" />
+	<key id="1023143105004460" feature="JobChange_02" npc="PC" name="몸의 감각이 하나하나, 머리카락 한 올까지 모두 곤두서는 기분이야." />
+	<key id="1023143105004461" feature="JobChange_02" npc="PC" name="후우…." />
+	<key id="1023143105004462" feature="JobChange_02" npc="PC" name="……." />
+	<key id="1023143105004463" feature="JobChange_02" npc="PC" name="큭, 정신을 놓치면 안 돼.&#x0A;일단, 여기서 있었던 일을 $npcName:11004315[gender:0]$에게 보고하는 게 우선이야." />
+	<key id="1023143105004464" feature="JobChange_02" npc="PC" name="$map:02020041$로 돌아가자." />
+	<key id="1023143105004465" feature="JobChange_02" npc="PC" name="방금, 무슨일이…" />
+	<key id="1023143105004466" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;로 보이는 것에 무심코 손을 뻗었고.&#x0A;그리고…?' />
+	<key id="1023143105004467" feature="JobChange_02" npc="PC" name='검에서 &lt;font color=&quot;#ffd200&quot;&gt;룬의 힘&lt;/font&gt;과 &lt;font color=&quot;#ffd200&quot;&gt;라펜타의 힘&lt;/font&gt;이 동시에 느껴진다.&#x0A;마치 양날에 각기 다른 힘이 깃든 듯해….' />
+	<key id="1023143105004468" feature="JobChange_02" npc="PC" name="이건…$npcName:11004339$의 영향인가?" />
+	<key id="1023143105004469" feature="JobChange_02" npc="PC" name="…." />
+	<key id="1023143105004470" feature="JobChange_02" npc="PC" name="아니, 너무 섣부른 판단일지도 모르겠군." />
+	<key id="1023143105004471" feature="JobChange_02" npc="PC" name="일단 돌아가서 지금까지의 일을 보고하는게 좋겠어." />
+	<key id="1023143105004487" feature="JobChange_02" npc="PC" name="하아…하…" />
+	<key id="1023143105004488" feature="JobChange_02" npc="PC" name="방금 그건…뭐지?" />
+	<key id="1023143105004489" feature="JobChange_02" npc="PC" name="$npcName:11004339$$pp:를,을$ 홀린듯 바라보던 중에…&#x0A;무심코 손을 뻗은 것까지는 기억나는데." />
+	<key id="1023143105004490" feature="JobChange_02" npc="PC" name='몸에서…아니.&#x0A;특히 주먹에서 &lt;font color=&quot;#ffd200&quot;&gt;뜨거운 힘&lt;/font&gt;이 느껴지는 것 같아.' />
+	<key id="1023143105004491" feature="JobChange_02" npc="PC" name="마치 이곳에서 느껴지는&#x0A;$npcName:11004339$$pp:와,과$ 비슷한 힘이…!" />
+	<key id="1023143105004492" feature="JobChange_02" npc="PC" name="뭔가 관련이 있는 건가?" />
+	<key id="1023143105004493" feature="JobChange_02" npc="PC" name="크윽…&#x0A;머릿속이 복잡해지는군.&#x0A;도대체 무슨 일이 일어난 거지?" />
+	<key id="1023143105004494" feature="JobChange_02" npc="PC" name="일단, 여기서 있었던 일을 보고하는 게 먼저인가…" />
+	<key id="1023143105004495" feature="JobChange_02" npc="PC" name="$map:02020041$로 돌아가자." />
+	<key id="1023143105004472" feature="JobChange_02" npc="PC" name="바, 방금…!" />
+	<key id="1023143105004473" feature="JobChange_02" npc="PC" name="방금 무슨 일이 일어난거지?" />
+	<key id="1023143105004474" feature="JobChange_02" npc="PC" name='뭔가, 몸속에서 몰아치는 &lt;font color=&quot;#ffd200&quot;&gt;두 개의 힘&lt;/font&gt;이 느껴져.&#x0A;하나가 &lt;font color=&quot;#ffd200&quot;&gt;무나크라의 힘&lt;/font&gt;이라면…나머지 하나는.' />
+	<key id="1023143105004475" feature="JobChange_02" npc="PC" name="라펜타의 힘?!" />
+	<key id="1023143105004476" feature="JobChange_02" npc="PC" name="$npcName:11003954$…!" />
+	<key id="1023143105004477" feature="JobChange_02" npc="비전" name="응, $MyPCName$." />
+	<key id="1023143105004478" feature="JobChange_02" npc="PC" name="지금 나에게 느껴지는 이 두 개의 힘.&#x0A;너도 느껴지니?" />
+	<key id="1023143105004479" feature="JobChange_02" npc="비전" name="응, 나도 느꼈어.&#x0A;이건… " />
+	<key id="1023143105004480" feature="JobChange_02" npc="비전" name='&lt;font color=&quot;#ffd200&quot;&gt;라펜타 힘&lt;/font&gt;의 일부가 우리에게 흡수된 게 맞는 것 같아.' />
+	<key id="1023143105004481" feature="JobChange_02" npc="PC" name="라펜타 힘의 일부…?!" />
+	<key id="1023143105004482" feature="JobChange_02" npc="PC" name="그렇다면 이 동굴 안의 에너지와 관련이 있는 걸까?&#x0A;…머릿속이 혼란스러워… " />
+	<key id="1023143105004483" feature="JobChange_02" npc="비전" name="진정하고 마음을 다스려, $MyPCName$.&#x0A;지금은 그렇게 혼란스러워할 때가 아니야." />
+	<key id="1023143105004484" feature="JobChange_02" npc="비전" name="이곳에서 일어난 일들을, 그들에게 알리는 게 더 시급해." />
+	<key id="1023143105004485" feature="JobChange_02" npc="PC" name="…이곳의 상황을.&#x0A;그래. 네 말이 맞아." />
+	<key id="1023143105004486" feature="JobChange_02" npc="PC" name="일단 $npcName:11003954$로 돌아가자." />
+	<key id="1023143105004496" feature="JobChange_02" npc="네이린" name="시작대사" />
+	<key id="1023143105004497" feature="JobChange_02" npc="네이린" name="진행대사" />
+	<key id="1023143105004498" feature="JobChange_02" npc="네이린" name="얼마 전 사건과 이곳의 $npcName:11004339$$pp:가,이$ 관련이 있다니요?" />
+	<key id="1023143105004499" feature="JobChange_02" npc="라네모네" name="…흐음, 지금 그 이야기를 하고 있을 때가 아닌 것 같은데." />
+	<key id="1023143105004500" feature="JobChange_02" npc="네이린" name="…?!&#x0A;$MyPCName$님?!" />
+	<key id="1023143105004501" feature="JobChange_02" npc="네이린" name="뭐, 뭔가 많이 달라지신 것 같은데…?!&#x0A;기분 탓…인가요?" />
+	<key id="1023143105004502" feature="JobChange_02" npc="라네모네" name="하아…기분 탓이겠냐고." />
+	<key id="1023143105004503" feature="JobChange_02" npc="라네모네" name="너, 도대체 무슨 일이 있었던 거야?&#x0A;온몸에서 $npcName:11004339$$pp:를,을$ 뿜어내며 나타나다니." />
+	<key id="1023143105004504" feature="JobChange_02" npc="PC" name="(동굴 안에서 있었던 자조지종을 이야기한다.)" />
+	<key id="1023143105004505" feature="JobChange_02" npc="라네모네" name='그렇군…&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;$pp:와,과$ 실제로 접촉했단 말이지?' />
+	<key id="1023153105004525" feature="JobChange_02" npc="라네모네" name="흐으음…." />
+	<key id="1023143105004506" feature="JobChange_02" npc="라네모네" name="그렇다면 답은 하나인 것 같은데?" />
+	<key id="1023143105004507" feature="JobChange_02" npc="라네모네" name='&lt;font size=&quot;45&quot;&gt;공명.&lt;/font&gt;' />
+	<key id="1023143105004508" feature="JobChange_02" npc="라네모네" name='$MyPCName$, 네가 가지고 있던 힘과 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;가 직접적으로 접촉되면서…&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;두 에너지의 공명현상&lt;/font&gt; 일어난 것이라는 것밖에는 설명할 수 없을 것 같군.' />
+	<key id="1023143105004509" feature="JobChange_02" npc="라네모네" name="그리고 그 공명현상으로, 네게도 많은 변화가 일어난 것 같은데?&#x0A;뭐 그건…네가 가장 잘 알고 있겠지만 말이야." />
+	<key id="1023143105004510" feature="JobChange_02" npc="라네모네" name="시작대사" />
+	<key id="1023143105004511" feature="JobChange_02" npc="라네모네" name="진행대사" />
+	<key id="1023143105004512" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;공명현상&lt;/font&gt;…그리고 일어난 내 몸의 변화.' />
+	<key id="1023143105004513" feature="JobChange_02" npc="PC" name="…그렇게 된 거군.&#x0A;그럼, 이 이질적인 느낌은 역시?" />
+	<key id="1023143105004514" feature="JobChange_02" npc="라네모네" name="그래. 너, 예전보다 강해졌어.&#x0A;그것도 훨~씬 말이야." />
+	<key id="1023143105004515" feature="JobChange_02" npc="네이린" name="그래요! $MyPCName$님께 전과 다른…&#x0A;무언가가 저도 느껴지는걸요!" />
+	<key id="1023143105004516" feature="JobChange_02" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(전보다 가벼워진 몸. 흘러넘치는 힘…!)&lt;/font&gt;' />
+	<key id="1023143105004517" feature="JobChange_02" npc="PC" name="이대로라면 이곳,&#x0A;신대륙에서도 문제없이 싸울 수 있겠어!" />
+	<key id="1023143105004518" feature="JobChange_02" npc="네이린" name="흐음…$MyPCName$님?&#x0A;잠시 저랑 이야기 좀 하시죠!" />
+	<key id="1023143105004519" feature="JobChange_02" npc="PC" name="어…엇?!" />
+	<key id="1023143105004520" feature="JobChange_02" npc="네이린" name="이리로!" />
+	<key id="1023143105004521" feature="JobChange_02" npc="라네모네" name="잘 다녀와~" />
+	<key id="1023143105004522" feature="JobChange_02" npc="라네모네" name="…흐으응." />
+	<key id="1023143105004523" feature="JobChange_02" npc="라네모네" name="$npcName:11004339$라…&#x0A;역시 이 대륙이 모습을 나타낸 건,&#x0A;블랙 샤드 폭발의 영향이었던 거군?" />
+	<key id="1023143105004524" feature="JobChange_02" npc="라네모네" name="쿡쿡.&#x0A;이야기가 흥미로워지는데?" />
 </ms2>

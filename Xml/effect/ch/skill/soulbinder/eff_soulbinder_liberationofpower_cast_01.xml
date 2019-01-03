@@ -4,19 +4,7 @@
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500177" startDelay="0.32">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500177" startDelay="0.52">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500177" startDelay="0.72">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Voice/ko/Normal/Male" event="" byJob="true" jobEvent="110:90900128" onlyCasterMyPC="true" gender="0">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Voice/ko/Normal/Female" event="" byJob="true" jobEvent="110:91900128" onlyCasterMyPC="true" gender="1">
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500173" startDelay="0.0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
 </ms2>

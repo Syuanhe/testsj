@@ -7,10 +7,11 @@
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500176" startDelay="0.0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500187" startDelay="0.6">
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500198" startDelay="0.0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500161" startDelay="0.6">
+  </effect>  
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/SoulBinder" event="04500205" startDelay="0.0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
+  </effect>    
+
 </ms2>

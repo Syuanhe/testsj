@@ -28,11 +28,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -55,11 +50,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="2" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -90,11 +80,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -117,11 +102,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="4" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -152,11 +132,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -179,11 +154,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="6" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -214,11 +184,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -241,11 +206,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="8" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -276,11 +236,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -303,11 +258,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="10" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -338,11 +288,6 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
 		</motion>
@@ -365,11 +310,6 @@
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<conditionSkill splash="0" level="12" skillID="10500292" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10500155" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>

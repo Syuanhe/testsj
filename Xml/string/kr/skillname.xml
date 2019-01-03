@@ -34,6 +34,11 @@
 	<key id="10100231" name="듀얼 택틱스" feature="JobChange_01" />
 	<key id="10100241" name="소드 스탠스 트레이닝" feature="JobChange_01" />
 	<key id="10100251" name="실드 스탠스 트레이닝" feature="JobChange_01" />
+	<key id="10100261" name="신성한 연격" feature="JobChange_02" />
+	<key id="10100271" name="서먼 소드" feature="JobChange_02" />
+	<key id="10100281" name="실드 오라" feature="JobChange_02" />
+	<key id="10100291" name="공격 태세 돌파" feature="JobChange_02" />
+	<key id="10100294" name="방어 태세 돌파" feature="JobChange_02" />
 	<key id="10200001" name="레이지 슬래쉬" />
 	<key id="10200011" name="휩쓸기" />
 	<key id="10200021" name="전사의 일격" />
@@ -69,11 +74,16 @@
 	<key id="10200251" name="블러드 슬래쉬" feature="JobChange_01" />
 	<key id="10200255" name="어둠 블러드 슬래쉬" feature="JobChange_01" />
 	<key id="10200257" name="블러드 슬래쉬 회전 공격" feature="JobChange_01" />
+	<key id="10200261" name="고군분투" feature="JobChange_02" />
+	<key id="10200271" name="절단" feature="JobChange_02" />
+	<key id="10200281" name="크리플" feature="JobChange_02" />
+	<key id="10200291" name="더스크 폴" feature="JobChange_02" />
 	<key id="10300001" name="매직 클로" />
 	<key id="10300011" name="파이어 토네이도" />
 	<key id="10300021" name="플레임 웨이브" />
 	<key id="10300031" name="체인 라이트닝" />
 	<key id="10300041" name="에너지 익스플로전" />
+	<key id="10300043" name="에너지 익스플로전" feature="JobChange_02" />
 	<key id="10300051" name="아이스 스피어" />
 	<key id="10300061" name="마나 리커버리" />
 	<key id="10300071" name="썬더 볼트" />
@@ -111,6 +121,12 @@
 	<key id="10300253" name="리틀 메테오" feature="JobChange_01" />
 	<key id="10300254" name="리틀 메테오" feature="JobChange_01" />
 	<key id="10300255" name="리틀 메테오" feature="JobChange_01" />
+	<key id="10300261" name="빅폴" feature="JobChange_02" />
+	<key id="10300262" name="아이스 밤" feature="JobChange_02" />
+	<key id="10300266" name="폴 스케이트" feature="JobChange_02" />
+	<key id="10300271" name="허리케인 경보" feature="JobChange_02" />
+	<key id="10300281" name="완전 연소" feature="JobChange_02" />
+	<key id="10300291" name="와일드 파이어" feature="JobChange_02" />
 	<key id="10400001" name="천상의 빛" />
 	<key id="10400002" name="심판의 빛" feature="JobChange_01" />
 	<key id="10400003" name="정화의 빛" feature="JobChange_01" />
@@ -136,6 +152,7 @@
 	<key id="10400161" name="엔젤 레이" />
 	<key id="10400171" name="심판의 빛" feature="JobChange_01" />
 	<key id="10400181" name="헤븐즈 익스플로전" feature="JobChange_01" />
+	<key id="10400186" name="헤븐즈 익스플로전" feature="JobChange_02" />
 	<key id="10400191" name="빛의 창" feature="JobChange_01" />
 	<key id="10400193" name="빛의 검" feature="JobChange_01" />
 	<key id="10400211" name="디바인 웨이브" feature="JobChange_01" />
@@ -144,6 +161,10 @@
 	<key id="10400241" name="생명의 수호자" feature="JobChange_01" />
 	<key id="10400251" name="홀리 포커스" feature="JobChange_01" />
 	<key id="10400261" name="활력" feature="JobChange_01" />
+	<key id="10400271" name="신의 십자가" feature="JobChange_02" />
+	<key id="10400281" name="홀리 익스텐션" feature="JobChange_02" />
+	<key id="10400291" name="홀리 플레이스" feature="JobChange_02" />
+	<key id="10400301" name="신성한 힘" feature="JobChange_02" />
 	<key id="10500001" name="스트레이프" />
 	<key id="10500011" name="멀티 샷" />
 	<key id="10500021" name="래피드 샷" />
@@ -156,6 +177,7 @@
 	<key id="10500071" name="골든 이글" />
 	<key id="10500081" name="이글 스트라이크" />
 	<key id="10500091" name="독수리의 혼" />
+	<key id="10500093" name="피닉스 스피릿" feature="JobChange_02" />
 	<key id="10500101" name="애로우 스톰" />
 	<key id="10500111" name="스나이프" />
 	<key id="10500121" name="피지컬 트레이닝" />
@@ -164,6 +186,7 @@
 	<key id="10500144" name="스크류 드라이브 샷" />
 	<key id="10500151" name="이글 글라이드" />
 	<key id="10500152" name="강화 이글 글라이드" feature="JobChange_01" />
+	<key id="10500153" name="캡틴 글라이드" feature="JobChange_02" />
 	<key id="10500161" name="다이렉트 슈터" />
 	<key id="10500171" name="플래임 애로우 1단계" feature="JobChange_01" />
 	<key id="10500172" name="플래임 애로우 2단계" feature="JobChange_01" />
@@ -181,6 +204,14 @@
 	<key id="10500241" name="스파이럴 애로우" feature="JobChange_01" />
 	<key id="10500243" name="강화 스파이럴 애로우" feature="JobChange_01" />
 	<key id="10500251" name="향상된 글라이딩" feature="JobChange_01" />
+	<key id="10500261" name="피닉스 스트라이크 샷" feature="JobChange_02" />
+	<key id="10500271" name="피닉스 폼" feature="JobChange_02" />
+	<key id="10500281" name="에이밍 애로우" feature="JobChange_02" />
+	<key id="10500291" name="이글 스쿼드" feature="JobChange_02" />
+	<key id="10500293" name="이글 스쿼드 자신 효과" feature="JobChange_02" />
+	<key id="10500295" name="이글 스쿼드 디버프" feature="JobChange_02" />
+	<key id="10500296" name="파티 내 이글 스쿼드 습득 레인저 효과" feature="JobChange_02" />
+	<key id="10500298" name="피닉스 폼 이글 스쿼드 효과" feature="JobChange_02" />
 	<key id="10600001" name="개틀링 파이어" />
 	<key id="10600011" name="로켓 런처" />
 	<key id="10600021" name="불스 아이" />
@@ -208,7 +239,12 @@
 	<key id="10600231" name="데몰리션 캐논" feature="JobChange_01" />
 	<key id="10600241" name="플라즈마 제너레이터" feature="JobChange_01" />
 	<key id="10600251" name="아모 제너레이터" feature="JobChange_01" />
+	<key id="10600261" name="메슬라 코일" feature="JobChange_02" />
+	<key id="10600271" name="포터블 아머리" feature="JobChange_02" />
+	<key id="10600281" name="스티키 몬스터" feature="JobChange_02" />
+	<key id="10600291" name="부비 트랩 MK2" feature="JobChange_02" />
 	<key id="10700001" name="더블 스탭" />
+	<key id="10700002" name="포이즌  스탭" feature="JobChange_02" />
 	<key id="10700011" name="포이즌 블로우" />
 	<key id="10700016" name="포이즌 블로우 EX" />
 	<key id="10700021" name="발칸 엣지" />
@@ -248,6 +284,13 @@
 	<key id="10700241" name="포이즌 마스터" feature="JobChange_01" />
 	<key id="10700251" name="복수심" feature="JobChange_01" />
 	<key id="10700261" name="배틀 플랜" feature="JobChange_01" />
+	<key id="10700271" name="체이스 스로우" feature="JobChange_02" />
+	<key id="10700273" name="체이스 슬래쉬" feature="JobChange_02" />
+	<key id="10700281" name="임기응변" feature="JobChange_02" />
+	<key id="10700282" name="임기응변 2" feature="JobChange_02" />
+	<key id="10700283" name="임기응변 3" feature="JobChange_02" />
+	<key id="10700291" name="엑셀레이터" feature="JobChange_02" />
+	<key id="10700301" name="포이즌 플랜" feature="JobChange_02" />
 	<key id="10800001" name="럭키 세븐" />
 	<key id="10800011" name="다크니스 커터" />
 	<key id="10800021" name="서클 오브 스타" />
@@ -270,11 +313,25 @@
 	<key id="10800181" name="형벌의 굴레" feature="JobChange_01" />
 	<key id="10800191" name="올인원" feature="JobChange_01" />
 	<key id="10800201" name="다크 스왐프" feature="JobChange_01" />
+	<key id="10800203" name="강화 다크 스왐프" feature="JobChange_02" />
 	<key id="10800211" name="쉐도우 스탠스" feature="JobChange_01" />
 	<key id="10800221" name="암살자의 진" feature="JobChange_01" />
+	<key id="10800229" name="강화 암살자의 진" feature="JobChange_02" />
 	<key id="10800231" name="어둠의 처단자" feature="JobChange_01" />
 	<key id="10800241" name="표창 비술" feature="JobChange_01" />
 	<key id="10800251" name="술법 비술" feature="JobChange_01" />
+	<key id="10800261" name="비기 : 연쇄" feature="JobChange_02" />
+	<key id="10800271" name="비기 : 파괴" feature="JobChange_02" />
+	<key id="10800272" name="비기 : 파괴 2차 피해" feature="JobChange_02" />
+	<key id="10800273" name="비기 : 파괴 스플레쉬" feature="JobChange_02" />
+	<key id="10800274" name="비기 : 파괴 스플레쉬(틱 피해용)" feature="JobChange_02" />
+	<key id="10800281" name="비술 : 낙인" feature="JobChange_02" />
+	<key id="10800282" name="비술 : 낙인 2타" feature="JobChange_02" />
+	<key id="10800283" name="비술 : 낙인 3타" feature="JobChange_02" />
+	<key id="10800284" name="비술 : 낙인 스플레쉬" feature="JobChange_02" />
+	<key id="10800291" name="비술 : 붕괴" feature="JobChange_02" />
+	<key id="10800292" name="비술 : 붕괴 스플레쉬" feature="JobChange_02" />
+	<key id="10800293" name="강화 비술 : 붕괴" feature="JobChange_02" />
 	<key id="10900001" name="플레임 드라이브" />
 	<key id="10900011" name="아이스 드라이브" />
 	<key id="10900021" name="썬더 드라이브" />
@@ -334,6 +391,13 @@
 	<key id="10900231" name="피지컬 부스트" feature="JobChange_01" />
 	<key id="10900241" name="블레이드 엑스퍼트" feature="JobChange_01" />
 	<key id="10900251" name="룬 엑스퍼트" feature="JobChange_01" />
+	<key id="10900261" name="루나틱 플래쉬" feature="JobChange_02" />
+	<key id="10900271" name="블레이드 러너" feature="JobChange_02" />
+	<key id="10900281" name="엘레멘트 룰렛" feature="JobChange_02" />
+	<key id="10900291" name="게이트 오브 블레이드" feature="JobChange_02" />
+	<key id="10900292" name="화염 게이트 오브 블레이드" feature="JobChange_02" />
+	<key id="10900293" name="냉기 게이트 오브 블레이드" feature="JobChange_02" />
+	<key id="10900294" name="전격 게이트 오브 블레이드" feature="JobChange_02" />
 	<key id="11000001" name="마하 펀치" feature="Striker" />
 	<key id="11000011" name="펀치 콤비네이션" feature="Striker" />
 	<key id="11000012" name="펀치 콤비네이션 EX" feature="Striker" />
@@ -375,10 +439,21 @@
 	<key id="11000262" name="스파이럴 캐논 EX" feature="JobChange_01" />
 	<key id="11000263" name="스파이럴 캐논 EX 2타" feature="JobChange_01" />
 	<key id="11000264" name="스파이럴 캐논 EX 3타" feature="JobChange_01" />
+	<key id="11000265" name="토네이도 커터" feature="JobChange_02" />
+	<key id="11000266" name="토네이도 커터EX" feature="JobChange_02" />
 	<key id="11000271" name="스핀 킥" feature="JobChange_01" />
 	<key id="11000272" name="스핀 킥 EX" feature="JobChange_01" />
 	<key id="11000281" name="축퇴" feature="JobChange_01" />
+	<key id="11000286" name="축 퇴 자신감 버프" feature="JobChange_01" />
 	<key id="11000291" name="히트 사이클링" feature="JobChange_01" />
+	<key id="11000311" name="넘치는 투지" feature="JobChange_02" />
+	<key id="11000312" name="혈도 개방EX 1단계" feature="JobChange_02" />
+	<key id="11000313" name="혈도 개방EX 2단계" feature="JobChange_02" />
+	<key id="11000315" name="혈도 개방EX 1단계 디버프" feature="JobChange_02" />
+	<key id="11000319" name="혈도 개방EX 2단계 디버프" feature="JobChange_02" />
+	<key id="11000321" name="얼티밋 러쉬" feature="JobChange_02" />
+	<key id="11000331" name="휘몰아치는 화염" feature="JobChange_02" />
+	<key id="11000341" name="얼티밋 디스트로이 킥" feature="JobChange_02" />
 	<key id="11100001" name="버블 패시브" feature="SoulBinder" />
 	<key id="11100011" name="체인 스피어" feature="SoulBinder" />
 	<key id="11100012" name="체인 스피어 2타" feature="SoulBinder" />
@@ -432,13 +507,24 @@
 	<key id="11100192" name="강화 스피릿 크러쉬" feature="JobChange_01" />
 	<key id="11100193" name="비전 크러쉬" feature="JobChange_01" />
 	<key id="11100201" name="비전 격류" feature="JobChange_01" />
+	<key id="11100202" name="비전 격류" feature="JobChange_02" />
+	<key id="11100204" name="힘의 해방" feature="JobChange_02" />
 	<key id="11100211" name="각성한 정신체" feature="JobChange_01" />
 	<key id="11100221" name="소울 버드" feature="JobChange_01" />
 	<key id="11100231" name="소울 스퀘어" feature="JobChange_01" />
 	<key id="11100232" name="강화 소울 스퀘어" feature="JobChange_01" />
 	<key id="11100241" name="하모니 오브 소울" feature="JobChange_01" />
 	<key id="11100242" name="디서넌스 오브 소울" feature="JobChange_01" />
+	<key id="11100244" name="하모니 오브 소울" feature="JobChange_02" />
 	<key id="11100251" name="트라이포스 링크" feature="JobChange_01" />
+	<key id="11100261" name="스피릿 번" feature="JobChange_02" />
+	<key id="11100271" name="스피릿 번" feature="JobChange_02" />
+	<key id="11100281" name="스피릿 번" feature="JobChange_02" />
+	<key id="11100292" name="비전 스피릿 번" feature="JobChange_02" />
+	<key id="11100301" name="힘의 해방" feature="JobChange_02" />
+	<key id="11100311" name="소울 크리스탈" feature="JobChange_02" />
+	<key id="11100315" name="소울 크리스탈" feature="JobChange_02" />
+	<key id="11100321" name="완벽한 선율" feature="JobChange_02" />
 	<key id="19900001" name="GM의 심판" />
 	<key id="19900011" name="고속 비행" />
 	<key id="19900021" name="숟가락 올리기" />

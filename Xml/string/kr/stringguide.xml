@@ -1194,4 +1194,5 @@
 	<key id="52001832" name="[[icon:questcomplete]] $npcName:11003904$$pp:와,과$ 대화하기" feature="LapentaFrontierQuest" />
 	<key id="200023922" name="라펜샤드 메뉴 클릭" feature="LapentaFrontierQuest" />
 	<key id="200023923" name='라펜샤드를 이용하여 다양한 스킬을 사용해보세요.&#x0A;&lt;font color=&quot;#909090&quot;&gt;세계 곳곳의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;강력한 몬스터나 인물에게 라펜샤드를 획득&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 획득한 라펜샤드는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;라펜샤드 메뉴에서 장착하거나 강화&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다.&lt;/font&gt; ' feature="LapentaFrontierQuest" />
+	<key id="40002793" name='&lt;font size=&quot;25&quot;&gt;&lt;font color=&quot;#ffd200&quot;&gt;마스터 스킬&lt;/font&gt;&lt;/font&gt;을 사용할 수 있습니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;마스터 스킬&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;은&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;스킬 메뉴&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서 확인 할 수 있습니다. &lt;/font&gt; &#x0A;마스터 스킬&lt;font color=&quot;#909090&quot;&gt;을 사용하여&lt;/font&gt; 다양한 전투&lt;font color=&quot;#909090&quot;&gt;를 즐겨보세요.&lt;/font&gt;&#x0A;' feature="JobChange_02" />
 </ms2>
