@@ -6527,14 +6527,14 @@
 			<content myTalk="1" text="$script:1023143105004474$" />
 			<content myTalk="1" text="$script:1023143105004475$" />
 			<content myTalk="1" text="$script:1023143105004476$" />
-			<content speakerNpc="11001560" text="$script:1023143105004477$" />
+			<content leftIllust="Vision_normal" speakerNpc="11001560" text="$script:1023143105004477$" />
 			<content myTalk="1" text="$script:1023143105004478$" />
-			<content speakerNpc="11001560" text="$script:1023143105004479$" />
-			<content speakerNpc="11001560" text="$script:1023143105004480$" />
+			<content leftIllust="Vision_normal" speakerNpc="11001560" text="$script:1023143105004479$" />
+			<content leftIllust="Vision_normal" speakerNpc="11001560" text="$script:1023143105004480$" />
 			<content myTalk="1" text="$script:1023143105004481$" />
 			<content myTalk="1" text="$script:1023143105004482$" />
-			<content speakerNpc="11001560" text="$script:1023143105004483$" />
-			<content speakerNpc="11001560" text="$script:1023143105004484$" />
+			<content leftIllust="Vision_normal" speakerNpc="11001560" text="$script:1023143105004483$" />
+			<content leftIllust="Vision_normal" speakerNpc="11001560" text="$script:1023143105004484$" />
 			<content myTalk="1" text="$script:1023143105004485$" />
 			<content myTalk="1" text="$script:1023143105004486$" />
 		</script>

@@ -2,7 +2,7 @@
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <!--From : itemProperty_ETC-->
 <ms2>
-	<environment feature="Kritias_2018_12" locale="">
+	<environment feature="Fieldwar01" locale="">
 		<gem system="0" property="" />
 		<ucc mesh="" />
 		<drop dropNif="" dropDisplay="equip_ItemBox" />
@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="RH">
-				<asset name="Data/Resource/Model/Map/Common/Liftup/he_liftup_Bomb_A01.nif" selfnode="Scene Root" targetnode="Weapon_Back_R_Point" attachnode="Extra_Point01" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="Data/Resource/Model/Map/Common/Interaction/Interaction_fragment_A01.nif" selfnode="Scene Root" targetnode="Weapon_Back_R_Point" attachnode="Extra_Point01" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />
@@ -30,7 +30,7 @@
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="2" attack="4" />
-		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/18100066.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="99" category="BH" blackMarketCategory="181_equip" remakeDisable="false" iconCode="1" representOption="27" movie="" xmlData="" presetPath="1/81/" reference="0" gearScore="0" tradableCount="0" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="0" doNotPreview="0" doNotSkipRender="0">
+		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/18100074.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="99" category="BH" blackMarketCategory="181_equip" remakeDisable="false" iconCode="1" representOption="27" movie="" xmlData="" presetPath="1/81/" reference="0" gearScore="0" tradableCount="0" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />
 		</property>
@@ -42,7 +42,7 @@
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
-		<tool itemPreset="18100066" itemPresetPath="1/81/" />
+		<tool itemPreset="18100074" itemPresetPath="1/81/" />
 		<option title="0" static="0" random="0" constant="1" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />

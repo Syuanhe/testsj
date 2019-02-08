@@ -19,6 +19,11 @@
 		<content illust="Horrhe_normal" text="$script:1010140307011538$" />
 		<content illust="Horrhe_normal" text="$script:1010140307011539$" />
 		<content illust="Horrhe_normal" text="$script:1010140307011540$" />
-		<content illust="Horrhe_normal" text="$script:1010140307011541$" />
+		<content illust="Horrhe_normal" text="$script:1010140307011541$">
+			<distractor text="$script:0111232407012695$" goto="50" gotoFail="" />
+		</content>
+	</script>
+	<script id="50" feature="Kritias_2018_12" locale="">
+		<content illust="Horrhe_normal" text="$script:0111232407012696$" />
 	</script>
 </ms2>

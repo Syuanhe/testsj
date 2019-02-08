@@ -512,4 +512,7 @@
 	<address mapcode="02900132" blockCode="2" blockNameKor="블루레이크 호텔 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng="" />
 	<address mapcode="02900132" blockCode="3" blockNameKor="블루레이크 호텔 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng="" />
 	<address mapcode="02000377" blockCode="1" blockNameKor="코코스 리조트" blockModifierKor="호" blockNameEng="" blockModifierEng="" />
+	<address mapcode="02020041" blockCode="1" blockNameKor="정착 지구" blockModifierKor="구역" blockNameEng="" blockModifierEng="" />
+	<address mapcode="02020041" blockCode="2" blockNameKor="정착 지구" blockModifierKor="구역" blockNameEng="" blockModifierEng="" />
+	<address mapcode="02020041" blockCode="3" blockNameKor="정착 지구" blockModifierKor="구역" blockNameEng="" blockModifierEng="" />
 </ms2>

@@ -40,6 +40,22 @@
 	<key id="10000038" name="맑은 강물에서 서식한다." />
 	<key id="10000039" name="맑은 강물에서 서식한다." />
 	<key id="10000040" name="맑은 강물에서 서식한다." />
+	<key id="10000041" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000042" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000043" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000044" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000045" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000046" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000047" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000048" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000049" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000050" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000051" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000052" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000053" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000054" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000055" name="맑은 강물에서 서식한다." feature="Fishing02" />
+	<key id="10000056" name="맑은 강물에서 서식한다." feature="Fishing02" />
 	<key id="10000057" name="맑고 차가운 강물에서 서식한다." />
 	<key id="11000001" name="바닷물에서 서식한다." />
 	<key id="11000002" name="바닷물에서 서식한다." />
@@ -132,10 +148,23 @@
 	<key id="12000018" name="뜨거운 용암에서 서식한다." />
 	<key id="12000019" name="뜨거운 용암에서 서식한다." />
 	<key id="12000020" name="하랑호수섬의 뜨거운 용암에서 서식한다. \n하랑호수섬으로 가는 방법은 에반스빌의 하랑호수지기 요하랑이 알려준다고 한다." />
+	<key id="12000021" name="뜨거운 용암에서 서식한다." feature="Fishing02" />
+	<key id="12000022" name="뜨거운 용암에서 서식한다." feature="Fishing02" />
+	<key id="12000023" name="뜨거운 용암에서 서식한다." feature="Fishing02" />
+	<key id="12000024" name="뜨거운 용암에서 서식한다." feature="Fishing02" />
+	<key id="12000025" name="뜨거운 용암에서 서식한다." feature="Fishing02" />
 	<key id="13000003" name="사악한 기운에 오염된 물에서 서식한다." />
 	<key id="13000005" name="사악한 기운에 오염된 물에서 서식한다." />
 	<key id="13000007" name="사악한 기운에 오염된 물에서 서식한다." />
 	<key id="13000009" name="사악한 기운에 오염된 물에서 서식한다." />
+	<key id="13000010" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000011" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000012" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000013" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000014" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000015" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000016" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
+	<key id="13000017" name="사악한 기운에 오염된 물에서 서식한다." feature="Fishing02" />
 	<key id="14000001" name="지독한 냄새를 풍기는 독액에서 서식한다." />
 	<key id="14000002" name="지독한 냄새를 풍기는 독액에서 서식한다." />
 	<key id="14000003" name="지독한 냄새를 풍기는 독액에서 서식한다." />
@@ -157,11 +186,29 @@
 	<key id="14000019" name="지독한 냄새를 풍기는 독액에서 서식한다." />
 	<key id="14000020" name="지독한 냄새를 풍기는 독액에서 서식한다." />
 	<key id="14000021" name="하랑호수섬의 지독한 냄새를 풍기는 독액에서 서식한다. \n하랑호수섬으로 가는 방법은 에반스빌의 하랑호수지기 요하랑이 알려준다고 한다." />
+	<key id="14000022" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000023" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000024" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000025" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000026" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000027" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000028" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
+	<key id="14000029" name="지독한 냄새를 풍기는 독액에서 서식한다." feature="Fishing02" />
 	<key id="15000001" name="진득한 기름에서 서식한다." />
 	<key id="15000002" name="진득한 기름에서 서식한다." />
 	<key id="15000003" name="진득한 기름에서 서식한다." />
 	<key id="15000004" name="진득한 기름에서 서식한다." />
 	<key id="15000005" name="진득한 기름에서 서식한다." />
+	<key id="16000001" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000002" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000003" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000004" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000005" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000006" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000007" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000008" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000009" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
+	<key id="16000010" name="신비한 푸른 광석의 영향을 받은 물에서만 서식한다." feature="Fishing02" />
 	<key id="99000001" name="생명력이 강해 모든 액체에서 서식한다. 초보자용 황금 미끼를 사용해야 보다 쉽게 유인할 수 있다고 한다." />
 	<key id="99000002" name="생명력이 강해 모든 액체에서 서식한다. 초보자용 황금 미끼를 사용해야 보다 쉽게 유인할 수 있다고 한다." />
 	<key id="99000003" name="생명력이 강해 모든 액체에서 서식한다. 초보자용 황금 미끼를 사용해야 보다 쉽게 유인할 수 있다고 한다." />

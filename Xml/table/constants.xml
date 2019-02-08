@@ -519,6 +519,7 @@
 	<v key="WarpOpenContinent0" value="102" />
 	<v key="WarpOpenContinent1" value="103" />
 	<v key="WarpOpenContinent2" value="202" />
+	<v key="WarpOpenContinent3" value="105" />
 	<v key="WriteMusicDetailWebPage" value="maview:/News/DetailView?page=1&amp;tp=notice&amp;k=&amp;s=552883" locale="KR" />
 	<v key="WriteMusicDetailWebPage" value="http://mxd2.qq.com/cp/a20160420news/content-2.shtml" locale="CN" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="NA" />
@@ -556,15 +557,12 @@
 	<v key="MesoMarketIconType" value="0" locale="KR" />
 	<v key="MesoMarketBasePrice" value="1000000" locale="CN" />
 	<v key="MesoMarketProductUnit0" value="1000000" locale="CN" />
-	<v key="MesoMarketProductUnit1" value="2000000" locale="CN" />
-	<v key="MesoMarketProductUnit2" value="3000000" locale="CN" />
-	<v key="MesoMarketProductUnit3" value="4000000" locale="CN" />
-	<v key="MesoMarketProductUnit4" value="5000000" locale="CN" />
-	<v key="MesoMarketProductUnit5" value="6000000" locale="CN" />
-	<v key="MesoMarketProductUnit6" value="7000000" locale="CN" />
-	<v key="MesoMarketProductUnit7" value="8000000" locale="CN" />
-	<v key="MesoMarketProductUnit8" value="9000000" locale="CN" />
-	<v key="MesoMarketProductUnit9" value="10000000" locale="CN" />
+	<v key="MesoMarketProductUnit1" value="5000000" locale="CN" />
+	<v key="MesoMarketProductUnit2" value="10000000" locale="CN" />
+	<v key="MesoMarketProductUnit3" value="50000000" locale="CN" />
+	<v key="MesoMarketProductUnit4" value="100000000" locale="CN" />
+	<v key="MesoMarketProductUnit5" value="200000000" locale="CN" />
+	<v key="MesoMarketProductUnit6" value="500000000" locale="CN" />
 	<v key="MesoMarketIconType" value="2" locale="CN" />
 	<v key="MesoMarketBasePrice" value="10000000" locale="NA" />
 	<v key="MesoMarketProductUnit0" value="10000000" locale="NA" />
@@ -745,6 +743,7 @@
 	<v key="FameContentsSkyFortressGotoMapID" value="02000422 " feature="FameContents" />
 	<v key="FameContentsSkyFortressGotoPortalID" value="3" feature="FameContents" />
 	<v key="FameContentsRequireQuestID" value="91000013" feature="FameContents" />
+	<v key="FameExpedContentsRequireQuestID" value="50101050" feature="Kritias_2018_12" />
 	<v key="DailyPetEnchantMaxCount" value="24" />
 	<v key="MouseCursorHideTime" value="30" />
 	<v key="EnchantTransformScriptID" value="10" feature="EnchantTransform01" />
@@ -826,4 +825,9 @@
 	<v key="PartyVoteReadyTagExpireSeconds" value="10" />
 	<v key="ShieldBarOffsetY" value="-10" />
 	<v key="MouseInteractLimitDistance" value="2000" feature="MouseInteract" />
+	<v key="PartySearchRegisterComboValues" value="4,10" />
+	<v key="PartySearchRegisterComboValues" value="4,10" locale="KR" />
+	<v key="PartySearchRegisterComboValues" value="4,10" locale="CN" />
+	<v key="PartySearchRegisterComboValues" value="4,6,10" locale="NA" />
+	<v key="StatScaleMarkingAdditionalEffect" value="70000174" />
 </ms2>

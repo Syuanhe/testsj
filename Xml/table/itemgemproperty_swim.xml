@@ -11,6 +11,7 @@
 	<swim id="70600009" kf="B" idleEffect="CH/Swim/Eff_SnowMan_SwimIdle.xml" runEffect="CH/Swim/Eff_SnowMan_SwimRun.xml" dashEffect="CH/Swim/Eff_SnowMan_SwimDash.xml" />
 	<swim id="70600010" kf="F" idleEffect="CH/Swim/Eff_LazyMushroom_SwimIdle.xml" runEffect="CH/Swim/Eff_LazyMushroom_SwimRun.xml" dashEffect="CH/Swim/Eff_LazyMushroom_SwimDash.xml" />
 	<swim id="70600011" kf="F" idleEffect="CH/Swim/Eff_GhostMushroom_SwimIdle.xml" runEffect="CH/Swim/Eff_GhostMushroom_SwimRun.xml" dashEffect="CH/Swim/Eff_GhostMushroom_SwimDash.xml" />
+	<swim id="70600015" kf="G" idleEffect="CH/Swim/Eff_Lakemonster_SwimIdle.xml" runEffect="CH/Swim/Eff_Lakemonster_SwimRun.xml" dashEffect="CH/Swim/Eff_Lakemonster_SwimDash.xml" />
 	<swim id="70600021" kf="E" idleEffect="CH/Swim/Eff_DonutsA_SwimIdle.xml" runEffect="CH/Swim/Eff_DonutsA_SwimRun.xml" dashEffect="CH/Swim/Eff_DonutsA_SwimDash.xml" />
 	<swim id="70600023" kf="E" idleEffect="CH/Swim/Eff_DonutsB_SwimIdle.xml" runEffect="CH/Swim/Eff_DonutsB_SwimRun.xml" dashEffect="CH/Swim/Eff_DonutsB_SwimDash.xml" />
 </ms2>

@@ -33,11 +33,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="1" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -67,11 +62,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="2" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="2" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -109,11 +99,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="3" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -143,11 +128,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="4" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="4" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -185,11 +165,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="5" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -219,11 +194,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="6" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="6" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -261,11 +231,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="7" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -295,11 +260,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="8" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="8" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -337,11 +297,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="9" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -371,11 +326,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="10" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="10" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -413,11 +363,6 @@
 				<stat />
 			</beginCondition>
 		</splashSkill>
-		<splashSkill splash="1" level="11" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -447,11 +392,6 @@
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
 		<splashSkill splash="1" level="12" skillID="10300297" skillTarget="0" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
-			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
-				<stat />
-			</beginCondition>
-		</splashSkill>
-		<splashSkill splash="1" level="12" skillID="10300298" skillTarget="0" skillOwner="0" delay="0" interval="500" immediateActive="0" fireCount="10" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>

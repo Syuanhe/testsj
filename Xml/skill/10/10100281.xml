@@ -18,7 +18,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -30,7 +30,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="1.86" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="2.23" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -46,7 +46,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -58,7 +58,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.07" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="2.48" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -74,7 +74,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -86,7 +86,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.28" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="2.73" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -102,7 +102,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -114,7 +114,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.49" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="2.98" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -130,7 +130,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -142,7 +142,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.7" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.23" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -158,7 +158,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -170,7 +170,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.91" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.48" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -186,7 +186,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -198,7 +198,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.12" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.73" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -214,7 +214,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -226,7 +226,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.33" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.98" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -242,7 +242,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -254,7 +254,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.54" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.23" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -270,7 +270,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -282,7 +282,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.75" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.48" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -298,7 +298,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -310,7 +310,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.96" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.73" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -326,7 +326,7 @@
 			<stat sp="15" />
 		</consume>
 		<targetItem />
-		<upgrade level="72" skillIDs="10100221,10100251" skillLevels="5,5" />
+		<upgrade level="70" skillIDs="10100221,10100251" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -338,7 +338,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="600" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="450" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="3" bounceCount="8" bounceRadius="0" bounceOverlap="1" collision="200.000000,75.000000,75.000000" collisionAdd="0.000000,75.000000,75.000000" effect="CH/Skill/Knight/Eff_Knight_ShieldAura_Ball_01.xml" effectRemain="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" effectRay="" effectDestroy="CH/Skill/Knight/Eff_Knight_ShieldAura_BallRemain_01.xml" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="4.17" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.98" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="11" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>

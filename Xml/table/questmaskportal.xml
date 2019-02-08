@@ -1044,4 +1044,30 @@
 			<mask startQuestID="30000381" startQuestState="1" endQuestID="30000381" endQuestState="2" />
 		</key>
 	</field>
+	<field fieldID="02020029">
+		<key id="3" enableInMask="1">
+			<mask startQuestID="50100860" startQuestState="2" endQuestID="50100870" endQuestState="2" feature="Kritias_Epic01" />
+		</key>
+	</field>
+	<field fieldID="02020031">
+		<key id="3" enableInMask="1">
+			<mask startQuestID="50101000" startQuestState="2" endQuestID="50101010" endQuestState="2" feature="Kritias_Epic01" />
+		</key>
+		<key id="4" enableInMask="1">
+			<mask startQuestID="50101020" startQuestState="1" endQuestID="50101020" endQuestState="2" feature="Kritias_Epic01" />
+		</key>
+		<key id="5" enableInMask="1">
+			<mask startQuestID="50101020" startQuestState="3" endQuestID="50101050" endQuestState="1" feature="Kritias_Epic01" />
+		</key>
+	</field>
+	<field fieldID="02020003">
+		<key id="4" enableInMask="1">
+			<mask startQuestID="91000880" startQuestState="3" endQuestID="91000900" endQuestState="2" feature="Kritias_2018_12" />
+		</key>
+	</field>
+	<field fieldID="02020009">
+		<key id="3" enableInMask="1">
+			<mask startQuestID="91000350" startQuestState="3" endQuestID="91000360" endQuestState="2" feature="Kritias_2018_12" />
+		</key>
+	</field>
 </ms2>

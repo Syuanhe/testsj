@@ -868,4 +868,14 @@
 			<mask startQuestID="30000379" startQuestState="3" endQuestID="30000379" endQuestState="3" />
 		</key>
 	</field>
+	<field fieldID="52100109">
+		<key id="11004419" enableInMask="0">
+			<mask startQuestID="50100960" startQuestState="2" endQuestID="50100960" endQuestState="3" feature="Kritias_Epic01" />
+		</key>
+	</field>
+	<field fieldID="52100110">
+		<key id="11004419" enableInMask="0">
+			<mask startQuestID="50101030" startQuestState="3" endQuestID="50101030" endQuestState="3" feature="Kritias_Epic01" />
+		</key>
+	</field>
 </ms2>

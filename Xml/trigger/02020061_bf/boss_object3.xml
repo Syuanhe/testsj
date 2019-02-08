@@ -3,9 +3,10 @@
 
   <state name="대기">
     <onEnter>
+      <action name="이펙트를설정한다" arg1="5201" arg2="0" />
+      <action name="SetUserValue" triggerID="99990023" key="MonsterSpawn" value="0" />
       <action name="몬스터소멸시킨다" arg1="713,723" />
       <action name="오브젝트반응설정한다" arg1="12000096" arg2="2" />
-      <action name="SetCube" IDs="8103" isVisible="false" />
     </onEnter>
     <condition name="UserValue" key="BossObjectStart" value="1" >
       <transition state="레버3_체크"/>
@@ -17,7 +18,7 @@
       <action name="몬스터를생성한다" arg1="723" arg2="0"/>
     </onEnter>
     <condition name="UserValue" key="BossObjectStart" value="2" >
-      <transition state="대기"/>
+      <transition state="종료"/>
     </condition>
     <condition name="몬스터가죽어있으면" arg1="713" >
       <transition state="레버3_발동"/>
@@ -37,6 +38,7 @@
 
   <state name="레버3_발동">
     <onEnter>
+      <action name="이펙트를설정한다" arg1="5201" arg2="1" />
       <action name="오브젝트반응설정한다" arg1="12000096" arg2="1" />
     </onEnter>
     <condition name="UserValue" key="BossObjectStart" value="2" >
@@ -60,7 +62,7 @@
 
   <state name="레버3_안내">
     <onEnter>
-      <action name="이벤트UI를설정한다" arg1="1" arg2="이 무기로 보스를 공격하세요." arg3="5000" arg4="9013" />
+      <action name="SetUserValue" triggerID="99990023" key="MonsterSpawn" value="1" />
     </onEnter>
     <condition name="UserValue" key="BossObjectStart" value="2" >
       <transition state="종료"/>
@@ -128,9 +130,10 @@
 
   <state name="종료">
     <onEnter>
+      <action name="이펙트를설정한다" arg1="5201" arg2="0" />
+      <action name="SetUserValue" triggerID="99990023" key="MonsterSpawn" value="0" />
       <action name="몬스터소멸시킨다" arg1="713,723" />
       <action name="오브젝트반응설정한다" arg1="12000096" arg2="2" />
-      <action name="SetCube" IDs="8103" isVisible="false" />
     </onEnter>
   </state>
   

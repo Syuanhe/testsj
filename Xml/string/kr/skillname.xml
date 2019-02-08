@@ -450,6 +450,7 @@
 	<key id="11000312" name="혈도 개방EX 1단계" feature="JobChange_02" />
 	<key id="11000313" name="혈도 개방EX 2단계" feature="JobChange_02" />
 	<key id="11000315" name="혈도 개방EX 1단계 디버프" feature="JobChange_02" />
+	<key id="11000316" name="원 인치 펀치EX" feature="JobChange_02" />
 	<key id="11000319" name="혈도 개방EX 2단계 디버프" feature="JobChange_02" />
 	<key id="11000321" name="얼티밋 러쉬" feature="JobChange_02" />
 	<key id="11000331" name="휘몰아치는 화염" feature="JobChange_02" />
@@ -1098,6 +1099,7 @@
 	<key id="90000913" name="달콤한 핫 초콜릿" />
 	<key id="90000914" name="달콤한 핫 초콜릿" />
 	<key id="90000915" name="신비한 에네르" />
+	<key id="90000916" name="네이린의 특제 캔디" />
 	<key id="90200001" name="화나" />
 	<key id="90200002" name="기합" />
 	<key id="90200003" name="삐죽" />
@@ -1210,6 +1212,10 @@
 	<key id="90200115" name="슈기슈기 댄스" feature="WorldChampionMushroom" />
 	<key id="90200119" name="인형극" />
 	<key id="90200120" name="단풍 이야기" />
+	<key id="90200121" name="상어 낚시 성공!" feature="Fishing02" />
+	<key id="90200122" name="돼지의 꿈" />
+	<key id="90200123" name="따뜻한 반신욕" />
+	<key id="90200124" name="메이슨 따라쟁이" feature="Kritias_2018_12" />
 	<key id="90210001" name="박수치기" locale="CN" />
 	<key id="90210002" name="야광봉 흔들기" locale="CN" />
 	<key id="90220001" name="포옹" />
@@ -1228,6 +1234,7 @@
 	<key id="90220014" name="물총을 쏘세요" />
 	<key id="90220015" name="공주님 안기" />
 	<key id="90220016" name="따뜻한 크리스마스" />
+	<key id="90220017" name="붉은 등불" />
 	<key id="90300001" name="타격 시 20% 확률로 화상 유발" />
 	<key id="90300011" name="타격 시 20% 확률로 INT 증가" />
 	<key id="90400001" name="타격 시 10% 확률로 빙결 유발" />
@@ -1309,9 +1316,22 @@
 	<key id="99910342" name="마크 빔!" feature="SurvivalContents02" />
 	<key id="99910343" name="돌격" feature="SurvivalContents02" />
 	<key id="99910344" name="마아아크으으! 비이이이임!!!" feature="SurvivalContents02" />
+	<key id="99910371" name="연발 사격" feature="Fieldwar01" />
+	<key id="99910372" name="화염 방사" feature="Fieldwar01" />
+	<key id="99910401" name="드릴공격" feature="Gigantica01" />
+	<key id="99910402" name="드릴돌진" feature="Gigantica01" />
+	<key id="99910403" name="지진파" feature="Gigantica01" />
 	<key id="50001354" name="일기당천 - 방출되는 시간의 흐름" feature="LapentaDungeon" />
 	<key id="60300016" name="일도양단 - 폭발하는 생명의 힘" feature="LapentaDungeon" />
 	<key id="60300114" name="뇌신강림 - 폭주하는 위상" feature="LapentaDungeon" />
+	<key id="70003001" name="슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003011" name="슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003021" name="슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003031" name="슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003041" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003051" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003061" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003071" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
 	<key id="90003003" name="시간의 검 : 레드 라펜샤드" feature="LapentaDungeon" />
 	<key id="90003004" name="공간 균열 : 블루 라펜샤드" feature="LapentaDungeon" />
 	<key id="90003005" name="유페리아의 가호 : 그린 라펜샤드" feature="LapentaDungeon" />
@@ -1319,4 +1339,6 @@
 	<key id="120010002" name="검은 형제의 에너지" feature="Lapenshard01" />
 	<key id="120010003" name="루미에라곤의 긍지" feature="Lapenshard01" />
 	<key id="120010004" name="시간의 검 : 레드 라펜샤드" feature="Lapenshard01" />
+	<key id="120010010" name="월광 베기 : 레드 라펜샤드" feature="Lapenshard01" />
+	<key id="120010020" name="기간틱 레이져 : 레드 라펜샤드" feature="Lapenshard01" />
 </ms2>

@@ -246,6 +246,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000660" />
 			</condition>
 		</open>
@@ -260,6 +261,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="60960" offset="-30,20,0" textId="60961" />
 			<action type="uiSummary" isNotClose="0" textId="60960" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
@@ -270,6 +272,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000660" />
 				<condition type="guideClear" id="60960" />
 			</condition>
@@ -286,6 +289,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="60970" offset="-20,0,0" textId="60971" />
 			<action type="uiSummary" isNotClose="0" textId="60970" />
 		</openAction>
@@ -295,6 +299,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000660" />
 				<condition type="guideClear" id="60970" />
 				<condition type="constructMode" />
@@ -310,6 +315,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" dialogName="ConstructHelpDialog" entityId="60980" offset="-20,320,0" textId="60981" />
 			<action type="uiSummary" isNotClose="0" textId="60980" />
 		</openAction>
@@ -319,6 +325,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000661" />
 				<condition type="constructMode" not="1" />
 			</condition>
@@ -334,6 +341,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="60960" offset="-30,20,0" textId="60961" />
 			<action type="uiSummary" isNotClose="0" textId="60960" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
@@ -344,6 +352,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000661" />
 				<condition type="constructMode" />
 			</condition>
@@ -360,6 +369,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="61000" offset="-20,0,0" textId="61001" />
 			<action type="uiSummary" isNotClose="0" textId="61000" />
 		</openAction>
@@ -369,6 +379,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000661" />
 				<condition type="guideClear" id="61000" />
 				<condition type="constructMode" />
@@ -384,6 +395,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiSummary" isNotClose="0" textId="61010" />
 		</openAction>
 	</event>
@@ -392,6 +404,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questComplete" value="90000661" />
 				<condition type="guideClear" id="61010" />
 				<condition type="constructMode" />
@@ -408,6 +421,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiTextTip" entityId="61020" isNotClose="0" textId="61020" />
 		</openAction>
 	</event>
@@ -416,6 +430,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questComplete" value="90000661" />
 				<condition type="guideClear" id="61020" />
 				<condition type="constructMode" not="1" />
@@ -438,6 +453,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000670" />
 				<condition type="constructMode" not="1" />
 			</condition>
@@ -453,6 +469,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="61040" offset="-30,20,0" textId="60961" />
 			<action type="uiSummary" isNotClose="0" textId="60960" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
@@ -463,6 +480,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000670" />
 				<condition type="constructMode" />
 			</condition>
@@ -479,6 +497,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="3" childName="m_interiorInfo.m_help" dialogName="UGCHousingPointDialog" entityId="61050" offset="0,10,0" textId="61050" />
 			<action type="uiSummary" isNotClose="0" textId="61051" />
 			<action type="uiTextTip" entityId="61050" isNotClose="0" textId="61052" />
@@ -489,6 +508,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000670" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61050" />
@@ -506,6 +526,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiSummary" isNotClose="0" textId="61060" />
 		</openAction>
 	</event>
@@ -514,6 +535,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000670" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61060" />
@@ -532,6 +554,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="61000" offset="-20,0,0" textId="61071" />
 			<action type="uiSummary" isNotClose="0" textId="61070" />
 		</openAction>
@@ -541,6 +564,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000670" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61060" />
@@ -557,6 +581,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiSummary" isNotClose="0" textId="61080" />
 		</openAction>
 	</event>
@@ -565,6 +590,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questComplete" value="90000670" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61080" />
@@ -580,6 +606,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiTextTip" entityId="61090" isNotClose="0" textId="61090" />
 		</openAction>
 	</event>
@@ -1283,6 +1310,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000760" />
 				<condition type="constructMode" not="1" />
 			</condition>
@@ -1298,6 +1326,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="61310" offset="-30,20,0" textId="60961" />
 			<action type="uiSummary" isNotClose="0" textId="60960" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
@@ -1308,6 +1337,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000760" />
 				<condition type="constructMode" />
 				<condition type="CubeHolderSelectItem" value="50400191" not="1" />
@@ -1325,6 +1355,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" customPosType="cubeType" childIndex="2" entityId="61311" offset="-10,12,0" textId="61112" />
 			<action type="uiSummary" isNotClose="0" textId="61101" />
 		</openAction>
@@ -1334,6 +1365,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000760" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61311" />
@@ -1351,6 +1383,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="61320" offset="-20,0,0" textId="61320" />
 			<action type="uiSummary" isNotClose="0" textId="61321" />
 		</openAction>
@@ -1360,6 +1393,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000760" />
 				<condition type="guideClear" id="61320" />
 				<condition type="constructMode" />
@@ -1375,6 +1409,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiSummary" isNotClose="0" textId="61330" />
 		</openAction>
 	</event>
@@ -1383,6 +1418,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000762" />
 				<condition type="constructMode" />
 			</condition>
@@ -1398,6 +1434,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="61360" offset="-30,20,0" textId="61130" />
 			<action type="uiSummary" isNotClose="0" textId="61131" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="61139" controllerType="gamepad" />
@@ -1408,6 +1445,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000762" />
 				<condition type="constructMode" not="1" />
 			</condition>
@@ -1430,6 +1468,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000690" />
 				<condition type="constructMode" not="1" />
 			</condition>
@@ -1445,6 +1484,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="61100" offset="-30,20,0" textId="60961" />
 			<action type="uiSummary" isNotClose="0" textId="60960" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
@@ -1455,6 +1495,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000690" />
 				<condition type="constructMode" />
 				<condition type="CubeHolderSelectItem" value="50400159" not="1" />
@@ -1472,6 +1513,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" customPosType="cubeType" childIndex="2" entityId="61110" offset="-10,12,0" textId="61112" />
 			<action type="uiSummary" isNotClose="0" textId="61101" />
 		</openAction>
@@ -1481,6 +1523,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000690" />
 				<condition type="constructMode" />
 				<condition type="guideClear" id="61101" />
@@ -1498,6 +1541,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="61110" offset="-20,0,0" textId="61111" />
 			<action type="uiSummary" isNotClose="0" textId="61110" />
 		</openAction>
@@ -1507,6 +1551,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000690" />
 				<condition type="guideClear" id="61110" />
 				<condition type="constructMode" />
@@ -1522,6 +1567,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiSummary" isNotClose="0" textId="61120" />
 		</openAction>
 	</event>
@@ -1530,6 +1576,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000692" />
 				<condition type="constructMode" />
 			</condition>
@@ -1545,6 +1592,7 @@
 		</cancel>
 		<openAction>
 			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" childName="m_craftMode" dialogName="HomeMenuDialog" entityId="61150" offset="-30,20,0" textId="61130" />
 			<action type="uiSummary" isNotClose="0" textId="61131" controllerType="keyboard" />
 			<action type="uiSummary" isNotClose="0" textId="61139" controllerType="gamepad" />
@@ -1555,6 +1603,7 @@
 			<condition type="allOf">
 				<condition type="fieldId" value="62000000" />
 				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000692" />
 				<condition type="constructMode" not="1" />
 			</condition>

@@ -131,6 +131,7 @@
 	<systemSound key="Massive_notice" group="MS2Sound/Sound/Voice/ko/System" soundID="10000002" />
 	<systemSound key="Massive_notice02" group="MS2Sound/Sound/system" soundID="02100040" />
 	<systemSound key="Massive_notice03" group="MS2Sound/Sound/system" soundID="02100105 " />
+	<systemSound key="System_FieldWar" group="MS2Sound/Sound/system" soundID="02100314" />
 	<systemSound key="mail_recieve" group="MS2Sound/Sound/Voice/ko/System" soundID="10000004" cooltimeID="26" />
 	<systemSound key="mail_delete" group="MS2Sound/Sound/system" soundID="02100050" />
 	<systemSound key="system_GroupChat" group="MS2Sound/Sound/system" soundID="02100104" />

@@ -90,6 +90,7 @@
 		<onEnter>
 			<action name="AddBalloonTalk" spawnPointID="101" msg="네 마음가짐과 기량을 한 번 볼까?" duration="3000" />
 			<action name="SetUserValue" triggerID="900002" key="Timer" value="1" />
+			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="101" durationTick="180000" npcHpStep="10" />
 			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="101" durationTick="183000" npcHpStep="100" />			 -->
 		</onEnter>
 		<condition name="UserValue" key="Nextmonster" value="1">
@@ -174,6 +175,7 @@
 		<onEnter>
 			<action name="AddBalloonTalk" spawnPointID="102" msg="와라!! 얼마나 성장했는지 보겠다!" duration="3000" />
 			<action name="SetUserValue" triggerID="900002" key="Timer" value="2" />
+			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="102" durationTick="180000" npcHpStep="10" />
 			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="102" durationTick="183000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="UserValue" key="Nextmonster" value="1">
@@ -258,6 +260,7 @@
 		<onEnter>
 			<action name="AddBalloonTalk" spawnPointID="103" msg="그동안 어떤 성과를 이루셨는지 보여주세요." duration="3000" />
 			<action name="SetUserValue" triggerID="900002" key="Timer" value="3" />
+			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="103" durationTick="180000" npcHpStep="10" />
 			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="103" durationTick="183000" npcHpStep="100" />			 -->
 		</onEnter>
 		<condition name="UserValue" key="Nextmonster" value="1">

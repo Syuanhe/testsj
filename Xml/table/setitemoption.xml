@@ -1571,39 +1571,241 @@
 		<part count="2" additionalEffectID="0" additionalEffectLevel="1" cap_value_base="70" car_value_base="30" />
 	</option>
 	<option id="18110701">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110702">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110703">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110704">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110705">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110706">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110707">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110708">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110709">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110710">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110711">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051616" additionalEffectLevel="1" />
 	</option>
 	<option id="18110712">
-		<part count="5" additionalEffectID="0" additionalEffectLevel="1" />
+		<part count="5" additionalEffectID="90051617" additionalEffectLevel="1" />
+	</option>
+	<option id="18112001">
+		<part count="6" additionalEffectID="90051009" additionalEffectLevel="1" animationPrefix="Magician_" setEffect="Item/SpecialSkin/Magician/Eff_Magician_Set_01.xml" groundAttribute="Magician" />
+	</option>
+	<option id="18112002">
+		<part count="6" additionalEffectID="90051010" additionalEffectLevel="1" animationPrefix="Magician_" setEffect="Item/SpecialSkin/Magician/Eff_Magician_Set_01.xml" groundAttribute="Magician" />
+	</option>
+	<option id="18122101">
+		<part count="5" additionalEffectID="90051634" additionalEffectLevel="1" />
+	</option>
+	<option id="18122102">
+		<part count="5" additionalEffectID="90051634" additionalEffectLevel="1" />
+	</option>
+	<option id="18122103">
+		<part count="5" additionalEffectID="90051636" additionalEffectLevel="1" />
+	</option>
+	<option id="18122104">
+		<part count="5" additionalEffectID="90051636" additionalEffectLevel="1" />
+	</option>
+	<option id="18122105">
+		<part count="5" additionalEffectID="90051635" additionalEffectLevel="1" />
+	</option>
+	<option id="18122106">
+		<part count="5" additionalEffectID="90051635" additionalEffectLevel="1" />
+	</option>
+	<option id="18122107">
+		<part count="5" additionalEffectID="90051637" additionalEffectLevel="1" />
+	</option>
+	<option id="18122108">
+		<part count="5" additionalEffectID="90051637" additionalEffectLevel="1" />
+	</option>
+	<option id="18122109">
+		<part count="5" additionalEffectID="90051634" additionalEffectLevel="1" />
+	</option>
+	<option id="18122110">
+		<part count="5" additionalEffectID="90051635" additionalEffectLevel="1" />
+	</option>
+	<option id="18122111">
+		<part count="5" additionalEffectID="90051636" additionalEffectLevel="1" />
+	</option>
+	<option id="18122112">
+		<part count="5" additionalEffectID="90051638" additionalEffectLevel="1" />
+	</option>
+	<option id="18122701">
+		<part count="2" additionalEffectID="90051620,90051624" additionalEffectLevel="1,1" pen_rate_base="0.03" />
+	</option>
+	<option id="18122702">
+		<part count="2" additionalEffectID="0" additionalEffectLevel="1" />
+	</option>
+	<option id="19010301">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010302">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010303">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010304">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010305">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010306">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010307">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010308">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010309">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010310">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010311">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" atp_value_base="3" />
+		<part count="5" additionalEffectID="90051641" additionalEffectLevel="1" />
+	</option>
+	<option id="19010312">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010313">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010314">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010315">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010316">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010317">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010318">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010319">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010320">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010321">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19010322">
+		<part count="3" additionalEffectID="0" additionalEffectLevel="1" hp_value_base="1000" asp_value_base="4" />
+		<part count="5" additionalEffectID="90051642" additionalEffectLevel="1" />
+	</option>
+	<option id="19011101">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011102">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011103">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011104">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011105">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011106">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011107">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011108">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011109">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011110">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011111">
+		<part count="5" additionalEffectID="90051639" additionalEffectLevel="1" />
+	</option>
+	<option id="19011112">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011113">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011114">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011115">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011116">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011117">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011118">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011119">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011120">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011121">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
+	</option>
+	<option id="19011122">
+		<part count="5" additionalEffectID="90051640" additionalEffectLevel="1" />
 	</option>
 </ms2>

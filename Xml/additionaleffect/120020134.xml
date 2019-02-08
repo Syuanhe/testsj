@@ -5,7 +5,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="1" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="1" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -28,11 +28,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="1" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="1,1" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -40,7 +39,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="2" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="2" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -63,11 +62,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="2" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="2,2" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -75,7 +73,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="3" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="3" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -98,11 +96,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="3" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="3,3" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -110,7 +107,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="4" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="4" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -133,11 +130,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="4" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="4,4" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -145,7 +141,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="5" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="5" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -168,11 +164,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="5" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="5,5" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -180,7 +175,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="6" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="6" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -203,11 +198,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="6" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="6,6" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -215,7 +209,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="7" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="7" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -238,11 +232,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="7" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="7,7" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -250,7 +243,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="8" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="8" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -273,11 +266,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="8" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="8,8" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -285,7 +277,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="9" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="9" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -308,11 +300,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="9" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="9,9" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -320,7 +311,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="1" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="10" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" />
+		<BasicProperty level="10" accountEffect="0" group="0" buffType="1" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="1" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="2" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -343,11 +334,10 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<conditionSkill splash="0" level="10" skillID="120020093" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="10,10" skillID="120020135,120020136" skillTarget="2" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
-				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="" eventEffectID="" />
-				<target hasBuffID="50004546" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="10300265" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>

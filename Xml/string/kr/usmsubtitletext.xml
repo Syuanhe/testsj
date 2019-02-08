@@ -125,6 +125,15 @@
 	<key id="SkyFortress_Intro_caption20" name="드디어 떠올랐군요." feature="FameContents" />
 	<key id="SkyFortress_Intro_caption21" name="부디 메이플 월드를 지켜주세요." feature="FameContents" />
 	<key id="SkyFortress_Intro_caption22" name="하늘의 방패, 스카이 포트리스." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption23" name="거기까지다!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption24" name="제대로 좀 해볼까!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption25" name="베어주마!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption26" name="쳇!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption27" name="화염의 폭풍이여!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption28" name="각오하라고!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption30" name="기운 내세요!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption31" name="간다." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption32" name="작별 인사나 하라고!" feature="FameContents" />
 	<key id="Lapenta_Frontier_Intro_caption1" name="밤하늘에 빛나는 저 별 보다" feature="LapentaFrontierQuest" />
 	<key id="Lapenta_Frontier_Intro_caption2" name="함께 있는 내 안에 그" feature="LapentaFrontierQuest" />
 	<key id="Lapenta_Frontier_Intro_caption3" name="그 맘이 좋아" feature="LapentaFrontierQuest" />

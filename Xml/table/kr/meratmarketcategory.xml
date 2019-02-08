@@ -68,6 +68,7 @@
 		<tab name="1006" id="200" priority="3" symbol="UIMeratMarketDialog_symbol_build" static="1" alwaysOpen="true">
 			<tab name="3028" id="202" category="LA" priority="1" static="1" />
 			<tab name="3029" id="203" category="DE,stairs,TR,TREE" priority="2" static="1" />
+			<tab name="2100" id="204" category="Blueprint" static="1" priority="3" feature="BlueprintMarket" />
 		</tab>
 		<tab name="1009" id="300" priority="3" symbol="UIMeratMarketDialog_symbol_ridee" static="1" category="Jide" />
 	</category>

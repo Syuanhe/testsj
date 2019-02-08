@@ -299,7 +299,7 @@
 			<skill main="10200251" subJobCode="201" sub="10200254,10200255,10200257" uiPosition="2, 4" maxLevel="5" quickSlotPriority="21" />
 			<skill main="10200261" subJobCode="201" uiPosition="0, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10200271" subJobCode="201" uiPosition="1, 5" maxLevel="5" uiHighlight="1" />
-			<skill main="10200281" subJobCode="201" uiPosition="2, 5" maxLevel="5" uiHighlight="1" />
+			<skill main="10200281" subJobCode="201" sub="10200282" uiPosition="2, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10200291" subJobCode="201" uiPosition="3, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10200191" subJobCode="201" uiPosition="3, 0" />
 		</skills>
@@ -584,7 +584,7 @@
 			<skill main="10400211" subJobCode="401" uiPosition="2, 1" maxLevel="5" />
 			<skill main="10400231" subJobCode="401" uiPosition="2, 3" maxLevel="5" />
 			<skill main="10400261" sub="10400262" subJobCode="401" uiPosition="2, 4" maxLevel="5" />
-			<skill main="10400291" subJobCode="401" uiPosition="2, 5" maxLevel="5" uiHighlight="1" />
+			<skill main="10400291" sub="10400293" subJobCode="401" uiPosition="2, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10400301" subJobCode="401" uiPosition="3, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10400241" sub="10400242" subJobCode="401" uiPosition="3, 0" maxLevel="1" />
 		</skills>
@@ -856,7 +856,7 @@
 			<skill main="10600201" subJobCode="601" uiPosition="0, 1" maxLevel="5" />
 			<skill main="10600251" subJobCode="601" uiPosition="0, 2" maxLevel="5" />
 			<skill main="10600231" subJobCode="601" uiPosition="0, 4" maxLevel="5" />
-			<skill main="10600281" subJobCode="601" uiPosition="0, 5" maxLevel="5" uiHighlight="1" />
+			<skill main="10600281" subJobCode="601" sub="10600284,10600285,10600286" uiPosition="0, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10600291" subJobCode="601" uiPosition="1, 5" maxLevel="5" uiHighlight="1" />
 			<skill main="10600171" subJobCode="601" sub="10600172" uiPosition="2, 0" maxLevel="5" />
 			<skill main="10600211" subJobCode="601" sub="10600213" uiPosition="2, 1" maxLevel="5" />
@@ -1442,7 +1442,7 @@
 			<skill main="11000171" subJobCode="1001" sub="11000221" uiPosition="0, 0" maxLevel="5" />
 			<skill main="11000191" subJobCode="1001" sub="11000192" uiPosition="0, 1" maxLevel="5" />
 			<skill main="11000181" subJobCode="1001" sub="11000182,11000183" uiPosition="0, 2" maxLevel="5" />
-			<skill main="11000211" subJobCode="1001" sub="11000212,11000213,11000214,11000219,11000312,11000313" uiPosition="0, 4" maxLevel="5" />
+			<skill main="11000211" subJobCode="1001" sub="11000212,11000213,11000214,11000219,11000312,11000313,11000316" uiPosition="0, 4" maxLevel="5" />
 			<skill main="11000241" subJobCode="1001" sub="11000231" uiPosition="2, 0" maxLevel="5" />
 			<skill main="11000261" subJobCode="1001" sub="11000262,11000265,11000266" uiPosition="2, 1" maxLevel="5" />
 			<skill main="11000271" subJobCode="1001" sub="11000272" uiPosition="2, 3" maxLevel="5" />

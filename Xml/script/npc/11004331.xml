@@ -27,6 +27,11 @@
 		<content illust="Orde_normal" text="$script:1010140307011559$" />
 		<content illust="Orde_normal" text="$script:1010140307011560$" />
 		<content illust="Orde_normal" text="$script:1010140307011561$" />
-		<content illust="Orde_normal" text="$script:1010140307011562$" />
+		<content illust="Orde_normal" text="$script:1010140307011562$">
+			<distractor text="$script:0111232407012697$" goto="60" gotoFail="" />
+		</content>
+	</script>
+	<script id="60" feature="Kritias_2018_12" locale="">
+		<content illust="Orde_normal" text="$script:0111232407012698$" />
 	</script>
 </ms2>

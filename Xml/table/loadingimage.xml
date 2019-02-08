@@ -1723,6 +1723,37 @@
 	<image code="02100007" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Guildraid_Lobby_01" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="02100008" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Guildraid_Lobby_01" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="02100009" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Guildraid_Lobby_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020001" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_07" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020003" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_06" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020004" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_03" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020006" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020008" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020009" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_06" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020010" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020013" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020014" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_03" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020016" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_06" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020017" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_04" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020018" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_07" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020029" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020030" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_05" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020031" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020032" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_03" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020033" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_05" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020034" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_08" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020035" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_08" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020036" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020037" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_09" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020041" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_City_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020041" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_City_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020051" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020061" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020062" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020063" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020064" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020065" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Field_10" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020097" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Dungeon_01" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="02020200" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Dungeon_02" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="03000002" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="ShadowWorld_02" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="03000003" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="ShadowWorld_02" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="03000004" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="ShadowWorld_02" playOneTime="" movieFileName="" exceptMap="" />
@@ -2265,6 +2296,10 @@
 	<image code="80000013" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="karkar_Bonusmap_01" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="80000014" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="80000015" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="80000017" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Bonusmap_02" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="80000018" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Bonusmap_03" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="80000019" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Bonusmap_04" playOneTime="" movieFileName="" exceptMap="" />
+	<image code="80000020" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="Kritias_Bonusmap_01" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="82000001" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="mushroomisland" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="82000003" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="mushroomisland" playOneTime="" movieFileName="" exceptMap="" />
 	<image code="82000006" locale="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" bgLoading="mushroomisland" playOneTime="" movieFileName="" exceptMap="" />

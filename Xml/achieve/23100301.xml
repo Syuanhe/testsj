@@ -3,7 +3,7 @@
 <ms2>
 	<achieves id="23100301" account="1" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="combat,growth" feature="Fishing">
 		<grade value="1">
-			<condition type="revise_achieve_multi_grade" code="21100010,21100011,21100012,21100013,21100014,21100015,21100016,21100017" value="8" target="1" />
+			<condition type="revise_achieve_multi_grade" code="21100010,21100011,21100012,21100013,21100014,21100015,21100016,21100017,21100040,21100046,21100049" value="8" target="1" />
 			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 	</achieves>

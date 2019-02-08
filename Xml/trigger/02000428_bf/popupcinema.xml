@@ -64,11 +64,11 @@
    <state name="전투시작03">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="5000" script="$02000410_BF__PopUpCinema__2$" voice="ko/Monster/60000724"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="8500" script="$02000410_BF__PopUpCinema__2$" voice="ko/Monster/60000724"/>	
 
     </onEnter>
 
-		<condition name="WaitTick" waitTick="5000" > 
+		<condition name="WaitTick" waitTick="8500" > 
 			<transition state="전투시작04" />	 
 		</condition>		
 	
@@ -79,11 +79,11 @@
    <state name="전투시작04">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="5000" script="$02000410_BF__PopUpCinema__3$" voice="ko/Monster/60000725"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="6000" script="$02000410_BF__PopUpCinema__3$" voice="ko/Monster/60000725"/>	
 
     </onEnter>
 
-		<condition name="WaitTick" waitTick="5000" > 
+		<condition name="WaitTick" waitTick="6000" > 
 			<transition state="전투시작05" />	 
 		</condition>		
 	
@@ -94,7 +94,7 @@
    <state name="전투시작05">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="5000" script="$02000410_BF__PopUpCinema__4$" voice="ko/Npc/00002172"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="6500" script="$02000410_BF__PopUpCinema__4$" voice="ko/Npc/00002172"/>	
 
     </onEnter>
 

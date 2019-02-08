@@ -18,20 +18,6 @@
 	<script id="35" feature="" locale="KR">
 		<content voiceID="ko/Npc/02000947" text="$script:0511193407006101$" />
 	</script>
-	<script randomPick="1" id="40" feature="" locale="KR">
-		<content text="$script:0202173007009842$">
-			<distractor text="$script:0202173007009843$" goto="41" gotoFail="42" />
-		</content>
-	</script>
-	<script id="41" feature="" locale="KR">
-		<content functionID="1" openTalkReward="1" text="$script:0202173007009844$" />
-	</script>
-	<script id="42" feature="" locale="KR">
-		<content text="$script:0202173007009845$" />
-	</script>
-	<script randomPick="1" id="50" feature="" locale="KR">
-		<content text="$script:0202173007009846$" />
-	</script>
 	<script randomPick="1" id="60" feature="" locale="CN">
 		<content voiceID="ko/Npc/02000941" text="$script:0219172307009848$">
 			<distractor text="$script:0219172307009849$" goto="61" gotoFail="" />
@@ -39,20 +25,6 @@
 	</script>
 	<script id="61" feature="" locale="CN">
 		<content voiceID="ko/Npc/02000947" text="$script:0219172307009850$" />
-	</script>
-	<script randomPick="1" id="70" feature="Develop" locale="CN">
-		<content text="$script:0219180707009851$">
-			<distractor text="$script:0219180707009852$" goto="71" gotoFail="72" />
-		</content>
-	</script>
-	<script id="71" feature="Develop" locale="CN">
-		<content functionID="2" openTalkReward="1" text="$script:0219180707009853$" />
-	</script>
-	<script id="72" feature="Develop" locale="CN">
-		<content text="$script:0219180707009854$" />
-	</script>
-	<script randomPick="1" id="80" feature="Develop" locale="CN">
-		<content text="$script:0219180707009855$" />
 	</script>
 	<script randomPick="1" id="90" feature="" locale="NA">
 		<content voiceID="ko/Npc/02000941" text="$script:0913145407011302$">

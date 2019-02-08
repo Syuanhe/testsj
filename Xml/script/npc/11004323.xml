@@ -20,6 +20,15 @@
 		<content illust="Eve_normal" text="$script:1010140307011488$" />
 		<content illust="Eve_normal" text="$script:1010140307011489$" />
 		<content illust="Eve_normal" text="$script:1010140307011490$" />
-		<content illust="Eve_normal" text="$script:1010140307011491$" />
+		<content illust="Eve_normal" text="$script:1010140307011491$">
+			<distractor text="$script:0111232407012691$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="Kritias_2018_12" locale="">
+		<content illust="Eve_normal" text="$script:0111232407012692$" />
+	</script>
+	<script randomPick="1" id="40" feature="Kritias_2018_12" locale="">
+		<content illust="Eve_normal" text="$script:0109125407012657$" />
+		<content illust="Eve_normal" text="$script:0109125407012658$" />
 	</script>
 </ms2>

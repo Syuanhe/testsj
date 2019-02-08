@@ -50,6 +50,9 @@
 			<condition type="interact_object" code="10001344" value="4">
 				<navi type="interact" code="10001344" map="02000145" />
 			</condition>
+			<condition type="interact_object" code="10001343" value="1">
+				<navi type="interact" code="10001343" map="02000145" />
+			</condition>
 		</quest>
 	</environment>
 </ms2>

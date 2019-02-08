@@ -134,6 +134,12 @@
 	<key id="267" name="생활 기술 여가" feature="UGCMapRenewal2" />
 	<key id="268" name="생활 기술 마법부여" feature="MagicScroll01" />
 	<key id="269" name="길드 레이드 : 제논 시스템" feature="GuildRaid01" />
+	<key id="271" name="마스터스킬" feature="JobChange_02" />
+	<key id="272" name="크리티아스" feature="Kritias_2018_12" />
+	<key id="273" name="군단전" feature="Fieldwar01" />
+	<key id="274" name="기간티카" feature="Gigantica01" />
+	<key id="275" name="$dungeonTitle:23037002$" feature="Kritias_Paika01" />
+	<key id="276" name="$dungeonTitle:23038002$" feature="Kritias_Balrog01" />
 	<key id="297" name="일일 퀘스트" />
 	<key id="298" name="푸른 별" feature="Season3" />
 	<key id="299" name="붉은 별" feature="Season3" />

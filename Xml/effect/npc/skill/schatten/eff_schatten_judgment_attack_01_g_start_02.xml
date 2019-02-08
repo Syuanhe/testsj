@@ -42,4 +42,7 @@
 <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06101261" startDelay="0.8" >
 	<attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
 </effect>    
+<effect type="soundEvent" group="MS2Sound/Sound/Voice/ko/Npc" event="00002249" startDelay="1" >
+	<attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+</effect> 
 </ms2>

@@ -8,7 +8,7 @@
 			<require level="1" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialItem code="20000592" rank="1" count="1" />
+				<essentialItem code="20001052" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="" guideIcon="" guideMinLevel="0" guideMaxLevel="0" />

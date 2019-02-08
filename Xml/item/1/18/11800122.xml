@@ -12,10 +12,10 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="MT">
-				<asset name="urn:gamebryo-animation:urn:11800117_M_MTLegendary02" selfnode="MT_Point01" targetnode="Bip01 Spine2" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="0" capscale="1" weapon="0" placeable="0">
+				<asset name="urn:gamebryo-animation:urn:11800129_C_MTKritias01" selfnode="MT_Point01" targetnode="Bip01 Spine1" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="0" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
-				<asset name="urn:gamebryo-animation:urn:11800117_F_MTLegendary02" selfnode="MT_Point01" targetnode="Bip01 Spine2" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="1" capscale="1" weapon="0" placeable="0">
+				<asset name="urn:gamebryo-animation:urn:11800129_C_MTKritias01" selfnode="MT_Point01" targetnode="Bip01 Spine1" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="1" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />
@@ -30,7 +30,7 @@
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="5" attack="0" />
-		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/11800117.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="1" category="MT" blackMarketCategory="118_equip" remakeDisable="false" iconCode="2" representOption="4" movie="" xmlData="" presetPath="1/18/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="30" globalRePackingItemConsumeCount="20" globalRePackingScrollID="10000001,10000003" collection="0" doNotPreview="0" doNotSkipRender="0">
+		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/11800129.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="1" category="MT" blackMarketCategory="118_equip" remakeDisable="false" iconCode="2" representOption="4" movie="" xmlData="" presetPath="1/18/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="30" globalRePackingScrollID="10000001,10000003" moveDisable="1" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />
 		</property>
@@ -42,7 +42,7 @@
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
-		<tool itemPreset="11800117" itemPresetPath="1/18/" />
+		<tool itemPreset="11800129" itemPresetPath="1/18/" />
 		<option title="11800122" static="11800122" random="11800122" constant="11800122" staticMakeType="2" randomMakeType="1" constantMakeType="2" optionRandom="0" optionLevelFactor="70" optionID="118010101" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />

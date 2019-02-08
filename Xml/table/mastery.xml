@@ -14,6 +14,14 @@
 		<v grade="11" value="800" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" />
 		<v grade="12" value="880" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" />
 		<v grade="13" value="1000" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" />
+		<v grade="14" value="1190" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="15" value="1390" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="16" value="1620" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="17" value="1870" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="18" value="2130" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="19" value="2400" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="20" value="2690" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
+		<v grade="21" value="2990" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" feature="Fishing02" />
 	</mastery>
 	<mastery type="2">
 		<v grade="1" value="0" rewardJobItemID="" rewardJobItemRank="" rewardJobItemCount="" />

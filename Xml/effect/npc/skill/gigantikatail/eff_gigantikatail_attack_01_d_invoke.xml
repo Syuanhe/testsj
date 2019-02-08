@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <effect type="nif" filePath="NPC/Skill/Mason/Eff_Mason_Attack_01_H_Invoke.nif"  startDelay="0.0" duration="2.0">
+  <effect type="nif" filePath="NPC/Skill/GigantikaTail/Eff_GigantikaTail_Attack_01_D_Invoke.nif"  startDelay="0.0" duration="2.0">
     <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true"/>
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
@@ -17,7 +17,7 @@
 
   
 <!-- <큐브 이펙트 효과음 적용> -->
-   <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102242" startDelay="0.0">
+   <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102346" startDelay="0.0">
       <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect> 
   

@@ -141,6 +141,10 @@
 	<key skillID="90200116" default="0" reserved="깔보기|넌안돼|훗" />
 	<key skillID="90200119" default="0" reserved="인형극" />
 	<key skillID="90200120" default="0" reserved="단풍|단풍이야기" />
+	<key skillID="90200121" default="0" reserved="상어낚시|상어낚시성공" />
+	<key skillID="90200122" default="0" reserved="돼지꿈|돼지의꿈" />
+	<key skillID="90200123" default="0" reserved="반신욕" />
+	<key skillID="90200124" default="0" reserved="메이슨처럼/메이슨따라쟁이" />
 	<key skillID="90220001" default="0" reserved="" />
 	<key skillID="90220002" default="0" reserved="" />
 	<key skillID="90220003" default="0" reserved="" />
@@ -157,4 +161,5 @@
 	<key skillID="90220014" default="0" reserved="" />
 	<key skillID="90220015" default="0" reserved="" />
 	<key skillID="90220016" default="0" reserved="" />
+	<key skillID="90220017" default="0" reserved="" />
 </ms2>

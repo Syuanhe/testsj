@@ -549,11 +549,14 @@
 	</category>
 	<category id="43">
 		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="1">
-			<tab name="1009" category="Ride" priority="1" static="0" />
+			<tab name="2031" category="SKIN" priority="1" static="0" />
 			<tab name="1011" category="EventBadge" priority="2" static="0" />
-			<tab name="1006" category="EventHouse" priority="3" static="0" />
-			<tab name="1013" category="Coupon" priority="4" static="0" />
-			<tab name="2015" category="PS" priority="5" static="0" />
+			<tab name="1009" category="Ride" priority="3" static="0" />
+			<tab name="1006" category="EventHouse" priority="4" static="0" />
+			<tab name="2079" category="Instrument" priority="5" static="0" />
+			<tab name="1013" category="Coupon" priority="6" static="0" />
+			<tab name="2015" category="PS" priority="7" static="0" />
+			<tab name="3038" category="ETC" priority="8" />
 		</tab>
 	</category>
 	<category id="44">
@@ -804,6 +807,42 @@
 			<tab name="2031" category="CoinSkin" priority="2" static="0" />
 			<tab name="1006" category="EventHouse" priority="3" static="0" />
 			<tab name="3038" category="ETC" priority="4" />
+		</tab>
+	</category>
+	<category id="70">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="2053" category="Scroll" priority="1" />
+			<tab name="3049" category="Piece" priority="2" static="0" />
+			<tab name="3014" category="Trophy" priority="3" />
+		</tab>
+	</category>
+	<category id="71">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="2053" category="Scroll" priority="1" />
+			<tab name="1016" category="Lapenshard" priority="2" static="0" />
+			<tab name="1006" category="EventHouse" priority="3" static="0" />
+			<tab name="1009" category="Ride" priority="4" static="0" />
+			<tab name="1011" category="Badge" priority="5" />
+			<tab name="1010" category="BBEtc" priority="6" />
+		</tab>
+	</category>
+	<category id="72">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="2053" category="Scroll" priority="1" />
+			<tab name="1016" category="Lapenshard" priority="2" static="0" />
+			<tab name="2031" category="SKIN" priority="3" static="0" />
+			<tab name="1009" category="Ride" priority="4" static="0" />
+			<tab name="1011" category="Badge" priority="5" />
+			<tab name="1010" category="BBEtc" priority="6" />
+		</tab>
+	</category>
+	<category id="73">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="2053" category="Scroll" priority="1" />
+			<tab name="1016" category="Lapenshard" priority="2" static="0" />
+			<tab name="1009" category="Ride" priority="3" static="0" />
+			<tab name="1011" category="Badge" priority="4" />
+			<tab name="1010" category="BBEtc" priority="5" />
 		</tab>
 	</category>
 	<category id="999">

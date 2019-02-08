@@ -15,7 +15,7 @@
 				<decal />
 			</slot>
 		</slots>
-		<limit jobLimit="" recommendJobs="0" levelLimit="50" levelLimitMax="0" genderLimit="2" transferType="7" shopSell="0" enableBreak="0" enableRegisterMeratMarket="0" exceptEnchant="0" />
+		<limit jobLimit="" recommendJobs="0" levelLimit="50" levelLimitMax="0" genderLimit="2" transferType="2" shopSell="0" enableBreak="0" enableRegisterMeratMarket="0" exceptEnchant="0" />
 		<skill skillID="0" skillLevel="1" />
 		<objectWeaponSkill skillID="0" skillLevel="1" />
 		<title maxCount="0" />
@@ -35,7 +35,7 @@
 			<CP xrotation="0" yrotation="0" zrotation="0" scale="0" attach="0" />
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
-		<AdditionalEffect id="61100153" level="1" />
+		<AdditionalEffect id="61100154" level="1" />
 		<tool itemPreset="empty" itemPresetPath="" />
 		<option title="0" static="0" random="61000019" constant="61000019" staticMakeType="0" randomMakeType="1" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
 		<maid maidID="0" />

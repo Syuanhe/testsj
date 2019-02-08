@@ -3,7 +3,7 @@
 <ms2 feature="">
 	<basic>
 		<ui icon="./Data/Resource/Image/item/icon/41000041.png" movie="" exceptUI="0" attackType="3" />
-		<kinds type="0" subType="2" rangeType="2" jump="120010004" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
+		<kinds type="0" subType="2" rangeType="2" groupType="2" jump="120010004" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="0" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="1" useDefaultSkill="0" useInGameTime="1" cooldownGroupID="0" clearCooldownFromPVPZone="0" ignoreReduceCooldown="0" rechargeMaxCount="20" />
 	</basic>
 	<level value="1">

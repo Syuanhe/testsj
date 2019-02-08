@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-	<environment feature="Develop" locale="">
+	<environment feature="Kritias_Balrog01" locale="">
 		<model kfm="21000998_M_BalrogSoldierSpear" scale="1" anispeed="1" anispeedfix="false" spawnAlphaAnimation="1" offset="0.000000, 0.000000, 0.000000" />
-		<basic friendly="0" npcAttackGroup="1" npcDefenseGroup="2" kind="0" iconName="" minimapIconName="enemy" shopId="0" nametag="1" nametagSize="18" local="0" minimap="1" attackDamage="0" hpBar="1" defenceMaterial="1" hitImmune="80" abnormalImmune="80" level="65" class="1" rankIcon="c" rotationDisabled="0" carePathToEnemy="0" npcSoundStart="" npcSoundEnd="" npcSoundCombatStart="" npcSoundCombatEnd="" npcSoundDead="" maxSpawnCount="0" groupSpawnCount="0" rareDegree="0" difficulty="65" propertyTags="keep_battle" raceString="devil" bossNotify="0" gender="0" illust="" emotionID="0" mainTags="" subTags="" portrait="./Data/Resource/Image/Portrait/Mob/21000998_M_BalrogSoldierSpear_P.png" talkAni="1" damagedColorScale="6" damagedVibrateDuration="1" damagedVibrateAmp="1" regenEffect="" deadEffect="" damageEffect="" createEffect="" keepEffect="" skipFrame="0" checkCameraDistance="0" extraCameraDistance="0" bossSoundDistance="2000" bossSoundEndDistance="3000" />
-		<stat str="0" dex="0" int="0" luk="0" hp="6052362" hp_rgp="0" hp_inv="0" sp="0" sp_rgp="0" sp_inv="0" ep="0" ep_rgp="0" ep_inv="0" asp="100" msp="100" atp="80" evp="97" cap="70" cad="500" car="65" ndd="930" abp="0" jmp="0" pap="513577" map="513733" par="0" mar="0" wapmin="0" wapmax="0" dmg="0" pen="0" rmsp="0" bap="0" bap_pet="0" hiddenhpadd="-2480264" hiddenwapadd="875935" hiddennddadd="123" />
+		<basic friendly="0" npcAttackGroup="1" npcDefenseGroup="2" kind="0" iconName="" minimapIconName="" shopId="0" nametag="0" nametagSize="18" local="0" minimap="0" attackDamage="0" hpBar="1" defenceMaterial="1" hitImmune="80" abnormalImmune="80" level="70" class="1" rankIcon="c" rotationDisabled="0" carePathToEnemy="0" npcSoundStart="" npcSoundEnd="" npcSoundCombatStart="" npcSoundCombatEnd="" npcSoundDead="" maxSpawnCount="0" groupSpawnCount="0" rareDegree="0" difficulty="70" propertyTags="keep_battle" raceString="devil" bossNotify="0" gender="0" illust="" emotionID="0" mainTags="" subTags="" portrait="./Data/Resource/Image/Portrait/Mob/21000998_M_BalrogSoldierSpear_P.png" talkAni="1" damagedColorScale="6" damagedVibrateDuration="1" damagedVibrateAmp="1" regenEffect="" deadEffect="" damageEffect="" createEffect="" keepEffect="" skipFrame="0" checkCameraDistance="0" extraCameraDistance="0" bossSoundDistance="2000" bossSoundEndDistance="3000" />
+		<stat str="0" dex="0" int="0" luk="0" hp="6472102" hp_rgp="0" hp_inv="0" sp="0" sp_rgp="0" sp_inv="0" ep="0" ep_rgp="0" ep_inv="0" asp="100" msp="100" atp="80" evp="102" cap="72" cad="250" car="70" ndd="1071" abp="0" jmp="0" pap="5525872" map="5527543" par="190" mar="190" wapmin="0" wapmax="0" dmg="0" pen="0" rmsp="0" bap="0" bap_pet="0" hiddenhpadd="2977167" hiddenwapadd="4752967" />
 		<speed rotation="720" walk="185" run="370" />
 		<distance avoid="150" sight="9000" sightHeightUP="950" sightHeightDown="800" customLastSightRadius="9900" customLastSightHeightUp="980" customLastSightHeightDown="850" />
 		<skill ids="50001270" levels="1" priorities="1" probs="100" coolDown="0" />
@@ -21,7 +21,7 @@
 		<push back="0" up="0" knockback="0" />
 		<exp customExp="0" />
 		<shadow scale="350" bias="1" />
-		<normal action="Idle_A,Bore_A,Walk_A" prob="5000,3000,2000" movearea="150" maidExpired="Idle_A" />
+		<normal action="Idle_A" prob="10000" movearea="0" maidExpired="Idle_A" />
 		<dropiteminfo dropHeight="0" dropDistanceBase="50" dropDistanceRandom="100" fireVelocity="100" globalDropBoxId="74" globalDeadDropBoxId="" individualDropBoxId="" globalHitDropBoxId="" individualHitDropBoxId="" />
 		<lookattarget targetdummy="" lookAtMyPCWhenTalking="0" useTalkMotion="1" />
 		<crystals />

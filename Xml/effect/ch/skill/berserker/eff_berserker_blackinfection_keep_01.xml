@@ -9,4 +9,8 @@
     <transition loop="true" fresnelBoost="17.50" fresnelExponent="7.5" dimmer="0.35" rgb="0.95, 0.22, 0.57" />
     <transition loop="true" fresnelBoost="17.50" fresnelExponent="7.5" dimmer="1" rgb="0.95, 0.22, 0.57" />
   </effect>
+  
+  <effect type="afterImage" startDelay="0.5" duration="30" lightenMode="0" color="0.5,0.5,0.5,0.7" timeLife="1.5" timeInterval="30" moveInterval="100">
+  </effect>
+  
 </ms2>

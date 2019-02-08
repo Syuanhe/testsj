@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="CP">
-				<asset name="Data/Resource/Model/Item/1/13/11300701_C_CPEmerald_C.nif" selfnode="CP" targetnode="Bip01 Head" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="Data/Resource/Model/Item/1/13/11301043_C_CPGiganTikaA01_A.nif" selfnode="CP" targetnode="Bip01 Head" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />
@@ -27,7 +27,7 @@
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="1" attack="0" />
-		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/11300701.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="1" category="CP" blackMarketCategory="113_equip" remakeDisable="false" iconCode="2" representOption="20" movie="" xmlData="" presetPath="1/13/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="50" globalRePackingScrollID="10000001,10000003" moveDisable="1" collection="0" doNotPreview="0" doNotSkipRender="0">
+		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/11301043.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="1" category="CP" blackMarketCategory="113_equip" remakeDisable="false" iconCode="2" representOption="20" movie="" xmlData="" presetPath="1/13/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="48" globalRePackingItemConsumeCount="6" globalRePackingScrollID="10000001,10000003" moveDisable="1" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />
 		</property>
@@ -39,7 +39,7 @@
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
-		<tool itemPreset="11300701" itemPresetPath="1/13/" />
+		<tool itemPreset="11301043" itemPresetPath="1/13/" />
 		<option title="11301300" static="11301300" random="11301300" constant="11301300" staticMakeType="2" randomMakeType="1" constantMakeType="2" optionRandom="0" optionLevelFactor="70" optionID="113010101" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />

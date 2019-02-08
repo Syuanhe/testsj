@@ -18,7 +18,7 @@
 			<remoteComplete useRemote="1" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="gallery" />
-			<condition type="stay_map" code="63000072" value="300" />
+			<condition type="emotiontime" code="Sit_Ground_A,Sit_Chair_A" value="300" target="63000072" />
 		</quest>
 	</environment>
 </ms2>

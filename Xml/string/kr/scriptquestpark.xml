@@ -641,11 +641,11 @@
 	<key id="1225192211002156" feature="KarkarIsland" npc="pc" name="칼리브 아일랜드 출신이라고 한다." />
 	<key id="1225192211002157" feature="KarkarIsland" npc="pc" name="그건 알아서 뭐 하냐고 쏘아붙인다." />
 	<key id="1225192211002158" feature="KarkarIsland" npc="미엘" name='&lt;font color=&quot;#ffd200&quot;&gt;메이플 아일랜드?&lt;/font&gt; 처음 듣는 곳인데. &#x0A;혹시, 그 아이도 그곳 출신인가? &#x0A;이상한 걸 머리에 끼고, 우산을 들고 다니는 &lt;font color=&quot;#ffd200&quot;&gt;여자애&lt;/font&gt; 말이야.' />
-	<key id="1225192211002159" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
+	<key id="1225192211002159" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
 	<key id="1225192211002160" feature="KarkarIsland" npc="미엘" name='&lt;font color=&quot;#ffd200&quot;&gt;칼리브 아일랜드?&lt;/font&gt; 들어본 적 없는 곳인데. &#x0A;혹시, 그 아이도 그곳 출신인가? &#x0A;이상한 걸 머리에 끼고, 우산을 들고 다니는 &lt;font color=&quot;#ffd200&quot;&gt;여자애&lt;/font&gt; 말이야.' />
-	<key id="1225192211002161" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
+	<key id="1225192211002161" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
 	<key id="1225192211002162" feature="KarkarIsland" npc="미엘" name='너한테 관심 있어서 묻는 거 아니야. &#x0A;내가 알고 싶은 건 그 소녀의 출신지라고. &#x0A;이상한 걸 머리에 끼고, 우산을 들고 다니는 &lt;font color=&quot;#ffd200&quot;&gt;여자애&lt;/font&gt; 말이야.' />
-	<key id="1225192211002163" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
+	<key id="1225192211002163" feature="KarkarIsland" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 말하는 것 같지만, 일단 정확히 모른다고 대답한다.' />
 	<key id="1225192211002164" feature="KarkarIsland" npc="미엘" name="그럼 지금은 어디 있는지 알아? &#x0A;네가 부르면 오나? &#x0A;물어보고 싶은 게 있는데." />
 	<key id="1225192211002165" feature="KarkarIsland" npc="pc" name="그것 역시 잘 모르겠다고 대답한다." />
 	<key id="1225192211002166" feature="KarkarIsland" npc="미엘" name='대체 아는 건 뭐야…?&#x0A;…그래. 뭐, 됐어. 날 경계하는 거라면 마음대로 해.&#x0A;난 그 여자애에게서 느껴지던 &lt;font color=&quot;#ffd200&quot;&gt;황금빛 기운&lt;/font&gt;… 그게 궁금할 뿐이야.' />
@@ -706,9 +706,9 @@
 	<key id="1226220411002234" feature="KarkarIsland" npc="미엘" name="어때? 이제 이해가 됐지?&#x0A;흥미로운 부분이 있었어?" />
 	<key id="1226220411002235" feature="KarkarIsland" npc="pc" name="빛의 유물을 가지면 차원을 넘어올 수 있다는 거냐고 묻는다." />
 	<key id="1226235411002299" feature="KarkarIsland" npc="pc" name="다시 한번 읽어달라고 한다." />
-	<key id="1226220411002236" feature="KarkarIsland" npc="미엘" name='맞아. 내가 처음 이 기록을 발견하고 가장 흥미로웠던 부분이었지.&#x0A;그래서 난, 이곳 존재들과는 다른 파장을 가진 이를 계속 탐지해왔고 &#x0A;어느 날부터 &lt;font color=&quot;#ffd200&quot;&gt;금빛 기운에 둘러싸인&lt;/font&gt; 한 아이를 느끼기 시작했지.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735$.&lt;/font&gt; 네가 찾아다녔고, 만났고, 함께 있던 바로 그 아이. ' />
+	<key id="1226220411002236" feature="KarkarIsland" npc="미엘" name='맞아. 내가 처음 이 기록을 발견하고 가장 흥미로웠던 부분이었지.&#x0A;그래서 난, 이곳 존재들과는 다른 파장을 가진 이를 계속 탐지해왔고 &#x0A;어느 날부터 &lt;font color=&quot;#ffd200&quot;&gt;금빛 기운에 둘러싸인&lt;/font&gt; 한 아이를 느끼기 시작했지.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000735[gender:1]$.&lt;/font&gt; 네가 찾아다녔고, 만났고, 함께 있던 바로 그 아이. ' />
 	<key id="1226220411002237" feature="KarkarIsland" npc="미엘" name='그 아이를 둘러싼 힘은 이 세계의 것과는 달랐어. 그래서 생각했지. &#x0A;어쩌면 저 아이가 품고 있는 힘이 &lt;font color=&quot;#ffd200&quot;&gt;빛의 유물&lt;/font&gt;이라는 게 아닐까, &#x0A;그 힘을 빌면, &lt;font color=&quot;#ffd200&quot;&gt;나도 돌아갈 수 있을까….&lt;/font&gt;' />
-	<key id="1226220411002238" feature="KarkarIsland" npc="미엘" name='$npcName:11000735$$pp:와,과$ 함께 있던 너라면 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;실마리&lt;/font&gt;를 줄 것 같았지만&#x0A;넌 날 경계했지. 정작 내가 궁금해하는 건 잘 모르면서 말이야. ' />
+	<key id="1226220411002238" feature="KarkarIsland" npc="미엘" name='$npcName:11000735[gender:1]$$pp:와,과$ 함께 있던 너라면 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;실마리&lt;/font&gt;를 줄 것 같았지만&#x0A;넌 날 경계했지. 정작 내가 궁금해하는 건 잘 모르면서 말이야. ' />
 	<key id="1226220411002239" feature="KarkarIsland" npc="pc" name="그걸 알면서 굳이 자기 사연을 털어놓은 이유는 뭐냐고 묻는다." />
 	<key id="1226220411002240" feature="KarkarIsland" npc="미엘" name='&lt;font color=&quot;#ffd200&quot;&gt;친구&lt;/font&gt;가 되어줄 수 있을 것 같아서.&#x0A;함께 하는 이를 &lt;font color=&quot;#ffd200&quot;&gt;소중히 여기는 마음&lt;/font&gt;을 갖고 있는 네가,&#x0A;내 이름을 부르며 날 만나러 와준다면 기쁠 것 같아서.' />
 	<key id="1226220411002241" feature="KarkarIsland" npc="pc" name="그럼 친구가 되자고 말한다. " />
@@ -5429,4 +5429,326 @@
 	<key id="0802180211012887" feature="EyeOfLapentaQuest" npc="베아트리체" name="기다리고 있겠습니다.&#x0A;언제든 내가 생각난다면 찾아오세요.&#x0A;나는 이곳에서 당신을 기다리겠습니다." />
 	<key id="0802180211012888" feature="EyeOfLapentaQuest" npc="PC" name="네 아가씨.&#x0A;보고 싶을 때 언제든, 부르실 때 언제든 찾아뵙겠습니다." />
 	<key id="0802180211012889" feature="EyeOfLapentaQuest" npc="베아트리체" name="&lt;font size=&apos;40&apos;&gt;네! $MyPCName$님!&lt;/font&gt;" />
+	<key id="1120154911013072" feature="Kritias_Epic01" npc="에레브" name='$MyPCName$님, 들리시나요?&#x0A;속히 &lt;font color=&quot;#ffd200&quot;&gt;$map:52020037$&lt;/font&gt;$pp2:로,으로$ 와주세요.&#x0A;긴급한 사안입니다.' />
+	<key id="1206160611013326" feature="Kritias_Epic01" npc="에레브" name="(알겠다고 말한다.)" />
+	<key id="1206160611013327" feature="Kritias_Epic01" npc="에레브" name='다시 말씀드리지만 정말 긴급한 사안입니다.&#x0A;모든 것에 우선해서 &lt;font color=&quot;#ffd200&quot;&gt;$map:52020037$&lt;/font&gt;$pp2:로,으로$ 와주세요.' />
+	<key id="1206160611013328" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#909090&quot;&gt;($npcName:11004390[gender:1]$님이 이렇게 다급하게 말씀하시는 것은 처음이야…)&lt;/font&gt;' />
+	<key id="1121171511013075" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#909090&quot;&gt;(빨리 &lt;font color=&quot;#ffd200&quot;&gt;$map:52020037$&lt;/font&gt;$pp2:로,으로$ 가야겠어.)&lt;/font&gt;' />
+	<key id="1120154911013073" feature="Kritias_Epic01" npc="에레브" name="…." />
+	<key id="1120154911013074" feature="Kritias_Epic01" npc="에레브" name="어서 오세요, $MyPCName$님. 긴급한 사안이라 먼저 시작했어요.&#x0A;메이플 월드 상공에 정체불명의 대륙이 출현했답니다." />
+	<key id="1204172811013311" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003536[gender:0]$&lt;/font&gt; 계속하세요.' />
+	<key id="1120154411013003" feature="Kritias_Epic01" npc="네이린" name="계속하겠습니다. &#x0A;트라이아 기준 9시 12분 스카이 포트리스 액티브 레이더에 최초 포착되었으며, 대기권 통과 후 현재 메이플 월드 성층권에 머물고 있습니다." />
+	<key id="1121171511013076" feature="Kritias_Epic01" npc="네이린" name="현재까지 메이플 월드에 대한 공격징후나 접촉시도는 발견되지 않고 있습니다.&#x0A;다만…." />
+	<key id="1121171511013077" feature="Kritias_Epic01" npc="에레브" name="다만 요?" />
+	<key id="1121171511013078" feature="Kritias_Epic01" npc="블리체" name="스카이 포트리스 계측 센서를 통해 해당 대륙에서 라펜샤드 성분이 감지되었습니다." />
+	<key id="1121171511013079" feature="Kritias_Epic01" npc="에레브" name="그럴 리가…!&#x0A;낯선 대륙에서 어떻게 메이플 월드의 물질이 발견될 수 있죠?" />
+	<key id="1121171511013080" feature="Kritias_Epic01" npc="메이슨" name="흠… 얼마 전 일어났던 블랙샤드의 폭발과 관련이 있을지도 모르겠군요.&#x0A;폭심지의 충격파가 대기권을 뚫고 나갈 정도였으니 말이죠." />
+	<key id="1121171511013081" feature="Kritias_Epic01" npc="에레브" name="낯선 대륙이 블랙샤드의 폭발로 출현했다는 말인가요?" />
+	<key id="1121171511013082" feature="Kritias_Epic01" npc="메이슨" name="그곳에서 라펜샤드가 감지된 걸 보면 가능성이 있다고 봅니다.&#x0A;블랙샤드의 구성 물질이 라펜샤드니까요." />
+	<key id="1121171511013083" feature="Kritias_Epic01" npc="블리체" name="즉각적인 탐사를 제안드립니다. &#x0A;당장 드러난 위협징후는 없지만, 선제적 방어를 위해서는 대륙의 정체를 밝혀내야 합니다." />
+	<key id="1121171511013084" feature="Kritias_Epic01" npc="에레브" name="……….&#x0A;허가합니다.&#x0A;미지의 대륙이 우리에게 빛이 될지 위협이 될지는 모르겠지만, 블랙샤드의 영향을 받았다면 우리에게도 책임이 있습니다." />
+	<key id="1121171511013085" feature="Kritias_Epic01" npc="에레브" name="$MyPCName$님 함께 해 주시겠어요?&#x0A;$MyPCName$님이 가주신다면 탐사에 큰 도움이 될 거예요." />
+	<key id="1121171511013086" feature="Kritias_Epic01" npc="PC" name="(함께 가겠다고 말한다.)" />
+	<key id="1121171511013087" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003533[gender:0]$&lt;/font&gt; 사령관.' />
+	<key id="1121183411013093" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003537[gender:0]$&lt;/font&gt;.' />
+	<key id="1121183411013094" feature="Kritias_Epic01" npc="에레브" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003536[gender:0]$&lt;/font&gt;.' />
+	<key id="1121183411013095" feature="Kritias_Epic01" npc="에레브" name="이하 스카이 포트리스 승무원들에게 미지의 대륙으로의 출항을 명합니다. &#x0A;지상에 착륙하여 탐사를 시작하세요." />
+	<key id="1121171911013090" feature="Kritias_Epic01" npc="에레브" name="위험한 여정이 될지 모르는데 응해 주셔서 감사해요.&#x0A;$MyPCName$님과 스카이 포트리스 승무원들의 무사 귀환을 기도할게요." />
+	<key id="1120154411013005" feature="Kritias_Epic01" npc="블리체" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;스카이 포트리스에서 $MyPCName$에게. &#x0A;무사히 도착했나?' />
+	<key id="1122150811013097" feature="Kritias_Epic01" npc="PC" name="(매끄러운 착륙은 아니었지만 무사히 도착했다고 말한다.)" />
+	<key id="1122150811013098" feature="Kritias_Epic01" npc="메이슨" name="미사일을 발사한 공격원은 찾아냈나요?" />
+	<key id="1122150811013099" feature="Kritias_Epic01" npc="샤텐" name="방금 착륙했는데 그게 가능할 리가 있겠어?&#x0A;잠깐, 그것보다 우리 아기 고양이 안전이 우선이야. 아기 고양이, 무사해?" />
+	<key id="1122150811013100" feature="Kritias_Epic01" npc="메이슨" name="후후, 나라면 착륙하면서 미사일 궤적을 역산했을 겁니다.&#x0A;스카이 포트리스 애널라이저에서 궤적을 링크 받아서 말이죠." />
+	<key id="1122150811013101" feature="Kritias_Epic01" npc="네이린" name="$MyPCName$님 귀담아듣지 마세요.&#x0A;하지만, 우리를 공격한 존재를 찾아내는 것이 최우선 목표인 것은 사실입니다." />
+	<key id="1205155811013321" feature="Kritias_Epic01" npc="네이린" name="그들의 정체와 의도를 파악해야 메이플 월드를 지킬 수 있으니까요." />
+	<key id="1130150011013309" feature="Kritias_Epic01" npc="네이린" name="$MyPCName$님, 착륙하신 좌표 #7.28 지점에 생명체 반응이 있어요.&#x0A;지적 생명체일 확률이 있으니 조사해 주세요." />
+	<key id="1122150811013102" feature="Kritias_Epic01" npc="블리체" name="스카이 포트리스는 2시간 후 착륙 예정지에 도착한다.&#x0A;착륙 후 거점을 구축하는 대로 탐사를 시작할 예정이다." />
+	<key id="1204172811013312" feature="Kritias_Epic01" npc="블리체" name="착륙 예정지의 코드명은 &apos;바베니&apos;로 명명한다.&#x0A;임무를 완수하고 바베니로 무사히 귀환하도록." />
+	<key id="1122173211013103" feature="Kritias_Epic01" npc="PC" name="…." />
+	<key id="1120154411013007" feature="Kritias_Epic01" npc="네이린" name="…." />
+	<key id="1120154411013008" feature="Kritias_Epic01" npc="벤시" name="뭐야, 그 우스꽝스러운 옷은?" />
+	<key id="1120154411013009" feature="Kritias_Epic01" npc="벤시" name="요즘 타이렌 왕국에선 그런 옷이 유행인가?&#x0A;하긴 타이렌을 떠난 지도 7년이나 지났으니…." />
+	<key id="1122173211013104" feature="Kritias_Epic01" npc="PC" name="(타이렌 왕국이 어떤 나라인지 묻는다.)" />
+	<key id="1122173211013105" feature="Kritias_Epic01" npc="벤시" name="뭐야, 추방자가 아닌 거야? 그럼 어디서 온 거야, 당신?&#x0A;뭐 상관없어. 날 도울 수만 있다면." />
+	<key id="1122173211013106" feature="Kritias_Epic01" npc="PC" name="(스카이 포트리스로 발사된 미사일에 관해 묻는다.)" />
+	<key id="1122173211013107" feature="Kritias_Epic01" npc="벤시" name="얼마 전 이곳에 와서 키델 전역을 들쑤시고 다니는 놈들 말이군.&#x0A;내가 도움을 줄 수 있을 것 같아. 당신이 먼저 날 돕는다면." />
+	<key id="1122173211013108" feature="Kritias_Epic01" npc="PC" name="(돕겠다고 말한다.)" />
+	<key id="1122173211013109" feature="Kritias_Epic01" npc="벤시" name="좋아. 나 같은 베테랑은 좀처럼 이런 실수를 하지 않는데….&#x0A;사냥총의 에네르가 다 떨어졌지 뭐야.&#x0A;토착 생물들이 좀 날뛰어야 말이지." />
+	<key id="1122173211013110" feature="Kritias_Epic01" npc="벤시" name='뭐, 우리가 놈들의 터전에 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp:를,을$ 건설했으니 당연한 일이겠지만 말이야.&#x0A;이대로 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 돌아간다면 반 발짝도 못 가서 놈들에게 잡아 먹히겠지.&#x0A;등에 광석이 솟아난 벌레들을 잡아. 그럼 에네르를 구할 수 있을 거야.' />
+	<key id="1120154411013010" feature="Kritias_Epic01" npc="벤시" name='사냥총만 충전되면 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 돌아가는 건 일도 아냐.&#x0A;전역했지만 난 여전히 명사수거든.' />
+	<key id="1120154411013011" feature="Kritias_Epic01" npc="벤시" name='호오. 일 처리가 빠르고 깔끔한데?&#x0A;&lt;font color=&quot;#909090&quot;&gt;($npcName:25020003$의 간식이 될 줄 알았는데....)&lt;/font&gt;' />
+	<key id="1122190011013118" feature="Kritias_Epic01" npc="벤시" name='덕분에 무사히 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 돌아갈 수 있겠군.&#x0A;사냥총을 충전하기에 충분한 에네르야.' />
+	<key id="1120154411013012" feature="Kritias_Epic01" npc="PC" name="(이제 공중으로 발사된 미사일에 관해 이야기해 달라고 말한다.)" />
+	<key id="1122173211013111" feature="Kritias_Epic01" npc="벤시" name="얼마 전 이곳 키델에 이상한 놈들이 왔어. 당신처럼 여기 사람이 아닌 존재들이지.&#x0A;북동쪽에 거대한 기지를 건설했다는 소문도 있고…. &#x0A;무슨 목적인지 모르겠지만 여기저기 들쑤시고 다니고 있어." />
+	<key id="1122173211013112" feature="Kritias_Epic01" npc="벤시" name="뭔가를 묻고 모르면 바로… 말 안 해도 알지?&#x0A;뭘 묻고 다니는지는 몰라. 놈들을 만나고 살아 돌아온 사람이 한 명도 없으니까.&#x0A;북쪽 구릉에 놈들이 구축한 초소가 있어." />
+	<key id="1122173211013113" feature="Kritias_Epic01" npc="벤시" name="그곳에서 미사일이 발사되는 것을 봤어. 거대한 비행선을 향해 말이야.&#x0A;당신 그걸 타고 여기 온 거지?" />
+	<key id="1122173211013114" feature="Kritias_Epic01" npc="PC" name="(고맙다고 말하고 구릉을 향해 출발하기로 한다.)" />
+	<key id="1122173211013115" feature="Kritias_Epic01" npc="벤시" name="죽고 싶지 않다면 그만둬.&#x0A;구릉으로 가는 길목은 기계 병사들이 자주 나타나는 곳이야." />
+	<key id="1205162111013322" feature="Kritias_Epic01" npc="벤시" name="놈들에게 발각되면 두 동강이 걸?&#x0A;당신이 싸웠던 토착 생물과는 급이 달라." />
+	<key id="1122173211013116" feature="Kritias_Epic01" npc="PC" name="(무슨 일이 있어도 구릉에 가서 초소를 조사하겠다고 말한다.)" />
+	<key id="1122173211013117" feature="Kritias_Epic01" npc="벤시" name="뭐, 스스로 죽겠다면야… 말리지는 않겠어.&#x0A;행운을 비네, 이방인." />
+	<key id="1205163011013323" feature="Kritias_Epic01" npc="PC" name="(기계 병사들에 관해 묻는다.)" />
+	<key id="1205163011013324" feature="Kritias_Epic01" npc="벤시" name="날 도와준 대가로 준 정보는 여기까지야. &#x0A;나머지는 알아서 하라고." />
+	<key id="1120154411013013" feature="Kritias_Epic01" npc="벤시" name="그 미사일들 말이야. 지상에서 발사된 날카로운 섬광에 의해 파괴됐어.&#x0A;그런 힘은 처음 봤어…" />
+	<key id="1120154411013014" feature="Kritias_Epic01" npc="정체불명의 여자" name="………." />
+	<key id="1120154411013015" feature="Kritias_Epic01" npc="PC" name="(초소의 검은군단 병사들을 쓰러뜨린 게 누구냐고 묻는다.)" />
+	<key id="1122191311013119" feature="Kritias_Epic01" npc="정체불명의 여자" name="………." />
+	<key id="1122191311013120" feature="Kritias_Epic01" npc="PC" name="(스카이 포트리스로 발사된 미사일이 왜 폭파되었는지 묻는다.)" />
+	<key id="1122191311013121" feature="Kritias_Epic01" npc="정체불명의 여자" name="아무것도 기억 안나. 나 왜 여기 있는 거야?&#x0A;배고파… 쓰러질 것 같아…." />
+	<key id="1122191311013122" feature="Kritias_Epic01" npc="PC" name="(먹을 것을 구해주겠다고 말한다.)" />
+	<key id="1120154411013016" feature="Kritias_Epic01" npc="정체불명의 여자" name="혼자 있기 싫어. 금방 올 거지?" />
+	<key id="1120154411013017" feature="Kritias_Epic01" npc="정체불명의 여자" name="맛있어 보이는 열매잖아! 고마워." />
+	<key id="1122193211013127" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;(스카이 포트리스와 교신을 시도한다.)' />
+	<key id="1122191311013123" feature="Kritias_Epic01" npc="메이슨" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;스카이 포트리스 수신 완료.&#x0A;진전이 있으니까 연락했겠죠?&#x0A;우리에게 미사일을 발사한 자들에 대해 알아냈나요?' />
+	<key id="1129162011013273" feature="Kritias_Epic01" npc="PC" name="(검은군단 병사들이었다고 말한다.)" />
+	<key id="1122191311013124" feature="Kritias_Epic01" npc="네이린" name="검은군단 병사들이었다고요?!&#x0A;놈들이 우리보다 먼저 이곳에 와 있었군요…!!&#x0A;대체 왜…" />
+	<key id="1122191311013125" feature="Kritias_Epic01" npc="메이슨" name="흠… 지대공 미사일 포트를 설치했다는 건…&#x0A;우리가 스카이 포트리스를 타고 이곳에 올 줄 알고 있었다는 말이군요." />
+	<key id="1122191311013126" feature="Kritias_Epic01" npc="블리체" name="$MyPCName$, 훌륭히 임무를 완수해 주어 고맙다." />
+	<key id="1204172811013313" feature="Kritias_Epic01" npc="블리체" name="다음 임무를 의뢰한다.&#x0A;검은군단이 무슨 목적으로 이곳에 왔는지 알아내도록. 이상." />
+	<key id="1120154411013018" feature="Kritias_Epic01" npc="PC" name="…." />
+	<key id="1120154411013019" feature="Kritias_Epic01" npc="PC" name="…." />
+	<key id="1120154411013020" feature="Kritias_Epic01" npc="비롤" name="가까이 오지마!! 쏠 거야!!!&#x0A;이거 장전된 총이야!" />
+	<key id="1123150711013128" feature="Kritias_Epic01" npc="PC" name="(진정하라고 말한다.)" />
+	<key id="1123150711013129" feature="Kritias_Epic01" npc="비롤" name="진정 같은 소리 하고 있네. 너도 그놈들과 한패지?" />
+	<key id="1120154411013021" feature="Kritias_Epic01" npc="비롤" name="내 동료들을 잡아간 놈들도 너 같은 이방인이었어!&#x0A;허튼짓 하면 바로 쏴버릴 거야!&#x0A;내 눈앞에서 사라져, 어서!" />
+	<key id="1123150711013130" feature="Kritias_Epic01" npc="PC" name="(한숨을 쉬고, 돌아선다….)" />
+	<key id="1123150711013131" feature="Kritias_Epic01" npc="비롤" name="가란다고 정말 가면 어떡해!" />
+	<key id="1123150711013132" feature="Kritias_Epic01" npc="PC" name="(어쩌란 말이냐고 묻는다.)" />
+	<key id="1123150711013133" feature="Kritias_Epic01" npc="비롤" name="동료들 좀 구해줘… 무서워 죽겠단 말이야…." />
+	<key id="1123150711013134" feature="Kritias_Epic01" npc="PC" name="(무슨 일이 있었는지 묻는다.)" />
+	<key id="1123150711013135" feature="Kritias_Epic01" npc="비롤" name="너도 알고 있겠지? 이방인이니까. 그 검은 망토를 쓴 자들….&#x0A;최근 이곳 저곳을 들쑤시며 무언가를 묻고 다닌다는 놈들 말야.&#x0A;녀석들의 비행선 착륙지를 수색하려다 되려 기습을 받고 말았어." />
+	<key id="1123150711013136" feature="Kritias_Epic01" npc="비롤" name="간신히 도망쳤지만, 동료들은 모두 포로가 되고 말았어.&#x0A;난 무서워서 동료들이 이곳까지 끌려 오는 동안 미행만 할 수밖에 없었어." />
+	<key id="1120154411013022" feature="Kritias_Epic01" npc="비롤" name="…." />
+	<key id="1120154411013023" feature="Kritias_Epic01" npc="비롤" name="그런데 이상한 게… 동료들을 잡아 놓은 채 감시만 하고 있더라고.&#x0A;마치 누군가를 기다리는 것 같았어.&#x0A;그런데 갑자기…!!" />
+	<key id="1123150711013137" feature="Kritias_Epic01" npc="PC" name="(무슨 일이 있었는지 묻는다.)" />
+	<key id="1123150711013138" feature="Kritias_Epic01" npc="비롤" name="허공에 공간이 열리더니 무시무시한 자가 나타났어.&#x0A;검은 망토에 거대한 빨간 뿔… 마치 악마를 보는 것 같았어." />
+	<key id="1204172811013314" feature="Kritias_Epic01" npc="비롤" name="그리고는…." />
+	<key id="1120154411013024" feature="Kritias_Epic01" npc="비롤" name="그런 일이 있었던 거야….&#x0A;동료들을 회복시키려면 에네르 토양에서 자란 약초가 필요해.&#x0A;좀 구해다 주겠어?" />
+	<key id="1123170111013139" feature="Kritias_Epic01" npc="비롤" name="부탁이야, 시간이 더 지체되면 영영 회복되지 못할지도 몰라.&#x0A;난 쓰러진 동료들을 살펴보고 있을게." />
+	<key id="1123170111013140" feature="Kritias_Epic01" npc="블리체" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;스카이 포트리스에서 $MyPCName$에게. &#x0A;임무에 진전이 있나?' />
+	<key id="1123170111013141" feature="Kritias_Epic01" npc="PC" name="(비롤에게서 들었던 이야기를 해준다.)" />
+	<key id="1123170111013142" feature="Kritias_Epic01" npc="네이린" name='검은 망토에 거대한 뿔….&#x0A;그 모습이라면 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;$pp:가,이$ 틀림없어요.&#x0A;투르카가 어떤 여자의 행방을 찾고 있었다고요?&#x0A;설마 검은군단이 고작 사람 하나 찾자고 이곳에 왔단 말인가요?!' />
+	<key id="1123170111013143" feature="Kritias_Epic01" npc="콘대르" name="설마…외로웠나?" />
+	<key id="1123170111013144" feature="Kritias_Epic01" npc="네이린" name="부장님, 지금 농담할 때가 아니에요.&#x0A;그 여자의 정체를 알아내야 검은군단이 이곳에 온 이유를 알 수 있다고요." />
+	<key id="1123170111013145" feature="Kritias_Epic01" npc="블리체" name="동의한다.&#x0A;$MyPCName$, 여자에 대한 단서를 모아 검은군단의 음모를 파악해 보도록." />
+	<key id="1123170111013146" feature="Kritias_Epic01" npc="PC" name="(비롤을 도와준 후 곧바로 임무를 수행하겠다고 말한 후 교신을 종료한다.)" />
+	<key id="1120154411013025" feature="Kritias_Epic01" npc="비롤" name="서둘러 줘.&#x0A;특이하게 생긴 식물이라 숲에서 쉽게 찾을 수 있을 거야." />
+	<key id="1120154411013026" feature="Kritias_Epic01" npc="비롤" name="정말 고마워! 이 정도라면 동료들을 회복시킬 수 있을 거야!" />
+	<key id="1120154411013027" feature="Kritias_Epic01" npc="비롤" name="이방인이라고 다 나쁜 자들은 아니었어.&#x0A;당신 정말 좋은 사람이야.&#x0A;내가 뭐 도울 일은 없어? 할 수 있는 건 뭐든 지 할게." />
+	<key id="1123170111013147" feature="Kritias_Epic01" npc="PC" name="(검은군단이 찾고 있는 여자에 대한 단서를 찾을 만한 곳을 묻는다.)" />
+	<key id="1123170111013148" feature="Kritias_Epic01" npc="비롤" name="미안… 난 일개 수색대 병사일 뿐인 걸….&#x0A;거기다 보다시피 겁쟁이고….&#x0A;그런 정보를 알 수 있는 사람이 아니야." />
+	<key id="1123170111013149" feature="Kritias_Epic01" npc="PC" name="(괜찮다고 말하고 떠나려 한다.)" />
+	<key id="1123170111013150" feature="Kritias_Epic01" npc="비롤" name='잠깐! &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;에 가보겠어? 우리 게오르크의 수도 같은 곳이야.&#x0A;뭐 아직은 작아서 수도라고도 부르기도 민망하지만.&#x0A;당신 이곳 사정을 얼마나 알고 있어?' />
+	<key id="1123170111013151" feature="Kritias_Epic01" npc="PC" name="(아는 것이 거의 없다고 말한다.)" />
+	<key id="1123170111013152" feature="Kritias_Epic01" npc="비롤" name="거 참… 아무것도 모르는 이방인에게 도움을 받았다니….&#x0A;뭐, 그게 무슨 상관이야. 내 동료들을 구해줬는데.&#x0A;우리 게오르크는 타이렌 왕국에 대항하기 위해 만들어진 조직이야." />
+	<key id="1123170111013153" feature="Kritias_Epic01" npc="PC" name="(타이렌 왕국에 관해 묻는다.)" />
+	<key id="1123170111013154" feature="Kritias_Epic01" npc="비롤" name="내 조국이기도 하고, 게오르크 전체 시민들의 조국이기도 해.&#x0A;뭐, 지금은 적이 되어 싸우고 있지만…." />
+	<key id="1123170111013155" feature="Kritias_Epic01" npc="PC" name="(왜 타이렌 왕국과 싸우고 있는지를 묻는다.)" />
+	<key id="1123170111013156" feature="Kritias_Epic01" npc="비롤" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:라고,이라고$ 불리는 인공지능체가 통제하고 있거든.&#x0A;우린 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;의 통제를 벗어나기 위해 타이렌 왕국을 탈출해 이곳에 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp:를,을$ 건설했어.&#x0A;' />
+	<key id="1123170111013157" feature="Kritias_Epic01" npc="비롤" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:가,이$ 기계 병사들을 보내 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp:를,을$ 공격하고 있지만, 7년 넘게 우린 잘 버텨왔어. 게오르크에 나 같은 겁쟁이만 있는 건 아니거든.' />
+	<key id="1123170111013158" feature="Kritias_Epic01" npc="비롤" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 가봐. &#x0A;사람도, 물건도, 높은 분들도 많은 곳이니 어쩌면 원하는 단서를 찾을 수 있을 거야.&#x0A;행운을 빌게. 이방인 친구.' />
+	<key id="1120154411013028" feature="Kritias_Epic01" npc="비롤" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 가는 길은 &lt;font color=&quot;#ffd200&quot;&gt;$map:52100101$&lt;/font&gt; 오른쪽에 있어.&#x0A;어렵지 않게 찾을 수 있을 거야.' />
+	<key id="1120154411013029" feature="Kritias_Epic01" npc="라팔" name="자네가 미사일 포트에서 병사들과 만났던 이방인이군." />
+	<key id="1204172811013315" feature="Kritias_Epic01" npc="라팔" name="이곳 소문은 매우 빠르지.&#x0A;아니면 내 정보력이 빠른 건지도 모르고." />
+	<key id="1120154411013030" feature="Kritias_Epic01" npc="라팔" name='이방인께서 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;엔 무슨 용무 신지?' />
+	<key id="1123180411013159" feature="Kritias_Epic01" npc="PC" name="(검은군단이 이곳에 온 목적을 조사하고 있다고 말한다.)" />
+	<key id="1123180411013160" feature="Kritias_Epic01" npc="라팔" name='그 검은 망토를 한 것들 말인가?&#x0A;세력을 넓혀 이곳 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;까지 위협하고 있어.&#x0A;하지만 우리 입장에서는 당신도 우리 영토에 들어온 또 다른 골칫거리일 뿐이야.' />
+	<key id="1123180411013161" feature="Kritias_Epic01" npc="라팔" name="서로 치고받는 건 자유지만 게오르크에게 해가 된다면 가만두지 않아.&#x0A;타이렌 왕국과 전쟁 중이 아니라면 이방인들이 설치고 다니는 걸 이렇게 그냥 보고만 있지도 않았을 테고. 망할 놈의 기계 병사 놈들…." />
+	<key id="1123180411013162" feature="Kritias_Epic01" npc="PC" name="(메이플 연합은 갑자기 나타난 낯선 대륙을 자위적 차원에서 탐사를 진행하고 있다고 설명한다.)" />
+	<key id="1123180411013163" feature="Kritias_Epic01" npc="라팔" name="메이플 연합… 그게 당신들 세력 이름인가?&#x0A;그리고 이곳에서 난장판을 벌이고 있는 것들은 검은군단이란 말이지…" />
+	<key id="1123180411013164" feature="Kritias_Epic01" npc="PC" name="(검은군단이 이곳에서 음모를 벌이고 있으며 방치하면 게오르크와 메이플 연합 모두에게 위협이 될 것이라고 말한다.)" />
+	<key id="1123180411013165" feature="Kritias_Epic01" npc="라팔" name='이치에는 맞는 이야기 같군. 당신과 만났던 병사들도 호의적으로 이야기하고 있고….&#x0A;성안에 계시는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님을 접견해 보시던가.' />
+	<key id="1123180411013166" feature="Kritias_Epic01" npc="PC" name="(고맙다고 말하고 돌아서려 한다.)" />
+	<key id="1123180411013167" feature="Kritias_Epic01" npc="라팔" name="단. 이치에 맞는 이야기라고 거짓이 아니라는 보장은 없어.&#x0A;당신이 검은군단에서 보낸 자객이나 첩자일 뿐이라면?&#x0A;" />
+	<key id="1123180411013168" feature="Kritias_Epic01" npc="라팔" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp:를,을$ 공격하고 있는 검은군단의 처치부터가 먼저야.&#x0A;당신 손으로 놈들의 피를 묻히면 나나 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님도 당신을 좀 더 신뢰할 수 있겠지.&#x0A;어쩌겠나 이방인. 선택은 자네 몫이야.' />
+	<key id="1120154411013031" feature="Kritias_Epic01" npc="라팔" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님의 신뢰를 얻으려면, 당신 손으로 검은군단 놈들을 처치해야 할 거야.' />
+	<key id="1120154411013032" feature="Kritias_Epic01" npc="마를레네" name='결국 이곳까지 왔군요….&#x0A;척후병 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004394[gender:0]$&lt;/font&gt;에게 들었을 테죠?&#x0A;이곳 소문은 무척 빠르다고.' />
+	<key id="1204172811013316" feature="Kritias_Epic01" npc="마를레네" name="당신의 손에 검은군단의 피를 묻혔다는 것은 이미 알고 있어요.&#x0A;그래서… 이방인이 우리 영토에 온 목적은 무엇이죠?" />
+	<key id="1120154411013033" feature="Kritias_Epic01" npc="PC" name="(메이플 연합은 갑자기 나타난 낯선 대륙을….)" />
+	<key id="1127144911013169" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;크리티아스&lt;/font&gt;에요. 당신들의 상공에 나타난 건 우리의 의지가 아니에요.&#x0A;크리티아스는 오래전 알 수 없는 힘에 의해 봉인되었어요.&#x0A;완벽한 암전…무의식… 그런 상태로 얼마나 시간이 흘렀는지도 몰랐죠.' />
+	<key id="1127144911013170" feature="Kritias_Epic01" npc="마를레네" name="그리고 갑자기 봉인이 풀렸어요. 메이플 월드 상공에 떠 있는 상태로요.&#x0A;얼마 후 당신들이 검은군단이라고 부르는 자들이 상륙했죠.&#x0A;키델 일대를 들쑤시고 다니더니 점차 세력을 불려 리치몬드까지 위협하고 있어요." />
+	<key id="1127144911013171" feature="Kritias_Epic01" npc="마를레네" name="덕분에 우린 전선이 2개로 늘어났어요.&#x0A;타이렌 왕국의 기계 병사들로도 벅찬데 검은군단 놈들까지…." />
+	<key id="1127144911013172" feature="Kritias_Epic01" npc="PC" name="(검은군단은 크리티아스에서 누군가를 찾고 있고, 성공하면 크리티아스에 큰 위협이 될 거라고 말한다.)" />
+	<key id="1127180311013192" feature="Kritias_Epic01" npc="마를레네" name="당신들 메이플 월드에 큰 위협이겠죠.&#x0A;메이플 월드의 역사는 봉인이 풀린 직후 해킹을 통해 대부분 파악했습니다.&#x0A;검은군단과 메이플 연합이 지금껏 싸워온 것은 이미 알고 있어요." />
+	<key id="1127144911013173" feature="Kritias_Epic01" npc="마를레네" name="그런데 왜 우리 영토에서 서로 싸우고 있는 거죠?&#x0A;열흘 안에 크리티아스를 떠나라고 당신이 타고 온 모함에 전달하세요." />
+	<key id="1127144911013174" feature="Kritias_Epic01" npc="정체불명의 여자" name="싸우지마… &#x0A;어? 당신은 나한테 먹을 걸 가져다준… 맞지?&#x0A;마를레네, 이 사람 좋은 사람이야." />
+	<key id="1127144911013176" feature="Kritias_Epic01" npc="마를레네" name="그래… 싸우는 거 아냐.&#x0A;조금만 기다리렴, 이야기 곧 끝난단다." />
+	<key id="1127144911013177" feature="Kritias_Epic01" npc="PC" name="(왜 숲에서 발견한 추방자를 집무실에 데리고 있는지 묻는다.)" />
+	<key id="1127144911013178" feature="Kritias_Epic01" npc="마를레네" name='그만 떠나세요. &#x0A;모함까지 가기 위해 필요한 것이 있으면 내 부관 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004396[gender:0]$&lt;/font&gt;에게 요청하세요.' />
+	<key id="1120154411013034" feature="Kritias_Epic01" npc="마를레네" name="모함까지 가는 여정도 쉽진 않을 거예요. &#x0A;검은군단 놈들이 키델 전역에 흩어져 있으니까요…." />
+	<key id="1120154411013035" feature="Kritias_Epic01" npc="시만" name='반갑습니다. $MyPCName$님&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님의 부관 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004396[gender:0]$&lt;/font&gt;$pp:가,이$라고 합니다.' />
+	<key id="1120154411013036" feature="Kritias_Epic01" npc="시만" name='제 동생, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004393[gender:0]$&lt;/font&gt; 녀석에게 수색대 동료들을 구해주셨다는 이야기 들었습니다.&#x0A;덕분에 수색대원들은 모두 무사히 귀대했습니다.' />
+	<key id="1127144911013179" feature="Kritias_Epic01" npc="시만" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님과의 대화가 쉽지는 않았지요?&#x0A;타이렌 왕국의 공세가 점차 심해지는데, 검은군단까지 게오르크를 공격하자 예민해지신 겁니다.' />
+	<key id="1127144911013180" feature="Kritias_Epic01" npc="PC" name="(타이렌 왕국이 왜 게오르크를 공격하는 건지 묻는다.)" />
+	<key id="1127144911013181" feature="Kritias_Epic01" npc="시만" name='인공지능체인 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;의 통제에 반기를 들었기 때문입니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 타이렌 왕국의 모든 것을 통제하고 있어요.&#x0A;게오르크는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;에게서 타이렌 왕국을 되찾기 위해 조직된 단체입니다.' />
+	<key id="1127144911013182" feature="Kritias_Epic01" npc="시만" name="비록 아직 규모 면에서는 열세이지만, 시간이 지날수록 게오르크에 가담하는 타이렌 시민들이 더 많아질 것이라고 확신합니다." />
+	<key id="1127144911013183" feature="Kritias_Epic01" npc="PC" name='(왜 모든 타이렌 왕국 시민들이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;에게 저항하지 않느냐고 묻는다.)' />
+	<key id="1127144911013184" feature="Kritias_Epic01" npc="시만" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:가,이$ 통제하는 타이렌은 유토피아에 견줄 만한 풍요로운 사회니까요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 행정, 생산, 제조, 식생, 인구를 분석한 후 제어함으로써 최적의 결과를 도출해 냅니다. &#x0A;' />
+	<key id="1127144911013185" feature="Kritias_Epic01" npc="시만" name='그렇게 얻어지는 풍요로움을 타이렌 시민들이 누리고 있는 겁니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ &apos;사회&apos;라는 시스템의 효율을 극대화하기 위해 우리가 만든 인공지능체이니까요. 그리고 그 결과는 성공적이었습니다.' />
+	<key id="1127144911013186" feature="Kritias_Epic01" npc="PC" name="(그런데 뭐가 문제이냐고 묻는다.)" />
+	<key id="1127144911013187" feature="Kritias_Epic01" npc="시만" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 인간 역시 유토피아 구축을 위한 제어 대상으로 판단하고 사회적 약자나 범죄자들을 추방하고 있으니까요.&#x0A;우린 이것을 결코 용서할 수 없….' />
+	<key id="1127144911013188" feature="Kritias_Epic01" npc="레티널" name='칙….&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;, 여기는 남쪽 둥지 들립니까?&#x0A;지원병력을 요청합니다.&#x0A;검은군단의 기습으로 병력지원 없이는 곧 함락될 겁니다.&#x0A;' />
+	<key id="1127144911013189" feature="Kritias_Epic01" npc="시만" name='남쪽 둥지, 여기는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;&#x0A;2시간 내에 병력지원은 불가하다.&#x0A;성 방어 병력 이외에는 모두 전술수색을 나가 있는 상태이다.&#x0A;버틸 수 있는 시간은?' />
+	<key id="1127144911013190" feature="Kritias_Epic01" npc="레티널" name="길어야 한시간입니다." />
+	<key id="1127144911013191" feature="Kritias_Epic01" npc="PC" name="(남쪽 둥지로 가서 게오르크 병사들을 돕겠다고 말한다.)" />
+	<key id="1120154411013037" feature="Kritias_Epic01" npc="시만" name="정말 감사합니다. &#x0A;남쪽 둥지가 무너지면 우린 최전방 정찰 초소를 잃게 되는 겁니다." />
+	<key id="1120154411013038" feature="Kritias_Epic01" npc="레티널" name="덕분에 둥지를 사수할 수 있었습니다. 어떻게 감사를 표해야 할지…." />
+	<key id="1120154411013039" feature="Kritias_Epic01" npc="레티널" name='이곳 남쪽 둥지는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp:를,을$ 기준으로 최남단에 있는 초소입니다.&#x0A;적의 동태를 살피는 동시에 위 아래로 적을 협공 할 수 있는 곳이기도 하죠.' />
+	<key id="1127180311013193" feature="Kritias_Epic01" npc="레티널" name="검은군단 놈들에게 넘어갔다면 큰 손실이 되었을 겁니다.&#x0A;다시 한번 감사드립니다." />
+	<key id="1127180311013194" feature="Kritias_Epic01" npc="PC" name='(더 도울 일이 없으면, &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 돌아가겠다고 한다.)' />
+	<key id="1127180311013195" feature="Kritias_Epic01" npc="레티널" name='그럼 부탁 하나 드려도 되겠습니까?&#x0A;치열한 전투를 겪어 병사 한 명이 실종되었습니다.&#x0A;돌아가시는 길에 녀석을 발견하면 함께 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 데려가 주십시오.' />
+	<key id="1127180311013196" feature="Kritias_Epic01" npc="레티널" name='분명히 심각한 부상을 당했을 테니까요.&#x0A;만약 전사했다면….&#x0A;녀석의 목걸이를 회수해서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님께 전달해 주시겠습니까?' />
+	<key id="1127180311013197" feature="Kritias_Epic01" npc="PC" name='(목걸이가 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;에게 의미가 있는 것이냐고 묻는다.)' />
+	<key id="1127180311013198" feature="Kritias_Epic01" npc="레티널" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님께 들으시는게 좋을 것 같습니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;까지 무사히 돌아가시기를 바라겠습니다.' />
+	<key id="1120154411013040" feature="Kritias_Epic01" npc="레티널" name="검은군단의 매복을 조심하시기 바랍니다." />
+	<key id="1120154411013041" feature="Kritias_Epic01" npc="마를레네" name="분명 모함으로 돌아가라고 했을텐데요.&#x0A;왜 다시 돌아온 거죠?!" />
+	<key id="1120154411013042" feature="Kritias_Epic01" npc="PC" name='(병사의 시신을 발견했다고 말하고, 목걸이를 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;에게 전달해 준다.)' />
+	<key id="1127180311013199" feature="Kritias_Epic01" npc="마를레네" name="……….&#x0A;이 아이… 게오르크를 창설한 후 내가 첫번째로 구했던 추방자예요.&#x0A;고통 없이 죽었나요?&#x0A;&#x0A;" />
+	<key id="1127180311013200" feature="Kritias_Epic01" npc="PC" name="(발견했을 때는 이미 죽어 있었다고 말한다.)" />
+	<key id="1127180311013201" feature="Kritias_Epic01" npc="마를레네" name="유품을 전해줘서 고마워요.&#x0A;부관에게 당신이 목숨을 걸고 남쪽 둥지를 지원했다고 들었어요.&#x0A;왜 우릴 돕는 거죠?" />
+	<key id="1127180311013202" feature="Kritias_Epic01" npc="PC" name="(마음이 내키는 대로 한 것이라고 말한다.)" />
+	<key id="1206161711013329" feature="Kritias_Epic01" npc="PC" name="(당신 역시 그런 이유로 추방자를 집무실에서 돌보는 것 아니냐고 묻는다.)" />
+	<key id="1127180311013203" feature="Kritias_Epic01" npc="마를레네" name='……….&#x0A;내가 말했었죠? 당신들의 역사는 이미 파악하고 있다고.&#x0A;이 아이는 당신들이 세이지로 추앙하고 있는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;의 자식이에요.' />
+	<key id="1127180311013204" feature="Kritias_Epic01" npc="PC" name="(그걸 어떻게 아느냐고 묻는다.)" />
+	<key id="1127180311013205" feature="Kritias_Epic01" npc="마를레네" name='내가 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;의 연인이었으니까요.&#x0A;크리티아스인 중 가이아라고 불리는 우리 귀족들은 체내에 흐르는 에네르를 통해 혈통을 감지할 수 있어요.' />
+	<key id="1127180311013206" feature="Kritias_Epic01" npc="PC" name="(세이지들은 아주 먼 옛날에 살았던 성인과 같은 존재라고 말한다.)" />
+	<key id="1127180311013207" feature="Kritias_Epic01" npc="마를레네" name="크리티아스는 오랜 시간 봉인되어 있었어요. &#x0A;당신에게는 먼 옛날이겠지만 내겐 그저 지난 연인을 회상할 수 있는 시간일 뿐이에요." />
+	<key id="1127180311013208" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:가,이$ 사회에 도움이 되지 않는다고 판단한 사람들을 추방하기 시작하자, 난 게오르크를 창설했어요. &#x0A;하지만 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;은 당신들 세계인 메이플 월드로 떠났죠.&#x0A;타이렌인들끼리 총을 겨누는 것을 이해하지도 견디지도 못했으니까요.' />
+	<key id="1127180311013209" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;은 타이렌 왕립과학국 수석마법사였어요. &#x0A;그가 게오르크에 가담했더라면 우린 지금보다 훨씬 더 강한 힘으로 타이렌 왕국에 대항할 수 있었을 거예요.&#x0A;세이지… 먼 옛날 당신의 선조들에게 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;의 힘은 신처럼 보였겠죠.' />
+	<key id="1127180311013210" feature="Kritias_Epic01" npc="PC" name='(&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;에겐 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:라는,이라는$ 딸이 있었다고 책에서 본 적이 있다고 말한다.)' />
+	<key id="1127180311013211" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;?!!! &#x0A;타이렌 왕립과학국 서버를 해킹한 결과 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 크리티아스가 봉인된 원인을 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:라고,이라고$ 규정하고 있었어요.' />
+	<key id="1127180311013212" feature="Kritias_Epic01" npc="마를레네" name='우린 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 초자연적 현상이거나 블랙홀이라고 판단했는데…&#x0A;이 아이가 크리티아스를 봉인했단……??!' />
+	<key id="1120154411013043" feature="Kritias_Epic01" npc="마를레네" name="…." />
+	<key id="1120154411013044" feature="Kritias_Epic01" npc="마를레네" name='검은군단은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 찾기 위해 이곳에 온 거였어요…!' />
+	<key id="1120154411013045" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:가,이$ 크리티아스를 봉인했던 힘….&#x0A;그 힘이 검은군단에 넘어간다면 크리티아스도 당신들 메이플 월드도 무사하지 못할 거예요.' />
+	<key id="1127180311013213" feature="Kritias_Epic01" npc="PC" name="($npcName:11004430[gender:0]$에게 그 힘을 절대로 넘길 수 없다고 말한다.)" />
+	<key id="1127180311013214" feature="Kritias_Epic01" npc="마를레네" name='나 역시 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;의 자식을 저딴 뿔 달린 괴물에게 빼앗길 생각은 없어요.&#x0A;놈이 날 너무 쉽게 봤어요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;에게 무슨 일이 생길 때를 대비해서 추적 장치를 붙여 놓았어요.' />
+	<key id="1127180311013215" feature="Kritias_Epic01" npc="마를레네" name="(위치추적기를 작동시킨다. 하지만 제대로 작동하지 않는다.)&#x0A;젠장… 최근 검은군단의 공격으로 통신 중계기들이 파손되었나 봐요.&#x0A;부품을 조달하려면 시간이 걸릴텐데…." />
+	<key id="1127180311013216" feature="Kritias_Epic01" npc="마를레네" name="아…! 한 가지 방법이 있어요. &#x0A;타이렌 왕국 기계 병사들의 부품으로 중계기들을 수리할 수 있을 거예요." />
+	<key id="1127180311013217" feature="Kritias_Epic01" npc="PC" name="(기계 병사들을 쓰러뜨리고 부품을 가져오겠다고 말한다.)" />
+	<key id="1127180311013218" feature="Kritias_Epic01" npc="마를레네" name="그래 줄 수 있겠어요? &#x0A;MK-II의 머리를 열면 푸른색 정육면체와 원형 소켓이 연결된 부품이 보일 거에요. 그게 우리에게 필요한 거예요." />
+	<key id="1127180311013219" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;(스카이 포트리스와 교신을 시도한다.)' />
+	<key id="1127180311013220" feature="Kritias_Epic01" npc="블리체" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;스카이 포트리스 수신 완료.&#x0A;$npcName:11001813[gender:0]$$pp:가,이$ 찾고 있는 여자의 정체를 알아냈나?' />
+	<key id="1127180311013221" feature="Kritias_Epic01" npc="PC" name="(지금까지의 일을 이야기한다.)" />
+	<key id="1127180311013222" feature="Kritias_Epic01" npc="블리체" name='크리티아스를 봉인했던 존재를 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;$pp:가,이$ 확보했단 말인가?!&#x0A;델타급 위기상황이다.&#x0A;놈은 분명 그 힘으로 메이플 연합을 붕괴시키려 할 것이다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 회수할 가능성은?' />
+	<key id="1127180311013223" feature="Kritias_Epic01" npc="PC" name='(&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;에게 붙여 놓은 추적 장치를 추적하면 가능성이 있다고 말한다.)' />
+	<key id="1127180311013224" feature="Kritias_Epic01" npc="블리체" name="곧바로 실행하도록.&#x0A;필요한 것이 있으면 모든 것을 지원하겠다." />
+	<key id="1127180311013225" feature="Kritias_Epic01" npc="PC" name='(스카이 포트리스를 출항시켜 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;$pp2:로,으로$ 와달라고 말한다.)' />
+	<key id="1127180311013226" feature="Kritias_Epic01" npc="메이슨" name="속히 출항해야 한다고 판단되는군요." />
+	<key id="1207194011013332" feature="Kritias_Epic01" npc="블리체" name="네이린?" />
+	<key id="1206162111013330" feature="Kritias_Epic01" npc="네이린" name="스카이 포트리스 물자보급률, 연료적재량 승무원 탑승 현황을 종합한 연산 AI &apos;케이트 시드&apos;의 계산 결과…." />
+	<key id="1206162111013331" feature="Kritias_Epic01" npc="네이린" name="플러스마이너스 1분 오차, 약 1시간 17분 후 이륙이 가능합니다." />
+	<key id="1127180311013227" feature="Kritias_Epic01" npc="블리체" name='$MyPCName$, 출항 준비가 되는 대로 곧바로 이륙하겠다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 회수할 수 있도록 최선을 다하도록.&#x0A;임무의 성패에 메이플 월드의 운명이 걸려있다.&#x0A;이상.' />
+	<key id="1120154411013046" feature="Kritias_Epic01" npc="마를레네" name="타이렌 왕국의 기계 병사들은 만만치 않은 상대들이에요.&#x0A;방심하지 마세요." />
+	<key id="1120154411013047" feature="Kritias_Epic01" npc="시만" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님께 전달받았습니다.&#x0A;중계기 수리에 필요한 부품은 회수하셨습니까?' />
+	<key id="1120154411013048" feature="Kritias_Epic01" npc="PC" name="(기계 병사에게서 꺼낸 부품들을 보여준다.)" />
+	<key id="1128135311013228" feature="Kritias_Epic01" npc="시만" name="ESR-193 단파 증폭기. 정확하게 가져오셨군요.&#x0A;감사합니다. &#x0A;곧 전술팀을 편성해 통신 중계기를 수리하도록 하겠습니다." />
+	<key id="1128135311013229" feature="Kritias_Epic01" npc="PC" name="(시간이 촉박하니 직접 중계기를 수리하겠다고 말한다.)" />
+	<key id="1128135311013230" feature="Kritias_Epic01" npc="시만" name="그럼, 부탁드리겠습니다.&#x0A;$MyPCName$님이라면 혼자 해내실 수 있다고 믿습니다.&#x0A;자 여기, 전술팀에게 전달하려 했던 부품 교체 매뉴얼입니다." />
+	<key id="1128135311013231" feature="Kritias_Epic01" npc="시만" name="문득 한 가지 의문이 드는군요….&#x0A;이곳에 오실 때, 모함이 검은군단의 미사일 공격을 받았다고 하셨었죠?&#x0A;미사일은 충돌 직전 공중에서 파괴되었고요." />
+	<key id="1128135311013232" feature="Kritias_Epic01" npc="시만" name="대체 누가 미사일을 막은 것일까요? &#x0A;지대공 미사일이 명중 직전에 폭발할 가능성은 극히 희박합니다.&#x0A;크리티아스에 또 다른 세력이 개입하고 있는 건 아닌지 우려되는군요." />
+	<key id="1128135311013233" feature="Kritias_Epic01" npc="PC" name="(짐작 가는 바가 없다고 말한다.)" />
+	<key id="1207194211013333" feature="Kritias_Epic01" npc="PC" name="(중계기 수리가 시급하니 임무를 수행하겠다고 말한다.)" />
+	<key id="1120154411013049" feature="Kritias_Epic01" npc="시만" name='중계기를 수리해야만 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 추적할 수 있습니다.&#x0A;검은군단 병사들의 기습을 조심하십시오.' />
+	<key id="1120154411013050" feature="Kritias_Epic01" npc="마를레네" name="어서 와요, $MyPCName$.&#x0A;덕분에 통신 중계기가 활성화됐어요." />
+	<key id="1120154411013051" feature="Kritias_Epic01" npc="마를레네" name='(위치추적기를 작동시킨다.)&#x0A;신호가 잡혔어요! &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;…?!&#x0A;거긴 타이렌 왕국이 건설한 자원채취소인데….' />
+	<key id="1128135311013234" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:가,이$ 그곳에 있다니… 이해가 안 되는 군요.&#x0A;설마… 검은군단과 타이렌 왕국이 손을…?' />
+	<key id="1128135311013235" feature="Kritias_Epic01" npc="PC" name='(뭐가 되었던 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;에 가서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구출해 오겠다고 말한다.)' />
+	<key id="1128135311013236" feature="Kritias_Epic01" npc="마를레네" name='하긴 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:가,이$ 왜 기억을 잃었는지부터… 지금은 알 수 없는 일투성이니까요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;에 침투한 우리 게오르크 요원들이 있어요.' />
+	<key id="1128135311013237" feature="Kritias_Epic01" npc="마를레네" name="채취되는 자원의 흐름을 파악하기 위해 투입되었는데, 그곳 상황을 전달받을 수 있을 거예요. 명령서를 써드릴 테니 도움을 받으세요." />
+	<key id="1128135311013238" feature="Kritias_Epic01" npc="마를레네" name='$MyPCName$, 부탁해요….&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 꼭 되찾아 주세요.' />
+	<key id="1120154411013052" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;에 파견된 우리 요원들이 큰 도움이 될 거에요.&#x0A;부디 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구출하기를 바랄게요.' />
+	<key id="1120154411013053" feature="Kritias_Epic01" npc="클로" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;님의 명령서…!!' />
+	<key id="1120154411013054" feature="Kritias_Epic01" npc="클로" name="(명령서를 꼼꼼하게 읽은 후)&#x0A;$MyPCName$님이 필요한 모든 지원을 하라는 명령서군요." />
+	<key id="1128175411013239" feature="Kritias_Epic01" npc="PC" name='(검은군단이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 데리고 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;에 왔는지 묻는다.)' />
+	<key id="1128175411013240" feature="Kritias_Epic01" npc="클로" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;요? &#x0A;그 여자 말이군요…. 검은군단 놈들이 호송하던….&#x0A;봤고 말고요. 뿔 달린 놈이 우두머리 같았습니다.&#x0A;놈이 순식간에 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;$pp:를,을$ 완전히 장악했어요.' />
+	<key id="1128175411013241" feature="Kritias_Epic01" npc="PC" name='(&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;$pp:가,이$ 어떻게 타이렌 왕국의 자원채취소를 장악했는지 묻는다.)' />
+	<key id="1128175411013242" feature="Kritias_Epic01" npc="클로" name='내 눈을 의심했습니다.&#x0A;뿔 달린 놈… 그 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;란 자가 푸른 안광을 발산하자 모든 타이렌 기계병들이 그자의 통제를 따르기 시작했어요.' />
+	<key id="1128175411013243" feature="Kritias_Epic01" npc="클로" name="검게 변해버린 후 말이죠. &#x0A;마법인지, 첨단 기술인지, 뭔지는 모르겠지만… 틀림없는 사실입니다." />
+	<key id="1128175411013244" feature="Kritias_Epic01" npc="PC" name='(&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 어디로 끌고 갔는지 묻는다.)' />
+	<key id="1128175411013245" feature="Kritias_Epic01" npc="클로" name='북쪽의 &lt;font color=&quot;#ffd200&quot;&gt;$map:52100104$&lt;/font&gt; 내부로 데려가더군요.&#x0A;검은 기계병들의 경비가 삼엄해 뚫기가 쉽지 않을 겁니다.' />
+	<key id="1128175411013246" feature="Kritias_Epic01" npc="PC" name="(어떻게든 뚫고 가겠다고 말한다.)" />
+	<key id="1128175411013247" feature="Kritias_Epic01" npc="클로" name="융합로 입구에 저희 요원이 투입되어 있습니다.&#x0A;무전으로 미리 이야기해 놓겠습니다.&#x0A;행운을 빕니다." />
+	<key id="1120154411013055" feature="Kritias_Epic01" npc="클로" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;$pp:는,은$ 어떻게 타이렌 기계 병사들을 손아귀에 넣을 걸까요?' />
+	<key id="1120154411013056" feature="Kritias_Epic01" npc="키라" name="당신이군, 기다리고 있었어." />
+	<key id="1120154411013057" feature="Kritias_Epic01" npc="키라" name='구구절절 설명할 필요 없어. &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004398[gender:0]$&lt;/font&gt; 요원한테 모두 들었거든. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;란 놈이 납치한 여자를 찾고 있다고? &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:라고,이라고$ 했나…?' />
+	<key id="1128175411013248" feature="Kritias_Epic01" npc="PC" name='(&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004430[gender:0]$&lt;/font&gt;$pp:가,이$ &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 융합로 안으로 데리고 들어갔는지 묻는다.)' />
+	<key id="1128175411013249" feature="Kritias_Epic01" npc="키라" name='무슨 급한 일이라도 있는 것처럼 황급히 끌고 들어가 버렸어.&#x0A;그리고는 &lt;font color=&quot;#ffd200&quot;&gt;$map:52100104$&lt;/font&gt;의 격벽을 모두 닫아버렸지 뭐야.&#x0A;융합로는 폭발 위험이 있어 이를 대비해 삼중으로 설치된 격벽이 있어.' />
+	<key id="1128175411013250" feature="Kritias_Epic01" npc="키라" name="폭발 위험이 발생하지 않았는데도 격벽을 모두 내렸다는 건 스스로를 그곳에 가둬 버렸다는 뜻이야." />
+	<key id="1128175411013251" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(아니면 절대 누군가를 들일 생각이 없거나….)&lt;/font&gt;' />
+	<key id="1207194311013334" feature="Kritias_Epic01" npc="PC" name="(격벽을 열어보겠다고 말한다.)" />
+	<key id="1128175411013252" feature="Kritias_Epic01" npc="키라" name="소용없어. 여러 차례 시도해봤지만 열리지 않았어.&#x0A;게오르크의 시스템 해킹 툴도 통하지 않았고….&#x0A;개폐 시스템 자체를 파괴하고 수동으로 내린 것 같아." />
+	<key id="1128175411013253" feature="Kritias_Epic01" npc="키라" name="그 말인즉슨… 파괴하지 않는 이상 절대 열 수 없다는 뜻이야.&#x0A;아니면 건물 꼭대기의 에네르 첨탑을 파괴하면 모를까….&#x0A;에네르 공급이 중단되면 비상 매뉴얼에 따라 모든 문이 열리게 되어 있거든." />
+	<key id="1205164111013325" feature="Kritias_Epic01" npc="키라" name='하지만 격벽이나 에네르 첨탑을 파괴할 만한 화기는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;에는 존재하지 않아.' />
+	<key id="1120154411013058" feature="Kritias_Epic01" npc="키라" name="소용없다니까. 괜히 힘 빼지 말라고." />
+	<key id="1212174711013336" feature="Kritias_Epic01" npc="키라" name="($map:02020030$로 돌아가서 격벽을 열 방법을 생각해보겠다고 한다.)" />
+	<key id="1120154411013059" feature="Kritias_Epic01" npc="마를레네" name='기다리고 있었어요. $MyPCName$&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:는,은$ 무사하던가요?' />
+	<key id="1120154411013060" feature="Kritias_Epic01" npc="마를레네" name='격벽이 내려져서 진입이 불가능하다고요…?!&#x0A;이대로 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 포기할 순 없어요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;의 장거리포로 직격하면 파괴될지도 몰라요.' />
+	<key id="1128175411013254" feature="Kritias_Epic01" npc="PC" name="(격벽의 두께가 장거리포로 뚫릴 만큼 얇지 않다고 말한다.)" />
+	<key id="1128175411013255" feature="Kritias_Epic01" npc="마를레네" name="그럼 전폭기들을 동원해 융합로를 벙커킬러로 폭격해 보죠." />
+	<key id="1128175411013256" feature="Kritias_Epic01" npc="PC" name='(폭격을 하면 융합로가 폭발해 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:가,이$ 죽을 수도 있다고 말한다.)' />
+	<key id="1128175411013257" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020033$&lt;/font&gt;에는 격벽을 뚫을 수 있는 에네르 레일건을 탑재한 전차들이 있어요.&#x0A;요새의 전차들을 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;$pp2:로,으로$ 보내야겠어요.' />
+	<key id="1128175411013258" feature="Kritias_Epic01" npc="PC" name='(요새의 전차가 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;에 도달하려면 너무 시간이 오래 걸린다고 말한다.)' />
+	<key id="1128175411013259" feature="Kritias_Epic01" npc="마를레네" name='그럼 어쩌자는 거죠…?!!! 이대로 그냥 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 포기할 순 없어요!!' />
+	<key id="1128175411013260" feature="Kritias_Epic01" npc="PC" name="……….&#x0A;(잠시 망설인 후, 스카이 포트리스와 교신을 시도한다.)" />
+	<key id="1128175411013261" feature="Kritias_Epic01" npc="블리체" name='&lt;font color=&quot;#909090&quot;&gt;치직… 치직… 치직…&lt;/font&gt;&#x0A;스카이 포트리스 수신 완료.&#x0A;좋은 소식이기를 바란다. &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:는,은$ 회수했나?' />
+	<key id="1128175411013262" feature="Kritias_Epic01" npc="PC" name="(지금까지의 일을 이야기한 후 에네르 첨탑에 함포사격을 요청한다.)" />
+	<key id="1128175411013263" feature="Kritias_Epic01" npc="블리체" name='타이렌 왕국의 &lt;font color=&quot;#ffd200&quot;&gt;$map:52100104$&lt;/font&gt;$pp:를,을$ 직격하라고?&#x0A;그것도 건물의 손상없이 첨탑만 깨끗하게….&#x0A;조준과 에너지의 강도가 완벽하게 들어맞아야만 가능한 일이다.' />
+	<key id="1128175411013264" feature="Kritias_Epic01" npc="블리체" name='명중률을 높이기 위해서는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt; 상공에 도달해야 한다.&#x0A;도착까지 앞으로 27분이 예상된다.' />
+	<key id="1128175411013265" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:는,은$ 크리티아스를 봉인했던 힘을 가진 존재입니다.&#x0A;그 힘이 곧 검은군단에 넘어갈 겁니다.&#x0A;지금 당장 함포 사격을 요청합니다.' />
+	<key id="1128175411013266" feature="Kritias_Epic01" npc="블리체" name="이 거리라면 빗나갈 가능성이 34.7%에 달한다.&#x0A;현재 스카이 포트리스의 주포 에너지는 단 1회분이고….&#x0A;그 위험을 감수하고도 감행해야 한다고 확신하나?" />
+	<key id="1128175411013267" feature="Kritias_Epic01" npc="PC" name="확신합니다, 블리체 함장님.&#x0A;전 스카이 포트리스와 모두를 믿거든요." />
+	<key id="1128175411013268" feature="Kritias_Epic01" npc="메이슨" name="흠… 이번엔 $MyPCName$말에 동감하지 않을 수 없군요." />
+	<key id="1128175411013269" feature="Kritias_Epic01" npc="네이린" name="명령만 하세요, 함장님!" />
+	<key id="1128175411013270" feature="Kritias_Epic01" npc="블리체" name="……….&#x0A;라져. 주포의 충전이 끝나는 대로 에네르 첨탑을 직격하겠다.&#x0A;이상." />
+	<key id="1128175411013271" feature="Kritias_Epic01" npc="마를레네" name="또 당신의 도움을 받았군요." />
+	<key id="1128175411013272" feature="Kritias_Epic01" npc="PC" name='(곧 포격으로 첨탑이 파괴될 거라고 말한 뒤, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구하러 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020031$&lt;/font&gt;$pp2:로,으로$ 향한다.)' />
+	<key id="1120154411013061" feature="Kritias_Epic01" npc="마를레네" name='고마워요, $MyPCName$&#x0A;이번에는 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구해주세요.' />
+	<key id="1120154411013062" feature="Kritias_Epic01" npc="키라" name="봤어?!&#x0A;당신네 모함이 융합로를 직격했어…!!!" />
+	<key id="1120154411013063" feature="Kritias_Epic01" npc="키라" name="그것도 에네르 첨탑만 정확하게 말이야!&#x0A;타이렌 왕국의 가이아급 전함도 이런 정밀한 함포사격은 불가능해." />
+	<key id="1129162011013274" feature="Kritias_Epic01" npc="PC" name="대단해! 역시 스카이 포트리스야." />
+	<key id="1129162011013275" feature="Kritias_Epic01" npc="키라" name='이제 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구출하는 일만 남았군.&#x0A;쉽지 않을 거야.' />
+	<key id="1129162011013276" feature="Kritias_Epic01" npc="키라" name="격벽까지 내린 걸 보면, 침입자를 절대 용납하지 않겠다는 뜻이니까.&#x0A;엄청난 수의 병력이 당신 앞길을 막아설 거야." />
+	<key id="1129162011013277" feature="Kritias_Epic01" npc="PC" name='(반드시 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 구해 내겠다고 말한다.)' />
+	<key id="1120154411013064" feature="Kritias_Epic01" npc="키라" name="함포사격을 보고 당신들의 의지가 얼마나 강한지 깨달았어.&#x0A;나도 응원할게.&#x0A;꼭 그녀를 구해내." />
+	<key id="1120154411013065" feature="Kritias_Epic01" npc="PC" name="…!" />
+	<key id="1212160511013335" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt; 괜찮아…?!' />
+	<key id="1120154411013066" feature="Kritias_Epic01" npc="클라디아" name="날 위해 와주었구나…. 고마워." />
+	<key id="1129162011013278" feature="Kritias_Epic01" npc="PC" name="내가 고마워해야지.&#x0A;스카이 포트리스를 향해 발사된 미사일 당신이 파괴한 거지?" />
+	<key id="1129162011013279" feature="Kritias_Epic01" npc="클라디아" name="그래. 기억을 잃은 상태였지만…&#x0A;비행체를 본 순간 본능적으로 막았던 것 같아." />
+	<key id="1129162011013280" feature="Kritias_Epic01" npc="PC" name="절반은 메이플 월드인이니까?" />
+	<key id="1129162011013281" feature="Kritias_Epic01" npc="클라디아" name="아니…&#x0A;아버지가 당신들… 메이플인들을 너무나 사랑했으니까." />
+	<key id="1129162011013282" feature="Kritias_Epic01" npc="PC" name="왜 크리티아스를 봉인한 거지?" />
+	<key id="1129162011013283" feature="Kritias_Epic01" npc="클라디아" name='당신이 태어나기 훨씬 전, 먼 옛날의 이야기야.&#x0A;타이렌 왕국의 인공지능체 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;에 대해 들어봤지?' />
+	<key id="1129162011013284" feature="Kritias_Epic01" npc="클라디아" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 타이렌 왕국을 장악한 후 크리티아스 대륙을 움직여 메이플 월드로 향했어.&#x0A;메이플 월드에도 타이렌 왕국과 같은 유토피아를 구축하기 위해서야.' />
+	<key id="1129162011013285" feature="Kritias_Epic01" npc="PC" name="추방을 토대로 만들어진 사회가 유토피아라고?" />
+	<key id="1129162011013286" feature="Kritias_Epic01" npc="클라디아" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 그렇게 판단하지 않았어. 유토피아라는 시스템을 위한 버그 소거….&#x0A;사회에 기여를 못 하는 자들을 추방함으로써 타이렌 왕국 시민들은 풍요로움을 누리고 있어.&#x0A;아버지는 그게 싫어서 메이플 월드로 오신 거야.' />
+	<key id="1129162011013287" feature="Kritias_Epic01" npc="PC" name="그래서 크리티아스가 메이플 월드에 근접하자…&#x0A;자신도 함께 봉인된다는 것을 알면서도 크리티아스를 봉인했던 거야?" />
+	<key id="1129162011013288" feature="Kritias_Epic01" npc="클라디아" name='…….&#x0A;봉인이 풀린 이상, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004432$&lt;/font&gt;$pp:는,은$ 다시 메이플 월드를 장악하려 할 거야.&#x0A;잘 지켜내. 아버지가 지키고자 했던 당신들 터전을….' />
+	<key id="1129162011013289" feature="Kritias_Epic01" npc="PC" name="함께 하지 않겠어? 지금 당신의 힘이라면…." />
+	<key id="1129162011013290" feature="Kritias_Epic01" npc="클라디아" name="아니, 난 그전에 할 일이 있어. &#x0A;아직 힘도 완전하지 않고….&#x0A;왜 흡수한 라펜타의 힘을 100% 사용하지 못하는 건지도 모르겠어." />
+	<key id="1129162011013291" feature="Kritias_Epic01" npc="PC" name="어디로 갈 거지?" />
+	<key id="1129162011013292" feature="Kritias_Epic01" npc="클라디아" name="내 방식대로 싸우러." />
+	<key id="1120154411013067" feature="Kritias_Epic01" npc="클라디아" name="……." />
+	<key id="1120154411013068" feature="Kritias_Epic01" npc="클라디아" name="마를레네에게 전해줘, 그동안 고마웠다고." />
+	<key id="1205113111013319" feature="Kritias_Epic01" npc="클라디아" name="메이플 월드의 운명이 당신과 스카이 포트리스에 달려있어." />
+	<key id="1205131111013320" feature="Kritias_Epic01" npc="클라디아" name="부디 잘 지켜내." />
+	<key id="1205102711013318" feature="Kritias_Epic01" npc="클라디아" name="……." />
+	<key id="1120154411013069" feature="Kritias_Epic01" npc="마를레네" name="…….&#x0A;그 아이가 떠났다고요…." />
+	<key id="1129170511013293" feature="Kritias_Epic01" npc="메이슨" name='검은군단은 절대 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 포기하지 않겠죠.&#x0A;블루 라펜타의 힘을 얻으면 메이플 월드를 손에 넣을 수 있으니까요.' />
+	<key id="1129170511013294" feature="Kritias_Epic01" npc="블리체" name="메이플 연합과 스카이 포트리스는 절대 그런 일이 일어나도록 그냥 두지 않을 겁니다." />
+	<key id="1129170511013295" feature="Kritias_Epic01" npc="마를레네" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:가,이$ 타이렌 왕국이 당신들 세계를 침공할 것이라고 했다면서요.&#x0A;우리 게오르크는 타이렌 왕국과 싸우고 있고….&#x0A;함께 손을 잡으면 어때요?' />
+	<key id="1129170511013296" feature="Kritias_Epic01" npc="블리체" name='유감이지만, 타이렌 왕국은 당신들에게 더 급박한 사안인 것 같군요.&#x0A;당장은 검은군단보다 더 빨리 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 확보하는 것이 우선입니다.&#x0A;놈들이 블루 라펜타의 힘을 얻게 되면 메이플 월드를 어둠의 힘으로 물들일 테니까요.' />
+	<key id="1129170511013297" feature="Kritias_Epic01" npc="네이린" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004431[gender:0]$&lt;/font&gt;의 딸이 타이렌의 침공을 경고했다는 건 그냥 넘길 일이 아니에요.&#x0A;메이플 월드를 위해 크리티아스를 봉인했던 여자니까요….' />
+	<key id="1129170511013298" feature="Kritias_Epic01" npc="마를레네" name="이곳은 당신들에게 낯선 세계예요.&#x0A;검은군단과 맞서려면 게오르크의 지원이 큰 도움이 될 겁니다." />
+	<key id="1129170511013299" feature="Kritias_Epic01" npc="네이린" name="자신을 희생해서 메이플 월드를 지켜낸 여자를 한번 믿어보면 어떨까요?" />
+	<key id="1129170511013300" feature="Kritias_Epic01" npc="블리체" name="$MyPCName$, 귀관 생각은 어떤가?&#x0A;귀관이 이곳에서 가장 많은 일을 겪었잖나." />
+	<key id="1129170511013301" feature="Kritias_Epic01" npc="PC" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 신뢰합니다.&#x0A;타이렌 왕국은 메이플 월드에 큰 위협이 될 겁니다.&#x0A;그리고 제가 겪은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004401[gender:1]$&lt;/font&gt;$pp:는,은$ 성깔은 좀 있지만 강직하고 유능한 지휘관이고요.' />
+	<key id="1129170511013302" feature="Kritias_Epic01" npc="마를레네" name="뭐라고요…?!" />
+	<key id="1129170511013303" feature="Kritias_Epic01" npc="메이슨" name="흠… 감상적 사고인 것 같지만, $MyPCName$$pp:가,이$ 그렇게 판단한다면야….&#x0A;이번엔 $MyPCName$의 판단을 믿어보기로 하죠." />
+	<key id="1129170511013304" feature="Kritias_Epic01" npc="블리체" name='게오르크 수장 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004401[gender:1]$&lt;/font&gt;님. &#x0A;이것으로 메이플 월드와 게오르크 간의 동맹이 성립되었음을 선포합니다.' />
+	<key id="1129170511013305" feature="Kritias_Epic01" npc="블리체" name='트라이아 왕국 여제이신 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004390[gender:1]$&lt;/font&gt;님의 윤허가 있어야 하지만, 긴급 상황이므로 스카이 포트리스 함장의 권한으로 동맹을 승인합니다.' />
+	<key id="1129170511013306" feature="Kritias_Epic01" npc="네이린" name="함께 타이렌 왕국과 검은군단에 맞서서 메이플 월드와 크리티아스를 구해요!" />
+	<key id="1129170511013307" feature="Kritias_Epic01" npc="마를레네" name="그래요… 함께….&#x0A;$MyPCName$도 함께 할거죠?" />
+	<key id="1129170511013308" feature="Kritias_Epic01" npc="PC" name='네, 함께 두 세계를 구할 겁니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;의 아버지 세계와 어머니 세계, 모두를요.' />
 </ms2>

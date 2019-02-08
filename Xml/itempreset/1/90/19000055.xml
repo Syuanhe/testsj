@@ -8,7 +8,7 @@
   </customize>
   <slots>
     <slot name="RH">
-      <asset name="urn:19000003_fishingRod055" targetnode="Weapon_Hand_R_Point" selfnode="Fishrod_Point01"/>
+      <asset name="urn:19000055_fishingRod055" targetnode="Weapon_Hand_R_Point" selfnode="Fishrod_Point01"/>
     </slot>
   </slots>
 </ms2>

@@ -8,7 +8,7 @@
 		<camera position="-9415.032227, -6606.904785, 12665.458984" rotation="90.000000, 45.000000, -45.000000" />
 		<edit zoomfactor="8.08009" />
 	</minimap>
-	<fog color="174,134,0" near="0" far="12000" />
+	<fog color="234,199,110" near="0" far="12000" />
 	<heightfog color="125,10,105" upper="2007" lower="-888" percentage="100" />
 	<clientProperty bgDay="BG_Kritias_ruin_B.dds" />
 </ms2>

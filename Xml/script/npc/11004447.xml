@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="GemStoneJewelBox_01" locale="">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011984$" />
+	</select>
+	<script randomPick="1" id="10" feature="GemStoneJewelBox_01" locale="KR">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011985$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011986$">
+			<distractor text="$script:1217160307011987$" goto="11" gotoFail="" />
+			<distractor text="$script:1217160307011988$" goto="13" gotoFail="" />
+		</content>
+	</script>
+	<script id="11" feature="GemStoneJewelBox_01" locale="KR">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011989$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011990$">
+			<distractor text="$script:1217160307011991$" goto="12" gotoFail="" />
+		</content>
+	</script>
+	<script id="12" feature="GemStoneJewelBox_01" locale="KR">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011992$" />
+	</script>
+	<script id="13" feature="GemStoneJewelBox_01" locale="KR">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011993$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011994$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011995$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011996$">
+			<distractor text="$script:1217160307011997$" goto="11" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="20" feature="GemStoneJewelBox_01" locale="CN">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011998$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307011999$">
+			<distractor text="$script:1217160307012000$" goto="21" gotoFail="" />
+			<distractor text="$script:1217160307012001$" goto="23" gotoFail="" />
+		</content>
+	</script>
+	<script id="21" feature="GemStoneJewelBox_01" locale="CN">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012002$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012003$">
+			<distractor text="$script:1217160307012004$" goto="22" gotoFail="" />
+		</content>
+	</script>
+	<script id="22" feature="GemStoneJewelBox_01" locale="CN">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012005$" />
+	</script>
+	<script id="23" feature="GemStoneJewelBox_01" locale="CN">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012006$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012007$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012008$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012009$">
+			<distractor text="$script:1217160307012010$" goto="21" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="30" feature="GemStoneJewelBox_01" locale="NA">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012011$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012012$">
+			<distractor text="$script:1217160307012013$" goto="31" gotoFail="" />
+			<distractor text="$script:1217160307012014$" goto="33" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="GemStoneJewelBox_01" locale="NA">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012015$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012016$">
+			<distractor text="$script:1217160307012017$" goto="32" gotoFail="" />
+		</content>
+	</script>
+	<script id="32" feature="GemStoneJewelBox_01" locale="NA">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012018$" />
+	</script>
+	<script id="33" feature="GemStoneJewelBox_01" locale="NA">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012019$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012020$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012021$" />
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012022$">
+			<distractor text="$script:1217160307012023$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="40" feature="GemStoneJewelBox_01" locale="KR">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012024$" />
+	</script>
+	<script randomPick="1" id="50" feature="GemStoneJewelBox_01" locale="CN">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012025$" />
+	</script>
+	<script randomPick="1" id="60" feature="GemStoneJewelBox_01" locale="NA">
+		<content illust="GemStoneJewelBox_01" text="$script:1217160307012026$" />
+	</script>
+</ms2>

@@ -78,6 +78,32 @@
 			<content text="$script:1127124615000059$" />
 		</script>
 	</quest>
+	<quest id="95000006">
+		<script id="100" feature="" locale="">
+			<content text="$script:1214152515000060$" />
+			<content text="$script:1214152515000061$" />
+			<content text="$script:1214152515000062$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1214152515000063$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1214152515000064$" />
+		</script>
+	</quest>
+	<quest id="95000007">
+		<script id="100" feature="" locale="">
+			<content text="$script:1227162015000065$" />
+			<content text="$script:1227162015000066$" />
+			<content text="$script:1227162015000067$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1227162015000068$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1227162015000069$" />
+		</script>
+	</quest>
 	<quest id="95100000">
 		<script id="100" feature="" locale="">
 			<content text="$script:0912180315000030$" />

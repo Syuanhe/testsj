@@ -20,7 +20,7 @@
 		</grade>
 		<grade value="5">
 			<condition type="fish" code="16000010" value="1000" target="02020018" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="shop_weapon" code="20200105" value="0" rank="1" />
 		</grade>
 		<grade value="6">
 			<condition type="fish" code="16000010" value="3000" target="02020018" />

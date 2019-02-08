@@ -16,8 +16,8 @@
 			</slot>
 			<slot name="LH">
 				<asset name="Data/Resource/Model/Item/1/53/15300280_MapleUnion01Cannon.nif" selfnode="Point01" targetnode="Weapon_Back_B_Point" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="53" placeable="0">
-					<dummy gender="0" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="-120.000000, 5.000000, 15.000000" translation="-13.000000, -5.000000, -15.000000" />
-					<dummy gender="1" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="-120.000000, 5.000000, 15.000000" translation="-15.000000, -5.000000, -15.000000" />
+					<dummy gender="0" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="-120.000000, 5.000000, 0.000000" translation="-13.000000, -5.000000, -15.000000" />
+					<dummy gender="1" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="-120.000000, 5.000000, 0.000000" translation="-15.000000, -5.000000, -15.000000" />
 					<physx action="" />
 				</asset>
 				<decal />
@@ -31,7 +31,7 @@
 		<fusion fusionable="0" />
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
-		<material ui="2" attack="12" />
+		<material ui="1" attack="12" />
 		<property skin="1" skinType="2" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/15300280.png" slotIconCustom="icon0.png" type="1" subtype="0" itemGroup="3" category="RHLH" blackMarketCategory="153_skin" remakeDisable="false" iconCode="1" representOption="-1" movie="" xmlData="" presetPath="1/53/" reference="0" gearScore="0" tradableCount="0" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />

@@ -49,6 +49,8 @@
 	<key id="60000050" name="밍구" />
 	<key id="60000051" name="쁘띠 터키" />
 	<key id="60000052" name="리틀 펌키" />
+	<key id="60000054" name="콩콩 캥거루" />
+	<key id="60000055" name="꽃의 요정" />
 	<key id="61000002" name="슬라임" feature="PetBattle" />
 	<key id="61000005" name="더키볼" feature="PetList_Taming" />
 	<key id="61000007" name="빨강 달팽이" feature="PetBattle" />
@@ -74,6 +76,23 @@
 	<key id="61000099" name="코볼크" feature="PetBattle" />
 	<key id="61000100" name="트윙쿠" feature="PetBattle" />
 	<key id="61000152" name="산토끼" feature="PetBattle" />
+	<key id="61000153" name="맹독 놀라쥬" feature="Pet_70Lv_Taming" />
+	<key id="61000154" name="터렛 MK-I" feature="Pet_70Lv_Taming" />
+	<key id="61000155" name="붉은 아룸" feature="Pet_70Lv_Taming" />
+	<key id="61000156" name="솔저레토" feature="Pet_70Lv_Taming" />
+	<key id="61000157" name="푸른 쿠우쿠" feature="Pet_70Lv_Taming" />
+	<key id="61000158" name="초록 포잉" feature="Pet_70Lv_Taming" />
+	<key id="61000159" name="튼튼모랑" feature="Pet_70Lv_Taming" />
+	<key id="61000160" name="가드 MK-II" feature="Pet_70Lv_Taming" />
+	<key id="61000161" name="타이렌 MK-I-S" feature="Pet_70Lv_Taming" />
+	<key id="61000163" name="레드 메카랩터" feature="Pet_70Lv_Taming" />
+	<key id="61000164" name="메카캐논" feature="Pet_70Lv_Taming" />
+	<key id="61000165" name="킬러휴롯" feature="Pet_70Lv_Taming" />
+	<key id="61000166" name="블루 메카티라노" feature="Pet_70Lv_Taming" />
+	<key id="61000167" name="분홍 꿈트리" feature="Pet_70Lv_Taming" />
+	<key id="61000168" name="버럭모랑" feature="Pet_70Lv_Taming" />
+	<key id="61000169" name="나이트레토" feature="Pet_70Lv_Taming" />
+	<key id="61000170" name="헤비휴롯" feature="Pet_70Lv_Taming" />
 	<key id="61100010" name="피로스 파드" feature="PetBattle" />
 	<key id="61100020" name="카보" feature="PetBattle" />
 	<key id="61100030" name="바르칸트" feature="PetUpdate01" />
@@ -82,6 +101,7 @@
 	<key id="61100060" name="캡틴 모크" feature="PetUpdate01" />
 	<key id="61100070" name="파풀라투스" feature="PetUpdate01" />
 	<key id="61100090" name="누타만" feature="PetUpdate01" />
+	<key id="61100100" name="기간티카" feature="Gigantica01" />
 	<key id="61100110" name="저주의 자쿰" feature="Pet_Zakum" />
 	<key id="61100111" name="저주의 자쿰" feature="Pet_Zakum" />
 	<key id="61100120" name="수호의 자쿰" feature="Pet_Zakum" />
@@ -100,10 +120,14 @@
 	<key id="61100141" name="유페리아" feature="Pet_60Lv" />
 	<key id="61100142" name="렌듀비앙" feature="Pet_60Lv" />
 	<key id="61100143" name="이슈라" feature="Pet_60Lv" />
+	<key id="61100144" name="강화형 발록" feature="Pet_70Lv_Boss" />
+	<key id="61100145" name="강화형 인페르녹" feature="Pet_70Lv_Boss" />
+	<key id="61100146" name="자쿰의 손" feature="Pet_70Lv_Boss" />
+	<key id="61100147" name="페이카" feature="Pet_70Lv_Boss" />
 	<key id="61200001" name="나태버섯" feature="SurvivalContents01" />
 	<key id="61200002" name="머쉬킹" feature="WorldChampionMushroom" />
 	<key id="62000011" name="신수 기린" feature="PetBattle" />
 	<key id="62000013" name="손오공" feature="PetBattle" />
-	<key id="62900001" name="QQ 펭귄" feature="PetBase" />
+	<key id="62900001" name="QQ 펭귄" feature="GemPetSkin" />
 	<key id="62900002" name="홍마오즈 불독" feature="PetBattle" />
 </ms2>

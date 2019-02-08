@@ -20,20 +20,46 @@
   <state name="스폰_1_SE"> 
     <onEnter>
       <action name="SetOnetimeEffect" id="1" enable="1" path="BG/Common/Sound/Eff_System_Dark_Intro_Chord_01.xml"/>
-      <action name="SideNpcTalk" type="talk" npcID="25100005" illust="infernog_normal" duration="5000" script="나의 수하들아. 움직여라!" />
+      <action name="StartCombineSpawn" groupId="478" isStart="true"/>
     </onEnter>
     <condition name="UserValue" key="SpawnStart" value="2" >
       <transition state="대기"/>
     </condition>
-    <condition name="WaitTick" waitTick="2000">
+    <condition name="WaitTick" waitTick="5000">
       <transition state="스폰_1" />
     </condition>
   </state>
 
   <state name="스폰_1"> 
     <onEnter>
-      <action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/Sound/Eff_System_Dark_Intro_Chord_01.xml"/>
-      <action name="StartCombineSpawn" groupId="478" isStart="true"/>
+      <action name="SideNpcTalk" type="talk" npcID="" illust="Turka_normal" duration="5000" script="$02020061_BF__BATTLE_1__0$" />
+    </onEnter>
+    <condition name="ShadowExpeditionReachPoint" point="200">
+      <transition state="스폰_2_SE" />
+    </condition>
+    <condition name="UserValue" key="SpawnStart" value="2" >
+      <transition state="대기"/>
+    </condition>
+    <condition name="WaitTick" waitTick="5000">
+      <transition state="스폰_1_추가대사" />
+    </condition>
+  </state>
+
+  <state name="스폰_1_추가대사1"> 
+    <onEnter>
+      <action name="SideNpcTalk" type="talk" npcID="" illust="Bliche_nomal" duration="5000" script="$02020061_BF__BATTLE_1__1$" />
+    </onEnter>
+    <condition name="UserValue" key="SpawnStart" value="2" >
+      <transition state="대기"/>
+    </condition>
+    <condition name="WaitTick" waitTick="5000">
+      <transition state="스폰_1_추가대사2" />
+    </condition>
+  </state>
+
+  <state name="스폰_1_추가대사2"> 
+    <onEnter>
+      <action name="SideNpcTalk" type="talk" npcID="" illust="Neirin_surprise" duration="5000" script="$02020061_BF__BATTLE_1__2$" />
     </onEnter>
     <condition name="ShadowExpeditionReachPoint" point="200">
       <transition state="스폰_2_SE" />

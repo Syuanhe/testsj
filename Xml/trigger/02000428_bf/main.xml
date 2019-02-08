@@ -159,8 +159,8 @@
 	<state name="전멸던전실패연출01">
 		<onEnter>
 			<!-- ## 실패연출 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="4000" script="$02000410_BF__ClearCheck__10$" voice="ko/Npc/00002171"/> <!-- 트리스탄의 "이런 시간이 부족한 건가?! 이대로면 버틸 수 없어!" 대사로, NA는 인페르녹 던전이 시간 버티기가 아닌 제한 시간까지 인페르녹 HP 다 까는 것이 목적이기 때문에 여기서의 트리스탄 대사는 NA만 다름 -->
-
+ 		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="4000" script="$02000410_BF__ClearCheck__10$" voice=""/> <!-- 트리스탄의 "이런 시간이 부족한 건가?! 이대로면 버틸 수 없어!" 대사로, NA는 인페르녹 던전이 시간 버티기가 아닌 제한 시간까지 인페르녹 HP 다 까는 것이 목적이기 때문에 여기서의 트리스탄 대사는 NA만 다름 -->
+																																															<!-- 원래 여기에 ko/Npc/00002171 설정이 있었는데, 대사가 달라져서 음성 설정 빼기-->
 		</onEnter>
 
 			<condition name="WaitTick" waitTick="4000" >
@@ -175,11 +175,11 @@
 	<state name="전멸던전실패연출02">
 		<onEnter>
 			<!-- ## 실패연출 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_nomal" duration="4000" script="$02000410_BF__ClearCheck__1$" voice="ko/Npc/00002156"/>
+ 		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_nomal" duration="6200" script="$02000410_BF__ClearCheck__1$" voice="ko/Npc/00002156"/>
 
 		</onEnter>
 
-			<condition name="WaitTick" waitTick="4000" >
+			<condition name="WaitTick" waitTick="6200" >
 				<transition state="전멸던전실패"/>
 			</condition>
 
@@ -188,7 +188,7 @@
 		</onExit>
 	</state>
 
-	<state name="전멸던전실패"> <!--  TriggerObjectID = 700  즉 전투판에 활성화 상태의 플레이어가 없을 경우의 던전실패 처리 -->
+	<state name="전멸던전실패"> 
 		<onEnter>
 			<action name="몬스터소멸시킨다" arg1="all" />
 		</onEnter>
@@ -212,7 +212,7 @@
 	
 	<state name="인페르녹처치성공">
 		<onEnter>
-			<action name="DungeonStopTimer" />	 <!--보스 3마리 다 죽이면 제일 먼저 던전 시간 멈추게 하기-->				
+			<action name="DungeonStopTimer" />	 <!--인페르녹 죽이면 제일 먼저 던전 시간 멈추게 하기-->				
 		<!--	<action name="DungeonMissionComplete" missionID="23040000" />  DungeonMission.xml 에 등록된 숫자 코드 미션 완료 처리하기, 던전 클리어 미션 달성임-->
 		</onEnter>
 		
@@ -228,8 +228,6 @@
 
    <state name="성공연출시작">
     <onEnter>
-		<action name="SetAiExtraData" key="EventClear" value="1" />		<!--  여기서는 인페르녹 보스 소멸 시키지 말고, AI쪽으로 EventClear = 1 신호 보내서 던전성공 이벤트 연출용도 NPC로 교체하고 본인 자신은 퇴장하도록 설정함 -->
-
 		<!-- 다섯번째팝업영상출력 -->
 		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_normal" duration="3000" script="$02000410_BF__ClearCheck__2$" voice="ko/Npc/00002182"/>
 
@@ -303,10 +301,11 @@
 			<!-- 던전성공처리-->
 			<action name="몬스터소멸시킨다" arg1="all" />		<!-- 대포하고 12시 방향의 파괴 직전의 인페르녹 전함 제거함-->
 			<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>
+			
+			<action name="업적이벤트를발생시킨다" arg1="750" arg2="trigger" arg3="ClearBalrogMagicBurster"/> 	
 			<!-- arg3="ClearBalrogMagicBurster" 는 achieve.xlsx 의 코드 21230095 던전 클리어 조건 트로피 설정에 넣는 데이터임  -->
-			<action name="업적이벤트를발생시킨다" arg1="750" arg2="trigger" arg3="infernogout"/>
-			<action name="업적이벤트를발생시킨다" arg1="750" arg2="trigger" arg3="ClearBalrogMagicBurster"/>
 			<!--    arg1="750"는 MS2TriggerBox   TriggerObjectID = 750  이것으로 02000410 맵에 트리거 박스가 2개 있는데(700, 750)  750이 안전부활 장소까지 포함되는 범위라서 이거 사용함-->
+			
 			<action name="포탈을설정한다" arg1="1" arg2="1" arg3="1" arg4="1"/>   <!--	던전 나가기 위한 포탈 생성,   arg1="1" 은 포탈ID, 전투판에 있는 포탈  -->
 			<action name="DungeonClear" />  <!-- 던전성공-->
 

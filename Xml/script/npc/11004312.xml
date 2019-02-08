@@ -7,4 +7,7 @@
 	<script randomPick="1" id="10" feature="Kritias_2018_12" locale="">
 		<content illust="Bliche_normal" text="$script:0928133807011351$" />
 	</script>
+	<script id="20" feature="Kritias_2018_12" locale="" tag="limitExpedCondition">
+		<content illust="Bliche_normal" text="$script:0116153807012734$" />
+	</script>
 </ms2>

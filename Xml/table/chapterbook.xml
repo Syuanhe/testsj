@@ -26,4 +26,5 @@
 	<chapterbook id="24" prologue="40002754" epilogue="20002391" rewardType1="skillPoint" rewardValue1="2,1" feature="LapentaFrontierQuest" />
 	<chapterbook id="25" prologue="40002766" epilogue="20002391" rewardType1="skillPoint" rewardValue1="2,1" feature="LapentaFrontierQuest" />
 	<chapterbook id="26" prologue="50100660" epilogue="50100810" rewardType1="statPoint" rewardValue1="2" feature="EyeOfLapentaQuest" />
+	<chapterbook id="27" prologue="50100840" epilogue="50101050" rewardType1="item" rewardValue1="20001144,1,15" rewardType2="item" rewardValue2="20001145,1,15" feature="Kritias_Epic01" />
 </ms2>

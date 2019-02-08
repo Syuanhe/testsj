@@ -2028,4 +2028,150 @@
 	<option code="12100102" grade="4" optionNumPick="0,0" />
 	<option code="12100102" grade="5" optionNumPick="5,5" asp_value_base="3,3" msp_value_base="3,3" ndd_value_base="5,5" par_value_base="18,18" sgi_rate_base="0.07,0.07" sgi_target="4" nddcalibrationfactor_rate_base="1" hiddennddadd_value_base="12" />
 	<option code="11960118" grade="5" optionNumPick="5,5" asp_value_base="6,6" atp_value_base="8,8" ndd_value_base="139,139" mar_value_base="23,23" pen_rate_base="0.04,0.04" />
+	<option code="13150300" grade="3" optionNumPick="2,2" wapmax_value_base="82,82" pvpdamageincrease_value_base="4,4" />
+	<option code="13250295" grade="3" optionNumPick="2,2" wapmax_value_base="71,71" pvpdamageincrease_value_base="4,4" />
+	<option code="13350294" grade="3" optionNumPick="2,2" wapmax_value_base="64,64" pvpdamageincrease_value_base="4,4" />
+	<option code="13450293" grade="3" optionNumPick="2,2" wapmax_value_base="80,80" pvpdamageincrease_value_base="4,4" />
+	<option code="14050256" grade="3" optionNumPick="2,2" map_value_base="5,5" pvpdamageincrease_value_base="4,4" />
+	<option code="14150265" grade="3" optionNumPick="3,3" abp_rate_base="0.139,0.139" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="924" />
+	<option code="15050299" grade="3" optionNumPick="2,2" wapmax_value_base="93,93" pvpdamageincrease_value_base="8,8" />
+	<option code="15150291" grade="3" optionNumPick="2,2" wapmax_value_base="75,75" pvpdamageincrease_value_base="8,8" />
+	<option code="15250298" grade="3" optionNumPick="2,2" wapmax_value_base="92,92" pvpdamageincrease_value_base="8,8" />
+	<option code="15350294" grade="3" optionNumPick="2,2" wapmax_value_base="93,93" pvpdamageincrease_value_base="8,8" />
+	<option code="15450294" grade="3" optionNumPick="2,2" wapmax_value_base="96,96" pvpdamageincrease_value_base="8,8" />
+	<option code="15550534" grade="3" optionNumPick="2,2" wapmax_value_base="82,82" pvpdamageincrease_value_base="8,8" />
+	<option code="15650535" grade="3" optionNumPick="2,2" wapmax_value_base="81,81" pvpdamageincrease_value_base="8,8" />
+	<option code="11250120" grade="3" optionNumPick="4,4" mar_value_base="16,16" parpen_rate_base="0.02,0.02" marpen_rate_base="0.02,0.02" pvpdamageincrease_value_base="8,8" />
+	<option code="11850181" grade="3" optionNumPick="4,4" ndd_value_base="13,13" parpen_rate_base="0.02,0.02" marpen_rate_base="0.02,0.02" pvpdamageincrease_value_base="8,8" />
+	<option code="11950007" grade="3" optionNumPick="4,4" mar_value_base="16,16" parpen_rate_base="0.02,0.02" marpen_rate_base="0.02,0.02" pvpdamageincrease_value_base="8,8" />
+	<option code="12050008" grade="3" optionNumPick="4,4" mar_value_base="16,16" parpen_rate_base="0.02,0.02" marpen_rate_base="0.02,0.02" pvpdamageincrease_value_base="8,8" />
+	<option code="12150006" grade="3" optionNumPick="4,4" ndd_value_base="4,4" parpen_rate_base="0.02,0.02" marpen_rate_base="0.02,0.02" pvpdamageincrease_value_base="8,8" />
+	<option code="11351128" grade="3" optionNumPick="3,3" ndd_value_base="12,12" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1456,1456" />
+	<option code="11451027" grade="3" optionNumPick="3,3" ndd_value_base="19,19" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="2226,2226" />
+	<option code="11550931" grade="3" optionNumPick="3,3" ndd_value_base="17,17" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="2072,2072" />
+	<option code="11651042" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="420,420" />
+	<option code="11751117" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="420,420" />
+	<option code="11351129" grade="3" optionNumPick="3,3" ndd_value_base="11,11" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1330,1330" />
+	<option code="11451028" grade="3" optionNumPick="3,3" ndd_value_base="17,17" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="2016,2016" />
+	<option code="11550932" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1890,1890" />
+	<option code="11651043" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="392,392" />
+	<option code="11751118" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="392,392" />
+	<option code="11351130" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1190,1190" />
+	<option code="11451029" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1820,1820" />
+	<option code="11550933" grade="3" optionNumPick="3,3" ndd_value_base="14,14" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1694,1694" />
+	<option code="11651044" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11751119" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11351131" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1176,1176" />
+	<option code="11451030" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1778,1778" />
+	<option code="11550934" grade="3" optionNumPick="3,3" ndd_value_base="14,14" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1666,1666" />
+	<option code="11651045" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11751120" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11351132" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1232,1232" />
+	<option code="11451031" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1876,1876" />
+	<option code="11550935" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1764,1764" />
+	<option code="11651046" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="364,364" />
+	<option code="11751121" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="364,364" />
+	<option code="11351133" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1246,1246" />
+	<option code="11451032" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1918,1918" />
+	<option code="11550936" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1792,1792" />
+	<option code="11651047" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11751122" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11351134" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1246,1246" />
+	<option code="11451033" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1918,1918" />
+	<option code="11550937" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1792,1792" />
+	<option code="11651048" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11751123" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11351135" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1190,1190" />
+	<option code="11451034" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1820,1820" />
+	<option code="11550938" grade="3" optionNumPick="3,3" ndd_value_base="14,14" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1694,1694" />
+	<option code="11651049" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11751124" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11351136" grade="3" optionNumPick="3,3" ndd_value_base="11,11" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1288,1288" />
+	<option code="11451035" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1960,1960" />
+	<option code="11550939" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1834,1834" />
+	<option code="11651050" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11751125" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="378,378" />
+	<option code="11351137" grade="3" optionNumPick="3,3" ndd_value_base="11,11" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1330,1330" />
+	<option code="11451036" grade="3" optionNumPick="3,3" ndd_value_base="17,17" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="2016,2016" />
+	<option code="11550940" grade="3" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1890,1890" />
+	<option code="11651051" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="392,392" />
+	<option code="11751126" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="392,392" />
+	<option code="11351138" grade="3" optionNumPick="3,3" ndd_value_base="10,10" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1190,1190" />
+	<option code="11451037" grade="3" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1820,1820" />
+	<option code="11550941" grade="3" optionNumPick="3,3" ndd_value_base="14,14" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="1694,1694" />
+	<option code="11651052" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11751127" grade="3" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4" pvpdamagereduce_value_base="350,350" />
+	<option code="11301392" grade="4" optionNumPick="3,3" ndd_value_base="18,18" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="4396,4396" />
+	<option code="11401175" grade="4" optionNumPick="3,3" ndd_value_base="28,28" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="6720,6720" />
+	<option code="11501067" grade="4" optionNumPick="3,3" ndd_value_base="26,26" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="6300,6300" />
+	<option code="11601262" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1260,1260" />
+	<option code="11701359" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1260,1260" />
+	<option code="13200315" grade="4" optionNumPick="2,2" wapmax_value_base="111,111" pvpdamageincrease_value_base="4,4" />
+	<option code="14100285" grade="4" optionNumPick="3,3" abp_rate_base="0.155,0.155" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="2772,2772" />
+	<option code="11301393" grade="4" optionNumPick="3,3" ndd_value_base="17,17" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="4004,4004" />
+	<option code="11401176" grade="4" optionNumPick="3,3" ndd_value_base="25,25" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="6104,6104" />
+	<option code="11501068" grade="4" optionNumPick="3,3" ndd_value_base="24,24" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5712,5712" />
+	<option code="11601263" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1148,1148" />
+	<option code="11701360" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1148,1148" />
+	<option code="15000319" grade="4" optionNumPick="2,2" wapmax_value_base="145,145" pvpdamageincrease_value_base="8,8" />
+	<option code="11301394" grade="4" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3612,3612" />
+	<option code="11401177" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5488,5488" />
+	<option code="11501069" grade="4" optionNumPick="3,3" ndd_value_base="21,21" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5124,5124" />
+	<option code="11601264" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="11701361" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="15200318" grade="4" optionNumPick="2,2" wapmax_value_base="144,144" pvpdamageincrease_value_base="8,8" />
+	<option code="11301395" grade="4" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3528,3528" />
+	<option code="11401178" grade="4" optionNumPick="3,3" ndd_value_base="22,22" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5348,5348" />
+	<option code="11501070" grade="4" optionNumPick="3,3" ndd_value_base="21,21" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5040,5040" />
+	<option code="11601265" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="11701362" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="13300314" grade="4" optionNumPick="2,2" wapmax_value_base="100,100" pvpdamageincrease_value_base="4,4" />
+	<option code="14000276" grade="4" optionNumPick="2,2" map_value_base="6,6" pvpdamageincrease_value_base="4,4" />
+	<option code="11301396" grade="4" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3752,3752" />
+	<option code="11401179" grade="4" optionNumPick="3,3" ndd_value_base="24,24" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5684,5684" />
+	<option code="11501071" grade="4" optionNumPick="3,3" ndd_value_base="22,22" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5320,5320" />
+	<option code="11601266" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1064,1064" />
+	<option code="11701363" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1064,1064" />
+	<option code="15100311" grade="4" optionNumPick="2,2" wapmax_value_base="118,118" pvpdamageincrease_value_base="8,8" />
+	<option code="11301397" grade="4" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3808,3808" />
+	<option code="11401180" grade="4" optionNumPick="3,3" ndd_value_base="24,24" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5796,5796" />
+	<option code="11501072" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5432,5432" />
+	<option code="11601267" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1092,1092" />
+	<option code="11701364" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1092,1092" />
+	<option code="15300314" grade="4" optionNumPick="2,2" wapmax_value_base="146,146" pvpdamageincrease_value_base="8,8" />
+	<option code="11301398" grade="4" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3808,3808" />
+	<option code="11401181" grade="4" optionNumPick="3,3" ndd_value_base="24,24" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5796,5796" />
+	<option code="11501073" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5432,5432" />
+	<option code="11601268" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1092,1092" />
+	<option code="11701365" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1092,1092" />
+	<option code="13100320" grade="4" optionNumPick="2,2" wapmax_value_base="129,129" pvpdamageincrease_value_base="4,4" />
+	<option code="11301399" grade="4" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3612,3612" />
+	<option code="11401182" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5488,5488" />
+	<option code="11501074" grade="4" optionNumPick="3,3" ndd_value_base="21,21" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5124,5124" />
+	<option code="11601269" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="11701366" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="13400313" grade="4" optionNumPick="2,2" wapmax_value_base="125,125" pvpdamageincrease_value_base="4,4" />
+	<option code="11301400" grade="4" optionNumPick="3,3" ndd_value_base="16,16" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3892,3892" />
+	<option code="11401183" grade="4" optionNumPick="3,3" ndd_value_base="25,25" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5936,5936" />
+	<option code="11501075" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5544,5544" />
+	<option code="11601270" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1120,1120" />
+	<option code="11701367" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1120,1120" />
+	<option code="15400300" grade="4" optionNumPick="2,2" wapmax_value_base="151,151" pvpdamageincrease_value_base="8,8" />
+	<option code="11301401" grade="4" optionNumPick="3,3" ndd_value_base="17,17" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="4004,4004" />
+	<option code="11401184" grade="4" optionNumPick="3,3" ndd_value_base="25,25" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="6104,6104" />
+	<option code="11501076" grade="4" optionNumPick="3,3" ndd_value_base="24,24" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5712,5712" />
+	<option code="11601271" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1148,1148" />
+	<option code="11701368" grade="4" optionNumPick="3,3" ndd_value_base="5,5" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1148,1148" />
+	<option code="15500534" grade="4" optionNumPick="2,2" wapmax_value_base="129,129" pvpdamageincrease_value_base="8,8" />
+	<option code="11301402" grade="4" optionNumPick="3,3" ndd_value_base="15,15" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="3612,3612" />
+	<option code="11401185" grade="4" optionNumPick="3,3" ndd_value_base="23,23" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5488,5488" />
+	<option code="11501077" grade="4" optionNumPick="3,3" ndd_value_base="21,21" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="5124,5124" />
+	<option code="11601272" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="11701369" grade="4" optionNumPick="3,3" ndd_value_base="4,4" pvpdamageincrease_value_base="4,4" pvpdamagereduce_value_base="1008,1008" />
+	<option code="15600536" grade="4" optionNumPick="2,2" wapmax_value_base="127,127" pvpdamageincrease_value_base="8,8" />
+	<option code="11200101" grade="4" optionNumPick="5,5" mar_value_base="17,17" parpen_rate_base="0.03,0.03" marpen_rate_base="0.03,0.03" pvpdamageincrease_value_base="8,8" pvpdamagereduce_value_base="600,600" />
+	<option code="11800132" grade="4" optionNumPick="5,5" ndd_value_base="20,20" parpen_rate_base="0.03,0.03" marpen_rate_base="0.03,0.03" pvpdamageincrease_value_base="8,8" pvpdamagereduce_value_base="600,600" />
+	<option code="11900125" grade="4" optionNumPick="5,5" mar_value_base="17,17" parpen_rate_base="0.03,0.03" marpen_rate_base="0.03,0.03" pvpdamageincrease_value_base="8,8" pvpdamagereduce_value_base="600,600" />
+	<option code="12000114" grade="4" optionNumPick="5,5" mar_value_base="17,17" parpen_rate_base="0.03,0.03" marpen_rate_base="0.03,0.03" pvpdamageincrease_value_base="8,8" pvpdamagereduce_value_base="600,600" />
+	<option code="12100115" grade="4" optionNumPick="5,5" ndd_value_base="4,4" parpen_rate_base="0.03,0.03" marpen_rate_base="0.03,0.03" pvpdamageincrease_value_base="8,8" pvpdamagereduce_value_base="600,600" />
 </ms2>

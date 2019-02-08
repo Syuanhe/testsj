@@ -4,7 +4,7 @@
 	<basic>
 		<ui icon="./Data/Resource/Image/skill/icon/10100091.png" movie="" exceptUI="0" attackType="1" />
 		<kinds type="0" subType="2" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="1" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
-		<stateAttr battle="1" speedRank="0" superArmor="3" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+		<stateAttr battle="1" speedRank="0" superArmor="3" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="1" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
 	</basic>
 	<level value="1" feature="CharacterBalance_01">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0.4" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">

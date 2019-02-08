@@ -8,7 +8,7 @@
 		<speed rotation="720" walk="400" run="800" />
 		<distance avoid="140" sight="1000" sightHeightUP="300" sightHeightDown="0" customLastSightRadius="2500" customLastSightHeightUp="525" customLastSightHeightDown="225" />
 		<skill ids="60035001" levels="1" priorities="1" probs="100" coolDown="0" />
-		<additionalEffect codes="50004400,70000174" levels="1,1" group="" />
+		<additionalEffect codes="50004400" levels="1" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />

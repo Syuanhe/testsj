@@ -12,7 +12,7 @@
 		</grade>
 		<grade value="3">
 			<condition type="fish" code="10000051" value="100" target="" />
-			<reward type="title" code="10000633" value="0" rank="1" />
+			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="4">
 			<condition type="fish" code="10000051" value="200" target="" />
@@ -20,7 +20,7 @@
 		</grade>
 		<grade value="5">
 			<condition type="fish" code="10000051" value="300" target="" />
-			<reward type="title" code="10000634" value="0" rank="1" />
+			<reward type="title" code="10000633" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

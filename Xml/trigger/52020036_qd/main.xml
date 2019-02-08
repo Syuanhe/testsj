@@ -10,6 +10,7 @@
 	
     <state name="준비">
 		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="12000043" arg2="2" />			
 			<action name="메쉬를설정한다" arg1="9999" arg2="1" /> <!-- 발록 함선 보이기-->	
 			<action name="몬스터를생성한다" arg1="7000"/>
 			<action name="몬스터를생성한다" arg1="7001"/>
@@ -467,11 +468,12 @@
     </state>
 
 	<state name="공중지원퀘스트자동수락">
-		<onEnter>					
+		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="12000043" arg2="1" />
 			<action name="몬스터소멸시킨다" arg1="901" />
 			<action name="몬스터소멸시킨다" arg1="101" />
 			<action name="몬스터소멸시킨다" arg1="201" />
-			<action name="몬스터소멸시킨다" arg1="all" />					
+			<action name="몬스터소멸시킨다" arg1="all" />			
 		</onEnter>
 			<!--<condition name="퀘스트유저를감지하면" arg1="9000" arg2="91000049" arg3="1">-->
 		<condition name="WaitTick" waitTick="0">				
@@ -480,7 +482,6 @@
 		<onExit>
 		</onExit>			
     </state>	
-
 	
 	<state name="콘대르구르는천둥P3스폰">
 		<onEnter>
@@ -748,8 +749,6 @@
 		</condition>			
     </state>
 	
-	
-	
 	<state name="공중지원퀘스트완료체크">
 		<onEnter>					
 		</onEnter>
@@ -762,6 +761,7 @@
 	
 	<state name="공중지원퀘스트완료">
 		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="12000043" arg2="0" />			
 			<action name="VisibleMyPC" isVisible="0" /> <!-- 캐릭터 숨김-->			
 			<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_FastFadeIn.xml"/>	
 			<action name="몬스터소멸시킨다" arg1="all" />		
@@ -771,11 +771,10 @@
 			<transition state="엔딩크림슨발록보이는위치로유저이동"/>
 		</condition>
 		<onExit>
-		</onExit>		
+		</onExit>	
     </state>			
-	
 
-   <state name="엔딩크림슨발록보이는위치로유저이동">
+	<state name="엔딩크림슨발록보이는위치로유저이동">
 		<onEnter>
 			<action name="유저를이동시킨다" arg1="52020036" arg2="4"/>
 		</onEnter>
@@ -785,7 +784,7 @@
 		<onExit>
 		</onExit>
     </state>	
-
+	
     <state name="엔딩크림슨발록비추기">
 		<onEnter>
 			<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_FastFadeIn.xml"/>		

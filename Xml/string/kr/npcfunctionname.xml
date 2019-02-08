@@ -3260,8 +3260,103 @@
 	<key id="11004231" name="마법사" />
 	<key id="11004243" name="상부상조 기사 상인" />
 	<key id="11004248" name="달토끼" feature="Season1" />
+	<key id="11004312" name="연합 함장" feature="Kritias_2018_12" />
+	<key id="11004313" name="근위 부장" feature="Kritias_2018_12" />
+	<key id="11004314" name="첩보 전문가" feature="Kritias_2018_12" />
+	<key id="11004315" name="전술 부관" feature="Kritias_2018_12" />
+	<key id="11004316" name="신관 기사" feature="Kritias_2018_12" />
 	<key id="11004317" />
 	<key id="11004318" name="의사" feature="Season1" />
+	<key id="11004442" name="탈것 상인" feature="Kritias_2018_12" />
+	<key id="11004443" name="잡화 상인" feature="Kritias_2018_12" />
+	<key id="11004444" name="장비 상인" feature="Kritias_2018_12" />
+	<key id="11004445" name="제작 재료 상인" feature="Kritias_2018_12" />
+	<key id="11004446" name="로얄 뮤직 아카데미 파견원" feature="MusicInstrument" />
+	<key id="11004447" name="마법사" feature="GemStoneJewelBox_01" />
+	<key id="11004448" name="젬스톤 업그레이드 지원" feature="GemStoneJewelBox_01" />
+	<key id="11004449" name="루미스톤 업그레이드 지원" feature="LumiStoneJewelBox_01" />
+	<key id="11004450" name="금고지기" feature="Kritias_2018_12" />
+	<key id="11004451" name="의사" feature="Kritias_2018_12" />
+	<key id="11004452" name="트레이더" feature="Kritias_2018_12" />
+	<key id="11004453" name="낚시용품 상인" feature="Kritias_2018_12" />
+	<key id="11004454" name="상단 보물 창고" feature="AricariDailyQ" />
+	<key id="11004456" />
+	<key id="11004457" />
+	<key id="11004458" />
+	<key id="11004459" />
+	<key id="11004460" />
+	<key id="11004461" />
+	<key id="11004462" />
+	<key id="11004463" />
+	<key id="11004464" />
+	<key id="11004465" />
+	<key id="11004466" />
+	<key id="11004467" />
+	<key id="11004468" />
+	<key id="11004469" />
+	<key id="11004470" />
+	<key id="11004471" />
+	<key id="11004472" />
+	<key id="11004473" />
+	<key id="11004474" />
+	<key id="11004475" />
+	<key id="11004476" />
+	<key id="11004477" />
+	<key id="11004478" />
+	<key id="11004479" />
+	<key id="11004480" />
+	<key id="11004481" />
+	<key id="11004482" />
+	<key id="11004483" />
+	<key id="11004484" />
+	<key id="11004485" />
+	<key id="11004486" />
+	<key id="11004487" />
+	<key id="11004488" />
+	<key id="11004489" />
+	<key id="11004490" />
+	<key id="11004491" />
+	<key id="11004492" />
+	<key id="11004493" />
+	<key id="11004494" />
+	<key id="11004495" />
+	<key id="11004496" />
+	<key id="11004497" />
+	<key id="11004498" />
+	<key id="11004499" />
+	<key id="11004500" />
+	<key id="11004501" />
+	<key id="11004502" />
+	<key id="11004503" />
+	<key id="11004504" name="에네르 보급병" feature="Kritias_2018_12" />
+	<key id="11004505" />
+	<key id="11004506" />
+	<key id="11004507" />
+	<key id="11004508" />
+	<key id="11004509" />
+	<key id="11004510" />
+	<key id="11004511" />
+	<key id="11004512" />
+	<key id="11004513" />
+	<key id="11004514" />
+	<key id="11004515" />
+	<key id="11004516" />
+	<key id="11004517" name="메이플 연합 보급관" feature="Kritias_2018_12" />
+	<key id="11004518" name="루미나이츠 보급관" feature="Kritias_2018_12" />
+	<key id="11004519" name="그린후드 보급관" feature="Kritias_2018_12" />
+	<key id="11004520" name="루미윈드 비행사" feature="Kritias_2018_12" />
+	<key id="11004521" name="루미윈드 비행사" feature="Kritias_2018_12" />
+	<key id="11004535" />
+	<key id="11004536" />
+	<key id="11004537" />
+	<key id="11004538" />
+	<key id="11004539" />
+	<key id="11004540" />
+	<key id="11004545" />
+	<key id="11004546" />
+	<key id="11004547" />
+	<key id="11004552" />
+	<key id="11004553" />
 	<key id="11400001" />
 	<key id="11400002" />
 	<key id="11200000" name="의사" />

@@ -13,8 +13,11 @@
     <state name="입장"> 
         <onEnter>			
 		</onEnter>
-		<condition name="유저를감지했으면" arg1="6001" arg2=""> <!--조건은 나중에 수정-->
-				<transition state="칼리브해안전경"/>
+		<condition name="퀘스트유저를감지하면" arg1="6001" arg2="91000076" arg3="3">
+			<transition state="칼리브해안전경"/> 
+		</condition>
+		<condition name="!퀘스트유저를감지하면" arg1="6001" arg2="91000076" arg3="3">
+			<transition state="맵이동"/> 
 		</condition>
 		<onExit>
 		</onExit>
@@ -256,7 +259,7 @@
 	
 	<state name="종료_02">  <!--스폰조절-->
         <onEnter>
-		<action name="SetOnetimeEffect" id="300" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>
+			<action name="SetOnetimeEffect" id="300" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>	
 		</onEnter>
 			<condition name="WaitTick" waitTick="500">
 				<transition state="UI초기화"/> 
@@ -267,26 +270,25 @@
 	
 	<state name="UI초기화"> 
         <onEnter>
-		<action name="VisibleMyPC" isVisible="1" />
-		<action name="SetOnetimeEffect" id="300" enable="0" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>
-		<action name="몬스터소멸시킨다" arg1="101"/>
-		<action name="몬스터소멸시킨다" arg1="102"/>
-		<action name="몬스터소멸시킨다" arg1="103"/>
-		<action name="몬스터소멸시킨다" arg1="104"/>		
-		<action name="카메라리셋" interpolationTime="2.0"/>	
-		<action name="연출UI를설정한다" arg1="0"/>
-		<action name="연출UI를설정한다" arg1="2"/>
+			<action name="VisibleMyPC" isVisible="1" />
+			<action name="몬스터소멸시킨다" arg1="101"/>
+			<action name="몬스터소멸시킨다" arg1="102"/>
+			<action name="몬스터소멸시킨다" arg1="103"/>
+			<action name="몬스터소멸시킨다" arg1="104"/>		
+			<action name="카메라리셋" interpolationTime="2.0"/>	
+			<action name="연출UI를설정한다" arg1="0"/>
+			<action name="연출UI를설정한다" arg1="2"/>
 		</onEnter>	 
-		<condition name="WaitTick" waitTick="500">
-		<transition state="맵이동"/> 
-		</condition>		
+			<condition name="WaitTick" waitTick="500">
+				<transition state="맵이동"/> 
+			</condition>		
 		<onExit>
 		</onExit>
     </state>
 
   <state name="맵이동">
        <onEnter>
-                    <action name="유저를이동시킨다" arg1="02000422" arg2=""/>    <!-- 스카이 포트리스 함교로 텔레포트 -->                    
+           <action name="유저를이동시킨다" arg1="02000422" arg2=""/>    <!-- 스카이 포트리스 함교로 텔레포트 -->                    
        </onEnter>    
         <condition name="WaitTick" waitTick="1000">
             <transition state=""/>

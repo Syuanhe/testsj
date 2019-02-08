@@ -65,7 +65,7 @@
   
   <action type="land">
     <effects>
-      <effect filePath="CH/Common/Eff_Water_Land_Emeral.xml"/>
+      <effect filePath="CH/Common/Eff_Water_Land_Emerald.xml"/>
     </effects>
    <effects>
       <effect filePath="CH/Common/Tile/default/default_s_land.xml"/>

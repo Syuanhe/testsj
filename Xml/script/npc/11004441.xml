@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="" locale="">
+		<content illust="TreasureMap01" text="$script:1221144207012027$" />
+	</select>
+	<monologue id="10" feature="" locale="">
+		<content illust="TreasureMap01" text="$script:1221144207012028$" />
+	</monologue>
+	<script id="20" feature="" locale="KR">
+		<content illust="TreasureMap01" text="$script:1221144207012029$" />
+	</script>
+	<script id="30" feature="" locale="KR">
+		<content illust="TreasureMap01" text="$script:1221144207012030$">
+			<distractor text="$script:1221144207012031$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="" locale="KR">
+		<content illust="TreasureMap01" text="$script:1221144207012032$" />
+		<content illust="TreasureMap01" text="$script:1221144207012033$" />
+		<content illust="TreasureMap01" text="$script:1221144207012034$" />
+		<content illust="TreasureMap01" text="$script:1221144207012035$" />
+		<content illust="TreasureMap01" text="$script:1221144207012036$" />
+		<content illust="TreasureMap01" text="$script:1221144207012037$" />
+		<content illust="TreasureMap01" text="$script:1221144207012038$" />
+	</script>
+	<script id="40" feature="" locale="KR">
+		<content illust="TreasureMap01" text="$script:1221144207012039$" />
+	</script>
+	<script id="41" feature="" locale="KR">
+		<content illust="TreasureMap01" functionID="1" text="$script:1221144207012040$" />
+	</script>
+	<script id="50" feature="" locale="CN">
+		<content illust="TreasureMap01" text="$script:1221144207012041$" />
+	</script>
+	<script id="60" feature="" locale="NA">
+		<content illust="TreasureMap01" text="$script:1221144207012042$" />
+	</script>
+	<script randomPick="1" id="70" feature="TreasureMap01" locale="KR">
+		<content illust="TreasureMap01" text="$script:1221144207012043$">
+			<distractor text="$script:1221144207012044$" goto="21" gotoFail="" />
+			<distractor text="$script:1221144207012045$" goto="22" gotoFail="" />
+			<distractor text="$script:1221144207012046$" goto="20,30,40,50,60" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="80" feature="TreasureMap01" locale="CN">
+		<content illust="TreasureMap01" text="$script:1221144207012047$">
+			<distractor text="$script:1221144207012048$" goto="21" gotoFail="" />
+			<distractor text="$script:1221144207012049$" goto="22" gotoFail="" />
+			<distractor text="$script:1221144207012050$" goto="20,30,40,50,60" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="90" feature="TreasureMap01" locale="NA">
+		<content illust="TreasureMap01" text="$script:1221144207012051$">
+			<distractor text="$script:1221144207012052$" goto="21" gotoFail="" />
+			<distractor text="$script:1221144207012053$" goto="20,30,40,50,60" gotoFail="" />
+		</content>
+	</script>
+	<script id="21" feature="TreasureMap01" locale="">
+		<content illust="TreasureMap01" functionID="1" text="$script:1221144207012054$" />
+	</script>
+	<script id="22" feature="TreasureMap01" locale="">
+		<content illust="TreasureMap01" functionID="1" text="$script:1221144207012055$" />
+	</script>
+</ms2>

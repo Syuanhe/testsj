@@ -28,7 +28,8 @@
 	<symbol id="21" icon="itemMerge3" conditionType="title" code="10000381" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="ItemMerge" locale="" />
 	<symbol id="22" icon="HB" conditionType="title" code="10000190" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="" />
 	<symbol id="24" icon="return_user" conditionType="return_user" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="Mentoring" locale="" />
-	<symbol id="26" icon="Skyfortress" conditionType="title" code="10000422" hideSymbol="" pushSymbol="1" buffID="90000751" buffLv="1" feature="FameContents" locale="" />
+	<symbol id="26" icon="Skyfortress" conditionType="title" code="10000422" hideSymbol="" pushSymbol="1" buffID="90000751" buffLv="1" feature="FameContents" locale="KR" />
+	<symbol id="26" icon="Skyfortress" conditionType="title" code="10000422" hideSymbol="" pushSymbol="1" buffID="90000751" buffLv="1" feature="FameContents" locale="CN" />
 	<symbol id="27" icon="LunarYear" conditionType="title" code="10000423" hideSymbol="" pushSymbol="1" buffID="90000750" buffLv="1" feature="LunaYear2018" locale="" />
 	<symbol id="28" icon="PvpSurvival" conditionType="title" code="10000458" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="SurvivalContents01" locale="" />
 	<symbol id="29" icon="AdventureLevel" conditionType="adventure_level" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="AdventureLevel" locale="" />
@@ -45,6 +46,9 @@
 	<symbol id="40" icon="Fullmoon" conditionType="title" code="10000540" hideSymbol="" pushSymbol="1" buffID="90000873" buffLv="1" feature="" locale="KR" />
 	<symbol id="41" icon="oneyear" conditionType="title" code="10000565" hideSymbol="" pushSymbol="1" buffID="" buffLv="" feature="" locale="CN" />
 	<symbol id="42" icon="Papulatus" conditionType="title" code="10000574" hideSymbol="1" pushSymbol="1" buffID="90000901" buffLv="1" feature="" locale="CN" />
+	<symbol id="43" icon="fishing_pro" conditionType="title" code="10000602" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Fishing02" locale="" />
+	<symbol id="44" icon="fishing_champion" conditionType="title" code="10000603" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Fishing02" locale="" />
+	<symbol id="45" icon="Lapenshard" conditionType="title" code="10000638" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Lapenshard01" locale="" />
 	<symbol id="46" icon="KritiasMark" conditionType="title" code="10000644" hideSymbol="1" pushSymbol="1" buffID="90000915" buffLv="1" feature="" locale="" />
 	<symbol id="47" icon="SummerBurning" conditionType="Burning" code="" hideSymbol="1" buffID="0" buffLv="" pushSymbol="" feature="" locale="KR" />
 </ms2>

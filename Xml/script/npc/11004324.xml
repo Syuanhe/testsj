@@ -13,6 +13,15 @@
 		<content illust="Lennon_normal" text="$script:1010140307011495$" />
 		<content illust="Lennon_normal" text="$script:1010140307011496$" />
 		<content illust="Lennon_normal" text="$script:1010140307011497$" />
-		<content illust="Lennon_normal" text="$script:1010140307011498$" />
+		<content illust="Lennon_normal" text="$script:1010140307011498$">
+			<distractor text="$script:0111232407012693$" goto="21" gotoFail="" />
+		</content>
+	</script>
+	<script id="21" feature="Kritias_2018_12" locale="">
+		<content illust="Lennon_normal" text="$script:0111232407012694$" />
+	</script>
+	<script randomPick="1" id="30" feature="Kritias_2018_12" locale="">
+		<content illust="Lennon_normal" text="$script:0109125407012659$" />
+		<content illust="Lennon_normal" text="$script:0109125407012660$" />
 	</script>
 </ms2>

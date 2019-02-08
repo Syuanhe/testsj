@@ -18,7 +18,7 @@
 			<remoteComplete useRemote="1" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="gallery" />
-			<condition type="quest" code="30000382" value="2" />
+			<condition type="quest_clear_by_chapter" code="2103" value="2" />
 		</quest>
 	</environment>
 </ms2>

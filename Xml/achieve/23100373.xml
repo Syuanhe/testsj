@@ -7,16 +7,12 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="2">
-			<condition type="fish_big" code="13000011" value="10" target="" />
+			<condition type="fish_big" code="13000011" value="3" target="" />
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="3">
-			<condition type="fish_big" code="13000011" value="100" target="" />
-			<reward type="" code="0" value="0" rank="1" />
-		</grade>
-		<grade value="4">
-			<condition type="fish_big" code="13000011" value="1000" target="" />
-			<reward type="shop_weapon" code="70700019" value="0" rank="1" />
+			<condition type="fish_big" code="13000011" value="10" target="" />
+			<reward type="title" code="10000706" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

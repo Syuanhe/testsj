@@ -9,7 +9,5 @@
 	<attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
 </effect>  
 <!--성우 음성 넣기 -->
-  <effect type="soundEvent" group="MS2Sound/Sound/Voice/ko/Npc" event="00002066" startDelay="0.0">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>  
+
 </ms2>

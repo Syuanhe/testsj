@@ -44,4 +44,6 @@
 	<key id="40002744" name='&lt;font color=&quot;#ffd200&quot;&gt;블러디 버서커&lt;/font&gt;로 전직을 시작할 수 있습니다.' feature="LapentaFrontierQuest" npc="안내원 나탈리" />
 	<key id="40002754" name='&lt;font color=&quot;#ffd200&quot;&gt;매지컬 위자드&lt;/font&gt;로 전직을 시작할 수 있습니다.' feature="LapentaFrontierQuest" npc="안내원 나탈리" />
 	<key id="40002766" name='&lt;font color=&quot;#ffd200&quot;&gt;미스틱 소울 바인더&lt;/font&gt;로 전직을 시작할 수 있습니다.' feature="LapentaFrontierQuest" npc="안내원 나탈리" />
+	<key id="40002788" name="&#x0A;마스터 스킬 퀘스트를 시작할 수 있습니다.&#x0A;( ! ) 말풍선을 확인 해보세요." feature="JobChange_02" npc="안내원 나탈리" />
+	<key id="50101050" name="크리티아스에 도착했으니, 탐사를 위한 특수 임무 수행을 요청한다. 자세한 내용은 각 담당관에게 듣도록." feature="Kritias_2018_12" npc="블리체" />
 </ms2>

@@ -5,10 +5,8 @@
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.2" />
   </effect>
   <effect type="vibrate" startDelay="0.0" duration="0.5" freq="25" amp="15" />
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Warrior" event="01300006" doNotStop="true">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Knight" event="01300003" doNotStop="true">
+  
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Knight" event="01300044" doNotStop="true">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
 </ms2>

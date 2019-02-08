@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="CP">
-				<asset name="Data/Resource/Model/Item/1/13/11301246_C_ToppingcornIceCream_F.nif" selfnode="CP" targetnode="Bip01 Head" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="urn:gamebryo-animation:urn:11301371_C_BubbleOctopus_F" selfnode="CP" targetnode="Bip01 Head" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<userrotation axis="x" min="0" max="0" default="0.000000" />
 					<userrotation axis="y" min="0" max="0" default="0.000000" />
 					<userrotation axis="z" min="-180" max="180" default="0.000000" />

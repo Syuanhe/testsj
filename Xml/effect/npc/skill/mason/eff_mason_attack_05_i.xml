@@ -111,15 +111,13 @@
   </effect>  
   
 
-    <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102238" startDelay="14.3">
+   <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102238" startDelay="14.3">
       <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>      
-  
-   
+
+<!--na전용-->
     <effect type="soundEvent" group="MS2Sound/Sound/Voice/ko/NPC" event="00002092" doNotStop="true" startDelay="13.0">
       <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />    	  
-  </effect>     
-  
-  
- 
+  </effect>       
+   
 </ms2>

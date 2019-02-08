@@ -113,7 +113,7 @@
 			<action name="AGENT를설정한다" arg1="9007" arg2="0"/>
 			<action name="AGENT를설정한다" arg1="9008" arg2="0"/>
 			<action name="SetAiExtraData" key="Start" value="1" />
-			<action name="SideNpcTalk" npcID="23200085" illust="Schatten_smile" duration="5000" script="$02020021_BF__main__6$"/>
+			<action name="SideNpcTalk" npcID="23200085" illust="Schatten_smile" duration="5000" script="$02020021_BF__main__6$" voice="ko/Npc/00002248" />
 			<action name="SetUserValue" triggerID="99990002" key="battlesetting" value="1" />
 			<!-- <action name="SetUserValue" triggerID="99990003" key="Timer" value="1"/>
 			<action name="SetUserValue" triggerID="99990004" key="SpecialTimer" value="1"/>

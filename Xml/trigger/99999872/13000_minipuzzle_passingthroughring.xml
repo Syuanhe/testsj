@@ -21,7 +21,7 @@
 		<action name="이펙트를설정한다" arg1="13200" arg2="0"/> <!-- Success Sound Effect --> 	
 		<action name="메쉬를설정한다" arg1="13300" arg2="0" arg3="0" arg4="0" arg5="0" /> <!-- Final_FootHold -->				
         </onEnter>
-		<condition name="CheckUser">  
+		<condition name="UserValue" key="TimeEventOn" value="1">	
 			<transition state="SettingDelay"/>	
 		</condition> 	
         <onExit> 			
@@ -33,22 +33,25 @@
         </onEnter>
 		<condition name="WaitTick" waitTick="5000">
 			<transition state="Setting"/>	
+		</condition>
+		<condition name="UserValue" key="EventStart" value="0">	
+			<transition state="Wait"/>
 		</condition>		
         <onExit>
         </onExit>
     </state>	
 	
 	<state name="Setting">
-        <onEnter>	
-		<action name="타이머를설정한다" arg1="1" arg2="180" arg3="1" arg4="0" arg5="0" />  <!-- UI 표시 안함 / 황금 상자 소유권 Additional Effect 71001031 지속시간 동일 -->		
+        <onEnter>			
 		<action name="오브젝트반응설정한다" arg1="12000076" arg2="1" />	<!-- AntiqueMap / 기믹 시작 오브젝트 / Additional Effect 71001031 부여 -->		
         </onEnter>	
 		<condition name="오브젝트가반응했으면" arg1="12000076" arg2="0">
+			<action name="타이머를설정한다" arg1="1" arg2="90" arg3="1" arg4="0" arg5="0" />  <!-- UI 표시 안함 / 황금 상자 소유권 Additional Effect 71001031 지속시간 동일 -->
 			<transition state="PassingThroughRing_Start_Delay"/>
 		</condition>
-		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
-			<transition state="ResetTimer"/>
-		</condition>			
+		<condition name="UserValue" key="TimeEventOn" value="0">	
+			<transition state="Wait"/>	
+		</condition> 			
         <onExit>				
         </onExit>			
     </state>	
@@ -148,10 +151,7 @@
         </onEnter>
 		<condition name="WaitTick" waitTick="1000">	
 			<transition state="PassingThroughRing_Success"/>
-		</condition>		
-		<condition name="시간이경과했으면" arg1="1">  <!-- 제한 시간 종료 -->
-			<transition state="PassingThroughRing_Fail"/>
-		</condition>			
+		</condition>					
         <onExit>
         </onExit>
     </state>	
@@ -159,15 +159,17 @@
 	
 <!-- 퍼즐 성공 후 종료 -->  	
     <state name="PassingThroughRing_Success" >
-        <onEnter>	
-		<action name="이펙트를설정한다" arg1="13200" arg2="1"/> <!-- Success Sound Effect --> 			
-		<action name="메쉬를설정한다" arg1="13300" arg2="1" arg3="0" arg4="0" arg5="0" /> <!-- Final_FootHold -->		
-		<action name="오브젝트반응설정한다" arg1="12000068" arg2="1" />	<!-- RareBox / 기믹 종료 오브젝트 / Additional Effect 71001131 걸어서 71001031 제거 -->				
+        <onEnter>
+			<action name="버프를걸어준다" arg1="130001" arg2="71001032" arg3="1" arg4="0" arg5="0"/>			
+			<action name="타이머를설정한다" arg1="10" arg2="61" arg3="1" arg4="0" arg5="0" />  <!-- UI 표시 안함 / 황금 상자 소유권 Additional Effect 71001031 지속시간 동일 -->		
+			<action name="이펙트를설정한다" arg1="13200" arg2="1"/> <!-- Success Sound Effect --> 			
+			<action name="메쉬를설정한다" arg1="13300" arg2="1" arg3="0" arg4="0" arg5="0" /> <!-- Final_FootHold -->		
+			<action name="오브젝트반응설정한다" arg1="12000068" arg2="1" />	<!-- RareBox / 기믹 종료 오브젝트 / Additional Effect 71001131 걸어서 71001031 제거 -->				
         </onEnter>
 		<condition name="오브젝트가반응했으면" arg1="12000068" arg2="0">
 			<transition state="PassingThroughRing_SuccessDelay"/>	 
 		</condition>		
-		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
+		<condition name="시간이경과했으면" arg1="10">
 			<transition state="ResetTimer"/>
 		</condition>	
         <onExit>
@@ -175,43 +177,44 @@
     </state>	
 
     <state name="PassingThroughRing_SuccessDelay" >
-        <onEnter>		
+        <onEnter>
+			<action name="SetUserValue" triggerID="13000" key="TimeEventOn" value="0"/> 		
         </onEnter>
 		<condition name="WaitTick" waitTick="5000">
-			<transition state="PassingThroughRing_End"/>
-		</condition>	
-		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
 			<transition state="ResetTimer"/>
-		</condition>			
+		</condition>				
         <onExit>	
         </onExit>
     </state>	
 	
-    <state name="PassingThroughRing_End" >
-        <onEnter>		
-        </onEnter>
-		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
-			<transition state="ResetTimer"/>
-		</condition>	
-        <onExit>	
-        </onExit>
-    </state>	
+    <!-- <state name="PassingThroughRing_End" > -->
+        <!-- <onEnter>		 -->
+        <!-- </onEnter> -->
+		<!-- <condition name="시간이경과했으면" arg1="1">  -->
+			<!-- <transition state="ResetTimer"/> -->
+		<!-- </condition>	 -->
+        <!-- <onExit>	 -->
+        <!-- </onExit> -->
+    <!-- </state>	 -->
 		
 		
 <!-- 제한 시간 종료 -->  
     <state name="PassingThroughRing_Fail" >
-        <onEnter>	
-        </onEnter>	
-		<condition name="시간이경과했으면" arg1="1">  <!-- 타임 이벤트가 종료했으면 -->
-			<transition state="ResetTimer"/>
-		</condition>	
+        <onEnter>
+        </onEnter>
+		<condition name="시간이경과했으면" arg1="1">
+			<action name="타이머를초기화한다" arg1="1"/> 
+			<action name="타이머를초기화한다" arg1="10"/>	
+			<transition state="Wait"/>
+		</condition>			
         <onExit>	
         </onExit>
     </state>	
 	
     <state name="ResetTimer" >
         <onEnter>
-		<action name="타이머를초기화한다" arg1="1"/> 			
+			<action name="타이머를초기화한다" arg1="1"/> 
+			<action name="타이머를초기화한다" arg1="10"/> 		
         </onEnter>
 		<condition name="WaitTick" waitTick="1000">
 			<transition state="Wait"/>

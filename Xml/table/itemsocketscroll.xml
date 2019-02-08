@@ -22,4 +22,11 @@
 	<scroll id="10000027" type="1" usePart="1" minLv="50" maxLv="99" slot="12, 19, 20" rank="5" />
 	<scroll id="10000028" type="1" usePart="1" minLv="50" maxLv="99" slot="12, 19, 20" rank="6" />
 	<scroll id="10000029" type="1" usePart="1" minLv="50" maxLv="99" slot="12, 19, 20" rank="6" />
+	<scroll id="10000030" type="1" usePart="1" minLv="50" maxLv="50" slot="12, 19, 20" rank="4" tradableCountDeduction="1" />
+	<scroll id="10000031" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="4" tradableCountDeduction="1" />
+	<scroll id="10000032" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="4" tradableCountDeduction="1" />
+	<scroll id="10000033" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="5" tradableCountDeduction="1" />
+	<scroll id="10000034" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="5" tradableCountDeduction="1" />
+	<scroll id="10000035" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="6" tradableCountDeduction="1" />
+	<scroll id="10000036" type="1" usePart="1" minLv="70" maxLv="70" slot="12, 19, 20" rank="6" tradableCountDeduction="1" />
 </ms2>

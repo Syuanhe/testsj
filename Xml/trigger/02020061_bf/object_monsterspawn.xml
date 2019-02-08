@@ -3,6 +3,7 @@
 
   <state name="대기">
     <onEnter>
+      <action name="StartCombineSpawn" groupId="482" isStart="false"/>
     </onEnter>
     <condition name="UserValue" key="EliteSpawn" value="1" >
       <transition state="스폰"/>
@@ -11,10 +12,10 @@
 
   <state name="스폰">
     <onEnter>
-      <action name="몬스터를생성한다" arg1="601,602,603,604,605,611,612,613,614,615,621,622,623,624,631,632,633,634" arg2="0"/>
+      <action name="StartCombineSpawn" groupId="482" isStart="true"/>
     </onEnter>
-    <condition name="UserValue" key="ObjectStart" value="0" >
-      <transition state="종료"/>
+    <condition name="UserValue" key="EliteSpawn" value="0" >
+      <transition state="대기"/>
     </condition>
     <condition name="UserValue" key="EliteSpawn" value="2" >
       <transition state="종료"/>
@@ -23,7 +24,7 @@
 
   <state name="종료">
     <onEnter>
-      <action name="몬스터소멸시킨다" arg1="601,602,603,604,605,611,612,613,614,615,621,622,623,624,631,632,633,634" arg2="0"/>
+      <action name="StartCombineSpawn" groupId="482" isStart="false"/>
     </onEnter>
   </state>
 

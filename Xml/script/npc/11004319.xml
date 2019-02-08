@@ -24,6 +24,11 @@
 	<script id="50" feature="Kritias_2018_12" locale="">
 		<content illust="MikaWades_normal" text="$script:1010140307011447$" />
 		<content illust="MikaWades_normal" text="$script:1010140307011448$" />
-		<content illust="MikaWades_normal" text="$script:1010141507011602$" />
+		<content illust="MikaWades_normal" text="$script:1010141507011602$">
+			<distractor text="$script:0111224807012687$" goto="60" gotoFail="" />
+		</content>
+	</script>
+	<script id="60" feature="Kritias_2018_12" locale="">
+		<content illust="MikaWades_normal" text="$script:0111224807012688$" />
 	</script>
 </ms2>

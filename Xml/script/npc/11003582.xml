@@ -4,4 +4,7 @@
 	<select id="0" feature="FameContents" locale="">
 		<content text="$script:1116181907009256$" />
 	</select>
+	<script randomPick="1" id="10" feature="FameContents" locale="">
+		<content text="$script:1127103307011969$" />
+	</script>
 </ms2>

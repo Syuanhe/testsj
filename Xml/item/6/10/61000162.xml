@@ -2,7 +2,7 @@
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <!--From : itemProperty_Pet_Battle-->
 <ms2>
-	<environment feature="Pet_70Lv_Taming" locale="">
+	<environment feature="Develop" locale="">
 		<gem system="0" property="" />
 		<ucc mesh="" />
 		<drop dropNif="" dropDisplay="equip_ItemBox" />
@@ -24,7 +24,7 @@
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="1" attack="0" />
-		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/Item/icon/61000162.png" slotIconCustom="icon0.png" type="11" subtype="0" itemGroup="1" category="Pet" blackMarketCategory="34" remakeDisable="false" iconCode="34" representOption="-1" movie="" xmlData="" presetPath="" reference="0" gearScore="0" tradableCount="1" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="0" doNotPreview="0" doNotSkipRender="0" socketDataId="60000002">
+		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/Item/icon/61000162.png" slotIconCustom="icon0.png" type="11" subtype="0" itemGroup="1" category="Pet" blackMarketCategory="34" remakeDisable="false" iconCode="34" representOption="-1" movie="" xmlData="" presetPath="" reference="0" gearScore="0" tradableCount="1" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="1" doNotPreview="0" doNotSkipRender="0" socketDataId="60000002">
 			<sell price="0,0,0,0,0,0" priceCustom="1,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />
 		</property>
@@ -37,7 +37,7 @@
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
 		<tool itemPreset="empty" itemPresetPath="" />
-		<option title="0" static="0" random="61000019" constant="61000019" staticMakeType="0" randomMakeType="1" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
+		<option title="0" static="0" random="61000019" constant="61000153" staticMakeType="0" randomMakeType="1" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />

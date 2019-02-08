@@ -113,7 +113,7 @@
 			<action name="ShowRoundUI" round="3" duration="3000" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="3,5" />
 			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_B" arg3="4800"/>
-			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__2$"/>
+			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__2$" voice="ko/Npc/00002241"  />
 		</onEnter>
 		<condition name="WaitTick" waitTick="3000" >
 			<transition state="전투_3라운드시작"/>
@@ -177,7 +177,7 @@
 			<action name="ShowRoundUI" round="4" duration="3000" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="4,5" />
 			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_B" arg3="4800"/>
-			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__4$"/>
+			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__4$" voice="ko/Npc/00002242" />
 		</onEnter>
 		<condition name="WaitTick" waitTick="3000" >
 			<transition state="전투_4라운드시작"/>
@@ -193,7 +193,7 @@
 	<state name="전투_4라운드시작">
 		<onEnter>
 			<action name="몬스터를생성한다" arg1="231,232,233,234,235,236,237" arg2="1"/>
-			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__5$"/>
+			<action name="SideNpcTalk" npcID="24100001" illust="Neirin_normal" duration="5000" script="$02020019_BF__02020019_battle__5$" voice="ko/Npc/00002243" />
 			<action name="SetAiExtraData" key="Autofire" value="1" />
 			<!-- <대포 쏘기 시작 AI에 신호쏴주기> -->
 		</onEnter>
@@ -299,6 +299,15 @@
 			</group>
 			<action name="DungeonMissionComplete" missionID="24093004" />
 			<action name="DungeonMissionComplete" missionID="24093006" />
+			<transition state="전투_종료"/>
+		</condition>
+		<condition feature="FameChallengeBuff_03" name="AllOf">		<!-- <NA용 컨디션체크> -->
+			<group>
+				<condition name="DungeonCheckPlayTime" playSeconds="270" operator="LessEqual"/>
+				<condition name="몬스터가죽어있으면" arg1="241,242,243,244,245,246,247,248" />
+			</group>
+			<action name="DungeonMissionComplete" missionID="24093004" />
+			<action name="DungeonMissionComplete" missionID="24093007" />
 			<transition state="전투_종료"/>
 		</condition>
 		<condition name="몬스터가죽어있으면" arg1="241,242,243,244,245,246,247,248" >

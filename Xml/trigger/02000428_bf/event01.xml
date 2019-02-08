@@ -71,7 +71,7 @@
  <state name="인페르녹전함파괴연출">
     <onEnter>
 		<!-- ##  02. 일러스트 대화창 연출 넣기  ##-->
-		<action name="ShowGuideSummary" entityID="20041003" textID="20041003"/> 
+		<action name="ShowGuideSummary" entityID="20041010" textID="20041010"/> 
 		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_normal" duration="5000" script="$02000410_BF__Event01__0$" voice="ko/Npc/00002167"/>
 
 		
@@ -100,7 +100,7 @@
 	 
 	
     <onExit>
-		<action name="HideGuideSummary" entityID="20041003"/>
+		<action name="HideGuideSummary" entityID="20041010"/>
     </onExit>
   </state>  
   
@@ -124,7 +124,7 @@
   <state name="인페르녹전함파괴_인페르녹등장연출">
     <onEnter>
 		<!-- ##  03. 일러스트 대화창 연출 넣기  ##-->
-		<action name="ShowGuideSummary" entityID="20041004" textID="20041004"/> 
+		<action name="ShowGuideSummary" entityID="20041011" textID="20041011"/> 
 		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_normal" duration="5000" script="$02000410_BF__Event01__2$" voice="ko/Npc/00002168"/>
 		
     </onEnter>
@@ -135,18 +135,18 @@
 
 	
     <onExit>
-		<action name="HideGuideSummary" entityID="20041004"/>
+		<action name="HideGuideSummary" entityID="20041011"/>
     </onExit>
   </state>
   
   <state name="인페르녹전함파괴_인페르녹등장연출2">
     <onEnter>
 		<!-- ##  03. 일러스트 대화창 연출 넣기  ##-->
-		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_surprise" duration="3000" script="$02000410_BF__Event01__3$" voice="ko/Npc/00002169"/>
+		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_surprise" duration="4000" script="$02000410_BF__Event01__3$" voice="ko/Npc/00002169"/>
 		
     </onEnter>
 
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="4000" > 
 			<transition state="인페르녹전함파괴_인페르녹등장연출3"/>	
 		</condition>		
 
@@ -158,11 +158,11 @@
   <state name="인페르녹전함파괴_인페르녹등장연출3">
     <onEnter>
 		<!-- ##  03. 일러스트 대화창 연출 넣기  ##-->
-		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_closeEye" duration="4000" script="$02000410_BF__Event01__4$" voice="ko/Npc/00002159"/>
+		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_closeEye" duration="5200" script="$02000410_BF__Event01__4$" voice="ko/Npc/00002159"/>
 		
     </onEnter>
 
-		<condition name="WaitTick" waitTick="4000" > 
+		<condition name="WaitTick" waitTick="5200" > 
 			<transition state="인페르녹전함파괴_인페르녹등장연출4"/>	
 		</condition>		
 

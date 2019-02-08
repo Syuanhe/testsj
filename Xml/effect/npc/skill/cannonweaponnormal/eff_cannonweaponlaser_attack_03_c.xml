@@ -14,7 +14,7 @@
   </effect>
 
 
-  <effect type="nif" filePath="NPC/Skill/SandstoneGiant/Eff_SandstoneBigGiant_Jump_Ready_A.nif" startDelay="0.0" duration="2.0">
+  <effect type="nif" filePath="NPC/Skill/SandstoneGiant/Eff_SandstoneBigGiant_Jump_Ready_A.nif" startDelay="0.0" duration="2.0" viewDistance="0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="0.3" />
   </effect>  

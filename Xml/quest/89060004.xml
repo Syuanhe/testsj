@@ -18,7 +18,7 @@
 			<remoteComplete useRemote="1" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="gallery" />
-			<condition type="fish" code="10000057" value="5" />
+			<condition type="fish" code="10000057" value="1" />
 		</quest>
 	</environment>
 </ms2>

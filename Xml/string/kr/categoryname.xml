@@ -97,6 +97,7 @@
 	<key id="2094" name="투기장 탈것" />
 	<key id="2095" name="투기장 전리품" />
 	<key id="2096" name="비행 탈것" />
+	<key id="2100" name="블루프린트" feature="BlueprintMarket" />
 	<key id="3000" name="장식용 건물" />
 	<key id="3001" name="지형" />
 	<key id="3002" name="인테리어 소품" />
@@ -144,6 +145,7 @@
 	<key id="3044" name="브론즈 머쉬 코인" />
 	<key id="3045" name="보석" />
 	<key id="3046" name="특별 상품" />
+	<key id="3049" name="조각" />
 	<key id="4000" name="장치" />
 	<key id="9001" name="조립형 건물" />
 	<key id="9002" name="단층 건물" />

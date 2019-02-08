@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<DungeonRankReward rewardID="10001">
 		<v rank="1" itemID="20300932" systemMailID="53000001" />
@@ -38,6 +38,13 @@
 		<v rank="4" itemID="20301319" systemMailID="53000009" />
 		<v rank="5" itemID="20301320" systemMailID="53000010" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10005" locale="NA">
+		<v rank="1" itemID="20302244" systemMailID="53000018" />
+		<v rank="2" itemID="20302245" systemMailID="53000019" />
+		<v rank="3" itemID="20302246" systemMailID="53000020" />
+		<v rank="4" itemID="20302247" systemMailID="53000021" />
+		<v rank="5" itemID="20302248" systemMailID="53000022" />
+	</DungeonRankReward>
 	<DungeonRankReward rewardID="10006" locale="KR">
 		<v rank="1" itemID="20301321" systemMailID="53000011" />
 		<v rank="2" itemID="20301322" systemMailID="53000012" />
@@ -51,6 +58,13 @@
 		<v rank="3" itemID="20301323" systemMailID="53000013" />
 		<v rank="4" itemID="20301324" systemMailID="53000014" />
 		<v rank="5" itemID="20301325" systemMailID="53000015" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10006" locale="NA">
+		<v rank="1" itemID="20302239" systemMailID="53000023" />
+		<v rank="2" itemID="20302240" systemMailID="53000024" />
+		<v rank="3" itemID="20302241" systemMailID="53000025" />
+		<v rank="4" itemID="20302242" systemMailID="53000026" />
+		<v rank="5" itemID="20302243" systemMailID="53000027" />
 	</DungeonRankReward>
 	<DungeonRankReward rewardID="10007" locale="KR">
 		<v rank="1" itemID="20301340" systemMailID="53000016" />
@@ -66,6 +80,13 @@
 		<v rank="4" itemID="20301343" systemMailID="53000019" />
 		<v rank="5" itemID="20301344" systemMailID="53000020" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10007" locale="NA">
+		<v rank="1" itemID="20302234" systemMailID="53000028" />
+		<v rank="2" itemID="20302235" systemMailID="53000029" />
+		<v rank="3" itemID="20302236" systemMailID="53000030" />
+		<v rank="4" itemID="20302237" systemMailID="53000031" />
+		<v rank="5" itemID="20302238" systemMailID="53000032" />
+	</DungeonRankReward>
 	<DungeonRankReward rewardID="10008" locale="KR">
 		<v rank="1" itemID="20301345" systemMailID="53000021" />
 		<v rank="2" itemID="20301346" systemMailID="53000022" />
@@ -79,6 +100,13 @@
 		<v rank="3" itemID="20301347" systemMailID="53000023" />
 		<v rank="4" itemID="20301348" systemMailID="53000024" />
 		<v rank="5" itemID="20301349" systemMailID="53000025" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10008" locale="NA">
+		<v rank="1" itemID="20302219" systemMailID="53000033" />
+		<v rank="2" itemID="20302220" systemMailID="53000034" />
+		<v rank="3" itemID="20302221" systemMailID="53000035" />
+		<v rank="4" itemID="20302222" systemMailID="53000036" />
+		<v rank="5" itemID="20302223" systemMailID="53000037" />
 	</DungeonRankReward>
 	<DungeonRankReward rewardID="10009" locale="KR">
 		<v rank="1" itemID="20301350" systemMailID="53000026" />
@@ -94,6 +122,13 @@
 		<v rank="4" itemID="20301353" systemMailID="53000029" />
 		<v rank="5" itemID="20301354" systemMailID="53000030" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10009" locale="NA">
+		<v rank="1" itemID="20302224" systemMailID="53000038" />
+		<v rank="2" itemID="20302225" systemMailID="53000039" />
+		<v rank="3" itemID="20302226" systemMailID="53000040" />
+		<v rank="4" itemID="20302227" systemMailID="53000041" />
+		<v rank="5" itemID="20302228" systemMailID="53000042" />
+	</DungeonRankReward>
 	<DungeonRankReward rewardID="10010" locale="KR">
 		<v rank="1" itemID="20301355" systemMailID="53000031" />
 		<v rank="2" itemID="20301356" systemMailID="53000032" />
@@ -107,6 +142,13 @@
 		<v rank="3" itemID="20301357" systemMailID="53000033" />
 		<v rank="4" itemID="20301358" systemMailID="53000034" />
 		<v rank="5" itemID="20301359" systemMailID="53000035" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10010" locale="NA">
+		<v rank="1" itemID="20302229" systemMailID="53000043" />
+		<v rank="2" itemID="20302230" systemMailID="53000044" />
+		<v rank="3" itemID="20302231" systemMailID="53000045" />
+		<v rank="4" itemID="20302232" systemMailID="53000046" />
+		<v rank="5" itemID="20302233" systemMailID="53000047" />
 	</DungeonRankReward>
 	<DungeonRankReward rewardID="10011" locale="KR">
 		<v rank="1" itemID="20301805" systemMailID="53000036" />

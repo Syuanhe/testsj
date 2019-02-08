@@ -23,4 +23,26 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21220036" account="1" icon="hero_battle_2.png" noticePercent="50" locking="" categoryTag="combat,hunt" feature="CrimsonBalrog01" locale="NA">
+		<grade value="1">
+			<condition type="npc" code="21501340,21501341,21501342,21501343" value="10" target="" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="21501340,21501341,21501342,21501343" value="50" target="" />
+			<reward type="shop_build" code="50740049" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="21501340,21501341,21501342,21501343" value="100" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="npc" code="21501340,21501341,21501342,21501343" value="200" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="npc" code="21501340,21501341,21501342,21501343" value="300" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

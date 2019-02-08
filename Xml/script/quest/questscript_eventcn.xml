@@ -2419,4 +2419,44 @@
 			<content text="$script:1106130917004260$" />
 		</script>
 	</quest>
+	<quest id="80010282">
+		<script id="100" feature="" locale="">
+			<content text="$script:1127160217004269$" />
+			<content text="$script:1127160217004270$" />
+			<content text="$script:1127160217004271$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1127160217004272$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1127160217004273$" />
+		</script>
+	</quest>
+	<quest id="80010283">
+		<script id="100" feature="" locale="">
+			<content text="$script:1127160217004274$" />
+			<content text="$script:1127160217004275$" />
+			<content text="$script:1127160217004276$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1127160217004277$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1127160217004278$" />
+		</script>
+	</quest>
+	<quest id="80010290">
+		<script id="100" feature="" locale="">
+			<content text="$script:1207170517004279$" />
+			<content text="$script:1207170517004280$" />
+			<content text="$script:1207170517004281$" />
+			<content text="$script:1207170517004282$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1207170517004283$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1207170517004284$" />
+		</script>
+	</quest>
 </ms2>

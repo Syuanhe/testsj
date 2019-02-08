@@ -1730,4 +1730,26 @@
 	<key id="1002142310002212" feature="" npc="파스크" name="어떻게… 전직만 했다 하면 꼭 한 두번은 다쳐서 온단 말이야" />
 	<key id="1002142310002213" feature="" npc="파스크" name="아플때는 언제든지 도와드리죠" />
 	<key id="1002142310002214" feature="" npc="파스크" name="물론 약간의 진료비는 받습니다" />
+	<key id="1221140310002215" feature="Kritias_2018_12" npc="윌러스" name="무슨 일입니까?" />
+	<key id="1221140310002218" feature="Kritias_2018_12" npc="윌러스" name="위험할 땐 언제든 후퇴하세요." />
+	<key id="1221140310002219" feature="Kritias_2018_12" npc="윌러스" name="아플때는 언제든지 도와드리죠" />
+	<key id="1221140310002220" feature="Kritias_2018_12" npc="윌러스" name="물론 약간의 진료비는 받습니다" />
+	<key id="1221140310002216" feature="Kritias_2018_12" npc="윌러스" name="이런. 죽다 살아나 컨디션이 말이 아니군요.&#x0A;$paneltyPrice$메소를 내고 치료를 받겠습니까?" />
+	<key id="1221140310002217" feature="Kritias_2018_12" npc="윌러스" name="당신은 아주 건강해 보이는군요!&#x0A;하지만 사람의 앞일은 알 수 없는 법이니 나중에 아프거나 다쳤을 때&#x0A;저를 찾아오시면 치료해 드리겠습니다." />
+	<key id="0108131210002235" feature="Kritias_2018_12" npc="마요" name="크리티아스$pp2:로,으로$ 가는 비행선이 곧 출발합니다!" />
+	<key id="0108131210002236" feature="Kritias_2018_12" npc="마요" name="크리티아스$pp2:로,으로$ 가실 분은 서둘러 탑승하세요!" />
+	<key id="0102174210002222" feature="Kritias_2018_12" npc="마요" name='어서 오세요!&#x0A;크리티아스의 &apos;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020041$&lt;/font&gt;&apos;$pp2:로,으로$ 가는 비행선이 곧 출발합니다!' />
+	<key id="0102191810002233" feature="Kritias_2018_12" npc="마요" name="어서 오세요! 반갑습니다!" />
+	<key id="0102174210002223" feature="Kritias_2018_12" npc="마요" name='어서 오세요!&#x0A;크리티아스의 &apos;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020041$&lt;/font&gt;&apos;$pp2:로,으로$ 가는 비행선이 곧 출발합니다!' />
+	<key id="0102174210002224" feature="Kritias_2018_12" npc="마요" name="크리티아스는 위험한 곳이란 것 쯤은 알고 계시겠죠?&#x0A;준비가 되지 않은 모험가들에겐 매우 위험한 곳입니다.&#x0A;지금 $map:02020041$$pp2:로,으로$ 출발하실 건가요?" />
+	<key id="0102174210002225" feature="Kritias_2018_12" npc="pc" name="(지금 $map:02020041$$pp2:로,으로$ 이동한다.)" />
+	<key id="0102174210002226" feature="Kritias_2018_12" npc="마요" name="네! 지금 바로 출발합니다~!" />
+	<key id="0108131210002237" feature="Kritias_2018_12" npc="마유" name="$map:02000001$$pp2:로,으로$ 가는 비행선이 곧 출발합니다!" />
+	<key id="0108131210002238" feature="Kritias_2018_12" npc="마유" name="$map:02000001$$pp2:로,으로$ 가실 분은 서둘러 탑승하세요!" />
+	<key id="0102174210002228" feature="Kritias_2018_12" npc="마유" name='어서 오세요!&#x0A;&apos;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;&apos;$pp2:로,으로$ 가는 비행선이 곧 출발합니다!' />
+	<key id="0102192310002234" feature="Kritias_2018_12" npc="마유" name="어서 오세요! 반갑습니다!" />
+	<key id="0102174210002229" feature="Kritias_2018_12" npc="마유" name='어서 오세요!&#x0A;&apos;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;&apos;$pp2:로,으로$ 가는 비행선이 곧 출발합니다!' />
+	<key id="0102174210002230" feature="Kritias_2018_12" npc="마유" name='아직 수행하지 않은 크리티아스 임무가 있진 않으시죠?&#x0A;임무가 아직 남아있으시다면 언제든 &apos;&lt;font color=&quot;#ffd200&quot;&gt;루미윈드 비행선&lt;/font&gt;&apos;를 이용해 주시기 바랍니다!&#x0A;지금 $map:02000001$$pp2:로,으로$ 출발하실 건가요?' />
+	<key id="0102174210002231" feature="Kritias_2018_12" npc="pc" name="(지금 $map:02000001$$pp2:로,으로$ 이동한다.)" />
+	<key id="0102174210002232" feature="Kritias_2018_12" npc="마유" name="네! 지금 바로 출발합니다~!" />
 </ms2>

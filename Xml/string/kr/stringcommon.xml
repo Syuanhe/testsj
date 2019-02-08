@@ -146,10 +146,11 @@
 	<key id="s_msg_item_active_codi_tab_limitless" value="코디 아이템을 무제한 이용할 수 있습니다.\n아이템을 사용하시겠습니까? " feature="Skin2tab" />
 	<key id="s_msg_item_active_codi_tab_complete_limitless" value="코디 아이템을 무제한 사용할 수 있습니다." feature="Skin2tab" />
 	<key id="s_msg_item_active_codi_tab_complete_period" value="코디 아이템의 이용 가능 기간이 {0}일 추가되었습니다." feature="Skin2tab" />
-	<key id="s_msg_item_change_beauty" value="사용하시겠습니까?\n\n※ 현재 헤어와 동일한 헤어 선택 시\n염색 및 길이 조절만 가능합니다." />
+	<key id="s_msg_item_change_beauty" value="사용하시겠습니까?\n\n※ 현재 스타일과 동일한 스타일 선택 시\n염색 및 길이 조절 또는 위치, 크기 조정만 가능합니다." />
 	<key id="s_msg_item_err_change_beauty_invalid_state" value="지금은 사용할 수 없습니다." />
 	<key id="s_msg_item_install_bill_board_cant_install" value="이 곳에서는 사용할 수 없습니다." />
 	<key id="s_msg_item_install_bill_board_invalid_state" value="현재는 사용할 수 없습니다." />
+	<key id="s_msg_item_open_blueprint" value="[{0}]을 사용하여 내 집을\n변경합니다.\n사용 후 변경점은 되돌릴 수 없습니다.\n정말[{0}]을 사용하시겠습니까?" />
 	<key id="s_notify_currency_overflow" value="{0}의 소지한도가 초과하여 초과한 {0} {1}개는 획득되지 않고 사라집니다." />
 	<key id="s_err_lack_guild_trophy" value="길드 트로피가 부족합니다." />
 	<key id="s_err_lack_guild_require_date" value="길드에 가입한 뒤 7일 후부터 구매할 수 있습니다." />
@@ -175,8 +176,18 @@
 	<key id="s_err_cannot_buy_period_fmt_date_to_end" value="~ {0}" />
 	<key id="s_err_cannot_buy_period_day_and_parttime" value="해당 아이템은 아래 기간에만 구입 가능합니다.\n구매 가능 요일 : {0}\n구매 가능 시간 : {1}" />
 	<key id="s_err_cannot_buy_period_day_and_parttime_and_date" value="해당 아이템은 아래 기간의 \n{0}에만 구입 가능합니다.\n구매 가능 기간 : {2}\n구매 가능 시간 : {1}" />
-	<key id="s_err_cannot_install_maid_in_design_home" value="꾸미기 모드에서는 메이드를 고용할 수 없습니다." />
-	<key id="s_err_cannot_install_nurturing_in_design_home" value="꾸미기 모드에서는 육성 이벤트 건설 큐브를 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_blueprint" value="현재 모드에서는 해당 아이템을 설치할 수 없습니다." />
+	<key id="s_err_cannot_install_maid_in_practice" value="현재 모드에서는 메이드를 고용할 수 없습니다." />
+	<key id="s_err_cannot_install_nurturing_in_design_home" value="현재 모드에서는 생활기술 자재를 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_magic_portal" value="현재 모드에서는 인하우스 매직포털을 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_trigger_editor" value="현재 모드에서는 트리거 에디터를 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_trigger_controlobject" value="현재 모드에서는 트리거 제어 아이템을 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_interior_message" value="현재 모드에서는 인테리어 공지 타입의 아이템을 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_event_cube" value="현재 모드에서는 이벤트 판매 아이템을 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_trophy_relative_cube" value="현재 모드에서는 트로피 연계 아이템 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_workbench_cube" value="현재 모드에서는 메이드 조리/연금/공예도구 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_fittingdoll" value="현재 모드에서는 마네킹을 설치 할 수 없습니다." />
+	<key id="s_err_cannot_install_ugcdesign_maidin_other" value="현재 모드에서는 남이 제작한 디자인 자재를 설치 할 수 없습니다." />
 	<key id="s_err_cannot_destroy_petitem_summon" value="현재 펫을 소환 중 입니다.\n소환 중인 펫은 버릴 수 없습니다." />
 	<key id="s_err_cannot_destroy_petitem_hasitem" value="펫 가방에 아이템이 있어 버릴 수 없습니다." />
 	<key id="s_err_cannot_already_target_level_potion" value="이미 {0} 레벨에 도달하여 포션을 사용할 수 없습니다." />
@@ -329,6 +340,7 @@
 	<key id="s_ugcmap_height_level_extended_successfully" value="실내 높이가 확장되었습니다." />
 	<key id="s_ugcmap_area_level_shrink_successfully" value="실내 면적이 축소되었습니다." />
 	<key id="s_ugcmap_height_level_shrink_successfully" value="실내 높이가 축소되었습니다." />
+	<key id="s_ugcmap_not_use_blueprint_item" value="블루프린트 아이템은 내 집에서만 사용이 가능합니다." />
 	<key id="s_ugc_edit_homeless" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;아직 집에 가보지 않으셨군요!&lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;공사권을 구입한 후 집으로 이동을 누르면\n내 집 실내로 들어갈 수 있습니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos; color=&apos;#FFD200&apos;&gt; &lt;/FONT&gt;\n공사권을 정말 구입하겠습니까?&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_ugc_edit_different_indoorsize" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FF5F5F&apos;&gt;(주의) 인테리어 공사권의 크기가 내 집보다 큽니다.&lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;이 공사권을 구입해도 지금 살고 있는 집에는 설치할 수 없습니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos; color=&apos;#FFD200&apos;&gt; &lt;/FONT&gt;\n공사권을 정말 구입하겠습니까?&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_ugc_edit_demolish_agree" value="주의 사항을 충분히 읽고 확인했습니다." />
@@ -391,7 +403,7 @@
 	<key id="s_ugcmap_package_open_package_when_indoor_is_empty" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;실내가 비워져 있지 않아\n자동 설치를 할 수 없습니다.&lt;/Font&gt;\n자동 설치 없이 자재만 받겠습니까?" />
 	<key id="s_err_ugcmap_design_home_should_use_in_design_home" value="꾸미기 모드에서 시도해 주세요." />
 	<key id="s_err_ugcmap_design_home_not_my_design_home" value="꾸미기 모드에서만 할 수 있습니다." />
-	<key id="s_err_ugcmap_design_home_indoor_isnt_empty" value="꾸미기 모드의 실내를 먼저 비워주세요." />
+	<key id="s_err_ugcmap_design_home_indoor_isnt_empty" value="실내를 먼저 비워주세요." />
 	<key id="s_err_ugcmap_design_home_should_use_in_home" value="내 집 실내에서 사용해야 합니다." />
 	<key id="s_err_ugcmap_design_home_nothing_to_import" value="저장된 도면이 없습니다." />
 	<key id="s_err_ugcmap_design_home_invalid_item" value="시스템 오류" />
@@ -416,6 +428,7 @@
 	<key id="s_err_ugcmap_meso_balance_should_be_positive_number" value="메소 잔고는 양수로 설정해야 합니다." />
 	<key id="s_err_ugcmap_merat_balance_should_be_positive_number" value="메럿 잔고는 양수로 설정해야 합니다." />
 	<key id="s_err_ugcmap_meso_merat_balance_description" value="다른 사람들은 이 금액 내에서만 건설 자재를\n 구입해서 설치할 수 있습니다.\n주인이 집 밖으로 나가면 초기화됩니다." />
+	<key id="s_err_ugcmap_nothing_to_export" value="설치된 큐브가 없습니다." />
 	<key id="s_err_ugcmap_cant_use_clear_ugc_map" value="여기서는 사용할 수 없습니다." />
 	<key id="s_err_ugcmap_not_massive_event_field" value="건설 이벤트 맵에서만 사용 가능합니다." />
 	<key id="s_err_ugcmap_not_enough_meso_balance" value="메소 잔고가 부족합니다." />
@@ -431,6 +444,9 @@
 	<key id="s_ugcmap_give_delegator_user" value="{0}님에게 건설 권한을 부여 하였습니다." />
 	<key id="s_ugcmap_release_delegator_user" value="{0}님의 건설 권한이 해제되었습니다." />
 	<key id="s_ugcmap_removeall_delegator_user" value="집 밖에 있을 경우 집 안에 있는 사람들은 건설을 할 수 없습니다." />
+	<key id="s_err_ugcmap_blueprint_preview_cube_action_disabled" value="블루프린트 미리보기를 하는 동안에는 할 수 없습니다." />
+	<key id="s_err_ugcmap_blueprint_preview_already" value="현재 미리보기 중입니다." />
+	<key id="s_err_ugcmap_blueprint_preview_after" value="잠시 후에 다시 시도해 주세요." />
 	<key id="s_buddy_err_unknown" value="시스템 오류 : 커뮤니티" />
 	<key id="s_notify_levelup" value="{0} 레벨이 됐습니다." />
 	<key id="s_notify_learn_skill" value="[{0}] 스킬을 배웠습니다." />
@@ -469,8 +485,10 @@
 	<key id="s_fittingdoll_transform_done_all" value="모든 아이템을 갈아입었습니다." />
 	<key id="s_fittingdoll_transform_done_partially" value="갈아입을 수 없는 아이템이 있어 일부 아이템만 갈아입었습니다." />
 	<key id="s_msg_chatting_welcome" value="메이플스토리2에 오신 것을 환영합니다. 오늘도 좋은 하루 되세요~" />
-	<key id="s_msg_chatting_welcome_pubtest1" value="마스터 스킬 테스트 서버에 오신 것을 환영합니다. \n마스터 스킬 테스트 서버는 서비스가 다소 불안정할 수 있으며,\n마스터 스킬 테스트 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
-	<key id="s_msg_chatting_welcome_pubtest2" value="마스터 스킬 테스트 서버에 오신 것을 환영합니다. \n마스터 스킬 테스트 서버는 서비스가 다소 불안정할 수 있으며,\n마스터 스킬 테스트 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
+	<key id="s_msg_chatting_welcome_pubtest1" value="빌드업 FGT서버에 오신 것을 환영합니다. \n빌드업 FGT 서버는 서비스가 다소 불안정할 수 있으며,\n빌드업 FGT 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
+	<key id="s_msg_chatting_welcome_pubtest2" value="빌드업 FGT서버에 오신 것을 환영합니다. \n빌드업 FGT 서버는 서비스가 다소 불안정할 수 있으며,\n빌드업 FGT 서버의 내용은 추후 스카니아 서버에 적용되는 내용과 다를 수 있습니다." />
+	<key id="s_msg_chatting_welcome_pubtest1" value="테스트 서버에 오신 것을 환영합니다. \n테스트 서버는 서비스가 다소 불안정할 수 있으며,\n본 서버의 내용은 추후 정식 서버에 적용되는 내용과 다를 수 있습니다." locale="CN" />
+	<key id="s_msg_chatting_welcome_pubtest2" value="테스트 서버에 오신 것을 환영합니다. \n테스트 서버는 서비스가 다소 불안정할 수 있으며,\n본 서버의 내용은 추후 정식 서버에 적용되는 내용과 다를 수 있습니다." locale="CN" />
 	<key id="s_msg_chatting_changechannel" value="{0}번 채널에 접속했습니다." />
 	<key id="s_msg_chatting_consume_merat" value="{0} 메럿이 소모되었습니다." />
 	<key id="s_msg_chatting_consume_merat_blue" value="{0} 블루 메럿이 소모되었습니다." />
@@ -1061,6 +1079,7 @@
 	<key id="s_ugc_upload_ok_profile" value="프로필 이미지를 등록했습니다." />
 	<key id="s_ugc_upload_ok_banner_sch" value="전광판을 예약했습니다." />
 	<key id="s_ugc_upload_ok_banner" value="벽보를 등록했습니다." />
+	<key id="s_ugc_upload_must_profile" value="아이템을 더블 클릭해서 이미지를 재등록해주세요. " feature="Blueprint" />
 	<key id="s_myhouse_address_with_room" value="{0} {1}동 {2}호" />
 	<key id="s_myhouse_name_with_room" value="{0}동 {1}호 {2}" />
 	<key id="s_ugc_confirm_destroy_bank" value="보관된 아이템은 소지품으로 이동됩니다.\n보관함을 회수하시겠습니까?" />
@@ -2038,6 +2057,7 @@
 	<key id="s_word_iconcode_quest" value="퀘스트" />
 	<key id="s_word_iconcode_glide_item" value="비행 탈것" />
 	<key id="s_word_iconcode_petequip" value="펫장비" />
+	<key id="s_word_iconcode_blueprint" value="블루프린트" feature="Blueprint" />
 	<key id="s_word_iconcode_pettaminggoods" value="펫 포획 도구" />
 	<key id="s_word_iconcode_petgoods" value="펫 용품" />
 	<key id="s_word_iconcode_interiorskill" value="스킬 인테리어" />
@@ -2176,6 +2196,7 @@
 	<key id="s_msg_rclick_play_instrument" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 연주할 악보를 선택할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_rclick_item_merge_revert" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 초월 옵션을 제거할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_rclick_item_extraction" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 아이템 외형을 추출할 수 있습니다.&lt;/FONT&gt;" />
+	<key id="s_msg_rclick_pet_extraction" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 아이템 외형을 추출할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_usable" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 사용할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_readable" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 읽을 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_open_shop" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 상점을 열 수 있습니다.&lt;/FONT&gt;" />
@@ -3213,6 +3234,7 @@
 	<key id="s_function_reward_itemget" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;아이템 자동 줍기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템 자동 줍기를 설정합니다.\n이 기능은 {0}레벨을 달성하면\n사용할 수 있습니다." />
 	<key id="s_cinematic_job_change" value="한 번 전직하면 직업을 바꿀 수 없습니다. \n정말 전직하시겠습니까?" />
 	<key id="s_interact_err_additional_effect" value="{0} 효과를 가지고 있어야 합니다." />
+	<key id="s_interact_err_additional_effect_multi" value="특정 효과를 가지고 있어야 합니다." />
 	<key id="s_minimap_tooltip_quest_target" value="&lt;FONT color=&apos;#8aff00&apos;&gt;오늘의 친구&lt;/FONT&gt;" />
 	<key id="s_minimap_tooltip_quest_target_80000422" value="&lt;FONT color=&apos;#8aff00&apos;&gt;오늘의 친구&lt;/FONT&gt;" locale="KR" />
 	<key id="s_minimap_tooltip_quest_target_80000423" value="&lt;FONT color=&apos;#8aff00&apos;&gt;오늘의 친구&lt;/FONT&gt;" locale="KR" />
@@ -3252,6 +3274,7 @@
 	<key id="s_home_returnable_forbidden_to_sameplace" value="같은 곳으로는 이동할 수 없습니다." />
 	<key id="s_home_returnable_newcharacter" value="&lt;FONT color=&apos;#FFD200&apos; &gt;내 집&lt;/FONT&gt;으로 이동하시겠습니까?" />
 	<key id="s_home_returnable_confirm_place" value="원래 있던 위치로 돌아갑니다.\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;[{0}]&lt;/FONT&gt; 맵으로 이동하시겠습니까?" />
+	<key id="s_home_returnable_confirm_last_place" value="원래 있던 위치로 이동하시겠습니까?" />
 	<key id="s_home_visit_confirm" value="{0} 님의 집에 방문하겠습니까?" />
 	<key id="s_home_visit_failed_dead" value="비석상태에서는 다른 사람의 집을 방문할 수 없습니다." />
 	<key id="s_home_visit_failed_common" value="지금은 다른 사람의 집을 방문할 수 없습니다." />
@@ -3270,9 +3293,11 @@
 	<key id="s_tutorial_shortcutkey_limit" value="튜토리얼 중에는 할 수 없습니다." />
 	<key id="s_tutorial_itemputonoff_limit" value="튜토리얼 중에는 할 수 없습니다." />
 	<key id="s_tutorial_itemdrop_limit" value="튜토리얼 중에는 할 수 없습니다." />
+	<key id="s_tutorial_levelup_item_not_use" value="튜토리얼 중에는 할 수 없습니다." />
 	<key id="s_tutorial_dialog_limit" value="이 맵에서는 할 수 없습니다." />
 	<key id="s_tutorial_skip_movie" value="재생을 종료하겠습니까?" />
 	<key id="s_tutorial_designHome_limit" value="가이드 진행 중에는 할 수 없습니다" />
+	<key id="s_tutorial_blueprint_limit" value="가이드 진행 중에는 할 수 없습니다" />
 	<key id="s_tutorial_skip_job1" value="트라이아의 그랜드 홀 앞으로 이동합니다.\n10레벨 미만의 캐릭터는 이동과 동시에\n10레벨로 성장해 전직 가능한 상태가 됩니다.\n\n이동 후에는 이곳으로 다시 돌아올 수 없으며,\n진행 중이던 퀘스트는 초기화됩니다.\n\n지금 바로 &lt;FONT color=&apos;#ffd200&apos; &gt;전직하러&lt;/FONT&gt; 가시겠습니까?" />
 	<key id="s_tutorial_skip_job90" value="튜토리얼을 중단할 경우 트로이 여관으로 이동하며\n이동과 동시에 10레벨로 성장하게 됩니다.\n\n이동 후에는 이곳으로 다시 돌아올 수 없으며\n진행 중이던 퀘스트는 초기화됩니다.\n\n&lt;FONT color=&apos;#ffd200&apos; &gt;튜토리얼을 그만&lt;/FONT&gt;하시겠습니까?" />
 	<key id="s_tutorial_skip_job100" value="튜토리얼을 중단할 경우 트라이아로 이동하며\n이동과 동시에 10레벨로 성장하게 됩니다.\n\n이동 후에는 이곳으로 다시 돌아올 수 없으며\n진행 중이던 퀘스트는 초기화됩니다.\n\n&lt;FONT color=&apos;#ffd200&apos; &gt;튜토리얼을 그만&lt;/FONT&gt;하시겠습니까?" />
@@ -3519,7 +3544,7 @@
 	<key id="s_mesoMarket_register_count" value="{0}/{1}" />
 	<key id="s_mesoMarket_register_count_per_day" value="판매 등록 {0}회 (계정 당 1일 최대 {1}회)" />
 	<key id="s_mesoMarket_buy_count" value="메소 구입 {0}회 (계정 당 1일 최대 {1}회)" />
-	<key id="s_mesoMarket_search_explain" value="판매 목록은 최대 {1}건까지만 표시됩니다.\n메소 구입은 계정 당 10회만 할 수 있으며,\n매일 밤 12시에 초기화됩니다." />
+	<key id="s_mesoMarket_search_explain" value="판매 목록은 최대 {1}건까지만 표시됩니다.\n메소 구입은 계정 당 {0}회만 할 수 있으며,\n매일 밤 12시에 초기화됩니다." />
 	<key id="s_mesoMarket_ask_stopsale" value="판매 메소 : &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;취소 시 판매 등록 횟수는 복구되지 않습니다.&lt;/FONT&gt;\n메소 판매를 취소하시겠습니까?\n" />
 	<key id="s_mesoMarket_ask_stopsale_expire" value="판매 메소 : &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\n판매 기간이 만료된 물품입니다.\n메소를 회수하시겠습니까?\n" />
 	<key id="s_mesoMarket_listItem_sellMesoText" value="[{0}]" />
@@ -3532,7 +3557,7 @@
 	<key id="s_mesoMarket_mail_to_buyer_content" value="블랙마켓에서 구입한 메소가 도착했습니다.\n첨부 금액을 확인해 주세요.\n\n구매 메소: {0}\n구매 가격: {1} 메럿\n" />
 	<key id="s_mesoMarket_mail_to_cancel_title" value="[블랙마켓] 판매 취소" />
 	<key id="s_mesoMarket_mail_to_cancel_content" value="블랙마켓에 등록한 메소를 회수했습니다.\n\n등록 메소: {0}메소\n" />
-	<key id="s_mesoMarket_register_terms_title" value="블랙마켓에 메소를 등록하시겠습니까?\n&lt;font color=&apos;#c00000&apos;&gt;메소 판매 등록은 계정 당 하루에 5회까지만 등록할 수 있습니다.&lt;/font&gt;" />
+	<key id="s_mesoMarket_register_terms_title" value="블랙마켓에 메소를 등록하시겠습니까?\n&lt;font color=&apos;#c00000&apos;&gt;메소 판매 등록은 계정 당 하루에 {0}회까지만 등록할 수 있습니다.&lt;/font&gt;" />
 	<key id="s_mesoMarket_register_terms_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;블랙마켓 이용 안내&lt;/FONT&gt;\n\n1) 메소 거래\n- 메소 판매 등록 신청 후 {5}일간 판매 목록에 노출되며, 기간 만료 시 더 이상 판매 목록에 노출되지 않습니다.\n- 블랙마켓에 등록된 메소는 ‘게임 메럿’을 제외한 ‘메럿’으로 구입할 수 있으며, 메소가 판매된 경우 메소 판매 대금은 ‘게임 메럿’으로 지급됩니다.\n- 기간 만료로 등록한 메소를 회수하거나 판매 기간 중에 판매 등록을 취소 할 경우 우편을 통해 메소를 지급받습니다.\n- 메소가 판매될 경우 판매된 금액의 {6}%를 수수료로 징수하며, 이 금액은 판매 대금 지급 시 차감됩니다.\n- 메소 거래 등록 시 판매 가격은 평균 거래 가격의 {7}% 이내로만 등록할 수 있습니다.\n- 블랙마켓에서 메소 판매 등록은 계정당 1일 {8}회까지만 가능하고, 구입은 계정당 1일 {9}회까지만 가능합니다. 이 횟수는 매일 밤 자정에 초기화됩니다.\n\n2) 아이템 거래\n- 아이템 판매 등록 신청 후 {0}일간 판매 목록에 노출되며, 기간 만료 시 더 이상 판매 목록에 노출되지 않습니다.\n- 아이템 판매 등록 시 판매 가격의 {1}%(최대 {2} 메소)를 등록 보증금으로 징수하며, 등록 보증금은 거래가 완료되거나 기간 만료로 물품을 회수할 경우 우편으로 돌려줍니다. 단, 판매 기간 내에 직접 판매 취소를 할 경우에는 돌려주지 않습니다.\n- 기간 만료로 등록한 물품을 회수하거나 판매 기간 중에 판매 등록을 취소할 경우 우편을 통해 아이템을 지급받습니다.\n- 아이템이 판매될 경우 판매된 금액의 {3}%를 수수료로 징수하며, 이 금액은 판매 대금 지급 시 차감됩니다.\n\n3) 공통 사항\n- 블랙마켓에서 아이템/메소 판매로 인한 아이템/메소가 첨부된 우편, 판매 대금 및 판매 취소/물품 회수로 받은 우편은 {4}일 내 수령하지 않는 경우 우편 보관 기간 만료로 삭제됩니다.\n- 만약, 비정상적인 거래내역이 확인되는 경우 판매 대금은 회수 조치 될 수 있습니다.\n" />
 	<key id="s_mesoMarket_error_unknown" value="시스템 오류 : 블랙마켓 메소 거래 code={0}" />
 	<key id="s_mesoMarket_error_errorDB" value="해당 요청에서 오류가 발생했습니다. 다시 시도해 주세요" />
@@ -3617,6 +3642,11 @@
 	<key id="s_itemextraction_lack_scroll" value="신비의 모루 개수가 부족합니다." feature="ItemExtraction" />
 	<key id="s_itemextraction_inventoryfull" value="소지품창을 1칸 비워주세요." feature="ItemExtraction" />
 	<key id="s_itemextraction_cannot" value="외형을 추출할 수 없는 아이템입니다." feature="ItemExtraction" />
+	<key id="s_petextraction_invalid" value="&lt;FONT color=&apos;#FF4040&apos;&gt;펫 스킨 배지 제작 불가&lt;/FONT&gt;" feature="GemPetSkin" />
+	<key id="s_petextraction_inventoryfull" value="소지품창을 1칸 비워주세요." feature="GemPetSkin" />
+	<key id="s_petextraction_conform" value="펫 스킨 배지 제작 주문서가 소모됩니다.\n펫 스킨 배지를 만드시겠습니까?\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 펫 스킨 배지를 제작할 경우 외형을 복제한 펫은 캐릭터에게 귀속됩니다.&lt;/FONT&gt;" feature="GemPetSkin" />
+	<key id="s_petextraction_success" value="{0} 제작이 완료되었습니다." feature="GemPetSkin" />
+	<key id="s_petextraction_cannot" value="이 펫은 스킨 배지로 만들 수 없습니다." feature="GemPetSkin" />
 	<key id="s_common_error_unknown" value="알 수 없는 오류가 발생하였습니다.\n잠시 후에 다시 시도해 주세요." />
 	<key id="s_common_day" value="{0}일" />
 	<key id="s_common_day_bonus" value="{0} + {1}일" />
@@ -3830,6 +3860,7 @@
 	<key id="s_dungeonRoom_lack_extra_ticket" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 아이템이 부족합니다.\n메럿마켓에서 아이템을 구매하시겠습니까?" />
 	<key id="s_dungeonRoom_event_reward_count" value="&lt;FONT color=&apos;#909090&apos;&gt;| &lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;이벤트 {0} / {1} &lt;/FONT&gt;" />
 	<key id="s_dungeonRoom_groupList_recommand" value="추천 던전" />
+	<key id="s_dungeonRoom_groupList_favorite" value="즐겨찾기" />
 	<key id="s_dungeonRoom_reward" value="보상 획득 횟수" />
 	<key id="s_dungeonRoom_reward_daily" value="일간 보상 획득 횟수" />
 	<key id="s_dungeonRoom_reward_weekly" value="주간 보상 획득 횟수" />
@@ -3940,6 +3971,9 @@
 	<key id="s_blackmarket_terms_text_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;블랙마켓 이용 안내&lt;/FONT&gt;\n\n1) 아이템 거래\n- 아이템 판매 등록 신청 후 {0}일간 판매 목록에 노출되며, 기간 만료 시 더 이상 판매 목록에 노출되지 않습니다.\n- 아이템 판매 등록 시 판매 가격의 {1}%(최대 {2} 메소)를 등록 보증금으로 징수하며, 등록 보증금은 거래가 완료되거나 기간 만료로 물품을 회수할 경우 우편으로 돌려줍니다. 단, 판매 기간 내에 직접 판매 취소를 할 경우에는 돌려주지 않습니다.\n- 기간 만료로 등록한 물품을 회수하거나 판매 기간 중에 판매 등록을 취소할 경우 우편을 통해 아이템을 지급받습니다.\n- 아이템이 판매될 경우 판매된 금액의 {3}%를 수수료로 징수하며, 이 금액은 판매 대금 지급 시 차감됩니다.\n\n2) 메소 거래\n- 메소 판매 등록 신청 후 {5}일간 판매 목록에 노출되며, 기간 만료 시 더 이상 판매 목록에 노출되지 않습니다.\n- 블랙마켓에 등록된 메소는 ‘게임 메럿’을 제외한 ‘메럿’으로 구입할 수 있으며, 메소가 판매된 경우 메소 판매 대금은 ‘게임 메럿’으로 지급됩니다.\n- 기간 만료로 등록한 메소를 회수하거나 판매 기간 중에 판매 등록을 취소 할 경우 우편을 통해 메소를 지급받습니다.\n- 메소가 판매될 경우 판매된 금액의 {6}%를 수수료로 징수하며, 이 금액은 판매 대금 지급 시 차감됩니다.\n- 메소 거래 등록 시 판매 가격은 평균 거래 가격의 {7}% 이내로만 등록할 수 있습니다.\n- 블랙마켓에서 메소 판매 등록은 계정당 1일 {8}회까지만 가능하고, 구입은 계정당 1일 {9}회까지만 가능합니다. 이 횟수는 매일 밤 자정에 초기화됩니다.\n\n3) 공통 사항\n- 블랙마켓에서 아이템/메소 판매로 인한 아이템/메소가 첨부된 우편, 판매 대금 및 판매 취소/물품 회수로 받은 우편은 {4}일 내 수령하지 않는 경우 우편 보관 기간 만료로 삭제됩니다.\n- 만약, 비정상적인 거래내역이 확인되는 경우 판매 대금은 회수 조치 될 수 있습니다.\n" />
 	<key id="s_meratmarket_designers_terms_text_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;UGC콘텐츠 이용자 주의사항 및 법적고지&lt;/FONT&gt;\n\n이용자는 ‘메이플스토리2’에서 제공하는 서비스 내에서 UGC(User-Generated Contents: 유저 제작 콘텐츠)를 제작하여 이용 혹은 게시할 수 있습니다. \n다만, UGC는 운영정책에 위배하지 않고 제작되어야 하며, 이를 위배할 경우, 경고 없이 변경/삭제/회수 조치 될 수 있습니다. \n\n1) 이용자는 게임 내에서 UGC를 자유롭게 제작/게시 할 수 있습니다.\n이 경우 ‘적용하는 디자인’ 및 ‘내용’은 제작한 이용자의 소유이나, &apos;도안 아이템&apos; 및 &apos;디자인이 적용된 도안 아이템&apos;, ‘악보 아이템’ 에 대한 지적재산권 및 저작권은 메이플스토리2&apos;에 있으며(단, &apos;적용하는 디자인&apos; 및 ‘내용’이 제3자의 권리를 침해하는 경우는 해당하지 아니한다), &apos;메이플스토리2&apos; 는 &apos;도안 아이템&apos; 및 &apos;디자인이 적용 된 도안 아이템&apos;, ‘악보 아이템’ 에 대하여 재사용, 공개, 전송할 수 있는 권리를 가질 수 있습니다.\n\n2) 이용자가 게시한 UGC는 게임 내/외 누구에게나 노출될 수 있으며, 스크린샷 등을 통해 다른 사람에 의하여 복제 및 저장될 수 있습니다.\n\n3) 원활한  UGC 이용을 위해 아래의 주의사항을 준수해주시기 바랍니다. \n- 이용자는 다른 사람의 권리(저작권, 상표권, 초상권, 지적재산권, 개인정보 등 사생활 관련 권리)를 침해하는 UGC를 제작/게시/이용해서는 안되며, 권리자의 침해 신고로 발생하는 법적 책임은 본인이 부담하게 됩니다. 또한 ‘메이플스토리2’에서는 권리 침해 라고 판단되는 경우 임의로 삭제 또는 비공개 처리할 수 있습니다.\n- 이용자는 음란, 혐오, 비방 및 정치적 성향 표현 등 운영정책에 위배되는 UGC를 제작/게시/이용해서는 안되며, ‘메이플스토리2’에서는 운영정책에 위배된다고 판단되는 경우 임의로 삭제 또는 비공개 처리할 수 있습니다.\n- 주의사항을 준수하지 않아 제재 및 변경/삭제/회수 되는 경우 소모된 게임 재화(메소, 메럿 등)는 다시 지급되지 않습니다. \n\n4) ‘메이플스토리2’는 운영정책에 의거하여 위배되는 UGC를 제작/게시/이용한 이용자에게 게임 서비스에 대한 제한을 가할 수 있습니다. \n\n5) 디자이너스샵에서 얻을 수 있는 수익은 1개월에 최대 10만 메럿으로 제한합니다.\n- 더 많은 이용자에게 기회를 주기 위해 계정당 1개월 동안 얻을 수 있는 최대 수익을 제한합니다. \n\n*&apos;메이플스토리2&apos;에서는 모든 이용자들의 권리침해를 방지하기 위해 노력하고 있으며, 권리침해가 발생했을 경우, ‘권리침해 신고센터’의 ‘신고하기’를 통해 신청해주시기 바랍니다.\n" />
 	<key id="s_meratmarket_designers_terms" value="디자이너스샵에 상품을 등록하시겠습니까?\n&lt;font color=&apos;#c00000&apos;&gt;지불한 비용은 환불되지 않습니다.&lt;/font&gt;" />
+	<key id="s_blueprint_retry_later" value="잠시 후 다시 시도해 주세요" />
+	<key id="s_blueprint_inventory_full" value="소지품 창을 비워주세요." />
+	<key id="s_blueprint_msg_item_edit_complete" value="아이템을 제작했습니다." />
 	<key id="s_meratmarket_tooltip_sell_count" value="{0}개" />
 	<key id="s_meratmarket_tooltip_sell_date" value="{0}년 {1}월 {2}일 {3:02d}시 {4:02d}분까지" />
 	<key id="s_meratmarket_tooltip_bookmark" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;{0} 님의 디자인 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n{0} 님이 디자이너스샵에 등록한\n상품 목록을 모아 볼 수 있습니다." />
@@ -3963,6 +3997,9 @@
 	<key id="s_meratmarket_emptytext_not_exist" value="" />
 	<key id="s_meratmarket_notice_default" value="메럿 마켓에서 다양한 상품을 구매할 수 있습니다." />
 	<key id="s_meratmarket_notice_too_many_search_result" value="검색 결과가 많아 모든 상품이 검색되지 않았습니다.\n보다 상세한 검색을 원하는 경우 세부 카테고리 및 정확한 검색어를 사용해주세요." />
+	<key id="s_meratmarket_ask_move_to_modelhouse" value="모델하우스로 이동하시겠습니까? \n&lt;FONT color=&apos;#FF5F5F&apos;&gt;꾸미기 모드, 블루프린트 모드에서 이동 시 \n저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" feature="Blueprint" />
+	<key id="s_meratmarket_already_in_modelhouse" value="같은 장소로는 이동할 수 없습니다." feature="Blueprint" />
+	<key id="s_meratmarket_moveto_modelhouse_forbidden" value="이곳에서는 모델하우스로 이동할 수 없습니다." feature="Blueprint" />
 	<key id="s_meratmarket_error_result_buy_lack_merat" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 메럿이 부족해서 구입하지 못했습니다.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_lack_empty_slot" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 소지품이 가득 차서 구입하지 못했습니다.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_own_product" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 내가 등록한 상품은 구입할 수 없습니다.&lt;/font&gt;" />
@@ -3993,6 +4030,7 @@
 	<key id="s_meratmarket_buy_success_all" value="아이템을 구매했습니다.\n상세 내역을 확인해 주세요." />
 	<key id="s_meratmarket_buy_success_with_fail" value="일부 아이템만 구입했습니다.\n구매 실패한 아이템은 상세 내역을 확인해 주세요." />
 	<key id="s_meratmarket_buy_fail_all" value="아이템 구매에 실패했습니다.\n상세 내역을 확인해 주세요." />
+	<key id="s_meratmarket_buy_notice_blueprint" value="블루프린트 구매 금액은 디자인의 가격만 포함합니다. 블루프린트 사용 시 보유하고 있지 않은 건설 자재는 사용자가 별도로 구매해야 햡니다." feature="Blueprint" />
 	<key id="s_meratmarket_gift_title" value="선물 결과" />
 	<key id="s_meratmarket_gift_success_row" value="&lt;FONT color=&apos;#8dd502&apos;&gt;[선물완료]&lt;/font&gt; {0} | {1}" />
 	<key id="s_meratmarket_gift_fail_row" value="&lt;FONT color=&apos;#ff4040&apos;&gt;[선물실패]&lt;/font&gt; {0} | {1} &lt;FONT color=&apos;#ff4040&apos;&gt;\n     {2}&lt;/font&gt;" />
@@ -4040,6 +4078,7 @@
 	<key id="s_meratmarket_error_ugc_buy_limit_achieve_account_char_level" value="계정 내 {0}레벨을 달성한  캐릭터가 없어 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_buy_limit_achieve_account_ad_level" value="계정 내 {0}모험레벨을 달성한 캐릭터가 없어 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_buy_limit_product_buy_count" value="이 상품은 계정에서 {0}번 이상 구매했습니다. 추가 구매할 수 없습니다." />
+	<key id="s_meratmarket_error_ugc_calculate_invalid_blueprint_item" value="견적서를 볼 수 없는 아이템입니다." feature="Blueprint" />
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} 님을 즐겨찾는 디자이너로 등록했습니다." />
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="최대 {0}명까지만 즐겨찾기에 등록할 수 있습니다.\n즐겨찾기 목록을 정리한 후 다시 시도해 주세요." />
 	<key id="s_meratmarket_bookmark_input_search" value="검색하고 싶은 디자이너 이름을 입력해 주세요." />
@@ -4176,18 +4215,20 @@
 	<key id="s_cashshop_err_gift_unknown" value="선물하기 오류가 발생했습니다. [code={0}]" />
 	<key id="s_cashshop_err_gift_sale_count_over" value="선물할 수 있는 최대 개수를 초과했습니다." />
 	<key id="s_dps_type_caster_damage" value="총 대미지" />
+	<key id="s_dps_type_caster_damage_boss" value="총 대미지(보스)" />
 	<key id="s_dps_type_target_damage" value="받은 피해" />
 	<key id="s_dps_type_dps" value="DPS" />
+	<key id="s_dps_type_dps_boss" value="DPS(보스)" />
 	<key id="s_dps_type_hit_rate" value="명중률" />
 	<key id="s_dps_type_critical_rate" value="크리확률" />
 	<key id="s_dps_type_gain_exp" value="획득경험치" />
 	<key id="s_dps_type_gain_meso" value="획득메소" />
-	<key id="s_partydps_titlebar" value="미터기[파티] - {0}" />
+	<key id="s_partydps_titlebar" value="미터기[파티]\n{0}" />
 	<key id="s_partydps_notice_history_prefix" value="\n[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}\n" />
 	<key id="s_partydps_notice_history_row" value="{0}. {1} {2}\n" />
 	<key id="s_partydps_notice_history_total_time" value="누적시간 {0}" />
-	<key id="s_individualdps_titlebar" value="미터기 - {0}" />
-	<key id="s_chaosdps_titlebar" value="미터기[파티] - {0}" />
+	<key id="s_individualdps_titlebar" value="미터기\n{0}" />
+	<key id="s_chaosdps_titlebar" value="미터기[파티]\n{0}" />
 	<key id="s_chaosdps_notice_history_prefix" value="\n[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}\n" />
 	<key id="s_chaosdps_notice_history_row" value="{0}. {1} {2}\n" />
 	<key id="s_chaosdps_notice_history_total_time" value="누적시간 {0}" />
@@ -4363,8 +4404,6 @@
 	<key id="s_enum_dungeon_group_worldBoss" value="월드 인베이젼" feature="WorldBossDungeon" />
 	<key id="s_enum_dungeon_group_fameChallenge" value="포트리스 럼블" feature="FameChallengeDungeon" />
 	<key id="s_enum_dungeon_group_lapenta" value="아이 오브 라펜타" feature="LapentaDungeon" />
-	<key id="s_partysearch_dungeonname_adventure" value="모험가 모집" />
-	<key id="s_partysearch_dungeonname_all" value="전체 목록" />
 	<key id="s_partysearch_sort_party_create_hi" value="신규 등록 순" />
 	<key id="s_partysearch_sort_party_create_low" value="등록 순" />
 	<key id="s_partysearch_sort_party_level_hi" value="레벨 높은 순" />
@@ -4415,7 +4454,6 @@
 	<key id="s_partysearchregister_err_title" value="제목은 최소 {0}글자 이상 입력해 주세요." />
 	<key id="s_partysearchregister_invalid_dungeonlevel" value="잘못된 난이도 입니다.\n난이도를 다시 확인해 주세요." />
 	<key id="s_partysearchregister_invalid_dungeondata" value="던전 정보가 없습니다.\n난이도와 던전을 다시 확인해 주세요." />
-	<key id="s_partysearchregister_ask_modify" value="현재 설정한 내용으로 수정하시겠습니까?" />
 	<key id="s_partysearchregister_ask_remove" value="등록되어 있는 내용을 목록에서 삭제하시겠습니까?" />
 	<key id="s_systemmail_notify_gift" value="아이템이 우편으로 발송되었습니다.\n우편함을 확인해 주세요." />
 	<key id="s_systemmail_notify_reserve" value="5레벨마다 엘리트 무기 선물 상자 지급!\n{0}레벨 달성 시 획득할 수 있습니다." />
@@ -4486,6 +4524,14 @@
 	<key id="s_fishing_grade_Lv11" value="상급 3단계" />
 	<key id="s_fishing_grade_Lv12" value="상급 4단계" />
 	<key id="s_fishing_grade_Lv13" value="전문 낚시꾼" />
+	<key id="s_fishing_grade_Lv14" value="2급 전문 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv15" value="3급 전문 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv16" value="프로 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv17" value="2급 프로 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv18" value="3급 프로 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv19" value="챔피언 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv20" value="2급 챔피언 낚시꾼" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv21" value="3급 챔피언 낚시꾼" feature="Fishing02" />
 	<key id="s_fishing_grade_up" value="{0} 낚시꾼이 되었습니다." />
 	<key id="s_fishing_grade_up_max" value="{0}이 되었습니다." />
 	<key id="s_fishing_habitat_water" value="민물" />
@@ -4494,6 +4540,7 @@
 	<key id="s_fishing_habitat_lava" value="용암" />
 	<key id="s_fishing_habitat_oil" value="기름" />
 	<key id="s_fishing_habitat_devilwater" value="오염된 물" />
+	<key id="s_fishing_habitat_emeraldwater" value="에메랄드 물" feature="Fishing02" />
 	<key id="s_fishing_habitat_all" value="스페셜" />
 	<key id="s_fishing_all_spot" value="모든 낚시터" />
 	<key id="s_system_shop_title_fishing" value="낚시꾼의 상점" />
@@ -4836,7 +4883,7 @@
 	<key id="s_pet_input_name" value="펫의 이름을 지어주세요.\n(한글 {0}자, 영문 {1}자까지 입력할 수 있습니다.)" comment="{0}:한글글자길이 {1}:글자길이" />
 	<key id="s_pet_tamingnpc_default_perfix_name" value="배고픈" feature="PetBattle" />
 	<key id="s_pet_tamingnpc_max_perfix_name" value="온순한" feature="PetBattle" />
-	<key id="s_pet_tamingnpc_name" value="{0} {1}" feature="PetBattle" />
+	<key id="s_pet_tamingnpc_name" value="{0} {1}" feature="PetBattle" comment="{0}:prefix {1}:monstername" />
 	<key id="s_pet_summon_on" value="펫을 소환했습니다." />
 	<key id="s_pet_summon_off" value="펫을 소환 해제했습니다." />
 	<key id="s_pet_btn_summon_on" value="소환" />
@@ -4978,6 +5025,7 @@
 	<key id="s_selectItemBox_select_notice" value="받을 아이템을 {0}개 선택해주세요" />
 	<key id="s_selectItemBox_select_itemCount" value="선택한 아이템({0}/{1})" />
 	<key id="s_selectItemBox_cant_select_more" value="더 이상 선택할 수 없습니다" />
+	<key id="s_selectItemBox_select_wrong" value="선택이 잘못 되었습니다. 다시 시도해 주세요" />
 	<key id="s_gameevent_enterfield_confirm" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;\n이벤트 맵으로 이동합니다." />
 	<key id="s_card_reverse_game_consume_fail" value=" $item:{0}$ 개수가 부족합니다." />
 	<key id="s_card_reverse_game_select_count" value="선택된 카드 {0}/{1}" />
@@ -5112,6 +5160,7 @@
 	<key id="s_gamedictionary_npc_type_enchant" value="인챈트" />
 	<key id="s_gamedictionary_npc_content" value="지역 : {0}\n종류 : {1}" />
 	<key id="s_itemsocket_scroll_desc" value="{0}를 사용합니다.\n100% 확률로 활성화된 소켓이 &lt;FONT color=&apos;#ffd200&apos;&gt;{1}개&lt;/font&gt;로 변경됩니다.\n아이템 사용 후에는 되돌릴 수 없습니다." feature="ItemSocketSystem" />
+	<key id="s_itemsocket_scroll_tradableCountDeduction_desc" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;\n소켓이 확장된 액세서리는 거래 불가로 변경됩니다.&lt;/FONT&gt;" feature="ItemSocketSystem" />
 	<key id="s_itemsocket_scroll_result" value="활성화된 소켓이 &lt;FONT color=&apos;#ffd200&apos;&gt;{0}개&lt;/font&gt;로 변경됩니다. \n(현재 활성화된 소켓 수 : {1}개)" feature="ItemSocketSystem" />
 	<key id="s_itemsocket_scroll_success_prob" value="성공 확률 {0}%" feature="ItemSocketSystem" />
 	<key id="s_itemsocket_scroll_limit_level" value="&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;레벨" feature="ItemSocketSystem" />
@@ -5430,6 +5479,7 @@
 	<key id="s_pvp_arena_close_test_season_msg" value="메이플 아일랜드의 숙련된 장인 &apos;스페셜 원&apos;이\n투기장을 수리하고 있습니다.\n1월 12일에 만나요" />
 	<key id="s_home_save_messagebox" value="현재 상태를 {0}번 슬롯에 저장합니다.\n\n저장 메모를 입력하세요" />
 	<key id="s_home_load_messagebox" value="{0}번 슬롯에 저장된 맵을 불러옵니다.\n\n저장된 데이터를 불러올 경우 현재 있는 맵의 정보가 사라집니다.\n마네킹에 장착된 아이템은 소지품으로 이동되거나 별도 우편으로 발송해 드립니다.\n\n정말 불러오겠습니까?" />
+	<key id="s_home_blueprint_load_messagebox" value="{0}번 슬롯에 저장된 블루프린트를 불러옵니다.\n\n저장된 데이터를 불러올 경우 현재 제작 중이던 블루프린트의 정보가 사라집니다.\n\n정말 불러오겠습니까?" />
 	<key id="s_home_save_title_empty" value="제목 없음" />
 	<key id="s_home_save_btn_text" value="저장하기" />
 	<key id="s_home_save_btn_overwrite" value="이미 저장된 도면이 있습니다.\n저장된 내용을 덮어쓰시겠습니까?" />
@@ -5438,8 +5488,11 @@
 	<key id="s_home_info_save_messagebox_load" value="내 도면 불러오기" />
 	<key id="s_home_info_save_messagebox_remove" value="실내 비우기" />
 	<key id="s_home_info_exit_messagebox_save" value="꾸미기 모드를 종료하겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" />
+	<key id="s_home_info_exit_blueprint_messagebox_save" value="블루프린트 모드를 종료하겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" />
 	<key id="s_home_info_area" value="{0} X {0}" />
 	<key id="s_home_info_height" value="{0}" />
+	<key id="s_home_info_title_area" value="면적 {0} X {0}" />
+	<key id="s_home_info_title_height" value="높이 {0}" />
 	<key id="s_home_shrink_area_messagebox" value="현재 면적 {0}X{0} &lt;Img Src=&apos;icon_extend_arrow&apos; vspace=&apos;-4&apos;&gt; &lt;FONT color=&apos;#FFD200&apos;&gt;축소 후 {1}X{1}&lt;/FONT&gt;\n축소되는 면적에 설치된 건설 아이템은 모두 회수됩니다. 회수한 아이템은 건설 자재 보관함에서 확인할 수 있습니다. 마네킹에 장착된 아이템은 소지품으로 별도 우편으로 발송해 드립니다.\n\n실내 면적을 축소하시겠습니까?&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_home_extension_area_messagebox" value="현재 크기 {0}X{0} &lt;Img Src=&apos;icon_extend_arrow&apos; vspace=&apos;-4&apos;&gt; &lt;FONT color=&apos;#FFD200&apos;&gt;확장 후 {1}X{1}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n실내 면적을 확장하겠습니까?\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_home_extension_area_trophy_messagebox" value="현재 크기 {0}X{0} &lt;Img Src=&apos;icon_extend_arrow&apos; vspace=&apos;-4&apos;&gt; &lt;FONT color=&apos;#FFD200&apos;&gt;확장 후 {1}X{1}&lt;/FONT&gt;\n확장 비용 : &lt;FONT color=&apos;#FFB200&apos;&gt;{3}&lt;/FONT&gt;\n조건 : &lt;FONT color=&apos;#FF5F5F&apos;&gt;{2}&lt;/FONT&gt; 달성\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n실내 면적을 확장하겠습니까?\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
@@ -5447,6 +5500,7 @@
 	<key id="s_home_extension_height_messagebox" value="현재 높이 {0} &lt;Img Src=&apos;icon_extend_arrow&apos; vspace=&apos;-4&apos;&gt; &lt;FONT color=&apos;#FFD200&apos;&gt;확장 후 {1}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n실내 높이를 확장하겠습니까?\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_home_today_reward" value="오늘의 장식도 선물을 받았습니다." />
 	<key id="s_home_bill_description" value="부족한 자재가 있어서 구매가 필요합니다.\n저장된 도면을 불러오려면 구매하기를 눌러주세요.\n구입이 필요한 총 자재 개수 : {0}개" />
+	<key id="s_home_bill_description_blueprint_preview" value="해당 블루프린트 사용 시 부족한 자재는 구매가 필요합니다.\n부족한 자재를 모두 구매 시 아래와 같은 금액이 소모됩니다.\n구입이 필요한 총 자재 개수 : {0}개" feature="Blueprint" />
 	<key id="s_home_interior_grade_gift_taken" value="인테리어 단계 보상을 받았습니다." />
 	<key id="s_home_buycube_and_install" value="아이템을 가지고 있지 않습니다.\n바로 구입 후 설치하겠습니까?\n\n구입 가격 :  {0}" />
 	<key id="s_home_buycube_sale_and_install" value="아이템을 가지고 있지 않습니다.\n바로 구입 후 설치하겠습니까?\n\n구입 가격 :  &lt;font color=&apos;#707070&apos;&gt;{0}&lt;/font&gt; {1}" />
@@ -5503,7 +5557,7 @@
 	<key id="s_roulette_reward" value="$roulettePrev$회차 획득 아이템" />
 	<key id="s_roulette_talk_skip" value="한번에 받기\n$key:57$" />
 	<key id="s_goldus_promotion_reward" value="[골두스 프로모션] {0} 추가 보상을 받았습니다." />
-	<key id="s_snowman_promotion_reward" value="[케이크 축제] 생크림을 받았습니다." />
+	<key id="s_snowman_promotion_reward" value="[따끈따끈 만두 축제] 영양만점 만두소를 받았습니다." />
 	<key id="s_mastery_reduce_event" value=" [{0}배속 이벤트중]" />
 	<key id="s_maple_guide_skip_message" value="메이플 가이드 그만보기" />
 	<key id="s_maple_guide_skip_button" value="그만보기" />
@@ -5713,10 +5767,10 @@
 	<key id="s_quest_alliance_lumiknight" value="루미나이츠" />
 	<key id="s_quest_alliance_triaroyalguard" value="트라이아 근위대" />
 	<key id="s_quest_alliance_greenhood" value="그린후드" />
-	<key id="s_quest_alliance_mapleunion_kritiasexped" value="[크리티아스 원정대]메이플 연합" />
-	<key id="s_quest_alliance_lumiknight_kritiasexped" value="[크리티아스 원정대]루미나이츠" />
-	<key id="s_quest_alliance_greenhood_kritiasexped" value="[크리티아스 원정대]그린후드" />
-	<key id="s_alliance_quest_daily_mission" value="임무" />
+	<key id="s_quest_alliance_mapleunion_kritiasexped" value="[크리티아스 원정대] 메이플 연합" />
+	<key id="s_quest_alliance_lumiknight_kritiasexped" value="[크리티아스 원정대] 루미나이츠" />
+	<key id="s_quest_alliance_greenhood_kritiasexped" value="[크리티아스 원정대] 그린후드" />
+	<key id="s_alliance_quest_daily_mission" value="{0} 임무" comment="{0} : 세력명" />
 	<key id="s_alliance_quest_reward_split" value="   " />
 	<key id="s_alliance_quest_reward_exp" value="&lt;FONT color=&apos;#33FF00&apos;&gt;+{0} EXP&lt;/FONT&gt;" />
 	<key id="s_alliance_quest_reward_fame_point" value="&lt;FONT color=&apos;#5DE6FF&apos;&gt;+{0} 평판&lt;/FONT&gt;" />
@@ -5727,11 +5781,16 @@
 	<key id="s_alliance_quest_accept" value="수락하기" />
 	<key id="s_alliance_quest_complete" value="완료하기" />
 	<key id="s_alliance_quest_rumble_warn" value="다른 세력의 포트리스 럼블 임무 진행 중" />
+	<key id="s_alliance_quest_limit_alliance" value="{0} 세력 평판 {1}" />
+	<key id="s_alliance_quest_limit_alliance_condition" value="{0} 이상 시 평판 퀘스트를 진행할 수 있습니다." />
+	<key id="s_alliance_quest_limit_exped_condition" value="레벨 70 이상이고, {0} 퀘스트를 완료해야 합니다." feature="Kritias_2018_12" />
+	<key id="s_alliance_quest_unreq_group_warn" value="이 임무는 한 주에 1개 세력에서만 진행할 수 있습니다. 진행하시겠습니까?" />
 	<key id="s_fame_point_board_time1" value="{0}분전" />
 	<key id="s_fame_point_board_time2" value="{0:02d}시 {1:02d}분" />
 	<key id="s_fame_point_board_time3" value="{0:04d}/{1:02d}/{2:02d}" />
 	<key id="s_fame_point_update" value="세력 메세지가 갱신 되었습니다." />
 	<key id="s_fame_point_board_warn" value="{0} 퀘스트를 완료해야 사용할 수 있습니다." />
+	<key id="s_fame_point_board_warn2" value="스카이 포트리스 관련 퀘스트를 완료해야 사용할 수 있습니다." />
 	<key id="s_fame_point_board_max" value="MAX" />
 	<key id="s_sky_fortress_warn_quest" value="{0} 퀘스트를 완료해야 이동할 수 있습니다." />
 	<key id="s_sky_fortress_warn_field" value="이 지역에서는 이동할 수 없습니다." />
@@ -5812,14 +5871,14 @@
 	<key id="s_hide_pcinfo_dialog_disable_message" value="지금은 사용할 수 없습니다." />
 	<key id="s_reactor_failed" value="현재 상태에서는 진행할 수 없습니다." />
 	<key id="s_reactor_create_failed_invalid_state" value="지금 상태에서는 진행할 수 없습니다." />
-	<key id="s_reactor_create_failed_invalid_position" value="현재 위치에서는 진행할 수 없습니다." />
-	<key id="s_reactor_create_failed_invalid_field" value="퀸즈타운에서만 꽃을 심을 수 있습니다." />
+	<key id="d" value="현재 위치에서는 진행할 수 없습니다." />
+	<key id="s_reactor_create_failed_invalid_field" value="퀸즈타운에서만 진행할 수 있습니다." />
 	<key id="s_reactor_create_failed_game_event_inactive" value="지금은 진행할 수 없습니다." />
 	<key id="s_reactor_create_failed_daily_reward_count" value="계정 당 1일 3회 보상을 받으신 후에는 참여하실 수 없습니다." />
 	<key id="s_reactor_action_failed" value="현재 상태에서는 진행할 수 없습니다." />
 	<key id="s_reactor_action_failed_reward_count" value="이벤트는 1일 3회 보상까지만 진행하실 수 있습니다." />
-	<key id="s_reactor_action_message_0" value="마법 용액" />
-	<key id="s_reactor_action_message_1" value="봄꽃 채집" />
+	<key id="s_reactor_action_message_0" value="초콜릿 장식하기" />
+	<key id="s_reactor_action_message_1" value="초콜릿 획득하기" />
 	<key id="s_multi_riding_dungeon_not_boarding" value="해당 탈것은 던전에서 아직 탑승하실 수 없습니다." />
 	<key id="s_multi_riding_item_desc" value="\n파티원, 길드원, 친구만 동승할 수 있다." />
 	<key id="s_function_item_survival_scan_info" value="미니맵에서 다른 참가자의 위치를 알 수 있습니다." feature="SurvivalContents01" />
@@ -5990,4 +6049,5 @@
 	<key id="s_closet_msg_item_failed" value="착용 조건을 충족하지 않아 장착하지 못한 아이템이 있습니다." feature="Closet" />
 	<key id="s_closet_tooltip_msg_for_remove" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;현재 아이템을 소지하고 있지 않습니다.&lt;/FONT&gt;" feature="Closet" />
 	<key id="s_word_commingSoon" value="준비 중입니다." />
+	<key id="s_fieldwar_sidepopup_script" value="군단 침입 경보 발령!\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;\n즉시 지원이 필요합니다." comment="{0} : 필드맵" feature="Fieldwar01" />
 </ms2>

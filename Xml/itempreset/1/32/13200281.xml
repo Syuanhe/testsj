@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="RH">
-      <asset name="Data/Resource/Model/Item/1/33/13200281_MapleUnion01LongSword.nif" targetnode="Weapon_Side_L_Point" selfnode="Point01"/>
+      <asset name="Data/Resource/Model/Item/1/32/13200281_MapleUnion01LongSword.nif" targetnode="Weapon_Side_L_Point" selfnode="Point01"/>
 	  </slot>
   </slots>
 </ms2>

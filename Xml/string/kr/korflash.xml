@@ -259,6 +259,7 @@
 	<key id="$s_gameoption_input_select_xbox" value="XBox" />
 	<key id="$s_gameoption_input_select_ps" value="듀얼 쇼크" />
 	<key id="$s_gameoption_input_select_steam" value="Steam" />
+	<key id="$s_gameoption_input_or" value="or" />
 	<key id="$s_gameoption_tooltip_quality" value="그래픽 옵션을 일괄적으로 조정합니다.\n\n&lt;FONT color=&apos;#FFD200&apos; &gt;단계가 높을수록 고사양이 필요합니다.\n실행 중인 컴퓨터 사양보다 높은 단계를 설정하면 경고 메시지가 뜹니다.&lt;/FONT&gt;" />
 	<key id="$s_gameoption_tooltip_hdr" value="HDR 기능을 사용해 화면을 화사하게 표현합니다.\n\n&lt;FONT color=&apos;#FFD200&apos; &gt;옵션을 켜려면 고사양이 필요합니다.&lt;/FONT&gt;" />
 	<key id="$s_gameoption_tooltip_hdr_on" value="HDR &lt;FONT color=&apos;#FFD200&apos; &gt;켜짐&lt;/FONT&gt;" />
@@ -697,7 +698,9 @@
 	<key id="$s_myInfo_home_price_myinfo" value="계약 가격" />
 	<key id="$s_myInfo_label_item_level" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;아이템 점수&lt;/FONT&gt;" />
 	<key id="$s_myInfo_label_attack" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;공격력&lt;/FONT&gt;" />
+	<key id="$s_myInfo_label_attackScore" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;공격 점수&lt;/FONT&gt;" feature="StatScore_01" />
 	<key id="$s_myInfo_label_defense" value="&lt;FONT color=&apos;#45D1FF&apos;&gt;방어력&lt;/FONT&gt;" />
+	<key id="$s_myInfo_label_defenseScore" value="&lt;FONT color=&apos;#45D1FF&apos;&gt;방어 점수&lt;/FONT&gt;" feature="StatScore_01" />
 	<key id="$s_myInfo_reset_statpoint" value="스탯 초기화" />
 	<key id="$s_myInfo_remain_statpoint" value="남은 스탯 포인트" />
 	<key id="$s_myInfo_veil_panel_of_edit_statpoint" value="머쉬킹 챔피언십에 참가 중에는\n스탯 포인트를 분배할 수 없습니다.\n경기를 마친 후 분배해주세요." />
@@ -705,7 +708,9 @@
 	<key id="$s_ugc_image_title_banner" value="벽보 등록" />
 	<key id="$s_ugc_image_title_guild" value="길드 마크 등록" />
 	<key id="$s_ugc_image_title_guild_poster" value="길드 벽보 등록" />
+	<key id="$s_ugc_image_title_blueprint_image" value="블루프린트 이미지 선택" feature="Blueprint" />
 	<key id="$s_ugc_image_btn_upload" value="등록하기" />
+	<key id="$s_ugc_image_btn_select" value="선택하기" />
 	<key id="$s_ugc_image_btn_terms" value="내용 보기" />
 	<key id="$s_ugc_image_btn_new" value="새로 그리기" />
 	<key id="$s_ugc_image_cb_terms" value="주의 사항을 읽고, 이용에 동의합니다." />
@@ -874,6 +879,7 @@
 	<key id="$s_tooltip_myinfo_gem_autoMastery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;자동 생산 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n채광, 채집, 축산, 재배에서 확률 없음이 될 때까지 연속으로 생산합니다." feature="AutoMastery02" />
 	<key id="$s_tooltip_myinfo_gem_effect" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;이펙트 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 캐릭터 주변에 이펙트가 나타납니다." feature="GemEffect" />
 	<key id="$s_tooltip_myinfo_adventure_level" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;모험레벨&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 계정의 모험레벨입니다." feature="AdventureLevel" />
+	<key id="$s_tooltip_myinfo_gem_petSkin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;펫 스킨 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n소환되어 있는 펫의 외형을 배지에 설정된 외형으로 변신시킵니다.\n펫 외형과 펫이 공격하는 모습이 변경되며 펫의 능력치는 바뀌지 않습니다." feature="GemPetSkin" />
 	<key id="$s_tooltip_minimap_channel" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;채널 이동&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n같은 서버 안에서 채널을 이동할 수 있습니다." />
 	<key id="$s_tooltip_minimap_worldmap" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;월드맵 [M]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n월드의 모습을 확인할 수 있습니다.\n지금 있는 곳의 정보와 몬스터가 나오는 곳의 정보를 확인해 보세요." />
 	<key id="$s_tooltip_minimap_setting" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;미니맵 설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n미니맵에 표시할 정보를 설정할 수 있습니다." />
@@ -897,6 +903,8 @@
 	<key id="$s_tooltip_myinfo_stat_itemLevel_ohAdditional" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;아이템 점수&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;캐릭터가 현재 착용하고 있는 아이템 점수의 총합입니다.\n아이템 점수란, 아이템이 가진 능력을 숫자로 표현한 것입니다.\n일정 아이템 점수에 도달하면 더 좋은 보상을 제공하는 던전에 입장할 수 있습니다.\n\n단, 쌍수무기의 경우 왼손, 오른손 중에 높은 점수가 총합에 합산되며, 왼손, 오른손 점수차가 일정량 이상으로 커질 경우 그 비율에 맞는 감점을 받습니다. \n(방패, 법전 아이템은 총합에 합산되지 않습니다.) " feature="OHItemAdditionalLevel01" />
 	<key id="$s_tooltip_myinfo_stat_attack" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;캐릭터의 공격 능력을 파악할 수 있는 스탯입니다.\n무기 공격력, 물리 공격력, 마법 공격력, 크리티컬 명중, 크리티컬 대미지의 영향을 받습니다." />
 	<key id="$s_tooltip_myinfo_stat_defense" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;방어력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;캐릭터의 방어 능력을 파악할 수 있는 스탯입니다.\n방어력의 영향을 받습니다." />
+	<key id="$s_tooltip_myinfo_stat_attackScore" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;공격 점수&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;캐릭터의 공격 능력을 파악할 수 있는 점수입니다.\n무기 공격력, 물리 공격력, 마법 공격력, 크리티컬 명중, 크리티컬 대미지 등 전반적인 공격 스탯의 영향을 받습니다." feature="StatScore_01" />
+	<key id="$s_tooltip_myinfo_stat_defenseScore" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;방어 점수&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;캐릭터의 방어 능력을 파악할 수 있는 점수입니다.\n방어력과 체력 등 전반적인 방어 스탯의 영향을 받습니다." feature="StatScore_01" />
 	<key id="$s_tooltip_myinfo_stat_1" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;HP&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 체력입니다.\nHP가 0이 되면 비석에 깔려서 행동할 수 없습니다.\nHP는 일정 시간마다 자연 회복됩니다." />
 	<key id="$s_tooltip_myinfo_stat_2" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;SP&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n액티브 스킬 사용에 필요한 자원입니다.\nSP를 모두 사용하면 SP를 소비하는 액티브 스킬을 사용할 수 없습니다.\nSP는 일정 시간마다 자연 회복됩니다." />
 	<key id="$s_tooltip_myinfo_stat_3" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;EP&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n액션 스킬 사용에 필요한 자원입니다.\nEP를 모두 사용하면 EP를 소비하는 액션 스킬을 사용할 수 없습니다.\nEP는 일정 시간마다 자연 회복됩니다." />
@@ -1039,6 +1047,7 @@
 	<key id="$s_tooltip_ugcupload_banner_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 이미지를 배너로 등록합니다." />
 	<key id="$s_tooltip_ugcupload_guild_mark_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 이미지를 길드 마크로 등록합니다." />
 	<key id="$s_tooltip_ugcupload_guild_poster_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 이미지를 길드 벽보로 등록합니다." />
+	<key id="$s_tooltip_ugcupload_blueprint_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 이미지를 등록합니다." feature="Blueprint" />
 	<key id="$s_tooltip_ugcbanner_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;예약하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 이미지를 전광판에 예약합니다." />
 	<key id="$s_tooltip_beauty_coloring_addbasket" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;장바구니 담기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택된 아이템을 장바구니에 담습니다." />
 	<key id="$s_tooltip_beauty_coloring_reset" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;원래대로&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템을 원래 색으로 되돌립니다." />
@@ -1892,6 +1901,7 @@
 	<key id="$s_dungeon_room_change_expert_button" value="숙련 모험가 되기" />
 	<key id="$s_dungeon_room_united_weekly_count_toolipt" value="모험[일반/어려움] 던전의 보상 획득 횟수는 던전 별로 정해져 있지 않고\n하나의 통합된 횟수로 되어 있습니다.\n\n일간 보상 획득 횟수, 주간 보상 획득 횟수 중 한 가지라도\n초과된 경우에는 보상을 획득할 수 없습니다.\n\n보너스 상자는 던전 클리어 시\n주간 보상 횟수가 1, 3, 5, 10, 15, 20, 25, 30에 해당될 경우\n클리어 보상과 함께 획득할 수 있으며, 주간 단위로 초기화 됩니다.\n(캐릭터 레벨이 50이 되었을 때는 별도로 초기화 됩니다.)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보상 획득 횟수&lt;/FONT&gt;\n주간 : 30회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매주 금요일 0시 초기화)&lt;/FONT&gt;\n일간 : 10회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매일 0시 초기화)&lt;/FONT&gt;" />
 	<key id="$s_dungeon_room_united_weekly_count_toolipt" value="모험[일반/어려움] 던전의 보상 획득 횟수는 던전 별로 정해져 있지 않고\n하나의 통합된 횟수로 되어 있습니다.\n\n일간 보상 획득 횟수, 주간 보상 획득 횟수 중 한 가지라도\n초과된 경우에는 보상을 획득할 수 없습니다.\n\n보너스 상자는 던전 클리어 시\n주간 보상 횟수가 1, 3, 5, 10, 15, 20, 25, 30에 해당될 경우\n클리어 보상과 함께 획득할 수 있으며, 주간 단위로 초기화 됩니다.\n(캐릭터 레벨이 50이 되었을 때는 별도로 초기화 됩니다.)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보상 획득 횟수&lt;/FONT&gt;\n주간 : 30회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매주 금요일 0시 초기화)&lt;/FONT&gt;\n일간 : 15회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매일 0시 초기화)&lt;/FONT&gt;" locale="NA" />
+	<key id="$s_dungeon_room_favorite_mark_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;즐겨찾기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n즐겨찾기 카테고리에 해당 던전을 추가하거나 제거할 수 있습니다." />
 	<key id="$s_dungeonSearch_title" value="던전 찾기" />
 	<key id="$s_dungeonSearch_find_button" value="파티 찾기" />
 	<key id="$s_dungeonSearch_cancel_button" value="검색 취소" />
@@ -1956,6 +1966,7 @@
 	<key id="$s_meratmarket_btn_unequip_all" value="모두 벗기" />
 	<key id="$s_meratmarket_btn_myequip" value="내 옷 보기" />
 	<key id="$s_meratmarket_btn_buy_equip_all" value="현재 목록 구입" />
+	<key id="$s_meratmarket_btn_modelhouse" value="모델하우스" feature="BlueprintMarket" />
 	<key id="$s_meratmarket_btn_calculate" value="받기" />
 	<key id="$s_meratmarket_btn_calculating" value="정산 중" />
 	<key id="$s_meratmarket_btn_resale" value="재판매" />
@@ -1980,6 +1991,7 @@
 	<key id="$s_meratmarket_text_enable_calculate_price" value="정산 가능 금액" />
 	<key id="$s_meratmarket_text_basket_notice" value="| 장바구니는 저장되지 않습니다." />
 	<key id="$s_meratmarket_text_myshop_notice_sell_restrict" value="" />
+	<key id="$s_meratmarket_text_notice_blueprint" value="블루프린트는 모델하우스에 입장해 직접 살펴볼 수 있습니다. 우측 하단의 버튼을 이용해 주세요." feature="BlueprintMarket" />
 	<key id="$s_meratmarket_check_selectall" value="전체 선택" />
 	<key id="$s_meratmarket_text_sale" value="판매중" />
 	<key id="$s_meratmarket_text_stopsale" value="판매중지" />
@@ -2072,6 +2084,9 @@
 	<key id="$s_meratmarket_tooltip_btn_recipe" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;레시피 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메이드가 제작할 수 있는 아이템 목록을 보여줍니다.\n&lt;FONT color=&apos;#909090&apos;&gt;집을 계약한 후 메이드를 배치하면 고용기간 동안 아이템 제작을 의뢰할 수 있습니다.\n메이드의 친밀도(최대 10단계)가 올라가면 더 많은 아이템을 제작할 수 있습니다.&lt;/font&gt;" />
 	<key id="$s_meratmarket_tooltip_btn_preview" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;구성품 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n인테리어 공사권에 포함된 구성품을 확인할 수 있습니다.&lt;/font&gt;" />
 	<key id="$s_meratmarket_tooltip_btn_refresh" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;새로고침&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템 목록을 서버에서 새로 가져옵니다.\n단, 1페이지로 되돌아갑니다." />
+	<key id="$s_meratmarket_tooltip_btn_blueprint_calculate" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;견적내기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 블루프린트를 사용 시 추가로 들 수 있는 비용을 계산합니다." feature="BlueprintMarket" />
+	<key id="$s_meratmarket_tooltip_btn_blueprint_modelhouse" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;모델하우스 입장해 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n해당 모델하우스로 이동합니다." feature="BlueprintMarket" />
+	<key id="$s_meratmarket_tooltip_btn_blueprint_modelhouse_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;모델하우스에 적용하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n선택한 블루프린트를 바로 적용해서 보여줍니다." feature="BlueprintMarket" />
 	<key id="$s_meratmarketreg_tooltip_input_price" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;판매 가격&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자인 상품의 개당 판매 가격을 입력합니다.\n상품 판매 시 판매 가격의 일부를 판매 수수료로 사용하고\n판매 금액의 나머지를 수익으로 돌려 드립니다.\n단, 홀수 금액일 경우 소수점 금액은 수수료로 포함합니다.\n판매 수익은 마이샵에서 확인할 수 있습니다." />
 	<key id="$s_meratmarketreg_tooltip_input_itemdesc" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;디자인 설명&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자이너스샵의 상품 목록에 보이는 아이템 설명입니다.\n판매하는 상품에 대한 상세 설명을 추가할 수 있습니다.\n이 내용은 판매 중인 디자인 상품에만 보입니다.\n단, 여기에는 텍스트만 입력할 수 있습니다." />
 	<key id="$s_meratmarketreg_tooltip_input_itemtag" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;태그&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템 이름 외에 추가로 검색어를 등록합니다." />
@@ -2163,6 +2178,7 @@
 	<key id="$s_home_info_text_restrict" value="(한글 8자, 영문 16자)" />
 	<key id="$s_home_info_area" value="면적" />
 	<key id="$s_home_info_height" value="높이" />
+	<key id="$s_home_info_homesize" value="집 크기" />
 	<key id="$s_home_info_build_modelhouse" value="선택한 집 만들기" />
 	<key id="$s_home_info_build_empty_modelhouse" value="빈 집 만들기" />
 	<key id="$s_home_info_tooltip_btn_notice_modify" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;내 집 소개&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n집 이름과 인사말을 설정할 수 있습니다." />
@@ -2213,7 +2229,9 @@
 	<key id="$s_partysearch_notice_search_empty" value=" " />
 	<key id="$s_partysearch_notice_for_adventure" value="자유롭게 파티원을 모집할 수 있습니다." />
 	<key id="$s_partysearch_notice_party_search_preparing" value="파티 참가 시스템을 개편 준비 중입니다.\n지금은 이용할 수 없습니다." />
+	<key id="$s_partysearchregister_dialogName" value="모험가 모집" />
 	<key id="$s_partysearchregister_title" value="제목" />
+	<key id="$s_partysearchregister_user_count" value="인원" />
 	<key id="$s_partysearchregister_btn_party_search" value="파티 참가 신청하기" />
 	<key id="$s_partysearchregister_btn_memeber_search" value="파티 모집 신청하기" />
 	<key id="$s_partysearchregister_btn_modify" value="수정" />
@@ -2893,6 +2911,7 @@
 	<key id="$s_ugc_receive_item" value="받기" />
 	<key id="$s_ugc_expand" value="확장하기" />
 	<key id="$s_ugc_cube_btn_buy" value="구매 및 적용하기" />
+	<key id="$s_ugc_cube_bill_title_calculate" value="견적서" />
 	<key id="$s_ugc_meso" value="메소" />
 	<key id="$s_ugc_redmerat" value="레드메럿" />
 	<key id="$s_ugc_merat" value="메럿 합계" />
@@ -3047,6 +3066,11 @@
 	<key id="$s_item_extraction_result" value="외형 추출 결과" />
 	<key id="$s_item_extraction_puton_item" value="외형을 추출할 아이템을 올려주세요!" />
 	<key id="$s_item_extraction_warnning" value="추출 횟수가 남은 아이템만 추출할 수 있습니다.\n추출을 진행하면 대상 장비의 추출 횟수가 차감됩니다.\n추출 횟수가 모두 소진되면 더 이상 추출할 수 없습니다." />
+	<key id="$s_pet_extraction_btn" value="제작하기" feature="GemPetSkin" />
+	<key id="$s_pet_extraction_title" value="펫 스킨 배지 제작 주문서" feature="GemPetSkin" />
+	<key id="$s_pet_extraction_result" value="배지 제작 결과" feature="GemPetSkin" />
+	<key id="$s_pet_extraction_puton_pet" value="외형을 복제할 펫을 올려주세요." feature="GemPetSkin" />
+	<key id="$s_pet_extraction_warnning" value="외형을 복제해서 배지를 만들 수 있습니다.\n원본 펫은 사라지지 않습니다." feature="GemPetSkin" />
 	<key id="$s_mentoring_title" value="멘토링" feature="Mentoring" />
 	<key id="$s_mentoring_shop" value="상점" feature="Mentoring" />
 	<key id="$s_mentoring_party_request" value="파티 초대" feature="Mentoring" />
@@ -3112,27 +3136,27 @@
 	<key id="$s_gallery_title" value="슈반다의 크리스마스 갤러리" />
 	<key id="$s_gallery_card_open_count" value="슈반다의 카드 미션" />
 	<key id="$s_gallery_desc_1" value="2019년 1월 17일 점검 전까지!" locale="KR" />
-	<key id="$s_gallery_desc_1" value="2019년 1월 10일 점검 전까지!" locale="NA" />
 	<key id="$s_gallery_desc_1" value="2019년 1월 10일 점검 전까지!" locale="CN" />
+	<key id="$s_gallery_desc_1" value="2019년 1월 10일 점검 전까지!" locale="NA" />
 	<key id="$s_gallery_desc_2" value="모든 미션을 완료하고 최종 보상을 획득하세요." />
 	<key id="$s_gallery_board_reward_button" value="보상받기" />
 	<key id="$s_gallery_board_reward_title" value="최종 보상" />
 	<key id="$s_item_treasure_map_bag_title" value="감정할 열쇠를 선택하세요." />
 	<key id="$s_snowman_recv_reward" value="선물 받기" />
 	<key id="$s_snowman_complete_reward" value="보상 완료" />
-	<key id="$s_snowman_daily_complete_desc_1" value="조각 케이크 완성\n{0}/{1}" />
-	<key id="$s_snowman_daily_complete_desc_2" value="딸기 케이크 완성\n{0}/{1}" />
-	<key id="$s_snowman_daily_complete_desc_3" value="생일 케이크 완성\n{0}/{1}" />
-	<key id="$s_snowman_accum_complete_desc_1" value="조각 케이크 누적보상\n{0}/{1}" />
-	<key id="$s_snowman_accum_complete_desc_2" value="딸기 케이크 누적보상\n{0}/{1}" />
-	<key id="$s_snowman_accum_complete_desc_3" value="생일 케이크 누적보상\n{0}/{1}" />
-	<key id="$s_snowman_dialog_title" value="케이크 축제" />
-	<key id="$s_snowman_daily_panel_title" value="생크림을 모아 케이크를 완성하세요." />
+	<key id="$s_snowman_daily_complete_desc_1" value="돼지 만두 완성\n{0}/{1}" />
+	<key id="$s_snowman_daily_complete_desc_2" value="슈마이 세트 완성\n{0}/{1}" />
+	<key id="$s_snowman_daily_complete_desc_3" value="모둠 만두 세트 완성\n{0}/{1}" />
+	<key id="$s_snowman_accum_complete_desc_1" value="돼지 만두 누적보상\n{0}/{1}" />
+	<key id="$s_snowman_accum_complete_desc_2" value="슈마이 세트 누적보상\n{0}/{1}" />
+	<key id="$s_snowman_accum_complete_desc_3" value="모둠 만두 세트 누적보상\n{0}/{1}" />
+	<key id="$s_snowman_dialog_title" value="따끈따끈 만두 축제" />
+	<key id="$s_snowman_daily_panel_title" value="영양만점 만두소를 모아 만두를 완성하세요." />
 	<key id="$s_snowman_accum_panel_title" value="누적 보상" />
-	<key id="$s_snowman_event_desc" value="※ 케이크가 완성되면 생크림이 누적되지 않으니 잊지 말고 선물받기를 눌러 주세요.\n※ 케이크 완성 및 보상은 매일 0시 초기화됩니다." />
-	<key id="$s_snowman_help_title" value="케이크 축제 진행 방법" />
-	<key id="$s_snowman_help_desc" value="&lt;FONT color=&apos;#ffd200&apos;&gt;다양한 방법으로 생크림을 모을 수 있습니다.&lt;/FONT&gt;\n ◆ 오늘의 미션 완료 시 확률적으로 획득\n◆ 몬스터 처치, 낚시, 연주  시 확률적으로 획득\n◆ 생활 기술 생산, 제작 시 확률적으로 획득(자동 생산 쿠폰 제외)" />
-	<key id="$s_snowman_help_desc" value="&lt;FONT color=&apos;#ffd200&apos;&gt;다양한 방법으로 생크림을 모을 수 있습니다.&lt;/FONT&gt;\n ◆ 몬스터 처치 시 확률적으로 획득\n◆ 낚시, 연주 시 확률적으로 획득\n ◆ 생활 기술 생산, 제작 시 확률적으로 획득(자동 생산 쿠폰 제외)" locale="KR" />
+	<key id="$s_snowman_event_desc" value="※ 만두가 완성되면 만두소가 누적되지 않으니 잊지 말고 선물받기를 눌러 주세요.\n※ 만두 완성 및 보상은 매일 0시 초기화됩니다." />
+	<key id="$s_snowman_help_title" value="따끈따끈 만두 축제 진행 방법" />
+	<key id="$s_snowman_help_desc" value="&lt;FONT color=&apos;#ffd200&apos;&gt;다양한 방법으로 영양만점 만두소를 모을 수 있습니다.&lt;/FONT&gt;\n ◆ 오늘의 미션 완료 시 확률적으로 획득\n◆ 몬스터 처치, 낚시, 연주  시 확률적으로 획득\n◆ 생활 기술 생산, 제작 시 확률적으로 획득(자동 생산 쿠폰 제외)" />
+	<key id="$s_snowman_help_desc" value="&lt;FONT color=&apos;#ffd200&apos;&gt;다양한 방법으로 영양만점 만두소를 모을 수 있습니다.&lt;/FONT&gt;\n ◆ 몬스터 처치 시 확률적으로 획득\n◆ 낚시, 연주 시 확률적으로 획득\n ◆ 생활 기술 생산, 제작 시 확률적으로 획득(자동 생산 쿠폰 제외)" locale="KR" />
 	<key id="$s_banner_rps" value="가위바위보 해요~!" />
 	<key id="$s_rpsevent_title" value="가위바위보 이벤트" />
 	<key id="$s_rpsevent_reward_button" value="보상받기" />
@@ -3262,13 +3286,31 @@
 	<key id="$s_reconnect_message" value="재접속 중입니다. ({0}/{1})" />
 	<key id="$s_reconnect_cancel" value="재접속 취소" />
 	<key id="$s_reconnect_cancel_tooltip" value="재접속을 중단하고 캐릭터 선택 화면으로 이동합니다." />
+	<key id="$s_blueprint_create_dialog_title" value="블루프린트" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_sub_title" value="블루프린트 제작" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_add_icon" value="+" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_add_image" value="+" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_create" value="만들기" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_cancle" value="취소" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_name" value="이름" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_create_fee" value="지불 금액" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_icon_desc" value="아이템 아이콘으로 사용할 이미지를 선택해 주세요." feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_image_desc" value="블루프린트 미리보기 이미지 선택" feature="Blueprint" />
+	<key id="$s_blueprint_create_dialog_image_desc_detail" value="미리보기 이미지는 384 * 240 사이즈에 최적화 되어있습니다." feature="Blueprint" />
+	<key id="$s_homeresize_dialog_title" value="블루프린트 크기" feature="Blueprint" />
 	<key id="$s_homemenu_dialog_craftmode" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;건설 시작하기/종료하기 (B)&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n단축키를 누르면 건설을 시작하거나 건설을 종료합니다. \n내 집 근처 또는 내 집 실내에서만 건설을 시작할 수 있습니다." />
 	<key id="$s_homemenu_dialog_designmode" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;꾸미기 모드 이동하기/종료하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n꾸미기 모드에서는 건설 자재를 구입하지 않아도 미리 집을 꾸며볼 수 있습니다.\n꾸미기 모드로 이동하거나 꾸미기 모드를 종료할 수 있습니다." />
+	<key id="$s_homemenu_dialog_blueprintmode" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 모드 이동하기/종료하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n블루프린트 모드에서는 다른 유저와 거래할 수 있는 &apos;블루프린트&apos;를 제작할 수 있습니다.\n블루프린트 모드로 이동하거나 블루프린트 모드를 종료할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_designsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;저장하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 꾸며진 모습을 도면으로 저장할 수 있습니다." />
 	<key id="$s_homemenu_dialog_designload" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;불러오기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이미 저장되어 있는 도면을 불러와서 현재 실내에 적용할 수 있습니다." />
 	<key id="$s_homemenu_dialog_screenshot" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스크린샷&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 모습을 스크린샷으로 저장할 수 있습니다. " />
 	<key id="$s_homemenu_dialog_freecamera" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;자유카메라 모드 이동하기/종료하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n자유롭게 카메라를 이동할 수 있는 자유카메라 모드로 이동하거나 종료할 수 있습니다.\n자유카메라는 건설 중에는 사용이 불가능합니다." />
+	<key id="$s_homemenu_dialog_blueprintsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 저장하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 제작 중인 블루프린트의 모습을 중간 저장할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_homepriority" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;실내 권한 설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 집 실내에 대한 다른 유저의 권한을 설정할 수 있습니다. " />
 	<key id="$s_homemenu_dialog_homeattribute" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;실내 속성 설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 속성을 설정할 수 있습니다. \n조명, 배경, 카메라 시점 변경이 가능합니다. " />
 	<key id="$s_homemenu_dialog_homedemolish" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;실내 비우기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내에 설치된 건설 아이템을 모두 회수합니다.\n회수한 아이템은 건설 자재 목록에서 확인할 수 있습니다.\n실내 비우기 도중 밖에 나가거나 기존에 배치된 정보가 변경되면\n실내 비우기가 취소될 수 있습니다.&lt;/FONT&gt;" />
+	<key id="$s_homemenu_dialog_blueprintimport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 불러오기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이미 저장되어 있는 블루프린트 도면을 불러와서 현재 실내에 적용할 수 있습니다." feature="Blueprint" />
+	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 제작하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 꾸며진 모습을 블루프린트 아이템으로 제작할 수 있습니다." feature="Blueprint" />
+	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 샵&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자이너스 샵의 판매 중인 블루프린트를 확인할 수 있습니다." feature="BlueprintMarket" />
+	<key id="$s_sidepopup_fieldwar_enter" value="입장하기" feature="" />
 </ms2>

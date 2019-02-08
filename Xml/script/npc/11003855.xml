@@ -8,4 +8,11 @@
 		<content text="$script:0123221606000988$" />
 		<content text="$script:0123221606000989$" />
 	</script>
+	<select id="0" feature="" locale="NA">
+		<content text="$script:1130175706001007$" />
+	</select>
+	<script randomPick="1" id="30" feature="" locale="NA">
+		<content text="$script:1130175706001008$" />
+		<content text="$script:1130175706001009$" />
+	</script>
 </ms2>

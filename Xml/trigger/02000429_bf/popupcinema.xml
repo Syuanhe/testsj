@@ -15,7 +15,7 @@
     <onExit>
     </onExit>
   </state>
-  
+ 
    <state name="시작연출준비">
     <onEnter>
 
@@ -29,7 +29,7 @@
     <onExit>
     </onExit>
   </state>  
-  
+ 
 
    <state name="전투시작01">
     <onEnter>
@@ -64,11 +64,11 @@
    <state name="전투시작03">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="5000" script="$02000410_BF__PopUpCinema__2$" voice="ko/Monster/60000724"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="8900" script="$02000410_BF__PopUpCinema__2$" voice="ko/Monster/60000724"/>	
 
     </onEnter>
 
-		<condition name="WaitTick" waitTick="5000" > 
+		<condition name="WaitTick" waitTick="8900" > 
 			<transition state="전투시작04" />	 
 		</condition>		
 	
@@ -79,11 +79,11 @@
    <state name="전투시작04">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="5000" script="$02000410_BF__PopUpCinema__3$" voice="ko/Monster/60000725"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="6000" script="$02000410_BF__PopUpCinema__3$" voice="ko/Monster/60000725"/>	
 
     </onEnter>
 
-		<condition name="WaitTick" waitTick="5000" > 
+		<condition name="WaitTick" waitTick="6000" > 
 			<transition state="전투시작05" />	 
 		</condition>		
 	
@@ -94,11 +94,11 @@
    <state name="전투시작05">
     <onEnter>
 
-		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="5000" script="$02000410_BF__PopUpCinema__4$" voice="ko/Npc/00002172"/>	
+		<action name="SideNpcTalk" npcID="11003536" illust="tristan_normal" duration="6500" script="$02000410_BF__PopUpCinema__4$" voice="ko/Npc/00002172"/>	
 
     </onEnter>
 
-		<condition name="DungeonCheckPlayTime" playSeconds="240"> <!--  던전 플레이 시간 체크하는 이 로직은 맵으로 바로 들어가지 말고, 던전로직을 통해서 정식으로 입장해야 작동함-->
+		<condition name="UserValue" key="WorldInvasionScene" value="2"> <!--  인페르녹의 전함이 첫번째 페이즈 끝나고 두번째 페이즈로 이동할 때 인페르녹의 전함 AI로 부터 WorldInvasionScene = 2 신호를 받아서 , WorldInvasionScene2.usm 영상 나오도록 함-->
 		
 			<transition state="두번째팝업영상출력" />
 			
@@ -135,7 +135,7 @@
 		
     </onEnter>
 
-		<condition name="DungeonCheckPlayTime" playSeconds="480"> <!--  던전 플레이 시간 체크하는 이 로직은 맵으로 바로 들어가지 말고, 던전로직을 통해서 정식으로 입장해야 작동함-->
+		<condition name="UserValue" key="WorldInvasionScene" value="3">  <!--  인페르녹의 전함이 두번째 페이즈 끝날 때 인페르녹의 전함 AI로 부터 WorldInvasionScene = 3 신호를 받아서, WorldInvasionScene3.usm 영상 나오도록 함-->
 		
 			<transition state="세번째팝업영상출력" />
 			
@@ -207,7 +207,7 @@
 	
     </onEnter>
 
-		<condition name="DungeonCheckPlayTime" playSeconds="720">  <!--  던전 플레이 시간 체크하는 이 로직은 맵으로 바로 들어가지 말고, 던전로직을 통해서 정식으로 입장해야 작동함-->
+		<condition name="UserValue" key="WorldInvasionScene" value="4">  <!--  인페르녹이 마지막 페이즈가 되면 인페르녹의 AI로 부터 WorldInvasionScene = 4 신호를 받아서, WorldInvasionScene4.usm 영상 나오도록 함-->
 		
 			<transition state="네번째팝업영상출력" />
 			

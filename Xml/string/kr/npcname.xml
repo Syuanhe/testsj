@@ -2146,7 +2146,6 @@
 	<key id="11003136" name="덴덴" feature="KarkarIsland" />
 	<key id="11003137" name="오르데" feature="DarkCastle" />
 	<key id="11003138" name="페스티벌 럭키스핀" feature="Season1" />
-	<key id="11003139" name="바비" feature="Season1" />
 	<key id="11003140" name="호르헤" feature="ContentsGuide02" />
 	<key id="11003141" name="리나" feature="ContentsGuide02" />
 	<key id="11003142" name="미엘" feature="ContentsGuide02" />
@@ -3077,19 +3076,47 @@
 	<key id="11004309" name="몽슈 백작의 혼령" feature="Season1" />
 	<key id="11004310" name="마리엔" feature="Season1" />
 	<key id="11004311" name="마리엔" feature="Season1" />
+	<key id="11004312" name="블리체" feature="Kritias_2018_12" />
+	<key id="11004313" name="콘대르" feature="Kritias_2018_12" />
+	<key id="11004314" name="샤텐" feature="Kritias_2018_12" />
+	<key id="11004315" name="네이린" feature="Kritias_2018_12" />
+	<key id="11004316" name="메이슨" feature="Kritias_2018_12" />
 	<key id="11004317" name="메이플 룰렛" />
 	<key id="11004318" name="파스크" feature="Season1" />
+	<key id="11004319" name="미카" feature="Kritias_2018_12" />
+	<key id="11004320" name="둔바" feature="Kritias_2018_12" />
+	<key id="11004321" name="타라" feature="Kritias_2018_12" />
+	<key id="11004322" name="스타츠" feature="Kritias_2018_12" />
+	<key id="11004323" name="이브" feature="Kritias_2018_12" />
+	<key id="11004324" name="레논" feature="Kritias_2018_12" />
+	<key id="11004325" name="혁이" feature="Kritias_2018_12" />
+	<key id="11004326" name="매니저" feature="Kritias_2018_12" />
+	<key id="11004327" name="구르는 천둥" feature="Kritias_2018_12" />
+	<key id="11004328" name="티나" feature="Kritias_2018_12" />
+	<key id="11004329" name="호르헤" feature="Kritias_2018_12" />
+	<key id="11004330" name="케이틀린" feature="Kritias_2018_12" />
+	<key id="11004331" name="오르데" feature="Kritias_2018_12" />
+	<key id="11004332" name="라네모네" feature="Kritias_2018_12" />
+	<key id="11004333" name="미엘" feature="Kritias_2018_12" />
+	<key id="11004334" name="지그문트" feature="Kritias_2018_12" />
+	<key id="11004335" name="헨리테" feature="Kritias_2018_12" />
+	<key id="11004336" name="아이샤" feature="Kritias_2018_12" />
 	<key id="11004337" name="작은 동굴 입구" feature="JobChange_02" />
 	<key id="11004338" name="정체불명의 빛" feature="JobChange_02" />
 	<key id="11004339" name="라펜타 에너지" feature="JobChange_02" />
 	<key id="11004340" name="라네모네" feature="JobChange_02" />
 	<key id="11004341" name="네이린" feature="JobChange_02" />
+	<key id="11004342" name="포잉" feature="Kritias_2018_12" />
+	<key id="11004343" name="포잉" feature="Kritias_2018_12" />
+	<key id="11004344" name="포잉" feature="Kritias_2018_12" />
 	<key id="11004345" name="에블린" feature="Season1" />
 	<key id="11004346" name="에이든" feature="Season1" />
 	<key id="11004347" name="미아" feature="Season1" />
 	<key id="11004348" name="클라우스" feature="Season1" />
 	<key id="11004349" name="보보스" feature="Season1" />
 	<key id="11004350" name="사람의 목소리" feature="Season1" />
+	<key id="11004351" name="게오르크 저항군 장교" feature="Kritias_2018_12" />
+	<key id="11004352" name="게오르크 저항군 병사" feature="Kritias_2018_12" />
 	<key id="11004353" name="익명의 의뢰인" feature="Season1" />
 	<key id="11004354" name="에블린" feature="Season1" />
 	<key id="11004355" name="에블린" feature="Season1" />
@@ -3122,13 +3149,175 @@
 	<key id="11004382" name="루디아" feature="Season1" />
 	<key id="11004383" name="주디" feature="Season1" />
 	<key id="11004384" name="보리스" feature="Season1" />
+	<key id="11004385" name="클라디아" feature="Kritias_Epic01" />
+	<key id="11004386" name="시만" feature="Kritias_Epic01" />
+	<key id="11004387" name="벤시" feature="Kritias_Epic01" />
+	<key id="11004388" name="라팔" feature="Kritias_Epic01" />
 	<key id="11004389" name="방랑상인의 마차" />
+	<key id="11004390" name="에레브" feature="Kritias_Epic01" />
+	<key id="11004391" name="벤시" feature="Kritias_Epic01" />
+	<key id="11004392" name="클라디아" feature="Kritias_Epic01" />
+	<key id="11004393" name="비롤" feature="Kritias_Epic01" />
+	<key id="11004394" name="라팔" feature="Kritias_Epic01" />
+	<key id="11004395" name="마를레네" feature="Kritias_Epic01" />
+	<key id="11004396" name="시만" feature="Kritias_Epic01" />
+	<key id="11004397" name="레티널" feature="Kritias_Epic01" />
+	<key id="11004398" name="클로" feature="Kritias_Epic01" />
+	<key id="11004399" name="키라" feature="Kritias_Epic01" />
+	<key id="11004400" name="클라디아" feature="Kritias_Epic01" />
+	<key id="11004401" name="마를레네" feature="Kritias_Epic01" />
+	<key id="11004402" name="알론" feature="Kritias_Epic01" />
+	<key id="11004403" name="루아나" feature="Kritias_Epic01" />
+	<key id="11004404" name="오스칼" feature="Kritias_Epic01" />
+	<key id="11004405" name="칼" feature="Kritias_Epic01" />
+	<key id="11004406" name="프레이" feature="Kritias_Epic01" />
+	<key id="11004407" name="블랙아이" feature="Kritias_Epic01" />
+	<key id="11004408" name="블리체" feature="Kritias_Epic01" />
+	<key id="11004409" name="콘대르" feature="Kritias_Epic01" />
+	<key id="11004410" name="샤텐" feature="Kritias_Epic01" />
+	<key id="11004411" name="네이린" feature="Kritias_Epic01" />
+	<key id="11004412" name="메이슨" feature="Kritias_Epic01" />
 	<key id="11004413" name="눈송이 요정" feature="Season1" />
 	<key id="11004414" name="눈송이 요정" feature="Season1" />
 	<key id="11004415" name="눈송이 요정" feature="Season1" />
 	<key id="11004416" name="나나" feature="Season1" />
 	<key id="11004417" name="포리" feature="Season1" />
+	<key id="11004418" name="정체불명의 여자" feature="Kritias_Epic01" />
+	<key id="11004419" name="정체불명의 여자" feature="Kritias_Epic01" />
+	<key id="11004420" name="정체불명의 여자" feature="Kritias_Epic01" />
+	<key id="11004421" name="검은군단 병사" feature="Kritias_Epic01" />
+	<key id="11004422" name="게오르크 장교" feature="Kritias_Epic01" />
+	<key id="11004423" name="게오르크 병사" feature="Kritias_Epic01" />
 	<key id="11004424" name="클라우스" feature="Season1" />
+	<key id="11004425" name="게오르크 병사" feature="Kritias_Epic01" />
+	<key id="11004426" name="게오르크 장교" feature="Kritias_Epic01" />
+	<key id="11004427" name="부상당한 게오르크 병사" feature="Kritias_Epic01" />
+	<key id="11004428" name="검은군단 병사" feature="Kritias_Epic01" />
+	<key id="11004429" name="검은군단 병사" feature="Kritias_Epic01" />
+	<key id="11004430" name="투르카" feature="Kritias_Epic01" />
+	<key id="11004431" name="반겐하임" feature="Kritias_Epic01" />
+	<key id="11004432" name="제시카" feature="Kritias_Epic01" />
+	<key id="11004433" name="키라" feature="Kritias_Epic01" />
+	<key id="11004434" name="블리체" feature="Kritias_Epic01" />
+	<key id="11004435" name="콘대르" feature="Kritias_Epic01" />
+	<key id="11004436" name="샤텐" feature="Kritias_Epic01" />
+	<key id="11004437" name="네이린" feature="Kritias_Epic01" />
+	<key id="11004438" name="메이슨" feature="Kritias_Epic01" />
+	<key id="11004439" name="이름 모를 게오르크 병사" feature="Kritias_Epic01" />
+	<key id="11004440" name="경보 시스템" feature="Kritias_Epic01" />
+	<key id="11004441" name="마리나" feature="TreasureMap01" />
+	<key id="11004442" name="아랑모랑" feature="Kritias_2018_12" />
+	<key id="11004443" name="친절봉사 로크" feature="Kritias_2018_12" />
+	<key id="11004444" name="설앙이" feature="Kritias_2018_12" />
+	<key id="11004445" name="친절봉사 무크" feature="Kritias_2018_12" />
+	<key id="11004446" name="안토리오" feature="MusicInstrument" />
+	<key id="11004447" name="베리링" feature="GemStoneJewelBox_01" />
+	<key id="11004448" name="스텔라 큐브" feature="GemStoneJewelBox_01" />
+	<key id="11004449" name="루미나 큐브" feature="LumiStoneJewelBox_01" />
+	<key id="11004450" name="피코" feature="Kritias_2018_12" />
+	<key id="11004451" name="윌러스" feature="Kritias_2018_12" />
+	<key id="11004452" name="셀레나" feature="Kritias_2018_12" />
+	<key id="11004453" name="카즈" feature="Kritias_2018_12" />
+	<key id="11004454" name="아리까리 상단" feature="AricariDailyQ" />
+	<key id="11004455" name="함대 물품 보급관" feature="FameContents" />
+	<key id="11004456" name="융합로 내실" feature="Kritias_Epic01" />
+	<key id="11004457" name="에비앙" feature="Kritias_2018_12" />
+	<key id="11004458" name="칸타타" feature="Kritias_2018_12" />
+	<key id="11004459" name="파렌니스" feature="Kritias_2018_12" />
+	<key id="11004460" name="바베니 근위병" feature="Kritias_2018_12" />
+	<key id="11004461" name="바베니 근위병" feature="Kritias_2018_12" />
+	<key id="11004462" name="바베니 근위병" feature="Kritias_2018_12" />
+	<key id="11004463" name="바베니 근위병" feature="Kritias_2018_12" />
+	<key id="11004464" name="리치몬드 방위대" feature="Kritias_2018_12" />
+	<key id="11004465" name="리치몬드 수호병" feature="Kritias_2018_12" />
+	<key id="11004466" name="리치몬드 수호병" feature="Kritias_2018_12" />
+	<key id="11004467" name="레니" feature="Kritias_2018_12" />
+	<key id="11004468" name="로탈라" feature="Kritias_2018_12" />
+	<key id="11004469" name="인디카" feature="Kritias_2018_12" />
+	<key id="11004470" name="콜로라타" feature="Kritias_2018_12" />
+	<key id="11004471" name="크립토" feature="Kritias_2018_12" />
+	<key id="11004472" name="코리네" feature="Kritias_2018_12" />
+	<key id="11004473" name="테네루스" feature="Kritias_2018_12" />
+	<key id="11004474" name="웬티드" feature="Kritias_2018_12" />
+	<key id="11004475" name="실론" feature="Kritias_2018_12" />
+	<key id="11004476" name="루드위지아" feature="Kritias_2018_12" />
+	<key id="11004477" name="소란" feature="Kritias_2018_12" />
+	<key id="11004478" name="하니" feature="Kritias_2018_12" />
+	<key id="11004479" name="메릴" feature="Kritias_2018_12" />
+	<key id="11004480" name="스로인" feature="Kritias_2018_12" />
+	<key id="11004481" name="마크란드라" feature="Kritias_2018_12" />
+	<key id="11004482" name="왈라키" feature="Kritias_2018_12" />
+	<key id="11004483" name="카붐바" feature="Kritias_2018_12" />
+	<key id="11004484" name="안브리아" feature="Kritias_2018_12" />
+	<key id="11004485" name="그라실리스" feature="Kritias_2018_12" />
+	<key id="11004486" name="비비파라" feature="Kritias_2018_12" />
+	<key id="11004487" name="디버시" feature="Kritias_2018_12" />
+	<key id="11004488" name="오란다" feature="Kritias_2018_12" />
+	<key id="11004489" name="레펜스" feature="Kritias_2018_12" />
+	<key id="11004490" name="발렌세" feature="Kritias_2018_12" />
+	<key id="11004491" name="카라디" feature="Kritias_2018_12" />
+	<key id="11004492" name="판타날" feature="Kritias_2018_12" />
+	<key id="11004493" name="바코바" feature="Kritias_2018_12" />
+	<key id="11004494" name="푸실라" feature="Kritias_2018_12" />
+	<key id="11004495" name="주울 " feature="Kritias_2018_12" />
+	<key id="11004496" name="데니소니" feature="Kritias_2018_12" />
+	<key id="11004497" name="엑셀로디" feature="Kritias_2018_12" />
+	<key id="11004498" name="라이튼" feature="Kritias_2018_12" />
+	<key id="11004499" name="모리셔스" feature="Kritias_2018_12" />
+	<key id="11004500" name="훈련병" feature="Kritias_2018_12" />
+	<key id="11004501" name="교관" feature="Kritias_2018_12" />
+	<key id="11004502" name="순찰병" feature="Kritias_2018_12" />
+	<key id="11004503" name="바베니 순찰병" feature="Kritias_2018_12" />
+	<key id="11004504" name="노만" feature="Kritias_2018_12" />
+	<key id="11004505" name="만슈타 경계병" feature="Kritias_2018_12" />
+	<key id="11004506" name="만슈타 경계병" feature="Kritias_2018_12" />
+	<key id="11004507" name="만슈타 경계병" feature="Kritias_2018_12" />
+	<key id="11004508" name="만슈타 경계병" feature="Kritias_2018_12" />
+	<key id="11004509" name="만슈타 경계병" feature="Kritias_2018_12" />
+	<key id="11004510" name="만슈타 순찰병" feature="Kritias_2018_12" />
+	<key id="11004511" name="만슈타 순찰병" feature="Kritias_2018_12" />
+	<key id="11004512" name="만슈타 조종사" feature="Kritias_2018_12" />
+	<key id="11004513" name="만슈타 포병" feature="Kritias_2018_12" />
+	<key id="11004514" name="만슈타 보급병" feature="Kritias_2018_12" />
+	<key id="11004515" name="만슈타 운전병" feature="Kritias_2018_12" />
+	<key id="11004516" name="만슈타 병사" feature="Kritias_2018_12" />
+	<key id="11004517" name="스페니" feature="Kritias_2018_12" />
+	<key id="11004518" name="트레판" feature="Kritias_2018_12" />
+	<key id="11004519" name="핀다넬" feature="Kritias_2018_12" />
+	<key id="11004520" name="마요" feature="Kritias_2018_12" />
+	<key id="11004521" name="마유" feature="Kritias_2018_12" />
+	<key id="11004522" name="착해진 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004523" name="짓궂은 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004524" name="온화한 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004525" name="소심한 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004526" name="얌전한 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004527" name="리쳐드" feature="Kritias_2018_12" />
+	<key id="11004528" name="아리엘" feature="Kritias_2018_12" />
+	<key id="11004529" name="브리" feature="Kritias_2018_12" />
+	<key id="11004530" name="레이카" feature="Kritias_2018_12" />
+	<key id="11004531" name="조사 대원" feature="Kritias_2018_12" />
+	<key id="11004532" name="조사 대원" feature="Kritias_2018_12" />
+	<key id="11004533" name="조사 대원" feature="Kritias_2018_12" />
+	<key id="11004534" name="조사 대원" feature="Kritias_2018_12" />
+	<key id="11004535" name="전초기지 순찰병" feature="Kritias_2018_12" />
+	<key id="11004536" name="전초기지 순찰병" feature="Kritias_2018_12" />
+	<key id="11004537" name="전초기지 방어병" feature="Kritias_2018_12" />
+	<key id="11004538" name="전초기지 방어병" feature="Kritias_2018_12" />
+	<key id="11004539" name="전초기지 방어병" feature="Kritias_2018_12" />
+	<key id="11004540" name="전초기지 방어병" feature="Kritias_2018_12" />
+	<key id="11004541" name="누엘" feature="Kritias_2018_12" />
+	<key id="11004542" name="케이안" feature="Kritias_2018_12" />
+	<key id="11004543" name="브록" feature="Kritias_2018_12" />
+	<key id="11004544" name="안내원 솔저레토" feature="Kritias_2018_12" />
+	<key id="11004545" name="결박된 클라디아" feature="Kritias_2018_12" />
+	<key id="11004546" name="파괴된 라펜타 추출기" feature="Kritias_2018_12" />
+	<key id="11004547" name="부상당한 게오르크 장교" feature="Kritias_Epic01" />
+	<key id="11004548" name="잠자는 라플레시아" feature="Kritias_2018_12" />
+	<key id="11004549" name="리치몬드 포병" feature="Kritias_2018_12" />
+	<key id="11004550" name="집무실 보초병" feature="Kritias_2018_12" />
+	<key id="11004551" name="집무실 보초병" feature="Kritias_2018_12" />
+	<key id="11004552" name="쇼콜라" feature="Season1" />
+	<key id="11004553" name="각성한 클라디아" feature="Kritias_Epic01" />
 	<key id="11400001" name="버섯 보트" feature="SurvivalContents01" />
 	<key id="11400002" name="버섯 열기구" feature="SurvivalContents01" />
 	<key id="11200000" name="그레이" feature="GuildHouse01" />
@@ -3491,6 +3680,14 @@
 	<key id="21001016" name="주니어 나태버섯" feature="SurvivalContents01" />
 	<key id="21001017" name="좀비버섯" feature="SurvivalContents01" />
 	<key id="21001018" name="축복의 슬라임" feature="SurvivalContents01" />
+	<key id="21001030" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001031" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001032" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001033" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001034" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001035" name="포잉" feature="Kritias_2018_12" />
+	<key id="21001036" name="검은군단 크리스탈" feature="Fieldwar01" />
+	<key id="21001037" name="검은군단 소형 크리스탈" feature="Fieldwar01" />
 	<key id="21090021" name="도굴꾼 트윙코" />
 	<key id="21090023" name="도굴꾼 트윙키" feature="Season1" />
 	<key id="21090032" name="보이드 골렘" feature="Season2" />
@@ -4548,6 +4745,29 @@
 	<key id="21501270" name="베놈 스피릿" feature="LapentaDungeon" />
 	<key id="21501271" name="베놈 스피릿" feature="LapentaDungeon" />
 	<key id="21501272" name="베놈 스피릿" feature="LapentaDungeon" />
+	<key id="21501280" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501281" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501282" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501283" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501284" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501285" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501290" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501291" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501292" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501293" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501294" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501295" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501296" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501300" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501301" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501302" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501303" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501304" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501305" name="졸병 발록" feature="Kritias_Balrog01" />
+	<key id="21501310" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501311" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501312" name="크림슨 발록" feature="Kritias_Balrog01" />
+	<key id="21501313" name="크림슨 발록" feature="Kritias_Balrog01" />
 	<key id="21501330" name="졸병 발록" feature="CrimsonBalrog01" />
 	<key id="21501331" name="졸병 발록" feature="CrimsonBalrog01" />
 	<key id="21501332" name="졸병 발록" feature="CrimsonBalrog01" />
@@ -4561,6 +4781,7 @@
 	<key id="21501341" name="크림슨 발록" feature="CrimsonBalrog01" />
 	<key id="21501342" name="크림슨 발록" feature="CrimsonBalrog01" />
 	<key id="21501343" name="크림슨 발록" feature="CrimsonBalrog01" />
+	<key id="21501354" name="인페르녹" feature="CrimsonBalrog01" />
 	<key id="21501360" name="졸병 발록" feature="CrimsonBalrog01" />
 	<key id="21501361" name="졸병 발록" feature="CrimsonBalrog01" />
 	<key id="21501362" name="졸병 발록" feature="CrimsonBalrog01" />
@@ -4613,7 +4834,7 @@
 	<key id="21800969" name="함선 대포" feature="CrimsonBalrog01" />
 	<key id="21801000" name="함선 석궁" feature="CrimsonBalrog01" />
 	<key id="21801001" name="함선 석궁" feature="CrimsonBalrog01" />
-	<key id="21802001" name="블랙로브 석궁" />
+	<key id="21802001" name="블랙로브 석궁" feature="Kritias_2018_12" />
 	<key id="21800044" name="카트반" feature="Season1" />
 	<key id="21800064" name="레논" feature="Season1" />
 	<key id="21800072" name="벨라" feature="Season1" />
@@ -4624,6 +4845,11 @@
 	<key id="21801407" name="쿠레스" feature="Season3" />
 	<key id="21802407" name="쿠레스" feature="Season3" />
 	<key id="21803407" name="쿠레스" feature="Season3" />
+	<key id="21803500" name="에네르 입자포" feature="Kritias_Balrog01" />
+	<key id="21803501" name="에네르 입자포" feature="Kritias_Balrog01" />
+	<key id="21803502" name="에네르 입자포" feature="Kritias_Balrog01" />
+	<key id="21803503" name="에네르 입자포" feature="Kritias_Balrog01" />
+	<key id="21803510" name="에네르 입자포" feature="Kritias_Balrog01" />
 	<key id="21800409" name="에레스" feature="Season3" />
 	<key id="21801409" name="에레스" feature="Season3" />
 	<key id="21802409" name="에레스" feature="Season3" />
@@ -4666,6 +4892,12 @@
 	<key id="21810080" name="콘대르" feature="FameContents_EP1_01" />
 	<key id="21810081" name="샤텐" feature="FameContents_EP1_01" />
 	<key id="21810082" name="메이슨" feature="FameContents_EP1_01" />
+	<key id="21810090" name="경비병" feature="Kritias_Balrog01" />
+	<key id="21810091" name="경비병" feature="Kritias_Balrog01" />
+	<key id="21810092" name="경비병" feature="Kritias_Balrog01" />
+	<key id="21810093" name="경비병" feature="Kritias_Balrog01" />
+	<key id="21810095" name="경비병" feature="Kritias_Balrog01" />
+	<key id="21810096" name="게오르크 저항군 " feature="Kritias_Balrog01" />
 	<key id="21900035" name="버크" />
 	<key id="21900036" name="듀얼버크" />
 	<key id="21900066" name="메린" feature="Season1" />
@@ -4878,8 +5110,9 @@
 	<key id="23000025" name="혼돈의 바포메트" feature="Season2" />
 	<key id="23000026" name="냉혈한 바포메트" feature="Season3" />
 	<key id="23090005" name="발록" feature="Season3" />
+	<key id="23090006" name="발록" feature="Kritias_Balrog01" />
 	<key id="23090066" name="스핑거" feature="KarkarIsland" />
-	<key id="23000071" name="자쿰" />
+	<key id="23000071" name="자쿰" feature="Zakum01" />
 	<key id="23000076" name="파풀라투스" feature="EventPapulatus" />
 	<key id="23000077" name="파풀라투스" feature="Season2" />
 	<key id="23000078" name="룬의 거신 누타만" feature="NutaNuta" />
@@ -4889,6 +5122,21 @@
 	<key id="23000082" name="칸두라" feature="Kandura" />
 	<key id="23000083" name="비에른" feature="SnowKingdom" />
 	<key id="23000201" name="엠페리온" />
+	<key id="23000301" name="페이카" feature="Kritias_Paika01" />
+	<key id="23000302" name="제단" feature="Kritias_Paika01" />
+	<key id="23000303" name="제단" feature="Kritias_Paika01" />
+	<key id="23000304" name="제단" feature="Kritias_Paika01" />
+	<key id="23000305" name="검은군단 탐식이" feature="Kritias_Paika01" />
+	<key id="23000306" name="검은군단 파수견" feature="Kritias_Paika01" />
+	<key id="23000307" name="검은군단 광전사" feature="Kritias_Paika01" />
+	<key id="23000308" name="검은군단 마법사" feature="Kritias_Paika01" />
+	<key id="23400071" name="자쿰" feature="Zakum01" />
+	<key id="23401071" name="자쿰의 첫 번째 팔" feature="Zakum01" />
+	<key id="23402071" name="자쿰의 두 번째 팔" feature="Zakum01" />
+	<key id="23403071" name="자쿰의 세 번째 팔" feature="Zakum01" />
+	<key id="23404071" name="자쿰의 네 번째 팔" feature="Zakum01" />
+	<key id="23405071" name="자쿰의 다섯 번째 팔" feature="Zakum01" />
+	<key id="23406071" name="자쿰의 여섯 번째 팔" feature="Zakum01" />
 	<key id="23000088" name="핑크빈" feature="PinkBean01" />
 	<key id="23000090" name="인페르녹" />
 	<key id="23000091" name="인페르녹의 전함" />
@@ -4912,6 +5160,17 @@
 	<key id="23000146" name="인페르녹의 전함" />
 	<key id="23000147" name="인페르녹의 전함" />
 	<key id="23000918" name="자이언트 터틀_테스트" />
+	<key id="23001001" name="기간티카" feature="Gigantica01" />
+	<key id="23001002" name="기간티카" feature="Gigantica01" />
+	<key id="23001003" name="기간티카" feature="Gigantica01" />
+	<key id="23001004" name="기간티카" feature="Gigantica01" />
+	<key id="23001005" name="기간티카" feature="Gigantica01" />
+	<key id="23001006" name="기간티카" feature="Gigantica01" />
+	<key id="23001007" name="침식된 팬텀 디스트로이어" feature="Gigantica01" />
+	<key id="23001008" name="침식된 기계메이드" feature="Gigantica01" />
+	<key id="23001009" name="침식된 정찰기계" feature="Gigantica01" />
+	<key id="23001010" name="침식된 기계병정" feature="Gigantica01" />
+	<key id="23001011" name="기간티카 레이저 공격_2" feature="Gigantica01" />
 	<key id="23001100" name="최후의 바야르_테스트" />
 	<key id="23100006" name="잊혀진 바야르" feature="DungeonBoss_4P" />
 	<key id="23100007" name="그림자술사 데보라크" feature="Season1" />
@@ -5602,6 +5861,218 @@
 	<key id="25010002" name="레인보우 슬라임" feature="ShadowCataclysm" />
 	<key id="25010003" name="레인보우 슬라임" feature="ShadowCataclysm" />
 	<key id="25010004" name="비틀린 공간의 미믹" feature="ShadowCataclysm" />
+	<key id="25020001" name="검은군단 MK-I-S" feature="Kritias_2018_12" />
+	<key id="25020002" name="검은군단 MK-I-B" feature="Kritias_2018_12" />
+	<key id="25020003" name="맹독 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25020004" name="맹독 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25020005" name="맹독 포잉" feature="Kritias_2018_12" />
+	<key id="25020101" name="타이렌 돌격병" feature="Kritias_2018_12" />
+	<key id="25020102" name="떠도는 터렛 MK-I" feature="Kritias_2018_12" />
+	<key id="25020103" name="타이렌 전투병" feature="Kritias_2018_12" />
+	<key id="25020104" name="검은군단 암살자" feature="Kritias_2018_12" />
+	<key id="25020105" name="검은군단 마도사" feature="Kritias_2018_12" />
+	<key id="25020106" name="떠도는 가드 MK-II" feature="Kritias_2018_12" />
+	<key id="25020107" name="검은군단 특공대" feature="Kritias_2018_12" />
+	<key id="25020108" name="검은군단 탐식이" feature="Kritias_2018_12" />
+	<key id="25020201" name="고장난 가드 MK-II" feature="Kritias_2018_12" />
+	<key id="25020202" name="노후된 터렛 MK-I" feature="Kritias_2018_12" />
+	<key id="25020203" name="해킹당한 MK-I-S" feature="Kritias_2018_12" />
+	<key id="25020204" name="잠식당한 MK-I-W" feature="Kritias_2018_12" />
+	<key id="25020205" name="켄타리온 정찰병" feature="Kritias_2018_12" />
+	<key id="25020206" name="해킹당한 켄타리온" feature="Kritias_2018_12" />
+	<key id="25020301" name="끈적이 포잉" feature="Kritias_2018_12" />
+	<key id="25020302" name="매끈한 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25020303" name="영혼 없는 아룸" feature="Kritias_2018_12" />
+	<key id="25020304" name="미끈한 포잉" feature="Kritias_2018_12" />
+	<key id="25020305" name="잠식된 아룸" feature="Kritias_2018_12" />
+	<key id="25020306" name="검은군단 하급 암살자" feature="Kritias_2018_12" />
+	<key id="25020307" name="굶주린 탐식이" feature="Kritias_2018_12" />
+	<key id="25020308" name="검은군단 파괴자" feature="Kritias_2018_12" />
+	<key id="25020401" name="고장난 타이렌 MK-I-S" feature="Kritias_2018_12" />
+	<key id="25020402" name="망가진 타이렌 MK-I-B" feature="Kritias_2018_12" />
+	<key id="25020403" name="고물 터렛 MK-I" feature="Kritias_2018_12" />
+	<key id="25020404" name="타이렌 돌격병사" feature="Kritias_2018_12" />
+	<key id="25020405" name="강화 타이렌 전투병" feature="Kritias_2018_12" />
+	<key id="25020406" name="타이렌 마도병사" feature="Kritias_2018_12" />
+	<key id="25020501" name="겁먹은 튼튼모랑" feature="Kritias_2018_12" />
+	<key id="25020502" name="화난 슝슝모랑" feature="Kritias_2018_12" />
+	<key id="25020503" name="더러운 버럭이 모랑" feature="Kritias_2018_12" />
+	<key id="25020504" name="오로라 포잉" feature="Kritias_2018_12" />
+	<key id="25020505" name="오로라 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25020506" name="케르베스 무법자" feature="Kritias_2018_12" />
+	<key id="25020507" name="케르베스 전사" feature="Kritias_2018_12" />
+	<key id="25020601" name="망가진 가드 MK-III" feature="Kritias_2018_12" />
+	<key id="25020602" name="날렵한 케르베스 약탈자" feature="Kritias_2018_12" />
+	<key id="25020603" name="날렵한 케르베스 파괴자" feature="Kritias_2018_12" />
+	<key id="25020604" name="까칠한 격수 근위대" feature="Kritias_2018_12" />
+	<key id="25020605" name="단단한 켄타리온" feature="Kritias_2018_12" />
+	<key id="25020606" name="진지한 근위기사" feature="Kritias_2018_12" />
+	<key id="25020701" name="검은군단 중급 암살자" feature="Kritias_2018_12" />
+	<key id="25020702" name="검은군단 중급 마도사" feature="Kritias_2018_12" />
+	<key id="25020703" name="사나운 검은군단 파수견" feature="Kritias_2018_12" />
+	<key id="25020704" name="즐거운 포잉" feature="Kritias_2018_12" />
+	<key id="25020705" name="피곤한 아룸" feature="Kritias_2018_12" />
+	<key id="25020706" name="굶주린 메카티라노" feature="Kritias_2018_12" />
+	<key id="25020707" name="검은군단 상급 파괴자" feature="Kritias_2018_12" />
+	<key id="25020801" name="낡은 터렛 MK-I" feature="Kritias_2018_12" />
+	<key id="25020802" name="부식된 MK-I-S" feature="Kritias_2018_12" />
+	<key id="25020803" name="오래된 MK I-B" feature="Kritias_2018_12" />
+	<key id="25020804" name="침식된 가드 MK-II" feature="Kritias_2018_12" />
+	<key id="25020805" name="고장난 골리온" feature="Kritias_2018_12" />
+	<key id="25020806" name="정신나간 헤비휴롯" feature="Kritias_2018_12" />
+	<key id="25020807" name="미쳐버린 킬러휴롯" feature="Kritias_2018_12" />
+	<key id="25020901" name="힘센 튼튼모랑" feature="Kritias_2018_12" />
+	<key id="25020902" name="재빠른 슝슝모랑" feature="Kritias_2018_12" />
+	<key id="25020903" name="분노한 포잉" feature="Kritias_2018_12" />
+	<key id="25020904" name="예민한 꿈트리" feature="Kritias_2018_12" />
+	<key id="25020905" name="욕심쟁이 포잉" feature="Kritias_2018_12" />
+	<key id="25020906" name="크림슨 발록" feature="Kritias_2018_12" />
+	<key id="25021001" name="무뚝뚝한 솔저레토" feature="Kritias_2018_12" />
+	<key id="25021002" name="강화된 케르베스 약탈자" feature="Kritias_2018_12" />
+	<key id="25021003" name="강화된 케르베스 파괴자" feature="Kritias_2018_12" />
+	<key id="25021004" name="그린 타이렌 돌격병" feature="Kritias_2018_12" />
+	<key id="25021005" name="그린 타이렌 전투병" feature="Kritias_2018_12" />
+	<key id="25021006" name="단단한 나이트레토" feature="Kritias_2018_12" />
+	<key id="25021101" name="게으른 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25021102" name="중독된 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25021103" name="망가진 메카캐논" feature="Kritias_2018_12" />
+	<key id="25021104" name="재빠른 메카랩터" feature="Kritias_2018_12" />
+	<key id="25021105" name="사나운 메카랩터" feature="Kritias_2018_12" />
+	<key id="25021106" name="포악한 메카티라노" feature="Kritias_2018_12" />
+	<key id="25021201" name="난폭한 골리온" feature="Kritias_2018_12" />
+	<key id="25021202" name="검은군단 골리온" feature="Kritias_2018_12" />
+	<key id="25021203" name="게으른 아룸" feature="Kritias_2018_12" />
+	<key id="25021204" name="날카로운 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25021205" name="망가진 나이트레토" feature="Kritias_2018_12" />
+	<key id="25021301" name="퍼플 타이렌 돌격병" feature="Kritias_2018_12" />
+	<key id="25021302" name="퍼플 타이렌 강화병" feature="Kritias_2018_12" />
+	<key id="25021303" name="퍼플 타이렌 전투병" feature="Kritias_2018_12" />
+	<key id="25021304" name="퍼플 타이렌 근위대" feature="Kritias_2018_12" />
+	<key id="25021305" name="퍼플 타이렌 근위기사" feature="Kritias_2018_12" />
+	<key id="25021306" name="강화형 헤비휴롯" feature="Kritias_2018_12" />
+	<key id="25021307" name="강화형 킬러휴롯" feature="Kritias_2018_12" />
+	<key id="25021308" name="검은군단 탐식이" feature="Kritias_2018_12" />
+	<key id="25021309" name="퍼플 타이렌 근위마도병" feature="Kritias_2018_12" />
+	<key id="25021401" name="졸린 꿈트리" feature="Kritias_2018_12" />
+	<key id="25021402" name="분노의 꿈트리" feature="Kritias_2018_12" />
+	<key id="25021403" name="그린 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25021404" name="우울한 포잉" feature="Kritias_2018_12" />
+	<key id="25021405" name="병든 포잉" feature="Kritias_2018_12" />
+	<key id="25021406" name="강화 타이렌 경비 대장" feature="Kritias_2018_12" />
+	<key id="25021407" name="블루 타이렌 경비병" feature="Kritias_2018_12" />
+	<key id="25021408" name="경비용 타이렌 MK-I-D" feature="Kritias_2018_12" />
+	<key id="25021501" name="검은군단 터렛 MK-I" feature="Kritias_2018_12" />
+	<key id="25021502" name="중독된 케르베스 행동대장" feature="Kritias_2018_12" />
+	<key id="25021503" name="중독된 케르베스 파괴자" feature="Kritias_2018_12" />
+	<key id="25021504" name="고상한 검투 근위대" feature="Kritias_2018_12" />
+	<key id="25021505" name="우아한 마법 근위대" feature="Kritias_2018_12" />
+	<key id="25021506" name="에고웨폰 전사" feature="Kritias_2018_12" />
+	<key id="25021507" name="에고웨폰 궁수" feature="Kritias_2018_12" />
+	<key id="25021508" name="에고웨폰 마법사" feature="Kritias_2018_12" />
+	<key id="25021509" name="에고웨폰 정예병" feature="Kritias_2018_12" />
+	<key id="25021510" name="신경과민 근위장교" feature="Kritias_2018_12" />
+	<key id="25021601" name="맹독 케르베스 약탈자" feature="Kritias_2018_12" />
+	<key id="25021602" name="맹독 케르베스 파괴자" feature="Kritias_2018_12" />
+	<key id="25021603" name="맹독 케르베스 무법자" feature="Kritias_2018_12" />
+	<key id="25021604" name="맹독 케르베스 행동대장" feature="Kritias_2018_12" />
+	<key id="25021605" name="메카티라노 MK-II" feature="Kritias_2018_12" />
+	<key id="25021606" name="메카랩터 MK-II" feature="Kritias_2018_12" />
+	<key id="25021701" name="신비한 메카티라노" feature="Kritias_2018_12" />
+	<key id="25021702" name="블루 가드 MK-I" feature="Kritias_2018_12" />
+	<key id="25021703" name="블루 검투 근위대" feature="Kritias_2018_12" />
+	<key id="25021704" name="블루 격수 근위대" feature="Kritias_2018_12" />
+	<key id="25021705" name="블루 마법 근위대" feature="Kritias_2018_12" />
+	<key id="25021706" name="조사 중인 근위장교" feature="Kritias_2018_12" />
+	<key id="25021801" name="자이언트 꿈트리" feature="Kritias_2018_12" />
+	<key id="25021802" name="중독된 꿈트리" feature="Kritias_2018_12" />
+	<key id="25021803" name="블루 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25021804" name="똑똑한 버럭모랑" feature="Kritias_2018_12" />
+	<key id="25021805" name="덩치 큰 포잉" feature="Kritias_2018_12" />
+	<key id="25021901" name="다크 MK-I-W" feature="Kritias_2018_12" />
+	<key id="25021902" name="다크 켄타리온" feature="Kritias_2018_12" />
+	<key id="25021903" name="다크 MK-I-B" feature="Kritias_2018_12" />
+	<key id="25021904" name="다크 MK-I-H" feature="Kritias_2018_12" />
+	<key id="25021905" name="매서운 킬러휴롯" feature="Kritias_2018_12" />
+	<key id="25021906" name="사나운 헤비휴롯" feature="Kritias_2018_12" />
+	<key id="25022001" name="탐욕의 탐식이" feature="Kritias_2018_12" />
+	<key id="25022002" name="검은군단 상급 마도사" feature="Kritias_2018_12" />
+	<key id="25022003" name="검은군단 상급 암살자" feature="Kritias_2018_12" />
+	<key id="25022004" name="거센 검은군단 파수견" feature="Kritias_2018_12" />
+	<key id="25022005" name="검은군단 파괴자" feature="Kritias_2018_12" />
+	<key id="25022101" name="레드 검투 근위대" feature="Kritias_2018_12" />
+	<key id="25022102" name="레드 마법 근위대" feature="Kritias_2018_12" />
+	<key id="25022103" name="레드 타이렌 근위기사" feature="Kritias_2018_12" />
+	<key id="25022104" name="나이트레토" feature="Kritias_2018_12" />
+	<key id="25022105" name="솔저레토" feature="Kritias_2018_12" />
+	<key id="25022106" name="골리온 지휘관" feature="Kritias_Epic01" />
+	<key id="25022107" name="근위대 경호대장" feature="Kritias_Epic01" />
+	<key id="25022108" name="근위대 조사대장" feature="Kritias_Epic01" />
+	<key id="25022109" name="검은군단 MK-I-S" feature="Kritias_Epic01" />
+	<key id="25022110" name="검은군단 MK-I-W" feature="Kritias_Epic01" />
+	<key id="25022111" name="정예 헤비휴롯" feature="Kritias_2018_12" />
+	<key id="25022112" name="정예 킬러휴롯" feature="Kritias_2018_12" />
+	<key id="25022113" name="포레인 맹독 놀라쥬" feature="Kritias_2018_12" />
+	<key id="25022114" name="포레인 맹독 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25022115" name="매끈한 동굴 쿠우쿠" feature="Kritias_2018_12" />
+	<key id="25022116" name="레드 격수 근위대" feature="Kritias_2018_12" />
+	<key id="25100001" name="검은군단 악귀" feature="Fieldwar01" />
+	<key id="25100002" name="검은군단 사령" feature="Fieldwar01" />
+	<key id="25100003" name="검은군단 악령" feature="Fieldwar01" />
+	<key id="25100004" name="쫄 자폭용 더미" feature="Fieldwar01" />
+	<key id="25100005" name="검은군단 군단장" feature="Fieldwar01" />
+	<key id="25100006" name="검은군단 탐식이" feature="Fieldwar01" />
+	<key id="25100007" name="검은군단 파수견" feature="Fieldwar01" />
+	<key id="25100008" name="검은군단 약탈자" feature="Fieldwar01" />
+	<key id="25100009" name="검은군단 파괴자" feature="Fieldwar01" />
+	<key id="25100010" name="중간 보스1" feature="Fieldwar01" />
+	<key id="25100011" name="중간 보스2" feature="Fieldwar01" />
+	<key id="25100012" name="중간 보스3" feature="Fieldwar01" />
+	<key id="25100013" name="보스 무적 해제용" feature="Fieldwar01" />
+	<key id="25100014" name="버프쫄 스킬용 더미" feature="Fieldwar01" />
+	<key id="25100015" name="검은군단 소환체" feature="Fieldwar01" />
+	<key id="25100016" name="검은군단 에네르 조각" feature="Fieldwar01" />
+	<key id="25100017" name="검은군단 마법사" feature="Fieldwar01" />
+	<key id="25100018" name="검은군단 마도사" feature="Fieldwar01" />
+	<key id="25100019" name="군단전 쫄 마법사3" feature="Fieldwar01" />
+	<key id="25100101" name="검은군단 약탈자" feature="Fieldwar01" />
+	<key id="25100102" name="검은군단 마도사" feature="Fieldwar01" />
+	<key id="25100103" name="검은군단 파괴자" feature="Fieldwar01" />
+	<key id="25100104" name="쫄 자폭용 더미" feature="Fieldwar01" />
+	<key id="25100105" name="검은군단 군단장" feature="Fieldwar01" />
+	<key id="25100106" name="검은군단 탐식이" feature="Fieldwar01" />
+	<key id="25100107" name="검은군단 마도사" feature="Fieldwar01" />
+	<key id="25100108" name="검은군단 파수견" feature="Fieldwar01" />
+	<key id="25100109" name="검은군단 파괴자" feature="Fieldwar01" />
+	<key id="25100110" name="검은군단 크림슨 트라이던트" feature="Fieldwar01" />
+	<key id="25100111" name="검은군단 라바나이트" feature="Fieldwar01" />
+	<key id="25100112" name="중간 보스3" feature="Fieldwar01" />
+	<key id="25100113" name="보스 무적 해제용" feature="Fieldwar01" />
+	<key id="25100114" name="버프쫄 스킬용 더미" feature="Fieldwar01" />
+	<key id="25100115" name="검은군단 소환체" feature="Fieldwar01" />
+	<key id="25100116" name="검은군단 에네르 조각" feature="Fieldwar01" />
+	<key id="25100117" name="검은군단 마법사" feature="Fieldwar01" />
+	<key id="25100118" name="군단전 쫄 마법사2" feature="Fieldwar01" />
+	<key id="25100119" name="군단전 쫄 마법사3" feature="Fieldwar01" />
+	<key id="25100201" name="군단전 쫄1" feature="Fieldwar01" />
+	<key id="25100202" name="군단전 쫄2" feature="Fieldwar01" />
+	<key id="25100203" name="군단전 쫄3" feature="Fieldwar01" />
+	<key id="25100204" name="군단전 쫄4" feature="Fieldwar01" />
+	<key id="25100205" name="군단전 쫄5" feature="Fieldwar01" />
+	<key id="25100206" name="군단전 쫄6" feature="Fieldwar01" />
+	<key id="25100207" name="쫄 자폭용 더미" feature="Fieldwar01" />
+	<key id="25100208" name="군단전 왕쫄1" feature="Fieldwar01" />
+	<key id="25100209" name="보스" feature="Fieldwar01" />
+	<key id="25100210" name="파일런" feature="Fieldwar01" />
+	<key id="25100211" name="미니 파일런" feature="Fieldwar01" />
+	<key id="25100212" name="군단전 쫄 마법사1" feature="Fieldwar01" />
+	<key id="25200001" name="검은군단 마도사" feature="Kritias_Paika01" />
+	<key id="25200002" name="검은군단 탐식이" feature="Kritias_Paika01" />
+	<key id="25200003" name="검은군단 파수견" feature="Kritias_Paika01" />
+	<key id="25200004" name="검은군단 파괴자" feature="Kritias_Paika01" />
+	<key id="25200005" name="검은군단 약탈자" feature="Kritias_Paika01" />
+	<key id="25200006" name="덩치3" feature="Kritias_Paika01" />
+	<key id="25200007" name="에네르 응축기" feature="Kritias_Paika01" />
+	<key id="25200008" name="에네르 응축기 자폭용 더미" feature="Kritias_Paika01" />
 	<key id="26000001" name="RED팀 대포" />
 	<key id="26000002" name="BLUE팀 대포" />
 	<key id="27000001" name="할로윈의 전령" />

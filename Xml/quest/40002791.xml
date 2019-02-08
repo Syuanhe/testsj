@@ -9,7 +9,7 @@
 			<start npc="11004338" />
 			<complete npc="11004338" />
 			<acceptReward />
-			<completeReward exp="2067175" relativeExp="" money="10000" karma="0" lu="0">
+			<completeReward exp="2283447" relativeExp="" money="10000" karma="0" lu="0">
 				<globalEssentialJobItem code="0" rank="0" count="0" />
 			</completeReward>
 			<progressMap progressMap="52000188" />

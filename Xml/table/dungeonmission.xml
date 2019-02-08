@@ -210,8 +210,9 @@
 	<DungeonMission id="24094003" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="59999113" value2="24120001" maxScore="500" />
 	<DungeonMission id="24094003" feature="FameChallengeDungeon" type="DamageToNpc" value1="19655922" value2="24120001" maxScore="500" />
 	<DungeonMission id="24094004" feature="FameChallengeDungeon" type="LastHitNpc" value1="24120001" maxScore="500" />
-	<DungeonMission id="24094005" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24094005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24094006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24094008" feature="FameChallengeDungeon" locale="NA" type="DamageToNpc" value1="4359935" value2="24120001" maxScore="500" />
 	<DungeonMission id="24095001" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="4827507" maxScore="500" />
 	<DungeonMission id="24095001" feature="FameChallengeDungeon" type="DamageToNpc" value1="1581508" maxScore="500" />
 	<DungeonMission id="24095002" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="19310027" maxScore="500" />
@@ -309,6 +310,16 @@
 	<DungeonMission id="23040005" feature="LapentaDungeon" type="Trigger" maxScore="400" />
 	<DungeonMission id="23040006" feature="LapentaDungeon" type="PlayTime" value1="0" value2="705" maxScore="500" />
 	<DungeonMission id="23040007" feature="LapentaDungeon" type="PlayTime" value1="0" value2="450" maxScore="250" />
+	<DungeonMission id="23050000" feature="Kritias_Balrog01" type="LastHitNpc" value1="23090006" maxScore="400" />
+	<DungeonMission id="23050001" feature="Kritias_Balrog01" type="PlayTime" value1="0" value2="480" maxScore="200" />
+	<DungeonMission id="23050002" feature="Kritias_Balrog01" type="PlayTime" value1="0" value2="240" maxScore="150" />
+	<DungeonMission id="23050003" feature="Kritias_Balrog01" type="DeathCount" maxScore="150" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23050004" feature="Kritias_Balrog01" type="DamageBySkill" value1="99999750" maxScore="100" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23060000" feature="Kritias_Paika01" type="LastHitNpc" value1="23000301" maxScore="400" />
+	<DungeonMission id="23060001" feature="Kritias_Paika01" type="PlayTime" value1="0" value2="480" maxScore="200" />
+	<DungeonMission id="23060002" feature="Kritias_Paika01" type="PlayTime" value1="0" value2="240" maxScore="150" />
+	<DungeonMission id="23060003" feature="Kritias_Paika01" type="DeathCount" maxScore="150" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23060004" feature="Kritias_Paika01" type="DamageBySkill" value1="49905208" maxScore="100" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="29006001" feature="EventPapulatus" type="LastHitNpc" value1="23000076" maxScore="1400" applyCount="1" />
 	<DungeonMission id="29006002" feature="EventPapulatus" type="PlayTime" value1="0" value2="510" maxScore="700" />
 	<DungeonMission id="29006003" feature="EventPapulatus" type="PlayTime" value1="0" value2="360" maxScore="410" />

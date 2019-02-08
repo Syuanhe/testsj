@@ -51,6 +51,9 @@
 			<condition type="interact_object" code="10001348" value="1">
 				<navi type="interact" code="10001348" map="02000269" />
 			</condition>
+			<condition type="npc" code="21000121,21000122" value="20">
+				<navi type="npc" code="21000121,21000122" map="02000269" />
+			</condition>
 		</quest>
 	</environment>
 </ms2>

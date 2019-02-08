@@ -18,7 +18,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -35,7 +35,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="1.5" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -51,7 +51,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -68,7 +68,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="1.68" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.36" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -84,7 +84,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -101,7 +101,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="1.86" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="3.72" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -117,7 +117,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -134,7 +134,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.04" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.08" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -150,7 +150,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -167,7 +167,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.22" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.44" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -183,7 +183,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -200,7 +200,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.4" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="4.8" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -216,7 +216,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -233,7 +233,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.58" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="5.16" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -249,7 +249,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -266,7 +266,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.76" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="5.52" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -282,7 +282,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -299,7 +299,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="2.94" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="5.88" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -315,7 +315,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -332,7 +332,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.12" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="6.24" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -348,7 +348,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -365,7 +365,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.3" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="6.6" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>
@@ -381,7 +381,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="10300231,10300281" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -398,7 +398,7 @@
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="cylinder" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="300" width="0" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
-				<damageProperty count="1" hand="0" rate="3.48" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
+				<damageProperty count="1" hand="0" rate="6.96" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="0" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
 		</motion>
 	</level>

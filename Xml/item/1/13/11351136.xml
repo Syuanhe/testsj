@@ -40,7 +40,7 @@
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
 		<tool itemPreset="11300745" itemPresetPath="1/13/" />
-		<option title="11351136" static="11351136" random="11351136" constant="11351136" staticMakeType="2" randomMakeType="1" constantMakeType="2" optionRandom="100" optionLevelFactor="40" optionID="113010101" />
+		<option title="11351136" static="11351136" random="11351136" constant="11351136" staticMakeType="0" randomMakeType="1" constantMakeType="2" optionRandom="100" optionLevelFactor="40" optionID="113010101" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />

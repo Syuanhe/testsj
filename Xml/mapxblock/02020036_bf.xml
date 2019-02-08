@@ -2,13 +2,13 @@
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
 	<minimap>
-		<frustum left="-14342.5" right="14342.5" top="8964.08" bottom="-8964.08" near="10" far="100000" ortho="true" />
-		<screen left="0" right="1920" top="0" bottom="1200" />
-		<image left="451" right="1475" top="44" bottom="1068" name="./Data/Resource/Image/Map/Minimap/02020029.dds" icon="" />
-		<camera position="-4062.955078, -4770.768066, 10850.384766" rotation="90.000000, 45.000000, -45.000000" />
-		<edit zoomfactor="7.47007" />
+		<frustum left="-11827.3" right="11827.3" top="7392.06" bottom="-7392.06" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1680" top="0" bottom="1050" />
+		<image left="368" right="1392" top="12" bottom="1036" name="./Data/Resource/Image/Map/Minimap/02020036.dds" icon="" />
+		<camera position="-4346.371094, -4487.352539, 10850.384766" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="7.04006" />
 	</minimap>
-	<fog color="70,60,80" near="2000" far="22000" />
+	<fog color="70,60,80" near="0" far="17000" />
 	<heightfog color="160,0,0" upper="3600" lower="-1694" percentage="92" />
 	<clientProperty bgDay="SW_BG_Dark_D.dds" />
 </ms2>

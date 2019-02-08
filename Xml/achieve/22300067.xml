@@ -4,7 +4,7 @@
 	<achieves id="22300067" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,quest" feature="FameChallengeDungeon">
 		<grade value="1">
 			<condition type="quest" code="93000181" value="1" target="" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

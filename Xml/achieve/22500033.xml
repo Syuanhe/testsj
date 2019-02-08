@@ -7,4 +7,10 @@
 			<reward type="shop_build" code="50770010" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22500033" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,fame" feature="FameContents_EP1_02" locale="NA">
+		<grade value="1">
+			<condition type="quest" code="91000075" value="1" target="" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

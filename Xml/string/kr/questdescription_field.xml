@@ -777,4 +777,75 @@
 	<quest questID="72000733" name="망원경으로 $map:02000496$ 풍경 감상하기" desc="" manual="망원경으로 $map:02000496$ 풍경 감상하기" complete="" count="1" feature="EyeOfLapentaQuest" locale="" locking="0" />
 	<quest questID="72000734" name="날아서 이동하기" desc="" manual="날아서 이동하기" complete="" count="1" feature="EyeOfLapentaQuest" locale="" locking="0" />
 	<quest questID="72000735" name="탈것을 타고 신나게 달리기" desc="" manual="탈것을 타고 신나게 달리기" complete="" count="1" feature="EyeOfLapentaQuest" locale="" locking="0" />
+	<quest questID="72000736" name="울어 10마리 잡기" desc="" manual="울어 10마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000737" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000738" name="괴이한 토착생물 퇴치하기" desc="" manual="괴이한 토착생물 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000739" name="부서지는 물건 10개 부수기" desc="" manual="부서지는 물건 10개 부수기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000740" name="최신 패션 자랑하기" desc="" manual="최신 패션 자랑하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000741" name="쉬는 날에도 쉴 수 없는 군인 찾기" desc="" manual="쉬는 날에도 쉴 수 없는 군인 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000742" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000743" name="다이나마이트 카트 이용하기" desc="" manual="다이나마이트 카트 이용하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000744" name="고장나거나 노후된 기계 병사 처치하기" desc="" manual="고장나거나 노후된 기계 병사 처치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000745" name="블루밍 플라워 몽 1마리 잡기" desc="" manual="블루밍 플라워 몽 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000746" name="크리티아스의 기술력 알아보기" desc="" manual="크리티아스의 기술력 알아보기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000747" name="쿠우쿠 퇴치하기" desc="" manual="쿠우쿠 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000748" name="블루밍 플라워 망 3마리 잡기" desc="" manual="블루밍 플라워 망 3마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000749" name="케이트 시드의 의미 찾기" desc="" manual="케이트 시드의 의미 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000750" name="신도시의 가치 알아보기" desc="" manual="신도시의 가치 알아보기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000751" name="대륙을 넘나드는 인기 알아보기" desc="" manual="대륙을 넘나드는 인기 알아보기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000752" name="팬클럽 가입 제안 받기" desc="" manual="팬클럽 가입 제안 받기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000753" name="항아리 열매 던지기" desc="" manual="항아리 열매 던지기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000754" name="부서지는 물건 10개 부수기" desc="" manual="부서지는 물건 10개 부수기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000755" name="타이렌 병사들 무찌르기" desc="" manual="타이렌 병사들 무찌르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000756" name="핑크 리프 젤리피쉬 5마리 잡기" desc="" manual="핑크 리프 젤리피쉬 5마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000757" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000758" name="생물학자 찾기" desc="" manual="생물학자 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000759" name="토착 생물 퇴치하기" desc="" manual="토착 생물 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000760" name="검은군단 처치하기" desc="" manual="검은군단 처치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000761" name="숨어있는 탐사대원 찾기" desc="" manual="숨어있는 탐사대원 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000762" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000763" name="케르베스 퇴치하기" desc="" manual="케르베스 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000764" name="탐사대원 찾기" desc="" manual="탐사대원 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000765" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000766" name="태엽 망치 휘두르기" desc="" manual="태엽 망치 휘두르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000767" name="연구원 찾기" desc="" manual="연구원 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000768" name="쏘우헤드 1마리 잡기" desc="" manual="쏘우헤드 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000769" name="$npcName:25021106$ 파괴하기" desc="" manual="$npcName:25021106$ 파괴하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000770" name="$npc:11004497$의 연구 확인하기" desc="" manual="$npc:11004497$의 연구 확인하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000771" name="거대한 나뭇잎 휘두르기" desc="" manual="거대한 나뭇잎 휘두르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000772" name="부서지는 물건 20개 부수기" desc="" manual="부서지는 물건 20개 부수기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000773" name="성격 나쁜 모랑 쫓아내기" desc="" manual="성격 나쁜 모랑 쫓아내기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000774" name="은행잎 가오리 5마리 잡기" desc="" manual="은행잎 가오리 5마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000775" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000776" name="크리티아스 건축물 조사하기" desc="" manual="크리티아스 건축물 조사하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000777" name="피콕 프릴리아 3마리 잡기" desc="" manual="피콕 프릴리아 3마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000778" name="문학의 기원 찾기" desc="" manual="문학의 기원 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000779" name="고릴라를 닮은 것 같은 로보트 파괴하기" desc="" manual="고릴라를 닮은 것 같은 로보트 파괴하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000780" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000781" name="잠자는 병사 깨우기" desc="" manual="잠자는 병사 깨우기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000782" name="연구원 응원하기" desc="" manual="연구원 응원하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000783" name="캐슬 피쉬 1마리 잡기" desc="" manual="캐슬 피쉬 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000784" name="에네르의 유용성 확인하기" desc="" manual="에네르의 유용성 확인하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000785" name="타이렌 근위대 무찌르기" desc="" manual="타이렌 근위대 무찌르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000786" name="슬라임 피쉬 1마리 잡기" desc="" manual="슬라임 피쉬 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000787" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000788" name="케르베스 쫓아내기" desc="" manual="케르베스 쫓아내기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000789" name="타이렌 병사들 무찌르기" desc="" manual="타이렌 병사들 무찌르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000790" name="토착 생물 퇴치하기" desc="" manual="토착 생물 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000791" name="크리티아스 생태 탐사하기" desc="" manual="크리티아스 생태 탐사하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000792" name="에네르 스팅 레이 5마리 잡기" desc="" manual="에네르 스팅 레이 5마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000793" name="거대 구조물 탐사하기" desc="" manual="거대 구조물 탐사하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000794" name="케르베스 쫓아내기" desc="" manual="케르베스 쫓아내기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000795" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000796" name="영양섭취가 과한 꿈트리 퇴치하기" desc="" manual="영양섭취가 과한 꿈트리 퇴치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000797" name="식물학자 찾기" desc="" manual="식물학자 찾기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000798" name="라바 돔 1마리 잡기" desc="" manual="라바 돔 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000799" name="황금 보물상자 열기" desc="" manual="황금 보물상자 열기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000800" name="대규모 로봇 생산 시설 정찰하기" desc="" manual="대규모 로봇 생산 시설 정찰하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000801" name="데빌 슬라임 피쉬 1마리 잡기" desc="" manual="데빌 슬라임 피쉬 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000802" name="귀엽지만 탐욕스러운 탐식이 처치하기" desc="" manual="귀엽지만 탐욕스러운 탐식이 처치하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000803" name="검은군단의 만행 확인하기" desc="" manual="검은군단의 만행 확인하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000804" name="보석 물고기 1마리 잡기" desc="" manual="보석 물고기 1마리 잡기" complete="" count="1" feature="Fishing" locale="" locking="0" />
+	<quest questID="72000805" name="크리티아스 어류의 생태 확인하기" desc="" manual="크리티아스 어류의 생태 확인하기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
+	<quest questID="72000806" name="타이렌 근위대 무찌르기" desc="" manual="타이렌 근위대 무찌르기" complete="" count="1" feature="Kritias_2018_12" locale="" locking="0" />
 </ms2>

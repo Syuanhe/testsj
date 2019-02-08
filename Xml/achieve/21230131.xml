@@ -4,7 +4,7 @@
 	<achieves id="21230131" account="0" icon="hero_battle_2.png" noticePercent="50" locking="" categoryTag="combat,boss" feature="LapentaDungeon">
 		<grade value="1">
 			<condition type="dungeon_first_clear" code="27000001,27001001,27002001" value="3" target="" />
-			<reward type="skillPoint" code="0" value="1" rank="1" subJobLevel="1" />
+			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

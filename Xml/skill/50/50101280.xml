@@ -98,6 +98,7 @@
 				<conditionSkill splash="0" level="1" skillID="50004511" skillTarget="1" skillOwner="1" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 					<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 						<stat />
+						<target hasBuffID="50004551" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" eventSkillID="" eventEffectID="" />
 					</beginCondition>
 				</conditionSkill>
 				<conditionSkill splash="1" level="4" skillID="99999905" skillTarget="0" skillOwner="0" delay="1" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">

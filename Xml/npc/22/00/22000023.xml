@@ -8,7 +8,7 @@
 		<speed rotation="720" walk="250" run="500" />
 		<distance avoid="140" sight="400" sightHeightUP="300" sightHeightDown="0" customLastSightRadius="2500" customLastSightHeightUp="525" customLastSightHeightDown="225" />
 		<skill ids="50000356" levels="1" priorities="1" probs="100" coolDown="0" />
-		<additionalEffect codes="70000174" levels="1" group="" />
+		<additionalEffect codes="" levels="" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
@@ -33,7 +33,7 @@
 		<speed rotation="720" walk="250" run="500" />
 		<distance avoid="140" sight="400" sightHeightUP="300" sightHeightDown="0" customLastSightRadius="2500" customLastSightHeightUp="525" customLastSightHeightDown="225" />
 		<skill ids="50000356" levels="1" priorities="1" probs="100" coolDown="0" />
-		<additionalEffect codes="70000174" levels="1" group="" />
+		<additionalEffect codes="" levels="" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />

@@ -42,5 +42,6 @@
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />
 		<housing filter="100" categoryTag="" categoryIndex="10000" trophyID="0" trophyLevel="1" interiorLevel="1" />
+		<Shop systemShopID="208" />
 	</environment>
 </ms2>

@@ -116,4 +116,5 @@
 	<condition npcID="11003809" moveFieldID="" movePortalID="" jobCode="" />
 	<condition npcID="11004318" moveFieldID="" movePortalID="" jobCode="" />
 	<condition npcID="11200000" moveFieldID="" movePortalID="" jobCode="" />
+	<condition npcID="11004451" moveFieldID="" movePortalID="" jobCode="" />
 </ms2>

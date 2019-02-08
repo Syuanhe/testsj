@@ -134,6 +134,12 @@
 	<key id="267" feature="UGCMapRenewal2" />
 	<key id="268" feature="MagicScroll01" />
 	<key id="269" feature="GuildRaid01" />
+	<key id="271" feature="JobChange_02" />
+	<key id="272" feature="Kritias_2018_12" />
+	<key id="273" feature="Fieldwar01" />
+	<key id="274" feature="Gigantica01" />
+	<key id="275" feature="Kritias_Paika01" />
+	<key id="276" feature="Kritias_Balrog01" />
 	<key id="297" name="일일 퀘스트" />
 	<key id="298" name="푸른 별" feature="Season3" />
 	<key id="299" name="붉은 별" feature="Season3" />

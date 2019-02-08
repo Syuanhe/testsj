@@ -53,6 +53,12 @@
 			<condition type="talk_in" code="11000024" target="43">
 				<navi type="npc" code="11000024" map="02000062" />
 			</condition>
+			<condition type="talk_in" code="11000025" target="66">
+				<navi type="npc" code="11000025" map="02000062" />
+			</condition>
+			<condition type="talk_in" code="11000106" target="54">
+				<navi type="npc" code="11000106" map="02000062" />
+			</condition>
 		</quest>
 	</environment>
 </ms2>

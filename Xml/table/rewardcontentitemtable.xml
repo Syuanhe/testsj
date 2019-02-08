@@ -985,4 +985,9 @@
 			<item itemID="20302178" count="1" grade="4" />
 		</v>
 	</table>
+	<table itemTableID="126">
+		<v>
+			<item itemID="30001216" count="100" grade="1" />
+		</v>
+	</table>
 </ms2>

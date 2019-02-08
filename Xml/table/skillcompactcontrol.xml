@@ -30,6 +30,9 @@
 		<skill id="10100201" feature="JobChange_01" />
 		<skill id="10100211" feature="JobChange_01" />
 		<skill id="10100221" feature="JobChange_01" />
+		<skill id="10100261" feature="JobChange_02" repeatCount="2" />
+		<skill id="10100281" feature="JobChange_02" />
+		<skill id="10100291" feature="JobChange_02" />
 	</job>
 	<job code="20" baseSP="50">
 		<skill id="10200091" />
@@ -49,6 +52,9 @@
 		<skill id="10200221" feature="JobChange_01" />
 		<skill id="10200251" feature="JobChange_01" repeatCount="1" />
 		<skill id="10200201" feature="JobChange_01" repeatCount="2" />
+		<skill id="10200271" feature="JobChange_02" />
+		<skill id="10200281" feature="JobChange_02" repeatCount="7" />
+		<skill id="10200291" feature="JobChange_02" />
 	</job>
 	<job code="30" baseSP="60">
 		<skill id="10300081" />
@@ -71,6 +77,8 @@
 		<skill id="10300231" feature="JobChange_01" />
 		<skill id="10300251" feature="JobChange_01" />
 		<skill id="10300221" feature="JobChange_01" repeatCount="2" />
+		<skill id="10300271" feature="JobChange_02" />
+		<skill id="10300291" feature="JobChange_02" repeatCount="1" />
 	</job>
 	<job code="40" baseSP="70">
 		<skill id="10400151" />
@@ -93,6 +101,8 @@
 		<skill id="10400241" feature="JobChange_01" />
 		<skill id="10400221" feature="JobChange_01" repeatCount="2" />
 		<skill id="10400171" feature="JobChange_01" repeatCount="2" />
+		<skill id="10400271" feature="JobChange_02" />
+		<skill id="10400291" feature="JobChange_02" />
 	</job>
 	<job code="50" baseSP="65">
 		<skill id="10500151" />
@@ -113,6 +123,9 @@
 		<skill id="10500191" feature="JobChange_01" />
 		<skill id="10500211" feature="JobChange_01" repeatCount="9" />
 		<skill id="10500171" feature="JobChange_01" repeatCount="9" />
+		<skill id="10500261" feature="JobChange_02" />
+		<skill id="10500281" feature="JobChange_02" />
+		<skill id="10500291" feature="JobChange_02" />
 	</job>
 	<job code="60" baseSP="35">
 		<skill id="10600081" />
@@ -135,6 +148,10 @@
 		<skill id="10600201" feature="JobChange_01" />
 		<skill id="10600171" feature="JobChange_01" repeatCount="4" />
 		<skill id="10600181" feature="JobChange_01" repeatCount="4" />
+		<skill id="10600261" feature="JobChange_02" />
+		<skill id="10600271" feature="JobChange_02" />
+		<skill id="10600281" feature="JobChange_02" />
+		<skill id="10600291" feature="JobChange_02" repeatCount="4" />
 	</job>
 	<job code="70" baseSP="50">
 		<skill id="10700041" />
@@ -154,6 +171,9 @@
 		<skill id="10700211" feature="JobChange_01" />
 		<skill id="10700200" feature="JobChange_01" repeatCount="1" />
 		<skill id="10700181" feature="JobChange_01" repeatCount="2" />
+		<skill id="10700191" feature="JobChange_01" />
+		<skill id="10700271" feature="JobChange_02" repeatCount="7" />
+		<skill id="10700281" feature="JobChange_02" />
 	</job>
 	<job code="80" baseSP="45">
 		<skill id="10800071" />
@@ -177,6 +197,10 @@
 		<skill id="10800181" feature="JobChange_01" />
 		<skill id="10800171" feature="JobChange_01" repeatCount="1" />
 		<skill id="10800201" feature="JobChange_01" />
+		<skill id="10800261" feature="JobChange_02" repeatCount="1" />
+		<skill id="10800271" feature="JobChange_02" />
+		<skill id="10800281" feature="JobChange_02" repeatCount="2" />
+		<skill id="10800291" feature="JobChange_02" />
 	</job>
 	<job code="90" baseSP="70">
 		<skill id="10900051" />
@@ -200,6 +224,9 @@
 		<skill id="10900171" feature="JobChange_01" repeatCount="1" />
 		<skill id="10900201" feature="JobChange_01" repeatCount="2" />
 		<skill id="10900211" feature="JobChange_01" repeatCount="2" />
+		<skill id="10900261" feature="JobChange_02" />
+		<skill id="10900281" feature="JobChange_02" />
+		<skill id="10900291" feature="JobChange_02" />
 	</job>
 	<job code="100" baseSP="1">
 		<skill id="11000051" />
@@ -224,6 +251,8 @@
 		<skill id="11000241" feature="JobChange_01" />
 		<skill id="11000271" feature="JobChange_01" />
 		<skill id="11000261" feature="JobChange_01" repeatCount="2" />
+		<skill id="11000321" feature="JobChange_02" />
+		<skill id="11000341" feature="JobChange_02" />
 	</job>
 	<job code="110" baseSP="90">
 		<skill id="11100061" repeatCount="3" />
@@ -248,5 +277,7 @@
 		<skill id="11100191" feature="JobChange_01" />
 		<skill id="11100221" feature="JobChange_01" repeatCount="2" />
 		<skill id="11100181" feature="JobChange_01" repeatCount="2" />
+		<skill id="11100261" feature="JobChange_02" />
+		<skill id="11100311" feature="JobChange_02" />
 	</job>
 </ms2>

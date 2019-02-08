@@ -5,7 +5,7 @@
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="1" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="1" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -28,13 +28,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="1.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="2" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="2" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -57,13 +57,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="2.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="3" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="3" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -86,13 +86,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="3.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="4" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="4" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -115,13 +115,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="4.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="5" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="5" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -144,13 +144,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="5.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="6" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="6" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -173,13 +173,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="6.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="7" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="7" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -202,13 +202,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="7.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="8" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="8" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -231,13 +231,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="8.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="9" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="9" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -260,13 +260,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="9.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="10" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="10" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -289,13 +289,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="10.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="11" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="11" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -318,13 +318,13 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="11.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 	<level feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat />
 		</beginCondition>
-		<BasicProperty level="12" accountEffect="0" group="0" buffType="1" buffSubType="16" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
+		<BasicProperty level="12" accountEffect="0" group="0" buffType="1" buffSubType="1" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="0" intervalTick="0" delayTick="0" keepCondition="99" resetCondition="0" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="1" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="0" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
@@ -347,6 +347,6 @@
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
 		<ShieldProperty hpValue="0" hpByTargetMaxHP="0" />
 		<MesoGuardProperty defensiveDamageRate="0" consumeMoneyByDamage="0" />
-		<InvokeEffectProperty skillID="0" effectID="10400183" types="3" values="12.000000" rates="1.000000" />
+		<InvokeEffectProperty skillID="0" effectID="10400182" types="3" values="5000.000000" rates="0.000000" />
 	</level>
 </ms2>

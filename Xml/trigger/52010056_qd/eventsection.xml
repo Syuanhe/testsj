@@ -112,7 +112,7 @@
 			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="91000054" arg3="1"> 
 				<transition state="의외의효능_화면끔"/>
 			</condition>					
-			<condition name="WaitTick" waitTick="2000" >
+			<condition name="WaitTick" waitTick="4000" >
 				<transition state="인트로_지역소개"/>
 			</condition>		
 		<onExit>

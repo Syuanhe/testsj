@@ -3513,6 +3513,1092 @@
 			<item id="30001072,5,160" />
 		</require>
 	</exchange>
+	<exchange id="20001154" type="trading" tradableCountDeduction="1">
+		<receipe id="20001154" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301283" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001155" type="trading" tradableCountDeduction="1">
+		<receipe id="20001155" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301284" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001156" type="trading" tradableCountDeduction="1">
+		<receipe id="20001156" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301285" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001157" type="trading" tradableCountDeduction="1">
+		<receipe id="20001157" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301286" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001158" type="trading" tradableCountDeduction="1">
+		<receipe id="20001158" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301287" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001159" type="trading" tradableCountDeduction="1">
+		<receipe id="20001159" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301288" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001160" type="trading" tradableCountDeduction="1">
+		<receipe id="20001160" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301289" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001161" type="trading" tradableCountDeduction="1">
+		<receipe id="20001161" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301290" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001162" type="trading" tradableCountDeduction="1">
+		<receipe id="20001162" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301291" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001163" type="trading" tradableCountDeduction="1">
+		<receipe id="20001163" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301292" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001164" type="trading" tradableCountDeduction="1">
+		<receipe id="20001164" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301293" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001165" type="trading" tradableCountDeduction="1">
+		<receipe id="20001165" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601167" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001166" type="trading" tradableCountDeduction="1">
+		<receipe id="20001166" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601168" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001167" type="trading" tradableCountDeduction="1">
+		<receipe id="20001167" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601169" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001168" type="trading" tradableCountDeduction="1">
+		<receipe id="20001168" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601170" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001169" type="trading" tradableCountDeduction="1">
+		<receipe id="20001169" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601171" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001170" type="trading" tradableCountDeduction="1">
+		<receipe id="20001170" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601172" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001171" type="trading" tradableCountDeduction="1">
+		<receipe id="20001171" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601173" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001172" type="trading" tradableCountDeduction="1">
+		<receipe id="20001172" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601174" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001173" type="trading" tradableCountDeduction="1">
+		<receipe id="20001173" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601175" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001174" type="trading" tradableCountDeduction="1">
+		<receipe id="20001174" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601176" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001175" type="trading" tradableCountDeduction="1">
+		<receipe id="20001175" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601177" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001176" type="trading" tradableCountDeduction="1">
+		<receipe id="20001176" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701263" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001177" type="trading" tradableCountDeduction="1">
+		<receipe id="20001177" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701264" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001178" type="trading" tradableCountDeduction="1">
+		<receipe id="20001178" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701265" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001179" type="trading" tradableCountDeduction="1">
+		<receipe id="20001179" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701266" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001180" type="trading" tradableCountDeduction="1">
+		<receipe id="20001180" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701267" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001181" type="trading" tradableCountDeduction="1">
+		<receipe id="20001181" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701268" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001182" type="trading" tradableCountDeduction="1">
+		<receipe id="20001182" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701269" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001183" type="trading" tradableCountDeduction="1">
+		<receipe id="20001183" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701270" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001184" type="trading" tradableCountDeduction="1">
+		<receipe id="20001184" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701271" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001185" type="trading" tradableCountDeduction="1">
+		<receipe id="20001185" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701272" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001186" type="trading" tradableCountDeduction="1">
+		<receipe id="20001186" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701273" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001187" type="trading" tradableCountDeduction="1">
+		<receipe id="20001187" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301294" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001188" type="trading" tradableCountDeduction="1">
+		<receipe id="20001188" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301295" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001189" type="trading" tradableCountDeduction="1">
+		<receipe id="20001189" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301296" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001190" type="trading" tradableCountDeduction="1">
+		<receipe id="20001190" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301297" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001191" type="trading" tradableCountDeduction="1">
+		<receipe id="20001191" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301298" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001192" type="trading" tradableCountDeduction="1">
+		<receipe id="20001192" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301299" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001193" type="trading" tradableCountDeduction="1">
+		<receipe id="20001193" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301300" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001194" type="trading" tradableCountDeduction="1">
+		<receipe id="20001194" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301301" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001195" type="trading" tradableCountDeduction="1">
+		<receipe id="20001195" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301302" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001196" type="trading" tradableCountDeduction="1">
+		<receipe id="20001196" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301303" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001197" type="trading" tradableCountDeduction="1">
+		<receipe id="20001197" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301304" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001293,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001198" type="trading" tradableCountDeduction="1">
+		<receipe id="20001198" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601178" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001199" type="trading" tradableCountDeduction="1">
+		<receipe id="20001199" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601179" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001200" type="trading" tradableCountDeduction="1">
+		<receipe id="20001200" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601180" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001201" type="trading" tradableCountDeduction="1">
+		<receipe id="20001201" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601181" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001202" type="trading" tradableCountDeduction="1">
+		<receipe id="20001202" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601182" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001203" type="trading" tradableCountDeduction="1">
+		<receipe id="20001203" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601183" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001204" type="trading" tradableCountDeduction="1">
+		<receipe id="20001204" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601184" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001205" type="trading" tradableCountDeduction="1">
+		<receipe id="20001205" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601185" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001206" type="trading" tradableCountDeduction="1">
+		<receipe id="20001206" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601186" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001207" type="trading" tradableCountDeduction="1">
+		<receipe id="20001207" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601187" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001208" type="trading" tradableCountDeduction="1">
+		<receipe id="20001208" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601188" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001292,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001209" type="trading" tradableCountDeduction="1">
+		<receipe id="20001209" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701274" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001210" type="trading" tradableCountDeduction="1">
+		<receipe id="20001210" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701275" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001211" type="trading" tradableCountDeduction="1">
+		<receipe id="20001211" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701276" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001212" type="trading" tradableCountDeduction="1">
+		<receipe id="20001212" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701277" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001213" type="trading" tradableCountDeduction="1">
+		<receipe id="20001213" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701278" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001214" type="trading" tradableCountDeduction="1">
+		<receipe id="20001214" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701279" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001215" type="trading" tradableCountDeduction="1">
+		<receipe id="20001215" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701280" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001216" type="trading" tradableCountDeduction="1">
+		<receipe id="20001216" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701281" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001217" type="trading" tradableCountDeduction="1">
+		<receipe id="20001217" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701282" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001218" type="trading" tradableCountDeduction="1">
+		<receipe id="20001218" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701283" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001219" type="trading" tradableCountDeduction="1">
+		<receipe id="20001219" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701284" rank="4" count="1" />
+		<require meso="5000">
+			<item id="30001291,4,300" />
+		</require>
+	</exchange>
+	<exchange id="20001220" type="trading" tradableCountDeduction="1">
+		<receipe id="20001220" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301316" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001221" type="trading" tradableCountDeduction="1">
+		<receipe id="20001221" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301317" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001222" type="trading" tradableCountDeduction="1">
+		<receipe id="20001222" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301318" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001223" type="trading" tradableCountDeduction="1">
+		<receipe id="20001223" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301319" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001224" type="trading" tradableCountDeduction="1">
+		<receipe id="20001224" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301320" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001225" type="trading" tradableCountDeduction="1">
+		<receipe id="20001225" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301321" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001226" type="trading" tradableCountDeduction="1">
+		<receipe id="20001226" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301322" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001227" type="trading" tradableCountDeduction="1">
+		<receipe id="20001227" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301323" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001228" type="trading" tradableCountDeduction="1">
+		<receipe id="20001228" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301324" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001229" type="trading" tradableCountDeduction="1">
+		<receipe id="20001229" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301325" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001230" type="trading" tradableCountDeduction="1">
+		<receipe id="20001230" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301326" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001231" type="trading" tradableCountDeduction="1">
+		<receipe id="20001231" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601200" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001232" type="trading" tradableCountDeduction="1">
+		<receipe id="20001232" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601201" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001233" type="trading" tradableCountDeduction="1">
+		<receipe id="20001233" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601202" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001234" type="trading" tradableCountDeduction="1">
+		<receipe id="20001234" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601203" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001235" type="trading" tradableCountDeduction="1">
+		<receipe id="20001235" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601204" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001236" type="trading" tradableCountDeduction="1">
+		<receipe id="20001236" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601205" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001237" type="trading" tradableCountDeduction="1">
+		<receipe id="20001237" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601206" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001238" type="trading" tradableCountDeduction="1">
+		<receipe id="20001238" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601207" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001239" type="trading" tradableCountDeduction="1">
+		<receipe id="20001239" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601208" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001240" type="trading" tradableCountDeduction="1">
+		<receipe id="20001240" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601209" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001241" type="trading" tradableCountDeduction="1">
+		<receipe id="20001241" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601210" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001242" type="trading" tradableCountDeduction="1">
+		<receipe id="20001242" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701296" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001243" type="trading" tradableCountDeduction="1">
+		<receipe id="20001243" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701297" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001244" type="trading" tradableCountDeduction="1">
+		<receipe id="20001244" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701298" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001245" type="trading" tradableCountDeduction="1">
+		<receipe id="20001245" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701299" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001246" type="trading" tradableCountDeduction="1">
+		<receipe id="20001246" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701300" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001247" type="trading" tradableCountDeduction="1">
+		<receipe id="20001247" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701301" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001248" type="trading" tradableCountDeduction="1">
+		<receipe id="20001248" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701302" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001249" type="trading" tradableCountDeduction="1">
+		<receipe id="20001249" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701303" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001250" type="trading" tradableCountDeduction="1">
+		<receipe id="20001250" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701304" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001251" type="trading" tradableCountDeduction="1">
+		<receipe id="20001251" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701305" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001252" type="trading" tradableCountDeduction="1">
+		<receipe id="20001252" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701306" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001253" type="trading" tradableCountDeduction="1">
+		<receipe id="20001253" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301327" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001254" type="trading" tradableCountDeduction="1">
+		<receipe id="20001254" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301328" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001255" type="trading" tradableCountDeduction="1">
+		<receipe id="20001255" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301329" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001256" type="trading" tradableCountDeduction="1">
+		<receipe id="20001256" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301330" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001257" type="trading" tradableCountDeduction="1">
+		<receipe id="20001257" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301331" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001258" type="trading" tradableCountDeduction="1">
+		<receipe id="20001258" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301332" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001259" type="trading" tradableCountDeduction="1">
+		<receipe id="20001259" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301333" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001260" type="trading" tradableCountDeduction="1">
+		<receipe id="20001260" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301334" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001261" type="trading" tradableCountDeduction="1">
+		<receipe id="20001261" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301335" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001262" type="trading" tradableCountDeduction="1">
+		<receipe id="20001262" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301336" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001263" type="trading" tradableCountDeduction="1">
+		<receipe id="20001263" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11301337" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001293,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001264" type="trading" tradableCountDeduction="1">
+		<receipe id="20001264" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601211" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001265" type="trading" tradableCountDeduction="1">
+		<receipe id="20001265" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601212" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001266" type="trading" tradableCountDeduction="1">
+		<receipe id="20001266" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601213" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001267" type="trading" tradableCountDeduction="1">
+		<receipe id="20001267" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601214" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001268" type="trading" tradableCountDeduction="1">
+		<receipe id="20001268" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601215" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001269" type="trading" tradableCountDeduction="1">
+		<receipe id="20001269" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601216" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001270" type="trading" tradableCountDeduction="1">
+		<receipe id="20001270" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601217" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001271" type="trading" tradableCountDeduction="1">
+		<receipe id="20001271" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601218" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001272" type="trading" tradableCountDeduction="1">
+		<receipe id="20001272" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601219" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001273" type="trading" tradableCountDeduction="1">
+		<receipe id="20001273" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601220" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001274" type="trading" tradableCountDeduction="1">
+		<receipe id="20001274" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11601221" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001292,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001275" type="trading" tradableCountDeduction="1">
+		<receipe id="20001275" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701307" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001276" type="trading" tradableCountDeduction="1">
+		<receipe id="20001276" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701308" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001277" type="trading" tradableCountDeduction="1">
+		<receipe id="20001277" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701309" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001278" type="trading" tradableCountDeduction="1">
+		<receipe id="20001278" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701310" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001279" type="trading" tradableCountDeduction="1">
+		<receipe id="20001279" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701311" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001280" type="trading" tradableCountDeduction="1">
+		<receipe id="20001280" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701312" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001281" type="trading" tradableCountDeduction="1">
+		<receipe id="20001281" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701313" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001282" type="trading" tradableCountDeduction="1">
+		<receipe id="20001282" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701314" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001283" type="trading" tradableCountDeduction="1">
+		<receipe id="20001283" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701315" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001284" type="trading" tradableCountDeduction="1">
+		<receipe id="20001284" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701316" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001285" type="trading" tradableCountDeduction="1">
+		<receipe id="20001285" rank="5" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11701317" rank="5" count="1" />
+		<require meso="10000">
+			<item id="30001291,4,400" />
+		</require>
+	</exchange>
+	<exchange id="20001286" type="trading" tradableCountDeduction="1">
+		<receipe id="20001286" rank="3" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="61100100" rank="3" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="20001287" type="trading">
+		<receipe id="20001287" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302332" rank="4" count="1" />
+		<require meso="1000">
+			<item id="30001293,4,380" />
+		</require>
+	</exchange>
+	<exchange id="20001288" type="trading">
+		<receipe id="20001288" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302332" rank="4" count="1" />
+		<require meso="1000">
+			<item id="30001292,4,380" />
+		</require>
+	</exchange>
+	<exchange id="20001289" type="trading">
+		<receipe id="20001289" rank="4" count="1" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302332" rank="4" count="1" />
+		<require meso="1000">
+			<item id="30001291,4,380" />
+		</require>
+	</exchange>
 	<exchange id="20301670" type="exchange" feature="ItemMergeLV60">
 		<receipe id="20301670" rank="3" count="2" />
 		<requireEquip id="" rank="" count="" />
@@ -5479,108 +6565,6 @@
 		<exchange id="43000041" rank="3" count="1" />
 		<require meso="1000" />
 	</exchange>
-	<exchange id="36000391" type="exchange">
-		<receipe id="36000391" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302009" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000392" type="exchange">
-		<receipe id="36000392" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302010" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000393" type="exchange">
-		<receipe id="36000393" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302011" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000394" type="exchange">
-		<receipe id="36000394" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302012" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000395" type="exchange">
-		<receipe id="36000395" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302013" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000396" type="exchange">
-		<receipe id="36000396" rank="4" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302014" rank="4" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000397" type="exchange">
-		<receipe id="36000397" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302015" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000398" type="exchange">
-		<receipe id="36000398" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302016" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000399" type="exchange">
-		<receipe id="36000399" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302017" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000400" type="exchange">
-		<receipe id="36000400" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302018" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000401" type="exchange">
-		<receipe id="36000401" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302019" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000402" type="exchange">
-		<receipe id="36000402" rank="5" count="20" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302020" rank="5" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000403" type="exchange">
-		<receipe id="36000403" rank="6" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302021" rank="6" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000404" type="exchange">
-		<receipe id="36000404" rank="6" count="40" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302022" rank="6" count="1" />
-		<require meso="" />
-	</exchange>
-	<exchange id="36000405" type="exchange">
-		<receipe id="36000405" rank="4" count="16" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302023" rank="4" count="1" />
-		<require meso="2500000" />
-	</exchange>
-	<exchange id="36000406" type="exchange">
-		<receipe id="36000406" rank="5" count="16" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302024" rank="5" count="1" />
-		<require meso="5000000" />
-	</exchange>
-	<exchange id="36000407" type="exchange">
-		<receipe id="36000407" rank="6" count="16" />
-		<requireEquip id="" rank="" count="" />
-		<exchange id="20302025" rank="6" count="1" />
-		<require meso="7500000" />
-	</exchange>
 	<exchange id="20302041" type="exchange">
 		<receipe id="20302041" rank="3" count="180" />
 		<requireEquip id="" rank="" count="" />
@@ -5670,5 +6654,173 @@
 		<requireEquip id="" rank="" count="" />
 		<exchange id="30001276" rank="4" count="1" />
 		<require meso="1000" />
+	</exchange>
+	<exchange id="36000422" type="exchange">
+		<receipe id="36000422" rank="5" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302212" rank="5" count="1" />
+		<require meso="1000000" />
+	</exchange>
+	<exchange id="36000423" type="exchange">
+		<receipe id="36000423" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302284" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000424" type="exchange">
+		<receipe id="36000424" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302285" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000425" type="exchange">
+		<receipe id="36000425" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302286" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000426" type="exchange">
+		<receipe id="36000426" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302287" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000427" type="exchange">
+		<receipe id="36000427" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302288" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000428" type="exchange">
+		<receipe id="36000428" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302289" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000429" type="exchange">
+		<receipe id="36000429" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302290" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000430" type="exchange">
+		<receipe id="36000430" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302291" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000431" type="exchange">
+		<receipe id="36000431" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302292" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000432" type="exchange">
+		<receipe id="36000432" rank="4" count="40" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302293" rank="4" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000433" type="exchange" tradableCountDeduction="1">
+		<receipe id="36000433" rank="4" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="12000108" rank="4" count="1" />
+		<require meso="2500000" />
+	</exchange>
+	<exchange id="36000434" type="exchange" tradableCountDeduction="1">
+		<receipe id="36000434" rank="4" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11800121" rank="4" count="1" />
+		<require meso="2500000" />
+	</exchange>
+	<exchange id="36000435" type="exchange" tradableCountDeduction="1">
+		<receipe id="36000435" rank="4" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="12100109" rank="4" count="1" />
+		<require meso="2500000" />
+	</exchange>
+	<exchange id="36000436" type="exchange" tradableCountDeduction="1">
+		<receipe id="36000436" rank="4" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11200094" rank="4" count="1" />
+		<require meso="2500000" />
+	</exchange>
+	<exchange id="36000437" type="exchange" tradableCountDeduction="1">
+		<receipe id="36000437" rank="4" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="11900119" rank="4" count="1" />
+		<require meso="2500000" />
+	</exchange>
+	<exchange id="36000438" type="exchange">
+		<receipe id="36000438" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302298" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000439" type="exchange">
+		<receipe id="36000439" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302299" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000440" type="exchange">
+		<receipe id="36000440" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302302" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000441" type="exchange">
+		<receipe id="36000441" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302303" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000442" type="exchange">
+		<receipe id="36000442" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302306" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000443" type="exchange">
+		<receipe id="36000443" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302307" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000444" type="exchange">
+		<receipe id="36000444" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302308" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000445" type="exchange">
+		<receipe id="36000445" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302309" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000446" type="exchange">
+		<receipe id="36000446" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302310" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000447" type="exchange">
+		<receipe id="36000447" rank="5" count="30" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302311" rank="5" count="1" />
+		<require meso="" />
+	</exchange>
+	<exchange id="36000448" type="exchange">
+		<receipe id="36000448" rank="5" count="16" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302312" rank="5" count="1" />
+		<require meso="5000000" />
+	</exchange>
+	<exchange id="36000449" type="exchange">
+		<receipe id="36000449" rank="3" count="100" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20001286" rank="3" count="1" />
+		<require meso="10000" />
 	</exchange>
 </ms2>

@@ -16,4 +16,19 @@
 		<content text="$script:1127231007009349$" />
 		<content text="$script:1127231007009350$" />
 	</script>
+	<select id="0" feature="FameContents" locale="NA">
+		<content voiceID="ko/Npc/00002231" text="$script:1126150707011935$" />
+	</select>
+	<script randomPick="1" id="20" feature="FameContents" locale="NA">
+		<content text="$script:1126150707011936$">
+			<distractor text="$script:1126150707011937$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="FameContents" locale="NA">
+		<content text="$script:1126150707011938$" />
+		<content text="$script:1126150707011939$" />
+		<content text="$script:1126150707011940$" />
+		<content text="$script:1126150707011941$" />
+		<content text="$script:1126150707011942$" />
+	</script>
 </ms2>

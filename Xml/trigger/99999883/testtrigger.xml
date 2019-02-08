@@ -5,7 +5,7 @@
 			<action name="ShowGuideSummary" entityID="20000661" textID="20000661" durationTime='3000'/> 
 		</onEnter>
 		<condition name="DetectLiftableObject" triggerBoxIDs="100" itemID="0">
-			<transition state="06_요일테스트" desc="!!원하는 테스트 스테이트 입력!!"/> 
+			<transition state="07_보상테스트" desc="!!원하는 테스트 스테이트 입력!!"/> 
 		</condition>
 		<condition name="UserValue" key="TimeEvent" value="1">
 			<transition state="01경험치구슬" /> 
@@ -75,6 +75,16 @@
 		</onEnter>
 		<condition name="DayOfWeek" dayOfWeeks="5" desc="1(일)-7(토)">
 			<transition state="03컷씬"/>
+		</condition>
+	</state>
+	
+	<state name="07_보상테스트">
+		<onEnter>
+		  <action name="DebugString" string="07_보상테스트" />
+		  <action name="GiveRewardContent" rewardID="31000003" />
+		</onEnter>
+		<condition name="WaitTick" waitTick="10000">
+			<transition state="시작대기중"/>
 		</condition>
 	</state>
 	

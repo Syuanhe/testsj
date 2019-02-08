@@ -18,6 +18,7 @@
 	<key id="00000016" name="# 중국 캐릭터 선택창 - 9월" feature="LobbyMap01" locale="CN" />
 	<key id="00000017" name="# 캐릭터 선택창 - 추석" feature="LobbyMap01" />
 	<key id="00000018" name="# 캐릭터 선택창 - 2017할로윈" feature="LobbyMap01" />
+	<key id="00000020" name="# 캐릭터 선택창 - 크리티아스" feature="Kritias_2018_12" />
 	<key id="00000021" name="# 캐릭터 선택창 - 2018 구정/춘절" feature="LobbyMap01" />
 	<key id="00000022" name="# 캐릭터 선택창 - 2018 봄" feature="LobbyMap01" />
 	<key id="00000023" name="# 캐릭터 선택창 - 머쉬킹" feature="LobbyMap01" />
@@ -25,6 +26,13 @@
 	<key id="00000025" name="# 캐릭터 선택창 - 2018 크리스마스" feature="LobbyMap01" />
 	<key id="00000026" name="# 캐릭터 선택창 - 2019 새해" feature="LobbyMap01" />
 	<key id="00001001" name="# 게임 모드 선택창" feature="LobbyMap01" />
+	<key id="00009051" name="크리티아스 구름01" feature="Kritias_Epic01" />
+	<key id="00009052" name="크리티아스 구름02" feature="Kritias_Epic01" />
+	<key id="00009053" name="크리티아스 구름03" feature="Kritias_Epic01" />
+	<key id="00009054" name="크리티아스 구름04" feature="Kritias_Epic01" />
+	<key id="00009071" name="크리티아스 꾸밈타일01" feature="Kritias_Epic01" />
+	<key id="00009072" name="크리티아스 꾸밈타일02" feature="Kritias_Epic01" />
+	<key id="00009073" name="크리티아스 꾸밈타일03" feature="Kritias_Epic01" />
 	<key id="02000001" name="트라이아" feature="CBT" />
 	<key id="02000002" name="에반스빌" feature="CBT" />
 	<key id="02000003" name="그리노 갈림길" feature="Season2" />
@@ -437,7 +445,6 @@
 	<key id="02000423" name="퍼니퍼니 아일랜드" feature="WorldChampionMushroom" />
 	<key id="02000424" name="베르크 섬" feature="Mastery05" />
 	<key id="02000425" name="알키미 가든" feature="Mastery05" />
-	<key id="02000426" name="계약의 제단" feature="Zakum01" />
 	<key id="02000427" name="루디브리엄 시계탑" feature="EventPapulatus" />
 	<key id="02000428" name="오르비스급 공중 함선" feature="CrimsonBalrog01" />
 	<key id="02000429" name="오르비스급 공중 함선" feature="CrimsonBalrog01" />
@@ -522,6 +529,18 @@
 	<key id="02010084" name="티아레스 사막" feature="KarkarIsland" />
 	<key id="02010086" name="블랙노프 2호 : 화물부" feature="KarkarIsland" />
 	<key id="02010087" name="블랙노프 2호 : 기관실" feature="KarkarIsland" />
+	<key id="02020001" name="오로라 레이크" feature="Kritias_2018_12" />
+	<key id="02020003" name="푸르카우 평원" feature="Kritias_2018_12" />
+	<key id="02020004" name="바니빌" feature="Kritias_2018_12" />
+	<key id="02020006" name="키델 그랜드 브릿지" feature="Kritias_2018_12" />
+	<key id="02020008" name="몰랑 포레스트" feature="Kritias_2018_12" />
+	<key id="02020009" name="생태 실험 구역" feature="Kritias_2018_12" />
+	<key id="02020010" name="키델 타이렌 사령부" feature="Kritias_2018_12" />
+	<key id="02020013" name="지크벤 루트" feature="Kritias_2018_12" />
+	<key id="02020014" name="생태 연구 단지" feature="Kritias_2018_12" />
+	<key id="02020016" name="알케이나 고원" feature="Kritias_2018_12" />
+	<key id="02020017" name="버려진 청사" feature="Kritias_2018_12" />
+	<key id="02020018" name="티아만" feature="Kritias_2018_12" />
 	<key id="02020019" name="네이린의 전투 시뮬레이터" feature="FameChallengeDungeon" />
 	<key id="02020020" name="그린후드 자경단 훈련소 (하드)" feature="FameChallengeDungeon" />
 	<key id="02020021" name="쉐도우윈드 비밀 훈련 시설" feature="FameChallengeDungeon" />
@@ -532,6 +551,20 @@
 	<key id="02020026" name="트라이아 근위대 체력 단련장 (하드)" feature="FameChallengeDungeon" />
 	<key id="02020027" name="기사단 고등 지휘부 접견 구역" feature="FameChallengeDungeon" />
 	<key id="02020028" name="기사단 고등 지휘부 접견 구역 (하드)" feature="FameChallengeDungeon" />
+	<key id="02020029" name="포레인 숲" feature="Kritias_2018_12" />
+	<key id="02020030" name="리치몬드" feature="Kritias_2018_12" />
+	<key id="02020031" name="란멜" feature="Kritias_2018_12" />
+	<key id="02020032" name="바베니 전초 기지" feature="Kritias_2018_12" />
+	<key id="02020033" name="만슈타 요새" feature="Kritias_2018_12" />
+	<key id="02020034" name="키델 에네르 융합로" feature="Kritias_2018_12" />
+	<key id="02020035" name="타이렌 왕국 로봇 공장" feature="Kritias_2018_12" />
+	<key id="02020036" name="검은군단 점령지" feature="Kritias_2018_12" />
+	<key id="02020037" name="주피아 로드" feature="Kritias_2018_12" />
+	<key id="02020041" name="바베니" feature="Kritias_2018_12" />
+	<key id="02020051" name="폐기물 매립지" feature="Kritias_2018_12" />
+	<key id="02020061" name="푸르카우 평원" feature="Fieldwar01" />
+	<key id="02020062" name="바베니 전초 기지" feature="Fieldwar01" />
+	<key id="02020097" name="에네르 캐슬" feature="Kritias_Balrog01" />
 	<key id="02020100" name="비통의 숲" feature="LapentaDungeon" />
 	<key id="02020101" name="에메랄드 프리즌" feature="LapentaDungeon" />
 	<key id="02020110" name="뒤섞인 세계" feature="LapentaDungeon" />
@@ -539,6 +572,8 @@
 	<key id="02020112" name="뒤틀린 공간" feature="LapentaDungeon" />
 	<key id="02020120" name="터미너스 엔즈" feature="LapentaDungeon" />
 	<key id="02020130" name="블랙샤드 체임버" feature="LapentaDungeon" />
+	<key id="02020200" name="알케이나 델파이온" feature="Kritias_Paika01" />
+	<key id="02020201" name="알케이나 델파이온" feature="Kritias_Paika01" />
 	<key id="02100000" name="링크4 : 얼음 절벽의 괴물" feature="GuildRaid01" />
 	<key id="02100001" name="링크1 : 아프렐라 오지" feature="GuildRaid01" />
 	<key id="02100002" name="링크2 : 무지개 슬라임 공장" feature="GuildRaid01" />
@@ -903,6 +938,13 @@
 	<key id="52010071" name="어둠의 회랑" feature="EyeOfLapentaQuest" />
 	<key id="52010072" name="프론티어 재단 회의실" feature="EyeOfLapentaQuest" />
 	<key id="52020036" name="피그밍그 부족의 제단" feature="FameContents" />
+	<key id="52020037" name="메이플 연합 지휘본부" feature="Kritias_Epic01" />
+	<key id="52020038" name="스카이 포트리스 함교" feature="Kritias_Epic01" />
+	<key id="52020039" name="만슈타 요새" feature="Kritias_2018_12" />
+	<key id="52020040" name="스카이 포트리스 함교" feature="Kritias_Epic01" />
+	<key id="52100111" name="포레인 동굴" feature="Kritias_2018_12" />
+	<key id="52100112" name="솔저레토 연구실" feature="Kritias_2018_12" />
+	<key id="52100113" name="매끈한 쿠우쿠 서식지" feature="Kritias_2018_12" />
 	<key id="52100001" name="신비한 산호섬" feature="ChronicleDungeon60_01" />
 	<key id="52100002" name="신녀의 동굴" feature="ChronicleDungeon60_01" />
 	<key id="52100011" name="크록의 비밀 선착장" feature="ChronicleDungeon60_01" />
@@ -923,6 +965,16 @@
 	<key id="52100056" name="마드라칸 위상 제어 연결체" feature="ChronicleDungeon60_01" />
 	<key id="52100060" name="죽음의 갈림길" feature="ChronicleDungeon60_01" />
 	<key id="52100070" name="아이 오브 라펜타" feature="LapentaFrontierQuest" />
+	<key id="52100101" name="연기나는 구릉" feature="Kritias_Epic01" />
+	<key id="52100102" name="포레인 숲 외곽" feature="Kritias_Epic01" />
+	<key id="52100103" name="마를레네 집무실" feature="Kritias_Epic01" />
+	<key id="52100104" name="자원융합로" feature="Kritias_Epic01" />
+	<key id="52100105" name="자원융합로" feature="Kritias_Epic01" />
+	<key id="52100106" name="지하 통로" feature="Kritias_2018_12" />
+	<key id="52100107" name="유적지 지하" feature="Kritias_2018_12" />
+	<key id="52100108" name="지하 통제실" feature="Kritias_2018_12" />
+	<key id="52100109" name="마를레네 집무실" feature="Kritias_Epic01" />
+	<key id="52100110" name="자원융합로" feature="Kritias_Epic01" />
 	<key id="61000001" name="트랩 마스터" feature="CBT" />
 	<key id="61000002" name="파이널 서바이버" feature="CBT" />
 	<key id="61000003" name="메이플 OX 퀴즈쇼" feature="MassiveOxQuiz" />
@@ -1060,6 +1112,10 @@
 	<key id="80000014" name="버려진 폐광 지하 1층" feature="TreasureMap01" />
 	<key id="80000015" name="버려진 폐광 지하 4층" feature="TreasureMap01" />
 	<key id="80000016" name="문라이트 번지 점프" feature="Season1" />
+	<key id="80000017" name="지하 에네르 광석 동굴" feature="Kritias_2018_12" />
+	<key id="80000018" name="루미너스 꽃 군락지" feature="Kritias_2018_12" />
+	<key id="80000019" name="에네르 애벌레 서식지" feature="Kritias_2018_12" />
+	<key id="80000020" name="신비한 허브 동굴" feature="Kritias_2018_12" />
 	<key id="81000001" name="루디브리엄 대탈출 M" feature="userOpenMinigame" />
 	<key id="81000002" name="스프링 비치 M" feature="userOpenMinigame" />
 	<key id="81000003" name="크레이지 러너즈 M" feature="userOpenMinigame" />

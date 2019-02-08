@@ -44,9 +44,6 @@
 		<condition name="퀘스트유저를감지하면" arg1="701" arg2="91000076" arg3="1">
 			<transition state="검마등장_01"/> 
 		</condition>
-		<condition name="유저를감지했으면" arg1="701">
-			<transition state="마무리"/> 
-		</condition>
 		<onExit> 
 		</onExit>
     </state>

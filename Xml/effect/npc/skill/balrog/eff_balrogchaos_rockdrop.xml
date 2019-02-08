@@ -20,13 +20,13 @@
   <!-- 바닥 그림자 이펙트 -->
   <!--바위 덩이 떨어지는 예시 시간이 0.5초 더 늘어나서 그림자 이펙트 더 길게 설정함-->
   <effect type="nif" filePath="NPC/Skill/Balrog/Eff_BalrogChaos_Rock_Shadow.nif" startDelay="0.0" duration="1.5" viewDistance="0">
-    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
-    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.5" onGround="true"/>  <!-- 실제 히트박스 보다 약간 크게, 바닥 이펙트가 크면 더 위협적으로 보이는 장점도 있음 -->
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true"/>
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.5" />  <!-- 실제 히트박스 보다 약간 크게, 바닥 이펙트가 크면 더 위협적으로 보이는 장점도 있음 -->
   </effect>
   <!-- 천장에서 거대한 돌덩이가 떨어지는 이펙트 -->
   <effect type="nif" filePath="NPC/Skill/Balrog/Eff_BalrogChaos_Rock.nif" startDelay="0.6" duration="2.5" viewDistance="0">
-    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
-    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="0.85" onGround="true"/>
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true"/>
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="0.85" />
   </effect>
   <!-- <effect type="vibrate" startDelay="0.15" duration="0.1" freq="10" amp="5" /> -->
   <!-- "onGround = true" 예전에 이거 때문에 덩굴 촉수 이펙트가 땅에 묻혀서 나오는 문제가 있었음 -->

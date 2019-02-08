@@ -2840,4 +2840,712 @@
 			</slot>
 		</mergeStep>
 	</mergeOption>
+	<mergeOption id="37000053" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="20,23" idx1="24,27" idx2="28,31" idx3="32,35" idx4="36,39" idx5="40,43" idx6="44,47" idx7="48,51" idx8="52,55" idx9="56,60" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="10,11" idx1="12,13" idx2="14,15" idx3="16,17" idx4="18,19" idx5="20,21" idx6="22,23" idx7="24,25" idx8="26,27" idx9="28,30" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="8,9" idx1="10,11" idx2="12,13" idx3="14,14" idx4="15,16" idx5="17,18" idx6="19,19" idx7="20,21" idx8="22,23" idx9="24,25" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="7,8" idx1="9,9" idx2="10,10" idx3="11,12" idx4="13,13" idx5="14,14" idx6="15,16" idx7="17,17" idx8="18,18" idx9="19,20" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.053,0.063" idx1="0.064,0.074" idx2="0.075,0.085" idx3="0.086,0.095" idx4="0.096,0.106" idx5="0.107,0.117" idx6="0.118,0.127" idx7="0.128,0.138" idx8="0.139,0.149" idx9="0.15,0.16" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.066,0.079" idx1="0.08,0.092" idx2="0.093,0.106" idx3="0.107,0.119" idx4="0.12,0.132" idx5="0.133,0.146" idx6="0.147,0.159" idx7="0.16,0.173" idx8="0.174,0.186" idx9="0.187,0.2" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
+	<mergeOption id="37000054" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="27,30" idx1="31,34" idx2="35,38" idx3="39,42" idx4="43,46" idx5="47,50" idx6="51,54" idx7="55,58" idx8="59,62" idx9="63,67" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="14,15" idx1="16,17" idx2="18,19" idx3="20,21" idx4="22,23" idx5="24,25" idx6="26,27" idx7="28,29" idx8="30,31" idx9="32,34" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="11,12" idx1="13,14" idx2="15,16" idx3="17,17" idx4="18,19" idx5="20,21" idx6="22,22" idx7="23,24" idx8="25,26" idx9="27,28" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="9,10" idx1="11,11" idx2="12,12" idx3="13,14" idx4="15,15" idx5="16,16" idx6="17,18" idx7="19,19" idx8="20,20" idx9="21,22" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.072,0.082" idx1="0.083,0.093" idx2="0.094,0.104" idx3="0.105,0.115" idx4="0.116,0.125" idx5="0.126,0.136" idx6="0.137,0.147" idx7="0.148,0.158" idx8="0.159,0.169" idx9="0.17,0.18" />
+				<option optionName="skill_levelup_tier_1_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_2_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_3_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_4_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_5_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_6_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_7_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_8_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_9_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_10_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_11_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_12_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_13_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_14_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.088,0.101" idx1="0.102,0.114" idx2="0.115,0.127" idx3="0.128,0.14" idx4="0.141,0.153" idx5="0.154,0.167" idx6="0.168,0.18" idx7="0.181,0.193" idx8="0.194,0.206" idx9="0.207,0.22" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
+	<mergeOption id="37000055" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="20,23" idx1="24,27" idx2="28,31" idx3="32,35" idx4="36,39" idx5="40,43" idx6="44,47" idx7="48,51" idx8="52,55" idx9="56,60" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="10,11" idx1="12,13" idx2="14,15" idx3="16,17" idx4="18,19" idx5="20,21" idx6="22,23" idx7="24,25" idx8="26,27" idx9="28,30" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="8,9" idx1="10,11" idx2="12,13" idx3="14,14" idx4="15,16" idx5="17,18" idx6="19,19" idx7="20,21" idx8="22,23" idx9="24,25" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="7,8" idx1="9,9" idx2="10,10" idx3="11,12" idx4="13,13" idx5="14,14" idx6="15,16" idx7="17,17" idx8="18,18" idx9="19,20" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.053,0.063" idx1="0.064,0.074" idx2="0.075,0.085" idx3="0.086,0.095" idx4="0.096,0.106" idx5="0.107,0.117" idx6="0.118,0.127" idx7="0.128,0.138" idx8="0.139,0.149" idx9="0.15,0.16" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.066,0.079" idx1="0.08,0.092" idx2="0.093,0.106" idx3="0.107,0.119" idx4="0.12,0.132" idx5="0.133,0.146" idx6="0.147,0.159" idx7="0.16,0.173" idx8="0.174,0.186" idx9="0.187,0.2" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
+	<mergeOption id="37000056" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="27,30" idx1="31,34" idx2="35,38" idx3="39,42" idx4="43,46" idx5="47,50" idx6="51,54" idx7="55,58" idx8="59,62" idx9="63,67" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="14,15" idx1="16,17" idx2="18,19" idx3="20,21" idx4="22,23" idx5="24,25" idx6="26,27" idx7="28,29" idx8="30,31" idx9="32,34" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="11,12" idx1="13,14" idx2="15,16" idx3="17,17" idx4="18,19" idx5="20,21" idx6="22,22" idx7="23,24" idx8="25,26" idx9="27,28" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="9,10" idx1="11,11" idx2="12,12" idx3="13,14" idx4="15,15" idx5="16,16" idx6="17,18" idx7="19,19" idx8="20,20" idx9="21,22" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.072,0.082" idx1="0.083,0.093" idx2="0.094,0.104" idx3="0.105,0.115" idx4="0.116,0.125" idx5="0.126,0.136" idx6="0.137,0.147" idx7="0.148,0.158" idx8="0.159,0.169" idx9="0.17,0.18" />
+				<option optionName="skill_levelup_tier_1_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_2_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_3_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_4_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_5_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_6_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_7_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_8_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_9_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_10_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_11_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_12_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_13_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_14_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.088,0.101" idx1="0.102,0.114" idx2="0.115,0.127" idx3="0.128,0.14" idx4="0.141,0.153" idx5="0.154,0.167" idx6="0.168,0.18" idx7="0.181,0.193" idx8="0.194,0.206" idx9="0.207,0.22" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
+	<mergeOption id="37000057" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="20,23" idx1="24,27" idx2="28,31" idx3="32,35" idx4="36,39" idx5="40,43" idx6="44,47" idx7="48,51" idx8="52,55" idx9="56,60" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="10,11" idx1="12,13" idx2="14,15" idx3="16,17" idx4="18,19" idx5="20,21" idx6="22,23" idx7="24,25" idx8="26,27" idx9="28,30" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="8,9" idx1="10,11" idx2="12,13" idx3="14,14" idx4="15,16" idx5="17,18" idx6="19,19" idx7="20,21" idx8="22,23" idx9="24,25" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="7,8" idx1="9,9" idx2="10,10" idx3="11,12" idx4="13,13" idx5="14,14" idx6="15,16" idx7="17,17" idx8="18,18" idx9="19,20" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.053,0.063" idx1="0.064,0.074" idx2="0.075,0.085" idx3="0.086,0.095" idx4="0.096,0.106" idx5="0.107,0.117" idx6="0.118,0.127" idx7="0.128,0.138" idx8="0.139,0.149" idx9="0.15,0.16" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="9,10" idx1="11,12" idx2="13,14" idx3="15,15" idx4="16,17" idx5="18,19" idx6="20,20" idx7="21,22" idx8="23,24" idx9="25,26" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.024,0.028" idx1="0.029,0.033" idx2="0.034,0.038" idx3="0.039,0.043" idx4="0.044,0.047" idx5="0.048,0.052" idx6="0.053,0.057" idx7="0.058,0.062" idx8="0.063,0.067" idx9="0.068,0.072" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.03,0.034" idx1="0.035,0.039" idx2="0.04,0.044" idx3="0.045,0.049" idx4="0.05,0.054" idx5="0.055,0.059" idx6="0.06,0.064" idx7="0.065,0.069" idx8="0.07,0.074" idx9="0.075,0.08" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="164,197" idx1="198,230" idx2="231,263" idx3="264,297" idx4="298,330" idx5="331,363" idx6="364,397" idx7="398,430" idx8="431,463" idx9="464,497" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="37,44" idx1="45,51" idx2="52,59" idx3="60,66" idx4="67,74" idx5="75,81" idx6="82,89" idx7="90,96" idx8="97,104" idx9="105,112" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="111,133" idx1="134,155" idx2="156,178" idx3="179,200" idx4="201,223" idx5="224,245" idx6="246,268" idx7="269,290" idx8="291,313" idx9="314,336" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.03,0.035" idx1="0.036,0.041" idx2="0.042,0.047" idx3="0.048,0.053" idx4="0.054,0.059" idx5="0.06,0.065" idx6="0.066,0.071" idx7="0.072,0.077" idx8="0.078,0.083" idx9="0.084,0.09" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="14,16" idx1="17,19" idx2="20,22" idx3="23,24" idx4="25,27" idx5="28,30" idx6="31,32" idx7="33,35" idx8="36,38" idx9="39,41" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.028,0.033" idx1="0.034,0.039" idx2="0.04,0.044" idx3="0.045,0.05" idx4="0.051,0.055" idx5="0.056,0.061" idx6="0.062,0.067" idx7="0.068,0.072" idx8="0.073,0.078" idx9="0.079,0.084" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.066,0.079" idx1="0.08,0.092" idx2="0.093,0.106" idx3="0.107,0.119" idx4="0.12,0.132" idx5="0.133,0.146" idx6="0.147,0.159" idx7="0.16,0.173" idx8="0.174,0.186" idx9="0.187,0.2" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="3,3" idx1="4,4" idx2="5,5" idx3="6,6" idx4="7,7" idx5="8,8" idx6="9,9" idx7="10,10" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
+	<mergeOption id="37000058" feature="">
+		<mergeStep step="1">
+			<slot part="13" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="hp_rgp_value_base" isStaticOption="0" idx0="27,30" idx1="31,34" idx2="35,38" idx3="39,42" idx4="43,46" idx5="47,50" idx6="51,54" idx7="55,58" idx8="59,62" idx9="63,67" />
+				<option optionName="sp_value_base" isStaticOption="0" idx0="14,15" idx1="16,17" idx2="18,19" idx3="20,21" idx4="22,23" idx5="24,25" idx6="26,27" idx7="28,29" idx8="30,31" idx9="32,34" />
+				<option optionName="killsprestore_value_base" isStaticOption="0" idx0="11,12" idx1="13,14" idx2="15,16" idx3="17,17" idx4="18,19" idx5="20,21" idx6="22,22" idx7="23,24" idx8="25,26" idx9="27,28" />
+				<option optionName="killeprestore_value_base" isStaticOption="0" idx0="9,10" idx1="11,11" idx2="12,12" idx3="13,14" idx4="15,15" idx5="16,16" idx6="17,18" idx7="19,19" idx8="20,20" idx9="21,22" />
+			</slot>
+			<slot part="14" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="15" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+			</slot>
+			<slot part="16" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="improve_stat_wap_u_rate_base" isStaticOption="0" idx0="0.072,0.082" idx1="0.083,0.093" idx2="0.094,0.104" idx3="0.105,0.115" idx4="0.116,0.125" idx5="0.126,0.136" idx6="0.137,0.147" idx7="0.148,0.158" idx8="0.159,0.169" idx9="0.17,0.18" />
+				<option optionName="skill_levelup_tier_1_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_2_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_3_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_4_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_5_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_6_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_7_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_8_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_9_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_10_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_11_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_12_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_13_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="skill_levelup_tier_14_value_base" isStaticOption="0" idx0="1,1" idx1="" idx2="" idx3="" idx4="" idx5="" idx6="" idx7="" idx8="" idx9="" />
+			</slot>
+			<slot part="17" partLimit="" consumeMeso="100000">
+				<option optionName="pap_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="map_value_base" isStaticOption="0" idx0="12,13" idx1="14,15" idx2="16,17" idx3="18,19" idx4="20,20" idx5="21,22" idx6="23,24" idx7="25,26" idx8="27,28" idx9="29,30" />
+				<option optionName="pen_rate_base" isStaticOption="0" idx0="0.032,0.036" idx1="0.037,0.041" idx2="0.042,0.046" idx3="0.047,0.051" idx4="0.052,0.056" idx5="0.057,0.061" idx6="0.062,0.066" idx7="0.067,0.071" idx8="0.072,0.076" idx9="0.077,0.081" />
+				<option optionName="atp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+				<option optionName="sgi_boss_rate_base" isStaticOption="0" idx0="0.036,0.041" idx1="0.042,0.046" idx2="0.047,0.052" idx3="0.053,0.057" idx4="0.058,0.062" idx5="0.063,0.068" idx6="0.069,0.073" idx7="0.074,0.079" idx8="0.08,0.084" idx9="0.085,0.09" />
+				<option optionName="asp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="" idx8="" idx9="" />
+				<option optionName="hp_value_base" isStaticOption="0" idx0="224,257" idx1="258,290" idx2="291,324" idx3="325,357" idx4="358,391" idx5="392,424" idx6="425,458" idx7="459,491" idx8="492,525" idx9="526,559" />
+				<option optionName="evp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="" idx7="" idx8="" idx9="" />
+				<option optionName="cap_value_base" isStaticOption="0" idx0="50,57" idx1="58,65" idx2="66,72" idx3="73,80" idx4="81,87" idx5="88,95" idx6="96,103" idx7="104,110" idx8="111,118" idx9="119,126" />
+				<option optionName="cad_value_base" isStaticOption="0" idx0="151,173" idx1="174,196" idx2="197,219" idx3="220,241" idx4="242,264" idx5="265,287" idx6="288,309" idx7="310,332" idx8="333,355" idx9="356,378" />
+				<option optionName="parpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="marpen_rate_base" isStaticOption="0" idx0="0.04,0.045" idx1="0.046,0.051" idx2="0.052,0.057" idx3="0.058,0.063" idx4="0.064,0.069" idx5="0.07,0.075" idx6="0.076,0.081" idx7="0.082,0.087" idx8="0.088,0.093" idx9="0.094,0.1" />
+				<option optionName="str_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="dex_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="int_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="luk_value_base" isStaticOption="0" idx0="18,20" idx1="21,23" idx2="24,26" idx3="27,29" idx4="30,31" idx5="32,34" idx6="35,37" idx7="38,40" idx8="41,43" idx9="44,46" />
+				<option optionName="nddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="lddincrease_rate_base" isStaticOption="0" idx0="0.039,0.044" idx1="0.045,0.05" idx2="0.051,0.056" idx3="0.057,0.062" idx4="0.063,0.068" idx5="0.069,0.074" idx6="0.075,0.08" idx7="0.081,0.086" idx8="0.087,0.092" idx9="0.093,0.098" />
+				<option optionName="reduce_recovery_ep_inv_rate_base" isStaticOption="0" idx0="0.088,0.101" idx1="0.102,0.114" idx2="0.115,0.127" idx3="0.128,0.14" idx4="0.141,0.153" idx5="0.154,0.167" idx6="0.168,0.18" idx7="0.181,0.193" idx8="0.194,0.206" idx9="0.207,0.22" />
+				<option optionName="rmsp_value_base" isStaticOption="0" idx0="4,4" idx1="5,5" idx2="6,6" idx3="7,7" idx4="8,8" idx5="9,9" idx6="10,10" idx7="11,11" idx8="" idx9="" />
+			</slot>
+		</mergeStep>
+	</mergeOption>
 </ms2>

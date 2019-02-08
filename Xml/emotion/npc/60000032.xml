@@ -25,7 +25,7 @@
 
   <emotion type="1" name="Skill_A">
     <textureani target="FA">
-      <texture file="Npc_Friendly/50000007_pig_D.dds" control="" delay="1600" loop="true"/>
+      <texture file="Npc_Friendly/50000007_pig_Skill.dds" control="" delay="1600" loop="true"/>
     </textureani>
   </emotion>
 

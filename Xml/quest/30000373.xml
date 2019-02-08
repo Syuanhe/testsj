@@ -57,7 +57,7 @@
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
 				<essentialItem code="30001132" rank="3" count="3" />
-				<globalEssentialItem code="30001132" rank="3" count="3" />
+				<globalEssentialItem code="30001206" rank="3" count="3" />
 				<globalEssentialJobItem code="0" rank="0" count="0" />
 			</completeReward>
 			<progressMap progressMap="63000072" />

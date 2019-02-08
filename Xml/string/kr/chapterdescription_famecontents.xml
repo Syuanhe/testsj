@@ -14,4 +14,10 @@
 	<chapter id="10011" name="포트리스 럼블: 메이슨" isTutorial="" regionID="" feature="FameChallengeDungeon" />
 	<chapter id="10012" name="포트리스 럼블: 네이린" isTutorial="" regionID="" feature="FameChallengeDungeon" />
 	<chapter id="10013" name="불멸의 존재" isTutorial="" regionID="" feature="FameContents_EP1_02" />
+	<chapter id="10014" name="[크리티아스 원정대] 메이플 연합의 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
+	<chapter id="10015" name="[크리티아스 원정대] 루미나이츠의 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
+	<chapter id="10016" name="[크리티아스 원정대] 그린후드의 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
+	<chapter id="10017" name="[크리티아스 원정대] 메이플 연합 특수 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
+	<chapter id="10018" name="[크리티아스 원정대] 루미나이츠 특수 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
+	<chapter id="10019" name="[크리티아스 원정대] 그린후드 특수 임무" isTutorial="" regionID="" feature="Kritias_2018_12" />
 </ms2>

@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="PA">
-    <asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/0/15/11500849_F_PAMapleUnion01.nif" targetnode="PA" selfnode="PA"/>
-	    </slot>
+    <asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/15/11500849_F_PAMapleUnion01.nif" targetnode="PA" selfnode="PA"/>
+   </slot>
   </slots>
 </ms2>

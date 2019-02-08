@@ -494,6 +494,7 @@
 	<key id="81030" name='세력 평판 확인하기&#x0A;&lt;font color=&quot;#00a2ed&quot;&gt;세력 전용 임무를 완료하면, 해당 세력의 평판이 오릅니다.&lt;/font&gt;&#x0A;&lt;font color=&quot;#909090&quot;&gt;평판이 오를수록 세력 전용 상점에서 이용할 수 있는 아이템이 많아지며,&lt;/font&gt;&#x0A;&lt;font color=&quot;#00a2ed&quot;&gt;해당 세력의 NPC들이&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;메시지를 통해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;관심을 보이기 시작합니다.&lt;/font&gt;' feature="FameContents" />
 	<key id="81040" name='현장 임무 시작하기&#x0A;&lt;font color=&quot;#909090&quot;&gt;각 세력마다, 브리핑 없이&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;현장에서 즉시 수행할 수 있는 임무&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있습니다.&lt;/font&gt;&#x0A;&lt;font color=&quot;#909090&quot;&gt;이 임무들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;월드맵에 각 세력의 마크로 표시&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;되어 있으며,&lt;/font&gt;&#x0A;&lt;font color=&quot;#909090&quot;&gt;해당&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;지역에 도착하면 자동으로 임무가 시작&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' feature="FameContents" />
 	<key id="81041" name="[[icon:questaccept]]다크윈드 담당관과 대화" feature="FameContents" />
+	<key id="81042" name="[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="NA" />
 	<key id="81042" name="[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" />
 	<key id="81043" name="[[icon:questcomplete]]다크윈드 담당관과 대화" feature="FameContents" />
 	<key id="81050" name='함선으로 복귀하는 두번째 방법&#x0A;&lt;font color=&quot;#00a2ed&quot;&gt;월드맵을 열고 함선 찾기를 눌러보세요.&lt;/font&gt; [g:메이플 월드를 순찰중인 함선을 &#x0A;찾을 수 있습니다. 이때] &lt;font color=&quot;#00a2ed&quot;&gt;함선을 클릭하면&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;언제 어디서든 탑승할 수 있습니다.&lt;/font&gt;' feature="FameContents" />
@@ -954,14 +955,17 @@
 	<key id="20040106" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npcName:24003131$&lt;/font&gt;가 전투 로봇 T55를 지원합니다.' feature="DarkCastle" />
 	<key id="20040107" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npcName:24003141$&lt;/font&gt;가 마크52 오메가를 지원합니다.' feature="DarkCastle" />
 	<key id="20041001" name='지금부터 &lt;font color=&quot;#00a2ed&quot;&gt;안전지대 부활&lt;/font&gt;만 허용됩니다. ' />
-	<key id="20041002" name='&lt;font color=&quot;#00a2ed&quot;&gt;대포&lt;/font&gt;로 인페르녹의 전함을 공격하세요.' />
-	<key id="20041003" name="인페르녹 전함의 측면이 파괴되었습니다. 곧 정면 공격이 시작됩니다." />
-	<key id="20041004" name="인페르녹이 모습을 드러냅니다!" />
+	<key id="20041002" name='&lt;font color=&quot;#00a2ed&quot;&gt;대포&lt;/font&gt;로 $npcName:23000091$을 공격하세요.' />
+	<key id="20041003" name="$npcName:23000091$의 측면이 파괴되었습니다. 곧 정면 공격이 시작됩니다." />
+	<key id="20041004" name="$npcName:23000090$이 곧 모습을 드러냅니다!" />
 	<key id="20041005" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npcName:23000090$의 실드&lt;/font&gt;가 파괴되었습니다.' />
 	<key id="20041006" name="성공 연출" />
 	<key id="20041007" name="실패 연출" />
 	<key id="20041008" name='지금 &lt;font color=&quot;#00a2ed&quot;&gt;$item:20000762$&lt;/font&gt;을 사용해야 합니다.' />
 	<key id="20041009" name='지금 &lt;font color=&quot;#00a2ed&quot;&gt;$item:20000763$&lt;/font&gt;를 사용해야 합니다.' />
+	<key id="20041010" name='&lt;font color=&quot;#ffd200&quot;&gt;시간 5분 증가&lt;/font&gt;, $npcName:23000091$이 곧 정면에서 공격합니다.' />
+	<key id="20041011" name='&lt;font color=&quot;#ffd200&quot;&gt;시간 5분 증가&lt;/font&gt;, $npcName:23000090$이 곧 모습을 드러냅니다!' />
+	<key id="20041012" name="$npcName:23000090$을 몰아내는데 성공했습니다." />
 	<key id="20042001" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npcName:23000077$의 보호막은 태엽 폭탄을 던져 제거해야 합니다.&lt;/font&gt;' />
 	<key id="20042002" name='&lt;font color=&quot;#00a2ed&quot;&gt;숫자를 밟아서 보호막 유지 시간을 조절해야 합니다.&lt;/font&gt;' />
 	<key id="20042003" name='&lt;font color=&quot;#00a2ed&quot;&gt;떨어지는 물체로 바닥 유리를 깨서 태엽 폭탄을 꺼내야 합니다.&lt;/font&gt;' />
@@ -999,6 +1003,7 @@
 	<key id="20105405" name="몸이 다시 무거워졌습니다." />
 	<key id="20105406" name="안전하게 움직이기 위해 몸을 원래 상태로 되돌리세요." />
 	<key id="20105407" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npc:24002005$&lt;/font&gt;$pp:를,을$ 처치하세요.' />
+	<key id="20110001" name='&lt;font color=&quot;#00a2ed&quot;&gt;에네르 동력원&lt;/font&gt;을 전원부 위로 옮기세요.' feature="Kritias_Paika01" />
 	<key id="23000001" name='그림자 군단의 &lt;font color=&quot;#00a2ed&quot;&gt;군단장&lt;/font&gt;을 처치하세요.' />
 	<key id="23000002" name='마왕의 분노를 담은 &lt;font color=&quot;#00a2ed&quot;&gt;몬스터&lt;/font&gt;를 모두 처치하세요.' />
 	<key id="23000003" name='밀려오는 &lt;font color=&quot;#00a2ed&quot;&gt;몬스터&lt;/font&gt;를 모두 처치하세요.' />
@@ -1179,6 +1184,7 @@
 	<key id="26620111" name='길드 미니 게임 대전을 &lt;font color=&quot;#00a2ed&quot;&gt;잠시 후에&lt;/font&gt; 시작합니다.' />
 	<key id="26620112" name='길드 미니 게임 대전을 &lt;font color=&quot;#00a2ed&quot;&gt;1분 30초&lt;/font&gt; 후에 시작합니다.' />
 	<key id="26620113" name='길드 미니 게임 대전을 &lt;font color=&quot;#00a2ed&quot;&gt;1분 15초&lt;/font&gt; 후에 시작합니다.' />
+	<key id="29200001" name="도움을 요청하는 경비병을 도와야  $npcName:23090006$을 처치할 수 있습니다." feature="Kritias_Balrog01" />
 	<key id="52001641" name="[[icon:questcomplete]] $npcName:11003927$에게 인사하기" feature="LapentaFrontierQuest" />
 	<key id="52001651" name="[[icon:questcomplete]] 피스메이커 최종 테스트 진행하기" feature="LapentaFrontierQuest" />
 	<key id="52001671" name="[[icon:questcomplete]] 바닷가 바라보기" feature="LapentaFrontierQuest" />

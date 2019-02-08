@@ -18,7 +18,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -31,19 +31,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="11.18" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="11.18" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -54,7 +54,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -65,7 +65,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -76,7 +76,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -87,7 +87,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -112,7 +112,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -125,19 +125,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="12.46" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="12.46" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -148,7 +148,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -159,7 +159,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -170,7 +170,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -181,7 +181,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -206,7 +206,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -219,19 +219,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="13.74" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="13.74" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -242,7 +242,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -253,7 +253,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -264,7 +264,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -275,7 +275,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -300,7 +300,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -313,19 +313,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="15.02" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="15.02" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -336,7 +336,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -347,7 +347,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -358,7 +358,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -369,7 +369,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -394,7 +394,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -407,19 +407,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="16.3" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="16.3" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -430,7 +430,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -441,7 +441,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -452,7 +452,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -463,7 +463,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -488,7 +488,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -501,19 +501,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="17.58" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="17.58" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -524,7 +524,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -535,7 +535,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -546,7 +546,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -557,7 +557,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -582,7 +582,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -595,19 +595,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="18.86" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="18.86" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -618,7 +618,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -629,7 +629,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -640,7 +640,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -651,7 +651,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -676,7 +676,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -689,19 +689,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="20.14" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="20.14" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -712,7 +712,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -723,7 +723,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -734,7 +734,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -745,7 +745,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -770,7 +770,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -783,19 +783,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="21.42" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="21.42" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -806,7 +806,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -817,7 +817,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -828,7 +828,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -839,7 +839,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -864,7 +864,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -877,19 +877,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="22.7" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="22.7" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -900,7 +900,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -911,7 +911,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -922,7 +922,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -933,7 +933,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -958,7 +958,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -971,19 +971,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="23.98" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="23.98" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -994,7 +994,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1005,7 +1005,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1016,7 +1016,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1027,7 +1027,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1052,7 +1052,7 @@
 			<stat />
 		</consume>
 		<targetItem />
-		<upgrade level="74" skillIDs="11000261,11000331" skillLevels="5,5" />
+		<upgrade level="76" skillIDs="11000261,11000331" skillLevels="5,5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -1065,19 +1065,19 @@
 		</conditionSkill>
 		<motion>
 			<motionProperty sequenceName="Striker_UltimateDestroyKick_A" selfInputCombo="" sequenceSpeed="0.85" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Striker/Eff_Striker_UltimateDestroyKick_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="0" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="25.26" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p1" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.3" pauseAmp="6" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="300" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
 				<damageProperty count="1" hand="0" rate="25.26" hitSpeedRate="1" hitPauseTime="0" damagedVibrateRatio="1" value="0" effectRemain="" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Fire_Hit_01.xml" IgnoreOptimalHideDamageHitEffect="false" IgnoreOptimalHideDamageRemainEffect="false" damageByTargetMaxHP="0" isConstDamageValue="0" push="0" pushdistance="0" pushduration="0" pushprob="1" pushEaseType="0" pushApplyField="0" pushUpDistance="0" pushDown="0" pushFall="0" pushPriority="0" pushPriorityHitImmune="0" attackMaterial="1" jumpHitIgnore="0" superArmorBreak="0" invokeEffectDisable="0" />
 			</attack>
-			<attack point="p2" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p2" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000341" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.4" pauseAmp="20" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1088,7 +1088,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p3" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p3" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000342" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1099,7 +1099,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p4" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p4" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000343" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1110,7 +1110,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p5" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p5" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000344" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1121,7 +1121,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p6" pointGroupID="0" targetCount="6" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p6" pointGroupID="0" targetCount="8" magicPathID="0" cubeMagicPathID="11000345" direction="2" sequence="0" attacktype="1" hitImmuneBreak="5" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0" pauseAmp="0" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="250" rangeAdd="0.000000,25.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="150" width="200" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />

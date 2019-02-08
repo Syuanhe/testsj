@@ -6170,11 +6170,6 @@
 	<key id="0511193407006099" feature="" npc="루비" name='안녕하세요, $MyPCName$님! &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001002[gender:1]$&lt;/font&gt;예요~&#x0A;즐거운~ 이! 벤! 트! 정보를 알려드립니다~ 무엇이 궁금하세요? ' />
 	<key id="0511193407006100" feature="" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;$pp:와,과$ 비슷한 옷을 입은 남자는 누구냐고 물어본다.' />
 	<key id="0511193407006101" feature="" npc="루비" name='제 &lt;font color=&quot;#ffd200&quot;&gt;쌍둥이 오빠&lt;/font&gt;예요! 함께 $npcTitle:11001002[gender:1]$$pp2:로,으로$ 활동하고 있죠!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;진행 중인 이벤트&lt;/font&gt;가 궁금하다면 언제든지 찾아주세요~&#x0A;저 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;$pp:와,과$ 저희 오빠, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;$pp:가,이$ 친절하게 알려드릴게요!' />
-	<key id="0202173007009842" feature="" npc="루비" name='$MyPCName$ 님! &lt;font color=&quot;#ffd200&quot;&gt;꽃씨 주머니&lt;/font&gt;랑 &lt;font color=&quot;#ffd200&quot;&gt;마법 용액 상자&lt;/font&gt; 받아 가세요!&#x0A;꽃씨와 용액을 모두 사용하시면 얼마든 다시 지급해 드리고 있어요.&#x0A;꽃을 피워서 &lt;font color=&quot;#ffd200&quot;&gt;설레는 봄꽃&lt;/font&gt;을 모아 가지고 오시면 다양한 아이템과 교환하실 수 있습니다. ' />
-	<key id="0202173007009843" feature="" npc="pc" name="꽃씨 주머니와 마법 용액 상자를 달라고 한다." />
-	<key id="0202173007009844" feature="" npc="루비" name="자, 받으세요.&#x0A;이 주머니와 상자에는 묘한 마법이 깃들어 있어요.&#x0A;성별에 따라 다른 종류의 씨앗과 용액이 나온다고 하던데, 직접 열어 보세요!" />
-	<key id="0202173007009845" feature="" npc="루비" name="앗! 가방이 가득 찼어요.&#x0A;가방을 비운 뒤 다시 받아 가셔요." />
-	<key id="0202173007009846" feature="" npc="루비" name='퀸즈 타운을 꽃으로 물들이는 아름다운 이벤트! 즐기고 계신가요?&#x0A;아직 재료를 가지고 계신 걸 보니 좀 더 열심히 참여하셔야겠네요.&#x0A;재료를 모두 소진하고 오시면 얼마든지 추가로 드리니 염려 말고 열심히 꽃을 심고 가꾸세요!&#x0A;단, &lt;font color=&quot;#ffd200&quot;&gt;설레는 봄꽃&lt;/font&gt;은 하루 3송이만 획득할 수 있답니다.' />
 	<key id="0219172307009848" feature="" npc="루비" name='안녕하세요, $MyPCName$님! &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001002[gender:1]$&lt;/font&gt;예요~&#x0A;즐거운~ 이! 벤! 트! 정보를 알려드립니다~ 무엇이 궁금하세요? ' />
 	<key id="0219172307009849" feature="" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;$pp:와,과$ 비슷한 옷을 입은 남자는 누구냐고 물어본다.' />
 	<key id="0219172307009850" feature="" npc="루비" name='제 &lt;font color=&quot;#ffd200&quot;&gt;쌍둥이 오빠&lt;/font&gt;예요! 함께 $npcTitle:11001002[gender:1]$$pp2:로,으로$ 활동하고 있죠!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;진행 중인 이벤트&lt;/font&gt;가 궁금하다면 언제든지 찾아주세요~&#x0A;저 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;$pp:와,과$ 저희 오빠, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;$pp:가,이$ 친절하게 알려드릴게요!' />
@@ -8352,10 +8347,26 @@
 	<key id="1127231007009332" feature="FameContents" npc="블리체" name="스카이 포트리스의 레이더로도 본대의 신호는 잡히지 않아.&#x0A;대체 어디서 뭘 하고 있는지 모르겠지만, 한 사람도 아니고 한 군대가&#x0A;하루 아침에 종적을 감추는게 말이나 되는지 모르겠군." />
 	<key id="1127231007009333" feature="FameContents" npc="블리체" name="…제독님은 살아 계실지…" />
 	<key id="1127231007009334" feature="FameContents" npc="블리체" name="흠, 쓸데없이 말이 길었군.&#x0A;하지만 트라이아 해군보다 더 든든한 우리 함대가 있으니, 걱정 말도록.&#x0A;트라이아 뿐만 아니라 메이플월드 전역이 우리의 손에 달렸다." />
+	<key id="1126155107011958" feature="FameContents" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
+	<key id="1126155107011959" feature="FameContents" npc="블리체" name="하고 싶은 말이라도 있나?" />
+	<key id="1126155107011960" feature="FameContents" npc="pc" name="트라이아 해군에 대해 물어본다." />
+	<key id="1126155107011961" feature="FameContents" npc="블리체" name="트라이아 해군은 여지껏 본적 없었다고 이야기 하고 싶은건가?" />
+	<key id="1126155107011962" feature="FameContents" npc="블리체" name="뭐…무리도 아니라고 생각되는군.&#x0A;트라이아 해군이, 트라이아에 없는 상황이니까 말야." />
+	<key id="1126155107011963" feature="FameContents" npc="블리체" name="사실, 해군 본대는 알현식 몇 달 전에 다른 대륙으로 파견 되었다.&#x0A;어디서부터의 명령인지 모르겠지만, 비밀 임무라는 명목으로 알려진 바가 없지." />
+	<key id="1126155107011964" feature="FameContents" npc="블리체" name="아버지…아니, 마티니 제독님께서도 내게 말 한마디 없었다.&#x0A;그리고 어느날 갑자기, 나와 내 부하들만 남긴채 모두 출항 해버렸어." />
+	<key id="1126155107011965" feature="FameContents" npc="블리체" name="스카이 포트리스의 레이더로도 본대의 신호는 잡히지 않아.&#x0A;대체 어디서 뭘 하고 있는지 모르겠지만, 한 사람도 아니고 한 군대가&#x0A;하루 아침에 종적을 감추는게 말이나 되는지 모르겠군." />
+	<key id="1126155107011966" feature="FameContents" npc="블리체" name="…제독님은 살아 계실지…" />
+	<key id="1126155107011967" feature="FameContents" npc="블리체" name="흠, 쓸데없이 말이 길었군.&#x0A;하지만 트라이아 해군보다 더 든든한 우리 함대가 있으니, 걱정 말도록.&#x0A;트라이아 뿐만 아니라 메이플월드 전역이 우리의 손에 달렸다." />
+	<key id="1126155107011968" feature="FameContents" npc="블리체" name="아직 너에게 일을 맡길 수는 없다." />
 	<key id="1127231007009335" feature="FameContents" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
 	<key id="1127231007009336" feature="FameContents" npc="콘대르" name="허어…잡담할 시간이 있다, 이건가?" />
 	<key id="1127231007009337" feature="FameContents" npc="pc" name="(…죄송하다고 말한다.)" />
 	<key id="1127231007009338" feature="FameContents" npc="콘대르" name="마! 이럴 시간 있으면, 가서 임무를 더 해!" />
+	<key id="1126150707011919" feature="FameContents" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
+	<key id="1126150707011920" feature="FameContents" npc="콘대르" name="허어…잡담할 시간이 있다, 이건가?" />
+	<key id="1126150707011921" feature="FameContents" npc="pc" name="(…죄송하다고 말한다.)" />
+	<key id="1126150707011922" feature="FameContents" npc="콘대르" name="마! 이럴 시간 있으면, 가서 임무를 더 해!" />
+	<key id="1126150707011923" feature="FameContents" npc="콘대르" name="아직 햇병아리로군! 더 노력을 하라고!" />
 	<key id="1127231007009339" feature="FameContents" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
 	<key id="1127231007009340" feature="FameContents" npc="샤텐" name="응? 우리 자기, 나한테 뭐 하고 싶은말 있어?" />
 	<key id="1127231007009341" feature="FameContents" npc="pc" name="쉐도우 윈드에 대해 물어본다." />
@@ -8366,6 +8377,17 @@
 	<key id="1127233707009369" feature="FameContents" npc="샤텐" name="오구오구~ 말도 잘 듣지~&#x0A;볼에 뽀뽀 해주고 싶다, 그치?" />
 	<key id="1127233707009370" feature="FameContents" npc="pc" name="황급히 자리를 떠난다." />
 	<key id="1127233707009371" feature="FameContents" npc="샤텐" name="하하핫! 부끄러워하기는~" />
+	<key id="1126150707011924" feature="FameContents" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
+	<key id="1126150707011925" feature="FameContents" npc="샤텐" name="응? 우리 자기, 나한테 뭐 하고 싶은말 있어?" />
+	<key id="1126150707011926" feature="FameContents" npc="pc" name="쉐도우 윈드에 대해 물어본다." />
+	<key id="1126150707011927" feature="FameContents" npc="샤텐" name="어허~또 물어본다! 비밀 이야기를 그렇게 쉽게쉽게 물어보면 곤란해~!" />
+	<key id="1126150707011928" feature="FameContents" npc="pc" name="…먼저 말해놓고…" />
+	<key id="1126150707011929" feature="FameContents" npc="샤텐" name="우리 사이, 아직 이런 비밀을 나눌 만큼 깊지 않단 말야.&#x0A;조금만 기다려 줬으면 좋겠어, 알겠지?" />
+	<key id="1126150707011930" feature="FameContents" npc="pc" name="아…알겠다고 이야기 한다." />
+	<key id="1126150707011931" feature="FameContents" npc="샤텐" name="오구오구~ 말도 잘 듣지~&#x0A;볼에 뽀뽀 해주고 싶다, 그치?" />
+	<key id="1126150707011932" feature="FameContents" npc="pc" name="황급히 자리를 떠난다." />
+	<key id="1126150707011933" feature="FameContents" npc="샤텐" name="하하핫! 부끄러워하기는~" />
+	<key id="1126150707011934" feature="FameContents" npc="샤텐" name="우리 자긴 아직 내 심부름 하기엔 너무 베이비네~ " />
 	<key id="1127231007009343" feature="FameContents" npc="네이린" name="그린 후드, 임무 대기 중! &#x0A;그럼 바로 브리핑을 시작할까요?" />
 	<key id="1127231007009344" feature="FameContents" npc="네이린" name="궁금하신게 있으신가요? 어떤 브리핑을 준비 할까요?" />
 	<key id="1127231007009345" feature="FameContents" npc="pc" name="그린 후드의 임무에 대해 물어본다." />
@@ -8374,6 +8396,14 @@
 	<key id="1127231007009348" feature="FameContents" npc="네이린" name="사람들을 지키는 건, 단순히 싸움만 잘해선 되는 게 아니라고 배웠어요.&#x0A;이웃이 아플 때는 치료해주고, 힘들 때는 위로 해주는 것도 주변을 지키는 방법이죠." />
 	<key id="1127231007009349" feature="FameContents" npc="네이린" name="이 가르침이 바로,&#x0A;자경단이 지원 임무를 담당하게 된 배경이랍니다.&#x0A;" />
 	<key id="1127231007009350" feature="FameContents" npc="네이린" name="$MyPCName$님, 그래도 저희 그린 후드의 전투 실력만큼은 말 안 해도 아시죠?&#x0A;비록 제가 부관 임무를 담당하고 있지만, 활 솜씨만큼은 에카 언니 못지않거든요~&#x0A;모두 기본적으로 싸울 줄 아는 여전사들이랍니다!" />
+	<key id="1126150707011935" feature="FameContents" npc="네이린" name="그린 후드, 임무 대기 중! &#x0A;그럼 바로 브리핑을 시작할까요?" />
+	<key id="1126150707011936" feature="FameContents" npc="네이린" name="궁금하신게 있으신가요? 어떤 브리핑을 준비 할까요?" />
+	<key id="1126150707011937" feature="FameContents" npc="pc" name="그린 후드의 임무에 대해 물어본다." />
+	<key id="1126150707011938" feature="FameContents" npc="네이린" name="많은 분이 궁금해하신 질문이네요! 오랜 전투 경험을 지닌 헤네시스 자경단, &#x0A;그린후드가 지원 부대 임무를 담당하게 된 이유." />
+	<key id="1126150707011939" feature="FameContents" npc="네이린" name="간단해요!&#x0A;그린후드는 전투 말고도, 사람들을 돕는 것에 있어선 다재다능 하기 때문이죠." />
+	<key id="1126150707011940" feature="FameContents" npc="네이린" name="사람들을 지키는 건, 단순히 싸움만 잘해선 되는 게 아니라고 배웠어요.&#x0A;이웃이 아플 때는 치료해주고, 힘들 때는 위로 해주는 것도 주변을 지키는 방법이죠." />
+	<key id="1126150707011941" feature="FameContents" npc="네이린" name="이 가르침이 바로,&#x0A;자경단이 지원 임무를 담당하게 된 배경이랍니다.&#x0A;" />
+	<key id="1126150707011942" feature="FameContents" npc="네이린" name="$MyPCName$님, 그래도 저희 그린 후드의 전투 실력만큼은 말 안 해도 아시죠?&#x0A;비록 제가 부관 임무를 담당하고 있지만, 활 솜씨만큼은 에카 언니 못지않거든요~&#x0A;모두 기본적으로 싸울 줄 아는 여전사들이랍니다!" />
 	<key id="1127231007009351" feature="FameContents" npc="메이슨" name="세계는 충분히 관찰했습니다. 이제 움직일 시간입니다." />
 	<key id="1127231007009352" feature="FameContents" npc="메이슨" name="듣고 있습니다." />
 	<key id="1127231007009353" feature="FameContents" npc="pc" name="루미 나이츠에 대해 물어본다." />
@@ -8388,6 +8418,21 @@
 	<key id="1127231007009362" feature="FameContents" npc="메이슨" name='…루미나이츠에 대해 이야기하려면, 우선 기초 개념부터 정립해야 합니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;톨로지카 코덱스, 17년형 연대기&lt;/font&gt;부터 시작해볼까요? 아니면 일반인들도 &#x0A;유머러스하게 이해할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;몬테크롬웰 유일 서적&lt;/font&gt;으로 가볍게 떠나볼까요?' />
 	<key id="1127231007009363" feature="FameContents" npc="pc" name="…다음에 오겠다고 말한다." />
 	<key id="1127231007009364" feature="FameContents" npc="메이슨" name="아쉽군요. &#x0A;하지만 우리의 시간은 어쩌면 영원할 수도 있죠.&#x0A;기다리고 있겠습니다." />
+	<key id="1126150707011943" feature="FameContents" npc="메이슨" name="세계는 충분히 관찰했습니다. 이제 움직일 시간입니다." />
+	<key id="1126150707011944" feature="FameContents" npc="메이슨" name="듣고 있습니다." />
+	<key id="1126150707011945" feature="FameContents" npc="pc" name="루미 나이츠에 대해 물어본다." />
+	<key id="1126150707011946" feature="FameContents" npc="메이슨" name='…Q등급 기밀해제가, 모든 기밀의 해제를 의미하는것은 아닙니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;단탈리온 헌장&lt;/font&gt;에 따르면 신관급 기사가 일반인들과 말을 해서도 안되는 법이죠.' />
+	<key id="1126150707011947" feature="FameContents" npc="pc" name="…무슨 말인지 하나도 모르겠다…" />
+	<key id="1126150707011948" feature="FameContents" npc="메이슨" name='하지만 &lt;font color=&quot;#ffd200&quot;&gt;에퀴녹스 법전 신 개정판&lt;/font&gt;으로 적용해본다면, 굳이 한 두마디쯤 해도&#x0A;크게 문제 될 건 없다고 생각합니다. 중요한건 대화의 본질에 따라 두사람의&#x0A;인지 범위에서 형성될 &lt;font color=&quot;#ffd200&quot;&gt;체셔만의 틈&lt;/font&gt;이 관건이죠.' />
+	<key id="1126150707011949" feature="FameContents" npc="pc" name="…점점 더 무슨 말인지 모르겠다…" />
+	<key id="1126150707011950" feature="FameContents" npc="메이슨" name='이를 중요치 않게 생각했을때 어떤 일이 벌어질지는,&#x0A;제 입으로 말하기 부끄럽습니다만…&lt;font color=&quot;#ffd200&quot;&gt;헤이스팅스 무도회의 걸작&lt;/font&gt; 같은&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;우스꽝스러운 일&lt;/font&gt;이 벌어질지도 모릅니다…쿡쿡…' />
+	<key id="1126150707011951" feature="FameContents" npc="pc" name="…아니, 나도 웃긴 포인트를 알려달라고 말한다!" />
+	<key id="1126150707011952" feature="FameContents" npc="메이슨" name="후우…이거 이거, 알론 선배였다면 함선이 추락할 만큼 &#x0A;박장대소 하셨을 것 같은데, 아쉽군요." />
+	<key id="1126150707011953" feature="FameContents" npc="pc" name="…루미 나이츠에 대해 슬슬 이야기 해보자고 말한다." />
+	<key id="1126150707011954" feature="FameContents" npc="메이슨" name='…루미나이츠에 대해 이야기하려면, 우선 기초 개념부터 정립해야 합니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;톨로지카 코덱스, 17년형 연대기&lt;/font&gt;부터 시작해볼까요? 아니면 일반인들도 &#x0A;유머러스하게 이해할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;몬테크롬웰 유일 서적&lt;/font&gt;으로 가볍게 떠나볼까요?' />
+	<key id="1126150707011955" feature="FameContents" npc="pc" name="…다음에 오겠다고 말한다." />
+	<key id="1126150707011956" feature="FameContents" npc="메이슨" name="아쉽군요. &#x0A;하지만 우리의 시간은 어쩌면 영원할 수도 있죠.&#x0A;기다리고 있겠습니다." />
+	<key id="1126150707011957" feature="FameContents" npc="메이슨" name="아직 부족하시군요." />
 	<key id="0905163707008895" feature="" npc="요하랑" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:63000044$&lt;/font&gt;$pp:가,이$ 그립구만… ' />
 	<key id="0905163707008896" feature="" npc="요하랑" name="하랑, 하랑… 그곳은 나의 고향… " />
 	<key id="0905163707008897" feature="" npc="요하랑" name="하랑 호수는 이보다 훨씬 더 맑았는데… " />
@@ -8454,6 +8499,7 @@
 	<key id="1113181007009235" feature="FameContents" npc="프레이" name="먼길 오느라 고생 했네." />
 	<key id="1113181007009238" feature="FameContents" npc="오스칼" name="반가워요, $MyPCName$." />
 	<key id="1116181907009256" feature="FameContents" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
+	<key id="1127103307011969" feature="FameContents" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
 	<key id="1116181907009259" feature="FameContents" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
 	<key id="1116181907009262" feature="FameContents" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
 	<key id="1116181907009265" feature="FameContents" npc="네이린" name="그린 후드, 임무 대기 중! 그럼 바로 브리핑을 시작할까요?" />
@@ -9813,6 +9859,232 @@
 	<key id="1002141907011438" feature="Season1" npc="할로윈의 유령" name="아… 그럼 안 되는데. 불안하단 말이야.&#x0A;나는 아무 것도 못 봤어. 묻지 말아 줘." />
 	<key id="1002141907011439" feature="Season1" npc="pc" name="뭔가 본 게 있냐고 물어본다." />
 	<key id="1002141907011440" feature="Season1" npc="할로윈의 유령" name='안돼. &lt;font color=&quot;#ffd200&quot;&gt;그 여자&lt;/font&gt;가 쫓아오면 어떡하라고.&#x0A;싫어. 나는 아무 이야기도 하지 않을 거야.' />
+	<key id="0928133807011350" feature="Kritias_2018_12" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
+	<key id="0928133807011351" feature="Kritias_2018_12" npc="블리체" name="이곳에 착륙한 이상, 한순간도 방심하지 않길 바란다 제군." />
+	<key id="0116153807012734" feature="Kritias_2018_12" npc="블리체" name="아직은 임무를 수행할 준비가 되지 않았군." />
+	<key id="0928133807011352" feature="Kritias_2018_12" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
+	<key id="0928133807011353" feature="Kritias_2018_12" npc="콘대르" name="돕고는 싶지만, 근위대는 메이플 월드를 지켜야 하니 답답하군…&#x0A;나라도 할 수 있는 일이 있을 텐데." />
+	<key id="0928133807011354" feature="Kritias_2018_12" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
+	<key id="0928133807011355" feature="Kritias_2018_12" npc="샤텐" name="크리티아스에 침투를 시도했지만, AI가 통제하고 있어서 전부 실패해버렸어.&#x0A;이번엔 다크 윈드가 나설 일이 없을지도 모르겠는걸?" />
+	<key id="0928133807011356" feature="Kritias_2018_12" npc="네이린" name="그린 후드, 임무 대기 중! &#x0A;그럼 바로 브리핑을 시작할까요?" />
+	<key id="0928133807011357" feature="Kritias_2018_12" npc="네이린" name="곳곳에 있는 기계의 흔적들이 신경 쓰여요.&#x0A;숨겨진 메시지라도 존재하는 걸까요?" />
+	<key id="0116153807012735" feature="Kritias_2018_12" npc="네이린" name="임무를 수행할 준비가 되지 않으셨어요." />
+	<key id="0928133807011358" feature="Kritias_2018_12" npc="메이슨" name="세계는 충분히 관찰했습니다. 이제 움직일 시간입니다." />
+	<key id="0928133807011359" feature="Kritias_2018_12" npc="메이슨" name="이곳… 심상치 않은 어둠의 힘이 느껴지는군요.&#x0A;제 안의 어둠이 반응하는 걸 보니, 아주 익숙한… " />
+	<key id="0116153807012736" feature="Kritias_2018_12" npc="메이슨" name="아직 저와 대화할 준비가 안 되셨군요." />
+	<key id="1102172107011621" feature="Kritias_2018_12" npc="미카" name="알 수 없는 불길한 기운이 느껴져." />
+	<key id="1102172107011622" feature="Kritias_2018_12" npc="미카" name="곳곳에서 느껴지는 용의 흔적들…&#x0A;이번에야 말로!" />
+	<key id="1010140307011441" feature="Kritias_2018_12" npc="미카" name="알 수 없는 불길한 기운이 느껴져." />
+	<key id="1010140307011442" feature="Kritias_2018_12" npc="미카" name="앗, 너는!" />
+	<key id="1010140307011443" feature="Kritias_2018_12" npc="미카" name="안녕? 오랜만이네!&#x0A;여긴 어쩐일이야?" />
+	<key id="1010140307011444" feature="Kritias_2018_12" npc="pc" name="(너는 무슨 일로 왔냐고 묻는다.)" />
+	<key id="1010140307011445" feature="Kritias_2018_12" npc="미카" name="얼마 전부터 알 수 없는 불안한 기운이 느껴져서,&#x0A;혹시 이곳의 영향은 아닐지 알아보러 왔어." />
+	<key id="1010140307011446" feature="Kritias_2018_12" npc="pc" name="(뭔가 알아낸 것이 있는지 묻는다.)" />
+	<key id="1010140307011447" feature="Kritias_2018_12" npc="미카" name="응, 물론이야!&#x0A;희미하게 익숙한 기운이 감도는 장소에 가보았더니, &#x0A;드래곤의 흔적이 있던 거 있지?!" />
+	<key id="1010140307011448" feature="Kritias_2018_12" npc="미카" name='이곳에도 과거에 드래곤들이 살았던 거야…!&#x0A;비셋님이 말해주셨던 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 용족&lt;/font&gt;. &#x0A;그들과 관련이 있을지도 몰라!' />
+	<key id="1010141507011602" feature="Kritias_2018_12" npc="미카" name="새로운 단서를 찾을 수 있도록 너도 기도해줘!" />
+	<key id="0111224807012687" feature="Kritias_2018_12" npc="pc" name="(기도하겠다고 말한다.)" />
+	<key id="0111224807012688" feature="Kritias_2018_12" npc="미카" name="고마워!" />
+	<key id="1102172107011623" feature="Kritias_2018_12" npc="둔바" name="다 처음 보는 것투성이야…" />
+	<key id="1102172107011624" feature="Kritias_2018_12" npc="둔바" name="무서워…무서워…&#x0A;다 처음 보는 것 투성이야…" />
+	<key id="1010140307011449" feature="Kritias_2018_12" npc="둔바" name="다 처음 보는 것투성이야…" />
+	<key id="1010140307011450" feature="Kritias_2018_12" npc="둔바" name="으악 깜짝이야!!!" />
+	<key id="1010140307011451" feature="Kritias_2018_12" npc="pc" name="(왜 그렇게 놀라냐고 묻는다.)" />
+	<key id="1010140307011452" feature="Kritias_2018_12" npc="둔바" name="아… 너였구나. 휴우." />
+	<key id="1010140307011453" feature="Kritias_2018_12" npc="둔바" name="그야 이곳은 처음 보는 것투성이고… 너무 무서운걸." />
+	<key id="1010140307011454" feature="Kritias_2018_12" npc="둔바" name="$npcName:11004322[gender:0]$$pp:는,은$ 새로운 식자재를 찾는 것에 이미 빠져버렸고,&#x0A;$npcName:11004321[gender:1]$도 이제는 내가 귀찮은가 봐…흑." />
+	<key id="1010140307011455" feature="Kritias_2018_12" npc="둔바" name="나도 용의 흔적을 찾는 것에 뭔가 도움이 되고 싶은데, 너무 무서워서…" />
+	<key id="1010140307011456" feature="Kritias_2018_12" npc="pc" name="(분명 보탬이 될 수 있을 것이라고 말한다.)" />
+	<key id="1010140307011457" feature="Kritias_2018_12" npc="둔바" name="그렇게 말해줘서 정말 고마워.&#x0A;나도 용기를 내볼게…!" />
+	<key id="1102172107011625" feature="Kritias_2018_12" npc="타라" name="휴우…걱정이네." />
+	<key id="1102172107011626" feature="Kritias_2018_12" npc="타라" name="낯선 곳도 낯선 곳이지만…&#x0A;정말 걱정이네." />
+	<key id="1010140307011458" feature="Kritias_2018_12" npc="타라" name="휴우…걱정이네." />
+	<key id="1010140307011459" feature="Kritias_2018_12" npc="타라" name="음?" />
+	<key id="1010140307011460" feature="Kritias_2018_12" npc="타라" name="앗! 너!!!&#x0A;그때 그렇게 헤어지고 어떻게 지내나 궁금했는데. 잘 지냈어?" />
+	<key id="1010140307011461" feature="Kritias_2018_12" npc="pc" name="(잘 지냈다고 말한다.)" />
+	<key id="1010140307011462" feature="Kritias_2018_12" npc="타라" name="듣던 중 반가운 소식이네.&#x0A;여긴 어쩐일이야?" />
+	<key id="1010140307011463" feature="Kritias_2018_12" npc="pc" name="(조사할 것이 있다고 말한다.)" />
+	<key id="1010140307011464" feature="Kritias_2018_12" npc="타라" name="그렇구나, 너도…하아." />
+	<key id="1010140307011465" feature="Kritias_2018_12" npc="타라" name='우린 $npcName:11004319[gender:1]$$pp:가,이$ 과거 비셋님께 들었다던 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 용족&lt;/font&gt;.&#x0A;그들에 대해 알아보고 있어.' />
+	<key id="1010140307011466" feature="Kritias_2018_12" npc="pc" name="(여긴 어떻게 올 수 있었냐고 묻는다.)" />
+	<key id="1010140307011467" feature="Kritias_2018_12" npc="타라" name="$npcName:11004319[gender:1]$$pp:가,이$ 가지고 있는 드래곤의 힘을 통해 올 수 있었어.&#x0A;루미에라곤의 세상에서 꽤 강력한 힘을 얻은 모양이더라고." />
+	<key id="1010140307011468" feature="Kritias_2018_12" npc="타라" name="이것저것 흥미로운 일이 많은 곳인 것 같지만,&#x0A;$npcName:11004320[gender:0]$$pp:가,이$ 너무 겁에 질린 것 같아서 걱정이야.&#x0A;네가 위로의 말 좀 해줄래?" />
+	<key id="1010140307011469" feature="Kritias_2018_12" npc="pc" name="(알겠다고 말한다.)" />
+	<key id="1010140307011470" feature="Kritias_2018_12" npc="타라" name="고마워! 너만 믿을게!" />
+	<key id="1102172107011627" feature="Kritias_2018_12" npc="스타츠" name="흐음…" />
+	<key id="1102172107011628" feature="Kritias_2018_12" npc="스타츠" name="이정도라면,&#x0A;다음 신메뉴는 이미 정해진거나 다름 없겠어." />
+	<key id="1010140307011471" feature="Kritias_2018_12" npc="스타츠" name="흐음…" />
+	<key id="1010140307011472" feature="Kritias_2018_12" npc="스타츠" name="흐으음?" />
+	<key id="1010140307011473" feature="Kritias_2018_12" npc="pc" name="(오랜만에 봐서 반갑다고 말한다.)" />
+	<key id="1010140307011474" feature="Kritias_2018_12" npc="스타츠" name="그것참 놀랍네.&#x0A;나는 하나도 반갑지가 않아서 말이야." />
+	<key id="1010140307011475" feature="Kritias_2018_12" npc="pc" name="(…네게 반가운 게 있기는 한 거냐고 묻는다.)" />
+	<key id="1010140307011476" feature="Kritias_2018_12" npc="스타츠" name="물론이지.&#x0A;$npcName:11004319[gender:1]$$pp:를,을$ 따라 이곳에서 용의 흔적을 찾는 도중 발견한…" />
+	<key id="1010140307011477" feature="Kritias_2018_12" npc="pc" name="(뭔가 중요한 단서라도 찾은 거냐고 묻는다.)" />
+	<key id="1010140307011478" feature="Kritias_2018_12" npc="스타츠" name='&lt;font size=&quot;40&quot;&gt;새로운 식자재들.&lt;/fond&gt;' />
+	<key id="1010140307011479" feature="Kritias_2018_12" npc="스타츠" name="새로운 대륙인 만큼, 난생 처음 보는 식자재가 지천으로 널려있단 말씀이야!" />
+	<key id="1010140307011480" feature="Kritias_2018_12" npc="스타츠" name="이번 신메뉴는 기대해도 좋아.&#x0A;꼭 한번 들르라고." />
+	<key id="0111224807012689" feature="Kritias_2018_12" npc="pc" name="(꼭 방문하겠다고 말한다.)" />
+	<key id="0111224807012690" feature="Kritias_2018_12" npc="스타츠" name="그래~" />
+	<key id="1010140307011481" feature="Kritias_2018_12" npc="이브" name="…" />
+	<key id="1010140307011482" feature="Kritias_2018_12" npc="이브" name="넌…" />
+	<key id="1010140307011483" feature="Kritias_2018_12" npc="이브" name="여긴 무슨 일이야? &#x0A;혹시… 너도 날 데려가려고 찾아온 거야?" />
+	<key id="1010140307011484" feature="Kritias_2018_12" npc="pc" name="(아니라고 말한다.)" />
+	<key id="1010140307011485" feature="Kritias_2018_12" npc="이브" name="...정말이지?" />
+	<key id="1010140307011486" feature="Kritias_2018_12" npc="pc" name="(표정이 안 좋아 보인다고 말한다.)" />
+	<key id="1010140307011487" feature="Kritias_2018_12" npc="이브" name="다른 사람 눈에도 그렇게 보이는구나." />
+	<key id="1010140307011488" feature="Kritias_2018_12" npc="이브" name="사실, $npcName:11000044[gender:0]$에게 들었던 이야기 중 신경 쓰이는 게 있었는데.&#x0A;이곳과 관련이 있지는 않을까 하는 생각에 오게 됐어." />
+	<key id="1010140307011489" feature="Kritias_2018_12" npc="이브" name="혼자 몰래 알아볼 생각이었는데… &#x0A;$npcName:11004324[gender:0]$$pp:가,이$ 어떻게 알았는지 금방 뒤쫓아 왔지 뭐야." />
+	<key id="1010140307011490" feature="Kritias_2018_12" npc="이브" name="옆에서 돌아가자며 툴툴대기만 할 거면서. 하아." />
+	<key id="1010140307011491" feature="Kritias_2018_12" npc="이브" name="이번에야말로 $npcName:11000044[gender:0]$$pp:가,이$ 말했던 진실에 대해 꼭 알아내고 말 거야!" />
+	<key id="0111232407012691" feature="Kritias_2018_12" npc="pc" name="(힘내라고 말한다.)" />
+	<key id="0111232407012692" feature="Kritias_2018_12" npc="이브" name="응! 힘낼게." />
+	<key id="0109125407012657" feature="Kritias_2018_12" npc="이브" name="하아…" />
+	<key id="0109125407012658" feature="Kritias_2018_12" npc="이브" name="$npcName:11004324[gender:0]$$pp:는,은$ 왜 항상…&#x0A;걱정해주는 마음은 고맙지만, 가끔은 날 내버려 뒀으면 좋겠는데." />
+	<key id="1010140307011492" feature="Kritias_2018_12" npc="레논" name="도대체 무슨 생각인건지…" />
+	<key id="1010140307011493" feature="Kritias_2018_12" npc="레논" name="$npcName:11004323[gender:1]$$pp:는,은$ 정말 막무가내라니까." />
+	<key id="1010140307011494" feature="Kritias_2018_12" npc="pc" name="(왜 그렇게 불안해하고 있냐고 묻는다.)" />
+	<key id="1010140307011495" feature="Kritias_2018_12" npc="레논" name="엇, 넌…&#x0A;너도 여기 있었구나?" />
+	<key id="1010140307011496" feature="Kritias_2018_12" npc="레논" name="얼마 전부터 $npcName:11004323[gender:1]$$pp:가,이$ 보이지 않아서 수소문하던 중에,&#x0A;혼자 이곳에 와있다는 걸 알게 됐지 뭐야.&#x0A;그래서 바로 뒤따라온 거지." />
+	<key id="1010140307011497" feature="Kritias_2018_12" npc="레논" name="무슨 일이냐고 물어봐도 아무런 말도 해주지 않더라고.&#x0A;내가 그렇게 못 미더운 건지…" />
+	<key id="1010140307011498" feature="Kritias_2018_12" npc="레논" name="아무튼! 난 $npcName:11004323[gender:1]$$pp:가,이$ 여기 있는 건 반대야.&#x0A;너무 위험한 환경이라고!" />
+	<key id="0111232407012693" feature="Kritias_2018_12" npc="pc" name="(고생이 많다고 말한다.)" />
+	<key id="0111232407012694" feature="Kritias_2018_12" npc="레논" name="너도, $npcName:11004323[gender:1]$에게 말 좀 해줘." />
+	<key id="0109125407012659" feature="Kritias_2018_12" npc="레논" name="걱정이네…" />
+	<key id="0109125407012660" feature="Kritias_2018_12" npc="레논" name="$npcName:11004323[gender:1]$$pp:가,이$ 생각을 바꾸고&#x0A;빅토리아 아일랜드로 함께 돌아가면 좋을 텐데." />
+	<key id="1010140307011499" feature="Kritias_2018_12" npc="혁이" name="믿을 수가 없어." />
+	<key id="1010140307011500" feature="Kritias_2018_12" npc="혁이" name="아아…아름다워." />
+	<key id="1010140307011501" feature="Kritias_2018_12" npc="혁이" name="지금까지 잃어왔던 영감이 한 번에 회복 되는 기분이야.&#x0A;아름다운 오로라와 신비로운 동식물들…" />
+	<key id="1010140307011502" feature="Kritias_2018_12" npc="혁이" name="바로 이거야. &#x0A;드디어 제대로 된 곡을 쓸 수 있겠어!" />
+	<key id="1010140307011503" feature="Kritias_2018_12" npc="pc" name="(지금까지 곡을 쓴 적은 없지 않냐고 묻는다.)" />
+	<key id="1010140307011504" feature="Kritias_2018_12" npc="혁이" name="지금까지의 나는 잊는 게 좋을 거야.&#x0A;오늘부로 나, $npcName:11004325[gender:0]$$pp:는,은$ 다시 태어나는 거라고!" />
+	<key id="1010140307011505" feature="Kritias_2018_12" npc="혁이" name="앞으로의 나, 앞으로의 곡을 기대해줘!" />
+	<key id="1010140307011506" feature="Kritias_2018_12" npc="매니저" name="이런 곳으로 발령이 날 줄이야." />
+	<key id="1010140307011507" feature="Kritias_2018_12" npc="매니저" name="거기, 물러나세요." />
+	<key id="1010140307011508" feature="Kritias_2018_12" npc="매니저" name="음? 스카이 포트리스 대원 중 한 분이셨군요.&#x0A;죄송합니다." />
+	<key id="1010140307011509" feature="Kritias_2018_12" npc="pc" name="(아이돌 $npcName:11004325[gender:0]$$pp:가,이$ 이곳에는 무슨 일이냐고 묻는다.)" />
+	<key id="1010140307011510" feature="Kritias_2018_12" npc="매니저" name="아, 그건… 잠시 귀 좀 빌려주시겠습니까?" />
+	<key id="1010140307011511" feature="Kritias_2018_12" npc="매니저" name="$npcName:11004325[gender:0]$ 씨의 인기가 이젠 좀 시들해져서 말이죠…&#x0A;솔직히 요즘 아이돌들은 다재다능한 게 대세이지 않습니까?" />
+	<key id="1010140307011512" feature="Kritias_2018_12" npc="매니저" name="그런데 우리 $npcName:11004325[gender:0]$ 씨는 작곡은 고사하고 작사도…크흠흠." />
+	<key id="1010140307011513" feature="Kritias_2018_12" npc="매니저" name="아무튼 그러던 때. 이 미지의 땅이 떠오른 것이죠.&#x0A;이 신비로운 땅에 $npcName:11004325[gender:0]$ 씨는 완전히 반해버렸어요." />
+	<key id="1010140307011514" feature="Kritias_2018_12" npc="매니저" name="이곳에서라면 영감을 받을 수 있다고 고집을 피우시는 바람에...&#x0A;팬클럽 회장님의 도움을 받아 스카이 포트리스에 탑승할 수 있었던 거랍니다." />
+	<key id="1010140307011515" feature="Kritias_2018_12" npc="pc" name="(팬클럽 회장이 누구냐고 묻는다.)" />
+	<key id="1010140307011516" feature="Kritias_2018_12" npc="매니저" name="그, 그건… 말씀드릴 수 없고요.&#x0A;스카이 포트리스의 교관님들 중 한 분이라고만 이야기 해두죠." />
+	<key id="1010140307011517" feature="Kritias_2018_12" npc="구르는 천둥" name="흐음…" />
+	<key id="1010140307011518" feature="Kritias_2018_12" npc="구르는 천둥" name="확실히 이상해.&#x0A;이상한 느낌이 든다고." />
+	<key id="1010140307011519" feature="Kritias_2018_12" npc="pc" name="(네가 여기 있는 것이 더 의외라고 말한다.)" />
+	<key id="1010140307011520" feature="Kritias_2018_12" npc="구르는 천둥" name="뭐어? 하하.&#x0A;신대륙이 떠올랐다는 소식에 $map:02000051$의 대표로서 방문한 것뿐인걸." />
+	<key id="1010140307011521" feature="Kritias_2018_12" npc="pc" name="(정말 그 이유뿐이냐고 묻는다.)" />
+	<key id="1010140307011522" feature="Kritias_2018_12" npc="구르는 천둥" name="…넌 눈치 하나는 예전부터 빨랐다니까." />
+	<key id="1010140307011523" feature="Kritias_2018_12" npc="구르는 천둥" name="사실, 얼마 전 아버지가 꿈에 나타나셨거든.&#x0A;$map:02000051$에 위기가 닥칠지도 모른다는 이야길 하셨는데…" />
+	<key id="1010140307011524" feature="Kritias_2018_12" npc="구르는 천둥" name="그 꿈을 꾼 지 며칠 되지 않아서 이곳이 모습을 나타냈어.&#x0A;아무리 봐도 심상치 않아서 말이지." />
+	<key id="1010140307011525" feature="Kritias_2018_12" npc="구르는 천둥" name="$npcName:11004328[gender:1]$도 신경 쓰이는 게 있다고 하고…&#x0A;좀 더 알아보는 게 좋을 것 같아." />
+	<key id="1010140307011526" feature="Kritias_2018_12" npc="티나" name="이 울음소리들은 대체…" />
+	<key id="1010140307011527" feature="Kritias_2018_12" npc="티나" name="이 울음소리들은 대체…" />
+	<key id="1010140307011528" feature="Kritias_2018_12" npc="티나" name="아, 너구나?" />
+	<key id="1010140307011529" feature="Kritias_2018_12" npc="티나" name="저기, 나 뭔가 물어볼 게 있는데.&#x0A;혹시 너도 이 소리… 안 들리는 거니?" />
+	<key id="1010140307011530" feature="Kritias_2018_12" npc="pc" name="(어떤 소리를 말하는 거냐고 묻는다.)" />
+	<key id="1010140307011531" feature="Kritias_2018_12" npc="티나" name="역시 안 들리는구나. &#x0A;하아…" />
+	<key id="1010140307011532" feature="Kritias_2018_12" npc="티나" name="얼마 전부터 알 수 없는 생명체의 울부짖음이 들려와서 말이야.&#x0A;굉장히 괴로워하고 있는 듯한… 처음 들어보는 울음소리가." />
+	<key id="1010140307011533" feature="Kritias_2018_12" npc="티나" name="새로운 대륙이 떠올랐다는 사실을 듣고 $npcName:11004327[gender:0]$과 함께 부리나케 와보았는데…&#x0A;이곳의 몬스터에게 들리는 소리는 아니었어." />
+	<key id="1010140307011534" feature="Kritias_2018_12" npc="티나" name="뭔가가 숨겨져 있는 걸까?&#x0A;아직 많은 것이 밝혀지지 않은 이 대륙에 말이야." />
+	<key id="1102172107011629" feature="Kritias_2018_12" npc="호르헤" name="오호…이런 원리란 말이지? 정말 흥미로워." />
+	<key id="1102172107011630" feature="Kritias_2018_12" npc="호르헤" name="오호…이런 원리란 말이지? 정말 흥미로워." />
+	<key id="1010140307011535" feature="Kritias_2018_12" npc="호르헤" name="오호…이런 원리란 말이지? 정말 흥미로워." />
+	<key id="1010140307011536" feature="Kritias_2018_12" npc="호르헤" name="오호…이런 원리란 말이지? 정말 흥미로워." />
+	<key id="1010140307011537" feature="Kritias_2018_12" npc="pc" name="(또 무슨 연구를 하고 있는 것이냐고 묻는다.)" />
+	<key id="1010140307011538" feature="Kritias_2018_12" npc="호르헤" name="음? 무슨 연구냐니?&#x0A;그거야 물론, 이 대륙의 마법연구지!" />
+	<key id="1010140307011539" feature="Kritias_2018_12" npc="호르헤" name="새롭게 떠오른 신대륙에서 새로운 마법을 운용하고 있다는 소문은&#x0A;이미 $map:02000023$ 전체에 퍼져있다고." />
+	<key id="1010140307011540" feature="Kritias_2018_12" npc="호르헤" name="이런 흥미로운 기회를 내가 놓칠 리 없잖아?" />
+	<key id="1010140307011541" feature="Kritias_2018_12" npc="호르헤" name="두고 보라고.&#x0A;$map:02000023$ 역사에 기록될 획기적인 마법을 발견하고 말 테니까!" />
+	<key id="0111232407012695" feature="Kritias_2018_12" npc="pc" name="(기대하겠다고 말한다.)" />
+	<key id="0111232407012696" feature="Kritias_2018_12" npc="호르헤" name="응, 고마워." />
+	<key id="1102172107011631" feature="Kritias_2018_12" npc="케이틀린" name="하아…" />
+	<key id="1102172107011632" feature="Kritias_2018_12" npc="케이틀린" name="여기서 이렇게 지내고 있어도 되는 걸까?&#x0A;그냥 돌아가는게 더 좋을 것 같은데…" />
+	<key id="1010140307011542" feature="Kritias_2018_12" npc="케이틀린" name="하아…" />
+	<key id="1010140307011543" feature="Kritias_2018_12" npc="케이틀린" name="하아…" />
+	<key id="1010140307011544" feature="Kritias_2018_12" npc="pc" name="(표정이 어두워 보인다고 말한다.)" />
+	<key id="1010140307011545" feature="Kritias_2018_12" npc="케이틀린" name="으응…?&#x0A;이런 곳에서까지 너랑 마주치는구나." />
+	<key id="1010140307011546" feature="Kritias_2018_12" npc="케이틀린" name="새로운 마법을 쓰고 있다는 대륙이 있다고 해서 달려왔는데,&#x0A;난 별로 알아낸 게 없어." />
+	<key id="1010140307011547" feature="Kritias_2018_12" npc="케이틀린" name="옆에 있는 $npcName:11004329[gender:0]$ 씨는 벌써 이것저것 연구하고 있는 것 같은데 말이야." />
+	<key id="1010140307011548" feature="Kritias_2018_12" npc="케이틀린" name="$npcName:11000032[gender:0]$ 선생님의 상태를 호전시킬 수 있을 만한…&#x0A;무언가를 찾을 수 있을 줄 알았는데." />
+	<key id="1010140307011549" feature="Kritias_2018_12" npc="pc" name="(분명 알아낼 수 있을 것이라고 말한다.)" />
+	<key id="1010140307011550" feature="Kritias_2018_12" npc="케이틀린" name="크흠흠! 됐어!&#x0A;방해되니까 멀리 좀 가줄래?!&#x0A;나는 혼자서도 잘하는 엘리넬 최고 우등생이라구!" />
+	<key id="1102172107011633" feature="Kritias_2018_12" npc="오르데" name="마지막 용의 아이들이라고?!" />
+	<key id="1102172107011634" feature="Kritias_2018_12" npc="오르데" name="용의 아이들이라니…이게 꿈이야 생시야!" />
+	<key id="1010140307011551" feature="Kritias_2018_12" npc="오르데" name="마지막 용의 아이들이라고?!" />
+	<key id="1010140307011552" feature="Kritias_2018_12" npc="오르데" name="용의 아이들이라니…이게 꿈이야 생시야!" />
+	<key id="1010140307011553" feature="Kritias_2018_12" npc="pc" name="(어깨를 가볍게 툭툭 친다.)" />
+	<key id="1010140307011554" feature="Kritias_2018_12" npc="오르데" name="으아앗!!! 깜짝이야!!!" />
+	<key id="1010140307011555" feature="Kritias_2018_12" npc="오르데" name="휴우, 너였구나? 별일이네~ 널 여기서 다 만나고." />
+	<key id="1010140307011556" feature="Kritias_2018_12" npc="오르데" name="그런데 나 지금 바쁘니까.&#x0A;나중에 다시 대화하면 안 될까?" />
+	<key id="1010140307011557" feature="Kritias_2018_12" npc="pc" name="(무엇을 하고 있냐고 묻는다.)" />
+	<key id="1010140307011558" feature="Kritias_2018_12" npc="오르데" name="그, 그건…크흠.&#x0A;이건 비밀인데." />
+	<key id="1010140307011559" feature="Kritias_2018_12" npc="오르데" name='사실 지금 여기에... &#x0A;&lt;font size=&quot;40&quot;&gt;마지막 루미에라곤이 보살피던 아이들이 와있다는 거 있지!!!&lt;/font&gt;' />
+	<key id="1010140307011560" feature="Kritias_2018_12" npc="오르데" name="그래서 $npcName:11004332[gender:1]$, 저 녀석을 따라 여기까지 온 거라고.&#x0A;사실인지 아닌지 긴가민가했는데… 진짜였지 뭐야!!!" />
+	<key id="1010140307011561" feature="Kritias_2018_12" npc="오르데" name="특히 저 금발 여자아이!&#x0A;뭔가 드래곤의 힘이 팍팍 느껴지는 것만 같아!!! 착각일까?!" />
+	<key id="1010140307011562" feature="Kritias_2018_12" npc="오르데" name="가서 인터뷰 한 번만 해봤으면…&#x0A;아니 아니, 루미에라곤의 이야기를 1분이라도 좋으니 들려줬으면…!" />
+	<key id="0111232407012697" feature="Kritias_2018_12" npc="pc" name="(여전하다고 말한다.)" />
+	<key id="0111232407012698" feature="Kritias_2018_12" npc="오르데" name="너 쟤네랑 아는 사이지? 맞지?&#x0A;나 대신 뭐 좀 물어봐 주면 안될까? 응? 응?&#x0A;잠깐! 도망치지 말라고!!" />
+	<key id="1102172107011635" feature="Kritias_2018_12" npc="라네모네" name="흐으음…" />
+	<key id="1102172107011636" feature="Kritias_2018_12" npc="라네모네" name="너무나도 강하게 느껴진단 말이지…&#x0A;뭔가 이상할 정도로 말이야." />
+	<key id="1010140307011563" feature="Kritias_2018_12" npc="라네모네" name="응?" />
+	<key id="1010140307011564" feature="Kritias_2018_12" npc="라네모네" name="얘, 너!" />
+	<key id="1010140307011565" feature="Kritias_2018_12" npc="라네모네" name="그래. 너.&#x0A;오랜만이다?" />
+	<key id="1010140307011566" feature="Kritias_2018_12" npc="라네모네" name="혹시나 했는데... 진짜로 너도 이곳에 와있을 줄은 몰랐네." />
+	<key id="1010140307011567" feature="Kritias_2018_12" npc="pc" name="(여기는 무슨 일이냐고 묻는다.)" />
+	<key id="1010140307011568" feature="Kritias_2018_12" npc="라네모네" name="글쎄 말이지, $npcName:11004233[gender:0]$ 그 영감탱…크흠흠!&#x0A;$npcName:11004233[gender:0]$씨가 나를 파견 보냈지 뭐야." />
+	<key id="1010140307011569" feature="Kritias_2018_12" npc="라네모네" name="프론티어 재단도 뭔가 냄새를 맡은 거겠지.&#x0A;이 대륙에서 강력하게 느껴지는…" />
+	<key id="1010140307011570" feature="Kritias_2018_12" npc="라네모네" name="라펜타의 힘에 대해서 말이야." />
+	<key id="1010140307011571" feature="Kritias_2018_12" npc="라네모네" name="뭐, 그건 이미 너도 알고 있는 사실인가?&#x0A;오호호호~" />
+	<key id="1010140307011572" feature="Kritias_2018_12" npc="라네모네" name="바보를 하나 달고 와서 그런지 생각보다 긴장되지는 않네.&#x0A;너도 몸조심하라고." />
+	<key id="0111232407012699" feature="Kritias_2018_12" npc="pc" name="($npcName:11004233[gender:0]$도 조심하라고 말한다.)" />
+	<key id="0111232407012700" feature="Kritias_2018_12" npc="라네모네" name="걱정 말라고" />
+	<key id="1010140307011573" feature="Kritias_2018_12" npc="미엘" name="안녕?" />
+	<key id="1010140307011574" feature="Kritias_2018_12" npc="미엘" name="안녕?" />
+	<key id="1010140307011575" feature="Kritias_2018_12" npc="미엘" name="반가워. &#x0A;뭔가 오랜만이네." />
+	<key id="1010140307011576" feature="Kritias_2018_12" npc="미엘" name="이곳…정말 아름다운 곳이지?" />
+	<key id="1010140307011577" feature="Kritias_2018_12" npc="미엘" name="난생 처음 보는 듯한 하늘과 땅이지만… &#x0A;왠지 모르게 그리운 기분이 들어." />
+	<key id="1010140307011578" feature="Kritias_2018_12" npc="미엘" name="드디어 내 존재에 대한 답을 얻을 수 있는 걸까?" />
+	<key id="1010140307011579" feature="Kritias_2018_12" npc="pc" name="(꼭 알아낼 수 있을 것이라고 말한다.)" />
+	<key id="1010140307011580" feature="Kritias_2018_12" npc="미엘" name="고마워.&#x0A;뭔가 용기가 샘솟는 기분이야." />
+	<key id="1010140307011581" feature="Kritias_2018_12" npc="pc" name="($npcName:11001431[gender:0]$$pp:는,은$ 어디있냐고 묻는다.)" />
+	<key id="1010140307011582" feature="Kritias_2018_12" npc="미엘" name="$npcName:11001431[gender:0]$에게 같이 와달라고 부탁했는데, 거절당했지 뭐야.&#x0A;$npcName:11001431[gender:0]$$pp:가,이$ 있었다면 좀 더 많은 걸 알아낼 수 있을지도 모르는데." />
+	<key id="1010140307011583" feature="Kritias_2018_12" npc="미엘" name="난 $npcName:11001431[gender:0]$만큼 똑똑하지 않거든…" />
+	<key id="1010140307011584" feature="Kritias_2018_12" npc="지그문트" name="호오…" />
+	<key id="1010140307011585" feature="Kritias_2018_12" npc="지그문트" name="정말 알아낼수록 굉장한걸?" />
+	<key id="1010140307011586" feature="Kritias_2018_12" npc="지그문트" name="마법과 과학이 공존하고 있는 대륙이 떠올랐다더니…&#x0A;그 말이 사실이었을 줄이야.&#x0A;역시 오래 살고 볼일이라니까?" />
+	<key id="1010140307011587" feature="Kritias_2018_12" npc="지그문트" name="톱니바퀴를 가동하고 있는 마법석이라니…흥미롭지 않을 수가 없잖아." />
+	<key id="1010140307011588" feature="Kritias_2018_12" npc="지그문트" name="이곳의 마법사와 과학자에 대해 자세히 조사해 보는 게 좋겠어." />
+	<key id="1010140307011589" feature="Kritias_2018_12" npc="지그문트" name="그리고 우리 반마법 저항군의 기술력을 더욱 높이는 거야!" />
+	<key id="1010140307011590" feature="Kritias_2018_12" npc="헨리테" name="믿을 수가 없는걸." />
+	<key id="1010140307011591" feature="Kritias_2018_12" npc="헨리테" name="정말 대단해… 믿을 수가 없군." />
+	<key id="1010140307011592" feature="Kritias_2018_12" npc="헨리테" name="우리와 완벽히 반대되는 대륙이 떠오르다니.&#x0A;이건 조사해보지 않는 게 이상할 정도야." />
+	<key id="1010140307011593" feature="Kritias_2018_12" npc="헨리테" name="$npcName:11004334[gender:1]$의 말을 듣고는, 솔직히 말도 안 된다고 생각했는데 말이야…&#x0A;실제로 보니 놀라워." />
+	<key id="1010140307011594" feature="Kritias_2018_12" npc="헨리테" name="$npcName:11003191[gender:0]$ 그 녀석이 이 광경을 직접 봤어야 하는 건데." />
+	<key id="1010140307011595" feature="Kritias_2018_12" npc="아이샤" name="에너지가 뿜어져 나오고 있어!" />
+	<key id="1010140307011596" feature="Kritias_2018_12" npc="아이샤" name="정말 놀라워요!!!" />
+	<key id="1010153807011618" feature="Kritias_2018_12" npc="pc" name="(뭐가 그렇게 놀랍냐고 묻는다.)" />
+	<key id="1010140307011597" feature="Kritias_2018_12" npc="아이샤" name="그거야 당연히 이 대륙의 기술력이죠!&#x0A;메이플 월드에서는 보지도 못했던 마법과 과학의 조합이라니…" />
+	<key id="1010140307011598" feature="Kritias_2018_12" npc="아이샤" name="특히 저 마법석을 연구할 생각에 벌써부터 심장이 두근대고 있어요.&#x0A;저 작은 돌조각 하나에서 나오는 에너지량은 대체…!" />
+	<key id="1010140307011599" feature="Kritias_2018_12" npc="아이샤" name="이 대륙에 숨겨진 에너지가 얼마나 더 많을지 너무 기대돼요." />
+	<key id="1010140307011600" feature="Kritias_2018_12" npc="pc" name="(새로운 에너지가 그렇게 좋냐고 묻는다.)" />
+	<key id="1010140307011601" feature="Kritias_2018_12" npc="아이샤" name="물론이죠!&#x0A;새로운 코어의 발명이 이루어질지도 모른다고요!" />
+	<key id="1010151207011604" feature="Kritias_2018_12" npc="아이샤" name="어?!" />
+	<key id="1010151207011605" feature="Kritias_2018_12" npc="pc" name="$npcName:11004336[gender:1]$?!" />
+	<key id="1010153807011619" feature="Kritias_2018_12" npc="아이샤" name="마스터!!! &#x0A;드디어 만났군요! &#x0A;절 지금 알아보시면 어떡해요?" />
+	<key id="1010151207011606" feature="Kritias_2018_12" npc="아이샤" name="쉿…!&#x0A;도청장치는 두고 왔지만, &#x0A;저쪽에 $npcName:11004334[gender:1]$ 일행이 있으니 목소리 좀 낮추세요." />
+	<key id="1010151207011607" feature="Kritias_2018_12" npc="pc" name="어떻게 된 거야? 여긴 어떻게, 왜 온거고?" />
+	<key id="1010151207011608" feature="Kritias_2018_12" npc="아이샤" name="새로운 에너지를 연구하고 오라는 $npcName:11000264[gender:0]$님의 명령으로 왔죠.&#x0A;…표면적으론 말이에요." />
+	<key id="1010151207011609" feature="Kritias_2018_12" npc="아이샤" name="마스터, 뭔가 이상해요.&#x0A;얼마 전부터 반마법 저항군이 $npcName:11000264[gender:0]$님의 사무실에 들락거린다구요." />
+	<key id="1010151207011610" feature="Kritias_2018_12" npc="아이샤" name="뭔가를 꾸미고 있는 것 같은데…&#x0A;마스터는 언제 돌아오실지 모르니 제가 이렇게 찾아왔죠!" />
+	<key id="1010151207011611" feature="Kritias_2018_12" npc="pc" name="$npcName:11004336[gender:1]$, 일단 여긴 위험하니까 돌아가는 게 좋…" />
+	<key id="1010151207011612" feature="Kritias_2018_12" npc="아이샤" name="시, 싫어요.&#x0A;이곳에서 제가 연구할 게 얼마나 많은데요." />
+	<key id="1010151207011613" feature="Kritias_2018_12" npc="아이샤" name="반마법 저항군의 행태도 살펴야 한다구요.&#x0A;이 막중한 임무를 놔두고 돌아갈 수는 없습니다." />
+	<key id="1010151207011614" feature="Kritias_2018_12" npc="pc" name="…너… 혹시 특별수당이라도 받은 거냐?" />
+	<key id="1010151207011615" feature="Kritias_2018_12" npc="아이샤" name="…" />
+	<key id="1010151207011616" feature="Kritias_2018_12" npc="아이샤" name="……." />
+	<key id="1010151207011617" feature="Kritias_2018_12" npc="pc" name="…무슨 말이라도 해줘, 아이샤." />
+	<key id="1010174007011620" feature="Kritias_2018_12" npc="아이샤" name="……………." />
 	<key id="1109213607011747" feature="Season1" npc="에블린" name="휴, 맘에 안 들어!" />
 	<key id="1120173007011845" feature="Season1" npc="에블린" name="이게 뭐야… 다들 어디 간 거야" />
 	<key id="1120173007011846" feature="Season1" npc="에블린" name="돌아와… 외롭단 말이야" />
@@ -9916,6 +10188,28 @@
 	<key id="1109213607011818" feature="Season1" npc="보리스" name="어른들도 좋아합니다.&#x0A;다만, 자신이 크리스마스를 좋아한다는 사실을 잊고 있어요." />
 	<key id="1109213607011819" feature="Season1" npc="pc" name='&quot;메리 크리스마스&quot;' />
 	<key id="1109213607011820" feature="Season1" npc="보리스" name="메리 크리스마스! &#x0A;신나는 겨울! 우리가 크리스마스를 얼마나 좋아하는지 잊지 말자고요!" />
+	<key id="1113161307011821" feature="Kritias_2018_12" npc="알론" name="흠, 왔군." />
+	<key id="1113161307011822" feature="Kritias_2018_12" npc="알론" name="항상 경계를 늦추면 안 돼." />
+	<key id="1113161307011823" feature="Kritias_2018_12" npc="루아나" name="무슨 일이시죠?" />
+	<key id="1113161307011824" feature="Kritias_2018_12" npc="루아나" name="여러분을 위해 항상 기도하겠습니다." />
+	<key id="1113161307011825" feature="Kritias_2018_12" npc="오스칼" name="무슨 일이신가요?" />
+	<key id="1113161307011826" feature="Kritias_2018_12" npc="오스칼" name="자경단이 있는 한. 걱정할 필요 없습니다." />
+	<key id="1113161307011827" feature="Kritias_2018_12" npc="칼" name="아. 자네 왔는가." />
+	<key id="1113161307011828" feature="Kritias_2018_12" npc="칼" name="이런 비현실적인 일이 일어나다니." />
+	<key id="1113161307011829" feature="Kritias_2018_12" npc="프레이" name="무슨 일이지?" />
+	<key id="1113161307011830" feature="Kritias_2018_12" npc="프레이" name="근위대원들의 훈련 강도를 더 높이는 게 좋겠군." />
+	<key id="1113161307011831" feature="Kritias_2018_12" npc="블랙아이" name="무슨 일이지?" />
+	<key id="1113161307011832" feature="Kritias_2018_12" npc="블랙아이" name="신대륙에 대한 다크윈드의 전략이 필요하겠군." />
+	<key id="1113161307011833" feature="Kritias_2018_12" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
+	<key id="1113161307011834" feature="Kritias_2018_12" npc="블리체" name="이럴 때일수록 침착해라, 제군." />
+	<key id="1113161307011835" feature="Kritias_2018_12" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
+	<key id="1113161307011836" feature="Kritias_2018_12" npc="콘대르" name="까짓거, 뭐가 걱정이라고!&#x0A;옛날에는 더한 것도 겪어봤다고." />
+	<key id="1113161307011837" feature="Kritias_2018_12" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
+	<key id="1113161307011838" feature="Kritias_2018_12" npc="샤텐" name="심상치 않은 바람이 느껴지는 건 사실이야." />
+	<key id="1113161307011839" feature="Kritias_2018_12" npc="네이린" name="그린 후드, 임무 대기 중! &#x0A;그럼 바로 브리핑을 시작할까요?" />
+	<key id="1113161307011840" feature="Kritias_2018_12" npc="네이린" name="새로운 대륙이라니, 저쪽의 군사력 수준이 궁금해지는데요?" />
+	<key id="1113161307011841" feature="Kritias_2018_12" npc="메이슨" name="세계는 충분히 관찰했습니다. 이제 움직일 시간입니다." />
+	<key id="1113161307011842" feature="Kritias_2018_12" npc="메이슨" name="신대륙이라면 걱정하실 필요 없습니다.&#x0A;제힘의 개방이 머지않았으니까요." />
 	<key id="1120173007011877" feature="Season1" npc="눈송이 요정" name="$map:63000072$$pp2:로,으로$ 놀러 오세요~" />
 	<key id="1120173007011878" feature="Season1" npc="눈송이 요정" name="$map:63000072$$pp2:로,으로$ 가는 급행 열차~ 공짜~" />
 	<key id="1120173007011879" feature="Season1" npc="눈송이 요정" name="$map:63000072$$pp2:로,으로$ 놀러 오세요~" />
@@ -9939,4 +10233,691 @@
 	<key id="1120173007011898" feature="Season1" npc="포리" name="다 같이 돌자, 동네 한 바퀴~" />
 	<key id="1120173007011899" feature="Season1" npc="포리" name="가위! 바위! 보!" />
 	<key id="1120173007011900" feature="Season1" npc="포리" name="눈이 온다~ 와~" />
+	<key id="1206141607011970" feature="Kritias_2018_12" npc="이름 모를 게오르크 병사" name="……." />
+	<key id="1206141607011971" feature="Kritias_2018_12" npc="이름 모를 게오르크 병사" name="……." />
+	<key id="1213154907011972" feature="Kritias_Epic01" npc="블리체" name="연합은 매 순간 앞으로 나아갈 것이다." />
+	<key id="1213154907011973" feature="Kritias_Epic01" npc="블리체" name="신대륙에 착륙한 이상, 우리에게 안전지대는 없다." />
+	<key id="1213154907011974" feature="Kritias_Epic01" npc="콘대르" name="나 때는 말이야! 어? 메이플 월드를 지키기 위해선 목숨도 내놓고 그랬어!" />
+	<key id="1213154907011975" feature="Kritias_Epic01" npc="콘대르" name="이럴 때일수록 맘을 강하게 먹어야 한다, 이 말씀이야!" />
+	<key id="1213154907011976" feature="Kritias_Epic01" npc="샤텐" name="어둠을 몰아낼, 검은 바람을 느껴봐." />
+	<key id="1213154907011977" feature="Kritias_Epic01" npc="샤텐" name="왔어? 아기 고양이.&#x0A;신대륙에서 보니 더 귀여운데?" />
+	<key id="1213154907011978" feature="Kritias_Epic01" npc="네이린" name="그린 후드, 임무 대기 중! &#x0A;그럼 바로 브리핑을 시작할까요?" />
+	<key id="1213154907011979" feature="Kritias_Epic01" npc="네이린" name="신대륙 생태조사, 군사력 파악…&#x0A;분석할 게 너무 많아요!!!" />
+	<key id="1213154907011980" feature="Kritias_Epic01" npc="메이슨" name="세계는 충분히 관찰했습니다. 이제 움직일 시간입니다." />
+	<key id="1213154907011981" feature="Kritias_Epic01" npc="메이슨" name="제 명석한 두뇌가 이곳에서도 활약할 것을 생각하니…&#x0A;벌써부터 기대가 되는군요." />
+	<key id="1213154907011982" feature="Kritias_Epic01" npc="마를레네" name="어서와요." />
+	<key id="1213154907011983" feature="Kritias_Epic01" npc="마를레네" name="우리 게오르크는 스카이 포트리스를 적극적으로 지원할 것입니다." />
+	<key id="1221144207012027" feature="" npc="마리나" name="무슨 일이에요?" />
+	<key id="1221144207012028" feature="" npc="마리나" name="오래된 물건, 신기하지 않나요?" />
+	<key id="1221144207012029" feature="" npc="마리나" name="저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요." />
+	<key id="1221144207012030" feature="" npc="마리나" name="크리티아스 역사 책을 읽어봤는데요.&#x0A;그 안에 놀라운 사실이 적혀 있었어요." />
+	<key id="1221144207012031" feature="" npc="pc" name="뭐가 적혀 있었는지 물어본다." />
+	<key id="1221144207012032" feature="" npc="마리나" name="크리티아스의 정체!&#x0A;그것은 바로 시간을 거슬러 나타난 신대륙.&#x0A;생각만 해도 놀랍지 않나요~?" />
+	<key id="1221144207012033" feature="" npc="마리나" name="크리티아스에는 에네르라는 새로운 힘이 있다고 해요!" />
+	<key id="1221144207012034" feature="" npc="마리나" name="에네르는 사용하기에 따라서 따뜻한 생명의 에너지도, 차가운 파괴의 에너지도 된다고 해요." />
+	<key id="1221144207012035" feature="" npc="마리나" name="중요한 것은 에네르를 사용하는 사람의 마음이겠죠. 그 사람의 마음이 선하느냐, 악하느냐에 따라서 에네르는 이로운 것이 될 수도, 아닐 수도 있겠죠." />
+	<key id="1221144207012036" feature="" npc="마리나" name="이 땅에는 에네르가 넘쳐난다고 하네요. 그 힘이 제발 나쁜 사람들의 손에 들어가지는 않아야 할텐데 말이죠." />
+	<key id="1221144207012037" feature="" npc="마리나" name="요는 사람의 마음이 중요하다는거죠." />
+	<key id="1221144207012038" feature="" npc="마리나" name="우리가 이 새로운 힘을 지켜야 해요!" />
+	<key id="1221144207012039" feature="" npc="마리나" name="저에게 무슨 볼 일이 있으세요?" />
+	<key id="1221144207012040" feature="" npc="마리나" name="저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요." />
+	<key id="1221144207012041" feature="" npc="마리나" name="저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요." />
+	<key id="1221144207012042" feature="" npc="마리나" name="저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요." />
+	<key id="1221144207012043" feature="TreasureMap01" npc="마리나" name="무슨 일이시죠?" />
+	<key id="1221144207012044" feature="TreasureMap01" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
+	<key id="1221144207012045" feature="TreasureMap01" npc="pc" name="무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다." />
+	<key id="1221144207012046" feature="TreasureMap01" npc="pc" name="할 말이 있다고 한다." />
+	<key id="1221144207012047" feature="TreasureMap01" npc="마리나" name="무슨 일이시죠?" />
+	<key id="1221144207012048" feature="TreasureMap01" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
+	<key id="1221144207012049" feature="TreasureMap01" npc="pc" name="무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다." />
+	<key id="1221144207012050" feature="TreasureMap01" npc="pc" name="할 말이 있다고 한다." />
+	<key id="1221144207012051" feature="TreasureMap01" npc="마리나" name="무슨 일이시죠?" />
+	<key id="1221144207012052" feature="TreasureMap01" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
+	<key id="1221144207012053" feature="TreasureMap01" npc="pc" name="할 말이 있다고 한다." />
+	<key id="1221144207012054" feature="TreasureMap01" npc="마리나" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." />
+	<key id="1221144207012055" feature="TreasureMap01" npc="마리나" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
+	<key id="1217160307011984" feature="GemStoneJewelBox_01" npc="베리링" name="안녕하세요? $MyPCName$님!" />
+	<key id="1217160307011985" feature="GemStoneJewelBox_01" npc="베리링" name='안녕하세요? $MyPCName$님!&#x0A;트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;바로, &lt;font color=&quot;#ffd200&quot;&gt;젬스톤&lt;/font&gt;과 &lt;font color=&quot;#ffd200&quot;&gt;루미스톤&lt;/font&gt;을 &lt;font color=&quot;#ffd200&quot;&gt;업그레이드할 수 있는 재료&lt;/font&gt;입니다.' />
+	<key id="1217160307011986" feature="GemStoneJewelBox_01" npc="베리링" name='왕실에서 공개한 특별한 상자를 이용하면, &lt;font color=&quot;#ffd200&quot;&gt;준비해 오신 재료&lt;/font&gt;로&#x0A;젬스톤과 루미스톤의 업그레이드 재료들을 만들 수 있어요!' />
+	<key id="1217160307011987" feature="GemStoneJewelBox_01" npc="pc" name="어떤 재료를 준비하면 되는지 물어본다." />
+	<key id="1217160307011988" feature="GemStoneJewelBox_01" npc="pc" name="희귀한 재료들을 만들어내는 원리가 궁금하다고 한다." />
+	<key id="1217160307011989" feature="GemStoneJewelBox_01" npc="베리링" name='먼저, 몬스터들을 사냥하면 얻을 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 모아오세요.&#x0A;저 앞에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004215$&lt;/font&gt;, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004216$&lt;/font&gt;에 넣어 에너지 변환을 하면 &#x0A;젬스톤과 루미스톤의 업그레이드 재료를 얻을 수 있답니다.' />
+	<key id="1217160307011990" feature="GemStoneJewelBox_01" npc="베리링" name='그리고 에너지 변환에 성공하려면 준비할 게 하나 더 있어요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;젬스톤&lt;/font&gt; 업그레이드 재료를 얻으려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:가,이$,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;루미스톤&lt;/font&gt; 업그레이드 재료를 얻으려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001189$&lt;/font&gt;$pp:가,이$ 필요하죠.' />
+	<key id="1217160307011991" feature="GemStoneJewelBox_01" npc="pc" name="그건 어디서 구할 수 있는지 물어본다." />
+	<key id="1217160307011992" feature="GemStoneJewelBox_01" npc="베리링" name='제가 &lt;font color=&quot;#ffd200&quot;&gt;판매&lt;/font&gt;하고 있습니다. 왕실 마법사와 수호사제님들이 &#x0A;공들여 만들고 계시는 거라서 수량이 넉넉하진 않지만요….&#x0A;모든 모험가님들을 위해 구매 수량을 제한하고 있는 점, 양해해 주세요.' />
+	<key id="1217160307011993" feature="GemStoneJewelBox_01" npc="베리링" name='$npc:11000075[gender:1]$님의 명을 받은 $npcName:11000601[gender:1]$님은 왕실 보물창고에 잠들어 있던, &#x0A;먼 세계로부터의 이방인이 선물했다는 이 &lt;font color=&quot;#ffd200&quot;&gt;두 개의 상자&lt;/font&gt;를 활용해&#x0A;세상의 몬스터들이 가진 에너지를 변환하는 방법을 고안해 내셨습니다.' />
+	<key id="1217160307011994" feature="GemStoneJewelBox_01" npc="베리링" name='이 두 개의 상자, &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004215$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004216$&lt;/font&gt;$pp:는,은$&#x0A;물질이 가진 에너지의 성질을 변환하는 특별한 능력을 갖고 있답니다.&#x0A;$npc:11000601[gender:1]$님은 이 점에 집중하셨던 거죠. &#x0A;몬스터들의 힘을 변환해, 모험가들이 활용할 수 있을까? 라고요.' />
+	<key id="1217160307011995" feature="GemStoneJewelBox_01" npc="베리링" name='에너지 변환 중 대량의 손실이 없다면 가능하다는 결론에 이르렀고, &#x0A;몬스터의 에너지가 담긴 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 일정한 구조 안에 묶기로 했습니다.&#x0A;결과물은 누구나 이용할 수 있어야 했기 때문에, 장비에 착용할 수 있는 &#x0A;젬스톤과 루미스톤에 힘을 더하는 재료를 만들기로 의견이 모아졌죠.' />
+	<key id="1217160307011996" feature="GemStoneJewelBox_01" npc="베리링" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30001189$&lt;/font&gt;$pp:는,은$ 각각 젬스톤, 루미스톤의 에너지에&#x0A;맞는 성질로 변환할 수 있도록 해주는 구조물의 역할을 한답니다.&#x0A;어때요, 조금은 이해가 되시나요?' />
+	<key id="1217160307011997" feature="GemStoneJewelBox_01" npc="pc" name="준비할 재료를 알려달라고 한다." />
+	<key id="1217160307011998" feature="GemStoneJewelBox_01" npc="베리링" name='안녕하세요? $MyPCName$님!&#x0A;트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;바로, &lt;font color=&quot;#ffd200&quot;&gt;젬스톤&lt;/font&gt;과 &lt;font color=&quot;#ffd200&quot;&gt;루미스톤&lt;/font&gt;을 &lt;font color=&quot;#ffd200&quot;&gt;업그레이드할 수 있는 재료&lt;/font&gt;입니다.' />
+	<key id="1217160307011999" feature="GemStoneJewelBox_01" npc="베리링" name='왕실에서 공개한 특별한 상자를 이용하면, &lt;font color=&quot;#ffd200&quot;&gt;준비해 오신 재료&lt;/font&gt;로&#x0A;젬스톤과 루미스톤의 업그레이드 재료들을 만들 수 있어요!' />
+	<key id="1217160307012000" feature="GemStoneJewelBox_01" npc="pc" name="어떤 재료를 준비하면 되는지 물어본다." />
+	<key id="1217160307012001" feature="GemStoneJewelBox_01" npc="pc" name="희귀한 재료들을 만들어내는 원리가 궁금하다고 한다." />
+	<key id="1217160307012002" feature="GemStoneJewelBox_01" npc="베리링" name='먼저, 몬스터들을 사냥하면 얻을 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 모아오세요.&#x0A;저 앞에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004215$&lt;/font&gt;, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004216$&lt;/font&gt;에 넣어 에너지 변환을 하면 &#x0A;젬스톤과 루미스톤의 업그레이드 재료를 얻을 수 있답니다.' />
+	<key id="1217160307012003" feature="GemStoneJewelBox_01" npc="베리링" name='그리고 에너지 변환에 성공하려면 준비할 게 하나 더 있어요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;젬스톤&lt;/font&gt; 업그레이드 재료를 얻으려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:가,이$,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;루미스톤&lt;/font&gt; 업그레이드 재료를 얻으려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001189$&lt;/font&gt;$pp:가,이$ 필요하죠.' />
+	<key id="1217160307012004" feature="GemStoneJewelBox_01" npc="pc" name="그건 어디서 구할 수 있는지 물어본다." />
+	<key id="1217160307012005" feature="GemStoneJewelBox_01" npc="베리링" name='제가 &lt;font color=&quot;#ffd200&quot;&gt;판매&lt;/font&gt;하고 있습니다. 왕실 마법사와 수호사제님들이 &#x0A;공들여 만들고 계시는 거라서 수량이 넉넉하진 않지만요….&#x0A;모든 모험가님들을 위해 구매 수량을 제한하고 있는 점, 양해해 주세요.' />
+	<key id="1217160307012006" feature="GemStoneJewelBox_01" npc="베리링" name='$npc:11000075[gender:1]$님의 명을 받은 $npcName:11000601[gender:1]$님은 왕실 보물창고에 잠들어 있던, &#x0A;먼 세계로부터의 이방인이 선물했다는 이 &lt;font color=&quot;#ffd200&quot;&gt;두 개의 상자&lt;/font&gt;를 활용해&#x0A;세상의 몬스터들이 가진 에너지를 변환하는 방법을 고안해 내셨습니다.' />
+	<key id="1217160307012007" feature="GemStoneJewelBox_01" npc="베리링" name='이 두 개의 상자, &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004215$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004216$&lt;/font&gt;$pp:는,은$&#x0A;물질이 가진 에너지의 성질을 변환하는 특별한 능력을 갖고 있답니다.&#x0A;$npc:11000601[gender:1]$님은 이 점에 집중하셨던 거죠. &#x0A;몬스터들의 힘을 변환해, 모험가들이 활용할 수 있을까? 라고요.' />
+	<key id="1217160307012008" feature="GemStoneJewelBox_01" npc="베리링" name='에너지 변환 중 대량의 손실이 없다면 가능하다는 결론에 이르렀고, &#x0A;몬스터의 에너지가 담긴 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 일정한 구조 안에 묶기로 했습니다.&#x0A;결과물은 누구나 이용할 수 있어야 했기 때문에, 장비에 착용할 수 있는 &#x0A;젬스톤과 루미스톤에 힘을 더하는 재료를 만들기로 의견이 모아졌죠.' />
+	<key id="1217160307012009" feature="GemStoneJewelBox_01" npc="베리링" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30001189$&lt;/font&gt;$pp:는,은$ 각각 젬스톤, 루미스톤의 에너지에&#x0A;맞는 성질로 변환할 수 있도록 해주는 구조물의 역할을 한답니다.&#x0A;어때요, 조금은 이해가 되시나요?' />
+	<key id="1217160307012010" feature="GemStoneJewelBox_01" npc="pc" name="준비할 재료를 알려달라고 한다." />
+	<key id="1217160307012011" feature="GemStoneJewelBox_01" npc="베리링" name='안녕하세요? $MyPCName$님!&#x0A;트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;바로, &lt;font color=&quot;#ffd200&quot;&gt;젬스톤&lt;/font&gt;을 &lt;font color=&quot;#ffd200&quot;&gt;업그레이드할 수 있는 재료&lt;/font&gt;입니다.' />
+	<key id="1217160307012012" feature="GemStoneJewelBox_01" npc="베리링" name='왕실에서 공개한 특별한 상자를 이용하면, &lt;font color=&quot;#ffd200&quot;&gt;준비해 오신 재료&lt;/font&gt;로&#x0A;젬스톤의 업그레이드 재료들을 만들 수 있어요!' />
+	<key id="1217160307012013" feature="GemStoneJewelBox_01" npc="pc" name="어떤 재료를 준비하면 되는지 물어본다." />
+	<key id="1217160307012014" feature="GemStoneJewelBox_01" npc="pc" name="희귀한 재료들을 만들어내는 원리가 궁금하다고 한다." />
+	<key id="1217160307012015" feature="GemStoneJewelBox_01" npc="베리링" name='먼저, 몬스터들을 사냥하면 얻을 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 모아오세요.&#x0A;저 앞에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004215$&lt;/font&gt;에 넣어 에너지 변환을 하면 &#x0A;젬스톤의 업그레이드 재료를 얻을 수 있답니다.' />
+	<key id="1217160307012016" feature="GemStoneJewelBox_01" npc="베리링" name='그리고 에너지 변환에 성공하려면 준비할 게 하나 더 있어요. &#x0A;바로 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:라는,이라는$ 것이랍니다.' />
+	<key id="1217160307012017" feature="GemStoneJewelBox_01" npc="pc" name="그건 어디서 구할 수 있는지 물어본다." />
+	<key id="1217160307012018" feature="GemStoneJewelBox_01" npc="베리링" name='제가 &lt;font color=&quot;#ffd200&quot;&gt;판매&lt;/font&gt;하고 있습니다. 왕실 마법사와 수호사제님들이 &#x0A;공들여 만들고 계시는 거라서 수량이 넉넉하진 않지만요….&#x0A;모든 모험가님들을 위해 구매 수량을 제한하고 있는 점, 양해해 주세요.' />
+	<key id="1217160307012019" feature="GemStoneJewelBox_01" npc="베리링" name='$npc:11000075[gender:1]$님의 명을 받은 $npcName:11000601[gender:1]$님은 왕실 보물창고에 잠들어 있던, &#x0A;먼 세계로부터의 이방인이 선물했다는 &lt;font color=&quot;#ffd200&quot;&gt;상자&lt;/font&gt;를 활용해&#x0A;세상의 몬스터들이 가진 에너지를 변환하는 방법을 고안해 내셨습니다.' />
+	<key id="1217160307012020" feature="GemStoneJewelBox_01" npc="베리링" name='여기 있는 바로 이 상자, &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004215$&lt;/font&gt;$pp:는,은$&#x0A;물질이 가진 에너지의 성질을 변환하는 특별한 능력을 갖고 있답니다.&#x0A;$npc:11000601[gender:1]$님은 이 점에 집중하셨던 거죠. &#x0A;몬스터들의 힘을 변환해, 모험가들이 활용할 수 있을까? 라고요.' />
+	<key id="1217160307012021" feature="GemStoneJewelBox_01" npc="베리링" name='에너지 변환 중 대량의 손실이 없다면 가능하다는 결론에 이르렀고, &#x0A;몬스터의 에너지가 담긴 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001187$&lt;/font&gt;$pp:를,을$ 일정한 구조 안에 묶기로 했습니다.&#x0A;결과물은 누구나 이용할 수 있어야 했기 때문에, 장비에 착용할 수 있는 &#x0A;젬스톤에 힘을 더하는 재료를 만들기로 의견이 모아졌죠.' />
+	<key id="1217160307012022" feature="GemStoneJewelBox_01" npc="베리링" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001188$&lt;/font&gt;$pp:는,은$ 젬스톤에 맞는 성질로 &#x0A;에너지를 변환할 수 있도록 해주는 구조물의 역할을 한답니다.&#x0A;어때요, 조금은 이해가 되시나요?' />
+	<key id="1217160307012023" feature="GemStoneJewelBox_01" npc="pc" name="준비할 재료를 알려달라고 한다." />
+	<key id="1217160307012024" feature="GemStoneJewelBox_01" npc="베리링" name='트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;하지만… $MyPCName$님은 아직 받으실 수 없겠네요.&#x0A;이번에는 &lt;font color=&quot;#ffd200&quot;&gt;50레벨 이상&lt;/font&gt;의 모험가님들께만 지원을 해 드리고 있거든요.&#x0A;아쉽지만, 좀더 성장한 후 다시 찾아와 주세요.' />
+	<key id="1217160307012025" feature="GemStoneJewelBox_01" npc="베리링" name='트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;하지만… $MyPCName$님은 아직 받으실 수 없겠네요.&#x0A;이번에는 &lt;font color=&quot;#ffd200&quot;&gt;60레벨 이상&lt;/font&gt;의 모험가님들께만 지원을 해 드리고 있거든요.&#x0A;아쉽지만, 좀더 성장한 후 다시 찾아와 주세요.' />
+	<key id="1217160307012026" feature="GemStoneJewelBox_01" npc="베리링" name='트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.&#x0A;하지만… $MyPCName$님은 아직 받으실 수 없겠네요.&#x0A;이번에는 &lt;font color=&quot;#ffd200&quot;&gt;50레벨 이상&lt;/font&gt;의 모험가님들께만 지원을 해 드리고 있거든요.&#x0A;아쉽지만, 좀더 성장한 후 다시 찾아와 주세요.' />
+	<key id="1227192907012056" feature="Kritias_2018_12" npc="파렌니스" name="어서 오세요! 수송을 담당하고 있는 $npcName:11004459[gender:0]$$pp:라고,이라고$ 합니다!" />
+	<key id="1227192907012057" feature="Kritias_2018_12" npc="파렌니스" name="어서 오세요! 수송을 담당하고 있는 $npcName:11004459[gender:0]$$pp:라고,이라고$ 합니다!" />
+	<key id="1227192907012058" feature="Kritias_2018_12" npc="파렌니스" name="신대륙에 이런 대규모 건설을 단기간에 해낼 수 있었던 것도 스카이 포트리스의 수송 능력 덕분이죠!" />
+	<key id="1227192907012059" feature="Kritias_2018_12" npc="pc" name="(어떻게 가능한 것인지 묻는다.)" />
+	<key id="1227192907012060" feature="Kritias_2018_12" npc="파렌니스" name="이번 크리티아스 탐사 임무를 맡게 되는 시점부터 &apos;케이트 시드&apos;로 부터 &#x0A;새로운 거점 건설 예측 및 그에 필요한 건설 재재에 대한 데이터를 받았습니다." />
+	<key id="1227192907012061" feature="Kritias_2018_12" npc="파렌니스" name="덕분에 건설 자재 단 한 개의 낭비도 없이 거점을 건설할 수 있었죠!" />
+	<key id="1227192907012062" feature="Kritias_2018_12" npc="pc" name="(케이트 시드가 뭔지 묻는다.)" />
+	<key id="1227192907012063" feature="Kritias_2018_12" npc="pc" name="(케이트 시드의 뜻에 대해 묻는다.)" />
+	<key id="1227192907012064" feature="Kritias_2018_12" npc="파렌니스" name="아직 전달받지 못하셨군요.&#x0A;&apos;케이트 시드&apos;는 스카이 포트리스에 새롭게 탑재된 연산 전용 인공지능입니다.&#x0A;지금까지 쌓여온 데이터를 통해 스스로 학습하는 인공지능 집합체의 명칭이죠." />
+	<key id="1227192907012065" feature="Kritias_2018_12" npc="파렌니스" name="연산에 대한 논리는 함장님께서 직접 설계하셨고 구현은 부관님이 하셨죠.&#x0A;두 분 모두 정말 천재적이지 않나요? 정말 존경스러울 정도예요." />
+	<key id="0114160707012701" feature="Kritias_2018_12" npc="pc" name="대단하다고 한다." />
+	<key id="1227192907012066" feature="Kritias_2018_12" npc="파렌니스" name="아! 인공지능의 이름은 함장님이 정하셨습니다. &#x0A;개발 일지에 &apos;절대 인공지능의 이름을 변경하지 말 것!&apos; 이라고 적혀있었습니다.&#x0A;뜻은 정확하지 않지만 제가 알아본 바로는 &apos;고양이 요정&apos;이었습니다." />
+	<key id="0114160707012702" feature="Kritias_2018_12" npc="파렌니스" name="그렇죠, 정말 대단해요!" />
+	<key id="1227192907012067" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 무!" />
+	<key id="1227192907012068" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 무!" />
+	<key id="1227192907012069" feature="Kritias_2018_12" npc="바베니 근위병" name="신대륙으로 파견되어 긴장되긴 하지만 승진의 기회도 될 테니 열심히 해보고 싶습니다!" />
+	<key id="1227192907012070" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 없습니다~" />
+	<key id="1227192907012071" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 없습니다~" />
+	<key id="1227192907012072" feature="Kritias_2018_12" npc="바베니 근위병" name="제대가 코앞인데 신대륙으로 파견 근무라니… 정말 꼬인 군생활 아님까?" />
+	<key id="1227192907012073" feature="Kritias_2018_12" npc="바베니 근위병" name="군 생활에 큰 미련은 없슴다~ 그냥 빨리 집에 가고 싶을 뿐임다~" />
+	<key id="1227192907012074" feature="Kritias_2018_12" npc="pc" name="(좀더 의욕을 가져 봐.)" />
+	<key id="1227192907012075" feature="Kritias_2018_12" npc="바베니 근위병" name="의욕이 없슴다~ 어서 근무 교대 후에 쉬고 싶을 뿐임다~" />
+	<key id="1227192907012076" feature="Kritias_2018_12" npc="바베니 근위병" name="아 참, 콘대르 부장님께 이르진 말아 주십쇼~&#x0A;말년에 군생활 꼬이긴 싫슴다~" />
+	<key id="1227192907012077" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 무!" />
+	<key id="1227192907012078" feature="Kritias_2018_12" npc="바베니 근위병" name="근무 중 이상 무!" />
+	<key id="1227192907012079" feature="Kritias_2018_12" npc="바베니 근위병" name="바베니 안전에 최선을 다하고 있습니다!" />
+	<key id="1227192907012080" feature="Kritias_2018_12" npc="바베니 근위병" name="그… 근무 중 이… 상 없습니닷!" />
+	<key id="1227192907012081" feature="Kritias_2018_12" npc="바베니 근위병" name="그… 근무 중 이… 상 없습니닷!" />
+	<key id="1227192907012082" feature="Kritias_2018_12" npc="바베니 근위병" name="소대에 배속되자마자 신대륙의 파견되다니! 꼬여도 이렇게 꼬일 수 없는 겁니닷!" />
+	<key id="1227192907012083" feature="Kritias_2018_12" npc="pc" name="(힘내라고 말해준다.)" />
+	<key id="1227192907012084" feature="Kritias_2018_12" npc="바베니 근위병" name="가… 감사합니닷!&#x0A;$MyPCName$님이 신대륙 크리티아스 탐사에 함께 해주시니 &#x0A;그래도 마음이 든든합니다!" />
+	<key id="1227192907012085" feature="Kritias_2018_12" npc="리치몬드 방위대" name="적들의 공격이 끊이질 않는군…" />
+	<key id="1227192907012086" feature="Kritias_2018_12" npc="리치몬드 방위대" name="타이렌 놈들의 공격만으로도 벅차다고!" />
+	<key id="1227192907012087" feature="Kritias_2018_12" npc="리치몬드 방위대" name="앵? 너는 누구야?&#x0A;새로 들어온 추방자인가?" />
+	<key id="1227192907012088" feature="Kritias_2018_12" npc="리치몬드 방위대" name="앵? 너는 누구야?&#x0A;새로 들어온 추방자인가?" />
+	<key id="1227192907012089" feature="Kritias_2018_12" npc="pc" name="(메이플 월드에서 왔다고 말한다.)" />
+	<key id="1227192907012090" feature="Kritias_2018_12" npc="리치몬드 방위대" name="무슨 월드? 뭐 알 바 없지, 내일 살아있을지 알 수 없는 녀석이니…&#x0A;어쨌든 상황이 상황인 만큼 목숨 보전 잘하라고." />
+	<key id="1227192907012091" feature="Kritias_2018_12" npc="리치몬드 수호병" name="적들의 공격은 언제 멈추는 거지?" />
+	<key id="1227192907012092" feature="Kritias_2018_12" npc="리치몬드 수호병" name="끝나지 않는 전투… 지긋지긋해… " />
+	<key id="1227192907012093" feature="Kritias_2018_12" npc="리치몬드 수호병" name="너는 누구야? 적이냐?" />
+	<key id="1227192907012095" feature="Kritias_2018_12" npc="리치몬드 수호병" name="너는 누구야? 적이냐?" />
+	<key id="0111125107012684" feature="Kritias_2018_12" npc="pc" name="(적이 아니라고 설득한다.)" />
+	<key id="1227192907012096" feature="Kritias_2018_12" npc="리치몬드 수호병" name="음? 옷차림 한번 희한하군.&#x0A;너 왠지 강해 보이는데, 어때 우리 저항군에 들어올 생각 없어?" />
+	<key id="1227192907012097" feature="Kritias_2018_12" npc="pc" name="(할 일이 있다고 말한다.)" />
+	<key id="1227192907012098" feature="Kritias_2018_12" npc="리치몬드 수호병" name="쳇… 강해 보이는데 아깝군.&#x0A;보시다시피 적들의 공격은 거세고 우리는 병력이 매우 달린 상황이야.&#x0A;언제든 저항군에 들어오고 싶다면 환영이라고." />
+	<key id="1227192907012099" feature="Kritias_2018_12" npc="리치몬드 수호병" name="아~ 배고파…" />
+	<key id="1227192907012100" feature="Kritias_2018_12" npc="리치몬드 수호병" name="배식은 아직인가?" />
+	<key id="1227192907012101" feature="Kritias_2018_12" npc="리치몬드 수호병" name="근무 중! 이상 무!&#x0A;에잉? 뭐야? 외부인이잖아?" />
+	<key id="1227192907012102" feature="Kritias_2018_12" npc="리치몬드 수호병" name="근무 중! 이상 무!&#x0A;에잉? 뭐야? 외부인이잖아?" />
+	<key id="1227192907012103" feature="Kritias_2018_12" npc="레니" name="$npcName:11004472[gender:0]$ 저 녀석 때문에 걱정이야.&#x0A;자경단이 되겠다고 체력을 키워야 한다며 매일 저렇게 뛰고 있지 뭐야." />
+	<key id="1227192907012104" feature="Kritias_2018_12" npc="레니" name="$npcName:11004472[gender:0]$ 저 녀석 때문에 걱정이야.&#x0A;자경단이 되겠다고 체력을 키워야 한다며 매일 저렇게 뛰고 있지 뭐야." />
+	<key id="1227192907012105" feature="Kritias_2018_12" npc="pc" name="(무슨 사연이 있는 거냐고 물어본다.)" />
+	<key id="1227192907012106" feature="Kritias_2018_12" npc="레니" name="$npcName:11004472[gender:0]$의 가족 모두가 타이렌에서 추방당했는데 &#x0A;가족들이 반란군으로 활동하다가 실종되었거든." />
+	<key id="1227192907012107" feature="Kritias_2018_12" npc="레니" name="그 후로부터 가족들을 구하려면 반란군에 입대해야 한다며 &#x0A;매일 저렇게 체력단련을 하고 있어." />
+	<key id="1227192907012108" feature="Kritias_2018_12" npc="pc" name="(안타까운 사연이네…)" />
+	<key id="1227192907012109" feature="Kritias_2018_12" npc="레니" name="지난번에도 가족을 구하겠다며 뛰쳐나가서 찾느라 애먹었지.&#x0A;지금은 리치몬드 경계병들이 비번일 때 돌아가며 녀석을 돌보고 있어." />
+	<key id="1227192907012110" feature="Kritias_2018_12" npc="레니" name="모처럼의 비번인데 쉬지도 못하고 애나 보는 신세라니...&#x0A;너… 한가하면 저 녀석 좀 잠깐 돌봐줄래?" />
+	<key id="1227192907012111" feature="Kritias_2018_12" npc="pc" name="(지금은 할일이 많아서…)" />
+	<key id="1227192907012112" feature="Kritias_2018_12" npc="레니" name="쳇… 한가해 보이는데?&#x0A;생각해 보니 이방인한테 애를 맡기는 것도 무리긴 하네." />
+	<key id="1227192907012113" feature="Kritias_2018_12" npc="로탈라" name="임시 대사 입니다." />
+	<key id="1227192907012114" feature="Kritias_2018_12" npc="로탈라" name="임시 대사 입니다." />
+	<key id="1227192907012115" feature="Kritias_2018_12" npc="로탈라" name="임시 대사 입니다." />
+	<key id="1227192907012116" feature="Kritias_2018_12" npc="로탈라" name="임시 대사 입니다." />
+	<key id="1227192907012117" feature="Kritias_2018_12" npc="인디카" name="밖이 저리 어수선한데 어딜 나가 놀겠다는 건지…" />
+	<key id="1227192907012118" feature="Kritias_2018_12" npc="인디카" name="이 난리 통이 언제 끝나려나?" />
+	<key id="1227192907012119" feature="Kritias_2018_12" npc="인디카" name="동생이 밖으로 놀러 나가고 싶다고 난리에요." />
+	<key id="1227192907012120" feature="Kritias_2018_12" npc="인디카" name="동생이 밖으로 놀러 나가고 싶다고 난리에요." />
+	<key id="1227195007012415" feature="Kritias_2018_12" npc="콜로라타" name="어디 어디 숨었나!" />
+	<key id="1227195007012416" feature="Kritias_2018_12" npc="콜로라타" name="못찾겠다! 꾀꼬리!" />
+	<key id="1227195007012417" feature="Kritias_2018_12" npc="콜로라타" name="애들하고 숨바꼭질 중이었는데...&#x0A;찾지를 못하겠어!" />
+	<key id="1227195007012418" feature="Kritias_2018_12" npc="콜로라타" name="애들하고 숨바꼭질 중이었는데...&#x0A;찾지를 못하겠어!" />
+	<key id="1227195007012419" feature="Kritias_2018_12" npc="콜로라타" name="어디에 숨은거지?&#x0A;못찾겠다 꾀꼬리~! 이제 그만 나와!" />
+	<key id="1227192907012125" feature="Kritias_2018_12" npc="크립토" name="얘는 어디서 뭘 하고 다니는 건지…" />
+	<key id="1227192907012126" feature="Kritias_2018_12" npc="크립토" name="밥먹을 시간이 지났는데 안들어 오네…" />
+	<key id="1227192907012127" feature="Kritias_2018_12" npc="크립토" name="놀러 나간 동생이 아직도 안들어 오고 있어요.&#x0A;기지 내에서만 놀라고 말했는데… 혹시…" />
+	<key id="1228153007012427" feature="Kritias_2018_12" npc="크립토" name="놀러 나간 동생이 아직도 안들어 오고 있어요.&#x0A;기지 내에서만 놀라고 말했는데… 혹시…" />
+	<key id="1227192907012128" feature="Kritias_2018_12" npc="크립토" name="밖으로 나간건 아니겠죠?&#x0A;지금 밖은 전쟁통이라 너무 걱정이에요." />
+	<key id="0104110407012536" feature="Kritias_2018_12" npc="코리네" name="헛둘! 헛둘!" />
+	<key id="0104110407012537" feature="Kritias_2018_12" npc="코리네" name="게오르크에 입대하기 위해서 체력 단련은 필수라고!" />
+	<key id="0104110407012538" feature="Kritias_2018_12" npc="코리네" name="응? 넌 뭐야?" />
+	<key id="0104110407012539" feature="Kritias_2018_12" npc="코리네" name="응? 넌 뭐야?" />
+	<key id="0104110407012540" feature="Kritias_2018_12" npc="코리네" name="이방인이야? 그 차림 뭐야? 되게 웃기네.&#x0A;그렇게 입고 다니다간 유행에 뒤처진다는 소릴 듣는다고?" />
+	<key id="0104110407012541" feature="Kritias_2018_12" npc="pc" name="(…왜 그렇게 뛰고 있냐고 묻는다.)" />
+	<key id="0104110407012542" feature="Kritias_2018_12" npc="pc" name="(이런 최신 패션을 무시하다니…)" />
+	<key id="0104110407012543" feature="Kritias_2018_12" npc="코리네" name="타이렌 녀석들이 우리 가족들을 데리고 갔거든!&#x0A;타이렌녀석들에게 복수하려면 게오르크 반란군에 정식 입대해야 한다고 들었어!" />
+	<key id="0104110407012544" feature="Kritias_2018_12" npc="코리네" name="하지만 웬만큼 강하지 않으면 게오르크에 입대할 수 없데.&#x0A;그래서 강해지려고 체력단련 중이야." />
+	<key id="0104110407012545" feature="Kritias_2018_12" npc="코리네" name="너, 무지 강해 보이는데?&#x0A;어떻게 하면 강해지는지 알려줄래?" />
+	<key id="0104110407012546" feature="Kritias_2018_12" npc="pc" name="(열심히 수련하는 수 밖에…)" />
+	<key id="0104110407012547" feature="Kritias_2018_12" npc="코리네" name="뭔가 되게 거만해 보이지만 있어 보이긴 하네.&#x0A;혹시 나중에 우리 가족을 만나거든 구해줄 수 있어?" />
+	<key id="0104110407012548" feature="Kritias_2018_12" npc="pc" name="(반드시 그러겠다고 말한다.)" />
+	<key id="0104110407012549" feature="Kritias_2018_12" npc="코리네" name="너 뭔가 무지 믿음이 가는데?&#x0A;나 목표가 생겼어!&#x0A;나도 너처럼 강해질래!" />
+	<key id="0104110407012550" feature="Kritias_2018_12" npc="코리네" name="그게 최신이야? 요즘은 자고 일어나면 트랜드가 바뀌어 있다니까?" />
+	<key id="1227192907012144" feature="Kritias_2018_12" npc="테네루스" name="랄랄라~" />
+	<key id="1227192907012145" feature="Kritias_2018_12" npc="테네루스" name="응? 넌 뭐야?" />
+	<key id="1227192907012146" feature="Kritias_2018_12" npc="테네루스" name="응? 넌 뭐야?" />
+	<key id="1227192907012147" feature="Kritias_2018_12" npc="테네루스" name="오? 네가 그… $MyPCName$!&#x0A;네 활약에 대한 이야긴 많이 들었어! 설마 실제로 보게 될 줄이야!" />
+	<key id="1227192907012148" feature="Kritias_2018_12" npc="pc" name="(쑥쓰럽군…)" />
+	<key id="1227192907012149" feature="Kritias_2018_12" npc="테네루스" name="뭐야 그 반응?&#x0A;의외로 속은 숙맥인가 보네?" />
+	<key id="1227192907012150" feature="Kritias_2018_12" npc="웬티드" name="세상에! 저런 거대한 배가 어떻게 공중에 떠 있는 거지?" />
+	<key id="1227192907012151" feature="Kritias_2018_12" npc="웬티드" name="이봐요. 저 배가 보여요?&#x0A;신기루 같은 거 아니죠?" />
+	<key id="1227192907012152" feature="Kritias_2018_12" npc="웬티드" name="이봐요. 저 배가 보여요?&#x0A;신기루 같은 거 아니죠?" />
+	<key id="1227192907012153" feature="Kritias_2018_12" npc="웬티드" name="정말 엄청나지 않아요? 저런 거대한 배가 하늘에 떠있다니?" />
+	<key id="1227192907012154" feature="Kritias_2018_12" npc="pc" name="(저걸 타고 온게 아니냐고 묻는다.)" />
+	<key id="1227192907012155" feature="Kritias_2018_12" npc="웬티드" name="트라이아에서 스카이 포트리스에 탔을 땐 전체 모습을 볼 수 없었으니까요.&#x0A;지금 저렇게 보고 있으니 현실감이 없네요." />
+	<key id="1227192907012156" feature="Kritias_2018_12" npc="웬티드" name="무슨 원리로 저렇게 안정적으로 떠 있는지 궁금하네요." />
+	<key id="1227192907012157" feature="Kritias_2018_12" npc="pc" name="(…$npcName:24100101$ 말로는 과학의 힘? 이라고 했다.)" />
+	<key id="1227192907012158" feature="Kritias_2018_12" npc="웬티드" name="$npcName:24100101$님? 저 함선의 높으신 분 이름인가 보네요?&#x0A;이름만 들어봐도 엄청나게 위압감과 근엄함이 느껴지는 분이군요.&#x0A;꼭 만나보고 싶어요." />
+	<key id="1227192907012159" feature="Kritias_2018_12" npc="실론" name="이곳이 기회의 땅 크리티아스인가?" />
+	<key id="1227192907012160" feature="Kritias_2018_12" npc="실론" name="땅 부자가 될 좋은 기회야…" />
+	<key id="1227192907012161" feature="Kritias_2018_12" npc="실론" name="이봐요, 당신.&#x0A;부동산에 관심 있나요?" />
+	<key id="1227192907012162" feature="Kritias_2018_12" npc="실론" name="이봐요, 당신.&#x0A;부동산에 관심 있나요?" />
+	<key id="1227192907012163" feature="Kritias_2018_12" npc="실론" name="$map:02020041$$pp:는,은$ 신대륙의 첫 번째 개척지인 만큼&#x0A;이곳은 부동산의 가치는 무궁무진하다 볼 수 있죠." />
+	<key id="1227192907012164" feature="Kritias_2018_12" npc="실론" name="지금은 좀 불안하지만 안전만 보장된다면 금방 가치가 폭등할껄요?&#x0A;두고 보라구요." />
+	<key id="1227192907012165" feature="Kritias_2018_12" npc="루드위지아" name="언제까지 보급품으로 버텨야 하지?" />
+	<key id="1227192907012166" feature="Kritias_2018_12" npc="루드위지아" name="맛있는 게 먹고 싶어…" />
+	<key id="1227192907012167" feature="Kritias_2018_12" npc="루드위지아" name="하아… 보급품 배식으로 끼니를 때우는 건 이제 질렸어.&#x0A;트라이아의 일류 요리가 그리워져요." />
+	<key id="1227192907012168" feature="Kritias_2018_12" npc="루드위지아" name="개척민으로 지원했을 땐 보급품만 먹고 살 줄은 몰랐죠.&#x0A;이래뵈도 트라이아에선 미식가로 이름을 날렸어요." />
+	<key id="1227192907012169" feature="Kritias_2018_12" npc="루드위지아" name="산수유 소스를 곁들인 푸른 버섯 슬라임 수프…&#x0A;생각만 해도 군침이 도는군요~" />
+	<key id="1227192907012170" feature="Kritias_2018_12" npc="루드위지아" name="이런… 당신과 이야기하다 보니 &#x0A;트라이아의 요리가 더욱 그리워졌잖아요.&#x0A;아아… 배고파… 오늘 밤에 잠은 다 잤네…" />
+	<key id="1227192907012171" feature="Kritias_2018_12" npc="소란" name="꺄아! &#x0A;혁이 오빠!" />
+	<key id="1227192907012172" feature="Kritias_2018_12" npc="소란" name="혁이 오빠! &#x0A;너무 멋있어요!" />
+	<key id="1227192907012173" feature="Kritias_2018_12" npc="소란" name="꺄악! 혁이 오빠!!&#x0A;너무 멋있어요!" />
+	<key id="1227192907012174" feature="Kritias_2018_12" npc="소란" name="꺄악! 혁이 오빠!!&#x0A;너무 멋있어요!" />
+	<key id="1227192907012175" feature="Kritias_2018_12" npc="소란" name="윽… 넌 뭐야!" />
+	<key id="1227192907012176" feature="Kritias_2018_12" npc="소란" name="아? 사람이었네?&#x0A;미안, 난 또 신대륙 특산품 오징어인 줄 알았지 뭐야?" />
+	<key id="1227192907012177" feature="Kritias_2018_12" npc="pc" name="(말이 너무 심한거 아니냐고 말한다.)" />
+	<key id="1227192907012178" feature="Kritias_2018_12" npc="소란" name="세상에… 생긴 것 답게 속까지 좁네.&#x0A;혁이 오빠의 미모 앞에선 모두가 오징어 꼴뚜기가 되는 걸 어쩌란 거야?" />
+	<key id="1227192907012179" feature="Kritias_2018_12" npc="pc" name="(콩깍지가 심하게 꼈군?)" />
+	<key id="1227192907012180" feature="Kritias_2018_12" npc="소란" name="흥! 너 같은 일반인이 이해할 수 없는 게 당연하지!&#x0A;혁이 오빠의 미모는 가치를 알아보는 사람만이 알 수 있으니까 말야!" />
+	<key id="1227192907012181" feature="Kritias_2018_12" npc="소란" name="분명 이곳 크리티아스 사람들도 &#x0A;혁이 오빠의 미모에 반하게 될 테니 두고 보라고?" />
+	<key id="1227192907012182" feature="Kritias_2018_12" npc="하니" name="혁이 오빠! &#x0A;너무 멋있어요!" />
+	<key id="1227192907012183" feature="Kritias_2018_12" npc="하니" name="여길 봐줘요!" />
+	<key id="1228141007012420" feature="Kritias_2018_12" npc="하니" name="혁이 오빠는 보고만 있어도 눈이 멀 것만 같아요.&#x0A;당신도 그렇죠?" />
+	<key id="1228141007012421" feature="Kritias_2018_12" npc="하니" name="혁이 오빠는 보고만 있어도 눈이 멀 것만 같아요.&#x0A;당신도 그렇죠?" />
+	<key id="1228141007012422" feature="Kritias_2018_12" npc="pc" name="(…그렇다고 말한다.)" />
+	<key id="1228141007012423" feature="Kritias_2018_12" npc="하니" name="그쵸? 그쵸?&#x0A;빅토리아 아일랜드 최고의 아이돌인 혁이 오빠가 신대륙까지 진출한 &#x0A;역사적인 순간을 우린 함께 하고 있다구요!" />
+	<key id="1228141007012424" feature="Kritias_2018_12" npc="하니" name="제가 새로 만든 &apos;혁이 오빠 팬클럽 크리티아스 연합&apos;에 가입할 생각 있나요?&#x0A;자! 이 서류에 사인만 하면 된다구요!" />
+	<key id="1228141007012425" feature="Kritias_2018_12" npc="pc" name="(방금 무지 급한 일이 생각났다고 말한다.)" />
+	<key id="1228141007012426" feature="Kritias_2018_12" npc="하니" name="그래요? 정말 아쉽겠어요…&#x0A;팬클럽은 많으면 많을수록 좋다구요!&#x0A;너무 늦으면 기회가 없을지도 모르지만 말예요!" />
+	<key id="1227192907012194" feature="Kritias_2018_12" npc="메릴" name="물체를 띄우는 원리가 뭐지?" />
+	<key id="1227192907012195" feature="Kritias_2018_12" npc="메릴" name="이걸 이용할 수만 있다면 에너지 혁명이 가능해!" />
+	<key id="1227192907012196" feature="Kritias_2018_12" npc="메릴" name="깜짝이야! 이곳엔 어떻게 온 거죠?" />
+	<key id="1227192907012197" feature="Kritias_2018_12" npc="메릴" name="깜짝이야! 이곳엔 어떻게 온 거죠?" />
+	<key id="1227192907012198" feature="Kritias_2018_12" npc="메릴" name="저는 에네르를 연구하기 위해 파련된 연구원이에요.&#x0A;크리티아스에서 발견된 에너지 원천인 에네르의 다양한 가능성을 연구하는 중이죠." />
+	<key id="1227192907012199" feature="Kritias_2018_12" npc="pc" name="(뭔가 알아낸게 있냐고 묻는다.)" />
+	<key id="1227192907012200" feature="Kritias_2018_12" npc="메릴" name="에네르가 물체를 적은 에너지로 공중부양 시킬 수 있다는 점을 알아냈어요.&#x0A;신형 에네르 측정 장치로 측정한 결과 공중부양하고 있는 건물들에 깃든 에네르의 양은 미약한 것으로 측정되었어요." />
+	<key id="1227192907012201" feature="Kritias_2018_12" npc="메릴" name="그동안 물체를 공중부양시키기 위해선 막대한 에너지나 마나가 필요했어요.&#x0A;이 에네르라를 에너지 원천으로 개발할 수 있다면 그야말로 에너지 혁명을 불러올 수 있겠어요." />
+	<key id="1227192907012202" feature="Kritias_2018_12" npc="메릴" name="하지만 아직 어떻게 에너지화할 수 있을지에 대해선 감도 안 잡히는 단계라…&#x0A;연구할 시간이 더 필요해요." />
+	<key id="1227192907012203" feature="Kritias_2018_12" npc="스로인" name="이게 생명체라니 믿을 수 없군." />
+	<key id="1227192907012204" feature="Kritias_2018_12" npc="스로인" name="전에 이런 걸 본 적이 없어." />
+	<key id="1227192907012205" feature="Kritias_2018_12" npc="스로인" name="아? 깜짝이야?&#x0A;이런 곳에 인기척 없이 사람이 나타나면 얼마나 깜짝 놀랄지 생각해 봤어?" />
+	<key id="1227192907012206" feature="Kritias_2018_12" npc="스로인" name="아? 깜짝이야?&#x0A;이런 곳에 인기척 없이 사람이 나타나면 얼마나 깜짝 놀랄지 생각해 봤어?" />
+	<key id="1227192907012207" feature="Kritias_2018_12" npc="스로인" name="이거 보여? 나무인지, 기계인지 구분이 모호하지?&#x0A;처음엔 이것들이 기계 구조물인 줄 알았어.&#x0A;하지만 연구 결과 식물이란 것을 알아냈다네." />
+	<key id="1227192907012208" feature="Kritias_2018_12" npc="스로인" name="마치 톱니바퀴 같은 저것들이 잎사귀고 성장하고 낙엽이 되어 떨어진다니&#x0A;이 세계의 식물 생태계는 정말 상식을 한참 벗어나 있어." />
+	<key id="1227192907012209" feature="Kritias_2018_12" npc="스로인" name="어서 보고서를 작성해서 $npcName:11004492[gender:0]$박사님께 보내드려야겠어.&#x0A;박사님이라면 아마 이곳에 캠프를 설치해 놓고 밤낮없이 연구를 하실지도 모르겠군." />
+	<key id="0114163707012710" feature="Kritias_2018_12" npc="pc" name="(그럴거라고 말한다.)" />
+	<key id="0114163707012711" feature="Kritias_2018_12" npc="스로인" name="빨리 연구하고 싶군!" />
+	<key id="1227192907012210" feature="Kritias_2018_12" npc="마크란드라" name="정말 신비한 시설이야…" />
+	<key id="1227192907012211" feature="Kritias_2018_12" npc="마크란드라" name="이런 걸 어떻게 만든 거지?" />
+	<key id="1227192907012212" feature="Kritias_2018_12" npc="마크란드라" name="어머? 여기까지 웬일이야?&#x0A;너무 오지라서 사람이 오지 않을 거라 생각했거든." />
+	<key id="1227192907012213" feature="Kritias_2018_12" npc="마크란드라" name="어머? 여기까지 웬일이야?&#x0A;너무 오지라서 사람이 오지 않을 거라 생각했거든." />
+	<key id="1227192907012214" feature="Kritias_2018_12" npc="pc" name="(여기서 뭘 하고 있냐고 물어본다.)" />
+	<key id="1227192907012215" feature="Kritias_2018_12" npc="마크란드라" name="아, 나는 에네르라는 것을 탐색하고 연구하기 위해 파견되었다가&#x0A;이곳의 특이한 구조물을 발견하고 에네르와의 연관성을 연구하고 있는 중이었어." />
+	<key id="1227192907012216" feature="Kritias_2018_12" npc="마크란드라" name="저기 보이는 거대한 링 형태의 구조물 보여?&#x0A;미약하나마 저곳으로 에네르가 빨려 들어가고 있어.&#x0A;측정기로 측정해 본 결과 저 링은 엄청난 양의 에네르를 수용 가능한 것으로 보여." />
+	<key id="1227192907012217" feature="Kritias_2018_12" npc="pc" name="(무슨 말인지 모르겠다…)" />
+	<key id="1227192907012218" feature="Kritias_2018_12" npc="마크란드라" name="의외로 내 이야길 잘 이해하고 있는데? &#x0A;너 과학에 대한 지식이 풍부한가 보구나?" />
+	<key id="1227192907012219" feature="Kritias_2018_12" npc="마크란드라" name="이런저런 데이터를 분석해본 결과 저 거대한 장치는 &#x0A;엄청난 양의 에네르를 모아 어디론가 보내는 장치거나…" />
+	<key id="1227192907012220" feature="Kritias_2018_12" npc="마크란드라" name="많은 양의 에네르를 사용해서 이곳과 전혀 다른 장소와 &#x0A;연결하는 차원문 같은 게 아닌가 추정하는 중이야." />
+	<key id="1227192907012221" feature="Kritias_2018_12" npc="마크란드라" name="이런 기술을 만든 크리티아스인들은 도대체 어떤 사람들일까?" />
+	<key id="0104110407012551" feature="Kritias_2018_12" npc="왈라키" name="정말 놀라워…" />
+	<key id="0104110407012552" feature="Kritias_2018_12" npc="왈라키" name="크리티아스인들은 괴물인가…" />
+	<key id="0104110407012553" feature="Kritias_2018_12" npc="왈라키" name="이런 엄청난 시설물은 난생처음보는군…&#x0A;앵? 너 뭐야? 언제 옆에 와있던 거야?" />
+	<key id="0104110407012554" feature="Kritias_2018_12" npc="왈라키" name="이런 엄청난 시설물은 난생처음보는군…&#x0A;앵? 너 뭐야? 언제 옆에 와있던 거야?" />
+	<key id="0104110407012555" feature="Kritias_2018_12" npc="pc" name="(여기서 뭘 하고 있냐고 물어본다.)" />
+	<key id="0104110407012556" feature="Kritias_2018_12" npc="왈라키" name="뭐야? 나 몰라? 스카이 포트리스에 함께 탑승했잖아?&#x0A;기억 안나?" />
+	<key id="0104110407012557" feature="Kritias_2018_12" npc="pc" name="(기억이 안난다고 말한다.)" />
+	<key id="0104110407012558" feature="Kritias_2018_12" npc="pc" name="(기억 난다고 말한다.)" />
+	<key id="0104110407012559" feature="Kritias_2018_12" npc="왈라키" name="뭐야? 너 되게 정신없는 사람이구나?&#x0A;$map:52010059$에서 날 봤을 텐데? 그곳 시설 관리관이었거든?&#x0A;이런… 그래도 기억이 안 난다는 표정이군…" />
+	<key id="0104110407012560" feature="Kritias_2018_12" npc="왈라키" name="어쨌든, 스카이 포트리스 전용 위성 &apos;바스테트&apos;로 스캔한 &#x0A;각종 거대 구조물을 연구하기 위해 이곳에 왔거든.&#x0A;그런데 첫 번째 구조물에 도착하자마자 너무 엄청나서 발이 떨어지질 않지 뭐야." />
+	<key id="0104110407012561" feature="Kritias_2018_12" npc="pc" name="(바스테트가 뭐냐고 묻는다.)" />
+	<key id="0104110407012562" feature="Kritias_2018_12" npc="pc" name="(무슨 일로 왔는지 묻는다.)" />
+	<key id="0104110407012563" feature="Kritias_2018_12" npc="왈라키" name="역시, 기억할 줄 알았다고!&#x0A;스카이 포트리스의 첫 승선을 함께한 사이니 말야." />
+	<key id="0104110407012564" feature="Kritias_2018_12" npc="왈라키" name="어쨌든, 스카이 포트리스 전용 위성 &apos;바스테트&apos;로 스캔한 &#x0A;각종 거대 구조물을 연구하기 위해 이곳에 왔거든.&#x0A;그런데 첫 번째 구조물에 도착하자마자 너무 엄청나서 발이 떨어지질 않지 뭐야." />
+	<key id="0104110407012565" feature="Kritias_2018_12" npc="왈라키" name="이런 구조의 시설은 난생 처음봐. 여태까지 알려진 건축 양식에도 없는&#x0A;매우 독창적인 구조라고." />
+	<key id="0104110407012566" feature="Kritias_2018_12" npc="왈라키" name="아 참… 이런 걸 당신에게 설명하고 있을 때가 아니지.&#x0A;나는 시설물 조사를 해야 하니 이만…" />
+	<key id="0104110407012567" feature="Kritias_2018_12" npc="왈라키" name="음? 너 스카이 포트리스 승무원 맞아?&#x0A;바스테트는 이전에 개발된 스카이 포트리스 전용 탐사 위성이잖아?" />
+	<key id="0104110407012568" feature="Kritias_2018_12" npc="왈라키" name="시험기이긴 하지만…&#x0A;마침 크리티아스라는 부유 대륙이 나타나면서 본격 활용하게 된 거지." />
+	<key id="0104110407012569" feature="Kritias_2018_12" npc="왈라키" name="궤도에서 밀리미터 단위의 지표 스캔이 가능한 초정밀 탐사 위성이라고." />
+	<key id="0104110407012570" feature="Kritias_2018_12" npc="pc" name="(그런 엄청난걸 누가 만든 거냐고 묻는다.)" />
+	<key id="0104110407012571" feature="Kritias_2018_12" npc="왈라키" name="당연히 전술부의 $npcName:11004437[gender:0]$부관이지!&#x0A;다만 초기 기반 설계는 $npcName:11004434[gender:0]$함장님이 하셨다더군." />
+	<key id="0104110407012572" feature="Kritias_2018_12" npc="왈라키" name="함장님이 직접 설계도에 &apos;절대 이름을 바꾸지 말 것&apos;이라고 쓰인 거 보면&#x0A;이름에 무척 큰 의미가 있는 위성이 아닐까  생각이 들 정도야." />
+	<key id="0114162007012707" feature="Kritias_2018_12" npc="pc" name="(그런 것 같다고 말한다.)" />
+	<key id="0104110407012573" feature="Kritias_2018_12" npc="왈라키" name="내 탐사 임무는 시설 연구와 구조 파악이야.&#x0A;하지만 이곳에 도착하자마자 난관에 봉착했지." />
+	<key id="0104110407012574" feature="Kritias_2018_12" npc="왈라키" name="이런 구조의 시설은 난생 처음봐. &#x0A;여태까지 알려진 건축 양식에도 없는 매우 독창적인 구조라고." />
+	<key id="0104110407012575" feature="Kritias_2018_12" npc="왈라키" name="아 참… 이런 걸 당신에게 설명하고 있을 때가 아니지.&#x0A;나는 시설물 조사를 해야 하니 이만…" />
+	<key id="0114162107012707" feature="Kritias_2018_12" npc="왈라키" name="당연하지. 함장님이 이름을 아무렇게나 지었을리가 없다고." />
+	<key id="1227192907012247" feature="Kritias_2018_12" npc="카붐바" name="으으… 아직 마음의 준비가…" />
+	<key id="1227192907012248" feature="Kritias_2018_12" npc="카붐바" name="신대륙 탐사라니…" />
+	<key id="1227192907012249" feature="Kritias_2018_12" npc="카붐바" name="아? 안녕하십니까?&#x0A;크리티아스 신대륙 탐사를 맡게 되었습니다.&#x0A;잘 부탁드립니다." />
+	<key id="1227192907012250" feature="Kritias_2018_12" npc="카붐바" name="아? 안녕하십니까?&#x0A;크리티아스 신대륙 탐사를 맡게 되었습니다.&#x0A;잘 부탁드립니다." />
+	<key id="1227192907012251" feature="Kritias_2018_12" npc="pc" name="(탐사를 시작하지 않냐고 물어본다.)" />
+	<key id="1227192907012252" feature="Kritias_2018_12" npc="카붐바" name="넷? 타… 탐사 시작요!&#x0A;당연히 해야죠! 곧 할 겁니다! 아무렴요!" />
+	<key id="1227192907012253" feature="Kritias_2018_12" npc="카붐바" name="하하하! 탐사 시작에 많은 준비가 필요한데…&#x0A;아직 준비가 덜 끝나서 준비 중이라서요!&#x0A;준비가 끝나면 곧바로 탐사를 시작할 겁니다!" />
+	<key id="1227192907012254" feature="Kritias_2018_12" npc="pc" name="(뭔가 겁먹은거 같은데??)" />
+	<key id="1227192907012255" feature="Kritias_2018_12" npc="카붐바" name="겁이라뇨~! 절대 아닙니다~!&#x0A;우리 집 가훈이 돌다리도 두드려 보고 건너라~ 이거거든요?&#x0A;중요한 만큼 준비를 단단히 하려는 거죠, 절대 겁나서 그런거 아닙니다~!?" />
+	<key id="1227192907012256" feature="Kritias_2018_12" npc="안브리아" name="탐사를 계속해야 하는데…" />
+	<key id="1227192907012257" feature="Kritias_2018_12" npc="안브리아" name="이 상태로 움직였다간…" />
+	<key id="1227192907012258" feature="Kritias_2018_12" npc="안브리아" name="앗! 깜짝이야! 적인 줄 알았잖아요!&#x0A;쉿! 어서 엎드려요! 적에게 발각되면 끝장이에요!" />
+	<key id="1227192907012259" feature="Kritias_2018_12" npc="안브리아" name="앗! 깜짝이야! 적인 줄 알았잖아요!&#x0A;쉿! 어서 엎드려요! 적에게 발각되면 끝장이에요!" />
+	<key id="1227192907012260" feature="Kritias_2018_12" npc="pc" name="(무슨 일이냐고 묻는다.)" />
+	<key id="1227192907012261" feature="Kritias_2018_12" npc="안브리아" name="지금 눈앞에 저 아수라장을 보고도 그런 말이 나와요?&#x0A;이거야 탐사하러 왔다가 목숨이 날아갈 판이라구요." />
+	<key id="1227192907012262" feature="Kritias_2018_12" npc="안브리아" name="앞 전에는 검은군단이 난대 없이 튀어나오더니…&#x0A;도망쳐서 도착한 곳은 타이렌 왕국의 병력이 쫙 깔려 있으니 말입니다." />
+	<key id="1227192907012263" feature="Kritias_2018_12" npc="안브리아" name="이래서야 탐사하기도 전에 강철 비석에 깔리겠어요.&#x0A;여기서 이러지 말고 가서 녀석들이나 좀 몰아내 달라구요!" />
+	<key id="0114161407012705" feature="Kritias_2018_12" npc="pc" name="(알았다고 말한다.)" />
+	<key id="0114161407012706" feature="Kritias_2018_12" npc="안브리아" name="꼭 부탁해요!" />
+	<key id="1227192907012264" feature="Kritias_2018_12" npc="그라실리스" name="연구할 가치가 있어…" />
+	<key id="1227192907012265" feature="Kritias_2018_12" npc="그라실리스" name="흠… 독특한 형태로군." />
+	<key id="1227192907012266" feature="Kritias_2018_12" npc="그라실리스" name="어머나? 차림새를 보아하니 메이플 월드 사람이군요?&#x0A;아차… 실례, 탐험을 시작하고 나서 며칠 만에 처음 보는 사람이라…" />
+	<key id="1227192907012267" feature="Kritias_2018_12" npc="그라실리스" name="어머나? 차림새를 보아하니 메이플 월드 사람이군요?&#x0A;아차… 실례, 탐험을 시작하고 나서 며칠 만에 처음 보는 사람이라…" />
+	<key id="1227192907012268" feature="Kritias_2018_12" npc="pc" name="(탐사 성과에 대해 묻는다.)" />
+	<key id="1227192907012269" feature="Kritias_2018_12" npc="그라실리스" name="아직 성과라 할만한 것은 없네요.&#x0A;다만 이 기계 장치가 신경쓰여요." />
+	<key id="1227192907012270" feature="Kritias_2018_12" npc="그라실리스" name="흔한 드릴 형태의 모습이긴 하지만요.&#x0A;드릴이란 거 원래 사람의 심금을 울리는 무언가가 있잖아요?&#x0A;그래서 이 구조물에 대해 알아보기로 결심했죠." />
+	<key id="1227192907012271" feature="Kritias_2018_12" npc="그라실리스" name="이 드릴 구조물은 땅을 파는 회전 구조 이외에도 &#x0A;특정 파장의 에너지를 흡수하고 있기도 해요.&#x0A;이곳 사람들의 언어로 에네르 라는 파장 말이에요." />
+	<key id="1227192907012272" feature="Kritias_2018_12" npc="그라실리스" name="지면 아래 에네르를 파내 어딘가로 이동시키는 장치가 아닐까 추측하고 있어요.&#x0A;그게 어딘지 장소는 불분명하지만 말이에요." />
+	<key id="0114163707012712" feature="Kritias_2018_12" npc="pc" name="(신기하네요.)" />
+	<key id="0104144307012585" feature="Kritias_2018_12" npc="그라실리스" name="으음…" />
+	<key id="0104144307012586" feature="Kritias_2018_12" npc="그라실리스" name="어레? 당신은…뭔가 이전에도 본 적이 있는 듯한데.&#x0A;일단, 지금은 매우 바쁜 상태이니 나중에…" />
+	<key id="0104144307012587" feature="Kritias_2018_12" npc="pc" name="(여기서 뭘 하고있냐고 묻는다.)" />
+	<key id="0104144307012588" feature="Kritias_2018_12" npc="그라실리스" name="…제가 뭘 하고 있는지 궁금하신 거군요.&#x0A;이것 참, 그렇다면 설명해드리는 게 인지상정이죠." />
+	<key id="0104144307012589" feature="Kritias_2018_12" npc="그라실리스" name="저는 메이플 월드의 기계 공학자입니다.&#x0A;크리티아스의 기계를 연구하기 위해 몰래 따라…크흠흠.&#x0A;스카이 포트리스에 탑승했죠." />
+	<key id="0104144307012590" feature="Kritias_2018_12" npc="그라실리스" name="그리고, 이곳에서 발견한 겁니다!&#x0A;이 사랑스러워 보이는 드릴들을요." />
+	<key id="0104144307012591" feature="Kritias_2018_12" npc="그라실리스" name="뭐, 드릴의 형태를 하고 있지만…&#x0A;실질적으로 드릴이라고 보기는 어려울 수 있어요." />
+	<key id="0104144307012592" feature="Kritias_2018_12" npc="그라실리스" name="이 드릴의 구조는 트위스트 드릴, 직날홈 드릴, 스탭 드릴 등등…&#x0A;우리가 아는 드릴 어디에도 속해있지 않아요." />
+	<key id="0104144307012593" feature="Kritias_2018_12" npc="그라실리스" name="심지어, 일반적으로 드릴에 사용하는 초경합금이 아닌!&#x0A;무언가 다른 물질로 구성이 되어 있단 말입니다!!!&#x0A;헉헉…" />
+	<key id="0104144307012594" feature="Kritias_2018_12" npc="그라실리스" name="…이야기를 하다 보니 너무 설레서 숨이 가빠오는군요." />
+	<key id="0104144307012595" feature="Kritias_2018_12" npc="그라실리스" name="아무튼, 제 이야기를 이해하시겠습니까?" />
+	<key id="0104144307012596" feature="Kritias_2018_12" npc="pc" name="(…무슨 말인지 잘 모르겠다고 말한다.)" />
+	<key id="0104144307012597" feature="Kritias_2018_12" npc="그라실리스" name="?!&#x0A;이렇게 알기 쉽게 설명을 해드렸는데도요?!" />
+	<key id="0104144307012598" feature="Kritias_2018_12" npc="pc" name="(…전혀 모르겠다고 말한다.)" />
+	<key id="0104144307012599" feature="Kritias_2018_12" npc="그라실리스" name="…" />
+	<key id="0104144307012600" feature="Kritias_2018_12" npc="그라실리스" name="하아…갑자기 맥이 빠지는군요.&#x0A;더 이상 절 방해하지 마십시오." />
+	<key id="0104144307012601" feature="Kritias_2018_12" npc="그라실리스" name="이 드릴의 존재 이유를 곧 알아낼 수 있을 것 같다고요." />
+	<key id="0114163707012714" feature="Kritias_2018_12" npc="그라실리스" name="크리티아스에는 정말 신기한 것이 많이 있군요. 할 일이 많아요." />
+	<key id="1227192907012273" feature="Kritias_2018_12" npc="비비파라" name="트라이아로 돌아가고 싶어…" />
+	<key id="1227192907012274" feature="Kritias_2018_12" npc="비비파라" name="언제까지 있어야 하는 거지?" />
+	<key id="1227192907012275" feature="Kritias_2018_12" npc="비비파라" name="이봐요, 당신 메이플 월드 사람이군요?" />
+	<key id="1227192907012276" feature="Kritias_2018_12" npc="비비파라" name="이봐요, 당신 메이플 월드 사람이군요?" />
+	<key id="1227192907012277" feature="Kritias_2018_12" npc="pc" name="(왜 이리 기운이 없는지 묻는다.)" />
+	<key id="1227192907012278" feature="Kritias_2018_12" npc="비비파라" name="말도 말아요… 탐사 대원으로 차출될 줄 꿈에도 몰랐지만&#x0A;배정받은 탐사지가 이런 험난한 곳인 줄은 더더욱 몰랐다구요." />
+	<key id="1227192907012279" feature="Kritias_2018_12" npc="비비파라" name="벌써 트라이아 사람들이 그리워져요.&#x0A;언제쯤이 탐사가 끝날까요?" />
+	<key id="1227192907012280" feature="Kritias_2018_12" npc="pc" name="(힘내라고 말한다.)" />
+	<key id="1227192907012281" feature="Kritias_2018_12" npc="비비파라" name="위로를 받으니 한결 낫네요.&#x0A;당신도 낯선 세계에서의 모험이 힘들겠죠.&#x0A;우리 같이 힘내봐요." />
+	<key id="1227192907012282" feature="Kritias_2018_12" npc="디버시" name="엄청난 규모로군…" />
+	<key id="1227192907012283" feature="Kritias_2018_12" npc="디버시" name="이 많은 에네르가 어디로 가는거지?" />
+	<key id="1227192907012284" feature="Kritias_2018_12" npc="디버시" name="어서 와요. 당신에 대해선 아마 모르는 사람이 없을 정도일 거예요.&#x0A;알게 모르게 펜들도 많다고 들었어요." />
+	<key id="1227192907012285" feature="Kritias_2018_12" npc="디버시" name="어서 와요. 당신에 대해선 아마 모르는 사람이 없을 정도일 거예요.&#x0A;알게 모르게 펜들도 많다고 들었어요." />
+	<key id="1227192907012286" feature="Kritias_2018_12" npc="pc" name="(쑥쓰럽군…)" />
+	<key id="1227192907012287" feature="Kritias_2018_12" npc="디버시" name="너무 우쭐하진 말아요.&#x0A;임무 중 자칫 실수 할 수 있다구요." />
+	<key id="1227192907012288" feature="Kritias_2018_12" npc="디버시" name="그나저나 이 거대한 규모의 에네르 채굴장…&#x0A;엄청난 양의 에네르가 땅속에 묻혀 있는 곳임에 틀림없어요." />
+	<key id="1227192907012289" feature="Kritias_2018_12" npc="디버시" name="적들이 이곳을 장악한 것도 이 에네르를 차지하기 위해서겠죠.&#x0A;분명 큰 가치가 있거나 활용도가 높은 것이기 때문일 겁니다." />
+	<key id="1227192907012290" feature="Kritias_2018_12" npc="디버시" name="이곳을 우리가 장악하고 에네르를 차지해야 한다고 보고서를 보냈어요.&#x0A;병력이 도착하기 전까지 이 시설의 규모 파악과 에네르 연구를 계속해야 해요." />
+	<key id="1227192907012291" feature="Kritias_2018_12" npc="오란다" name="대단한 규모야…" />
+	<key id="1227192907012292" feature="Kritias_2018_12" npc="오란다" name="상상 이상인걸?" />
+	<key id="1227192907012293" feature="Kritias_2018_12" npc="오란다" name="아! 어서 오세요!&#x0A;안 그래도 이 광경을 함께 보고 싶은 사람이 필요했거든요!" />
+	<key id="1227192907012294" feature="Kritias_2018_12" npc="오란다" name="아! 어서 오세요!&#x0A;안 그래도 이 광경을 함께 보고 싶은 사람이 필요했거든요!" />
+	<key id="1227192907012295" feature="Kritias_2018_12" npc="pc" name="(뭔가 특별한 게 있는지 묻는다.)" />
+	<key id="1227192907012296" feature="Kritias_2018_12" npc="오란다" name="눈앞에 저 엄청난 건축물들이 보이지 않나요?&#x0A;너무 가까이서 봐서 감흥이 없다면 망원경을 보고 오시는 것은 어때요?" />
+	<key id="1227192907012297" feature="Kritias_2018_12" npc="pc" name="(봐도 잘 모르겠다…)" />
+	<key id="1227192907012298" feature="Kritias_2018_12" npc="오란다" name="이 건축물에는 에네르가 가득 깃들어 있네요.&#x0A;건축물들이 에네르를 머금고 있는 것만 같아요.&#x0A;마치 물을 잔뜩 머금은 스폰지 처럼요!" />
+	<key id="1227192907012299" feature="Kritias_2018_12" npc="오란다" name="중앙에 있는 이 원통형 시설물은 &#x0A;땅속의 에네르를 건물에 공급하는 장치 같은데… &#x0A;어떻게 구동되는지 모르겠어요." />
+	<key id="1227192907012300" feature="Kritias_2018_12" npc="오란다" name="이곳에 단말기로 보이는 것이 있는 것으로 봐선&#x0A;이 단말기가 저 장치를 조종하는 수단인 거 같은데&#x0A;지금으로선 어떻게 작동시키는 것인지 모르겠군요." />
+	<key id="1227192907012301" feature="Kritias_2018_12" npc="레펜스" name="이 징후는…" />
+	<key id="1227192907012302" feature="Kritias_2018_12" npc="레펜스" name="틀림없어…" />
+	<key id="1227192907012303" feature="Kritias_2018_12" npc="레펜스" name="어서 오세요.&#x0A;이곳에 새로운 토양 오염이 보고되어 연구 중입니다." />
+	<key id="1227192907012304" feature="Kritias_2018_12" npc="레펜스" name="어서 오세요.&#x0A;이곳에 새로운 토양 오염이 보고되어 연구 중입니다." />
+	<key id="1227192907012305" feature="Kritias_2018_12" npc="pc" name="(무슨 일이냐고 묻는다.)" />
+	<key id="1227192907012306" feature="Kritias_2018_12" npc="레펜스" name="네, 저는 크리티아스의 토양 분석 임무를 담당하고 있어요.&#x0A;최근까지 보이지 않던 토양 오염의 흔적을 주의 깊게 관찰 중이었어요." />
+	<key id="1227192907012307" feature="Kritias_2018_12" npc="레펜스" name="얼마전에 나타났다는 기계 괴수에 대해 혹시 알고 있나요?" />
+	<key id="1227192907012308" feature="Kritias_2018_12" npc="pc" name="(알고 있다고 말한다.)" />
+	<key id="1227192907012309" feature="Kritias_2018_12" npc="pc" name="(잘 모른다고 말한다.)" />
+	<key id="1227192907012313" feature="Kritias_2018_12" npc="레펜스" name="알고 계시다고 하니 이야기가 빠르겠네요.&#x0A;거대 괴수 기간티카의 등장으로 크리티아스 탐사가 크게 지장을 받고 있어요." />
+	<key id="1227192907012314" feature="Kritias_2018_12" npc="레펜스" name="게다가 기간티카가 나타나는 곳마다 토양이 심각하게 오염되고 있죠.&#x0A;이 토양의 오염으로 인해 탐사대 캠프를 철수하는 등 막대한 피해가 발생 중이구요." />
+	<key id="1227192907012315" feature="Kritias_2018_12" npc="레펜스" name="하지만 이 오염된 토양의 성분과 오염의 경로를 분석한다면 &#x0A;기간티카의 이동 경로나 활동 범위를 분석할 수 있을 거 같아요." />
+	<key id="1227192907012310" feature="Kritias_2018_12" npc="레펜스" name="긴급 사항이라 승무원 전체에게 정보 전파가 되었다고 생각했는데 전달받지 못하셨군요.&#x0A;거대 기계 괴수 &apos;기간티카&apos;의 등장으로 크리티아스 탐사가 크게 지장을 받고 있어요." />
+	<key id="1227192907012311" feature="Kritias_2018_12" npc="레펜스" name="게다가 기간티카가 나타나는 곳마다 토양이 심각하게 오염되고 있죠.&#x0A;이 토양의 오염으로 인해 탐사대 캠프를 철수하는 등 막대한 피해가 발생 중이구요." />
+	<key id="1227192907012312" feature="Kritias_2018_12" npc="레펜스" name="하지만 이 오염된 토양의 성분과 오염의 경로를 분석한다면 &#x0A;기간티카의 이동 경로나 활동 범위를 분석할 수 있을 거 같아요." />
+	<key id="1227192907012316" feature="Kritias_2018_12" npc="발렌세" name="정말 놀라워." />
+	<key id="1227192907012317" feature="Kritias_2018_12" npc="발렌세" name="이 것이 크리티아스인들의 과학력인가?" />
+	<key id="1227192907012318" feature="Kritias_2018_12" npc="발렌세" name="아? 당신은 누구요?&#x0A;아! 당신! 본 적이 있어. 스카이 포트리스에서!" />
+	<key id="1227192907012319" feature="Kritias_2018_12" npc="발렌세" name="아? 당신은 누구요?&#x0A;아! 당신! 본 적이 있어. 스카이 포트리스에서!" />
+	<key id="1227192907012320" feature="Kritias_2018_12" npc="발렌세" name="이 건축물들을 좀 보라고… 어마어마해.&#x0A;정말 위대한 건축물이야! 당신도 그렇게 생각하지?" />
+	<key id="1227192907012321" feature="Kritias_2018_12" npc="pc" name="(잘 모르겠다고 말한다.)" />
+	<key id="1227192907012322" feature="Kritias_2018_12" npc="발렌세" name="아니, 이 엄청난 광경을 보고도 실감이 안 된단 말야?&#x0A;이곳의 건축양식은 메이플 월드에선 단 한 번도 본 적 없는 양식이야." />
+	<key id="1227192907012323" feature="Kritias_2018_12" npc="발렌세" name="이 건축물 자체가 위대한 과학력 그 자체라는 것이지.&#x0A;눈앞에서 보고 있지만 꿈을 꾸고 있는 것 같을 정도야." />
+	<key id="1227192907012324" feature="Kritias_2018_12" npc="발렌세" name="어서 $npcName:11004499[gender:0]$박사님과 함께 &#x0A;이 건축물에 대해 연구해 보고 싶어!" />
+	<key id="0114162107012708" feature="Kritias_2018_12" npc="pc" name="(바람이 이루어지길 바란다고 말한다.)" />
+	<key id="0114162107012709" feature="Kritias_2018_12" npc="발렌세" name="고마워!" />
+	<key id="1227192907012325" feature="Kritias_2018_12" npc="카라디" name="엄청난 규모야…" />
+	<key id="1227192907012326" feature="Kritias_2018_12" npc="카라디" name="이런 곳이 있었다니…" />
+	<key id="1227192907012327" feature="Kritias_2018_12" npc="카라디" name="쉿! 조용해요!&#x0A;들킨다구요!" />
+	<key id="1227192907012328" feature="Kritias_2018_12" npc="카라디" name="쉿! 조용해요!&#x0A;들킨다구요!" />
+	<key id="1227192907012329" feature="Kritias_2018_12" npc="카라디" name="이곳을 발견한 것은 정말 우연이었어요.&#x0A;이런 거대한 로봇 생산 시설이 있을 줄은 꿈에도 몰랐죠." />
+	<key id="1227192907012330" feature="Kritias_2018_12" npc="카라디" name="보세요. 사람 하나 없이 자동으로 로봇들이 생산되고 있어요.&#x0A;게다가 저 생산 속도… &#x0A;이래서 아무리 로봇들을 파괴해도 끝없이 출몰했던 거였어요." />
+	<key id="1227192907012331" feature="Kritias_2018_12" npc="pc" name="(이곳을 파괴하면 되냐고 묻는다.)" />
+	<key id="1227192907012332" feature="Kritias_2018_12" npc="카라디" name="감마선 투시기를 통해 이 시설을 살펴봤어요.&#x0A;이곳은 시설의 매우 일부에 지나지 않아요.&#x0A;게다가 시설 일부가 고장 나거나 파괴되면 순식간에 복구하더라구요." />
+	<key id="1227192907012333" feature="Kritias_2018_12" npc="카라디" name="우리가 이곳을 파괴한다 해도 아직 파악하지 못한 대규모 시설이 있을 것이고&#x0A;파괴된 시설도 금세 복구될 거예요.&#x0A;오히려 파괴 시도가 선제공격으로 인식되어 우리에게 큰 위협이 될 수도 있죠." />
+	<key id="1227192907012334" feature="Kritias_2018_12" npc="카라디" name="섣부른 행동으로 자칫 큰 위험에 빠지는 것 보단 &#x0A;이 공장 시설의 규모 파악과 어떻게 운용되는지 알아보는 것이 먼저예요." />
+	<key id="0114164107012723" feature="Kritias_2018_12" npc="pc" name="(알았다고 말한다.)" />
+	<key id="0114164107012724" feature="Kritias_2018_12" npc="카라디" name="이곳의 시설을 좀 더 알아봐야겠네요." />
+	<key id="1227192907012335" feature="Kritias_2018_12" npc="판타날" name="들려? 이 소리?" />
+	<key id="1227192907012336" feature="Kritias_2018_12" npc="판타날" name="마치 합창을 하는 것 같아." />
+	<key id="1227192907012337" feature="Kritias_2018_12" npc="판타날" name="어서 와. $MyPCName$!&#x0A;난 크리티아스의 식물들을 연구하고 있어!" />
+	<key id="1227192907012338" feature="Kritias_2018_12" npc="판타날" name="어서 와. $MyPCName$!&#x0A;난 크리티아스의 식물들을 연구하고 있어!" />
+	<key id="1227192907012339" feature="Kritias_2018_12" npc="pc" name="(성과가 있냐고 묻는다.)" />
+	<key id="1227192907012340" feature="Kritias_2018_12" npc="판타날" name="응! 대단한 성과가 있었지!&#x0A;크리티아스의 모든 식물엔 크고 작은 에네르가 깃들어 있어!" />
+	<key id="1227192907012341" feature="Kritias_2018_12" npc="판타날" name="그리고 식물들은 서로의 에네르에 반응해.&#x0A;마치 서로 에네르를 통해 대화하는 것 같달까?" />
+	<key id="1227192907012342" feature="Kritias_2018_12" npc="pc" name="(식물이 대화를?)" />
+	<key id="1227192907012343" feature="Kritias_2018_12" npc="판타날" name="식물들이 대화한다는 가설들은 많았지만&#x0A;크리티아스에서 발견된 이 현상은 명확한 증거가 될 수 있어!&#x0A;그리고 지금 이 반응…" />
+	<key id="1227192907012344" feature="Kritias_2018_12" npc="판타날" name="식물들이 같은 에네르 파장을 내고 있어.&#x0A;마치 식물들이 합창하고 있는 것만 같아!" />
+	<key id="0114164007012721" feature="Kritias_2018_12" npc="pc" name="놀라워요!" />
+	<key id="0114164007012722" feature="Kritias_2018_12" npc="판타날" name="이건 정말 대단해요!" />
+	<key id="1227192907012345" feature="Kritias_2018_12" npc="바코바" name="음… 생명체에도 에네르가…" />
+	<key id="1227192907012346" feature="Kritias_2018_12" npc="바코바" name="에네르의 정체는 대체…" />
+	<key id="1227192907012347" feature="Kritias_2018_12" npc="바코바" name="아? 왔는가?&#x0A;나는 크리티아스의 어류에 대해 연구 중이라네." />
+	<key id="1227192907012348" feature="Kritias_2018_12" npc="바코바" name="아? 왔는가?&#x0A;나는 크리티아스의 어류에 대해 연구 중이라네." />
+	<key id="1227192907012349" feature="Kritias_2018_12" npc="pc" name="(성과가 있냐고 묻는다.)" />
+	<key id="1227192907012350" feature="Kritias_2018_12" npc="바코바" name="여러 어류를 연구했지.&#x0A;그리고 어류에 에네르가 깃들어 있다는 것을 발견했네.&#x0A;아마 어류의 에네르 축적은 먹이사슬과 관계가 있는 거 같네." />
+	<key id="1227192907012351" feature="Kritias_2018_12" npc="바코바" name="만약 이 물고기를 먹는다면 사람에게도 에네르가 깃들 수 있을까?&#x0A;흠… 그걸 연구하려면 우선, 이 물고기에 독이 있는지 없는지 부터 알아내야겠군." />
+	<key id="0114161207012703" feature="Kritias_2018_12" npc="pc" name="(꼭 알아내기 바란다고 말한다.)" />
+	<key id="0114161207012704" feature="Kritias_2018_12" npc="바코바" name="물론, 그래야지." />
+	<key id="1227192907012352" feature="Kritias_2018_12" npc="푸실라" name="끔찍해…" />
+	<key id="1227192907012353" feature="Kritias_2018_12" npc="푸실라" name="어떻게 이런 일이…" />
+	<key id="1227192907012354" feature="Kritias_2018_12" npc="푸실라" name="이 지역은 원래 울창한 숲이였어요.&#x0A;하지만 검은군단이 이곳에 오고 나서 부터 모든 게 변했죠." />
+	<key id="1227192907012355" feature="Kritias_2018_12" npc="푸실라" name="이 지역은 원래 울창한 숲이였어요.&#x0A;하지만 검은군단이 이곳에 오고 나서 부터 모든 게 변했죠." />
+	<key id="1227192907012356" feature="Kritias_2018_12" npc="pc" name="(무슨 일이 일어난 건지 묻는다.)" />
+	<key id="1227192907012357" feature="Kritias_2018_12" npc="푸실라" name="검은군단의 병력이 이곳에 도착한 후 하루 만에 이런 진지를 완성시켰어요.&#x0A;울창한 숲은 하루 만에 이런 꼴이 되어버렸고 맑은 개울은 이렇게 썩어버렸어요." />
+	<key id="1227192907012358" feature="Kritias_2018_12" npc="푸실라" name="당신도 이런 비슷한 곳을 본 적이 있을 거예요.&#x0A;그래요. 쉐도우 월드… 그곳 처럼 변해가는 거예요." />
+	<key id="1227192907012359" feature="Kritias_2018_12" npc="푸실라" name="상황은 점점 심해지고 이젠 주변 다른 곳까지 오염되어 가고 있어요.&#x0A;검은군단의 세력이 확장되면 될 수록 이곳의 오염도 가속화 될 거예요." />
+	<key id="0114164507012725" feature="Kritias_2018_12" npc="pc" name="(큰일이라고 말한다.)" />
+	<key id="0114164607012725" feature="Kritias_2018_12" npc="푸실라" name="검은군단의 세력을 막아야 해요." />
+	<key id="1227192907012360" feature="Kritias_2018_12" npc="주울 " name="이것이 에네르의 힘인가..." />
+	<key id="1227192907012361" feature="Kritias_2018_12" npc="주울 " name="중력마저 역전되는군." />
+	<key id="1227192907012362" feature="Kritias_2018_12" npc="주울 " name="난 이곳의 불가사의한 중력 역전에 대해 조사하고 있소.&#x0A;어마어마한 구조물이 특별한 장치 없이 떠 있는 것이 매우 흥미롭다오." />
+	<key id="1227192907012363" feature="Kritias_2018_12" npc="주울 " name="난 이곳의 불가사의한 중력 역전에 대해 조사하고 있소.&#x0A;어마어마한 구조물이 특별한 장치 없이 떠 있는 것이 매우 흥미롭다오." />
+	<key id="1227192907012364" feature="Kritias_2018_12" npc="pc" name="(성과가 있는지 물어본다.)" />
+	<key id="1227192907012365" feature="Kritias_2018_12" npc="주울 " name="이 중력 역전에 대해 연구하여 결실을 이룬다면&#x0A;제2의 에너지 혁명이 가능할지도 모르오." />
+	<key id="1227192907012366" feature="Kritias_2018_12" npc="주울 " name="생각해 보시오.&#x0A;우리의 스카이 포트리스가 막대한 에너지를 사용하지 않고 부유한다면…&#x0A;당신도 이 중력 역전에 대한 해답을 찾고 싶어지지 않소?" />
+	<key id="0114163707012715" feature="Kritias_2018_12" npc="pc" name="(대단할 것 같다고 말한다.)" />
+	<key id="0114163707012716" feature="Kritias_2018_12" npc="주울 " name="그러니, 에네르 연구는 꼭 필요한 연구라오." />
+	<key id="1227192907012367" feature="Kritias_2018_12" npc="데니소니" name="에네르는 크리티아스 어디에나 있군…" />
+	<key id="1227192907012368" feature="Kritias_2018_12" npc="데니소니" name="작은 생물에도 에네르가 감지되다니…" />
+	<key id="1227192907012369" feature="Kritias_2018_12" npc="데니소니" name="아! 어서 오게.&#x0A;자네라면 스카이 포트리스에서 자주 봤다네.&#x0A;그보다, 내 연구를 좀 봐주게." />
+	<key id="1227192907012370" feature="Kritias_2018_12" npc="데니소니" name="아! 어서 오게.&#x0A;자네라면 스카이 포트리스에서 자주 봤다네.&#x0A;그보다, 내 연구를 좀 봐주게." />
+	<key id="1227192907012371" feature="Kritias_2018_12" npc="pc" name="(어떤 것인지 물어본다.)" />
+	<key id="1227192907012372" feature="Kritias_2018_12" npc="데니소니" name="나는 크리티아스에 도착 후 에네르라는 물질이 발견된 후부터&#x0A;에네르와 생물에 대한 상관관계에 대해 연구를 계속햌왔네." />
+	<key id="1227192907012373" feature="Kritias_2018_12" npc="데니소니" name="놀랍게도 에네르는 모든 생명체에게 깃들어 있더군.&#x0A;생물의 진화 정도나 크기와는 상관없이 말야." />
+	<key id="0114164607012726" feature="Kritias_2018_12" npc="pc" name="(신기하다고 말한다.)" />
+	<key id="0114164607012727" feature="Kritias_2018_12" npc="데니소니" name="확신할 수 없지만, 에네르와 생명 에너지는 연결되어 있는 것 같아." />
+	<key id="1227192907012374" feature="Kritias_2018_12" npc="엑셀로디" name="음~ 놀랍군…" />
+	<key id="1227192907012375" feature="Kritias_2018_12" npc="엑셀로디" name="이런 곳에도 생명이…" />
+	<key id="1227192907012376" feature="Kritias_2018_12" npc="엑셀로디" name="오셨습니까?&#x0A;저는 크리티아스의 다양한 수질에 서식하는 물고기들을 연구하고 있습니다." />
+	<key id="1227192907012377" feature="Kritias_2018_12" npc="엑셀로디" name="오셨습니까?&#x0A;저는 크리티아스의 다양한 수질에 서식하는 물고기들을 연구하고 있습니다." />
+	<key id="1227192907012378" feature="Kritias_2018_12" npc="엑셀로디" name="이곳의 수질은 맹독성입니다.&#x0A;평범한 사람이라면 한 모금만 마셔도 바로 강철 비석에 깔릴 정도죠.&#x0A;하지만 자세히 보세요, 물고기들이 헤엄치고 있어요." />
+	<key id="1227192907012379" feature="Kritias_2018_12" npc="pc" name="(이게 어떻게 가능한지 물어본다.)" />
+	<key id="1227192907012380" feature="Kritias_2018_12" npc="엑셀로디" name="아직 연구가 진행중이기 때문에 정확한 결론을 낼 수는 없지만…&#x0A;이곳에 서식하는 물고기들에게 공통으로 발견되는 건 체내의 에네르에요." />
+	<key id="1227192907012381" feature="Kritias_2018_12" npc="엑셀로디" name="아마 이곳의 물고기들은 체내의 에네르를 이용해 독을 해독하거나 방어하도록&#x0A;진화한 게 아닐까 하는 게 제 추론입니다." />
+	<key id="0114163707012717" feature="Kritias_2018_12" npc="pc" name="(대단하다고 말한다.)" />
+	<key id="0114163707012718" feature="Kritias_2018_12" npc="엑셀로디" name="아직은 추론입니다." />
+	<key id="1227192907012382" feature="Kritias_2018_12" npc="라이튼" name="흥미로워…" />
+	<key id="1227192907012383" feature="Kritias_2018_12" npc="라이튼" name="혹시 메이플 월드 문화의 기원이..." />
+	<key id="1227192907012384" feature="Kritias_2018_12" npc="라이튼" name="누구신가요?&#x0A;아~ $MyPCName$님이셨군요!&#x0A;어서 오세요." />
+	<key id="1227192907012385" feature="Kritias_2018_12" npc="라이튼" name="누구신가요?&#x0A;아~ $MyPCName$님이셨군요!&#x0A;어서 오세요." />
+	<key id="1227192907012386" feature="Kritias_2018_12" npc="pc" name="(이곳에서 뭘 하고 있었는지 묻는다.)" />
+	<key id="1227192907012387" feature="Kritias_2018_12" npc="라이튼" name="저는 크리티아스의 문화와 문학에 대해 연구 중입니다.&#x0A;아직 연구 초기 단계지만 상당한 발견이 있었습니다." />
+	<key id="1227192907012388" feature="Kritias_2018_12" npc="라이튼" name="크리티아스와 빅토리아 아일렌드, 카르카르에서 발견된 &#x0A;고대 문명과 상당한 유사성이 있음을 알아냈어요.&#x0A;문자는 다르지만 문자열의 규칙… &#x0A;그리고 수많은 기호들, 문학적 표현의 유사성이 놀라울 정도로 닮아있어요." />
+	<key id="1227192907012389" feature="Kritias_2018_12" npc="pc" name="(그게 어떻게 가능한지 묻는다.)" />
+	<key id="1227192907012390" feature="Kritias_2018_12" npc="라이튼" name="추정일 뿐이지만 문명의 뿌리가 같은 게 아닐지…&#x0A;높으신 분들이야 어디가 먼저인가가 중요하겠지만 말이죠." />
+	<key id="1227192907012391" feature="Kritias_2018_12" npc="모리셔스" name="이토록 정교하다니…" />
+	<key id="1227192907012392" feature="Kritias_2018_12" npc="모리셔스" name="정말 대단헤…" />
+	<key id="1227192907012393" feature="Kritias_2018_12" npc="모리셔스" name="음? 자네는 누군가?&#x0A;어떻게 이곳에 온 거지?&#x0A;아? 낯익은 얼굴이군." />
+	<key id="1227192907012394" feature="Kritias_2018_12" npc="모리셔스" name="음? 자네는 누군가?&#x0A;어떻게 이곳에 온 거지?&#x0A;아? 낯익은 얼굴이군." />
+	<key id="1227192907012395" feature="Kritias_2018_12" npc="pc" name="(함께 스카이 포트리스로 이곳에 왔다고 말한다.)" />
+	<key id="1227192907012396" feature="Kritias_2018_12" npc="모리셔스" name="아~! 내 정신 보게, 이제야 기억나는군!&#x0A;당신의 활약에 대해선 익히 들었다네.&#x0A;정말 대단한 일을 하고 있더군." />
+	<key id="1227192907012397" feature="Kritias_2018_12" npc="모리셔스" name="나는 크리티아스의 건축물에 대해 연구하고 있다네.&#x0A;이 건축물 좀 보게나. 정말 대단하지 않나?&#x0A;이토록 정교하게 설계된 건축물은 이 전에 본 적이 없다네." />
+	<key id="1227192907012398" feature="Kritias_2018_12" npc="모리셔스" name="벽돌 한장 한장, 기둥 한 개 한 개가 모두 칼같이 들어맞는다네.&#x0A;전에 이런 걸 본 적이 없어.&#x0A;그런데 말야…" />
+	<key id="1227192907012399" feature="Kritias_2018_12" npc="모리셔스" name="우리가 발견한 모든 크리티아스의 건축물들은 모두 이토록 정교하다네.&#x0A;믿을 수 없을 정도로 대단한 기술력이야.&#x0A;도대체 어떻게 이렇게 만든 것인지 궁금해 못 견디겠어." />
+	<key id="0114163707012719" feature="Kritias_2018_12" npc="pc" name="(정말 궁금하다고 말한다.)" />
+	<key id="0114163707012720" feature="Kritias_2018_12" npc="모리셔스" name="연구할 가치가 있어. 정말 대단한 기술력이야." />
+	<key id="1227192907012405" feature="Kritias_2018_12" npc="교관" name="기합 소리 봐라! 똑바로 안 하나?!" />
+	<key id="1227192907012406" feature="Kritias_2018_12" npc="교관" name="너! 허리가 빠졌잖나?!" />
+	<key id="1227192907012407" feature="Kritias_2018_12" npc="교관" name="자네는 누군가? 새로운 훈련병인가?&#x0A;그렇다면 저기 가서 오와 열을 맞춰 서도록!" />
+	<key id="1227192907012408" feature="Kritias_2018_12" npc="교관" name="자네는 누군가? 새로운 훈련병인가?&#x0A;그렇다면 저기 가서 오와 열을 맞춰 서도록!" />
+	<key id="1227192907012409" feature="Kritias_2018_12" npc="pc" name="(훈련병이 아니라고 말한다.)" />
+	<key id="1227192907012410" feature="Kritias_2018_12" npc="교관" name="뭐야? 차림새가 하도 요란해서 갱생을 원하는 신병인 줄 알았군." />
+	<key id="1227192907012411" feature="Kritias_2018_12" npc="교관" name="게오르크는 타이렌 왕국과 맞서기 위해 언제나 새로운 병사를 소집하고 있다.&#x0A;차림새를 보아하니 일반인은 아니고… 전투에 능해 보이는군?" />
+	<key id="1227192907012412" feature="Kritias_2018_12" npc="pc" name="(나중에 다시 오겠다고 한다.)" />
+	<key id="1227192907012413" feature="Kritias_2018_12" npc="교관" name="게오르크는 자네를 기다리고 있다!&#x0A;원한다면 언제든 입대를 지원하도록!" />
+	<key id="1228182607012428" feature="Kritias_2018_12" npc="만슈타 경계병" name="근무 중 이상 무!" />
+	<key id="1228182607012429" feature="Kritias_2018_12" npc="만슈타 경계병" name="누구냐! &#x0A;정체를 밝혀라!" />
+	<key id="1228182607012430" feature="Kritias_2018_12" npc="만슈타 경계병" name="누구냐! &#x0A;정체를 밝혀라!" />
+	<key id="1228182607012431" feature="Kritias_2018_12" npc="pc" name="(적이 아니라고 말한다.)" />
+	<key id="1228182607012432" feature="Kritias_2018_12" npc="만슈타 경계병" name="아! 당신이 그 소문의 외지인이오?&#x0A;데이터와 일치하는군!" />
+	<key id="1228182607012433" feature="Kritias_2018_12" npc="만슈타 경계병" name="무례했다면 용서하시오.&#x0A;아무래도 전시다보니 외부인 유입에 민감한 상태라서 말이오." />
+	<key id="1228182607012434" feature="Kritias_2018_12" npc="만슈타 경계병" name="우린 반드시 승리할 것이다!" />
+	<key id="1228182607012435" feature="Kritias_2018_12" npc="만슈타 경계병" name="승리가 아니라면 강철 비석을 달라!" />
+	<key id="1228182607012436" feature="Kritias_2018_12" npc="만슈타 경계병" name="당신 얼굴은 알고 있습니다.&#x0A;하늘을 나는 거대한 배를 타고 왔다는 그 사람이죠?" />
+	<key id="1228182607012437" feature="Kritias_2018_12" npc="만슈타 경계병" name="당신 얼굴은 알고 있습니다.&#x0A;하늘을 나는 거대한 배를 타고 왔다는 그 사람이죠?" />
+	<key id="1228182607012438" feature="Kritias_2018_12" npc="pc" name="(맞다고 말한다.)" />
+	<key id="1228182607012439" feature="Kritias_2018_12" npc="만슈타 경계병" name="리치몬드 데이터베이스를 통해 당신의 활약을 열람했죠.&#x0A;당신의 활약으로 인해 우리가 큰 도움을 받고 있다고 들었습니다.&#x0A;정말 감사합니다!" />
+	<key id="1228182607012440" feature="Kritias_2018_12" npc="만슈타 경계병" name="근무 중 이상 없다." />
+	<key id="1228182607012441" feature="Kritias_2018_12" npc="만슈타 경계병" name="앵? 당신은 뉘슈?&#x0A;처음 보는 행색인데? 혹시 그 소문의 외지인인가?" />
+	<key id="1228182607012442" feature="Kritias_2018_12" npc="만슈타 경계병" name="앵? 당신은 뉘슈?&#x0A;처음 보는 행색인데? 혹시 그 소문의 외지인인가?" />
+	<key id="1228182607012443" feature="Kritias_2018_12" npc="만슈타 경계병" name="암튼 이곳은 언제 적들이 몰려들지 모르니&#x0A;항상 맘 단단히 먹고 계슈…" />
+	<key id="1228182607012444" feature="Kritias_2018_12" npc="만슈타 경계병" name="음냐… 쿨…" />
+	<key id="1228182607012445" feature="Kritias_2018_12" npc="만슈타 경계병" name="쿨… 쿨…" />
+	<key id="1228182607012446" feature="Kritias_2018_12" npc="만슈타 경계병" name="음냐… 음냐… 더는 못 먹어…" />
+	<key id="1228182607012447" feature="Kritias_2018_12" npc="만슈타 경계병" name="음냐… 음냐… 더는 못 먹어…" />
+	<key id="1228182607012448" feature="Kritias_2018_12" npc="pc" name="(인기척을 낸다.)" />
+	<key id="1228182607012449" feature="Kritias_2018_12" npc="만슈타 경계병" name="으아! 깜짝이야! 너 뭐야!&#x0A;오… 오해하지마! 나 안 자고 있었다고!" />
+	<key id="1228182607012450" feature="Kritias_2018_12" npc="만슈타 경계병" name="전투는 언제 끝나는 거지?" />
+	<key id="1228182607012451" feature="Kritias_2018_12" npc="만슈타 경계병" name="음? 당신이 소문의 그 외부인인가?&#x0A;이곳을 지원하러 온 것인가?" />
+	<key id="1228182607012452" feature="Kritias_2018_12" npc="만슈타 경계병" name="음? 당신이 소문의 그 외부인인가?&#x0A;이곳을 지원하러 온 것인가?" />
+	<key id="1228182607012453" feature="Kritias_2018_12" npc="pc" name="(지원병이 아니라고 말한다.)" />
+	<key id="1228182607012454" feature="Kritias_2018_12" npc="만슈타 경계병" name="칫… 그럼 그렇지…&#x0A;병력이 달려 언제 이 요새를 빼앗길지 모르겠어.&#x0A;지금은 몰랑들에게라도 경계를 맡기고 싶을 정도야." />
+	<key id="1228182607012455" feature="Kritias_2018_12" npc="만슈타 순찰병" name="적의 공격은 언제 끝나는 걸까…" />
+	<key id="1228182607012456" feature="Kritias_2018_12" npc="만슈타 순찰병" name="정말 지긋지긋하군." />
+	<key id="1228182607012457" feature="Kritias_2018_12" npc="만슈타 순찰병" name="누구야? 당신은? 처음 보는 얼굴인걸?&#x0A;괜히 이런 곳에서 얼쩡거리다가 비석 깔리기 딱 좋다고.&#x0A;뭐 $map:02020030$도 상황이 비슷하니 여기나 저기나 둘 다 지옥이려나?" />
+	<key id="1228182607012458" feature="Kritias_2018_12" npc="만슈타 순찰병" name="누구야? 당신은? 처음 보는 얼굴인걸?&#x0A;괜히 이런 곳에서 얼쩡거리다가 비석 깔리기 딱 좋다고.&#x0A;뭐 $map:02020030$도 상황이 비슷하니 여기나 저기나 둘 다 지옥이려나?" />
+	<key id="1228182607012459" feature="Kritias_2018_12" npc="만슈타 순찰병" name="다음 근무 교대자는 왜 안 오는 거지?" />
+	<key id="1228182607012460" feature="Kritias_2018_12" npc="만슈타 순찰병" name="빨리 쉬고 싶군…" />
+	<key id="1228182607012461" feature="Kritias_2018_12" npc="만슈타 순찰병" name="으으으… 피곤해…&#x0A;자면서 걷고 있는 느낌이야." />
+	<key id="1228182607012462" feature="Kritias_2018_12" npc="만슈타 순찰병" name="으으으… 피곤해…&#x0A;자면서 걷고 있는 느낌이야." />
+	<key id="1228182607012463" feature="Kritias_2018_12" npc="만슈타 순찰병" name="아! 깜짝이야! 당신 누구야?&#x0A;여긴 어떻게 들어 온 거지?" />
+	<key id="1228182607012464" feature="Kritias_2018_12" npc="만슈타 조종사" name="임무 대기 중." />
+	<key id="1228182607012465" feature="Kritias_2018_12" npc="만슈타 조종사" name="당신은 누구시오?&#x0A;그 소문의 외지인이오?" />
+	<key id="1228182607012466" feature="Kritias_2018_12" npc="만슈타 조종사" name="당신은 누구시오?&#x0A;그 소문의 외지인이오?" />
+	<key id="1228182607012467" feature="Kritias_2018_12" npc="만슈타 조종사" name="이 요새는 공군 병력과 수송 병력이 주둔하고 있는 요새라오.&#x0A;하지만 적들이 코앞까지 밀고 들어온 상황이라 보급로 확보가 어려워서&#x0A;우리 비행사들이 수송을 대신하고 있소." />
+	<key id="1228182607012468" feature="Kritias_2018_12" npc="만슈타 포병" name="일발필중!" />
+	<key id="1228182607012469" feature="Kritias_2018_12" npc="만슈타 포병" name="우리의 포탄을 피해갈 적들은 없다!" />
+	<key id="1228182607012470" feature="Kritias_2018_12" npc="만슈타 포병" name="우리의 포탄을 피해갈 적들은 없다!" />
+	<key id="1228182607012471" feature="Kritias_2018_12" npc="만슈타 보급병" name="큰일이야…" />
+	<key id="1228182607012472" feature="Kritias_2018_12" npc="만슈타 보급병" name="이걸 어쩌나...&#x0A;보급품이 점점 바닥나고 있어…" />
+	<key id="1228182607012473" feature="Kritias_2018_12" npc="만슈타 보급병" name="이걸 어쩌나...&#x0A;보급품이 점점 바닥나고 있어…" />
+	<key id="1228182607012474" feature="Kritias_2018_12" npc="만슈타 보급병" name="적들의 공격으로 인해 보급로 대부분이 끊긴 상황이야.&#x0A;공중수송으로 간신히 버티고 있지만 그마저도 이젠 부족해.&#x0A;이러다 정말 요새를 적에게 내줄 판이군." />
+	<key id="1228182607012475" feature="Kritias_2018_12" npc="만슈타 운전병" name="차량을 운행할 연료는 커녕 병기를 움직릴 연료도 부족한 상황이야.&#x0A;연료가 있어야 차량을 운행할 수 있는데…" />
+	<key id="1228182607012476" feature="Kritias_2018_12" npc="만슈타 운전병" name="차량을 운행할 연료는 커녕 병기를 움직릴 연료도 부족한 상황이야.&#x0A;연료가 있어야 차량을 운행할 수 있는데..." />
+	<key id="1228182607012477" feature="Kritias_2018_12" npc="만슈타 운전병" name="이봐, 너 에네르 좀 가진 거 있어?&#x0A;어디선가 에네르가 뚝 떨어지지 않으려나?" />
+	<key id="1231140707012478" feature="Kritias_2018_12" npc="칸타타" name="아무것도 없는데?" />
+	<key id="1231140707012479" feature="Kritias_2018_12" npc="칸타타" name="무슨 유령이 있다는 거지?" />
+	<key id="1231140707012480" feature="Kritias_2018_12" npc="칸타타" name="$MyPCName$님 오셨습니까?&#x0A;저는 이 근방에서 검은 유령이 목격된다는 소문을 듣고&#x0A;조사를 위해 파견되었습니다!" />
+	<key id="1231140707012481" feature="Kritias_2018_12" npc="칸타타" name="오셨습니까?&#x0A;저는 이 근방에서 검은 유령이 목격된다는 소문을 듣고&#x0A;조사를 위해 파견되었습니다!" />
+	<key id="1231140707012482" feature="Kritias_2018_12" npc="pc" name="(유…유령?)" />
+	<key id="1231140707012483" feature="Kritias_2018_12" npc="칸타타" name="넵! 목격자들에 의하면 이 근방에서 &#x0A;&apos;검은 유령의 형상&apos;을 자주 목격했다고 합니다!" />
+	<key id="1231140707012484" feature="Kritias_2018_12" npc="칸타타" name="목격자들에 의하면 검은 유령은 뭔가 계속 중얼거렸다고 합니다.&#x0A;영혼을 바치면 힘을 얻을 수 있는 것인가… 라거나 말이죠." />
+	<key id="1231140707012485" feature="Kritias_2018_12" npc="칸타타" name="하지만 목격자들이 검은 유령을 보자 마자 도망치기 바빠 &#x0A;다른 이야긴 보고된 적이 없… 아! 맞다…!" />
+	<key id="1231140707012486" feature="Kritias_2018_12" npc="pc" name="(뭔가 기억나는게 있냐고 묻는다.)" />
+	<key id="1231140707012487" feature="Kritias_2018_12" npc="칸타타" name="네! 목격자들의 공통적인 증언이 하나 더 있습니다.&#x0A;그 검은 유령은 무언가를 부르듯 &#x0A;&apos;앗살라무알라이쿰&apos;이란 말을 계속 중얼거렸다고 합니다." />
+	<key id="1231140707012488" feature="Kritias_2018_12" npc="pc" name="(아… 설마…)" />
+	<key id="1231140707012489" feature="Kritias_2018_12" npc="칸타타" name="뭔가 짚이시는 거라도 있으십니까?" />
+	<key id="1231140707012490" feature="Kritias_2018_12" npc="pc" name="(아니… 설마 그건 아닐 거야…)" />
+	<key id="1231140707012491" feature="Kritias_2018_12" npc="칸타타" name="혹시 뭔가 단서를 더 알아내면 말씀드리겠습니다.&#x0A;그럼 저는 이곳을 계속 조사해보겠습니다." />
+	<key id="0103163407012492" feature="Kritias_2018_12" npc="착해진 솔저레토" name="삐빅…삐빅…" />
+	<key id="0103163407012493" feature="Kritias_2018_12" npc="착해진 솔저레토" name="왔나. 인간.&#x0A;오늘도 일하기 좋은 날씨이다." />
+	<key id="0103163407012494" feature="Kritias_2018_12" npc="pc" name="(연구를 잘 하고 있냐고 묻는다.)" />
+	<key id="0103163407012495" feature="Kritias_2018_12" npc="착해진 솔저레토" name="물론이다.&#x0A;이곳에 있는 우리 솔저레토들은 언제나 최선을 다하고 있다.&#x0A;의심하지 마라." />
+	<key id="0103163407012496" feature="Kritias_2018_12" npc="착해진 솔저레토" name="우리에게 새로운 삶을 준 인간에게 감사하고 있다.&#x0A;걱정할 필요 없다.&#x0A;" />
+	<key id="0103163407012497" feature="Kritias_2018_12" npc="착해진 솔저레토" name="삑…삐빅.&#x0A;더 이상 연구 시간을 방해하지 마라. 인간.&#x0A;오늘 해야 할 일이 100개가 넘게 있다." />
+	<key id="0103163407012498" feature="Kritias_2018_12" npc="pc" name="(알겠다고 말한다.)" />
+	<key id="0103163407012499" feature="Kritias_2018_12" npc="착해진 솔저레토" name="에네르 공기저항 실험에 대한 기록 발견. 저장." />
+	<key id="0104140207012576" feature="Kritias_2018_12" npc="착해진 솔저레토" name="삐빅…삐빅…" />
+	<key id="0104140207012577" feature="Kritias_2018_12" npc="착해진 솔저레토" name="반겐하임에 대한 기록 발견. 저장을 시작한다." />
+	<key id="0107125907012630" feature="Kritias_2018_12" npc="착해진 솔저레토" name="솔저레토, 주어진 일을 진행한다." />
+	<key id="0107130907012635" feature="Kritias_2018_12" npc="착해진 솔저레토" name="인간, 주어진 일은 반드시 그날 다 해야 하는 건가?" />
+	<key id="0107130907012636" feature="Kritias_2018_12" npc="착해진 솔저레토" name="기계도 기름칠할 시간이 필요하다." />
+	<key id="0103163407012500" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="삐빅…삐빅…" />
+	<key id="0103163407012501" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="삐빅. 질문. 숫자 5가 싫어하는 집은." />
+	<key id="0103163407012502" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="오페라 하우스.&#x0A;참고로, 고장 난 것 아니다. 놀라지 마라." />
+	<key id="0107125907012631" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="미국에 비가 오면 USB." />
+	<key id="0107125907012632" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="모래가 우는 소리 흙흙." />
+	<key id="0107125907012633" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="칼이 정색하면 검정색." />
+	<key id="0110182807012671" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="소금의 유통기한은? 천일." />
+	<key id="0110182807012672" feature="Kritias_2018_12" npc="짓궂은 솔저레토" name="읽다 지치는 책은? 지침서." />
+	<key id="0103163407012503" feature="Kritias_2018_12" npc="온화한 솔저레토" name="삐빅…삐빅…" />
+	<key id="0103163407012504" feature="Kritias_2018_12" npc="온화한 솔저레토" name="인간... 배가 고파 보인다." />
+	<key id="0103163407012505" feature="Kritias_2018_12" npc="온화한 솔저레토" name="이곳에 있는 에네르. 연료를 충전해라." />
+	<key id="0110182807012673" feature="Kritias_2018_12" npc="온화한 솔저레토" name="인간... 여기선 조용해야 한다." />
+	<key id="0103163407012506" feature="Kritias_2018_12" npc="소심한 솔저레토" name="삐빅…삐빅…" />
+	<key id="0103163407012507" feature="Kritias_2018_12" npc="소심한 솔저레토" name="삑…삑…삑…" />
+	<key id="0103163407012508" feature="Kritias_2018_12" npc="소심한 솔저레토" name="삑…삑…삐빅…삐…" />
+	<key id="0107125907012634" feature="Kritias_2018_12" npc="소심한 솔저레토" name="삐삐…삐비빅…" />
+	<key id="0107130907012637" feature="Kritias_2018_12" npc="소심한 솔저레토" name="삐삐…삐삐삐삐….삐삐삑? 삐삐…" />
+	<key id="0103163407012509" feature="Kritias_2018_12" npc="얌전한 솔저레토" name="삐빅…삐빅…" />
+	<key id="0103163407012510" feature="Kritias_2018_12" npc="얌전한 솔저레토" name="…" />
+	<key id="0103163407012511" feature="Kritias_2018_12" npc="얌전한 솔저레토" name="………." />
+	<key id="0110182807012674" feature="Kritias_2018_12" npc="얌전한 솔저레토" name="…" />
+	<key id="0103163407012512" feature="Kritias_2018_12" npc="리쳐드" name="엇?!" />
+	<key id="0103163407012513" feature="Kritias_2018_12" npc="리쳐드" name="아…안녕하십니까." />
+	<key id="0103163407012514" feature="Kritias_2018_12" npc="pc" name="(연구는 잘 진행되고 있냐고 묻는다.)" />
+	<key id="0103163407012515" feature="Kritias_2018_12" npc="리쳐드" name="하…하핫! 물론이죠.&#x0A;보시다시피 밤낮을 새워가며 연구 중이랍니다." />
+	<key id="0103163407012516" feature="Kritias_2018_12" npc="리쳐드" name="지금까지의 결과물을 보시면,&#x0A;깜짝 놀라실 겁니다." />
+	<key id="0103163407012517" feature="Kritias_2018_12" npc="리쳐드" name="어서 돌아가셔서 $npcName:11004438[gender:0]$님께 잘 좀 말해주세요.&#x0A;저희 열심히 하고 있다고요. 예?" />
+	<key id="0103163407012518" feature="Kritias_2018_12" npc="pc" name="(증거를 달라고 말한다.)" />
+	<key id="0103163407012519" feature="Kritias_2018_12" npc="리쳐드" name="자료는 아직 준비가 안 됐습니다.&#x0A;다음에 오면 꼭 드리도록 하죠." />
+	<key id="0104140207012578" feature="Kritias_2018_12" npc="리쳐드" name="음음음~" />
+	<key id="0104140207012579" feature="Kritias_2018_12" npc="리쳐드" name="정말 평화로운 곳이죠?&#x0A;아름다운 크리티아스의 자연을 만끽하며 일하고 있습니다." />
+	<key id="0104140207012580" feature="Kritias_2018_12" npc="pc" name="(만끽만 하고 있는 것 같다고 말한다.)" />
+	<key id="0104140207012581" feature="Kritias_2018_12" npc="리쳐드" name="하하하.&#x0A;그렇게 보인다면 어쩔 수 없지만요.&#x0A;저흰 최선을 다해 일하고 있답니다." />
+	<key id="0103163407012520" feature="Kritias_2018_12" npc="아리엘" name="편하다, 편해!" />
+	<key id="0103163407012521" feature="Kritias_2018_12" npc="아리엘" name="역시 $npcName:11004527[gender:0]$씨와 일하는 게 최고라니까." />
+	<key id="0103163407012522" feature="Kritias_2018_12" npc="레이카" name="오셨군요?" />
+	<key id="0103163407012523" feature="Kritias_2018_12" npc="레이카" name="앗, 오셨군요.&#x0A;안녕하세요?" />
+	<key id="0103163407012524" feature="Kritias_2018_12" npc="pc" name="(상황을 살피러 왔다고 말한다.)" />
+	<key id="0103163407012525" feature="Kritias_2018_12" npc="레이카" name="$npcName:11004437[gender:0]$님께서 보내셨군요.&#x0A;여긴…보시다시피 항상 똑같죠. 뭐." />
+	<key id="0103163407012526" feature="Kritias_2018_12" npc="레이카" name="폭주한 기계 병사들에게 공격당하거나,&#x0A;저기 있는 자원채취소의 진동에 멀미를 하거나." />
+	<key id="0103163407012527" feature="Kritias_2018_12" npc="레이카" name="이래저래 피곤한 환경입니다." />
+	<key id="0103163407012528" feature="Kritias_2018_12" npc="레이카" name="…" />
+	<key id="0103163407012529" feature="Kritias_2018_12" npc="레이카" name="그러고 보니 오신 김에!&#x0A;이곳의 기계 병사들이 말썽이라고 좀 전해주시겠어요?" />
+	<key id="0103163407012530" feature="Kritias_2018_12" npc="pc" name="(알겠다고 말한다.)" />
+	<key id="0103163407012531" feature="Kritias_2018_12" npc="레이카" name="항상 감사합니다!&#x0A;$MyPCName$님." />
+	<key id="0104140207012582" feature="Kritias_2018_12" npc="레이카" name="시끄러워라…" />
+	<key id="0104140207012583" feature="Kritias_2018_12" npc="레이카" name="이곳 란멜은, 휘날리는 흙먼지로 인해&#x0A;꼭 마스크를 착용하셔야 해요." />
+	<key id="0104140207012584" feature="Kritias_2018_12" npc="레이카" name="$map:02020031$에 파견을 나온 이후로 기침이 잦아졌는데…&#x0A;기분 탓일까요?" />
+	<key id="0103163407012532" feature="Kritias_2018_12" npc="조사 대원" name="아야…" />
+	<key id="0103163407012533" feature="Kritias_2018_12" npc="조사 대원" name="어제 공격당한 곳이 쓰라려." />
+	<key id="0103163407012534" feature="Kritias_2018_12" npc="조사 대원" name="우욱…" />
+	<key id="0103163407012535" feature="Kritias_2018_12" npc="조사 대원" name="진동 때문에 토할 것 같아." />
+	<key id="0104170807012602" feature="Kritias_2018_12" npc="전초기지 순찰병" name="언제 이 공격이 멈추려나…" />
+	<key id="0104170807012603" feature="Kritias_2018_12" npc="전초기지 순찰병" name="으… 지겨운 전투.&#x0A;녀석들의 병력은 끝이 없나?&#x0A;엇! 어서오십시오!" />
+	<key id="0104170807012604" feature="Kritias_2018_12" npc="전초기지 순찰병" name="으… 지겨운 전투.&#x0A;녀석들의 병력은 끝이 없나?&#x0A;엇! 어서오십시오!" />
+	<key id="0104170807012605" feature="Kritias_2018_12" npc="전초기지 순찰병" name="이곳은 바베니를 통과하기 위한 주요 육료입니다.&#x0A;그래선지 적들의 침략이 끝나질 않습니다." />
+	<key id="0104170807012606" feature="Kritias_2018_12" npc="전초기지 순찰병" name="아… 집으로 가고 싶어…" />
+	<key id="0104170807012607" feature="Kritias_2018_12" npc="전초기지 순찰병" name="어서 오십시오!&#x0A;저는 적들의 동태를 살피고 있습니다." />
+	<key id="0104170807012608" feature="Kritias_2018_12" npc="전초기지 순찰병" name="어서 오십시오!&#x0A;저는 적들의 동태를 살피고 있습니다." />
+	<key id="0104170807012609" feature="Kritias_2018_12" npc="전초기지 순찰병" name="아직 적들의 공격 징후는 보이지 않지만 언제 쳐들어 올지 모릅니다.&#x0A;그렇기 때문에 순찰을 계속하고 있습니다!" />
+	<key id="0104170807012610" feature="Kritias_2018_12" npc="전초기지 방어병" name="근무 중! 이상 무!" />
+	<key id="0104170807012611" feature="Kritias_2018_12" npc="전초기지 방어병" name="오셨습니까?&#x0A;바베니 방어에 최선을 다하고 있습니다!" />
+	<key id="0104170807012612" feature="Kritias_2018_12" npc="전초기지 방어병" name="오셨습니까?&#x0A;바베니 방어에 최선을 다하고 있습니다!" />
+	<key id="0104170807012613" feature="Kritias_2018_12" npc="전초기지 방어병" name="언제든 오라고 하십쇼!&#x0A;제가 선봉에서 녀석들을 박살낼 겁니다!" />
+	<key id="0104170807012614" feature="Kritias_2018_12" npc="전초기지 방어병" name="어…! 어디 가십니까?&#x0A;옆에서 기지 방어라도 좀 도우시면…&#x0A;딱히 무서워서 그런건 아닙니다!" />
+	<key id="0104170807012615" feature="Kritias_2018_12" npc="전초기지 방어병" name="후아~ 졸려~" />
+	<key id="0104170807012616" feature="Kritias_2018_12" npc="전초기지 방어병" name="음냐 음냐…" />
+	<key id="0104170807012617" feature="Kritias_2018_12" npc="전초기지 방어병" name="음냐 음냐…" />
+	<key id="0104170807012618" feature="Kritias_2018_12" npc="전초기지 방어병" name="읭? 누구십니까?&#x0A;기지 방어? 아… 말도 마십쇼." />
+	<key id="0104170807012619" feature="Kritias_2018_12" npc="전초기지 방어병" name="군생활 말년에 꼬여도 단단히 꼬인겁니다.&#x0A;이런 오지에서 최전방 방어를 맡게 되다니…&#x0A;제 동기 군번들은 하나 같이 제대로 풀린 녀석들이 없습니다. " />
+	<key id="0104170807012620" feature="Kritias_2018_12" npc="전초기지 방어병" name="엇? 뭐야! 적인가?" />
+	<key id="0104170807012621" feature="Kritias_2018_12" npc="전초기지 방어병" name="앗! 깜짝이야!&#x0A;당신 누구야!" />
+	<key id="0104170807012622" feature="Kritias_2018_12" npc="전초기지 방어병" name="앗! 깜짝이야!&#x0A;당신 누구야!" />
+	<key id="0104170807012623" feature="Kritias_2018_12" npc="전초기지 방어병" name="휴… 아군이군.&#x0A;이런 최전방에서 사람 갑자기 놀라게 만들다&#x0A;강철 비석 깔려도 할 말 없는 거라고!" />
+	<key id="0104170807012624" feature="Kritias_2018_12" npc="전초기지 방어병" name="너도 그렇게 태평하게 있지 말고 &#x0A;기지 방어에 보탬이 되보는 것은 어때?" />
+	<key id="0110183907012675" feature="Kritias_2018_12" npc="누엘" name="후… 마감이 얼마 남지 않았는데…" />
+	<key id="0110183907012676" feature="Kritias_2018_12" npc="누엘" name="후… 마감이 얼마 남지 않았는데…" />
+	<key id="0110183907012677" feature="Kritias_2018_12" npc="누엘" name="아, 솔저레토를 보러왔나? 빨리 확인하고 나가주게.&#x0A;집중이 안 되어서 말이지." />
+	<key id="0110183907012678" feature="Kritias_2018_12" npc="케이안" name="아아… 너무 행복하군." />
+	<key id="0110183907012679" feature="Kritias_2018_12" npc="케이안" name="아아… 너무 행복하군." />
+	<key id="0110183907012680" feature="Kritias_2018_12" npc="케이안" name="이렇게 신기한 대륙이 있다니… 난 복 받은 게 틀림없어.&#x0A;연구할 게 넘친다고!" />
+	<key id="0110183907012681" feature="Kritias_2018_12" npc="브록" name="…" />
+	<key id="0110183907012682" feature="Kritias_2018_12" npc="브록" name="…" />
+	<key id="0110183907012683" feature="Kritias_2018_12" npc="브록" name="무슨 일이지? 예민하니까 말 걸지 마." />
+	<key id="0108105807012638" feature="Kritias_2018_12" npc="안내원 솔저레토" name="여긴 우리의 연구소다. 무슨 일이냐.&#x0A;너도 로봇을 연구하는 사람이냐?" />
+	<key id="0108105807012639" feature="Kritias_2018_12" npc="안내원 솔저레토" name="여긴 우리의 연구소다. 무슨 일이냐.&#x0A;너도 로봇을 연구하는 사람이냐?" />
+	<key id="0108105807012640" feature="Kritias_2018_12" npc="안내원 솔저레토" name="별일 없으면 여기 오지 마라.&#x0A;여기 오는 인간들, 모두 일만 주고 간다." />
+	<key id="0108105807012641" feature="Kritias_2018_12" npc="안내원 솔저레토" name="안내원 솔저레토. 오늘도 힘낸다." />
+	<key id="0108105807012642" feature="Kritias_2018_12" npc="안내원 솔저레토" name="솔저레토의 인생, 고달프다." />
+	<key id="0109181107012670" feature="Kritias_Epic01" npc="마를레네" name="모두를 지켜야 해" />
+	<key id="0108212907012643" feature="Kritias_Epic01" npc="마를레네" name="당신은?" />
+	<key id="0108212907012644" feature="Kritias_Epic01" npc="마를레네" name="여기엔 무슨 일이시죠?" />
+	<key id="0108212907012645" feature="Kritias_2018_12" npc="마를레네" name='어서 와요, $MyPCName$. 오랜만이에요!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004312[gender:0]$&lt;/font&gt;함장이 보낸다는 지원군이 당신이었군요.' />
+	<key id="0108212907012646" feature="Kritias_2018_12" npc="마를레네" name="잘 지내고 있나 궁금했어요." />
+	<key id="0108212907012647" feature="Kritias_2018_12" npc="pc" name="(가끔 임무가 힘들기는 하지만 잘 지낸다고 말한다.)" />
+	<key id="0108212907012648" feature="Kritias_2018_12" npc="마를레네" name="어쩌죠? 힘든 부탁을 해야 하는데. &#x0A;당신이 지금껏 해왔던 임무보다 더 어려울지도 몰라요." />
+	<key id="0108212907012649" feature="Kritias_2018_12" npc="pc" name="(무슨 일이냐고 물어본다.)" />
+	<key id="0108212907012650" feature="Kritias_2018_12" npc="마를레네" name="게오르크와 타이렌 왕국은 이 근처의 자원을 두고 경쟁하고 있어요.&#x0A;항상 서로를 아슬아슬하게 견제하고 있었는데 최근, 타이렌 왕국에서 저희를 압박하기 위해 근방에 많은 전력을 파견했지 뭐에요?" />
+	<key id="0108212907012651" feature="Kritias_2018_12" npc="pc" name="(부상자가 많냐고 물어본다.)" />
+	<key id="0108212907012652" feature="Kritias_2018_12" npc="마를레네" name='다행히 부상자는 적지만, 그들에게 많은 자원을 빼앗겨 버렸어요.&#x0A;이번엔 우리 차례입니다. &#x0A;우리를 도와 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020004$&lt;/font&gt;$pp:를,을$ 확보해주겠어요?' />
+	<key id="0109134107012661" feature="Kritias_2018_12" npc="에비앙" name="으… 긴장돼…" />
+	<key id="0109134107012662" feature="Kritias_2018_12" npc="에비앙" name="미지의 세계에 첫발을 들이는 순간이군요.&#x0A;지금의 저 만큼이나 긴장하고 계시겠죠?" />
+	<key id="0109134107012663" feature="Kritias_2018_12" npc="에비앙" name="미지의 세계에 첫발을 들이는 순간이군요.&#x0A;지금의 저 만큼이나 긴장하고 계시겠죠?" />
+	<key id="0111140307012685" feature="Kritias_2018_12" npc="잠자는 라플레시아" name='&lt;font color=&quot;#909090&quot;&gt;(강한 독성을 가진 라플레시아. 지금은 깊은 잠에 빠진 듯하다. 깨우지 않도록 조심하자.)&lt;/font&gt;' />
+	<key id="0111140307012686" feature="Kritias_2018_12" npc="잠자는 라플레시아" name='&lt;font color=&quot;#909090&quot;&gt;(강한 독성을 가진 라플레시아. 지금은 깊은 잠에 빠진 듯하다. 깨우지 않도록 조심하자.)&lt;/font&gt;' />
+	<key id="0109163907012664" feature="Kritias_2018_12" npc="집무실 보초병" name="근무교대 시간이 다 된 거 같은데…" />
+	<key id="0109163907012665" feature="Kritias_2018_12" npc="집무실 보초병" name="이 곳은 $npcName:11004401[gender:1]$님의 집무실입니다.&#x0A;무슨 볼일이 있으신진 모르겠지만 $npcName:11004401[gender:1]$님 앞에선 겸손해지셔야 할 겁니다." />
+	<key id="0109163907012666" feature="Kritias_2018_12" npc="집무실 보초병" name="이 곳은 $npcName:11004401[gender:1]$님의 집무실입니다.&#x0A;무슨 볼일이 있으신진 모르겠지만 $npcName:11004401[gender:1]$님 앞에선 겸손해지셔야 할 겁니다." />
+	<key id="0109163907012667" feature="Kritias_2018_12" npc="집무실 보초병" name="아~ 졸려… 교대 근무자는 아직인가?" />
+	<key id="0109163907012668" feature="Kritias_2018_12" npc="집무실 보초병" name="여긴 $npcName:11004401[gender:1]$님의 집무실이다.&#x0A;외부인같은데… $npcName:11004401[gender:1]$님께 볼일이라도 있나?" />
+	<key id="0109163907012669" feature="Kritias_2018_12" npc="집무실 보초병" name="여긴 $npcName:11004401[gender:1]$님의 집무실이다.&#x0A;외부인같은데… $npcName:11004401[gender:1]$님께 볼일이라도 있나?" />
+	<key id="0116132907012728" feature="" npc="쇼콜라" name='$MyPCName$ 님! &lt;font color=&quot;#ffd200&quot;&gt;발렌타인 초콜릿 상자&lt;/font&gt;와 &lt;font color=&quot;#ffd200&quot;&gt;하트 데코 스프링클&lt;/font&gt;이 필요하신가요?&#x0A;저에게 오시면 얼마든지 다시 지급해 드리고 있어요.&#x0A;달콤한 초콜릿을 매일매일 만들다 보면 &lt;font color=&quot;#ffd200&quot;&gt;특별한 선물&lt;/font&gt;을 받는 날이 올 거예요.' />
+	<key id="0104184607012625" feature="" npc="쇼콜라" name='$MyPCName$ 님! &lt;font color=&quot;#ffd200&quot;&gt;발렌타인 초콜릿 상자&lt;/font&gt;와 &lt;font color=&quot;#ffd200&quot;&gt;하트 데코 스프링클&lt;/font&gt;이 필요하신가요?&#x0A;저에게 오시면 얼마든지 다시 지급해 드리고 있어요.&#x0A;달콤한 초콜릿을 매일매일 만들다 보면 &lt;font color=&quot;#ffd200&quot;&gt;특별한 선물&lt;/font&gt;을 받는 날이 올 거예요.' />
+	<key id="0104184607012626" feature="" npc="pc" name="$item:30001287$와 $item:30001288$을 달라고 한다." />
+	<key id="0104184607012627" feature="" npc="쇼콜라" name="자, 여기 있어요~!&#x0A;어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?" />
+	<key id="0104184607012628" feature="" npc="쇼콜라" name="앗! 가방이 가득 찼어요.&#x0A;가방을 비운 뒤 다시 받아 가셔요." />
+	<key id="0104184607012629" feature="" npc="쇼콜라" name='달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?&#x0A;아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.&#x0A;재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!&#x0A;단, &lt;font color=&quot;#ffd200&quot;&gt;달콤 쌉싸름한 초콜릿&lt;/font&gt;은 하루에 3개만 획득할 수 있답니다.' />
+	<key id="0219180707009851" feature="" npc="쇼콜라" name='$MyPCName$ 님! &lt;font color=&quot;#ffd200&quot;&gt;발렌타인 초콜릿 상자&lt;/font&gt;와 &lt;font color=&quot;#ffd200&quot;&gt;하트 데코 스프링클&lt;/font&gt;이 필요하신가요?&#x0A;저에게 오시면 얼마든지 다시 지급해 드리고 있어요.&#x0A;달콤한 초콜릿을 매일매일 만들다 보면 &lt;font color=&quot;#ffd200&quot;&gt;특별한 선물&lt;/font&gt;을 받는 날이 올 거예요.' />
+	<key id="0219180707009852" feature="" npc="pc" name="$item:20302358$와 $item:20302359$를 달라고 한다." />
+	<key id="0219180707009853" feature="" npc="쇼콜라" name="자, 여기 있어요~!&#x0A;어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?" />
+	<key id="0219180707009854" feature="" npc="쇼콜라" name="앗! 가방이 가득 찼어요.&#x0A;가방을 비운 뒤 다시 받아 가셔요." />
+	<key id="0219180707009855" feature="" npc="쇼콜라" name='달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?&#x0A;아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.&#x0A;재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!&#x0A;단, &lt;font color=&quot;#ffd200&quot;&gt;달콤 쌉싸름한 초콜릿&lt;/font&gt;은 하루에 3개만 획득할 수 있답니다.' />
+	<key id="0116132907012729" feature="" npc="쇼콜라" name='$MyPCName$ 님! &lt;font color=&quot;#ffd200&quot;&gt;발렌타인 초콜릿 상자&lt;/font&gt;와 &lt;font color=&quot;#ffd200&quot;&gt;하트 데코 스프링클&lt;/font&gt;이 필요하신가요?&#x0A;저에게 오시면 얼마든지 다시 지급해 드리고 있어요.&#x0A;달콤한 초콜릿을 매일매일 만들다 보면 &lt;font color=&quot;#ffd200&quot;&gt;특별한 선물&lt;/font&gt;을 받는 날이 올 거예요.' />
+	<key id="0116132907012730" feature="" npc="pc" name="$item:30001287$와 $item:30001288$을 달라고 한다." />
+	<key id="0116132907012731" feature="" npc="쇼콜라" name="자, 여기 있어요~!&#x0A;어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?" />
+	<key id="0116132907012732" feature="" npc="쇼콜라" name="앗! 가방이 가득 찼어요.&#x0A;가방을 비운 뒤 다시 받아 가셔요." />
+	<key id="0116132907012733" feature="" npc="쇼콜라" name='달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?&#x0A;아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.&#x0A;재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!&#x0A;단, &lt;font color=&quot;#ffd200&quot;&gt;달콤 쌉싸름한 초콜릿&lt;/font&gt;은 하루에 3개만 획득할 수 있답니다.' />
 </ms2>

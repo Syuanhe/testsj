@@ -15,7 +15,7 @@
 		<aiInfo path="" />
 		<collision shape="" width="0" height="0" depth="0" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
-		<capsule radius="20" height="150" ignore="0" />
+		<capsule radius="20" height="150" ignore="1" />
 		<validBattleCylinder radius="0" height="0" />
 		<dead time="0" defaultaction="" upaction="" revival="0" count="0" lifeTime="0" slowLastHit="0" extendRoomTime="0" />
 		<push back="0" up="0" knockback="0" />

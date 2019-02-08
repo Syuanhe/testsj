@@ -12,7 +12,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.03" maprate="0.03" />
+			<Stat paprate="0.03" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -40,7 +40,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.06" maprate="0.06" />
+			<Stat paprate="0.06" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -68,7 +68,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.09" maprate="0.09" />
+			<Stat paprate="0.09" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -96,7 +96,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.12" maprate="0.12" />
+			<Stat paprate="0.12" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -124,7 +124,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.15" maprate="0.15" />
+			<Stat paprate="0.15" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -152,7 +152,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.18" maprate="0.18" />
+			<Stat paprate="0.18" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -180,7 +180,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.21" maprate="0.21" />
+			<Stat paprate="0.21" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -208,7 +208,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.24" maprate="0.24" />
+			<Stat paprate="0.24" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -236,7 +236,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.27" maprate="0.27" />
+			<Stat paprate="0.27" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -264,7 +264,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.3" maprate="0.3" />
+			<Stat paprate="0.3" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -292,7 +292,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.33" maprate="0.33" />
+			<Stat paprate="0.33" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>
@@ -320,7 +320,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat paprate="0.36" maprate="0.36" />
+			<Stat paprate="0.36" />
 			<SpecialAbility />
 		</StatusProperty>
 		<FinalStatusProperty>

@@ -5,7 +5,7 @@
 		<quest>
 			<basic chapterID="5024" questID="60110230" questType="1" account="0" standardLevel="1" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="2" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
-			<require level="1" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="5024" groupDependency="character" dayOfWeek="1,2,3,4,5,6,7" gearScore="0" />
+			<require level="1" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="5024" dayOfWeek="1,2,3,4,5,6,7" gearScore="0" />
 			<start npc="11004283" />
 			<complete npc="11004283" />
 			<acceptReward />

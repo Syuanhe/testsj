@@ -3,7 +3,7 @@
 
 	<effect type="nif" filePath="NPC/Skill/ChampSkill/Eff_ChampSkill_Shield_Keep_a.nif" startDelay="0.0" loop="true">
 		<attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Eff_Foot_World" />
-		<transform translate="0.0, 0.0, 200.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+		<transform translate="30.0, 0.0, 280.0" rotation="0.0, 0.0, 0.0" scale="1.7" />
 		<update translate="true" rotation="false" scale="true" />
 	</effect>  
 	

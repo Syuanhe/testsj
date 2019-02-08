@@ -54,12 +54,12 @@
 	<exp expType="rareChest" expTableID="3" factor="0.5" locale="NA" />
 	<exp expType="normalChest" expTableID="3" factor="0.5" locale="NA" />
 	<exp expType="expDrop" expTableID="3" factor="0.4" locale="NA" />
-	<exp expType="musicMastery1" expTableID="3" factor="0.0116666666666667" locale="NA" />
-	<exp expType="musicMastery2" expTableID="3" factor="0.0116666666666667" locale="NA" />
-	<exp expType="musicMastery3" expTableID="3" factor="0.0116666666666667" locale="NA" />
-	<exp expType="musicMastery4" expTableID="3" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery1" expTableID="9" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery2" expTableID="9" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery3" expTableID="9" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery4" expTableID="9" factor="0.0116666666666667" locale="NA" />
 	<exp expType="arcade" expTableID="3" factor="0.5" locale="NA" />
-	<exp expType="fishing" expTableID="3" factor="0.0333333333333333" locale="NA" />
+	<exp expType="fishing" expTableID="10" factor="0.0333333333333333" locale="NA" />
 	<exp expType="rest" expTableID="3" factor="0.021" locale="NA" />
 	<exp expType="bloodMineRank1" expTableID="4" factor="1" locale="NA" />
 	<exp expType="bloodMineRank2" expTableID="4" factor="0.8" locale="NA" />
@@ -71,8 +71,8 @@
 	<exp expType="btiTeamLose" expTableID="4" factor="0.2" locale="NA" />
 	<exp expType="rankDuelWin" expTableID="3" factor="1.5" locale="NA" />
 	<exp expType="rankDuelLose" expTableID="3" factor="0.5" locale="NA" />
-	<exp expType="gathering" expTableID="3" factor="0.025" feature="Mastery" locale="NA" />
-	<exp expType="manufacturing" expTableID="3" factor="0.0166666666666667" feature="Mastery" locale="NA" />
+	<exp expType="gathering" expTableID="9" factor="0.025" feature="Mastery" locale="NA" />
+	<exp expType="manufacturing" expTableID="9" factor="0.0166666666666667" feature="Mastery" locale="NA" />
 	<exp expType="miniGame" expTableID="4" factor="1" locale="NA" />
 	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="NA" />
 	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="NA" />

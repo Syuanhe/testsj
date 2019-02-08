@@ -138,4 +138,10 @@
 	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_FallFoliage_Loop_B.xml">
 		<Info emotionSkillID="90200120" gender="1" />
 	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Magician/Eff_Magician_Idle_Male.xml">
+		<Info gender="0" setID="18112001" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Magician/Eff_Magician_Idle_Female.xml">
+		<Info gender="1" setID="18112002" />
+	</StateEffect>
 </ms2>

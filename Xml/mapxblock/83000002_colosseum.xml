@@ -8,6 +8,7 @@
 		<camera position="6997.605957, -609.934692, 8262.606445" rotation="90.000000, 180.000000, -45.000000" />
 		<edit zoomfactor="3.88" />
 	</minimap>
-	<heightfog color="210,60,30" upper="1200" lower="-98" percentage="100" />
+	<fog color="200,105,180" near="1000" far="16000" />
+	<heightfog color="180,45,30" upper="1200" lower="300" percentage="100" />
 	<clientProperty bgDay="BG_massive_B.dds" />
 </ms2>

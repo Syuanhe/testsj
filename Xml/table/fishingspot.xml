@@ -321,4 +321,21 @@
 	<spot id="63000072" minMastery="0" maxMastery="239" liquidType="water" />
 	<spot id="81000002" minMastery="80" maxMastery="159" liquidType="seawater" />
 	<spot id="81000003" minMastery="80" maxMastery="159" liquidType="water" />
+	<spot id="02020029" minMastery="1190" maxMastery="1389" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020030" minMastery="1390" maxMastery="1619" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020016" minMastery="2400" maxMastery="2689" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020004" minMastery="2130" maxMastery="2399" liquidType="emeraldwater" feature="Kritias_2018_12" />
+	<spot id="02020006" minMastery="1870" maxMastery="2129" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020001" minMastery="1870" maxMastery="2129" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020010" minMastery="2130" maxMastery="2399" liquidType="emeraldwater" feature="Kritias_2018_12" />
+	<spot id="02020009" minMastery="2990" maxMastery="3309" liquidType="emeraldwater" feature="Kritias_2018_12" />
+	<spot id="02020051" minMastery="2990" maxMastery="3309" liquidType="poison" feature="Kritias_2018_12" />
+	<spot id="02020017" minMastery="2400" maxMastery="2689" liquidType="water,emeraldwater" feature="Kritias_2018_12" />
+	<spot id="02020018" minMastery="2990" maxMastery="3309" liquidType="emeraldwater" feature="Kritias_2018_12" />
+	<spot id="02020003" minMastery="2690" maxMastery="2989" liquidType="water,poison" feature="Kritias_2018_12" />
+	<spot id="02020008" minMastery="2400" maxMastery="2689" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020036" minMastery="2990" maxMastery="3309" liquidType="devilwater" feature="Kritias_2018_12" />
+	<spot id="02020035" minMastery="2690" maxMastery="2989" liquidType="lava,devilwater" feature="Kritias_2018_12" />
+	<spot id="02020037" minMastery="2690" maxMastery="2989" liquidType="water" feature="Kritias_2018_12" />
+	<spot id="02020041" minMastery="1620" maxMastery="1869" liquidType="water" feature="Kritias_2018_12" />
 </ms2>

@@ -13322,4 +13322,518 @@
 			<content leftIllust="Beatrice_normal" speakerIllust="Beatrice_normal" speakerNpc="11004059" text="$script:0802180211012889$" />
 		</script>
 	</quest>
+	<quest id="50100820">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1120154911013072$" />
+			<content myTalk="1" leftIllust="Ereb_normal" text="$script:1206160611013326$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1206160611013327$" />
+			<content myTalk="1" leftIllust="Ereb_normal" text="$script:1206160611013328$" />
+			<content myTalk="1" leftIllust="Ereb_normal" text="$script:1121171511013075$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154911013073$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1120154911013074$" />
+			<content redirect="1" leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1204172811013311$" />
+		</script>
+	</quest>
+	<quest id="50100830">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Ereb_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1120154411013003$" />
+			<content leftIllust="Ereb_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1121171511013076$" />
+			<content leftIllust="Ereb_normal" rightIllust="Neirin_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013077$" />
+			<content leftIllust="Ereb_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1121171511013078$" />
+			<content leftIllust="Ereb_normal" rightIllust="Bliche_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013079$" />
+			<content leftIllust="Ereb_normal" rightIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" imagePlate="Data\Resource\Image\QuestImagePlate\Kritias_blackshad.dds" text="$script:1121171511013080$" />
+			<content leftIllust="Ereb_normal" rightIllust="Mason_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013081$" />
+			<content leftIllust="Ereb_normal" rightIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1121171511013082$" />
+			<content leftIllust="Ereb_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1121171511013083$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013084$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013085$" />
+			<content myTalk="1" leftIllust="Ereb_normal" text="$script:1121171511013086$" />
+			<content leftIllust="Ereb_normal" rightIllust="Bliche_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171511013087$" />
+			<content leftIllust="Ereb_normal" rightIllust="Mason_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121183411013093$" />
+			<content leftIllust="Ereb_normal" rightIllust="Neirin_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121183411013094$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121183411013095$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11004390" text="$script:1121171911013090$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1120154411013005$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1122150811013097$" />
+			<content leftIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1122150811013098$" />
+			<content leftIllust="Mason_normal" rightIllust="Schatten_surprise" speakerIllust="Schatten_surprise" speakerNpc="11003535" text="$script:1122150811013099$" />
+			<content leftIllust="Mason_smile" speakerIllust="Mason_smile" speakerNpc="11003537" text="$script:1122150811013100$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1122150811013101$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1205155811013321$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1130150011013309$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1122150811013102$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1204172811013312$" />
+		</script>
+	</quest>
+	<quest id="50100840">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" leftIllust="Neirin_normal" text="$script:1122173211013103$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013007$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" text="$script:1120154411013008$" />
+		</script>
+	</quest>
+	<quest id="50100850">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013009$" />
+			<content myTalk="1" text="$script:1122173211013104$" />
+			<content text="$script:1122173211013105$" />
+			<content myTalk="1" text="$script:1122173211013106$" />
+			<content text="$script:1122173211013107$" />
+			<content myTalk="1" text="$script:1122173211013108$" />
+			<content text="$script:1122173211013109$" />
+			<content text="$script:1122173211013110$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013010$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" text="$script:1120154411013011$" />
+		</script>
+	</quest>
+	<quest id="50100860">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content text="$script:1122190011013118$" />
+			<content myTalk="1" text="$script:1120154411013012$" />
+			<content text="$script:1122173211013111$" />
+			<content text="$script:1122173211013112$" />
+			<content text="$script:1122173211013113$" />
+			<content myTalk="1" text="$script:1122173211013114$" />
+			<content text="$script:1122173211013115$" />
+			<content text="$script:1205162111013322$" />
+			<content myTalk="1" text="$script:1122173211013116$" />
+			<content text="$script:1122173211013117$" />
+			<content myTalk="1" text="$script:1205163011013323$" />
+			<content text="$script:1205163011013324$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013013$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004418" text="$script:1120154411013014$" />
+		</script>
+	</quest>
+	<quest id="50100870">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" text="$script:1120154411013015$" />
+			<content speakerNpc="11004418" text="$script:1122191311013119$" />
+			<content myTalk="1" text="$script:1122191311013120$" />
+			<content speakerNpc="11004418" text="$script:1122191311013121$" />
+			<content myTalk="1" text="$script:1122191311013122$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004418" text="$script:1120154411013016$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004418" text="$script:1120154411013017$" />
+			<content myTalk="1" text="$script:1122193211013127$" />
+			<content leftIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1122191311013123$" />
+			<content myTalk="1" leftIllust="Mason_normal" text="$script:1129162011013273$" />
+			<content leftIllust="Mason_normal" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11003536" text="$script:1122191311013124$" />
+			<content leftIllust="Mason_normal" rightIllust="Neirin_surprise" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1122191311013125$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1122191311013126$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1204172811013313$" />
+		</script>
+	</quest>
+	<quest id="50100880">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" text="$script:1120154411013018$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" text="$script:1120154411013019$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013020$" />
+			<content myTalk="1" text="$script:1123150711013128$" />
+			<content redirect="1" speakerNpc="11004393" text="$script:1123150711013129$" />
+		</script>
+	</quest>
+	<quest id="50100890">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013021$" />
+			<content myTalk="1" text="$script:1123150711013130$" />
+			<content speakerNpc="11004393" text="$script:1123150711013131$" />
+			<content myTalk="1" text="$script:1123150711013132$" />
+			<content speakerNpc="11004393" text="$script:1123150711013133$" />
+			<content myTalk="1" text="$script:1123150711013134$" />
+			<content speakerNpc="11004393" text="$script:1123150711013135$" />
+			<content redirect="1" speakerNpc="11004393" text="$script:1123150711013136$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013022$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013023$" />
+			<content myTalk="1" text="$script:1123150711013137$" />
+			<content speakerNpc="11004393" text="$script:1123150711013138$" />
+			<content speakerNpc="11004393" text="$script:1204172811013314$" functionID="1" />
+		</script>
+	</quest>
+	<quest id="50100900">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013024$" />
+			<content speakerNpc="11004393" text="$script:1123170111013139$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1123170111013140$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1123170111013141$" />
+			<content leftIllust="Bliche_closeEye" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11003536" text="$script:1123170111013142$" />
+			<content leftIllust="Conder_smile" rightIllust="Neirin_surprise" speakerIllust="Conder_smile" speakerNpc="11004435" text="$script:1123170111013143$" />
+			<content leftIllust="Conder_smile" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11003536" text="$script:1123170111013144$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1123170111013145$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1123170111013146$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013025$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004393" text="$script:1120154411013026$" />
+		</script>
+	</quest>
+	<quest id="50100910">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013027$" />
+			<content myTalk="1" text="$script:1123170111013147$" />
+			<content speakerNpc="11004393" text="$script:1123170111013148$" />
+			<content myTalk="1" text="$script:1123170111013149$" />
+			<content speakerNpc="11004393" text="$script:1123170111013150$" />
+			<content myTalk="1" text="$script:1123170111013151$" />
+			<content speakerNpc="11004393" text="$script:1123170111013152$" />
+			<content myTalk="1" text="$script:1123170111013153$" />
+			<content speakerNpc="11004393" text="$script:1123170111013154$" />
+			<content myTalk="1" text="$script:1123170111013155$" />
+			<content speakerNpc="11004393" text="$script:1123170111013156$" />
+			<content speakerNpc="11004393" text="$script:1123170111013157$" />
+			<content speakerNpc="11004393" text="$script:1123170111013158$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004393" text="$script:1120154411013028$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004394" text="$script:1120154411013029$" />
+			<content redirect="1" speakerNpc="11004394" text="$script:1204172811013315$" />
+		</script>
+	</quest>
+	<quest id="50100920">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004394" text="$script:1120154411013030$" />
+			<content myTalk="1" text="$script:1123180411013159$" />
+			<content speakerNpc="11004394" text="$script:1123180411013160$" />
+			<content speakerNpc="11004394" text="$script:1123180411013161$" />
+			<content myTalk="1" text="$script:1123180411013162$" />
+			<content speakerNpc="11004394" text="$script:1123180411013163$" />
+			<content myTalk="1" text="$script:1123180411013164$" />
+			<content speakerNpc="11004394" text="$script:1123180411013165$" />
+			<content myTalk="1" text="$script:1123180411013166$" />
+			<content speakerNpc="11004394" text="$script:1123180411013167$" />
+			<content speakerNpc="11004394" text="$script:1123180411013168$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004394" text="$script:1120154411013031$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1120154411013032$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1204172811013316$" />
+		</script>
+	</quest>
+	<quest id="50100930">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1120154411013033$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127144911013169$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127144911013170$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127144911013171$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1127144911013172$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013192$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127144911013173$" />
+			<content speakerNpc="11004419" text="$script:1127144911013174$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127144911013176$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1127144911013177$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" speakerNpc="11004395" text="$script:1127144911013178$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013034$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1120154411013035$" />
+		</script>
+	</quest>
+	<quest id="50100940">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1120154411013036$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013179$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1127144911013180$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013181$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013182$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1127144911013183$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013184$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013185$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1127144911013186$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013187$" />
+			<content speakerNpc="11004397" text="$script:1127144911013188$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1127144911013189$" />
+			<content speakerNpc="11004397" text="$script:1127144911013190$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1127144911013191$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1120154411013037$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004397" text="$script:1120154411013038$" />
+		</script>
+	</quest>
+	<quest id="50100950">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004397" text="$script:1120154411013039$" />
+			<content speakerNpc="11004397" text="$script:1127180311013193$" />
+			<content myTalk="1" text="$script:1127180311013194$" />
+			<content speakerNpc="11004397" text="$script:1127180311013195$" />
+			<content speakerNpc="11004397" text="$script:1127180311013196$" />
+			<content myTalk="1" text="$script:1127180311013197$" />
+			<content speakerNpc="11004397" text="$script:1127180311013198$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013040$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013041$" />
+		</script>
+	</quest>
+	<quest id="50100960">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1120154411013042$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013199$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1127180311013200$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013201$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1127180311013202$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1206161711013329$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013203$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1127180311013204$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013205$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1127180311013206$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013207$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013208$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1127180311013209$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1127180311013210$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013211$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013212$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content text="$script:1120154411013043$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013044$" />
+		</script>
+	</quest>
+	<quest id="50100970">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013045$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1127180311013213$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013214$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013215$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013216$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1127180311013217$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1127180311013218$" />
+			<content myTalk="1" text="$script:1127180311013219$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1127180311013220$" />
+			<content myTalk="1" text="$script:1127180311013221$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1127180311013222$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1127180311013223$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1127180311013224$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1127180311013225$" />
+			<content leftIllust="Bliche_normal" rightIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1127180311013226$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1207194011013332$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1206162111013330$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1206162111013331$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1127180311013227$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013046$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1120154411013047$" />
+		</script>
+	</quest>
+	<quest id="50100980">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1120154411013048$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1128135311013228$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1128135311013229$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1128135311013230$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1128135311013231$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1128135311013232$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1128135311013233$" />
+			<content myTalk="1" leftIllust="siman_normal" text="$script:1207194211013333$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004396" text="$script:1120154411013049$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1120154411013050$" />
+		</script>
+	</quest>
+	<quest id="50100990">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1120154411013051$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1128135311013234$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1128135311013235$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1128135311013236$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1128135311013237$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1128135311013238$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1120154411013052$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004398" text="$script:1120154411013053$" />
+		</script>
+	</quest>
+	<quest id="50101000">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004398" text="$script:1120154411013054$" />
+			<content myTalk="1" text="$script:1128175411013239$" />
+			<content speakerNpc="11004398" text="$script:1128175411013240$" />
+			<content myTalk="1" text="$script:1128175411013241$" />
+			<content speakerNpc="11004398" text="$script:1128175411013242$" />
+			<content speakerNpc="11004398" text="$script:1128175411013243$" />
+			<content myTalk="1" text="$script:1128175411013244$" />
+			<content speakerNpc="11004398" text="$script:1128175411013245$" />
+			<content myTalk="1" text="$script:1128175411013246$" />
+			<content speakerNpc="11004398" text="$script:1128175411013247$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004398" text="$script:1120154411013055$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004399" text="$script:1120154411013056$" />
+		</script>
+	</quest>
+	<quest id="50101010">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004399" text="$script:1120154411013057$" />
+			<content myTalk="1" text="$script:1128175411013248$" />
+			<content speakerNpc="11004399" text="$script:1128175411013249$" />
+			<content speakerNpc="11004399" text="$script:1128175411013250$" />
+			<content myTalk="1" text="$script:1128175411013251$" />
+			<content myTalk="1" text="$script:1207194311013334$" />
+			<content speakerNpc="11004399" text="$script:1128175411013252$" />
+			<content speakerNpc="11004399" text="$script:1128175411013253$" />
+			<content speakerNpc="11004399" text="$script:1205164111013325$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004399" text="$script:1120154411013058$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004399" text="$script:1212174711013336$" />
+		</script>
+	</quest>
+	<quest id="50101020">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013059$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1120154411013060$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1128175411013254$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1128175411013255$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1128175411013256$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1128175411013257$" />
+			<content myTalk="1" leftIllust="Eone_serious" text="$script:1128175411013258$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004395" text="$script:1128175411013259$" />
+			<content myTalk="1" text="$script:1128175411013260$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1128175411013261$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1128175411013262$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1128175411013263$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1128175411013264$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1128175411013265$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1128175411013266$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1128175411013267$" />
+			<content leftIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1128175411013268$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1128175411013269$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1128175411013270$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1128175411013271$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1128175411013272$" functionID="1" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004395" text="$script:1120154411013061$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" speakerNpc="11004433" text="$script:1120154411013062$" />
+		</script>
+	</quest>
+	<quest id="50101030">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004433" text="$script:1120154411013063$" />
+			<content myTalk="1" text="$script:1129162011013274$" />
+			<content speakerNpc="11004433" text="$script:1129162011013275$" />
+			<content speakerNpc="11004433" text="$script:1129162011013276$" />
+			<content myTalk="1" text="$script:1129162011013277$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content speakerNpc="11004433" text="$script:1120154411013064$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" text="$script:1120154411013065$" />
+		</script>
+	</quest>
+	<quest id="50101040">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content myTalk="1" text="$script:1212160511013335$" />
+			<content leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004400" text="$script:1120154411013066$" />
+			<content myTalk="1" leftIllust="cladia_smile" text="$script:1129162011013278$" />
+			<content leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004400" text="$script:1129162011013279$" />
+			<content myTalk="1" leftIllust="cladia_smile" text="$script:1129162011013280$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013281$" />
+			<content myTalk="1" leftIllust="cladia_normal" text="$script:1129162011013282$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013283$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013284$" />
+			<content myTalk="1" leftIllust="cladia_normal" text="$script:1129162011013285$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013286$" />
+			<content myTalk="1" leftIllust="cladia_normal" text="$script:1129162011013287$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013288$" />
+			<content myTalk="1" leftIllust="cladia_normal" text="$script:1129162011013289$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1129162011013290$" />
+			<content myTalk="1" leftIllust="cladia_normal" text="$script:1129162011013291$" />
+			<content redirect="1" leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004400" text="$script:1129162011013292$" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1120154411013067$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content redirect="1" leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1120154411013068$" />
+		</script>
+	</quest>
+	<quest id="50101050">
+		<script id="100" feature="Kritias_Epic01" locale="">
+			<content leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004400" text="$script:1205113111013319$" />
+			<content leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004400" text="$script:1205131111013320$" functionID="1" />
+		</script>
+		<script id="200" feature="Kritias_Epic01" locale="">
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004400" text="$script:1205102711013318$" />
+		</script>
+		<script id="300" feature="Kritias_Epic01" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004401" text="$script:1120154411013069$" />
+			<content leftIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1129170511013293$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1129170511013294$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004401" text="$script:1129170511013295$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1129170511013296$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1129170511013297$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004401" text="$script:1129170511013298$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1129170511013299$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1129170511013300$" />
+			<content myTalk="1" leftIllust="Bliche_normal" text="$script:1129170511013301$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004401" text="$script:1129170511013302$" />
+			<content leftIllust="Mason_normal" speakerIllust="Mason_normal" speakerNpc="11003537" text="$script:1129170511013303$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1129170511013304$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11003533" text="$script:1129170511013305$" />
+			<content leftIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11003536" text="$script:1129170511013306$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004401" text="$script:1129170511013307$" />
+			<content myTalk="1" leftIllust="Eone_normal" text="$script:1129170511013308$" functionID="1" />
+		</script>
+	</quest>
 </ms2>

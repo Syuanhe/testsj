@@ -17,4 +17,5 @@
 	<key mapCode="02000107" tagMovie="ribbon_red" align="bottomLeft" alignOffsetX="-15" alignOffsetY="-15" />
 	<key mapCode="02000424" tagMovie="collection" align="bottomCenter" alignOffsetX="0" alignOffsetY="0" />
 	<key mapCode="02000425" tagMovie="collection" align="bottomCenter" alignOffsetX="0" alignOffsetY="0" />
+	<key mapCode="02020041" tagMovie="ribbonband_yellow" align="center" alignOffsetX="0" alignOffsetY="0" feature="Kritias_2018_12" />
 </ms2>

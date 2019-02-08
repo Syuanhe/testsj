@@ -8,7 +8,7 @@
   </customize>
   <slots>
     <slot name="CP">
-      <asset gender="2" name="Data/Resource/Model/Item/1/13/11301246_C_ToppingcornIceCream_F.nif" targetnode="Bip01 Head" selfnode="CP" >
+      <asset name="urn:11301371_C_BubbleOctopus_F" targetnode="Bip01 Head" selfnode="CP" >
               <userrotation axis="x" min="0" max="0" default="0.000000" />
               <userrotation axis="y" min="0" max="0" default="0.000000" />
               <userrotation axis="z" min="-180" max="180" default="0.000000" />

@@ -265,9 +265,19 @@
 	<individualDropBox individualDropBoxID="310002011" dropGroup="1" item="30001129" minCount="1" maxCount="1" feature="Mastery05" />
 	<individualDropBox individualDropBoxID="310002121" dropGroup="1" item="30001179" minCount="1" maxCount="1" locale="NA" />
 	<individualDropBox individualDropBoxID="310001385" dropGroup="1" item="30001259" minCount="1" maxCount="1" />
+	<individualDropBox individualDropBoxID="310001384" dropGroup="1" item="30001289" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="310001384" dropGroup="1" item="30001290" minCount="1" maxCount="1" feature="Kritias_2018_12" />
 	<individualDropBox individualDropBoxID="310001387" dropGroup="1" item="30001260" minCount="1" maxCount="1" />
 	<individualDropBox individualDropBoxID="310001388" dropGroup="1" item="20000995" minCount="1" maxCount="1" />
 	<individualDropBox individualDropBoxID="310001389" dropGroup="1" item="20000891" minCount="1" maxCount="1" />
 	<individualDropBox individualDropBoxID="310001390" dropGroup="1" item="20000891" minCount="1" maxCount="1" />
 	<individualDropBox individualDropBoxID="310001391" dropGroup="1" item="20000995" minCount="1" maxCount="1" />
+	<individualDropBox individualDropBoxID="310001398" dropGroup="1" item="30001264" minCount="1" maxCount="1" feature="Kritias_Epic01" />
+	<individualDropBox individualDropBoxID="310001399" dropGroup="1" item="30001265" minCount="1" maxCount="1" feature="Kritias_Epic01" />
+	<individualDropBox individualDropBoxID="310001400" dropGroup="1" item="30001263" minCount="1" maxCount="1" feature="Kritias_Epic01" />
+	<individualDropBox individualDropBoxID="310001405" dropGroup="1" item="30001297" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="310001410" dropGroup="1" item="30001299" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="310001412" dropGroup="1" item="30001300" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="310001414" dropGroup="1" item="30001301" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="310001415" dropGroup="1" item="30001302" minCount="1" maxCount="1" feature="Kritias_2018_12" />
 </ms2>

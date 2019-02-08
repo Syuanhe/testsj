@@ -238,6 +238,16 @@
 	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" />
 	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
 	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
+	<key id="23050000" name="(파티)$npc:23090006$ 처치" feature="Kritias_Balrog01" />
+	<key id="23050001" name="(파티)8분 내에 $npc:23090006$ 처치" feature="Kritias_Balrog01" />
+	<key id="23050002" name="(파티)4분 내에 $npc:23090006$ 처치" feature="Kritias_Balrog01" />
+	<key id="23050003" name="비석에 깔리면 감점" feature="Kritias_Balrog01" />
+	<key id="23050004" name="바닥 화염 폭발에 맞으면 감점" feature="Kritias_Balrog01" />
+	<key id="23060000" name="(파티)$npc:23000301$ 처치" feature="Kritias_Paika01" />
+	<key id="23060001" name="(파티)8분 내에 $npc:23000301$ 처치" feature="Kritias_Paika01" />
+	<key id="23060002" name="(파티)4분 내에 $npc:23000301$ 처치" feature="Kritias_Paika01" />
+	<key id="23060003" name="비석에 깔리면 감점" feature="Kritias_Paika01" />
+	<key id="23060004" name="마력폭주 바닥을 밟으면 감점" feature="Kritias_Paika01" />
 	<key id="29006001" name="(파티)$npc:23000076$ 처치" feature="EventPapulatus" />
 	<key id="29006002" name="(파티)8분 30초 내에 $npc:23000076$ 처치" feature="EventPapulatus" />
 	<key id="29006003" name="(파티)6분 내에 $npc:23000076$ 처치" feature="EventPapulatus" />

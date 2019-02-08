@@ -28,6 +28,11 @@
 	<script id="60" feature="Kritias_2018_12" locale="">
 		<content illust="Startz_normal" text="$script:1010140307011478$" />
 		<content illust="Startz_normal" text="$script:1010140307011479$" />
-		<content illust="Startz_normal" text="$script:1010140307011480$" />
+		<content illust="Startz_normal" text="$script:1010140307011480$">
+			<distractor text="$script:0111224807012689$" goto="70" gotoFail="" />
+		</content>
+	</script>
+	<script id="70" feature="Kritias_2018_12" locale="">
+		<content illust="Startz_normal" text="$script:0111224807012690$" />
 	</script>
 </ms2>

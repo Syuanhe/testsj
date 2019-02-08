@@ -19,7 +19,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -45,7 +45,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -71,7 +71,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -97,7 +97,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -123,7 +123,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -149,7 +149,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -175,7 +175,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -201,7 +201,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -227,7 +227,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -253,7 +253,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -279,7 +279,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />
@@ -305,7 +305,7 @@
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
 		<consume money="0">
-			<stat sp="30" />
+			<stat sp="10" />
 		</consume>
 		<targetItem />
 		<upgrade level="62" skillIDs="10700181" skillLevels="3" />

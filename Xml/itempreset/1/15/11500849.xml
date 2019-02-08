@@ -9,13 +9,10 @@
   </customize>
   <slots>
     <slot name="PA">
-    <asset gender="0" replace="1" ani="1" name="Data/Resource/Model/Item/0/15/11500849_M_PAMapleUnion01.nif" targetnode="PA" selfnode="PA"/>
+    <asset gender="0" replace="1" ani="1" name="Data/Resource/Model/Item/1/15/11500849_M_PAMapleUnion01.nif" targetnode="PA" selfnode="PA"/>
    </slot>
   </slots>
- 	<cutting>
-		<mesh gender="0" name="SH_Armor" />	
-		<mesh gender="0" name="SH_Ankle" />			
-		<mesh gender="0" name="SH_Knee" />				
+ 	<cutting>		
 		<mesh gender="0" name="SH_Stocking" />					
 	</cutting>	  
 </ms2>

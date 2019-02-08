@@ -13,12 +13,10 @@
 		<changeSkill changeSkillCheckEffectID="" changeSkillCheckEffectLevel="" changeSkillCheckEffectOverlapCount="" changeSkillID="" changeSkillLevel="" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="0" />
-		<consume money="0">
+		<consume money="0" useItem="1">
 			<stat />
 		</consume>
-		<targetItem>
-			<item id="20000320" count="1" />
-		</targetItem>
+		<targetItem />
 		<upgrade />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />

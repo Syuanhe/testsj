@@ -16,6 +16,7 @@
 	<skillSet id="99910140" feature="DarkCastle" skillIDs="99910141, 99910142" skillLevels="1,1" />
 	<skillSet id="99910150" feature="FameContents_EP1_01" skillIDs="99910151, 99910152" skillLevels="1,1" />
 	<skillSet id="99910160" feature="DarkCastle" skillIDs="99910161, 99910162, 99910163, 99910164" skillLevels="1,1,1,1" />
+	<skillSet id="99910161" feature="Gigantica01" skillIDs="99910401,99910402,99910403" skillLevels="1,1,1" />
 	<skillSet id="99910170" feature="DarkCastle" skillIDs="99910171, 99910172, 99910173" skillLevels="1,1,1" />
 	<skillSet id="99910180" feature="DarkCastle" skillIDs="99910181, 99910182" skillLevels="1,1" />
 	<skillSet id="99910190" feature="DarkCastle" skillIDs="99910191, 99910192, 99910193" skillLevels="1,1,1" />
@@ -33,4 +34,6 @@
 	<skillSet id="99920002" slotLock="0" skillIDs="" skillLevels="" itemIDs="20000885,20000744,20000897,20000895,20000898,20000906,20000743,20000899,20000967,20000980,20000909,20000985,0,0,0,0,50600212,40400067,30001099,20000733,20000902,20000737" version="5" />
 	<skillSet id="99910360" skillIDs="99910341, 99910342, 99910343, 99910344" skillLevels="1,1,1,1" />
 	<skillSet id="99910370" skillIDs="99910371, 99910372" skillLevels="1,1" />
+	<skillSet id="99930001" feature="Kritias_2018_12" skillIDs="70003001" skillLevels="1" />
+	<skillSet id="99930011" feature="Kritias_2018_12" skillIDs="70003041" skillLevels="1" />
 </ms2>

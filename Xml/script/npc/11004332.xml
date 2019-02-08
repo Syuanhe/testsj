@@ -22,6 +22,11 @@
 		<content illust="LapentaMage_Idle" text="$script:1010140307011569$" />
 		<content illust="LapentaMage_Idle" text="$script:1010140307011570$" />
 		<content illust="LapentaMage_Idle" text="$script:1010140307011571$" />
-		<content illust="LapentaMage_Idle" text="$script:1010140307011572$" />
+		<content illust="LapentaMage_Idle" text="$script:1010140307011572$">
+			<distractor text="$script:0111232407012699$" goto="50" gotoFail="" />
+		</content>
+	</script>
+	<script id="50" feature="Kritias_2018_12" locale="">
+		<content illust="LapentaMage_Idle" text="$script:0111232407012700$" />
 	</script>
 </ms2>

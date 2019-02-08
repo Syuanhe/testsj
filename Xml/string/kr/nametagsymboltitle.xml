@@ -28,7 +28,8 @@
 	<key id="21" name="상상초월" feature="ItemMerge" />
 	<key id="22" name="빛의 전사" />
 	<key id="24" name="돌아온 자" feature="Mentoring" />
-	<key id="26" name="연합의 수호자" feature="FameContents" />
+	<key id="26" name="연합의 수호자" feature="FameContents" locale="KR" />
+	<key id="26" name="연합의 수호자" feature="FameContents" locale="CN" />
 	<key id="27" name="황금 불꽃 나비" feature="LunaYear2018" />
 	<key id="28" name="머쉬킹 챔피언십" feature="SurvivalContents01" />
 	<key id="29" name="모험가" feature="AdventureLevel" />
@@ -45,6 +46,9 @@
 	<key id="40" name="보름달" locale="KR" />
 	<key id="41" name="1주년을 함께한" locale="CN" />
 	<key id="42" name="파풀라투스의 시계" locale="CN" />
+	<key id="43" name="프로 낚시꾼" feature="Fishing02" />
+	<key id="44" name="챔피언 낚시꾼" feature="Fishing02" />
+	<key id="45" name="위험한 힘을 다루는" feature="Lapenshard01" />
 	<key id="46" name="신비한 에네르" />
 	<key id="47" name="버닝" locale="KR" />
 </ms2>

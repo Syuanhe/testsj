@@ -81,10 +81,10 @@
 			<condition type="questProgress" value="91000011" />
 		</open>
 		<close>
-			<condition type="timeout" value="5000" />
+			<condition type="timeout" value="5700" />
 		</close>
 		<openAction>
-			<action type="SideNpcTalk" scriptID="80023" npcID="11003535" illust="Schatten_smile" duration="5000" voice="ko/Npc/00002072" />
+			<action type="SideNpcTalk" scriptID="80023" npcID="11003535" illust="Schatten_smile" duration="5700" voice="ko/Npc/00002072" />
 		</openAction>
 	</event>
 	<event id="80024" isForce="1" desc="라바크라운도착03" feature="FameContents">
@@ -341,6 +341,33 @@
 		</close>
 		<openAction>
 			<action type="uiSummary" isNotClose="0" textId="81071" />
+		</openAction>
+	</event>
+	<event id="50101050" saveId="50101050" isForce="1" desc=" 특수 임무 알림" feature="Kritias_2018_12">
+		<open>
+			<condition type="fieldId" value="02020041" />
+			<condition type="questComplete" value="50101050" />
+			<condition type="allOf">
+				<condition type="questProgress" value="91000080" not="1" />
+				<condition type="questSatisfied" value="91000080" not="1" />
+				<condition type="questComplete" value="91000080" not="1" />
+				<condition type="questProgress" value="91000380" not="1" />
+				<condition type="questSatisfied" value="91000380" not="1" />
+				<condition type="questComplete" value="91000380" not="1" />
+				<condition type="questProgress" value="91000680" not="1" />
+				<condition type="questSatisfied" value="91000680" not="1" />
+				<condition type="questComplete" value="91000680" not="1" />
+			</condition>
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="questProgress" value="91000080" />
+				<condition type="questProgress" value="91000380" />
+				<condition type="questProgress" value="91000680" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="SideNpcTalk" scriptID="50101050" npcID="11004312" illust="Bliche_nomal" duration="5000" />
 		</openAction>
 	</event>
 </ms2>

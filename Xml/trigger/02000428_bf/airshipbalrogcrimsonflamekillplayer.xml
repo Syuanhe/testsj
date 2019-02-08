@@ -24,7 +24,7 @@
 		<!--  던전 플레이 시간 체크하는 이 로직은 맵으로 바로 들어가지 말고, 던전로직을 통해서 정식으로 입장해야 작동함-->
 		<condition name="DungeonCheckPlayTime" playSeconds="540"> <!-- 아직도 인페르녹의 전함 전투 중인데 플레이 시간이 9분 되면-->
 		
-		 	<action name="SetAiExtraData" key="AirshipBalrogCrimsonFlameKillPlayer" value="1" />	<!-- 이 신호를 지속적으로 보내 파티원 강제로 죽이는 스킬 사용하도록 설정하기 -->
+		 <!--	<action name="SetAiExtraData" key="AirshipBalrogCrimsonFlameKillPlayer" value="1" />	 이 신호를 지속적으로 보내 파티원 강제로 죽이는 스킬 사용하도록 설정하기, NA 버전에서는 이 트리거 xml 사용 안함 -->
 			<transition state="종료" />
 		</condition>				
 

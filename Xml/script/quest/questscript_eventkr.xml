@@ -6846,4 +6846,17 @@
 			<content text="$script:1031192214003887$" />
 		</script>
 	</quest>
+	<quest id="80000560">
+		<script id="100" feature="" locale="">
+			<content text="$script:1219155314003888$" />
+			<content text="$script:1219155314003889$" />
+			<content text="$script:1219155314003891$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1219155314003892$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1219155314003893$" />
+		</script>
+	</quest>
 </ms2>

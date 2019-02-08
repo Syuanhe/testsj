@@ -265,21 +265,21 @@
 	<key id="0831180306000292" feature="" npc="일곱 빛깔 무지개" name="레벨 40제 장비가 입고됐어요~" />
 	<key id="1121222006000853" feature="" npc="델브" name="무슨 일이죠?" />
 	<key id="1121222006000854" feature="" npc="델브" name="제 헤어 스타일 어때요?" />
-	<key id="0831180306000296" feature="" npc="도키" name="$npc:11000735$$pp:가,이$ 최고인데… " />
+	<key id="0831180306000296" feature="" npc="도키" name="$npc:11000735[gender:1]$$pp:가,이$ 최고인데… " />
 	<key id="0831180306000297" feature="" npc="도키" name="뭐가 좋다고 저 난리람… " />
-	<key id="0831180306000298" feature="" npc="도키" name="$npc:11000735$$pp:가,이$ 최고인데… " />
-	<key id="0831180306000299" feature="" npc="도키" name='쟤네 정말 시끄러워요… &#x0A;$npcName:11000406[gender:0]$$pp:가,이$ 뭐가 멋있다고… &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:를,을$ 한번 보면 $npcName:11000406[gender:0]$ 따위… 눈에 차지도 않을 걸요?  ' />
-	<key id="0831180306000300" feature="" npc="도키" name='$MyPCName$님, &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt; 알아요?' />
-	<key id="0831180306000301" feature="" npc="pc" name="$npcName:11000735$$pp:를,을$ 알고 있다고 한다." />
-	<key id="0831180306000302" feature="" npc="pc" name="$npcName:11000735$$pp:가,이$ 누구냐고 물어본다." />
+	<key id="0831180306000298" feature="" npc="도키" name="$npc:11000735[gender:1]$$pp:가,이$ 최고인데… " />
+	<key id="0831180306000299" feature="" npc="도키" name='쟤네 정말 시끄러워요… &#x0A;$npcName:11000406[gender:0]$$pp:가,이$ 뭐가 멋있다고… &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 한번 보면 $npcName:11000406[gender:0]$ 따위… 눈에 차지도 않을 걸요?  ' />
+	<key id="0831180306000300" feature="" npc="도키" name='$MyPCName$님, &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt; 알아요?' />
+	<key id="0831180306000301" feature="" npc="pc" name="$npcName:11000735[gender:1]$$pp:를,을$ 알고 있다고 한다." />
+	<key id="0831180306000302" feature="" npc="pc" name="$npcName:11000735[gender:1]$$pp:가,이$ 누구냐고 물어본다." />
 	<key id="0831180306000303" feature="" npc="pc" name="$npc:11000406[gender:0]$$pp:가,이$ 최고라고 한다." />
-	<key id="0831180306000304" feature="" npc="도키" name='앗, 정말요? &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:를,을$ 본 적이 있어요?&#x0A;나는 전에 딱 한 번 봤는데… ' />
-	<key id="0831180306000305" feature="" npc="도키" name='정말 순식간이었어요. 뭐랄까… 반짝! 하고 깜빡였다가 사라지는 별 같은… &#x0A;그런데 신기한 건 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;의 모습이 아주 선명하게 보였어요. 그 짧은 시간에…&#x0A;찰칵! 하고 사진을 찍은 것처럼… 나는 그녀의 모습을 똑똑히 기억해요.' />
-	<key id="0831180306000306" feature="" npc="도키" name='그 뒤로 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:를,을$ 다시 보기 위해 그녀가 나타났다는 곳마다 계속 쫓아다녔어요.&#x0A;아직… 그녀를 다시 만나지는 못했지만 나처럼 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:를,을$ 본 사람들이 들려주는&#x0A;$npc:11000735$의 모습을 그림으로 그리고 있죠.&#x0A;그렇게 그린 그림이 벌써 수십 장이 넘어요.' />
-	<key id="0831180306000307" feature="" npc="도키" name='이 그림들을 보면 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;의 하늘같은 매력을 느낄 수 있달까… &#x0A;하늘의 모습은 시시각각 변하잖아요…? &#x0A;노을이라던가… 구름이라던가… 제 말 이해해요?' />
-	<key id="0831180306000308" feature="" npc="도키" name='나도 잘 몰라요. 그녀가 누구인지는… &#x0A;그냥 다들 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:라고,이라고$ 불러요.&#x0A;그냥 어느 순간 바람처럼 나타났다가 순식간에 사라지는데… 아주… 예뻐요…&#x0A;완전 완전 내가 꿈에 그리던 내 이상형인 것만은 확실해요!' />
+	<key id="0831180306000304" feature="" npc="도키" name='앗, 정말요? &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 본 적이 있어요?&#x0A;나는 전에 딱 한 번 봤는데… ' />
+	<key id="0831180306000305" feature="" npc="도키" name='정말 순식간이었어요. 뭐랄까… 반짝! 하고 깜빡였다가 사라지는 별 같은… &#x0A;그런데 신기한 건 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;의 모습이 아주 선명하게 보였어요. 그 짧은 시간에…&#x0A;찰칵! 하고 사진을 찍은 것처럼… 나는 그녀의 모습을 똑똑히 기억해요.' />
+	<key id="0831180306000306" feature="" npc="도키" name='그 뒤로 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 다시 보기 위해 그녀가 나타났다는 곳마다 계속 쫓아다녔어요.&#x0A;아직… 그녀를 다시 만나지는 못했지만 나처럼 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 본 사람들이 들려주는&#x0A;$npc:11000735[gender:1]$의 모습을 그림으로 그리고 있죠.&#x0A;그렇게 그린 그림이 벌써 수십 장이 넘어요.' />
+	<key id="0831180306000307" feature="" npc="도키" name='이 그림들을 보면 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;의 하늘같은 매력을 느낄 수 있달까… &#x0A;하늘의 모습은 시시각각 변하잖아요…? &#x0A;노을이라던가… 구름이라던가… 제 말 이해해요?' />
+	<key id="0831180306000308" feature="" npc="도키" name='나도 잘 몰라요. 그녀가 누구인지는… &#x0A;그냥 다들 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:라고,이라고$ 불러요.&#x0A;그냥 어느 순간 바람처럼 나타났다가 순식간에 사라지는데… 아주… 예뻐요…&#x0A;완전 완전 내가 꿈에 그리던 내 이상형인 것만은 확실해요!' />
 	<key id="0831180306000309" feature="" npc="도키" name="지금은 이렇게 그림으로만 그녀를 기억하면서 마음을 달래고 있지만… &#x0A;언젠가는 꼭! 그녀를 직접 만나서 내 마음을 고백할 거라구요!" />
-	<key id="0831180306000310" feature="" npc="도키" name='헤… 그쪽도 저기서 꺅꺅 소리나 질러대는 애들이랑 똑같네요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735$&lt;/font&gt;$pp:를,을$ 한번이라도 보게 된다면 지금 그 마음이 싹 바뀌겠지만… ' />
+	<key id="0831180306000310" feature="" npc="도키" name='헤… 그쪽도 저기서 꺅꺅 소리나 질러대는 애들이랑 똑같네요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;$pp:를,을$ 한번이라도 보게 된다면 지금 그 마음이 싹 바뀌겠지만… ' />
 	<key id="0831180306000314" feature="" npc="주스토" name="무슨 일이죠?" />
 	<key id="0831180306000315" feature="" npc="주스토" name="생존에 도움되는 물품은 미리 구입해 둬!" />
 	<key id="0831180306000316" feature="" npc="주스토" name="어둠의 기운이 강하게 느껴지는군…" />
@@ -770,6 +770,9 @@
 	<key id="0123221606000987" feature="" npc="함선 물품 보급관" name='$npc:23000090[gender:0]$에게 대적하려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;$pp:과,와$ &lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;$pp:가,이$ 필요하다고 합니다.' />
 	<key id="0123221606000988" feature="" npc="함선 물품 보급관" name="그래도 많이 버텼습니다.&#x0A;이제 남은 희망은 입자포 발사군요.&#x0A;$MyPCName$님, 부탁드립니다!&#x0A;" />
 	<key id="0123221606000989" feature="" npc="함선 물품 보급관" name='갑판에서 $npc:23000090[gender:0]$$pp:와,과$ 마주칠 수도 있으니 &lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;$pp:는,은$ 꼭 준비하고 가십시오.' />
+	<key id="1130175706001007" feature="" npc="함선 물품 보급관" name="$npc:23000090[gender:0]$에게 대적하는데 필요한 것들이 있다면, 언제든 편히 찾아 주십시오." />
+	<key id="1130175706001008" feature="" npc="함선 물품 보급관" name="그래도 많이 버텼습니다.&#x0A;이제 남은 희망은 입자포 발사군요.&#x0A;$MyPCName$님, 부탁드립니다!&#x0A;" />
+	<key id="1130175706001009" feature="" npc="함선 물품 보급관" name="갑판에서 $npc:23000090[gender:0]$$pp:와,과$ 마주칠 수도 있으니 부디 조심하시길 바랍니다." />
 	<key id="0430025106000990" feature="" npc="밈" name="에레브 여제의 가호가 있기를…!" />
 	<key id="0601171006000994" feature="" npc="밈" name="$MyPCName$님, 반갑습니다.&#x0A;언젠가 도움을 요청할 일이 생길 것 같군요.&#x0A;에레브 여제의 가호가 있기를…!" />
 </ms2>

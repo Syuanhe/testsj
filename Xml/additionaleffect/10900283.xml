@@ -13,7 +13,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.04" />
+			<SpecialAbility icedamagerate="0.08" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -46,7 +46,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.08" />
+			<SpecialAbility icedamagerate="0.16" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -79,7 +79,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.12" />
+			<SpecialAbility icedamagerate="0.24" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -112,7 +112,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.16" />
+			<SpecialAbility icedamagerate="0.32" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -145,7 +145,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.2" />
+			<SpecialAbility icedamagerate="0.4" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -178,7 +178,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.24" />
+			<SpecialAbility icedamagerate="0.48" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -211,7 +211,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.28" />
+			<SpecialAbility icedamagerate="0.56" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -244,7 +244,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.32" />
+			<SpecialAbility icedamagerate="0.64" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -277,7 +277,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.36" />
+			<SpecialAbility icedamagerate="0.72" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -310,7 +310,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.4" />
+			<SpecialAbility icedamagerate="0.8" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -343,7 +343,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.44" />
+			<SpecialAbility icedamagerate="0.88" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />
@@ -376,7 +376,7 @@
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
-			<SpecialAbility icedamagerate="0.48" />
+			<SpecialAbility icedamagerate="0.96" />
 		</StatusProperty>
 		<FinalStatusProperty>
 			<Stat />

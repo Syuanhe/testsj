@@ -32,6 +32,14 @@
 			<action name="DungeonMissionComplete" missionID="24094006" />
 			<transition state="전투_종료"/>
 		</condition>
+		<condition feature="FameChallengeBuff_03" name="AllOf">		<!-- <NA용 컨디션체크> -->
+			<group>
+				<condition name="DungeonCheckPlayTime" playSeconds="270" operator="LessEqual"/>
+				<condition name="몬스터가죽어있으면" arg1="201" />
+			</group>
+			<action name="DungeonMissionComplete" missionID="24094010" />
+			<transition state="전투_종료"/>
+		</condition>
 		<condition name="몬스터가죽어있으면" arg1="201" >		<!-- <5분내에 처치> -->
 			<transition state="전투_종료"/>
 		</condition>
@@ -52,7 +60,7 @@
 			<!-- <action name="몬스터소멸시킨다" arg1="301,302,303,304,305,306"/> -->
 			<!-- <action name="몬스터소멸시킨다" arg1="401,402,403,404,405,406"/> -->
 			<!-- <action name="SetNpcEmotionLoop" arg1="201" arg2="Attack_Idle_A" arg3="60000" /> -->
-			<action name="SideNpcTalk" npcID="24120006" illust="Mason_normal" duration="4000" script="$02020027_BF__02020027_battle__0$"/>
+			<action name="SideNpcTalk" npcID="24120006" illust="Mason_normal" duration="4000" script="$02020027_BF__02020027_battle__0$" voice="ko/Npc/00002259" />
 			<action name="SetNpcDuelHpBar" isOpen="false" spawnPointID="201" />
 		</onEnter>
 		<condition name="WaitTick" waitTick="3000" >

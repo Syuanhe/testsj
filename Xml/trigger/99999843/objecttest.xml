@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 멜로디 패턴 따라서 연주하기 -->
+<ms2>
+
+    <state name="CameraOn" >
+        <onEnter>
+			<action name="EnableLocalCamera" isEnable="1"  />	<!--로컬카메라 전체 ON-->
+			<action name="오브젝트반응설정한다" arg1="10002102" arg2="1" />	<!--로컬카메라 OFF용 레버-->
+			<action name="오브젝트반응설정한다" arg1="10002101" arg2="2" />	<!--로컬카메라 ON용 레버-->	
+        </onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002102" arg2="0">	<!--로컬카메라 ON용 레버 작동-->	
+			<transition state="CameraOff"/>	 
+		</condition>	
+        <onExit> 			
+        </onExit>  
+    </state> 	
+
+    <state name="CameraOff" >	
+        <onEnter>		
+			<action name="EnableLocalCamera" isEnable="0"  />	<!--로컬카메라 전체 OFF-->
+			<action name="오브젝트반응설정한다" arg1="10002102" arg2="2" />	<!--로컬카메라 OFF용 레버-->
+			<action name="오브젝트반응설정한다" arg1="10002101" arg2="1" />	<!--로컬카메라 ON용 레버-->	
+        </onEnter>	
+		<condition name="오브젝트가반응했으면" arg1="10002101" arg2="0">		<!--로컬카메라 ON용 레버 작동-->	
+			<transition state="CameraOn"/>	
+		</condition>
+    </state>
+</ms2>

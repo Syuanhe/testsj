@@ -40,6 +40,22 @@
 	<key id="10000038" name="브로콜터틀" />
 	<key id="10000039" name="앤트실러캔스" />
 	<key id="10000040" name="기계 상어" />
+	<key id="10000041" name="블루 젤리 새우" feature="Fishing02" />
+	<key id="10000042" name="울어" feature="Fishing02" />
+	<key id="10000043" name="개구리밥" feature="Fishing02" />
+	<key id="10000044" name="황쏘가리" feature="Fishing02" />
+	<key id="10000045" name="부레옥잠" feature="Fishing02" />
+	<key id="10000046" name="프레쉬 리프 밍" feature="Fishing02" />
+	<key id="10000047" name="블루밍 플라워 망" feature="Fishing02" />
+	<key id="10000048" name="블루밍 플라워 몽" feature="Fishing02" />
+	<key id="10000049" name="블루 리프 젤리피쉬" feature="Fishing02" />
+	<key id="10000050" name="핑크 리프 젤리피쉬" feature="Fishing02" />
+	<key id="10000051" name="활어" feature="Fishing02" />
+	<key id="10000052" name="블루 엔젤 피쉬" feature="Fishing02" />
+	<key id="10000053" name="분홍 점박이 해파리" feature="Fishing02" />
+	<key id="10000054" name="은행잎 가오리" feature="Fishing02" />
+	<key id="10000055" name="슬라임 피쉬" feature="Fishing02" />
+	<key id="10000056" name="보석 물고기" feature="Fishing02" />
 	<key id="10000057" name="보보스마스" />
 	<key id="11000001" name="블랙 나비고기" />
 	<key id="11000002" name="새들버터플라이피쉬" />
@@ -132,10 +148,23 @@
 	<key id="12000018" name="피라트" />
 	<key id="12000019" name="파라오 해마" />
 	<key id="12000020" name="마그마 하태어" />
+	<key id="12000021" name="이그리밥" feature="Fishing02" />
+	<key id="12000022" name="마그마 해파리" feature="Fishing02" />
+	<key id="12000023" name="라바 돔" feature="Fishing02" />
+	<key id="12000024" name="블러디 핀붐" feature="Fishing02" />
+	<key id="12000025" name="핫 아이" feature="Fishing02" />
 	<key id="13000003" name="퍼플 크랩" />
 	<key id="13000005" name="데빌 우파루파" />
 	<key id="13000007" name="푸른등고래" />
 	<key id="13000009" name="엔젤 해마" />
+	<key id="13000010" name="서전 아이" feature="Fishing02" />
+	<key id="13000011" name="데빌 슬라임 피쉬" feature="Fishing02" />
+	<key id="13000012" name="고스트 피쉬" feature="Fishing02" />
+	<key id="13000013" name="블랙 블로브 피쉬" feature="Fishing02" />
+	<key id="13000014" name="블랙 타이거 새우" feature="Fishing02" />
+	<key id="13000015" name="침식된 에네르 쉘" feature="Fishing02" />
+	<key id="13000016" name="침식된 에네르 콘치" feature="Fishing02" />
+	<key id="13000017" name="침식된 에네르 스팅레이" feature="Fishing02" />
 	<key id="14000001" name="둥글독" />
 	<key id="14000002" name="가물가물치" />
 	<key id="14000003" name="늪지 가재" />
@@ -157,11 +186,29 @@
 	<key id="14000019" name="오묘한 짱뚱어" />
 	<key id="14000020" name="울그락 볼락" />
 	<key id="14000021" name="플로리 퐁퐁" />
+	<key id="14000022" name="독 청새치" feature="Fishing02" />
+	<key id="14000023" name="독 전복" feature="Fishing02" />
+	<key id="14000024" name="독 메기" feature="Fishing02" />
+	<key id="14000025" name="포이즌 아이" feature="Fishing02" />
+	<key id="14000026" name="독 거북손" feature="Fishing02" />
+	<key id="14000027" name="핀붐" feature="Fishing02" />
+	<key id="14000028" name="쏘우 헤드" feature="Fishing02" />
+	<key id="14000029" name="테일 헤드" feature="Fishing02" />
 	<key id="15000001" name="나프타 소라게" />
 	<key id="15000002" name="피크리치" />
 	<key id="15000003" name="기름 가리비" />
 	<key id="15000004" name="오일 쉬림프" />
 	<key id="15000005" name="오일젤리피쉬" />
+	<key id="16000001" name="에네르 쉘" feature="Fishing02" />
+	<key id="16000002" name="에네르 콘치" feature="Fishing02" />
+	<key id="16000003" name="에네르 스팅레이" feature="Fishing02" />
+	<key id="16000004" name="프릴리아" feature="Fishing02" />
+	<key id="16000005" name="피콕 프릴리아" feature="Fishing02" />
+	<key id="16000006" name="그리니" feature="Fishing02" />
+	<key id="16000007" name="부끄러어" feature="Fishing02" />
+	<key id="16000008" name="우아해어" feature="Fishing02" />
+	<key id="16000009" name="무지개 해마" feature="Fishing02" />
+	<key id="16000010" name="캐슬 피쉬" feature="Fishing02" />
 	<key id="99000001" name="황금 송사리" />
 	<key id="99000002" name="황금 미역" />
 	<key id="99000003" name="황금 문어" />

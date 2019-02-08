@@ -18,7 +18,7 @@
 			<remoteComplete useRemote="1" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="gallery" />
-			<condition type="interact_object" code="50400180" value="1" />
+			<condition type="controller" code="50400180" value="1" />
 		</quest>
 	</environment>
 </ms2>

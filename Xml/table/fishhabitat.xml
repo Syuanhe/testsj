@@ -40,23 +40,23 @@
 	<fish id="10000038" habitat="" />
 	<fish id="10000039" habitat="" />
 	<fish id="10000040" habitat="2000203" />
-	<fish id="10000041" habitat="2020001, 2020006" />
+	<fish id="10000041" habitat="2020003, 2020037" />
 	<fish id="10000042" habitat="2020029" />
 	<fish id="10000043" habitat="2020041" />
-	<fish id="10000044" habitat="2020029" />
+	<fish id="10000044" habitat="2020008, 2020016, 2020017" />
 	<fish id="10000045" habitat="2020001, 2020006" />
-	<fish id="10000046" habitat="2020001, 2020006" />
-	<fish id="10000047" habitat="2020016, 2020017" />
-	<fish id="10000048" habitat="2020003, 2020008" />
-	<fish id="10000049" habitat="2020016, 2020017" />
-	<fish id="10000050" habitat="2020003, 2020008" />
+	<fish id="10000046" habitat="2020030" />
+	<fish id="10000047" habitat="2020041" />
+	<fish id="10000048" habitat="2020001, 2020006" />
+	<fish id="10000049" habitat="2020041" />
+	<fish id="10000050" habitat="2020001, 2020006" />
 	<fish id="10000051" habitat="2020030" />
-	<fish id="10000052" habitat="2020041" />
+	<fish id="10000052" habitat="2020029" />
 	<fish id="10000053" habitat="2020030" />
-	<fish id="10000054" habitat="2020041" />
-	<fish id="10000055" habitat="2020016, 2020017" />
-	<fish id="10000056" habitat="2020003, 2020008" />
-	<fish id="10000057" habitat="" />
+	<fish id="10000054" habitat="2020008, 2020016, 2020017" />
+	<fish id="10000055" habitat="2020003, 2020037" />
+	<fish id="10000056" habitat="2020003, 2020037" />
+	<fish id="10000057" habitat="2000001" />
 	<fish id="11000001" habitat="2000134" />
 	<fish id="11000002" habitat="2000134" />
 	<fish id="11000003" habitat="2000015" />
@@ -145,15 +145,22 @@
 	<fish id="12000017" habitat="" />
 	<fish id="12000018" habitat="" />
 	<fish id="12000019" habitat="" />
+	<fish id="12000021" habitat="2020035" />
+	<fish id="12000023" habitat="2020035" />
+	<fish id="12000024" habitat="2020035" />
+	<fish id="12000025" habitat="2020035" />
 	<fish id="13000003" habitat="3000004" />
 	<fish id="13000005" habitat="3000004" />
 	<fish id="13000007" habitat="3000004" />
 	<fish id="13000009" habitat="3000004" />
-	<fish id="13000010" habitat="2020036" />
+	<fish id="13000010" habitat="2020035" />
 	<fish id="13000011" habitat="2020036" />
 	<fish id="13000012" habitat="2020036" />
 	<fish id="13000013" habitat="2020036" />
-	<fish id="13000014" habitat="2020036" />
+	<fish id="13000014" habitat="2020035" />
+	<fish id="13000015" habitat="2020035" />
+	<fish id="13000016" habitat="2020035" />
+	<fish id="13000017" habitat="2020036" />
 	<fish id="14000001" habitat="3000134, 3000014" />
 	<fish id="14000002" habitat="2000279, 2000169" />
 	<fish id="14000003" habitat="2000187, 3000024, 3000089, 3000090, 3000101, 3000117, 3000165, 3000006, 3000007, 3000009" />
@@ -175,11 +182,13 @@
 	<fish id="14000019" habitat="2000377, 3000043, 3000092, 3000004" />
 	<fish id="14000020" habitat="2000377, 3000043, 3000092, 3000004" />
 	<fish id="14000022" habitat="2020003" />
-	<fish id="14000023" habitat="2020003" />
+	<fish id="14000023" habitat="2020051" />
 	<fish id="14000024" habitat="2020003" />
-	<fish id="14000025" habitat="2020051" />
+	<fish id="14000025" habitat="2020003" />
 	<fish id="14000026" habitat="2020051" />
-	<fish id="14000027" habitat="2020051" />
+	<fish id="14000027" habitat="2020003" />
+	<fish id="14000028" habitat="2020051" />
+	<fish id="14000029" habitat="2020051" />
 	<fish id="15000001" habitat="2000148" />
 	<fish id="15000002" habitat="3000135" />
 	<fish id="15000003" habitat="3000143" />
@@ -188,15 +197,13 @@
 	<fish id="16000001" habitat="2020004, 2020010" />
 	<fish id="16000002" habitat="2020017" />
 	<fish id="16000003" habitat="2020009, 2020018" />
-	<fish id="16000004" habitat="2020017" />
-	<fish id="16000005" habitat="2020009, 2020018" />
+	<fish id="16000004" habitat="2020004, 2020010" />
+	<fish id="16000005" habitat="2020017" />
 	<fish id="16000006" habitat="2020009, 2020018" />
 	<fish id="16000007" habitat="2020004, 2020010" />
-	<fish id="16000008" habitat="2020004, 2020010" />
+	<fish id="16000008" habitat="2020009, 2020018" />
 	<fish id="16000009" habitat="2020017" />
-	<fish id="17000001" habitat="" />
-	<fish id="17000002" habitat="" />
-	<fish id="17000003" habitat="" />
+	<fish id="16000010" habitat="2020018" />
 	<fish id="99000001" habitat="" />
 	<fish id="99000002" habitat="" />
 	<fish id="99000003" habitat="" />

@@ -44,6 +44,7 @@
 		<onEnter> 
 			<action name="카메라경로를선택한다" arg1="4001,4002" arg2="0"/>
 			<action name="유저를경로이동시킨다" arg1="MS2PatrolData_3001"/>
+			<action name="SetSceneSkip" arg1="Skip_1" arg2="nextState"/>
 		</onEnter>
 				<condition name="WaitTick" waitTick="3000">
 					<transition state="동굴도착_02"/>
@@ -67,12 +68,24 @@
 	<state name="정리_01">
 		<onEnter>
 			<action name="SetOnetimeEffect" id="2" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/> 
+			<action name="SetSceneSkip" arg1="" arg2=""/>
 		</onEnter>
 				<condition name="WaitTick" waitTick="2000">
 					<transition state="정리_02"/>
 				</condition>	
 		<onExit> 
 		</onExit>
+    </state>
+	
+	<state name="Skip_1" >
+        <onEnter>		
+			<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_FastFadeIn.xml"/> 					
+			<action name="SetOnetimeEffect" id="2" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_SlowFade.xml"/>	
+        </onEnter>	
+				<condition name="WaitTick" waitTick="1000">
+					<transition state="정리_02"/>
+				</condition>		
+        <onExit />
     </state>
 	
 	<state name="정리_02">
@@ -130,9 +143,9 @@
 					<transition state="프리스트컷씬"/>
 			</condition>
 			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="40002793" arg3="2" arg4="50">
-					<transition state="레인저컷씬"/>
-			</condition>
-			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="40002793" arg3="2" arg4="60">
+					<transition state="레인저컷씬"/> 
+			</condition> 
+			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="40002793" arg3="2" arg4="60"> 
 					<transition state="헤비거너컷씬"/>
 			</condition>
 			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="40002793" arg3="2" arg4="70">
@@ -150,19 +163,19 @@
 			<condition name="퀘스트유저를감지하면" arg1="2001" arg2="40002793" arg3="2" arg4="110">
 					<transition state="소바컷씬"/>
 			</condition>
-		<onExit> 
-		</onExit>
-    </state>
-	
+		<onExit>  
+		</onExit>  
+    </state>    
+	   
 	<state name="나이트컷씬">
 		<onEnter>	
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_knight.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_knight.swf" movieID="1" /> 
 				</onEnter>
 				<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 					<transition state="영상재생_end"/>
 				</condition>				
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="5000">
 					<transition state="영상재생_end"/>
 				</condition>		
 		<onExit> 
@@ -172,12 +185,12 @@
 	<state name="버서커컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_berserker.swf" movieID="1" />
+			<action name="PlaySceneMovie" fileName="MasterSkill_berserker.swf" movieID="2" />
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -187,12 +200,12 @@
 	<state name="위자드컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_wizard.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_wizard.swf" movieID="3" /> 
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -202,12 +215,12 @@
 	<state name="프리스트컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_priest.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_priest.swf" movieID="4" /> 
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -217,12 +230,12 @@
 	<state name="레인저컷씬">
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_ranger.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_ranger.swf" movieID="5" /> 
 				</onEnter>
 				<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 					<transition state="영상재생_end"/>
 				</condition>				
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="5000">
 					<transition state="영상재생_end"/>
 				</condition>		
 		<onExit> 
@@ -232,12 +245,12 @@
 	<state name="헤비거너컷씬">
 		<onEnter>			
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_heavy.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_heavy.swf" movieID="6" /> 
 				</onEnter>
 				<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 					<transition state="영상재생_end"/>
 				</condition>				
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="5000">
 					<transition state="영상재생_end"/>
 				</condition>		
 		<onExit> 
@@ -247,27 +260,27 @@
 	<state name="시프컷씬">
 		<onEnter>			
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_thief.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_thief.swf" movieID="7" /> 
 				</onEnter>
 				<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 					<transition state="영상재생_end"/>
 				</condition>				
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="5000">
 					<transition state="영상재생_end"/>
 				</condition>		
 		<onExit> 
 		</onExit>
     </state>
-
+ 
 	<state name="어쌔신컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_Assassin.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_Assassin.swf" movieID="8" /> 
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -277,12 +290,12 @@
 	<state name="룬블컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_RBlader.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_RBlader.swf" movieID="9" /> 
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -292,12 +305,12 @@
 	<state name="스커컷씬">
 		<onEnter>				
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_striker.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_striker.swf" movieID="10" /> 
 				</onEnter>
 				<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 					<transition state="영상재생_end"/>
 				</condition>				
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="5000">
 					<transition state="영상재생_end"/>
 				</condition>		
 		<onExit> 
@@ -307,12 +320,12 @@
 	<state name="소바컷씬">  
 		<onEnter>
 			<action name="CreateWidget" arg1="SceneMovie"/>
-			<action name="PlaySceneMovie" fileName="jobChange_soul.swf" movieID="1" /> 
+			<action name="PlaySceneMovie" fileName="MasterSkill_soul.swf" movieID="11" /> 
 		</onEnter>
 			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
 				<transition state="영상재생_end"/>
 			</condition>				
-			<condition name="WaitTick" waitTick="8000">
+			<condition name="WaitTick" waitTick="5000">
 				<transition state="영상재생_end"/>
 			</condition>
 		<onExit> 
@@ -323,7 +336,7 @@
 		<onEnter>
 			<action name="SetOnetimeEffect" id="30" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_FastWhiteOutFast.xml"/> 		
 		</onEnter>
-			<condition name="WaitTick" waitTick="3000">
+			<condition name="WaitTick" waitTick="2000">
 					<transition state="영상재생_end02"/>
 				</condition>
 		<onExit> 

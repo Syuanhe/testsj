@@ -53,6 +53,13 @@
 				<rank score="2100" />
 				<rank score="2750" />
 			</group>
+			<group id="10" desc="chaosRaidNormal" maxScore="1250">
+				<rank score="0" />
+				<rank score="500" />
+				<rank score="750" />
+				<rank score="950" />
+				<rank score="1150" />
+			</group>
 		</MissionRank>
 	</DungeonConfig>
 	<ReverseRaidConfig startDate="2017-07-23" periodDays="7">

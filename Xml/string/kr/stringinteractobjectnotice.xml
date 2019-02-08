@@ -1267,6 +1267,10 @@
 	<key id="10001297" name="" feature="FameContents" />
 	<key id="10001298" name="" feature="FameContents" />
 	<key id="10001299" name="" feature="FameContents" />
+	<key id="10001306" name="" feature="Kritias_2018_12" />
+	<key id="10001307" name="" feature="Kritias_2018_12" />
+	<key id="10001308" name="" feature="Kritias_2018_12" />
+	<key id="10001310" name="" feature="Kritias_2018_12" />
 	<key id="10001311" name="" feature="FameContents" />
 	<key id="10001313" name="" feature="FameContents" />
 	<key id="10001314" name="" feature="TreasureMap01" />
@@ -1281,6 +1285,9 @@
 	<key id="10001331" name="" feature="TreasureMap01" />
 	<key id="10001332" name="" feature="TreasureMap01" />
 	<key id="10001333" name="" feature="TreasureMap01" />
+	<key id="10001334" name="" feature="Kritias_2018_12" />
+	<key id="10001335" name="" feature="Kritias_2018_12" />
+	<key id="10001336" name="" feature="Kritias_2018_12" />
 	<key id="10001337" name="" feature="TreasureMap01" />
 	<key id="10001338" name="" feature="TreasureMap01" />
 	<key id="10001339" name="" feature="TreasureMap01" />
@@ -1297,6 +1304,38 @@
 	<key id="10001350" name="" feature="FameContents_EP1_01" />
 	<key id="10001351" name="" feature="FameContents_EP1_02" />
 	<key id="10001352" name="" feature="FameContents_EP1_02" />
+	<key id="10001353" name="" feature="Kritias_2018_12" />
+	<key id="10001354" name="" feature="Kritias_2018_12" />
+	<key id="10001355" name="" feature="Kritias_2018_12" />
+	<key id="10001356" name="" feature="Kritias_2018_12" />
+	<key id="10001357" name="" feature="Kritias_2018_12" />
+	<key id="10001358" name="" feature="Kritias_2018_12" />
+	<key id="10001359" name="" feature="Kritias_2018_12" />
+	<key id="10001360" name="" feature="Kritias_2018_12" />
+	<key id="10001361" name="" feature="Kritias_2018_12" />
+	<key id="10001362" name="" feature="Kritias_2018_12" />
+	<key id="10001363" name="" feature="Kritias_2018_12" />
+	<key id="10001364" name="" feature="Kritias_2018_12" />
+	<key id="10001365" name="" feature="Kritias_2018_12" />
+	<key id="10001366" name="" feature="Kritias_2018_12" />
+	<key id="10001367" name="" feature="Kritias_2018_12" />
+	<key id="10001368" name="" feature="Kritias_2018_12" />
+	<key id="10001369" name="" feature="Kritias_2018_12" />
+	<key id="10001370" name="" feature="Kritias_2018_12" />
+	<key id="10001371" name="" feature="Kritias_2018_12" />
+	<key id="10001372" name="" feature="Kritias_2018_12" />
+	<key id="10001373" name="" feature="Kritias_2018_12" />
+	<key id="10001374" name="" feature="Kritias_2018_12" />
+	<key id="10001375" name="" feature="Kritias_2018_12" />
+	<key id="10001376" name="" feature="Kritias_2018_12" />
+	<key id="10001377" name="" feature="Kritias_2018_12" />
+	<key id="10001378" name="" feature="Kritias_2018_12" />
+	<key id="10001379" name="" feature="Kritias_2018_12" />
+	<key id="10001380" name="" feature="Kritias_2018_12" />
+	<key id="10001381" name="" feature="Kritias_2018_12" />
+	<key id="10001382" name="" feature="Kritias_2018_12" />
+	<key id="10001383" name="" feature="Kritias_2018_12" />
+	<key id="10001384" name="" feature="Kritias_2018_12" />
 	<key id="10001385" name="" />
 	<key id="10001386" name="" />
 	<key id="10001387" name="" />
@@ -1308,6 +1347,26 @@
 	<key id="10001393" name="" />
 	<key id="10001394" name="" />
 	<key id="10001395" name="" />
+	<key id="10001396" name="" feature="Kritias_Epic01" />
+	<key id="10001397" name="" feature="Kritias_Epic01" />
+	<key id="10001398" name="" feature="Kritias_Epic01" />
+	<key id="10001399" name="" feature="Kritias_Epic01" />
+	<key id="10001400" name="" feature="Kritias_Epic01" />
+	<key id="10001401" name="" feature="Kritias_2018_12" />
+	<key id="10001402" name="" feature="Kritias_2018_12" />
+	<key id="10001403" name="" feature="Kritias_2018_12" />
+	<key id="10001404" name="" feature="Kritias_2018_12" />
+	<key id="10001405" name="" feature="Kritias_2018_12" />
+	<key id="10001406" name="" feature="Kritias_2018_12" />
+	<key id="10001407" name="" feature="Kritias_2018_12" />
+	<key id="10001408" name="" feature="Kritias_2018_12" />
+	<key id="10001409" name="" feature="Kritias_2018_12" />
+	<key id="10001410" name="" feature="Kritias_2018_12" />
+	<key id="10001411" name="" feature="Kritias_2018_12" />
+	<key id="10001412" name="" feature="Kritias_2018_12" />
+	<key id="10001413" name="" feature="Kritias_2018_12" />
+	<key id="10001414" name="" feature="Kritias_2018_12" />
+	<key id="10001415" name="" feature="Kritias_2018_12" />
 	<key id="10002011" name="" feature="Mastery05" />
 	<key id="10002012" name="" feature="Mastery05" />
 	<key id="10002013" name="" />
@@ -1427,7 +1486,37 @@
 	<key id="10002127" name="" feature="LapentaDungeon" />
 	<key id="10002128" name="" feature="LapentaDungeon" />
 	<key id="10002129" name="" feature="LapentaDungeon" />
+	<key id="10002131" name="" feature="Gigantica01" />
 	<key id="10002132" name="" />
+	<key id="10002133" name="" feature="Fieldwar01" />
+	<key id="10002134" name="" feature="Fieldwar01" />
+	<key id="10002135" name="" feature="Fieldwar01" />
+	<key id="10002136" name="" feature="Fieldwar01" />
+	<key id="10002137" name="" feature="Fieldwar01" />
+	<key id="10002138" name="" feature="Fieldwar01" />
+	<key id="10002139" name="" feature="Fieldwar01" />
+	<key id="10002140" name="" feature="Fieldwar01" />
+	<key id="10002141" name="" feature="Fieldwar01" />
+	<key id="10002142" name="" feature="Fieldwar01" />
+	<key id="10002143" name="" feature="Fieldwar01" />
+	<key id="10002144" name="" feature="Fieldwar01" />
+	<key id="10002145" name="" feature="Fieldwar01" />
+	<key id="10002146" name="" feature="Fieldwar01" />
+	<key id="10002147" name="" feature="Fieldwar01" />
+	<key id="10002148" name="" feature="Fieldwar01" />
+	<key id="10002149" name="" feature="Kritias_Paika01" />
+	<key id="10002150" name="" feature="Kritias_Paika01" />
+	<key id="10002151" name="" feature="Kritias_Paika01" />
+	<key id="10002152" name="" feature="Kritias_Paika01" />
+	<key id="10002161" name="" feature="Fieldwar01" />
+	<key id="10002162" name="" feature="Fieldwar01" />
+	<key id="10002163" name="" feature="Fieldwar01" />
+	<key id="10002164" name="" feature="Fieldwar01" />
+	<key id="10002165" name="" feature="Fieldwar01" />
+	<key id="10002166" name="" feature="Fieldwar01" />
+	<key id="10002167" name="" feature="Fieldwar01" />
+	<key id="10002168" name="" feature="Fieldwar01" />
+	<key id="10003001" name="" feature="Gigantica01" />
 	<key id="11000001" name="" />
 	<key id="11000002" name="" />
 	<key id="11000003" name="" />
@@ -1496,9 +1585,22 @@
 	<key id="11000094" name="" />
 	<key id="11000095" name="" />
 	<key id="11000096" name="" locale="NA" />
+	<key id="11000097" name="" feature="Kritias_2018_12" />
+	<key id="11000098" name="" feature="Kritias_2018_12" />
+	<key id="11000099" name="" feature="Kritias_2018_12" />
+	<key id="11000100" name="" feature="Kritias_2018_12" />
+	<key id="11000101" name="" feature="Kritias_2018_12" />
+	<key id="11000102" name="" feature="Kritias_2018_12" />
+	<key id="11000103" name="" feature="Kritias_2018_12" />
+	<key id="11000104" name="" feature="Kritias_2018_12" />
+	<key id="11000105" name="" feature="Kritias_2018_12" />
+	<key id="11000106" name="" feature="Kritias_2018_12" />
+	<key id="11000107" name="" feature="Kritias_2018_12" />
+	<key id="11000108" name="" feature="Kritias_2018_12" />
 	<key id="11000109" name="" locale="NA" />
 	<key id="11000110" name="" />
 	<key id="11000111" name="" />
+	<key id="11000112" name="" />
 	<key id="11100001" name="" />
 	<key id="11100002" name="" />
 	<key id="11100003" name="" />
@@ -1587,6 +1689,79 @@
 	<key id="12000055" name="" />
 	<key id="12000056" name="" />
 	<key id="12000057" name="" />
+	<key id="12000058" name="" feature="Kritias_2018_12" />
+	<key id="12000059" name="" feature="Kritias_2018_12" />
+	<key id="12000060" name="" feature="Kritias_2018_12" />
+	<key id="12000061" name="" feature="Kritias_2018_12" />
+	<key id="12000062" name="" feature="Kritias_2018_12" />
+	<key id="12000063" name="" feature="Kritias_2018_12" />
+	<key id="12000064" name="" feature="Kritias_2018_12" />
+	<key id="12000065" name="" feature="Kritias_2018_12" />
+	<key id="12000074" name="" feature="Kritias_2018_12" />
+	<key id="12000075" name="" feature="Kritias_2018_12" />
+	<key id="12000076" name="" feature="Kritias_2018_12" />
+	<key id="12000077" name="" feature="Kritias_2018_12" />
+	<key id="12000078" name="" feature="Kritias_2018_12" />
+	<key id="12000079" name="" feature="Kritias_2018_12" />
+	<key id="12000082" name="" feature="Kritias_2018_12" />
+	<key id="12000083" name="" feature="Kritias_2018_12" />
+	<key id="12000084" name="" feature="Fieldwar01" />
+	<key id="12000085" name="" feature="Fieldwar01" />
+	<key id="12000086" name="" feature="Fieldwar01" />
+	<key id="12000087" name="" feature="Fieldwar01" />
+	<key id="12000088" name="" feature="Kritias_2018_12" />
+	<key id="12000089" name="" feature="Kritias_2018_12" />
+	<key id="12000090" name="" feature="Kritias_2018_12" />
+	<key id="12000091" name="" feature="Kritias_2018_12" />
+	<key id="12000092" name="" feature="Kritias_2018_12" />
+	<key id="12000093" name="" feature="Kritias_2018_12" />
+	<key id="12000094" name="" feature="Fieldwar01" />
+	<key id="12000095" name="" feature="Fieldwar01" />
+	<key id="12000096" name="" feature="Fieldwar01" />
+	<key id="12000097" name="" feature="Fieldwar01" />
+	<key id="12000098" name="" feature="Kritias_2018_12" />
+	<key id="12000099" name="" feature="Fieldwar01" />
+	<key id="12000100" name="" feature="Fieldwar01" />
+	<key id="12000101" name="" feature="Fieldwar01" />
+	<key id="12000102" name="" feature="Fieldwar01" />
+	<key id="12000103" name="" feature="Fieldwar01" />
+	<key id="12000104" name="" feature="Fieldwar01" />
+	<key id="12000105" name="" feature="Fieldwar01" />
+	<key id="12000106" name="" feature="Fieldwar01" />
+	<key id="12000107" name="" feature="Fieldwar01" />
+	<key id="12000108" name="" feature="Fieldwar01" />
+	<key id="12000109" name="" feature="Fieldwar01" />
+	<key id="12000110" name="" feature="Fieldwar01" />
+	<key id="12000111" name="" feature="Fieldwar01" />
+	<key id="12000112" name="" feature="Fieldwar01" />
+	<key id="12000113" name="" feature="Fieldwar01" />
+	<key id="12000114" name="" feature="Fieldwar01" />
+	<key id="12000115" name="" feature="Fieldwar01" />
+	<key id="12000116" name="" feature="Fieldwar01" />
+	<key id="12000117" name="" feature="Fieldwar01" />
+	<key id="12000118" name="" feature="Fieldwar01" />
+	<key id="12000200" name="" feature="Kritias_2018_12" />
+	<key id="12000201" name="" feature="Kritias_2018_12" />
+	<key id="12000202" name="" feature="Kritias_2018_12" />
+	<key id="12000221" name="" feature="Kritias_2018_12" />
+	<key id="12000222" name="" feature="Kritias_2018_12" />
+	<key id="12000223" name="" feature="Kritias_2018_12" />
+	<key id="12000224" name="" feature="Kritias_2018_12" />
+	<key id="12000231" name="" feature="Kritias_2018_12" />
+	<key id="12000232" name="" feature="Kritias_2018_12" />
+	<key id="12000233" name="" feature="Kritias_2018_12" />
+	<key id="12000234" name="" feature="Kritias_2018_12" />
+	<key id="12000241" name="" feature="Kritias_2018_12" />
+	<key id="12000242" name="" feature="Kritias_2018_12" />
+	<key id="12000243" name="" feature="Kritias_2018_12" />
+	<key id="12000244" name="" feature="Kritias_2018_12" />
+	<key id="12000250" name="" feature="Kritias_2018_12" />
+	<key id="12000251" name="" feature="Kritias_2018_12" />
+	<key id="12000252" name="" feature="Kritias_2018_12" />
+	<key id="12000261" name="" feature="Kritias_2018_12" />
+	<key id="12000262" name="" feature="Kritias_2018_12" />
+	<key id="12000263" name="" feature="Kritias_2018_12" />
+	<key id="12000264" name="" feature="Kritias_2018_12" />
 	<key id="13000001" name="" />
 	<key id="13000002" name="" />
 	<key id="13000003" name="" />
@@ -2748,6 +2923,41 @@
 	<key id="14001144" name="" feature="BattleField61to65" />
 	<key id="14001145" name="" feature="BattleField61to65" />
 	<key id="14001146" name="" feature="BattleField61to65" />
+	<key id="14001147" name="" feature="Kritias_2018_12" />
+	<key id="14001148" name="" feature="Kritias_2018_12" />
+	<key id="14001149" name="" feature="Kritias_2018_12" />
+	<key id="14001150" name="" feature="Kritias_2018_12" />
+	<key id="14001151" name="" feature="Kritias_2018_12" />
+	<key id="14001152" name="" feature="Kritias_2018_12" />
+	<key id="14001153" name="" feature="Kritias_2018_12" />
+	<key id="14001154" name="" feature="Kritias_2018_12" />
+	<key id="14001155" name="" feature="Kritias_2018_12" />
+	<key id="14001156" name="" feature="Kritias_2018_12" />
+	<key id="14001157" name="" feature="Kritias_2018_12" />
+	<key id="14001161" name="" feature="Kritias_2018_12" />
+	<key id="14001162" name="" feature="Kritias_2018_12" />
+	<key id="14001163" name="" feature="Kritias_2018_12" />
+	<key id="14001164" name="" feature="Kritias_2018_12" />
+	<key id="14001165" name="" feature="Kritias_2018_12" />
+	<key id="14001166" name="" feature="Kritias_2018_12" />
+	<key id="14001167" name="" feature="Kritias_2018_12" />
+	<key id="14001170" name="" feature="Kritias_2018_12" />
+	<key id="14001171" name="" feature="Kritias_2018_12" />
+	<key id="14001172" name="" feature="Kritias_2018_12" />
+	<key id="14001173" name="" feature="Kritias_2018_12" />
+	<key id="14001174" name="" feature="Kritias_2018_12" />
+	<key id="14001175" name="" feature="Kritias_2018_12" />
+	<key id="14001176" name="" feature="Kritias_2018_12" />
+	<key id="14001177" name="" feature="Kritias_2018_12" />
+	<key id="14001178" name="" feature="Kritias_2018_12" />
+	<key id="14001179" name="" feature="Kritias_2018_12" />
+	<key id="14001180" name="" feature="Kritias_2018_12" />
+	<key id="14001181" name="" feature="Kritias_2018_12" />
+	<key id="14001182" name="" feature="Kritias_2018_12" />
+	<key id="14001183" name="" feature="Kritias_2018_12" />
+	<key id="14001184" name="" feature="Kritias_2018_12" />
+	<key id="14001185" name="" feature="Kritias_2018_12" />
+	<key id="14001186" name="" feature="Kritias_2018_12" />
 	<key id="15000001" name="" feature="SurvivalContents01" />
 	<key id="15000002" name="" feature="SurvivalContents01" />
 	<key id="19000001" name="" />
@@ -3007,8 +3217,32 @@
 	<key id="20000205" name="" feature="BattleField61to65" />
 	<key id="20000206" name="" feature="BattleField61to65" />
 	<key id="20000207" name="" feature="BattleField61to65" />
+	<key id="20000208" name="" feature="Kritias_2018_12" />
+	<key id="20000209" name="" feature="Kritias_2018_12" />
+	<key id="20000211" name="" feature="Kritias_2018_12" />
+	<key id="20000212" name="" feature="Kritias_2018_12" />
+	<key id="20000214" name="" feature="Kritias_2018_12" />
+	<key id="20000215" name="" feature="Kritias_2018_12" />
+	<key id="20000216" name="" feature="Kritias_2018_12" />
+	<key id="20000217" name="" feature="Kritias_2018_12" />
 	<key id="20000218" name="" feature="LapentaFrontierQuest" />
 	<key id="20000219" name="" feature="EyeOfLapentaQuest" />
+	<key id="20000220" name="" feature="Kritias_2018_12" />
+	<key id="20000221" name="" feature="Kritias_2018_12" />
+	<key id="20000222" name="" feature="Kritias_2018_12" />
+	<key id="20000223" name="" feature="Kritias_2018_12" />
+	<key id="20000224" name="" feature="Kritias_2018_12" />
+	<key id="20000225" name="" feature="Kritias_2018_12" />
+	<key id="20000226" name="" feature="Kritias_2018_12" />
+	<key id="20000227" name="" feature="Kritias_2018_12" />
+	<key id="20000228" name="" feature="Kritias_2018_12" />
+	<key id="20000229" name="" feature="Kritias_2018_12" />
+	<key id="20000230" name="" feature="Kritias_2018_12" />
+	<key id="20000231" name="" feature="Kritias_2018_12" />
+	<key id="20000232" name="" feature="Kritias_2018_12" />
+	<key id="20000233" name="" feature="Kritias_2018_12" />
+	<key id="20000234" name="" feature="Kritias_2018_12" />
+	<key id="20000235" name="" feature="Kritias_2018_12" />
 	<key id="30000001" name="" />
 	<key id="30000002" name="" />
 	<key id="31000001" name="" />

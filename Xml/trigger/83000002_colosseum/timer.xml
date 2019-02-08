@@ -39,7 +39,7 @@
 	<state name="스테이지1">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer" arg2="180" arg3="1"/>
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="101" durationTick="180000" npcHpStep="100" />			
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="101" durationTick="180000" npcHpStep="100" />			 -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크1"/>
@@ -60,7 +60,7 @@
 	<state name="스테이지2">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer2" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="102" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="102" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크2"/>
@@ -81,7 +81,7 @@
 	<state name="스테이지3">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer3" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="103" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="103" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크3"/>
@@ -102,7 +102,7 @@
 	<state name="스테이지4">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer4" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="104" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="104" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크4"/>
@@ -122,7 +122,7 @@
 	<state name="스테이지5">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer5" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="105" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="105" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크5"/>
@@ -142,7 +142,7 @@
 	<state name="스테이지6">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer6" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="106" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="106" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크6"/>
@@ -162,7 +162,7 @@
 	<state name="스테이지7">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer7" arg2="180" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="107" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="107" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크7"/>
@@ -182,7 +182,7 @@
 	<state name="스테이지8">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer8" arg2="300" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="108" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="108" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크8"/>
@@ -202,7 +202,7 @@
 	<state name="스테이지9">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer9" arg2="300" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="109" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="109" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크9"/>
@@ -222,7 +222,7 @@
 	<state name="스테이지10">
 		<onEnter>
 			<action name="타이머를설정한다" arg1="LimitTimer10" arg2="300" arg3="1" />
-			<action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="110" durationTick="180000" npcHpStep="100" />
+			<!-- <action name="SetNpcDuelHpBar" isOpen="true" spawnPointID="110" durationTick="180000" npcHpStep="100" /> -->
 		</onEnter>
 		<condition name="무조건" >
 			<transition state="타이머체크10"/>

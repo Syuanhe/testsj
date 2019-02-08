@@ -55,6 +55,14 @@
 	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21100057" desc="라펜샤드 합성 {0}회 시도하기" complete="라펜샤드 합성 {0}회 시도!" manualDesc="" manualComplete="" feature="Lapenshard01" />
+	<achieve id="21100058" desc="라펜샤드 합성 {0}회 실패하기" complete="라펜샤드 합성 {0}회 실패!" manualDesc="" manualComplete="" feature="Lapenshard01" />
+	<achieve id="21100059" desc="라펜샤드 합성 {0}회 성공하기" complete="라펜샤드 합성 {0}회 성공!" manualDesc="" manualComplete="" feature="Lapenshard01" />
+	<achieve id="21100060" desc="" complete="" manualDesc="라펜샤드 6단계 합성 성공하기" manualComplete="라펜샤드 6단계 합성 성공" feature="Lapenshard01" />
+	<achieve id="21100061" desc="" complete="" manualDesc="라펜샤드 7단계 합성 성공하기" manualComplete="라펜샤드 7단계 합성 성공" feature="Lapenshard01" />
+	<achieve id="21100062" desc="" complete="" manualDesc="라펜샤드 8단계 합성 성공하기" manualComplete="라펜샤드 8단계 합성 성공" feature="Lapenshard01" />
+	<achieve id="21100063" desc="" complete="" manualDesc="라펜샤드 9단계 합성 성공하기" manualComplete="라펜샤드 9단계 합성 성공" feature="Lapenshard01" />
+	<achieve id="21100064" desc="" complete="" manualDesc="라펜샤드 10단계 합성 성공하기" manualComplete="라펜샤드 10단계 합성 성공" feature="Lapenshard01" />
 	<achieve id="21100065" desc="세인츠 나이트 마스터 스킬 {0}회 사용하기" complete="세인츠 나이트 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
 	<achieve id="21100066" desc="블러디 버서커 마스터 스킬 {0}회 사용하기" complete="블러디 버서커 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
 	<achieve id="21100067" desc="매지컬 위자드 마스터 스킬 {0}회 사용하기" complete="매지컬 위자드 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
@@ -66,6 +74,7 @@
 	<achieve id="21100073" desc="아케인 룬 블레이더 마스터 스킬 {0}회 사용하기" complete="아케인 룬 블레이더 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
 	<achieve id="21100074" desc="얼티밋 스트라이커 마스터 스킬 {0}회 사용하기" complete="얼티밋 스트라이커 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
 	<achieve id="21100075" desc="미스틱 소울바인더 마스터 스킬 {0}회 사용하기" complete="미스틱 소울바인더 마스터 스킬 {0}회 사용" manualDesc="" manualComplete="" feature="JobChange_02" />
+	<achieve id="21100076" desc="" complete="" manualDesc='퀘스트 &quot;$quest:40002795$&quot; 완료하기' manualComplete='퀘스트 &quot;$quest:40002795$&quot; 완료하기' feature="JobChange_02" />
 	<achieve id="21210001" desc="몬스터 {0}마리 처치하기!" complete="지금까지 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21210002" desc="식물 몬스터 {0}마리 처치하기!" complete="지금까지 식물 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21210003" desc="야수 몬스터 {0}마리 처치하기!" complete="지금까지 야수 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" feature="Season1" />
@@ -91,6 +100,9 @@
 	<achieve id="21210024" desc="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치하기" complete="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
 	<achieve id="21210025" desc="$map:02010030$의 몬스터 처치하기" complete="$map:02010030$의 몬스터 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
 	<achieve id="21210026" desc="$map:02010010$의 몬스터 {0}마리 처치하기" complete="$map:02010010$의 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21210027" desc="크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="21210028" desc="크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="21210029" desc="크리티아스 대륙에서 벌레 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 벌레 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="21220001" desc="$npc:22300149$ {0}번 처치하기" complete="지금까지 $npc:22300149$ {0}번 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21220002" desc="$npc:22000022$ {0}번 처치하기" complete="지금까지 $npc:22000022$ {0}번 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21220003" desc="$npc:22300105$ {0}번 처치하기" complete="지금까지 $npc:22300105$ {0}번 처치!" manualDesc="" manualComplete="" feature="Season1" />
@@ -125,6 +137,7 @@
 	<achieve id="21220034" desc='모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002701$ {0}번 처치하기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002701$ {0}번 처치!' manualDesc="" manualComplete="" feature="ShrineOfGuidance" />
 	<achieve id="21220035" desc='&quot;$dungeonTitle:21022001$&quot;에서 $npc:24003007$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:21022001$&quot;에서 $npc:24003007$ {0}번 처치!' manualDesc="" manualComplete="" feature="PirateOcean" />
 	<achieve id="21220036" desc='월드 인베이젼 : &quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 월드 인베이젼 : &quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" />
+	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="NA" />
 	<achieve id="21220037" desc='모험[일반] : &quot;$dungeonTitle:21019001$&quot;에서 $npc:24001601$ {0}회 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21019001$&quot;에서 $npc:24001601$ {0}회 처치!' manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="21220038" desc="$npc:22300105$ {0}회 처치하기" complete="$npc:22300105$ {0}회 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21220039" desc='&quot;$dungeonTitle:23031002$&quot;에서 $npc:21420107$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:23031002$&quot;에서 $npc:21420107$ {0}번 처치!' manualDesc="" manualComplete="" feature="ChronicleDungeon60_01" />
@@ -265,6 +278,15 @@
 	<achieve id="21230135" desc='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
 	<achieve id="21230136" desc='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
 	<achieve id="21230137" desc='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500850$을 {0}번 처치하기' complete='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500850$을 {0}번 처치' manualDesc="" manualComplete="" feature="PinkBean01" />
+	<achieve id="21230141" desc="" complete="" manualDesc="아이 오브 라펜타 던전 관련 트로피 2종 달성" manualComplete="아이 오브 라펜타 던전 관련 트로피 2종 달성하기" feature="LapentaDungeon" />
+	<achieve id="21230142" desc='&quot;$dungeonTitle:23038002$&quot;에서 $npc:23090006$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:23038002$&quot;에서 $npc:23090006$ {0}번 처치!' manualDesc="" manualComplete="" feature="Kritias_Balrog01" />
+	<achieve id="21230143" desc='&quot;$dungeonTitle:23037002$&quot;에서 $npc:23000301$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:23037002$&quot;에서 $npc:23000301$ {0}번 처치!' manualDesc="" manualComplete="" feature="Kritias_Paika01" />
+	<achieve id="21230144" desc='&quot;$map:02020062$&quot;에서 $npc:25100105$ {0}번 처치하기' complete='지금까지 &quot;$map:02020062$&quot;에서 $npc:25100105$ {0}번 처치!' manualDesc="" manualComplete="" feature="Fieldwar01" />
+	<achieve id="21230145" desc='&quot;$map:02020061$&quot;에서 $npc:25100005$ {0}번 처치하기' complete='지금까지 &quot;$map:02020061$&quot;에서 $npc:25100005$ {0}번 처치!' manualDesc="" manualComplete="" feature="Fieldwar01" />
+	<achieve id="21230146" desc='&quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 처치하기' complete='지금까지 &quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 처치!' manualDesc="" manualComplete="" feature="Gigantica01" />
+	<achieve id="21230147" desc='&quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 소환하기' complete='지금까지 &quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 소환' manualDesc="" manualComplete="" feature="Gigantica01" />
+	<achieve id="21230148" desc='&quot;$map:02020051$&quot;에서 펜텀디스트로이어 {0}번 탑승하기' complete='지금까지 &quot;$map:02020051$&quot;에서 펜텀디스트로이어 {0}번 탑승' manualDesc="" manualComplete="" feature="Gigantica01" />
+	<achieve id="21230149" desc='&quot;$map:02020097$&quot;에서 $npc:21803500$ {0}번 발사하기' complete='지금까지 &quot;$map:02020097$&quot;에서 $npc:21803500$ {0}번 발사!' manualDesc="" manualComplete="" feature="Kritias_Balrog01" />
 	<achieve id="21231001" desc="나의 마지막 일격으로 $npc:23000024$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000024$ {0}회 처치" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21231002" desc="나의 마지막 일격으로 $npc:23000018$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000018$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21231003" desc="나의 마지막 일격으로 $npc:23000019$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000019$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" />
@@ -316,6 +338,11 @@
 	<achieve id="21231049" desc='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000116$ {0}회 처치하기' complete='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000116$ {0}회 처치' manualDesc="" manualComplete="" feature="LapentaDungeon" />
 	<achieve id="21231050" desc='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000117$ {0}회 처치하기' complete='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000117$ {0}회 처치' manualDesc="" manualComplete="" feature="LapentaDungeon" />
 	<achieve id="21231051" desc='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000118$ {0}회 처치하기' complete='&quot;$dungeonTitle:27003001$&quot;에서 나의 마지막 일격으로 $npc:23000118$ {0}회 처치' manualDesc="" manualComplete="" feature="LapentaDungeon" />
+	<achieve id="21231052" desc='&quot;$dungeonTitle:23038002$&quot;에서 나의 마지막 일격으로 $npc:23090006$ {0}회 처치하기' complete='&quot;$dungeonTitle:23038002$&quot;에서 나의 마지막 일격으로 $npc:23090006$ {0}회 처치' manualDesc="" manualComplete="" feature="Kritias_Balrog01" />
+	<achieve id="21231053" desc='&quot;$dungeonTitle:23037002$&quot;에서 나의 마지막 일격으로 $npc:23000301$ {0}회 처치하기' complete='&quot;$dungeonTitle:23037002$&quot;에서 나의 마지막 일격으로 $npc:23000301$ {0}회 처치' manualDesc="" manualComplete="" feature="Kritias_Paika01" />
+	<achieve id="21231054" desc='&quot;$map:02020062$&quot;에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치하기' complete='&quot;$map:02020062$&quot;에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar01" />
+	<achieve id="21231055" desc='&quot;$map:02020061$&quot;에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치하기' complete='&quot;$map:02020061$&quot;에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar01" />
+	<achieve id="21231056" desc='&quot;$map:02020051$&quot;에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치하기' complete='&quot;$map:02020051$&quot;에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치' manualDesc="" manualComplete="" feature="Gigantica01" />
 	<achieve id="21232001" desc="$npc:22000059$의 침에 {0}번 맞기" complete="지금까지 $npc:22000059$의 침에 {0}번 맞음" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21232002" desc="$npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔리기" complete="지금까지 $npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔림" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21232003" desc="" complete="" manualDesc="$npc:22090107$의 공격을 받아 작아지기" manualComplete="$npc:22090107$의 공격을 받아 작아지기" feature="Season2" />
@@ -339,6 +366,7 @@
 	<achieve id="21233017" desc='모험[어려움] : &quot;$dungeonTitle:20004002$&quot;에서 $npc:23090005$$pp:가,이$ 휘두른 죽음의 갈고리에 맞아 비석에 {0}번 깔리기' complete='지금까지 모험[어려움] : &quot;$dungeonTitle:20004002$&quot;에서 $npc:23090005$$pp:가,이$ 휘두른 죽음의 갈고리에 맞아 비석에 {0}번 깔림' manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="21233018" desc="$npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러지기" complete="지금까지 $npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러짐" manualDesc="" manualComplete="" feature="Zakum01" />
 	<achieve id="21233019" desc="$npc:23000071$에게서 죽음의 선고 {0}번 받기" complete="지금까지 $npc:23000071$에게서 죽음의 선고 {0}번 받기" manualDesc="" manualComplete="" feature="Zakum01" />
+	<achieve id="21233021" desc="$npc:23001001$에게 맞아 {0}번 내동댕이 처지기" complete="지금까지 $npc:23001001$에게 맞아 {0}번 내동댕이 처짐" manualDesc="" manualComplete="" feature="Gigantica01" />
 	<achieve id="21240001" desc="엘리트 및 보스 몬스터 사냥 트로피 {0}개 모으기" complete="지금까지 엘리트 및 보스 몬스터 사냥 트로피 {0}개 수집!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21250001" desc="" complete="" manualDesc="8분 안에 모험[일반] : $npc:23000100$ 처치하기" manualComplete="8분 안에 모험[일반] : $npc:23000100$ 처치!" feature="Season1" locale="KR" />
 	<achieve id="21250002" desc="" complete="" manualDesc="8분 안에 모험[일반] : $npc:23000055$ 처치하기" manualComplete="8분 안에 모험[일반] : $npc:23000055$ 처치!" feature="Season1" locale="KR" />
@@ -353,13 +381,8 @@
 	<achieve id="21300008" desc="$map:65000002$에서 다른 캐릭터에게 {0}회 쓰러지기" complete="지금까지 $map:65000002$에서 다른 캐릭터에게 {0}회 쓰러짐" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21300009" desc="$map:64000001$에서 상대 길드원을 {0}회 쓰러뜨리기" complete="지금까지 $map:64000001$에서 상대 길드원을 {0}회 쓰러뜨림" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21300010" desc="$map:64000001$에서 상대 길드원에게 {0}회 쓰러지기" complete="지금까지 $map:64000001$에서 상대 길드원에게 {0}회 쓰러짐" manualDesc="" manualComplete="" feature="Season1" />
-	<achieve id="21300011" desc="$map:64000001$에서 상대 길드를 물리치고 {0}회 승리하기" complete="지금까지 $map:64000001$에서 상대 길드를 물리치고 {0}회 승리" manualDesc="" manualComplete="" feature="Season1">
-		<reward grade="4" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" feature="Season1" />
-		<reward grade="6" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" feature="Season1" />
-	</achieve>
-	<achieve id="21300012" desc="길드 챔피언십 {0}회 참가하기" complete="지금까지 길드 챔피언십 {0}회 참가" manualDesc="" manualComplete="" feature="Season1">
-		<reward grade="5" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" feature="Season1" />
-	</achieve>
+	<achieve id="21300011" desc="$map:64000001$에서 상대 길드를 물리치고 {0}회 승리하기" complete="지금까지 $map:64000001$에서 상대 길드를 물리치고 {0}회 승리" manualDesc="" manualComplete="" feature="Season1" />
+	<achieve id="21300012" desc="길드 챔피언십 {0}회 참가하기" complete="지금까지 길드 챔피언십 {0}회 참가" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21300013" desc="" complete="" manualDesc="길드 챔피언십에서 1위 달성하기 (정기 점검 시 달성)" manualComplete="길드 챔피언십에서 1위 달성" feature="Season1" />
 	<achieve id="21300014" desc="메이플 투기장 또는 이벤트 PVP에 {0}회 참가하기" complete="지금까지 메이플 투기장 또는 이벤트 PVP에 {0}회 참가" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21300015" desc="$map:65000003$에서 {0}회 승리하기" complete="지금까지 $map:65000003$에서 {0}회 승리" manualDesc="" manualComplete="" feature="Season1" />
@@ -459,6 +482,9 @@
 	<achieve id="21400034" desc="가로등 집어 휘두르기 공격 {0}회 하기" complete="지금까지 가로등 집어 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
 	<achieve id="21400035" desc="뱀 풀어 공격 {0}회 하기" complete="지금까지 뱀 풀어 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
 	<achieve id="21400036" desc="막사를 집어 던져 공격 {0}회 하기" complete="지금까지 막사를 집어 던져 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
+	<achieve id="21400037" desc="나뭇잎으로 휘두르기  공격 {0}회 하기" complete="지금까지 나뭇잎으로 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
+	<achieve id="21400038" desc="태엽 망치로 휘두르기  공격 {0}회 하기" complete="지금까지 태엽 망치로 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
+	<achieve id="21400039" desc="항아리 열매 집어 던져 공격 {0}회 하기" complete="지금까지 항아리 열매 집어 던져 공격 {0}회!" manualDesc="" manualComplete="" feature="KarkarIsland" />
 	<achieve id="22100001" desc="{0} 뛰어서 이동하기" complete="지금까지 {0} 뛰어서 이동" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22100002" desc="{0} 헤엄쳐서 이동하기" complete="지금까지 {0} 헤엄쳐서 이동" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22100003" desc="벽타고 {0} 이동하기" complete="지금까지 벽타고 {0} 이동" manualDesc="" manualComplete="" feature="Season1" />
@@ -662,10 +688,7 @@
 	<achieve id="22200191" desc="$map:02000253$에서 $npc:24000304$ {0}번 처치하기" complete="지금까지 $map:02000253$에서 $npc:24000304$ {0}번 처치하기" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="22200192" desc='모험[일반] : &quot;$dungeonTitle:21004001$&quot;에서 문 열기나 잔해 치우기 {0}번 하기' complete='모험[일반] : &quot;$dungeonTitle:21004001$&quot;에서 문 열기나 잔해 치우기 {0}번 하기' manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="22200193" desc="" complete="" manualDesc="$map:02000254$에서 $npc:11000861$ 기절시키기" manualComplete="$map:02000254$에서 $npc:11000861$ 기절시키기" feature="Season2" />
-	<achieve id="22200194" desc="모험[일반] : $map:052000002$에서 $npc:24000702$ {0}마리 처치하기" complete="모험[일반] : $map:052000002$에서 $npc:24000702$ {0}마리 처치" manualDesc="" manualComplete="" feature="Season1">
-		<reward grade="1" uiDesc="양 테마 건설 큐브 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="양 테마 건설 큐브 구매 권한 획득" feature="Season1" />
-		<reward grade="2" uiDesc="양 테마 가구 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="양 테마 가구 구매 권한 획득" feature="Season1" />
-	</achieve>
+	<achieve id="22200194" desc="모험[일반] : $map:052000002$에서 $npc:24000702$ {0}마리 처치하기" complete="모험[일반] : $map:052000002$에서 $npc:24000702$ {0}마리 처치" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22200195" desc="모험[일반] : $map:052000002$에서 풀숲에 숨은 양 {0}마리 돌려보내기" complete="모험[일반] : $map:052000002$에서 풀숲에 숨은 양 {0}마리 돌려보냄" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22200196" desc="" complete="" manualDesc="$map:02000018$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000018$에 있는 황금 보물 상자 모두 열어 봄!" feature="Season3" />
 	<achieve id="22200197" desc="" complete="" manualDesc="$map:02000133$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000133$에 있는 황금 보물 상자 모두 열어 봄!" feature="Season3" />
@@ -885,6 +908,31 @@
 	<achieve id="22200463" desc="" complete="" manualDesc="$map:02000042$에서 $npcName:11004088$$pp:와,과$ 대화하기" manualComplete="$map:02000042$에서 $npcName:11004088$$pp:와,과$ 대화함" />
 	<achieve id="22200464" desc="" complete="" manualDesc="$map:02000170$의 $npcName:11004070$ 살펴보기" manualComplete="$map:02000170$의 $npcName:11004070$ 살펴봄" />
 	<achieve id="22200465" desc="" complete="" manualDesc="$map:02000257$의 $npcName:11004098$ 살펴보기" manualComplete="$map:02000257$의 $npcName:11004098$ 살펴봄" />
+	<achieve id="22200466" desc="" complete="" manualDesc="$map:02020001$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020001$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200467" desc="" complete="" manualDesc="$map:02020003$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020003$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200468" desc="" complete="" manualDesc="$map:02020004$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020004$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200469" desc="" complete="" manualDesc="$map:02020006$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020006$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200470" desc="" complete="" manualDesc="$map:02020008$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020008$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200471" desc="" complete="" manualDesc="$map:02020009$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020009$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200472" desc="" complete="" manualDesc="$map:02020010$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020010$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200473" desc="" complete="" manualDesc="$map:02020013$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020013$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200474" desc="" complete="" manualDesc="$map:02020014$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020014$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200475" desc="" complete="" manualDesc="$map:02020016$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020016$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200476" desc="" complete="" manualDesc="$map:02020017$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020017$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200477" desc="" complete="" manualDesc="$map:02020018$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020018$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200478" desc="" complete="" manualDesc="$map:02020029$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020029$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200479" desc="" complete="" manualDesc="$map:02020030$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020030$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200480" desc="" complete="" manualDesc="$map:02020031$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020031$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200481" desc="" complete="" manualDesc="$map:02020032$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020032$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200482" desc="" complete="" manualDesc="$map:02020033$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020033$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200483" desc="" complete="" manualDesc="$map:02020034$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020034$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200484" desc="" complete="" manualDesc="$map:02020035$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020035$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200485" desc="" complete="" manualDesc="$map:02020036$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020036$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200486" desc="" complete="" manualDesc="$map:02020037$에 있는 황금 보물 상자 열어 보기" manualComplete="$map:02020037$에 있는 황금 보물 상자 열어 봄!" feature="Kritias_2018_12" />
+	<achieve id="22200488" desc="" complete="" manualDesc="크리티아스의 $map:02020041$ 발견하기" manualComplete="크리티아스의 $map:02020041$ 발견!" feature="Kritias_2018_12" />
+	<achieve id="22200489" desc="" complete="" manualDesc="크리티아스의 $map:02020030$ 발견하기" manualComplete="크리티아스의 $map:02020030$ 발견!" feature="Kritias_2018_12" />
+	<achieve id="22200490" desc="크리티아스의 키델 지역 맵 {0}개 탐험하기" complete="지금까지 크리티아스의 키델 지역 맵 {0}개 탐험" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22200492" desc="크리티아스의 키델 지역 탐험 목표 {0}개 완료하기" complete="지금까지 크리티아스의 키델 지역 탐험 목표 {0}개 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="22210001" desc="포트리스 럼블 [스카이 포트리스 함교 상층부]에서 S+랭크 받기" complete="포트리스 럼블 [스카이 포트리스 함교 상층부]에서 S+랭크 달성함." manualDesc="포트리스 럼블 [스카이 포트리스 함교 상층부]에서 S+랭크 받기" manualComplete="포트리스 럼블 [스카이 포트리스 함교 상층부]에서 S+랭크 받음." feature="FameChallengeDungeon" />
 	<achieve id="22210002" desc="포트리스 럼블 [트라이아 근위대 체력 단련장]에서 S+랭크 받기" complete="포트리스 럼블 [트라이아 근위대 체력 단련장]에서 S+랭크 달성함." manualDesc="포트리스 럼블 [트라이아 근위대 체력 단련장]에서 S+랭크 받기" manualComplete="포트리스 럼블 [트라이아 근위대 체력 단련장]에서 S+랭크 받음." feature="FameChallengeDungeon" />
 	<achieve id="22210003" desc="포트리스 럼블 [네이린의 전투 시뮬레이터]에서 S+랭크 받기" complete="포트리스 럼블 [네이린의 전투 시뮬레이터]에서 S+랭크 달성함." manualDesc="포트리스 럼블 [네이린의 전투 시뮬레이터]에서 S+랭크 받기" manualComplete="포트리스 럼블 [네이린의 전투 시뮬레이터]에서 S+랭크 받음." feature="FameChallengeDungeon" />
@@ -899,26 +947,13 @@
 	<achieve id="22210014" desc='모험[일반] : &quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot; 중 1개 {0}회 완료하기' complete='모험[일반] : &quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot; 중 1개 {0}회 완료' manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22210016" desc="용암에서 누적 1분 버티기" complete="용암에서 누적 1분 버팀" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22210017" desc="집에서 배우는 메이플 가이드 모두 완료하기" complete="집에서 배우는 메이플 가이드를 모두 완료했다!" manualDesc="" manualComplete="" feature="ContentsGuide01" />
-	<achieve id="22210018" desc="FGT를 기념합니다." complete="FGT를 기념합니다." manualDesc="" manualComplete="" feature="JobChangeFGT" />
 	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="NA" />
-	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="쇼핑몰 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="쇼핑몰 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
-	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="카르카르 황금칼날고기 어항 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="카르카르 황금칼날고기 어항 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
-	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="라벤더 휴양지 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="라벤더 휴양지 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
-	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="천체 관측 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="천체 관측 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
-	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="나즈카르 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="나즈카르 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
-	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA">
-		<reward grade="1" uiDesc="카르카르 사막 테마 건설 아이템 구매 권한" notifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" notifyString="카르카르 사막 테마 건설 아이템 구매 권한 획득" feature="KarkarIsland" locale="NA" />
-	</achieve>
+	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210036" desc="" complete="" manualDesc="$map:02010002$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010002$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210037" desc="" complete="" manualDesc="$map:02010063$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010063$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210038" desc="" complete="" manualDesc="$map:02010058$의 $npc:11004265$와 대화하기" manualComplete="$map:02010058$의 $npc:11004265$와 대화" feature="KarkarIsland" locale="NA" />
@@ -928,6 +963,12 @@
 	<achieve id="22210042" desc="" complete="" manualDesc="$map:02010007$의 $npcName:11004275$과 대화하기" manualComplete="$map:02010007$의 $npcName:11004275$과 대화" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210043" desc="" complete="" manualDesc="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴보기" manualComplete="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴봄" feature="KarkarIsland" locale="NA" />
 	<achieve id="22210044" desc="" complete="" manualDesc="$map:02010063$에서 $npc:11001387$에게 소문에 대해 묻기" manualComplete="$map:02010063$에서 $npc:11001387$에게 소문에 대해 물음" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210045" desc="" complete="" manualDesc="포트리스 럼블에서 1회 A랭크 받기" manualComplete="포트리스 럼블에서 1회 A랭크 달성" feature="FameChallengeDungeon" locale="NA" />
+	<achieve id="22210046" desc="$map:80000017$에서 큰 광석 {0}개 조사" complete="지금까지 $map:80000017$에서 큰 광석 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22210047" desc="$map:80000018$에서 큰 꽃  {0}개 조사" complete="지금까지 $map:80000017$에서 큰 꽃 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22210048" desc="$map:80000019$에서 큰 애벌레 {0}개 조사" complete="지금까지 $map:80000017$에서 큰 애벌레 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22210049" desc="$map:80000020$에서 큰 허브 {0}개 조사" complete="지금까지 $map:80000017$에서 큰 허브 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22210050" desc="크리티아스 보너스맵의 자원 {0} 획득" complete="지금까지 크리티아스 보너스맵의 자원 {0} 획득" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="22300001" desc="퀘스트 {0}개 완료" complete="지금까지 퀘스트 {0}개 완료" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22300002" desc="" complete="" manualDesc='$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &quot;$quest:10002221$&quot; 퀘스트 완료하기' manualComplete='$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &quot;$quest:10002221$&quot; 퀘스트 완료!' feature="Season1" />
 	<achieve id="22300003" desc="" complete="" manualDesc='$map:02000161$의 $npc:11000871$$pp:를,을$ 만나 &quot;$quest:10002362$&quot; 퀘스트 완료하기' manualComplete='$map:02000161$의 $npc:11000871$$pp:를,을$ 만나 &quot;$quest:10002362$&quot; 퀘스트 완료!' feature="Season2" />
@@ -957,20 +998,14 @@
 	<achieve id="22300028" desc="" complete="" manualDesc='$map:02000187$의 $npcName:11001032$$pp:를,을$ 만나 &quot;$quest:30000022$&quot; 퀘스트 완료하기' manualComplete='$map:02000187$의 $npcName:11001032$$pp:를,을$ 만나 &quot;$quest:30000022$&quot; 퀘스트 완료!' feature="Season3" />
 	<achieve id="22300029" desc="" complete="" manualDesc='$map:02000049$의 $npcName:11000039$$pp:를,을$ 만나 &quot;$quest:30000032$&quot; 퀘스트 완료하기' manualComplete='$map:02000049$의 $npcName:11000039$$pp:를,을$ 만나 &quot;$quest:30000032$&quot; 퀘스트 완료!' feature="Season3" />
 	<achieve id="22300030" desc="" complete="" manualDesc='$map:02000200$에서 $npc:11000345$$pp:를,을$ 찾아 &quot;$quest:30000043$&quot; 퀘스트 완료하기' manualComplete='$map:02000200$에서 $npc:11000345$$pp:를,을$ 찾아 &quot;$quest:30000043$&quot; 퀘스트 완료!' feature="Season3" />
-	<achieve id="22300031" desc="" complete="" manualDesc='&quot;$quest:10002570$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:10002570$&quot; 퀘스트 완료' feature="Season3">
-		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" feature="Season3" />
-	</achieve>
-	<achieve id="22300032" desc="" complete="" manualDesc='&quot;$quest:10002572$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:10002572$&quot; 퀘스트 완료' feature="Season3">
-		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" feature="Season3" />
-	</achieve>
+	<achieve id="22300031" desc="" complete="" manualDesc='&quot;$quest:10002570$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:10002570$&quot; 퀘스트 완료' feature="Season3" />
+	<achieve id="22300032" desc="" complete="" manualDesc='&quot;$quest:10002572$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:10002572$&quot; 퀘스트 완료' feature="Season3" />
 	<achieve id="22300033" desc="" complete="" manualDesc='&quot;$quest:40001570$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:40001570$&quot; 퀘스트 완료' feature="Season3" />
 	<achieve id="22300034" desc="" complete="" manualDesc='&quot;$quest:40001571$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:40001571$&quot; 퀘스트 완료' feature="Season3" />
 	<achieve id="22300035" desc="" complete="" manualDesc='&quot;$quest:20001880$&quot; 퀘스트 완료하기' manualComplete='&quot;$quest:20001880$&quot; 퀘스트 완료' feature="Season3" />
 	<achieve id="22300036" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:10002614$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:10002614$&quot; 완료' feature="Season3" />
 	<achieve id="22300037" desc="아리까리 상단의 일일퀘스트 {0}개 완료하기" complete="지금까지 아리까리 상단의 일일퀘스트 {0}개 완료" manualDesc="" manualComplete="" feature="Season1" />
-	<achieve id="22300038" desc="$npc:23090005$$pp:를,을$ 처치하고 $item:30000419$ {0}개 획득하기" complete="지금까지 $item:30000419$ {0}개 획득" manualDesc="" manualComplete="" feature="Season3">
-		<reward grade="1" uiDesc='&quot;발록의 혈액&quot; 퀘스트 수락 권한' notifyIcon="./Data/Resource/Image/ETC/quest_accept.png" notifyString='&quot;발록의 혈액&quot; 퀘스트 수락' feature="Season3" />
-	</achieve>
+	<achieve id="22300038" desc="$npc:23090005$$pp:를,을$ 처치하고 $item:30000419$ {0}개 획득하기" complete="지금까지 $item:30000419$ {0}개 획득" manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="22300039" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;$quest:50001020$&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;$quest:50001020$&quot; 완료' feature="Season3" />
 	<achieve id="22300040" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;$quest:50001021$&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;$quest:50001021$&quot; 완료' feature="Season3" />
 	<achieve id="22300041" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;$quest:50001022$&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;$quest:50001022$&quot; 완료' feature="Season3" />
@@ -1069,6 +1104,8 @@
 	<achieve id="22300134" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001130$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001130$&quot; 완료' feature="KarkarIsland" locale="NA" />
 	<achieve id="22300135" desc="" complete="" manualDesc="빛을 잃은 빛의 후예 챕터 완료하기" manualComplete="빛을 잃은 빛의 후예 챕터 완료" feature="KarkarIsland" locale="NA" />
 	<achieve id="22300136" desc="" complete="" manualDesc="하늘의 요새, 최우선 임무 챕터 완료하기" manualComplete="하늘의 요새, 최우선 임무 챕터 완료" feature="FameContents" locale="NA" />
+	<achieve id="22300137" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:50100960$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:50100960$&quot; 완료하기' feature="Kritias_Epic01" />
+	<achieve id="22300138" desc="" complete="" manualDesc="미지의 대륙 크리티아스 챕터 완료하기" manualComplete="미지의 대륙 크리티아스 챕터 완료하기" feature="Kritias_Epic01" />
 	<achieve id="22400001" desc="누적 경험치 {0} 획득하기" complete="지금까지 누적 경험치 {0} 획득" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22400002" desc="50레벨 달성 후, 경험치 {0} 획득하기" complete="50레벨 달성 후, 경험치 {0} 획득" manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="22500001" desc="" complete="" manualDesc='스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성하기' manualComplete='스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성' feature="FameContents" />
@@ -1117,6 +1154,50 @@
 	<achieve id="22500046" desc="" complete="" manualDesc="$map:02000422$에서 $npcName:11003536$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02000422$에서 전술 부관 $npcName:11003536$$pp:와,과$ 대화 완료" feature="FameContents" />
 	<achieve id="22500047" desc="" complete="" manualDesc="$map:02000422$에서 $npcName:11003537$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02000422$에서 신관 기사 $npcName:11003537$$pp:와,과$ 대화 완료" feature="FameContents" />
 	<achieve id="22500048" desc="" complete="다양한 현장 임무 완료" manualDesc="다양한 현장 임무 진행하기" manualComplete="" feature="FameContents" locale="NA" />
+	<achieve id="22500049" desc="" complete="" manualDesc="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료하기" manualComplete="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료" feature="FameChallengeDungeon" locale="NA" />
+	<achieve id="22501001" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501002" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;높음&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501003" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;매우 높음&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;매우 높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501004" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;영웅&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;영웅&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501005" desc="" complete="" manualDesc='[크리티아스] 메이플 연합 평판 &quot;보통&quot; 달성하기' manualComplete='[크리티아스] 메이플 연합 평판 &quot;보통&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501006" desc="" complete="" manualDesc='[크리티아스] 메이플 연합 평판 &quot;높음&quot; 달성하기' manualComplete='[크리티아스] 메이플 연합 평판 &quot;높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501007" desc="" complete="" manualDesc='[크리티아스] 메이플 연합 평판 &quot;매우 높음&quot; 달성하기' manualComplete='[크리티아스] 메이플 연합 평판 &quot;매우 높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501008" desc="" complete="" manualDesc='[크리티아스] 메이플 연합 평판 &quot;영웅&quot; 달성하기' manualComplete='[크리티아스] 메이플 연합 평판 &quot;영웅&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501009" desc="" complete="" manualDesc='[크리티아스] 그린후드 평판 &quot;보통&quot; 달성하기' manualComplete='[크리티아스] 그린후드 평판 &quot;보통&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501010" desc="" complete="" manualDesc='[크리티아스] 그린후드 평판 &quot;높음&quot; 달성하기' manualComplete='[크리티아스] 그린후드 평판 &quot;높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501011" desc="" complete="" manualDesc='[크리티아스] 그린후드 평판 &quot;매우 높음&quot; 달성하기' manualComplete='[크리티아스] 그린후드 평판 &quot;매우 높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501012" desc="" complete="" manualDesc='[크리티아스] 그린후드 평판 &quot;영웅&quot; 달성하기' manualComplete='[크리티아스] 그린후드 평판 &quot;영웅&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501013" desc="" complete="" manualDesc='[크리티아스] 루미나이츠 평판 &quot;보통&quot; 달성하기' manualComplete='[크리티아스] 루미나이츠 평판 &quot;보통&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501014" desc="" complete="" manualDesc='[크리티아스] 루미나이츠 평판 &quot;높음&quot; 달성하기' manualComplete='[크리티아스] 루미나이츠 평판 &quot;높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501015" desc="" complete="" manualDesc='[크리티아스] 루미나이츠 평판 &quot;매우 높음&quot; 달성하기' manualComplete='[크리티아스] 루미나이츠 평판 &quot;매우 높음&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501016" desc="" complete="" manualDesc='[크리티아스] 루미나이츠 평판 &quot;영웅&quot; 달성하기' manualComplete='[크리티아스] 루미나이츠 평판 &quot;영웅&quot; 달성' feature="Kritias_2018_12" />
+	<achieve id="22501017" desc="[크리티아스] D급 임무 {0}회 수행하기" complete="[크리티아스] D급 임무 {0}회 수행 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22501018" desc="[크리티아스] C급 임무 {0}회 수행하기" complete="[크리티아스] C급 임무 {0}회 수행 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22501019" desc="[크리티아스] B급 임무 {0}회 수행하기" complete="[크리티아스] B급 임무 {0}회 수행 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22501020" desc="[크리티아스] A급 임무 {0}회 수행하기" complete="[크리티아스] A급 임무 {0}회 수행 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22501021" desc="[크리티아스] S급 임무 또는 특수임무 {0}회 수행하기" complete="[크리티아스] S급 임무 또는 특수임무 {0}회 수행 완료" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
+	<achieve id="22501022" desc="" complete="" manualDesc='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000130$&quot; 완료하기' manualComplete='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000130$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501023" desc="" complete="" manualDesc='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000190$&quot; 완료하기' manualComplete='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000190$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501024" desc="" complete="" manualDesc='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000250$&quot; 완료하기' manualComplete='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000250$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501025" desc="" complete="" manualDesc='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000310$&quot; 완료하기' manualComplete='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000310$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501026" desc="" complete="" manualDesc='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000370$&quot; 완료하기' manualComplete='[크리티아스] 메이플 연합의 특수 임무 &quot;$quest:91000370$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501027" desc="" complete="" manualDesc='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000730$&quot; 완료하기' manualComplete='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000730$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501028" desc="" complete="" manualDesc='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000790$&quot; 완료하기' manualComplete='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000790$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501029" desc="" complete="" manualDesc='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000850$&quot; 완료하기' manualComplete='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000850$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501030" desc="" complete="" manualDesc='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000910$&quot; 완료하기' manualComplete='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000910$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501031" desc="" complete="" manualDesc='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000970$&quot; 완료하기' manualComplete='[크리티아스] 그린후드의 특수 임무 &quot;$quest:91000970$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501032" desc="" complete="" manualDesc='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000420$&quot; 완료하기' manualComplete='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000420$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501033" desc="" complete="" manualDesc='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000490$&quot; 완료하기' manualComplete='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000490$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501034" desc="" complete="" manualDesc='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000550$&quot; 완료하기' manualComplete='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000550$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501035" desc="" complete="" manualDesc='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000610$&quot; 완료하기' manualComplete='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000610$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501036" desc="" complete="" manualDesc='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000670$&quot; 완료하기' manualComplete='[크리티아스] 루미나이츠의 특수 임무 &quot;$quest:91000670$&quot; 완료' feature="Kritias_2018_12" />
+	<achieve id="22501037" desc="" complete="" manualDesc="$map:02020041$에서 $npcName:11004312$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02020041$에서 연합 함장 $npcName:11004312$$pp:와,과$ 대화 완료" feature="Kritias_2018_12" />
+	<achieve id="22501038" desc="" complete="" manualDesc="$map:02020041$에서 $npcName:11004315$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02020041$에서 전술 부관 $npcName:11004315$$pp:와,과$ 대화 완료" feature="Kritias_2018_12" />
+	<achieve id="22501039" desc="" complete="" manualDesc="$map:02020041$에서 $npcName:11004316$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02020041$에서 신관 기사 $npcName:11004316$$pp:와,과$ 대화 완료" feature="Kritias_2018_12" />
+	<achieve id="22501040" desc="" complete="" manualDesc="$map:02020041$에서 $npcName:11004313$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02020041$에서 근위 부장 $npcName:11004313$$pp:와,과$ 대화 완료" feature="Kritias_2018_12" />
+	<achieve id="22501041" desc="" complete="" manualDesc="$map:02020041$에서 $npcName:11004314$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02020041$에서 첩보 전문가 $npcName:11004314$$pp:와,과$ 대화 완료" feature="Kritias_2018_12" />
+	<achieve id="22501042" desc='[크리티아스] 모든 세력의 &quot;영웅&quot; 등급 특수임무를 모두 완료하기' complete='[크리티아스] 모든 세력의 &quot;영웅&quot; 등급 특수임무를 모두 완료함' manualDesc='[크리티아스] 모든 세력의 &quot;영웅&quot; 등급 특수임무를 모두 완료' manualComplete='[크리티아스] 모든 세력의 &quot;영웅&quot; 등급 특수임무를 모두 완료' feature="Kritias_2018_12" />
+	<achieve id="22501043" desc="$item:20302354$ {0}회 열기" complete="$item:20302354$ {0}회 열기" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="23100001" desc="누적 플레이 {0}" complete="지금까지 누적 플레이 {0}" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100002" desc="투명 또는 색깔 있는 약초나 포션 {0}개 마시고 HP 회복하기" complete="지금까지 투명 또는 색깔 있는 약초나 포션 {0}개 마시고 HP 회복" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100003" desc="엘릭서 {0}개 마시고 HP 회복하기" complete="지금까지 엘릭서 {0}개 마시고 HP 회복" manualDesc="" manualComplete="" feature="Season1" />
@@ -1266,9 +1347,7 @@
 	<achieve id="23100151" desc="낚시로 물고기 {0}마리 낚기" complete="낚시로 물고기 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100152" desc="낚시에 {0}회 실패하기" complete="낚시 실패 {0}회!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100153" desc="낚시로 월척 {0}회 낚기" complete="낚시로 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Season1" />
-	<achieve id="23100154" desc="서로 다른 물고기 {0} 종류 낚기" complete="서로 다른 물고기 {0} 종류 낚기 성공" manualDesc="" manualComplete="" feature="Season1">
-		<reward grade="3" uiDesc="낚시꾼 의상 구매 권한" notifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" notifyString="낚시꾼 의상 구매 권한 획득" feature="Season1" />
-	</achieve>
+	<achieve id="23100154" desc="서로 다른 물고기 {0} 종류 낚기" complete="서로 다른 물고기 {0} 종류 낚기 성공" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100155" desc="서로 다른 물고기를 대형으로 낚아 금메달 {0}개 획득하기" complete="서로 다른 물고기를 대형으로 낚아 금메달 {0}개 획득" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100156" desc="월척 근위어 {0}회 낚기" complete="지금까지 월척 근위어 {0}회 낚음" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23100157" desc="월척 브로콜터틀 {0}회 낚기" complete="지금까지 월척 브로콜터틀 {0}회 낚음" manualDesc="" manualComplete="" feature="Season1" />
@@ -1454,13 +1533,46 @@
 	<achieve id="23100340" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400301$ 살펴보기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400301$ 살펴보기 완료" feature="Season1" />
 	<achieve id="23100341" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400305$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400305$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100342" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400306$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400306$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100343" desc="" complete="" manualDesc="꾸준히 낚시하여 프로 낚시꾼 되기" manualComplete="꾸준히 낚시하여 프로 낚시꾼 되기" feature="Fishing02" />
+	<achieve id="23100344" desc="" complete="" manualDesc="꾸준히 낚시하여 챔피언 낚시꾼 되기" manualComplete="꾸준히 낚시하여 챔피언 낚시꾼 되기" feature="Fishing02" />
+	<achieve id="23100345" desc="크리티아스에서 낚시로 물고기 {0}마리 낚기" complete="크리티아스에서 낚시로 물고기 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100346" desc="낚시로 울어 {0}마리 낚기" complete="낚시로 울어 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100347" desc="낚시로 활어 {0}마리 낚기" complete="낚시로 활어 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100348" desc="" complete="" manualDesc="낚시꾼 상점에서 $item:32000054$ 구입하기" manualComplete="낚시꾼 상점에서 $item:332000054$ 구입하기 완료" feature="Fishing02" />
+	<achieve id="23100349" desc="낚시로 블루 엔젤 피쉬 {0}마리 낚기" complete="낚시로 블루 엔젤 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100350" desc="낚시로 블루밍 플라위 피쉬 {0}마리 낚기" complete="낚시로 블루밍 플라위 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100351" desc="낚시로 블루 젤리 새우 월척 {0}회 낚기" complete="낚시로 블루 젤리 새우 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100352" desc="낚시로 에네르 피쉬 {0}마리 낚기" complete="낚시로 에네르 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100353" desc="큰북 연주로 숙련도 {0}까지 올리기" complete="큰북 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" feature="DrumInstrument" />
 	<achieve id="23100354" desc="작은북 연주로 숙련도 {0}까지 올리기" complete="작은북 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" feature="DrumInstrument" />
 	<achieve id="23100355" desc="심벌즈 연주로 숙련도 {0}까지 올리기" complete="심벌즈 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" feature="DrumInstrument" />
 	<achieve id="23100356" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400311$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400311$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100357" desc="낚시로 부끄러어 월척 {0}회 낚기" complete="낚시로 부끄러어 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100358" desc="" complete="" manualDesc="낚시꾼 상점에서 $item:32000055$ 구입하기" manualComplete="낚시꾼 상점에서 $item:332000055$ 구입하기 완료" feature="Fishing02" />
+	<achieve id="23100359" desc="낚시로 리프 젤리피쉬 {0}마리 낚기" complete="낚시로 리프 젤리피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100360" desc="낚시로 프릴리아 월척 {0}회 낚기" complete="낚시로 프릴리아 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100361" desc="낚시로 보석 물고기 {0}마리 낚기" complete="낚시로 보석 물고기 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100362" desc="독 청새치를 대형으로 낚아 금메달 획득하기" complete="독 청새치를 대형으로 낚아 금메달 획득" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100363" desc="낚시로 캐슬 피쉬 {0}마리 낚기" complete="낚시로 캐슬 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100364" desc="낚시로 쏘우 헤드 또는 테일 헤드 {0}마리 낚기" complete="낚시로 쏘우 헤드 또는 테일 헤드 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100365" desc="낚시로 부레옥잠 월척 {0}회 낚기" complete="낚시로 부레옥잠 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100366" desc="낚시로 무지개 해마 {0}마리 낚기" complete="낚시로 무지개 해마 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100367" desc="크리티아스 에메랄드 물에서 월척 {0}회 낚기" complete="크리티아스 에메랄드 물에서 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100368" desc="식물을 닮은 물고기들 낚기" complete="식물을 닮은 물고기들 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100369" desc="크리티아스 서식 어종 금메달 수집하기 (쏘우 헤드, 테일 헤드, 캐슬 피쉬 제외)" complete="크리티아스에 서식 어종 금메달 수집 완료!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100370" desc="" complete="" manualDesc="낚시로 해산물 낚시 스킨 무기 낚기" manualComplete="낚시로 해산물 낚시 스킨 무기 낚기 성공!" feature="Fishing02" />
+	<achieve id="23100371" desc="분홍 점박이 해파리를 대형으로 낚아 금메달 획득하기" complete="분홍 점박이 해파리를 대형으로 낚아 금메달 획득" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100372" desc="낚시 상점에서 낚시꾼 스킨 종류별로 {0}개 구입하기" complete="낚시 상점에서 낚시꾼 스킨 종류별로 {0}개 구입 완료!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100373" desc="낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기" complete="낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100374" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400312$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400312$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100375" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400313$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400313$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100376" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400314$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400314$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100377" desc="펫 도감에 $item:61100100$ 등록하기" complete="펫 도감에 $item:61100100$ 등록 완료" manualDesc="" manualComplete="" feature="Gigantica01" />
+	<achieve id="23100378" desc="$item:61000154$, $item:61000160$, $item:61000161$ 각각 획득하기" complete="$item:61000154$, $item:61000160$, $item:61000161$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
+	<achieve id="23100379" desc="$item:61000165$, $item:61000165$ 각각 획득하기" complete="$item:61000165$, $item:61000165$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
+	<achieve id="23100380" desc="$item:61000163$, $item:61000166$ 각각 획득하기" complete="$item:61000163$, $item:61000166$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
+	<achieve id="23100381" desc="$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득하기" complete="$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
+	<achieve id="23100382" desc="$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득하기" complete="$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
 	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200002" desc="택시 요금으로 {0}메소 사용하기" complete="지금까지 택시 요금으로 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200004" desc="상점에서 아이템 구입하는데 {0}메소 사용하기" complete="지금까지 상점에서 아이템 구입하는데 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
@@ -1566,6 +1678,7 @@
 	<achieve id="23300067" desc="" complete="" manualDesc="$item:50600022$, $item:50600024$ 수집하기" manualComplete="$item:50600022$, $item:50600024$ 수집" feature="Season1" locale="NA" />
 	<achieve id="23300068" desc="" complete="" manualDesc="$item:50600247$ 수집하기" manualComplete="$item:50600247$ 수집" feature="LapentaDungeon" />
 	<achieve id="23300069" desc="" complete="" manualDesc="$item:40400071$ 수집하기" manualComplete="$item:40400071$ 수집" feature="LapentaDungeon" />
+	<achieve id="23300070" desc="" complete="" manualDesc="$item:50600302$ 수집하기" manualComplete="$item:50600302$ 수집" feature="Kritias_2018_12" />
 	<achieve id="23400001" desc="$map:61000001$에 {0}회 참가하기" complete="지금까지 $map:61000001$ 경기에 {0}회 참가" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23400002" desc="$map:61000001$ 경기에서 {0}회 우승하기" complete="지금까지 $map:61000001$ 경기에서 {0}회 우승" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23400003" desc="$map:61000002$ 경기에 {0}회 참가하기" complete="지금까지 $map:61000002$ 경기에 {0}회 참가" manualDesc="" manualComplete="" feature="Season1" />
@@ -1614,6 +1727,10 @@
 	<achieve id="23400046" desc="1주년 월드 레이드 참여해서 {0}회 보상 획득" complete="1주년 월드 레이드 보상 {0}회 획득" manualDesc="" manualComplete="" feature="WorldChampionMushroom" locale="CN" />
 	<achieve id="23400047" desc="$item:20301889$ {0}회 사용하기" complete="지금까지 $item:20301889$ {0}회 사용" manualDesc="" manualComplete="" locale="CN" />
 	<achieve id="23400048" desc="" complete="" manualDesc="$item:59200332$와 $item:40400014$ 획득하기" manualComplete="$item:59200332$와 $item:40400014$ 획득" locale="NA" />
+	<achieve id="23400049" desc="$item:20302181$ {0}회 사용하기" complete="지금까지 $item:20302181$ {0}회 사용" manualDesc="" manualComplete="" locale="CN" />
+	<achieve id="23400050" desc="$item:20001150$ {0}회 획득하기" complete="지금까지 $item:20001150$ {0}회 획득" manualDesc="" manualComplete="" locale="KR" />
+	<achieve id="23400051" desc="$item:20001294$ {0}회 획득하기" complete="지금까지 $item:20001294$ {0}회 획득" manualDesc="" manualComplete="" locale="CN" />
+	<achieve id="23400052" desc="$item:20001151$ {0}회 획득하기" complete="지금까지 $item:20001151$ {0}회 획득" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="23500001" desc="" complete="" manualDesc="대지형 부동산 계약하기" manualComplete="대지형 부동산 계약 완료" feature="Season1" />
 	<achieve id="23500003" desc="부동산 계약 {0}번 연장하기" complete="지금까지 부동산 계약 {0}번 연장" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23500004" desc="" complete="" manualDesc="$item:50400035$ 또는 $item:50400036$ 내 집에 설치해보기" manualComplete="$item:50400035$ 또는 $item:50400036$ 내 집에 설치 완료" feature="Season1" />
@@ -1637,6 +1754,7 @@
 	<achieve id="23500022" desc="하우징 {0}단계 달성하기" complete="현재 하우징 {0}단계 달성" manualDesc="" manualComplete="" feature="UGCMapRenewal" />
 	<achieve id="23500023" desc="지금까지 획득한 인테리어 숙련도 {0}점 달성하기" complete="지금까지 얻은 인테리어 숙련도 {0}점" manualDesc="" manualComplete="" feature="UGCMapRenewal" />
 	<achieve id="23500024" desc="" complete="" manualDesc="장식도 점수 1,100점 달성하기" manualComplete="장식도 점수 1,100점 달성" feature="UGCMapRenewal" />
+	<achieve id="23500025" desc="" complete="" manualDesc="블루프린트 1회 제작해보기" manualComplete="블루프린트 1회 제작" feature="Blueprint" />
 	<achieve id="90000006" desc="길드 챔피언십 시즌1 경기에 {0}회 참가하기" complete="길드 챔피언십 시즌1 경기에 총 {0}회 참가" manualDesc="" manualComplete="" feature="Season1" locale="KR" />
 	<achieve id="90000010" desc="" complete="" manualDesc="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
 	<achieve id="90000011" desc="" complete="" manualDesc="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
@@ -1806,4 +1924,10 @@
 	<achieve id="92000126" desc="[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기" complete="[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기" manualDesc="" manualComplete="" locale="CN" />
 	<achieve id="92000127" desc="[수습 루돌프는 어둠이 싫어요] 퀘스트 12회 완료하기" complete="[수습 루돌프는 어둠이 싫어요] 퀘스트 12회 완료하기" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="92000128" desc="[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기" complete="[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기" manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000129" desc='&quot;$quest:80010290$&quot; 퀘스트 완료하고 $item:20302276$ 3개 받기' complete='&quot;$quest:80010290$&quot; 퀘스트 완료하고 $item:20302276$ 3개 받기 완료' manualDesc="" manualComplete="" locale="CN" />
+	<achieve id="92000130" desc='&quot;술래잡기 미션 : 오늘의 친구&quot; 퀘스트 5회 완료하기' complete='&quot;술래잡기 미션 : 오늘의 친구&quot; 퀘스트 5회 완료' manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000131" desc='&quot;술래잡기 미션 : 오늘의 친구&quot; 퀘스트 10회 완료하기' complete='&quot;술래잡기 미션 : 오늘의 친구&quot; 퀘스트 10회 완료' manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000132" desc='&quot;$item:20302275$&quot; 15개 열기' complete='&quot;$item:20302275$&quot; 15개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000133" desc='&quot;$item:20302275$&quot; 35개 열기' complete='&quot;$item:20302275$&quot; 35개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000134" desc='&quot;$item:20302275$&quot; 50개 열기' complete='&quot;$item:20302275$&quot; 50개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
 </ms2>

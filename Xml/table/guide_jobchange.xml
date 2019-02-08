@@ -235,6 +235,25 @@
 			<action type="uiTextTip" isNotClose="1" textId="200023923" />
 		</openAction>
 	</event>
+	<event id="40002788" isForce="0" desc="마스터 스킬 퀘스트 시작 가능 알림" feature="JobChange_02">
+		<open>
+			<condition type="SubJobCode" subJobCodes="101,201,301,401,501,601,701,801,901,1001,1100,1101" />
+			<condition type="myPlayerLevel" value="70" />
+			<condition type="questComplete" value="50100830" />
+			<condition type="fieldId" value="02020041" />
+			<condition type="allOf">
+				<condition type="questComplete" value="40002788" not="1" />
+				<condition type="questSatisfied" value="40002788" not="1" />
+				<condition type="questProgress" value="40002788" not="1" />
+			</condition>
+		</open>
+		<close>
+			<condition type="questProgress" value="40002788" />
+		</close>
+		<openAction>
+			<action type="SideNpcTalk" scriptID="40002788" npcID="11000160" illust="11000160" duration="10000" voice="" />
+		</openAction>
+	</event>
 	<event id="40002793" saveId="40002793" desc="마스터스킬 획득 가이드" feature="JobChange_02">
 		<open>
 			<condition type="questComplete" value="40002795" />

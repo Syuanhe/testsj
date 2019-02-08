@@ -4,7 +4,7 @@
 	<achieves id="21230121" account="0" icon="hero_battle.png" noticePercent="50" locking="" categoryTag="combat,boss" feature="JobChange_01">
 		<grade value="1">
 			<condition type="dungeon_first_clear" code="23021003,23022003,23023003" value="3" target="" />
-			<reward type="skillPoint" code="0" value="1" rank="1" subJobLevel="1" />
+			<reward type="skillPoint" code="0" value="3" rank="1" subJobLevel="1" />
 		</grade>
 	</achieves>
 </ms2>

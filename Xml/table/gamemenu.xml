@@ -15,25 +15,20 @@
 			<child id="Character" />
 		</menu>
 		<menu id="ContentsGroup" col="1" row="0">
-			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" />
-			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
-			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
-			<child id="Rps" filterType="eventID" filterValue="900080" locale="CN" />
-			<child id="CoupleDanceEvent" filterType="eventID" filterValue="900200" locale="KR" />
-			<child id="CoupleDanceEvent" filterType="eventID" filterValue="900200" locale="CN" />
+			<child id="LevelUpPackage" filterType="eventType" filterValue="LevelUpPackage" />
+			<child id="TimeRunEvent" filterType="eventType" filterValue="TimeRunEvent" />
+			<child id="Rps" filterType="eventType" filterValue="RPS" />
+			<child id="CoupleDanceEvent" filterType="eventType" filterValue="CoupleDance" />
 			<child id="Dictionary" feature="GameDictionary" />
 			<child id="IndividualBattle" feature="PvPRankingDuelMode" />
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="KR" />
-			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />--&gt;
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
 			<child id="WorldChampion" feature="WorldChampionMushroom" />
 			<child id="Arcade" />
 			<child id="Achieve" />
 			<child id="DungeonSearch" />
-			<child id="EpicRestart" filterType="eventID" filterValue="320002" />
+			<child id="EpicRestart" filterType="eventType" filterValue="EpicRestart" />
 			<child id="DailyMission" feature="DailyMission" />
 			<child id="Quest" />
 			<child id="WorldMap" />
@@ -97,26 +92,22 @@
 			<child id="Character" />
 		</menu>
 		<menu id="GamePad_ContentsGroup" col="2" row="0">
-			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" locale="KR" />
+			<child id="LevelUpPackage" filterType="eventType" filterValue="LevelUpPackage" />
 			<child id="GalleryEvent" filterType="eventType" filterValue="Gallery" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
-			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" />
 			<child id="StampEvent" filterType="eventType" filterValue="StampEvent" />
-			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
-			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
-			<child id="Rps" filterType="eventID" filterValue="900080" locale="CN" />
-			<child id="CoupleDanceEvent" filterType="eventID" filterValue="900200" locale="KR" />
-			<child id="CoupleDanceEvent" filterType="eventID" filterValue="900200" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventType" filterValue="TimeRunEvent" />
+			<child id="Rps" filterType="eventType" filterValue="RPS" />
+			<child id="CoupleDanceEvent" filterType="eventType" filterValue="CoupleDance" />
 			<child id="Dictionary" feature="GameDictionary" />
 			<child id="IndividualBattle" feature="PvPRankingDuelMode" />
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="KR" />
-			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />--&gt;
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
 			<child id="WorldChampion" feature="WorldChampionMushroom" />
 			<child id="Arcade" />
 			<child id="Achieve" />
 			<child id="DungeonSearch" />
+			<child id="EpicRestart" filterType="eventType" filterValue="EpicRestart" />
 			<child id="DailyMission" feature="DailyMission" />
 			<child id="Quest" />
 			<child id="WorldMap" />

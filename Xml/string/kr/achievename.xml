@@ -55,17 +55,26 @@
 	<key id="21100054" name="한계를 넘어서" locale="NA" />
 	<key id="21100055" name="진취적인 모험가" locale="NA" />
 	<key id="21100056" name="잠재된 힘의 개방" feature="KarkarIsland" locale="NA" />
-	<key id="21100065" name="마스터 세인츠 나이트!" feature="JobChange_02" />
-	<key id="21100066" name="마스터 블러디 버서커!" feature="JobChange_02" />
-	<key id="21100067" name="마스터 매지컬 위자드!" feature="JobChange_02" />
-	<key id="21100068" name="마스터 하이 프리스트!" feature="JobChange_02" />
-	<key id="21100069" name="마스터 샤프 레인저!" feature="JobChange_02" />
-	<key id="21100070" name="마스터 하이퍼 헤비거너!" feature="JobChange_02" />
-	<key id="21100071" name="마스터 팬텀 시프!" feature="JobChange_02" />
-	<key id="21100072" name="마스터 쉐도우 어쌔신!" feature="JobChange_02" />
-	<key id="21100073" name="마스터 아케인 룬 블레이더!" feature="JobChange_02" />
-	<key id="21100074" name="마스터 얼티밋 스트라이커!" feature="JobChange_02" />
-	<key id="21100075" name="마스터 미스틱 소울바인더!" feature="JobChange_02" />
+	<key id="21100057" name="힘을 갈망하다" feature="Lapenshard01" />
+	<key id="21100058" name="고된 과정" feature="Lapenshard01" />
+	<key id="21100059" name="힘을 얻다" feature="Lapenshard01" />
+	<key id="21100060" name="위험한 힘! (6단계)" feature="Lapenshard01" />
+	<key id="21100061" name="위험한 힘! (7단계)" feature="Lapenshard01" />
+	<key id="21100062" name="위험한 힘! (8단계)" feature="Lapenshard01" />
+	<key id="21100063" name="위험한 힘! (9단계)" feature="Lapenshard01" />
+	<key id="21100064" name="위험한 힘! (10단계)" feature="Lapenshard01" />
+	<key id="21100065" name="(계정) 마스터 세인츠 나이트!" feature="JobChange_02" />
+	<key id="21100066" name="(계정) 마스터 블러디 버서커!" feature="JobChange_02" />
+	<key id="21100067" name="(계정) 마스터 매지컬 위자드!" feature="JobChange_02" />
+	<key id="21100068" name="(계정) 마스터 하이 프리스트!" feature="JobChange_02" />
+	<key id="21100069" name="(계정) 마스터 샤프 레인저!" feature="JobChange_02" />
+	<key id="21100070" name="(계정) 마스터 하이퍼 헤비거너!" feature="JobChange_02" />
+	<key id="21100071" name="(계정) 마스터 팬텀 시프!" feature="JobChange_02" />
+	<key id="21100072" name="(계정) 마스터 쉐도우 어쌔신!" feature="JobChange_02" />
+	<key id="21100073" name="(계정) 마스터 아케인 룬 블레이더!" feature="JobChange_02" />
+	<key id="21100074" name="(계정) 마스터 얼티밋 스트라이커!" feature="JobChange_02" />
+	<key id="21100075" name="(계정) 마스터 미스틱 소울바인더!" feature="JobChange_02" />
+	<key id="21100076" name="새로운 자신" feature="JobChange_02" />
 	<key id="21210001" name="킬러의 본능" />
 	<key id="21210002" name="채식주의자" />
 	<key id="21210003" name="어머 짐승!" />
@@ -91,6 +100,9 @@
 	<key id="21210024" name="뱀이다~ 뱀이야!" feature="KarkarIsland" locale="NA" />
 	<key id="21210025" name="드래곤 슬레이어" feature="KarkarIsland" locale="NA" />
 	<key id="21210026" name="쇼핑 조이" feature="KarkarIsland" locale="NA" />
+	<key id="21210027" name="무찌르자 타이렌!" feature="Kritias_2018_12" />
+	<key id="21210028" name="어둠을 밝히는 빛" feature="Kritias_2018_12" />
+	<key id="21210029" name="우리강산 푸르게 푸르게" feature="Kritias_2018_12" />
 	<key id="21220001" name="(계정) 콜리콜리 부기콜리" />
 	<key id="21220002" name="(계정) 우르~자!" />
 	<key id="21220003" name="(계정) 근육은 폼이냐?" />
@@ -266,6 +278,15 @@
 	<key id="21230135" name="욕망이 불러낸 괴수" feature="KarkarIsland" locale="NA" />
 	<key id="21230136" name="질주본능 $npcName:22500020$" feature="KarkarIsland" locale="NA" />
 	<key id="21230137" name="$npc:21500850$$pp:와,과$ 대격돌" feature="PinkBean01" />
+	<key id="21230141" name="가슴 아픈 전투" feature="LapentaDungeon" />
+	<key id="21230142" name="(계정) 불멸의 최후" feature="Kritias_Balrog01" />
+	<key id="21230143" name="(계정) 그릇된 욕망" feature="Kritias_Paika01" />
+	<key id="21230144" name="(계정) 난 벌레가 싫어!" feature="Fieldwar01" />
+	<key id="21230145" name="(계정) 내가 이런 사람이야" feature="Fieldwar01" />
+	<key id="21230146" name="(계정) 거대 병기" feature="Gigantica01" />
+	<key id="21230147" name="전쟁의 시작을 알려라!" feature="Gigantica01" />
+	<key id="21230148" name="내가 탈거야!" feature="Gigantica01" />
+	<key id="21230149" name="쏘고 또 쏘고" feature="Kritias_Balrog01" />
 	<key id="21231001" name="지옥으로 돌아가라!" />
 	<key id="21231002" name="$npc:23000018$의 뿔을 뽑은 자" />
 	<key id="21231003" name="$npc:23000019$의 날개를 꺾은 자" />
@@ -317,6 +338,11 @@
 	<key id="21231049" name="생명을 제어하는 자" feature="LapentaDungeon" />
 	<key id="21231050" name="변화를 다스리는 자" feature="LapentaDungeon" />
 	<key id="21231051" name="시간을 지배하는 자" feature="LapentaDungeon" />
+	<key id="21231052" name="필멸자의 의지" feature="Kritias_Balrog01" />
+	<key id="21231053" name="어둠은 어둠속으로" feature="Kritias_Paika01" />
+	<key id="21231054" name="빌어도 소용없어!" feature="Fieldwar01" />
+	<key id="21231055" name="내가 더 강해!" feature="Fieldwar01" />
+	<key id="21231056" name="머리를 부수는 최후의 일격" feature="Gigantica01" />
 	<key id="21232001" name="캬악~ 퉤!" />
 	<key id="21232002" name="죽음의 무도" />
 	<key id="21232003" name="작아져라!" />
@@ -341,6 +367,7 @@
 	<key id="21233018" name="부침개" />
 	<key id="21233019" name="죽음의 선고" />
 	<key id="21233020" name="겁 없는 애송이" />
+	<key id="21233021" name="내동댕이" feature="Gigantica01" />
 	<key id="21240001" name="(계정) 무자비한 그대" />
 	<key id="21250001" name="(계정) 타임어택: $npc:23000100$ 처치" />
 	<key id="21250002" name="(계정) 타임어택: $npc:23000055$ 처치" />
@@ -456,6 +483,9 @@
 	<key id="21400034" name="가로등을 휘둘러라!" />
 	<key id="21400035" name="낼름낼름 뱀이다!" />
 	<key id="21400036" name="막사를 번쩍 들어라!" />
+	<key id="21400037" name="나뭇잎을 휘둘러라!" feature="Kritias_2018_12" />
+	<key id="21400038" name="괴력의 사나이" feature="Kritias_2018_12" />
+	<key id="21400039" name="일단 던져라!" feature="Kritias_2018_12" />
 	<key id="22100001" name="진정한 마라토너" />
 	<key id="22100002" name="내가 물개다" />
 	<key id="22100003" name="내가 바로 거미인간" />
@@ -921,6 +951,32 @@
 	<key id="22200463" name="내 노래를 들어줄래?" feature="Season1" locale="NA" />
 	<key id="22200464" name="$map:02000170$에 잠든 영웅" feature="Season1" locale="NA" />
 	<key id="22200465" name="달콤한 지방의 유혹" feature="Season1" locale="NA" />
+	<key id="22200466" name="$map:02020001$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200467" name="$map:02020003$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200468" name="$map:02020004$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200469" name="$map:02020006$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200470" name="$map:02020008$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200471" name="$map:02020009$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200472" name="$map:02020010$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200473" name="$map:02020013$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200474" name="$map:02020014$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200475" name="$map:02020016$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200476" name="$map:02020017$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200477" name="$map:02020018$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200478" name="$map:02020029$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200479" name="$map:02020030$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200480" name="$map:02020031$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200481" name="$map:02020032$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200482" name="$map:02020033$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200483" name="$map:02020034$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200484" name="$map:02020035$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200485" name="$map:02020036$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200486" name="$map:02020037$의 황금 보물 상자" feature="Kritias_2018_12" />
+	<key id="22200488" name="$map:02020041$ 발견하기" feature="Kritias_2018_12" />
+	<key id="22200489" name="$map:02020030$ 발견하기" feature="Kritias_2018_12" />
+	<key id="22200490" name="키델 탐험가" feature="Kritias_2018_12" />
+	<key id="22200491" name="오늘은 내가 조종사" feature="Gigantica01" />
+	<key id="22200492" name="새로운 곳을 찾아서 : 크리티아스 키델 지역" feature="Kritias_2018_12" />
 	<key id="22210001" name="그럼 이제 내가 함장인가" feature="FameChallengeDungeon" />
 	<key id="22210002" name="콘부장? 내 심부름 좀 하게나." feature="FameChallengeDungeon" />
 	<key id="22210003" name="랜선 영웅 " feature="FameChallengeDungeon" />
@@ -935,7 +991,6 @@
 	<key id="22210014" name="숲의 평화를 지키는 자" feature="Season1" />
 	<key id="22210016" name="아휴 덥다 더워!" feature="Season1" />
 	<key id="22210017" name="(계정) 이제 아무 문제 없어!" feature="ContentsGuide01" />
-	<key id="22210018" name="FGT 기념!" feature="JobChangeFGT" />
 	<key id="22210029" name="(계정) 탈환! 블랙노프호" feature="KarkarIsland" locale="NA" />
 	<key id="22210030" name="쇼핑의 달인" feature="KarkarIsland" locale="NA" />
 	<key id="22210031" name="사막에 사는 물고기" feature="KarkarIsland" locale="NA" />
@@ -952,6 +1007,12 @@
 	<key id="22210042" name="대체 무슨 일이야?" feature="KarkarIsland" locale="NA" />
 	<key id="22210043" name="카르카르 바다 속 전설" feature="KarkarIsland" locale="NA" />
 	<key id="22210044" name="금지된 소문" feature="KarkarIsland" locale="NA" />
+	<key id="22210045" name="도전하라! 포트리스 럼블" feature="FameChallengeDungeon" locale="NA" />
+	<key id="22210046" name="동굴속으로" feature="Kritias_2018_12" />
+	<key id="22210047" name="꽃밭에서" feature="Kritias_2018_12" />
+	<key id="22210048" name="벌레가 좋아" feature="Kritias_2018_12" />
+	<key id="22210049" name="심봤다" feature="Kritias_2018_12" />
+	<key id="22210050" name="다 먹고 살자고 하는거야" feature="Kritias_2018_12" />
 	<key id="22300001" name="고민 해결사" />
 	<key id="22300002" name="그림자를 거두다" />
 	<key id="22300003" name="멈춰버린 시계탑" />
@@ -1087,6 +1148,8 @@
 	<key id="22300134" name="카르카르 미어캣 정찰대" feature="KarkarIsland" locale="NA" />
 	<key id="22300135" name="힘을 잃은 빛의 아이" feature="KarkarIsland" locale="NA" />
 	<key id="22300136" name="하늘의 요새, 스카이 포트리스" feature="FameContents" locale="NA" />
+	<key id="22300137" name="봉인의 비밀" feature="Kritias_Epic01" />
+	<key id="22300138" name="새로운 친구" feature="Kritias_Epic01" />
 	<key id="22400001" name="끝나지 않은 여정" />
 	<key id="22400002" name="끝은 새로운 시작" />
 	<key id="22500001" name="스카이 포트리스의 일꾼" feature="FameContents" />
@@ -1135,6 +1198,50 @@
 	<key id="22500046" name="저도 명궁 이랍니다" feature="FameContents" />
 	<key id="22500047" name="Q등급 몰라 그거 무서워" feature="FameContents" />
 	<key id="22500048" name="발 빠른 연합의 일꾼" feature="FameContents" locale="NA" />
+	<key id="22500049" name="맡겨만 주세요!" feature="FameChallengeDungeon" locale="NA" />
+	<key id="22501001" name="크리티아스 원정대의 일꾼" feature="Kritias_2018_12" />
+	<key id="22501002" name="크리티아스 원정대의 빛" feature="Kritias_2018_12" />
+	<key id="22501003" name="크리티아스 원정대의 희망" feature="Kritias_2018_12" />
+	<key id="22501004" name="크리티아스 원정대의 영웅" feature="Kritias_2018_12" />
+	<key id="22501005" name="연합 특무대 병사" feature="Kritias_2018_12" />
+	<key id="22501006" name="연합 특무대 분대장" feature="Kritias_2018_12" />
+	<key id="22501007" name="연합 특무대 장교" feature="Kritias_2018_12" />
+	<key id="22501008" name="연합 특무대 고위 지휘관" feature="Kritias_2018_12" />
+	<key id="22501009" name="자경단 조사대원" feature="Kritias_2018_12" />
+	<key id="22501010" name="자경단 조사대 십인장" feature="Kritias_2018_12" />
+	<key id="22501011" name="자경단 조사대 백인장" feature="Kritias_2018_12" />
+	<key id="22501012" name="자경단 조사대 대장" feature="Kritias_2018_12" />
+	<key id="22501013" name="기사단 탐사대 수습 기사" feature="Kritias_2018_12" />
+	<key id="22501014" name="기사단 탐사대 정식 기사" feature="Kritias_2018_12" />
+	<key id="22501015" name="기사단 탐사대 사제 기사" feature="Kritias_2018_12" />
+	<key id="22501016" name="기사단 탐사대 명예 신관 기사" feature="Kritias_2018_12" />
+	<key id="22501017" name="크리티아스 원정대 D급 임무 전문 대원" feature="Kritias_2018_12" />
+	<key id="22501018" name="크리티아스 원정대 C급 상황 대응반" feature="Kritias_2018_12" />
+	<key id="22501019" name="크리티아스 원정대 B급 작전 담당관" feature="Kritias_2018_12" />
+	<key id="22501020" name="크리티아스 원정대 A급 기동 부대원" feature="Kritias_2018_12" />
+	<key id="22501021" name="크리티아스 원정대 S급 특수 전술가" feature="Kritias_2018_12" />
+	<key id="22501022" name="계속되는 검은 군단과의 싸움" feature="Kritias_2018_12" />
+	<key id="22501023" name="남의 싸움엔 끼기 싫은데…" feature="Kritias_2018_12" />
+	<key id="22501024" name="발록, 이번엔 진짜로 안녕." feature="Kritias_2018_12" />
+	<key id="22501025" name="다시 만난 트리스탄" feature="Kritias_2018_12" />
+	<key id="22501026" name="반격 개시!" feature="Kritias_2018_12" />
+	<key id="22501027" name="크리티아스 원정대의 바쁜 하루" feature="Kritias_2018_12" />
+	<key id="22501028" name="크리티아스 자경단원의 하루" feature="Kritias_2018_12" />
+	<key id="22501029" name="크리티아스 조사대원의 하루" feature="Kritias_2018_12" />
+	<key id="22501030" name="크리티아스의 유적지 방문" feature="Kritias_2018_12" />
+	<key id="22501031" name="반겐하임의 일기" feature="Kritias_2018_12" />
+	<key id="22501032" name="증폭기 설치 기사" feature="Kritias_2018_12" />
+	<key id="22501033" name="투르카의 그림자" feature="Kritias_2018_12" />
+	<key id="22501034" name="계약서의 약관을 꼼꼼히 읽어보세요." feature="Kritias_2018_12" />
+	<key id="22501035" name="내가 알던 투르카가 아니야" feature="Kritias_2018_12" />
+	<key id="22501036" name="크리티아스에서 자라는 악마의 나무" feature="Kritias_2018_12" />
+	<key id="22501037" name="한결같은 함장님" feature="Kritias_2018_12" />
+	<key id="22501038" name="의심 많은 네이린" feature="Kritias_2018_12" />
+	<key id="22501039" name="심상치 않은 어둠의 힘" feature="Kritias_2018_12" />
+	<key id="22501040" name="근위대의 임무" feature="Kritias_2018_12" />
+	<key id="22501041" name="다크윈드가 실패했다고?!" feature="Kritias_2018_12" />
+	<key id="22501042" name="크리티아스를 지키는 영웅" feature="Kritias_2018_12" />
+	<key id="22501043" name="스카이 포트리스 건설 상자 열기" feature="Kritias_2018_12" />
 	<key id="23100001" name="우리들의 행복한 시간" />
 	<key id="23100002" name="꿀꺽꿀꺽" />
 	<key id="23100003" name="벌컥벌컥" />
@@ -1470,13 +1577,46 @@
 	<key id="23100340" name="거친 사막을 달려 달려~" />
 	<key id="23100341" name="마음까지 따뜻해지는 조명" />
 	<key id="23100342" name="아기자기한 분위기를 살리고 싶다면?" />
+	<key id="23100343" name="프로 낚시꾼" feature="Fishing02" />
+	<key id="23100344" name="챔피언 낚시꾼" feature="Fishing02" />
+	<key id="23100345" name="크리티아스에서 물고기 낚기" feature="Fishing02" />
+	<key id="23100346" name="울어는 매일 울어" feature="Fishing02" />
+	<key id="23100347" name="활어 낚시를 해보자" feature="Fishing02" />
+	<key id="23100348" name="손에 착 감기는 프로 낚싯대" feature="Fishing02" />
+	<key id="23100349" name="천사의 물고기를 찾아서" feature="Fishing02" />
+	<key id="23100350" name="꽃을 닮은 싱그러운 물고기" feature="Fishing02" />
+	<key id="23100351" name="월척 블루 젤리 새우 낚기" feature="Fishing02" />
+	<key id="23100352" name="푸른 에너지, 에네르의 힘이 담긴 물고기" feature="Fishing02" />
 	<key id="23100353" name="큰북 연주자" feature="DrumInstrument" />
 	<key id="23100354" name="작은북 연주자" feature="DrumInstrument" />
 	<key id="23100355" name="심벌즈 연주자" feature="DrumInstrument" />
 	<key id="23100356" name="풍요로운 가을을 축하하며" />
+	<key id="23100357" name="월척 부끄러어 낚기" feature="Fishing02" />
+	<key id="23100358" name="손맛을 보려면 역시 챔피언 낚싯대!" feature="Fishing02" />
+	<key id="23100359" name="감탄을 자아내는 색상, 리프 젤리피쉬" feature="Fishing02" />
+	<key id="23100360" name="월척 프릴리아 낚기" feature="Fishing02" />
+	<key id="23100361" name="물이 품은 진귀한 보석" feature="Fishing02" />
+	<key id="23100362" name="이렇게 큰 독 청새치 본 적 있어요?" feature="Fishing02" />
+	<key id="23100363" name="티아만의 특별한 물고기" feature="Fishing02" />
+	<key id="23100364" name="기간티카를 닮은 특별한 물고기" feature="Fishing02" />
+	<key id="23100365" name="월척 부레옥잠 낚기" feature="Fishing02" />
+	<key id="23100366" name="알록달록 무지개를 입은 물고기" feature="Fishing02" />
+	<key id="23100367" name="크리티아스 에메랄드물에서 월척 낚기" feature="Fishing02" />
+	<key id="23100368" name="식물일까? 물고기일까?" feature="Fishing02" />
+	<key id="23100369" name="금메달이 너무 많아!" feature="Fishing02" />
+	<key id="23100370" name="낚시꾼의 HOT ITEM, 해산물 무기 스킨" feature="Fishing02" />
+	<key id="23100371" name="이렇게 큰 분홍 점박이 해파리 본 적 있나요?" feature="Fishing02" />
+	<key id="23100372" name="이 정도는 입어줘야 낚시꾼계의 패션 리더!" feature="Fishing02" />
+	<key id="23100373" name="데빌 슬라임 피쉬를 노려라!" feature="Fishing02" />
 	<key id="23100374" name="펭귄 친구가 준비한 갈라쇼!" />
 	<key id="23100375" name="새하얀 겨울이 좋은 북극곰" />
 	<key id="23100376" name="별빛 길만 걷게 되기를 " />
+	<key id="23100377" name="내 친구 기간티카" feature="Gigantica01" />
+	<key id="23100378" name="타이렌 로봇 세트 완성!" feature="Pet_70Lv_Taming" />
+	<key id="23100379" name="모두 모여 휴롯" feature="Pet_70Lv_Taming" />
+	<key id="23100380" name="크리티아스 공룡 포획" feature="Pet_70Lv_Taming" />
+	<key id="23100381" name="묘하게 닮았어" feature="Pet_70Lv_Taming" />
+	<key id="23100382" name="크리티아스 곤충 채집" feature="Pet_70Lv_Taming" />
 	<key id="23200001" name="티끌 모아 태산" />
 	<key id="23200002" name="돈으로 시간을 사겠어!" />
 	<key id="23200003" name="모범 택시비는 얼마죠?" />
@@ -1583,6 +1723,7 @@
 	<key id="23300067" name="주니어 리자드 콜렉터" feature="Season1" locale="NA" />
 	<key id="23300068" name="$item:50600247$" feature="LapentaDungeon" />
 	<key id="23300069" name="$item:40400071$" feature="LapentaDungeon" />
+	<key id="23300070" name="$item:50600302$" feature="Kritias_2018_12" />
 	<key id="23400001" name="$map:61000001$ 참가자" />
 	<key id="23400002" name="$map:61000001$의 제왕" />
 	<key id="23400003" name="$map:61000002$ 참가자" />
@@ -1631,6 +1772,10 @@
 	<key id="23400046" name="1주년 월드 레이드 참여하기" feature="WorldChampionMushroom" locale="CN" />
 	<key id="23400047" name="(계정) 1주년 축하해!" locale="CN" />
 	<key id="23400048" name="단풍에 물든 영웅" locale="NA" />
+	<key id="23400049" name="(계정) 산타의 선물" locale="CN" />
+	<key id="23400050" name="사랑의 쇼콜라티에" locale="KR" />
+	<key id="23400051" name="사랑의 쇼콜라티에" locale="CN" />
+	<key id="23400052" name="사랑의 쇼콜라티에" locale="NA" />
 	<key id="23500001" name="(계정) 즐거운 나의 집" />
 	<key id="23500003" name="(계정) 터줏대감" />
 	<key id="23500004" name="(계정) 향긋한 비누 냄새" />
@@ -1654,6 +1799,7 @@
 	<key id="23500022" name="(계정) 전문 인테리어 디자이너" />
 	<key id="23500023" name="(계정) 집이 제일 좋아" />
 	<key id="23500024" name="(계정) 우리집에 놀러와" />
+	<key id="23500025" name="(계정) 미래의 다빈치!" feature="Blueprint" />
 	<key id="80000001" name="성형외과 또는 뷰티살롱 첫 방문" />
 	<key id="80000002" name="연주하기" />
 	<key id="80000003" name="요정 의상 구매" />
@@ -1834,4 +1980,10 @@
 	<key id="92000126" name="크리스마스 트리 장식 마니아" locale="CN" />
 	<key id="92000127" name="크리스마스의 미소 천사" locale="NA" />
 	<key id="92000128" name="크리스마스 트리 장식 마니아" locale="NA" />
+	<key id="92000129" name="2019 해피 뉴 이어" locale="CN" />
+	<key id="92000130" name="행운을 주는 친구!" locale="NA" />
+	<key id="92000131" name="행운을 타고 찾아온 우정!" locale="NA" />
+	<key id="92000132" name="$item:20302275$ : 행운 나와라, 뚝딱!" locale="NA" />
+	<key id="92000133" name="$item:20302275$ : 반가워, 2019!" locale="NA" />
+	<key id="92000134" name="$item:20302275$ : 2019년은 너와 함께!" locale="NA" />
 </ms2>

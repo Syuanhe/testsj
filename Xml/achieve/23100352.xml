@@ -20,7 +20,7 @@
 		</grade>
 		<grade value="5">
 			<condition type="fish" code="16000001,16000002,16000003" value="5000" target="" />
-			<reward type="title" code="10000616" value="0" rank="1" />
+			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="6">
 			<condition type="fish" code="16000001,16000002,16000003" value="10000" target="" />
@@ -28,7 +28,7 @@
 		</grade>
 		<grade value="7">
 			<condition type="fish" code="16000001,16000002,16000003" value="20000" target="" />
-			<reward type="shop_weapon" code="70700021" value="0" rank="1" />
+			<reward type="title" code="10000616" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

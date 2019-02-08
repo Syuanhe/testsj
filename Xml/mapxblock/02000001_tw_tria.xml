@@ -8,6 +8,6 @@
 		<camera position="-13474.386719, -13366.070313, 19641.191406" rotation="90.000000, 45.000000, -45.000000" />
 		<edit zoomfactor="8.34009" />
 	</minimap>
-	<fog color="54,87,230" near="5280" far="20000" />
-	<clientProperty bgDay="BG_Tria_B.dds" />
+	<fog color="199,237,255" near="5276" far="20000" />
+	<clientProperty bgDay="BG_Tria.dds" />
 </ms2>

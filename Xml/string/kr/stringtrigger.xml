@@ -4712,6 +4712,7 @@
 	<key id="02000403_BF__MAGIC_06__7" name="어리광은 이제 그만하거라!" npc="과거의 망령" type="대화를설정한다" />
 	<key id="02000410_BF__BARRICADE_GIVEUP_0" name="30초 후에 입구가 봉쇄됩니다.\n그리고 지금부터 파티장이 던전을 포기할 수 있습니다." npc="NotUse" />
 	<key id="02000419_BF__BARRICADE__0" name="30초 후에 입구가 봉쇄됩니다." npc="NotUse" />
+	<key id="02000428_BF__BARRICADE__0" name="곧 입구가 봉쇄됩니다." feature="CrimsonBalrog01" npc="systemMSG" type="이벤트UI를설정한다" />
 	<key feature="DarkCastle" id="02000403_BF__MAGIC_06__8" name="..." npc="과거의 망령" type="대화를설정한다" />
 	<key id="02000403_BF__MAIN__0" name="홀 중앙에 강력한 사념의 근원이 나타났다." npc="systemMSG" type="이벤트UI를설정한다" />
 	<key id="02010055_BF__SCENE01__1" name="하지만 이 힘만 있다면 분명 카이저가 될 수 있겠지…\n마침내 이 $npc:11003053$가 그란디스의 지배자가 되는 것이다!" npc="바르칸트" type="대화를설정한다" />
@@ -5707,7 +5708,7 @@
 	<key id="02000410_BF__Event01__6" name="실드를 허물지 못하면 입자포가 제 화력을 발휘하지 못할거에요!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__Event01__7" name="…난 대원들을 믿는다. 이쪽은 서둘러 입자포 공격을 준비할 수 있도록, 이상!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__Event01__8" name="고 열원체 반응, 분석완료! 인페르녹의 상태가 생각보다 강력합니다!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
-	<key id="02000410_BF__Event01__9" name="인페르녹의 체력을 깍아야 입자포가 제 화력을 발휘할겁니다!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
+	<key id="02000410_BF__Event01__9" name="인페르녹의 체력을 깎아야 입자포가 제 화력을 발휘할겁니다!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__PopUpCinema__0" name="좋아, 전 대원! $MyPCName$대원이 시간을 끌 동안, 총력을 다해 입자포를 준비하도록!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__PopUpCinema__1" name="네, 함장님! 초 고밀도 입자 가속 장치, 스탠바이!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__PopUpCinema__2" name="느껴지는군… 날 노리고 있는 건가? 이 불멸의 대군주를? 쿠하하하!!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
@@ -5732,6 +5733,8 @@
 	<key id="02000410_BF__ClearCheck__8" name="인페르녹, 레이더 반응 로스트! 공역에서 자취를 감췄습니다! 임무 성공 일까요…?" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__ClearCheck__9" name="…아쉽지만 실패다. 제대로 맞췄다면, 놈을 잡을 수도 있었겠지. $MyPCName$, 우선 함선으로 복귀 하도록." feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="02000410_BF__ClearCheck__10" name="이런 시간이 부족한 건가?! 이대로면 버틸 수 없어!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
+	<key id="02000410_BF__ClearCheck__11" name="인페르녹, 레이더 반응 로스트! 공역에서 자취를 감췄습니다!" feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
+	<key id="02000410_BF__ClearCheck__12" name="인페르녹이 도망을 가버린 거 같군.... $MyPCName$, 우선 함선으로 복귀 하도록." feature="CrimsonBalrog01" npc="네이린" type="SideNpcTalk" />
 	<key id="52010052_QD__ACT01__0" name="이 힘만 있다면… 너희들의 도움은 필요 없어. 내가! $npcName:11003795$$pp:를,을$ 막겠어!" feature="FameContents" npc="트리스탄" type="AddCinematicTalk" />
 	<key id="82000012_survival__01_SURVIVAL__0" name="요호호~ 이 몸이 주최하는 ‘머쉬킹 챔피언십’에 참가한 것을 환영한다!" feature="SurvivalContents01" npc="머쉬킹" type="SideNpcTalk" />
 	<key id="82000012_survival__01_SURVIVAL__1" name="다른 참가자들을 모두 쓰러트려 너의 강함을 증명하도록 하여라!" feature="SurvivalContents01" npc="머쉬킹" type="SideNpcTalk" />
@@ -6484,4 +6487,205 @@
 	<key id="63000077_CS__63000077_MAIN__28" name="미안해요, 모두.\n내가 부린 투정 때문에… 모두 너무 고생했어요." npc="에블린" type="AddCinematicTalk" feature="Season1" />
 	<key id="63000077_CS__63000077_MAIN__29" name="그래서, 우리 $npcName:11004356$의 진짜 크리스마스 소원은 뭐지?" npc="클라우스" type="AddCinematicTalk" feature="Season1" />
 	<key id="63000077_CS__63000077_MAIN__30" name="우리 가족 모두 함께 모여서…\n행복한 크리스마스 파티를 하는 거예요." npc="에블린" type="AddCinematicTalk" feature="Season1" />
+	<key id="02020006_BF__1000051_NPCTALK__0" name="쳇!! 요즘 애들은 너무 인사성이 없어!!" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020006_BF__1000052_NPCTALK__0" name="(뭐지... 왜 빤히 보는거지...엎드리지만 않았으면...)" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020009_BF__1000051_NPCTALK__0" name="쳇!! 요즘 애들은 너무 인사성이 없어!!" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020009_BF__1000052_NPCTALK__0" name="(뭐지... 왜 빤히 보는거지...엎드리지만 않았으면...)" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020031_BF__1000051_NPCTALK__0" name="쳇!! 요즘 애들은 너무 인사성이 없어!!" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020031_BF__1000052_NPCTALK__0" name="(뭐지... 왜 빤히 보는거지...엎드리지만 않았으면...)" npc="포잉" type="AddBalloonTalk" feature="Kritias_2018_12" />
+	<key id="02020061_BF__BATTLE_1__0" name="나의 수하들아. 움직여라!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_1__1" name="강대한 마력이 느껴지는군. 네이린, 분석을 부탁한다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_1__2" name="어…엄청난 마력이 느껴집니다. 데이터 분석을 시작하겠습니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_2__0" name="제법이군, 그렇다면 보여주마. 강력한 어둠의 힘을!!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_2__1" name="데이터 분석 완료! 소환된 에네르에서 강력한 힘이 느껴집니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_2__2" name="모든 대원들은 어둠의 힘이 흘러나오는 에네르를 찾아라!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_3__0" name="이놈들! 군단장이여 놈들을 해치워라!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_3__1" name="에네르를 파괴하고 군단장의 보호막을 제거하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_3__2" name="이전과 동일한 마력 패턴이 감지되었습니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BATTLE_3__3" name="같은 수법이라니, 단순하군. 모든 제단을 찾아 파괴하도록!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__BOSS_INVINCIBLE_OFF__0" name="군단장의 보호막이 파괴되었습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__0" name="검은군단을 소환하는 소환체를 파괴해야 합니다.\n소환체는 투르카의 강력한 마법에 보호를 받고 있습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__1" name="입장 인원수가 부족하여 게임을 시작할 수 없습니다.\n다음 기회를 노려주세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__2" name="검은군단의 공세를 막아내세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__3" name="투르카가 에네르 조각을 소환하였습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__4" name="투르카가 소환한 검은군단의 군단장을 처치하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__5" name="쳇, 당했나." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__6" name="몇 번을 와도 결론은 똑같다. 언제든지 물리쳐주마." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__7" name="내가 뭐라고 했나. 너희는 아직 멀었다!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__MAIN__8" name="큭… 후퇴하라 태세를 재정비 한다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020061_BF__MESSAGE__0" name="입장을 기다리는 중입니다.\n잠시 후에 게임이 시작됩니다.\n10명이 모이면 바로 시작됩니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT1__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT1__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT2__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT2__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT3__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT3__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT4__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020061_BF__OBJECT4__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_1__0" name="나의 수하들아. 움직여라!" npc="검은군단 군단장" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_1__1" name="강대한 마력이 느껴지는군. 네이린, 분석을 부탁한다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_1__2" name="어...엄청난 마력이 느껴집니다. 데이터 분석을 시작하겠습니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_2__0" name="제법이군, 그렇다면 보여주마. 강력한 어둠의 힘을!" npc="검은군단 군단장" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_2__1" name="데이터 분석 완료! 소환된 에네르에서 강력한 힘이 느껴집니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_2__2" name="모든 대원들은 어둠의 힘이 흘러나오는 에네르를 찾아라!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_3__0" name="이놈들! 군단장이여 놈들을 해치워라!" npc="검은군단 군단장" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_3__1" name="이전과 동일한 마력 패턴이 감지되었습니다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_3__2" name="에네르를 파괴하고 군단장의 보호막을 제거하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__BATTLE_3__3" name="같은 수법이라니, 단순하군. 모든 에네르를 찾아 파괴하도록!" npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__BOSS_INVINCIBLE_OFF__0" name="군단장의 보호막이 파괴되었습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__0" name="검은군단을 소환하는 소환체를 파괴해야 합니다.\n소환체는 투르카의 강력한 마법에 보호를 받고 있습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__1" name="입장 인원수가 부족하여 게임을 시작할 수 없습니다.\n다음 기회를 노려주세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__2" name="검은군단의 공세를 막아내세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__3" name="투르카가 에네르 조각을 소환하였습니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__4" name="투르카가 소환한 검은군단의 군단장을 처치하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__5" name="쳇, 당했나." npc="검은군단 군단장" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__6" name="몇 번을 와도 결론은 똑같다. 언제든지 물리쳐주마. " npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__7" name="내가 뭐라고 했나. 너희는 아직 멀었다!" npc="검은군단 군단장" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__MAIN__8" name="큭… 후퇴하라 태세를 재정비 한다." npc="player" type="SideNpcTalk" feature="Fieldwar01" />
+	<key id="02020062_BF__MESSAGE__0" name="입장을 기다리는 중입니다.\n잠시 후에 게임이 시작됩니다.\n10명이 모이면 바로 시작됩니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT1__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT1__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT2__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT2__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT3__0" name="투르카의 검은 마력이 느껴집니다.\n소환된 에네르를 파괴하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020062_BF__OBJECT3__1" name="파괴한 에네르에서 떨어진 파편을 집어들어\n검은군단 소환체에 사용하세요." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar01" />
+	<key id="02020051_BF__101_MAIN__0" name="정체불명의 기계가 레이더에 포착 되었어요!! 이...이것은 기간티카?!!" npc="렌듀비앙" type="SideNpcTalk" feature="Gigantica01" />
+	<key id="02020051_BF__101_MAIN__1" name="기간티카가 나타났어요. 추적하세요!!" npc="렌듀비앙" type="SideNpcTalk" feature="Gigantica01" />
+	<key id="02020051_BF__101_MAIN__2" name="기간티카를 찾아서 파괴하세요!" npc="systemMSG" type="이벤트UI를설정한다" feature="Gigantica01" />
+	<key id="02020051_BF__102_TIMMER__0" name="기간티카가 도망가 버렸군요....괜찮아요! 다음에 다시 추적해봐요." npc="렌듀비앙" type="SideNpcTalk" feature="Gigantica01" />
+	<key id="02020051_BF__104_END_1__0" name="기간티카는 시간이 지날수록 강력해져요!이를 저지할 방법을 찾으세요!!" npc="렌듀비앙" type="SideNpcTalk" feature="Gigantica01" />
+	<key id="02020051_BF__107_TEXT__0" name="기간티카에게 연속으로 피해를 입으면 위험해요!!공격받게 되면 주변 몬스터들을 처치해 치료제를 획득 하세요." npc="렌듀비앙" type="SideNpcTalk" feature="Gigantica01" />
+	<key id="52020040_QD__52020040__0" name="선박 내부의 문제상황 체크는?" npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__1" name="현재 이상 없습니다!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__2" name="좋다. 모두 긴장을 늦추지 말도록." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__3" name="스카이 포트리스 함교" npc="systemMSG" type="ShowCaption" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__4" name="히야, 신대륙이라니. 이렇게 긴장되는 건 그때 이후로 처음인걸?" npc="샤텐" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__5" name="아아. 그때라면 기억나는 군요.\n제가 있어 문제는 없었지만 말이에요." npc="메이슨" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__6" name="으음? 왠지 나는 모르는 이야기 같군...\n무슨일 있었ㄴ..." npc="콘대르" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__7" name="음?" npc="콘대르" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__8" name="이건...!!!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__9" name="함장님!! 미확인 열원이 감지되었습니다!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__10" name="갑자기 이 무슨... 위치는?" npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__11" name="빠르게 스카이 포트리스로 향하고 있습니다!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__12" name="!!!" npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__13" name="공격체의 속도로 보아, 회피기동은 쓸모가 없을 것 같습니다!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__14" name="충돌 대피를 명령한다. \n신속하게 실행하도록!" npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__15" name="넵!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__16" name="충돌 대피 카운트 다운을 시작합니다." npc="경보 시스템" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__17" name="5...4...3...2..." npc="경보 시스템" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__18" name="1....!" npc="경보 시스템" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__19" name="우아아아아악!!!!!!" npc="콘대르" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__20" name="...?" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__21" name="...말도 안돼." npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__22" name="2시 28분 34초경.\n공격체 소멸되었습니다." npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__23" name="공격체가 소멸되었다고?" npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__24" name="부관, 이유를 파악할 수 있겠나." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__25" name="작은 에너지로 바뀌며 사방에 흩어진 것으로 보아,\n폭발...한것 같습니다." npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__26" name="폭발?!" npc="콘대르" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__27" name="...그보다 부장님의 비명소리가 들린 것 같은..." npc="샤텐" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__28" name="그건! \n지금 그게 중요한게 아니잖나!" npc="콘대르" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__29" name="공격원을 찾아내는게 우선인 것 같군요." npc="메이슨" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__30" name="아니." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__31" name="현재로선 스카이 포트리스를 안전하게 착륙시키는 것이 우선이다." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__32" name="하지만 그때라면 너무 늦을 수 있습니다." npc="메이슨" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__33" name="저기..." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__34" name="뭐죠?" npc="메이슨" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__35" name="제가 갈게요." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__36" name="여기서 먼저 강하하여 공격원을 조사해보겠습니다." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__37" name="아기 고양이, 난 좀 반대인데. \n여긴 신대륙이야. 미지의 세계라구! \n너무 위험해." npc="샤텐" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__38" name="저도 동의해요. \n$MyPCName$님. 너무 위험합니다." npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__39" name="그렇지만 메이슨의 말대로 지금이 아니면 너무 늦어요." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__40" name="...좋다." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__41" name="?!! 함장님!" npc="네이린" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__42" name="다만, 제군. \n이것 만은 명심해라." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__43" name="무사하도록. \n이건 명령이다." npc="블리체" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52020040_QD__52020040__44" name="...네, 블리체 함장." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="02020200_BF__11_BALLOONTALK__0" name="제단을 보호해야 한다. 에네르 응축기가 파괴되지 않도록 해라!" npc="player" type="SideNpcTalk" feature="Kritias_Paika01" />
+	<key id="02020200_BF__11_BALLOONTALK__1" name="이거 왠지 위험해 보이는데?" npc="NotUse" type="AddBalloonTalk" feature="Kritias_Paika01" />
+	<key id="02020200_BF__11_BALLOONTALK__2" name="저 녀석 망치로 이걸 때리면 금방 부서지겠어." npc="NotUse" type="AddBalloonTalk" feature="Kritias_Paika01" />
+	<key id="02020200_BF__11_BALLOONTALK__3" name="멍청한 녀석들... 조심하라고 하지 않았느냐!" npc="player" type="SideNpcTalk" feature="Kritias_Paika01" />
+	<key id="02020200_BF__11_BALLOONTALK__4" name="지금이다!!" npc="NotUse" type="AddBalloonTalk" feature="Kritias_Paika01" />
+	<key id="02020201_BF__MAIN__0" name="반드시 놈들을 저지해라 페이카." npc="player" type="SideNpcTalk" feature="Kritias_Paika01" />
+	<key id="02020201_BF__MAIN__1" name="또 내 앞을 가로막는거냐!!" npc="player" type="SideNpcTalk" feature="Kritias_Paika01" />
+	<key id="52100101_QD__52100101__0" name="검은군단 병사들?!" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__1" name="스카이 포트리스에 발사된 미사일...\n우리가 올 줄 알고 있었던 거야." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__2" name="대체 누가 검은 군단 병사들을 모두 죽인거지?" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__3" name="!!!!!!" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__4" name="배가 많이 고팠나 보네..." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__5" name="거기 둘.\n소속을 밝혀라." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__6" name="?!" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__7" name="너도 저 검은 망토를 쓴 침입자들과 한패인가?" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__8" name="(낯선 대륙의 사람들?!)" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__9" name="당신들...이곳 사람이야?" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__10" name="대단하군, 검은 녀석들을 모두 쓰러뜨리다니." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__11" name="(한패로 오해받으면 귀찮아질지 몰라...말을 돌리는 게 좋겠어.)" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__12" name="검은군단이 이곳에서 뭘하고 있는 거지?" npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__13" name="녀석들의 비행선이 숲 외곽에 착륙했다.\n수색대가 곧 녀석들을 체포할 것이다." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__14" name="당신도 체포하는 게 맞지만...\n녀석들을 쓰러뜨린 힘이라면, 순순히 응하지 않겠지." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__15" name="...맞아. 하지만 이 사람은 상관없어.\n이곳에 웅크리고 있는 걸 발견했을 뿐이야." npc="player" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__16" name="추방자인 모양이군.\n우리가 데려가도록 하지." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__17" name="조심하게, 이방인.\n포레인 숲은 낯선 자들에게 관대하지 않아." npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__18" name="잠시후..." npc="systemMSG" type="연출UI를설정한다" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__19" name="치직...치직..." npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__20" name="투르카님...찾고 있던..." npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__21" name="여자를 확보했습니다...데이터..." npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100101_QD__52100101__22" name="전...송......" npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__0" name="봉인이 성공한 후 블루 라펜타는 어떻게 됐지? " npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__1" name="네 몸속에 녹아들었나?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__2" name="보아하니, 아직 그 힘을 쓰지 못하는 모양이군." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__3" name="무슨 말이죠...? \n전 아무것도 기억이 나지 않아요." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__4" name="제가 누군지 조차도..." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__5" name="그런 일을 벌이고 기억을 잃었다고?\n웃기는 이야길 하는군." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__6" name="뭐, 상관없지.\n체내에 있는 블루 라펜타의 힘을 모조리 뽑아낼 테니까!" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__7" name="가동 시켜라." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_01__8" name="?!" npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__0" name="일부러 잡혔던 건가.\n우릴 이용해서 체내의 라펜타 입자를 응축하려 했군." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__1" name="언제부터 기억이 돌아온 거지?\n아니면 처음부터 기억을 잃은 적이 없었던가?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__2" name="마를레네 집무실에서 널 봤을때.\n그 면상을 보고 어떻게 기억이 돌아오지 않을 수 있겠어." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__3" name="그 상판을 하고 있으면,\n분명 내 몸의 라펜타를 빼내려 할 것이라고 판단했지." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__4" name="웃기는군.\n당장 저 여자를 잡아!" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__5" name="큭... 이것이 블루 라펜타의 힘인가..." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100105_QD__52100105_03__6" name="이것으로 끝이라고 생각하지 마라!" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__0" name="몇시간 전…" npc="systemMSG" type="연출UI를설정한다" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__1" name="포레인 숲 외곽" npc="systemMSG" type="ShowCaption" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__2" name="검은군단 점령 지역" npc="systemMSG" type="ShowCaption" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__3" name="질긴 녀석들.\n입을 열지 않는군." npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__4" name="다시 한번 묻겠다.\n그 여자는 어디 있지?" npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__5" name="여자라니… 대체 누굴 말하는 거지?" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__6" name="머저리 같은 것들…" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__7" name="투르카" npc="systemMSG" type="ShowCaption" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__8" name="검은군단 크리티아스 점령군 군단장" npc="systemMSG" type="ShowCaption" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__9" name="아직도 이런 버러지들과 옥신각신 하고 있었던 것이냐…" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__10" name="히익!\n투…투르카님…" npc="검은군단 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__11" name="물러나라, 멍청한 것들." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__12" name="으읏… 누가 와도 마찬가지다.\n우린 정말 아는 게 없어!" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__13" name="아는 것이 없다라…" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__14" name="으아악!!" npc="게오르크 병사" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__15" name="안돼!!\n이 나쁜 자식…" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__16" name="마지막으로 묻는다.\n그녀를 어디에 숨겼지?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__17" name="우린 정말 그 여자를 모른다고!!!" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__18" name="정말 모르는가…\n쓸모 없는 것들.\n먼저간 버러지들의 길동무로 만들어 주지." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__19" name="크억… 마를레네님…" npc="게오르크 장교" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100102_QD__MAIN__20" name="시간이 얼마 남지 않았다…" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__0" name="불길한 기운이 느껴져…" npc="정체불명의 여자" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__1" name="이곳은 안전하니 안심하렴…" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__2" name="뭐…뭐지?" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__3" name="…!" npc="정체불명의 여자" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__4" name="아둔한 것들…\n이제야 깨닫다니…" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__5" name="아니! 네놈은!" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__6" name="뭐야? 네놈도 여기 있었나?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__7" name="이번에야 말로 끝장을 내자!" npc="NotUse" type="대화를설정한다" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__8" name="자, 순순히 그녀를 내놓으실까?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__9" name="우리를 먼저 상대해야 할 것이다!" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__10" name="한 조직의 수장이란 자가 어찌 이리도 멍청한가?\n내가 이곳에 있다면 밖은 벌써 어찌 되었는지 생각해봐라." npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__11" name="이런!" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__12" name="잘 생각해라.\n한 사람의 목숨때문에 더 큰 희생을 치룰 것인가?" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__13" name="그만둬." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__14" name="나로인해 더는 희생을 치룰 수 없어." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__15" name="안돼! 너만은!" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__16" name="괜찮아.\n별일 없을 거야." npc="클라디아" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__17" name="…" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__18" name="크흐흐… 좋은 결정이다.\n이만 가자!" npc="투르카" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="52100103_QD__MAIN__19" name="클라디아…" npc="마를레네" type="AddCinematicTalk" feature="Kritias_Epic01" />
+	<key id="02020201_BF__MAIN__2" name="거대한 힘이 눈 앞에 있었는데... 투르카님..." npc="NotUse" type="AddBalloonTalk" feature="Kritias_Paika01" />
 </ms2>

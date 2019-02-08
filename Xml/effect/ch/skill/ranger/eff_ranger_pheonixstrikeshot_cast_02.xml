@@ -8,7 +8,4 @@
    <effect type="soundEvent" group="MS2Sound/Sound/Skill/Ranger" event="02100041">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Archer" event="02000002">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
-  </effect>
 </ms2>

@@ -3016,7 +3016,7 @@
 	<key id="1023143105004436" feature="JobChange_02" npc="PC" name="…" />
 	<key id="1023143105004437" feature="JobChange_02" npc="PC" name="이건…" />
 	<key id="1023143105004438" feature="JobChange_02" npc="PC" name="평소에는 생각조차 하지 못했던 수식과 계산된 수치들이&#x0A;머릿속에 마구 떠오르고 있어." />
-	<key id="1023143105004439" feature="JobChange_02" npc="PC" name="몸은 텅 빈 것 같은 데,&#x0A;머릿속은 한계 이상으로 차오르고 있는 듯한 기분이야." />
+	<key id="1023143105004439" feature="JobChange_02" npc="PC" name="몸은 텅 빈 것처럼 가벼운데,&#x0A;머릿속은 한계 이상으로 차오르고 있는 듯한 기분이야." />
 	<key id="1023143105004440" feature="JobChange_02" npc="PC" name="마치 퓨전 코어 그 이상… 아니.&#x0A;새로운 것의 개발도 가능할 것 같은 느낌이 들어." />
 	<key id="1023143105004441" feature="JobChange_02" npc="PC" name="이 기분은…뭔가 나쁘지 않은걸?" />
 	<key id="1023143105004442" feature="JobChange_02" npc="PC" name="……." />
@@ -3072,7 +3072,7 @@
 	<key id="1023143105004483" feature="JobChange_02" npc="비전" name="진정하고 마음을 다스려, $MyPCName$.&#x0A;지금은 그렇게 혼란스러워할 때가 아니야." />
 	<key id="1023143105004484" feature="JobChange_02" npc="비전" name="이곳에서 일어난 일들을, 그들에게 알리는 게 더 시급해." />
 	<key id="1023143105004485" feature="JobChange_02" npc="PC" name="…이곳의 상황을.&#x0A;그래. 네 말이 맞아." />
-	<key id="1023143105004486" feature="JobChange_02" npc="PC" name="일단 $npcName:11003954$로 돌아가자." />
+	<key id="1023143105004486" feature="JobChange_02" npc="PC" name="일단 $map:02020041$로 돌아가자." />
 	<key id="1023143105004496" feature="JobChange_02" npc="네이린" name="시작대사" />
 	<key id="1023143105004497" feature="JobChange_02" npc="네이린" name="진행대사" />
 	<key id="1023143105004498" feature="JobChange_02" npc="네이린" name="얼마 전 사건과 이곳의 $npcName:11004339$$pp:가,이$ 관련이 있다니요?" />
@@ -3081,7 +3081,7 @@
 	<key id="1023143105004501" feature="JobChange_02" npc="네이린" name="뭐, 뭔가 많이 달라지신 것 같은데…?!&#x0A;기분 탓…인가요?" />
 	<key id="1023143105004502" feature="JobChange_02" npc="라네모네" name="하아…기분 탓이겠냐고." />
 	<key id="1023143105004503" feature="JobChange_02" npc="라네모네" name="너, 도대체 무슨 일이 있었던 거야?&#x0A;온몸에서 $npcName:11004339$$pp:를,을$ 뿜어내며 나타나다니." />
-	<key id="1023143105004504" feature="JobChange_02" npc="PC" name="(동굴 안에서 있었던 자조지종을 이야기한다.)" />
+	<key id="1023143105004504" feature="JobChange_02" npc="PC" name="(동굴 안에서 있었던 자초지종을 이야기한다.)" />
 	<key id="1023143105004505" feature="JobChange_02" npc="라네모네" name='그렇군…&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004339$&lt;/font&gt;$pp:와,과$ 실제로 접촉했단 말이지?' />
 	<key id="1023153105004525" feature="JobChange_02" npc="라네모네" name="흐으음…." />
 	<key id="1023143105004506" feature="JobChange_02" npc="라네모네" name="그렇다면 답은 하나인 것 같은데?" />

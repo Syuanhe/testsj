@@ -18,4 +18,9 @@
 	<group id="94026" pickCount="2" dependency="global" />
 	<group id="94028" pickCount="2" dependency="global" />
 	<group id="94030" pickCount="2" dependency="global" />
+	<group id="93100" pickCount="2" dependency="global" />
+	<group id="93200" pickCount="2" dependency="global" />
+	<group id="93300" pickCount="2" dependency="global" />
+	<group id="93400" pickCount="2" dependency="global" />
+	<group id="93500" pickCount="2" dependency="global" />
 </ms2>

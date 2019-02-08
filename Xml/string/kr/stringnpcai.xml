@@ -107,6 +107,10 @@
 	<key id="Balrog_BurstWarnning" name="이제 곧 지옥을 느끼게 해주마" />
 	<key id="Balrog_FinalBroken01" name="우워워어!! 모든걸 부셔버리겠다!!" />
 	<key id="Balrog_FinalBroken02" name="이제 도망갈곳은 없다. 이곳이 너의 무덤이다" />
+	<key id="Balrog_CannonBroken01" name="저 대포가 거슬려....." feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken02" name="정말 귀찮은 장남감이군" feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken03" name="모든 것을 부셔버리겠다!!" feature="Kritias_Balrog01" />
+	<key id="Balrog_Kritias_Dead" name="새로운 힘이 코 앞이었는데...!!" feature="Kritias_Balrog01" />
 	<key id="Balrog_Test01" name="삼각 큐브 체크_test" />
 	<key id="Balrog_Test02" name="랜덤 타겟_test" />
 	<key id="Tristan_TargetAppearance" name="이런 상황이 심각하군....." />
@@ -133,6 +137,7 @@
 	<key id="AirshipBalrogCrimson_HalfwayPoint" name="반환점" />
 	<key id="AirshipBalrogCrimsonFlame_Appearance" name="2페이즈 시작" />
 	<key id="AirshipBalrogCrimsonBroken_CannonAttack" name="인페르녹의 전함에서 대포를 발사합니다." />
+	<key id="AirshipBalrogCrimsonBroken_CannonAttack02" name="인페르녹의 전함에서 대포를 지속적으로 발사합니다." feature="CrimsonBalrog01" />
 	<key id="IshuraRbladerDark_Break_IshuraDamage" name="큭... 이걸 막을 줄이야..." feature="LapentaDungeon" />
 	<key id="IshuraRbladerDark_Break_IshuraAttack" name="이것이 네놈들의 한계다!!" feature="LapentaDungeon" />
 	<key id="IshuraRbladerDarkEventLeave01" name="뭐 제법이군.... 지옥에서 기다리고 있겠다!" feature="LapentaDungeon" />
@@ -141,6 +146,18 @@
 	<key id="YuperiaRbladerDark_FinalChaos_EventLeave01" name="이제 곧 지옥을 느끼게 해주마" feature="LapentaDungeon" />
 	<key id="YuperiaRbladerDark_TwoStage_LongCheck" name="내 주변에 아무도 없으면, 곤란할텐데!" feature="LapentaDungeon" />
 	<key id="YuperiaRbladerDark_TwoStage_CloseCheck" name="저리 떨어져! 날 방해하지 말라고!" feature="LapentaDungeon" />
+	<key id="MapleGuardSpearKritias_InstallInterruption01" name="이 놈들을 빨리 처리해 주세요!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallInterruption02" name="도와주세요~ 입자포 설치를 방해받고 있어요" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallInterruption03" name="빨리 설치 해야 하는데.... 도와주세요!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallBroken" name="이런 다시 설치해야 겠군..." feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallStart" name="설치 작업 진행!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallAction" name="설치 작업 진행중~" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallComplete" name="설치완료! 이것을 빨리 사용하세요" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_BalrogBossGuard" name="발록님 대신 내가 대포를 파괴하겠다!" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_BalrogBossGuard02" name="저 경비병이 대포를 설치하지 못하게 해야 해!" feature="Kritias_Balrog01" />
+	<key id="Paika_Phase03" name="이런 건방진... 병사들이여 나를 도와라" feature="Kritias_Paika01" />
+	<key id="Paika_Phase04" name="이런 망할... 버러지 같은 놈들이!" feature="Kritias_Paika01" />
+	<key id="Paika_LastSkill" name="이제 죽어라. 크아아아악" feature="Kritias_Paika01" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__0" name="물고기 여자, 내가 잡는다!" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__1" name="크록…" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__2" name="크록크록…" />
@@ -354,4 +371,10 @@
 	<key id="EYEOFLAPENTA__AI_YUPERIARBLADERDARK__10" name="더 이상 봐 줄 수가 없어...!" feature="LapentaDungeon" />
 	<key id="EYEOFLAPENTA__AI_YUPERIARBLADERDARK__11" name="뿌리에 묶여 숨막히게 해주지!!!" feature="LapentaDungeon" />
 	<key id="EYEOFLAPENTA__AI_DEATHFLOWER__0" name="동료가 죽음의 꽃에 묶였습니다!! 꽃을 처리하지 않으면 동료를 잃게됩니다!!" feature="LapentaDungeon" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS__0" name="귀찮은 녀석들... 여기서 끝내자." feature="Fieldwar01" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS__1" name="이 정도까지 하다니 제법이군." feature="Fieldwar01" />
+	<key id="AI__AI_GIGANTIKAHEAD_PHASE_6__0" name="기간티카가 이대로 물러나고 있어요!!정말 수고하셨습니다!" feature="Gigantica01" />
+	<key id="AI__AI_GIGANTIKA_SUBBOSS__0" name="좋아요! 이녀석을 타고 기간티카의 장갑을 뚫어버리세요!!" feature="Gigantica01" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS2__0" name="키히히히, 이곳이 네놈들의 무덤이 될 것이다." feature="Fieldwar01" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS2__1" name="키히익, 아직 끝이 아니다!" feature="Fieldwar01" />
 </ms2>

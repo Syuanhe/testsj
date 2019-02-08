@@ -8,6 +8,9 @@
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" useShadow="true" />
     <transform translate="60.0, 50.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/HeavyGunner" event="02200026" startDelay="0.0">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+  </effect>     
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/HeavyGunner" event="02200011">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>    

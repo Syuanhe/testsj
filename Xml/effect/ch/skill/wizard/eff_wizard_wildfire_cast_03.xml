@@ -10,6 +10,11 @@
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
   
+<!-- 잔상 테스트
+<effect type="afterImage" startDelay="0" duration="0.1" lightenMode="0" color="1,0.2,0.2,0.8" timeLife="1.2" timeInterval="1.0" moveInterval="100.0">
+</effect>
+-->
+  
  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Striker" event="04500119" startDelay="0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
 </effect>  

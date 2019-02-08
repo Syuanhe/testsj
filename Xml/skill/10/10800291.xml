@@ -18,7 +18,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -51,7 +51,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -84,7 +84,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -117,7 +117,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -150,7 +150,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -183,7 +183,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -216,7 +216,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -249,7 +249,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -282,7 +282,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -315,7 +315,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -348,7 +348,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />
@@ -381,7 +381,7 @@
 			<stat sp="45" />
 		</consume>
 		<targetItem />
-		<upgrade level="76" skillIDs="10800281" skillLevels="5" />
+		<upgrade level="76" skillIDs="10800281" skillLevels="5" questIDs="40002795" />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<glideProperty gravity="0" heightLimit="0" horizontalAccelerate="0" horizontalVelocity="0" verticalAccelerate="0" verticalVelocity="0" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" bEffect="0" effectRun="" effectIdle="" aniIdle="" aniLeft="" aniRight="" aniRun="" onGroundDisable="0" />

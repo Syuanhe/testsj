@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="OH">
-				<asset name="Data/Resource/Model/Item/1/34/13400194_DragonStar.nif" selfnode="Point01" targetnode="Weapon_Back_B_Point" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="Data/Resource/Model/Item/1/34/13400250_GuildraidStar.nif" selfnode="Point01" targetnode="Weapon_Back_B_Point" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<dummy gender="0" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="0.000000, 0.000000, 0.000000" translation="-4.000000, 6.000000, 0.000000" />
 					<dummy gender="1" sequence="" targetnode="Weapon_Back_B_Point" worldmode="false" worldlerp="false" step="0.0003" rotation="0.000000, 0.000000, 0.000000" translation="-6.000000, 6.000000, 0.000000" />
 					<physx action="" />
@@ -29,7 +29,7 @@
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="2" attack="10" />
-		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/13400194.png" slotIconCustom="icon0.png" type="1" subtype="16" itemGroup="1" category="OH" blackMarketCategory="134_equip" remakeDisable="false" iconCode="1" representOption="27" movie="" xmlData="" presetPath="1/34/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="37" globalRePackingItemConsumeCount="25" globalRePackingScrollID="10000001,10000003" moveDisable="1" collection="0" doNotPreview="0" doNotSkipRender="0">
+		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/13400250.png" slotIconCustom="icon0.png" type="1" subtype="16" itemGroup="1" category="OH" blackMarketCategory="134_equip" remakeDisable="false" iconCode="1" representOption="27" movie="" xmlData="" presetPath="1/34/" reference="3" gearScore="70" tradableCount="1" tradableCountDeduction="1" rePackingLimitCount="1" rePackingItemConsumeCount="37" globalRePackingItemConsumeCount="25" globalRePackingScrollID="10000001,10000003" moveDisable="1" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
 			<exp attackExp="0" lifeExp="0" adventureExp="0" />
 		</property>
@@ -41,7 +41,7 @@
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="90051268,90051274,90051275" level="1,1,1" />
-		<tool itemPreset="13400194" itemPresetPath="1/34/" />
+		<tool itemPreset="13400250" itemPresetPath="1/34/" />
 		<option title="13400303" static="13400303" random="13400303" constant="13400303" staticMakeType="2" randomMakeType="1" constantMakeType="2" optionRandom="0" optionLevelFactor="70" optionID="134010101" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />
