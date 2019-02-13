@@ -16,7 +16,7 @@
 			</slot>
 		</slots>
 		<limit jobLimit="" recommendJobs="0" levelLimit="1" levelLimitMax="0" genderLimit="2" transferType="1" shopSell="0" enableBreak="0" enableRegisterMeratMarket="0" exceptEnchant="0" />
-		<skill skillID="90000035" skillLevel="1" />
+		<skill skillID="90000037" skillLevel="1" />
 		<objectWeaponSkill skillID="0" skillLevel="1" />
 		<title maxCount="0" />
 		<effect enchantShape="1" idle="" battleIdle="" characterIdle="" characterBattleIdle="" />

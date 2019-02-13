@@ -4359,6 +4359,7 @@
 	<individualDropBox individualDropBoxID="320000159" dropGroup="1" item="15200284" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000159" dropGroup="1" item="15300280" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000159" dropGroup="1" item="15400168" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="320000159" dropGroup="1" item="15500205" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Striker" />
 	<individualDropBox individualDropBoxID="320000159" dropGroup="1" item="15600194" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="320000160" dropGroup="1" item="11301049" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000160" dropGroup="2" item="11400897" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
@@ -4378,6 +4379,7 @@
 	<individualDropBox individualDropBoxID="320000161" dropGroup="1" item="15200262" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000161" dropGroup="1" item="15300258" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000161" dropGroup="1" item="15400148" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="320000161" dropGroup="1" item="15500185" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Striker" />
 	<individualDropBox individualDropBoxID="320000161" dropGroup="1" item="15600174" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="320000162" dropGroup="1" item="11301048" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000162" dropGroup="2" item="11400896" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
@@ -4397,6 +4399,7 @@
 	<individualDropBox individualDropBoxID="320000163" dropGroup="1" item="15200261" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000163" dropGroup="1" item="15300257" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000163" dropGroup="1" item="15400147" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="320000163" dropGroup="1" item="15500184" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Striker" />
 	<individualDropBox individualDropBoxID="320000163" dropGroup="1" item="15600173" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="320000164" dropGroup="1" item="11301047" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000164" dropGroup="2" item="11400895" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
@@ -4416,6 +4419,7 @@
 	<individualDropBox individualDropBoxID="320000165" dropGroup="1" item="15200260" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000165" dropGroup="1" item="15300256" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000165" dropGroup="1" item="15400146" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="320000165" dropGroup="1" item="15500183" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Striker" />
 	<individualDropBox individualDropBoxID="320000165" dropGroup="1" item="15600172" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="320000166" dropGroup="1" item="11301046" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000166" dropGroup="2" item="11400894" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
@@ -4435,6 +4439,7 @@
 	<individualDropBox individualDropBoxID="320000167" dropGroup="1" item="15200259" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000167" dropGroup="1" item="15300255" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="320000167" dropGroup="1" item="15400145" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="320000167" dropGroup="1" item="15500182" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Striker" />
 	<individualDropBox individualDropBoxID="320000167" dropGroup="1" item="15600171" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="320000168" dropGroup="1" item="20001141" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="320000168" dropGroup="2" item="20302182" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />

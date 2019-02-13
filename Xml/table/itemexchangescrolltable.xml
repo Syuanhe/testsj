@@ -6752,61 +6752,61 @@
 		<require meso="2500000" />
 	</exchange>
 	<exchange id="36000438" type="exchange">
-		<receipe id="36000438" rank="5" count="30" />
+		<receipe id="36000438" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302298" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000439" type="exchange">
-		<receipe id="36000439" rank="5" count="30" />
+		<receipe id="36000439" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302299" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000440" type="exchange">
-		<receipe id="36000440" rank="5" count="30" />
+		<receipe id="36000440" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302302" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000441" type="exchange">
-		<receipe id="36000441" rank="5" count="30" />
+		<receipe id="36000441" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302303" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000442" type="exchange">
-		<receipe id="36000442" rank="5" count="30" />
+		<receipe id="36000442" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302306" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000443" type="exchange">
-		<receipe id="36000443" rank="5" count="30" />
+		<receipe id="36000443" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302307" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000444" type="exchange">
-		<receipe id="36000444" rank="5" count="30" />
+		<receipe id="36000444" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302308" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000445" type="exchange">
-		<receipe id="36000445" rank="5" count="30" />
+		<receipe id="36000445" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302309" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000446" type="exchange">
-		<receipe id="36000446" rank="5" count="30" />
+		<receipe id="36000446" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302310" rank="5" count="1" />
 		<require meso="" />
 	</exchange>
 	<exchange id="36000447" type="exchange">
-		<receipe id="36000447" rank="5" count="30" />
+		<receipe id="36000447" rank="5" count="20" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302311" rank="5" count="1" />
 		<require meso="" />

@@ -698,18 +698,18 @@
 	<key id="10300268" level="10" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
 	<key id="10300268" level="11" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
 	<key id="10300268" level="12" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
-	<key id="10300271" level="1" name="허리케인 북상 중!" tooltipDescription="매 초 179% 범위 대미지\n매 초 중첩 당 69% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="2" name="허리케인 북상 중!" tooltipDescription="매 초 199% 범위 대미지\n매 초 중첩 당 78% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="3" name="허리케인 북상 중!" tooltipDescription="매 초 219% 범위 대미지\n매 초 중첩 당 87% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="4" name="허리케인 북상 중!" tooltipDescription="매 초 239% 범위 대미지\n매 초 중첩 당 96% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="5" name="허리케인 북상 중!" tooltipDescription="매 초 259% 범위 대미지\n매 초 중첩 당 105% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="6" name="허리케인 북상 중!" tooltipDescription="매 초 279% 범위 대미지\n매 초 중첩 당 114% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="7" name="허리케인 북상 중!" tooltipDescription="매 초 299% 범위 대미지\n매 초 중첩 당 123% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="8" name="허리케인 북상 중!" tooltipDescription="매 초 319% 범위 대미지\n매 초 중첩 당 132% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="9" name="허리케인 북상 중!" tooltipDescription="매 초 339% 범위 대미지\n매 초 중첩 당 141% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="10" name="허리케인 북상 중!" tooltipDescription="매 초 359% 범위 대미지\n매 초 중첩 당 150% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="11" name="허리케인 북상 중!" tooltipDescription="매 초 379% 범위 대미지\n매 초 중첩 당 159% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
-	<key id="10300271" level="12" name="허리케인 북상 중!" tooltipDescription="매 초 399% 범위 대미지\n매 초 중첩 당 168% 대미지\n한기 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="1" name="허리케인 북상 중!" tooltipDescription="매 초 179% 범위 대미지\n매 초 중첩 당 69% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="2" name="허리케인 북상 중!" tooltipDescription="매 초 199% 범위 대미지\n매 초 중첩 당 78% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="3" name="허리케인 북상 중!" tooltipDescription="매 초 219% 범위 대미지\n매 초 중첩 당 87% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="4" name="허리케인 북상 중!" tooltipDescription="매 초 239% 범위 대미지\n매 초 중첩 당 96% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="5" name="허리케인 북상 중!" tooltipDescription="매 초 259% 범위 대미지\n매 초 중첩 당 105% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="6" name="허리케인 북상 중!" tooltipDescription="매 초 279% 범위 대미지\n매 초 중첩 당 114% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="7" name="허리케인 북상 중!" tooltipDescription="매 초 299% 범위 대미지\n매 초 중첩 당 123% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="8" name="허리케인 북상 중!" tooltipDescription="매 초 319% 범위 대미지\n매 초 중첩 당 132% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="9" name="허리케인 북상 중!" tooltipDescription="매 초 339% 범위 대미지\n매 초 중첩 당 141% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="10" name="허리케인 북상 중!" tooltipDescription="매 초 359% 범위 대미지\n매 초 중첩 당 150% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="11" name="허리케인 북상 중!" tooltipDescription="매 초 379% 범위 대미지\n매 초 중첩 당 159% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="12" name="허리케인 북상 중!" tooltipDescription="매 초 399% 범위 대미지\n매 초 중첩 당 168% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
 	<key id="10300275" level="1" name="용오름" tooltipDescription="매 0.5초 271% 범위 대미지" feature="JobChange_02" />
 	<key id="10300275" level="2" name="용오름" tooltipDescription="매 0.5초 303% 범위 대미지" feature="JobChange_02" />
 	<key id="10300275" level="3" name="용오름" tooltipDescription="매 0.5초 335% 범위 대미지" feature="JobChange_02" />
@@ -1395,6 +1395,42 @@
 	<key id="10700232" level="10" name="압착 유리병 2" tooltipDescription="맹독에 중독되었습니다!\n매 초마다 85% 의 독 대미지" feature="JobChange_01" />
 	<key id="10700232" level="11" name="압착 유리병 2" tooltipDescription="맹독에 중독되었습니다!\n매 초마다 90% 의 독 대미지" feature="JobChange_01" />
 	<key id="10700232" level="12" name="압착 유리병 2" tooltipDescription="맹독에 중독되었습니다!\n매 초마다 95% 의 독 대미지" feature="JobChange_01" />
+	<key id="10700282" level="1" name="임기 응변" tooltipDescription="공격속도 7%, 이동속도 4% 증가" feature="JobChange_02" />
+	<key id="10700282" level="2" name="임기 응변" tooltipDescription="공격속도 14%, 이동속도 8% 증가" feature="JobChange_02" />
+	<key id="10700282" level="3" name="임기 응변" tooltipDescription="공격속도 21%, 이동속도 12% 증가" feature="JobChange_02" />
+	<key id="10700282" level="4" name="임기 응변" tooltipDescription="공격속도 28%, 이동속도 16% 증가" feature="JobChange_02" />
+	<key id="10700282" level="5" name="임기 응변" tooltipDescription="공격속도 35%, 이동속도 20% 증가" feature="JobChange_02" />
+	<key id="10700282" level="6" name="임기 응변" tooltipDescription="공격속도 42%, 이동속도 24% 증가" feature="JobChange_02" />
+	<key id="10700282" level="7" name="임기 응변" tooltipDescription="공격속도 49%, 이동속도 28% 증가" feature="JobChange_02" />
+	<key id="10700282" level="8" name="임기 응변" tooltipDescription="공격속도 56%, 이동속도 32% 증가" feature="JobChange_02" />
+	<key id="10700282" level="9" name="임기 응변" tooltipDescription="공격속도 63%, 이동속도 36% 증가" feature="JobChange_02" />
+	<key id="10700282" level="10" name="임기 응변" tooltipDescription="공격속도 70%, 이동속도 40% 증가" feature="JobChange_02" />
+	<key id="10700282" level="11" name="임기 응변" tooltipDescription="공격속도 77%, 이동속도 44% 증가" feature="JobChange_02" />
+	<key id="10700282" level="12" name="임기 응변" tooltipDescription="공격속도 84%, 이동속도 48% 증가" feature="JobChange_02" />
+	<key id="10700283" level="1" name="임기 응변" tooltipDescription="물리/마법 공격력 6%, 물리/마법 저항력 105 증가" feature="JobChange_02" />
+	<key id="10700283" level="2" name="임기 응변" tooltipDescription="물리/마법 공격력 12%, 물리/마법 저항력 135 증가" feature="JobChange_02" />
+	<key id="10700283" level="3" name="임기 응변" tooltipDescription="물리/마법 공격력 18%, 물리/마법 저항력 165 증가" feature="JobChange_02" />
+	<key id="10700283" level="4" name="임기 응변" tooltipDescription="물리/마법 공격력 24%, 물리/마법 저항력 195 증가" feature="JobChange_02" />
+	<key id="10700283" level="5" name="임기 응변" tooltipDescription="물리/마법 공격력 30%, 물리/마법 저항력 225 증가" feature="JobChange_02" />
+	<key id="10700283" level="6" name="임기 응변" tooltipDescription="물리/마법 공격력 36%, 물리/마법 저항력 255 증가" feature="JobChange_02" />
+	<key id="10700283" level="7" name="임기 응변" tooltipDescription="물리/마법 공격력 42%, 물리/마법 저항력 285 증가" feature="JobChange_02" />
+	<key id="10700283" level="8" name="임기 응변" tooltipDescription="물리/마법 공격력 48%, 물리/마법 저항력 315 증가" feature="JobChange_02" />
+	<key id="10700283" level="9" name="임기 응변" tooltipDescription="물리/마법 공격력 54%, 물리/마법 저항력 345 증가" feature="JobChange_02" />
+	<key id="10700283" level="10" name="임기 응변" tooltipDescription="물리/마법 공격력 60%, 물리/마법 저항력 375 증가" feature="JobChange_02" />
+	<key id="10700283" level="11" name="임기 응변" tooltipDescription="물리/마법 공격력 66%, 물리/마법 저항력 405 증가" feature="JobChange_02" />
+	<key id="10700283" level="12" name="임기 응변" tooltipDescription="물리/마법 공격력 72%, 물리/마법 저항력 435 증가" feature="JobChange_02" />
+	<key id="10700284" level="1" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 4%, 회피 4 증가" feature="JobChange_02" />
+	<key id="10700284" level="2" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 8%, 회피 8 증가" feature="JobChange_02" />
+	<key id="10700284" level="3" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 12%, 회피 12 증가" feature="JobChange_02" />
+	<key id="10700284" level="4" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 16%, 회피 16 증가" feature="JobChange_02" />
+	<key id="10700284" level="5" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 20%, 회피 20 증가" feature="JobChange_02" />
+	<key id="10700284" level="6" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 24%, 회피 24 증가" feature="JobChange_02" />
+	<key id="10700284" level="7" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 28%, 회피 28 증가" feature="JobChange_02" />
+	<key id="10700284" level="8" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 32%, 회피 32 증가" feature="JobChange_02" />
+	<key id="10700284" level="9" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 36%, 회피 36 증가" feature="JobChange_02" />
+	<key id="10700284" level="10" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 40%, 회피 40 증가" feature="JobChange_02" />
+	<key id="10700284" level="11" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 44%, 회피 44 증가" feature="JobChange_02" />
+	<key id="10700284" level="12" name="임기 응변" tooltipDescription="보복 상태에서 무기 공격력 48%, 회피 48 증가" feature="JobChange_02" />
 	<key id="10800041" level="1" name="페이탈 어택" tooltipDescription="적의 약점을 간파하였습니다!\n모든 공격이 크리티컬로 발동" />
 	<key id="10800041" level="2" name="페이탈 어택" tooltipDescription="적의 약점을 간파하였습니다!\n모든 공격이 크리티컬로 발동" />
 	<key id="10800041" level="3" name="페이탈 어택" tooltipDescription="적의 약점을 간파하였습니다!\n모든 공격이 크리티컬로 발동" />
@@ -1723,8 +1759,8 @@
 	<key id="10900231" level="1" name="피지컬 부스트" tooltipDescription="신체 능력이 강화되었습니다!\n이동 속도 30% 증가\n방어력 20% 증가" feature="JobChange_01" />
 	<key id="11000042" level="1" name="길로틴" tooltipDescription="강렬한 진동에 몸을 움직이기 힘듭니다!\n이동속도와 점프력 30% 감소" feature="Striker" />
 	<key id="11000051" level="1" name="가드 대쉬" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치 타입 스킬 공격 대미지 5% 증가" feature="Striker" />
-	<key id="11000053" level="1" name="가드 대쉬 EX" tooltipDescription="-2146826246" feature="Striker" />
-	<key id="11000055" level="1" name="가드 대쉬 EX" tooltipDescription="-2146826246" feature="Striker" />
+	<key id="11000053" level="1" name="가드 대쉬 EX" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치, 킥 타입 스킬 공격 대미지 10% 증가" feature="JobChange_01" />
+	<key id="11000055" level="1" name="가드 대쉬 EX" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치, 킥 타입 스킬 공격 대미지 10% 증가" feature="JobChange_01" />
 	<key id="11000081" level="1" name="스탠스 체인지" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 콤비네이션, 비트 다운, 라이징 킥, 길로틴\n스킬들을 변환 형태로 발동" feature="Striker" />
 	<key id="11000101" level="1" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 10% 증가" feature="Striker" />
 	<key id="11000101" level="2" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 12% 증가" feature="Striker" />

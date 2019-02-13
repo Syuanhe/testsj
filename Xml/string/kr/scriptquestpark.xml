@@ -5484,7 +5484,7 @@
 	<key id="1122173211013113" feature="Kritias_Epic01" npc="벤시" name="그곳에서 미사일이 발사되는 것을 봤어. 거대한 비행선을 향해 말이야.&#x0A;당신 그걸 타고 여기 온 거지?" />
 	<key id="1122173211013114" feature="Kritias_Epic01" npc="PC" name="(고맙다고 말하고 구릉을 향해 출발하기로 한다.)" />
 	<key id="1122173211013115" feature="Kritias_Epic01" npc="벤시" name="죽고 싶지 않다면 그만둬.&#x0A;구릉으로 가는 길목은 기계 병사들이 자주 나타나는 곳이야." />
-	<key id="1205162111013322" feature="Kritias_Epic01" npc="벤시" name="놈들에게 발각되면 두 동강이 걸?&#x0A;당신이 싸웠던 토착 생물과는 급이 달라." />
+	<key id="1205162111013322" feature="Kritias_Epic01" npc="벤시" name="놈들에게 발각되면 두 동강이 날걸?&#x0A;당신이 싸웠던 토착 생물과는 급이 달라." />
 	<key id="1122173211013116" feature="Kritias_Epic01" npc="PC" name="(무슨 일이 있어도 구릉에 가서 초소를 조사하겠다고 말한다.)" />
 	<key id="1122173211013117" feature="Kritias_Epic01" npc="벤시" name="뭐, 스스로 죽겠다면야… 말리지는 않겠어.&#x0A;행운을 비네, 이방인." />
 	<key id="1205163011013323" feature="Kritias_Epic01" npc="PC" name="(기계 병사들에 관해 묻는다.)" />
@@ -5681,7 +5681,7 @@
 	<key id="1128175411013253" feature="Kritias_Epic01" npc="키라" name="그 말인즉슨… 파괴하지 않는 이상 절대 열 수 없다는 뜻이야.&#x0A;아니면 건물 꼭대기의 에네르 첨탑을 파괴하면 모를까….&#x0A;에네르 공급이 중단되면 비상 매뉴얼에 따라 모든 문이 열리게 되어 있거든." />
 	<key id="1205164111013325" feature="Kritias_Epic01" npc="키라" name='하지만 격벽이나 에네르 첨탑을 파괴할 만한 화기는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;에는 존재하지 않아.' />
 	<key id="1120154411013058" feature="Kritias_Epic01" npc="키라" name="소용없다니까. 괜히 힘 빼지 말라고." />
-	<key id="1212174711013336" feature="Kritias_Epic01" npc="키라" name="($map:02020030$로 돌아가서 격벽을 열 방법을 생각해보겠다고 한다.)" />
+	<key id="1212174711013336" feature="Kritias_Epic01" npc="PC" name="($map:02020030$로 돌아가서 격벽을 열 방법을 생각해보겠다고 한다.)" />
 	<key id="1120154411013059" feature="Kritias_Epic01" npc="마를레네" name='기다리고 있었어요. $MyPCName$&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:는,은$ 무사하던가요?' />
 	<key id="1120154411013060" feature="Kritias_Epic01" npc="마를레네" name='격벽이 내려져서 진입이 불가능하다고요…?!&#x0A;이대로 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004400[gender:1]$&lt;/font&gt;$pp:를,을$ 포기할 순 없어요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020030$&lt;/font&gt;의 장거리포로 직격하면 파괴될지도 몰라요.' />
 	<key id="1128175411013254" feature="Kritias_Epic01" npc="PC" name="(격벽의 두께가 장거리포로 뚫릴 만큼 얇지 않다고 말한다.)" />

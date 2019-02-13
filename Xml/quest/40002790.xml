@@ -21,6 +21,7 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
+			<dispatch type="directComplete" field="52000188" portal="1" script="0" />
 		</quest>
 	</environment>
 </ms2>

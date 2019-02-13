@@ -19,7 +19,7 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="interact_object_rep" code="12000241" value="5">
+			<condition type="interact_object_rep" code="12000241" value="1">
 				<navi type="interact" code="12000077" map="02020004" />
 			</condition>
 		</quest>

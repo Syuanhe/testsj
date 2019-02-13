@@ -5,7 +5,7 @@
 		<quest>
 			<basic chapterID="9500" questID="95000006" questType="2" account="0" standardLevel="10" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" usePostbox="1" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
-			<require level="10" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" equipment="11250109,11250110,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" />
+			<require level="10" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" equipment="11200097,11200098,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" />
 			<start npc="11001612" />
 			<complete npc="11001612" />
 			<acceptReward />
@@ -20,14 +20,14 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="equip_exist" code="11250109,11250110,11301279,113012XX,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" value="6" />
+			<condition type="equip_exist" code="11200097,11200098,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" value="6" />
 		</quest>
 	</environment>
 	<environment feature="" locale="CN">
 		<quest>
 			<basic chapterID="9500" questID="95000006" questType="2" account="0" standardLevel="10" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="20190124_SkinQuest" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" usePostbox="1" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
-			<require level="10" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" equipment="11250109,11250110,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" />
+			<require level="10" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" equipment="11200097,11200098,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" />
 			<start npc="11001612" />
 			<complete npc="11001612" />
 			<acceptReward />
@@ -42,7 +42,7 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="equip_exist" code="11250109,11250110,11301279,113012XX,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" value="6" />
+			<condition type="equip_exist" code="11200097,11200098,11301279,11301391,11601164,11601165,11701259,11701260,11800124,11800125,12200557,12200558" value="6" />
 		</quest>
 	</environment>
 </ms2>

@@ -413,7 +413,7 @@
 	<key id="18122111" name="강화된 품위의 의식 세트" feature="Level70Item" />
 	<key id="18122112" name="강화된 품위의 액세서리 세트" feature="Level70Item" />
 	<key id="18122701" name="크리티아스 라펜샤드 액세서리 세트" feature="Level70Item" />
-	<key id="18122702" name="카오스 보스 고유 액세서리 세트" feature="Level70Item" />
+	<key id="18122702" name="시공의 힘 액세서리 세트" feature="Level70Item" />
 	<key id="19010301" name="타이렌 커맨더 컴뱃 나이트 세트" feature="Level70Item" />
 	<key id="19010302" name="타이렌 커맨더 컴뱃 버서커 세트" feature="Level70Item" />
 	<key id="19010303" name="타이렌 커맨더 컴뱃 위자드 세트" feature="Level70Item" />
@@ -421,7 +421,7 @@
 	<key id="19010305" name="타이렌 커맨더 컴뱃 레인저 세트" feature="Level70Item" />
 	<key id="19010306" name="타이렌 커맨더 컴뱃 헤비거너 세트" feature="Level70Item" />
 	<key id="19010307" name="타이렌 커맨더 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19010308" name="타이렌 커맨더 컴뱃 어째신 세트" feature="Level70Item" />
+	<key id="19010308" name="타이렌 커맨더 컴뱃 어쌔신 세트" feature="Level70Item" />
 	<key id="19010309" name="타이렌 커맨더 컴뱃 룬블레이더 세트" feature="Level70Item" />
 	<key id="19010310" name="타이렌 커맨더 컴뱃 스트라이커 세트" feature="Level70Item" />
 	<key id="19010311" name="타이렌 커맨더 컴뱃 소울바인더 세트" feature="Level70Item" />
@@ -432,7 +432,7 @@
 	<key id="19010316" name="안티크 인페누크 레인저 세트" feature="Level70Item" />
 	<key id="19010317" name="안티크 인페누크 헤비거너 세트" feature="Level70Item" />
 	<key id="19010318" name="안티크 인페누크 시프 세트" feature="Level70Item" />
-	<key id="19010319" name="안티크 인페누크 어째신 세트" feature="Level70Item" />
+	<key id="19010319" name="안티크 인페누크 어쌔신 세트" feature="Level70Item" />
 	<key id="19010320" name="안티크 인페누크 룬블레이더 세트" feature="Level70Item" />
 	<key id="19010321" name="안티크 인페누크 스트라이커 세트" feature="Level70Item" />
 	<key id="19010322" name="안티크 인페누크 소울바인더 세트" feature="Level70Item" />
@@ -443,7 +443,7 @@
 	<key id="19011105" name="타이렌 컴뱃 레인저 세트" feature="Level70Item" />
 	<key id="19011106" name="타이렌 컴뱃 헤비거너 세트" feature="Level70Item" />
 	<key id="19011107" name="타이렌 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19011108" name="타이렌 컴뱃 어째신 세트" feature="Level70Item" />
+	<key id="19011108" name="타이렌 컴뱃 어쌔신 세트" feature="Level70Item" />
 	<key id="19011109" name="타이렌 컴뱃 룬블레이더 세트" feature="Level70Item" />
 	<key id="19011110" name="타이렌 컴뱃 스트라이커 세트" feature="Level70Item" />
 	<key id="19011111" name="타이렌 컴뱃 소울바인더 세트" feature="Level70Item" />
@@ -454,7 +454,7 @@
 	<key id="19011116" name="안티크 에라곤 레인저 세트" feature="Level70Item" />
 	<key id="19011117" name="안티크 에라곤 헤비거너 세트" feature="Level70Item" />
 	<key id="19011118" name="안티크 에라곤 시프 세트" feature="Level70Item" />
-	<key id="19011119" name="안티크 에라곤 어째신 세트" feature="Level70Item" />
+	<key id="19011119" name="안티크 에라곤 어쌔신 세트" feature="Level70Item" />
 	<key id="19011120" name="안티크 에라곤 룬블레이더 세트" feature="Level70Item" />
 	<key id="19011121" name="안티크 에라곤 스트라이커 세트" feature="Level70Item" />
 	<key id="19011122" name="안티크 에라곤 소울바인더 세트" feature="Level70Item" />

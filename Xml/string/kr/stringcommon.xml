@@ -340,7 +340,7 @@
 	<key id="s_ugcmap_height_level_extended_successfully" value="실내 높이가 확장되었습니다." />
 	<key id="s_ugcmap_area_level_shrink_successfully" value="실내 면적이 축소되었습니다." />
 	<key id="s_ugcmap_height_level_shrink_successfully" value="실내 높이가 축소되었습니다." />
-	<key id="s_ugcmap_not_use_blueprint_item" value="블루프린트 아이템은 내 집에서만 사용이 가능합니다." />
+	<key id="s_ugcmap_not_use_blueprint_item" value="블루프린트 아이템은 내 집에서만 사용이 가능합니다." feature="Blueprint" />
 	<key id="s_ugc_edit_homeless" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;아직 집에 가보지 않으셨군요!&lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;공사권을 구입한 후 집으로 이동을 누르면\n내 집 실내로 들어갈 수 있습니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos; color=&apos;#FFD200&apos;&gt; &lt;/FONT&gt;\n공사권을 정말 구입하겠습니까?&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_ugc_edit_different_indoorsize" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FF5F5F&apos;&gt;(주의) 인테리어 공사권의 크기가 내 집보다 큽니다.&lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;이 공사권을 구입해도 지금 살고 있는 집에는 설치할 수 없습니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos; color=&apos;#FFD200&apos;&gt; &lt;/FONT&gt;\n공사권을 정말 구입하겠습니까?&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_ugc_edit_demolish_agree" value="주의 사항을 충분히 읽고 확인했습니다." />
@@ -4255,6 +4255,9 @@
 	<key id="s_room_exit_pvp_zone" value="전장 떠나기" />
 	<key id="s_room_exit_arcade" value="아케이드에서 나가기" />
 	<key id="s_room_exit_maple_survival" value="머쉬킹 챔피언십 나가기" feature="SurvivalContents01" />
+	<key id="s_room_exit_msg_design" value="꾸미기 모드에서 나가기" />
+	<key id="s_room_exit_msg_blueprint" value="블루프린트 모드에서 나가기" feature="Blueprint" />
+	<key id="s_room_exit_msg_blueprint_preview" value="모델하우스에서 나가기" feature="Blueprint" />
 	<key id="s_room_exit_msg_ugc_indoor" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;10초 후 자동으로 밖으로 이동합니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_dungeon" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;던전을 포기하고 밖으로 이동합니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_default_revival_limit_dungeon" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;던전 밖으로 이동합니다.\n재진입은 가능하지만 전투 참여는 불가능합니다.&lt;/font&gt;" />
@@ -5479,7 +5482,7 @@
 	<key id="s_pvp_arena_close_test_season_msg" value="메이플 아일랜드의 숙련된 장인 &apos;스페셜 원&apos;이\n투기장을 수리하고 있습니다.\n1월 12일에 만나요" />
 	<key id="s_home_save_messagebox" value="현재 상태를 {0}번 슬롯에 저장합니다.\n\n저장 메모를 입력하세요" />
 	<key id="s_home_load_messagebox" value="{0}번 슬롯에 저장된 맵을 불러옵니다.\n\n저장된 데이터를 불러올 경우 현재 있는 맵의 정보가 사라집니다.\n마네킹에 장착된 아이템은 소지품으로 이동되거나 별도 우편으로 발송해 드립니다.\n\n정말 불러오겠습니까?" />
-	<key id="s_home_blueprint_load_messagebox" value="{0}번 슬롯에 저장된 블루프린트를 불러옵니다.\n\n저장된 데이터를 불러올 경우 현재 제작 중이던 블루프린트의 정보가 사라집니다.\n\n정말 불러오겠습니까?" />
+	<key id="s_home_blueprint_load_messagebox" value="{0}번 슬롯에 저장된 블루프린트를 불러옵니다.\n\n저장된 데이터를 불러올 경우 현재 제작 중이던 블루프린트의 정보가 사라집니다.\n\n정말 불러오겠습니까?" feature="Blueprint" />
 	<key id="s_home_save_title_empty" value="제목 없음" />
 	<key id="s_home_save_btn_text" value="저장하기" />
 	<key id="s_home_save_btn_overwrite" value="이미 저장된 도면이 있습니다.\n저장된 내용을 덮어쓰시겠습니까?" />
@@ -5488,7 +5491,7 @@
 	<key id="s_home_info_save_messagebox_load" value="내 도면 불러오기" />
 	<key id="s_home_info_save_messagebox_remove" value="실내 비우기" />
 	<key id="s_home_info_exit_messagebox_save" value="꾸미기 모드를 종료하겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" />
-	<key id="s_home_info_exit_blueprint_messagebox_save" value="블루프린트 모드를 종료하겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" />
+	<key id="s_home_info_exit_blueprint_messagebox_save" value="블루프린트 모드를 종료하겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않은 데이터는 사라집니다.&lt;/FONT&gt;" feature="Blueprint" />
 	<key id="s_home_info_area" value="{0} X {0}" />
 	<key id="s_home_info_height" value="{0}" />
 	<key id="s_home_info_title_area" value="면적 {0} X {0}" />

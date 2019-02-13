@@ -41,7 +41,7 @@
 		</dummy>
 		<dummy name="Eff_UI">
 			<attachInfo parentNode="Scene Root" applyLocalScale="false" applyWorldTransform="true" />
-			<transform translate="0.0, 0.0, 85.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
+			<transform translate="0.0, 0.0, 145.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
 		</dummy>
 		<dummy name="Eff_Damage">
 			<attachInfo parentNode="Eff_UI" applyLocalScale="false" applyWorldTransform="true" />

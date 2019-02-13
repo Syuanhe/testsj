@@ -31,9 +31,11 @@
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
     <update translate="true" rotation="false" scale="true" />
   </effect>
-
+  
+<!-- 잔상 주석 처리 
     <effect type="afterImage" startDelay="0.4" duration="0.3" lightenMode="0" color="0.3,0.3,0.3,1" timeLife="1.3" moveInterval="100">
   </effect>
+-->
   
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Berserker" event="01200060" startDelay="0" doNotStop="true">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />

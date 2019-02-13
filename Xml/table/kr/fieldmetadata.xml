@@ -45625,7 +45625,7 @@
 	<fluid field="52000053" attr="water" />
 	<fluid field="2000204" attr="water" />
 	<fluid field="3000004" attr="poison,devilwater" />
-	<fluid field="2020003" attr="poison,oil,water" />
+	<fluid field="2020003" attr="poison,water" />
 	<fluid field="2020004" attr="emeraldwater" />
 	<fluid field="3000006" attr="poison" />
 	<fluid field="2000207" attr="lava" />

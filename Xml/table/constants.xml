@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<v key="NPCColorScale" value="2.0" />
 	<v key="NPCDuration" value="0.2" />
@@ -52,8 +52,8 @@
 	<v key="RegistUgcDistance" value="150" />
 	<v key="RegistUgcDistanceClose" value="300" />
 	<v key="ConstructUgcDistance" value="150" />
-	<v key="FunctionCubeDistance" value="125" />
-	<v key="InteractionDistance" value="155" />
+	<v key="FunctionCubeDistance" value="10000" />
+	<v key="InteractionDistance" value="10000" />
 	<v key="HouseMarkShowDistance" value="2000" />
 	<v key="HouseMarkShowClippingUp" value="1000" />
 	<v key="HouseMarkShowClippingDown" value="500" />
@@ -115,7 +115,7 @@
 	<v key="ShopRepurchaseMax" value="12" />
 	<v key="ShopSellConfirmPrice" value="10000" />
 	<v key="ShopBuyConfirmPrice" value="0" />
-	<v key="DashKeyInputDelay" value="500" />
+	<v key="DashKeyInputDelay" value="100" />
 	<v key="DashSwimConsumeSP" value="20" />
 	<v key="DashSwimMoveVel" value="2" />
 	<v key="Glide_Gravity" value="0.0" />
@@ -143,7 +143,7 @@
 	<v key="StoreWithdrawMax" value="2000000000" />
 	<v key="CameraExtraMoveScaleByMonster" value="3" />
 	<v key="CameraExtraMoveScaleByMap" value="2" />
-	<v key="CameraExtraDistance" value="200" />
+	<v key="CameraExtraDistance" value="2000" />
 	<v key="CameraFinalLoose" value="0.08" />
 	<v key="CameraCurrentLoose" value="0.002" />
 	<v key="CameraUpdateLoose" value="0.03" />
@@ -265,12 +265,12 @@
 	<v key="TaxiCallDuration" value="3000" />
 	<v key="TaxiCallBestDriverDuration" value="1000" />
 	<v key="TaxiCallBestDriverLevel" value="25" />
-	<v key="AirTaxiCashCallDuration" value="500" />
-	<v key="AirTaxiMesoCallDuration" value="3000" />
+	<v key="AirTaxiCashCallDuration" value="100" />
+	<v key="AirTaxiMesoCallDuration" value="100" />
 	<v key="TradeRequestDuration" value="20" />
 	<v key="UserPortalInvincibleTick" value="5000" />
 	<v key="UserPortalInvincibleIconPath" value="./data/resource/image/skill/icon/deathInvincible.png" />
-	<v key="SummonRideeDuration" value="1000" />
+	<v key="SummonRideeDuration" value="100" />
 	<v key="WorldMapAdjustTileX" value="0" />
 	<v key="WorldMapAdjustTileY" value="0" />
 	<v key="TimeScalePCScale" value="0.1" />
@@ -282,9 +282,9 @@
 	<v key="AvatarDefaultItemMale" value="10200032" />
 	<v key="AvatarDefaultItemFemale" value="10200033" />
 	<v key="ModelHouse" value="62000027" />
-	<v key="TalkCooldown" value="1000" />
+	<v key="TalkCooldown" value="100" />
 	<v key="AddressPopupDuration" value="3000" />
-	<v key="MaxFPS" value="120" />
+	<v key="MaxFPS" value="600" />
 	<v key="UGCShopSellMinPrice" value="150" />
 	<v key="UGCShopSellMaxPrice" value="3000" />
 	<v key="UGCShopSaleDay" value="30" />
@@ -642,8 +642,8 @@
 	<v key="PetChangeNameMerat" value="100" locale="KR" />
 	<v key="PetChangeNameMerat" value="500" locale="CN" />
 	<v key="PetChangeNameMerat" value="100" locale="NA" />
-	<v key="PetRunSpeed" value="350" />
-	<v key="PetPickDistance" value="1050" />
+	<v key="PetRunSpeed" value="550" />
+	<v key="PetPickDistance" value="3050" />
 	<v key="PetSummonCastTime" value="800" />
 	<v key="PetBoreTime" value="60000" />
 	<v key="PetIdleTime" value="70000" />
@@ -674,20 +674,20 @@
 	<v key="VisitorBookURL" value="http://ptlogin2.qq.com/mxd2" locale="CN" />
 	<v key="VisitorBookURL" value="" locale="NA" />
 	<v key="OneShotSkillID" value="19900061" />
-	<v key="bagSlotTabGameCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabSkinCount" value="102" feature="BagRenewal01" />
-	<v key="bagSlotTabSummonCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabMaterialCount" value="36" feature="BagRenewal01" />
+	<v key="bagSlotTabGameCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabSkinCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabSummonCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabMaterialCount" value="126" feature="BagRenewal01" />
 	<v key="bagSlotTabMasteryCount" value="126" feature="BagRenewal01" />
-	<v key="bagSlotTabLifeCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabQuestCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabGemCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabPetCount" value="60" feature="BagRenewal01" />
-	<v key="bagSlotTabPetEquipCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabActiveSkillCount" value="84" feature="BagRenewal01" />
-	<v key="bagSlotTabCoinCount" value="36" feature="BagRenewal01" />
-	<v key="bagSlotTabBadgeCount" value="60" feature="BagRenewal01" />
-	<v key="bagSlotTabMiscCount" value="84" feature="BagRenewal01" />
+	<v key="bagSlotTabLifeCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabQuestCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabGemCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabPetCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabPetEquipCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabActiveSkillCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabCoinCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabBadgeCount" value="126" feature="BagRenewal01" />
+	<v key="bagSlotTabMiscCount" value="126" feature="BagRenewal01" />
 	<v key="bagSlotTabLapenShardCount" value="36" feature="Lapenshard01" />
 	<v key="MasteryObjectInteractionDistance" value="150" />
 	<v key="GatheringObjectMarkOffsetX" value="0.0" />
@@ -734,13 +734,13 @@
 	<v key="FindDungeonHelpEasyDungeonLevel" value="50" />
 	<v key="CoupleEffectCheckTick" value="5000" />
 	<v key="CoupleEffectCheckRadius" value="150" />
-	<v key="FameContentsSkyFortressMapID0" value="02000421 " feature="FameContents" />
-	<v key="FameContentsSkyFortressMapID1" value="02000422 " feature="FameContents" />
-	<v key="FameContentsSkyFortressMapID2" value="52010039 " feature="FameContents" />
-	<v key="FameContentsSkyFortressMapID3" value="52010040 " feature="FameContents" />
+	<v key="FameContentsSkyFortressMapID0" value="02000421?" feature="FameContents" />
+	<v key="FameContentsSkyFortressMapID1" value="02000422?" feature="FameContents" />
+	<v key="FameContentsSkyFortressMapID2" value="52010039?" feature="FameContents" />
+	<v key="FameContentsSkyFortressMapID3" value="52010040?" feature="FameContents" />
 	<v key="AllianceQuestPickCount" value="2" feature="FameContents" />
 	<v key="FieldQuestPickCount" value="1" feature="FameContents" />
-	<v key="FameContentsSkyFortressGotoMapID" value="02000422 " feature="FameContents" />
+	<v key="FameContentsSkyFortressGotoMapID" value="02000422?" feature="FameContents" />
 	<v key="FameContentsSkyFortressGotoPortalID" value="3" feature="FameContents" />
 	<v key="FameContentsRequireQuestID" value="91000013" feature="FameContents" />
 	<v key="FameExpedContentsRequireQuestID" value="50101050" feature="Kritias_2018_12" />

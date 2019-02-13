@@ -5017,6 +5017,12 @@
 	</preview>
 	<preview id="29003001">
 		<item itemID="30000869" grade="4" />
+		<item itemID="11900120" grade="6" />
+		<item itemID="11900121" grade="6" />
+		<item itemID="11900122" grade="6" />
+		<item itemID="11900123" grade="6" />
+		<item itemID="11900124" grade="6" />
+		<item itemID="11900125" grade="6" />
 	</preview>
 	<preview id="20007001">
 		<item itemID="13100219" grade="4" reqJobs="070" />
@@ -6414,52 +6420,12 @@
 		<item itemID="61100147" grade="3" feature="Pet_70Lv_Boss" />
 	</preview>
 	<preview id="23038002">
-		<item itemID="13100308" grade="4" reqJobs="070" />
-		<item itemID="13400301" grade="4" reqJobs="080" />
-		<item itemID="15000307" grade="4" reqJobs="020" />
-		<item itemID="15200306" grade="4" reqJobs="030" />
-		<item itemID="15100299" grade="4" reqJobs="050" />
-		<item itemID="15300302" grade="4" reqJobs="060" />
-		<item itemID="15400288" grade="4" reqJobs="090" feature="RuneBlader" />
-		<item itemID="15500220" grade="4" reqJobs="100" feature="Striker" />
-		<item itemID="15600222" grade="4" reqJobs="110" feature="SoulBinder" />
-		<item itemID="13200303" grade="4" reqJobs="010" />
-		<item itemID="14100273" grade="4" reqJobs="010" />
-		<item itemID="13300302" grade="4" reqJobs="040" />
-		<item itemID="14000264" grade="4" reqJobs="040" />
-		<item itemID="13100309" grade="4" reqJobs="070" />
-		<item itemID="13400302" grade="4" reqJobs="080" />
-		<item itemID="15000308" grade="4" reqJobs="020" />
-		<item itemID="15200307" grade="4" reqJobs="030" />
-		<item itemID="15100300" grade="4" reqJobs="050" />
-		<item itemID="15300303" grade="4" reqJobs="060" />
-		<item itemID="15400289" grade="4" reqJobs="090" feature="RuneBlader" />
-		<item itemID="15500221" grade="4" reqJobs="100" feature="Striker" />
-		<item itemID="15600223" grade="4" reqJobs="110" feature="SoulBinder" />
-		<item itemID="13200304" grade="4" reqJobs="010" />
-		<item itemID="14100274" grade="4" reqJobs="010" />
-		<item itemID="14000265" grade="4" reqJobs="040" />
-		<item itemID="13300303" grade="4" reqJobs="040" />
-		<item itemID="12100112" grade="4" />
-		<item itemID="36000433" grade="4" />
-		<item itemID="36000434" grade="4" />
-		<item itemID="36000435" grade="4" />
-		<item itemID="42000671" grade="3" reqJobs="010" />
-		<item itemID="42000681" grade="3" reqJobs="020" />
-		<item itemID="42000691" grade="3" reqJobs="030" />
-		<item itemID="42000701" grade="3" reqJobs="040" />
-		<item itemID="42000711" grade="3" reqJobs="050" />
-		<item itemID="42000721" grade="3" reqJobs="060" />
-		<item itemID="42000731" grade="3" reqJobs="070" />
-		<item itemID="42000741" grade="3" reqJobs="080" />
-		<item itemID="42000751" grade="3" reqJobs="090" />
-		<item itemID="42000761" grade="3" reqJobs="100" />
-		<item itemID="42000771" grade="3" reqJobs="110" />
-		<item itemID="30000448" grade="4" />
-		<item itemID="33000279" grade="4" />
-		<item itemID="33000280" grade="4" />
-		<item itemID="20000027" grade="1" />
-		<item itemID="61100144" grade="3" feature="Pet_70Lv_Boss" />
+		<item itemID="11900120" grade="4" />
+		<item itemID="11900121" grade="4" />
+		<item itemID="11900122" grade="4" />
+		<item itemID="11900123" grade="4" />
+		<item itemID="11900124" grade="4" />
+		<item itemID="11900125" grade="4" />
 	</preview>
 	<preview id="" />
 </ms2>

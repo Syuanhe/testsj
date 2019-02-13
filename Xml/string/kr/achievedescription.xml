@@ -41,7 +41,7 @@
 	<achieve id="21100040" desc="" complete="" manualDesc="룬 블레이더로 50레벨까지 성장하기" manualComplete="룬 블레이더로 50레벨까지 성장" feature="RuneBlader" />
 	<achieve id="21100041" desc="" complete="" manualDesc="60레벨까지 성장하기" manualComplete="60레벨까지 성장" feature="ExtendLevel65" />
 	<achieve id="21100042" desc="" complete="" manualDesc="70레벨까지 성장하기" manualComplete="70레벨까지 성장" feature="ExtendLevel70" />
-	<achieve id="21100043" desc="" complete="" manualDesc="80레벨까지 성장하기" manualComplete="80레벨까지 성장" feature="ExtendLevel99" />
+	<achieve id="21100043" desc="" complete="" manualDesc="80레벨까지 성장하기" manualComplete="80레벨까지 성장" feature="ExtendLevel80" />
 	<achieve id="21100044" desc="" complete="" manualDesc="스트라이커로 30레벨까지 성장하기" manualComplete="스트라이커로 30레벨까지 성장" feature="Striker" />
 	<achieve id="21100045" desc="" complete="" manualDesc="스트라이커로 40레벨까지 성장하기" manualComplete="스트라이커로 40레벨까지 성장" feature="Striker" />
 	<achieve id="21100046" desc="" complete="" manualDesc="스트라이커로 50레벨까지 성장하기" manualComplete="스트라이커로 50레벨까지 성장" feature="Striker" />

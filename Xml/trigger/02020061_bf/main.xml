@@ -29,6 +29,10 @@
   <state name="유저카운트">
     <onEnter>
     </onEnter>
+	<condition name="여러명의유저를감지했으면" arg1="9002" arg2="10" arg3="Equal">
+		<action name="SetUserValue" triggerID="99990024" key="FieldGameStart" value="1" />
+        <transition state="딜레이"/>
+    </condition>
     <condition name="UserValue" key="FieldGameStart" value="1" >    <!-- <게임 시작 결정> -->
       <transition state="딜레이"/>
     </condition>

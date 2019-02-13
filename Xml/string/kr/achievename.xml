@@ -41,7 +41,7 @@
 	<key id="21100040" name="(계정) 룬 블레이더 마스터" />
 	<key id="21100041" name="(계정) 끝없는 도전, 60레벨!" feature="ExtendLevel65" />
 	<key id="21100042" name="(계정) 끝없는 도전, 70레벨!" feature="ExtendLevel70" />
-	<key id="21100043" name="(계정) 끝없는 도전, 80레벨!" feature="ExtendLevel99" />
+	<key id="21100043" name="(계정) 끝없는 도전, 80레벨!" feature="ExtendLevel80" />
 	<key id="21100044" name="(계정) 스트라이커 수련가" feature="Striker" />
 	<key id="21100045" name="(계정) 스트라이커 워리어" feature="Striker" />
 	<key id="21100046" name="(계정) 스트라이커 마스터" feature="Striker" />
