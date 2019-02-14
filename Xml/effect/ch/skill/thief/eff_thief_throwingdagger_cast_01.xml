@@ -7,7 +7,7 @@
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Thief" event="04300003">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
-  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Thief" event="04300004" startDelay="0.1">
+  <effect type="soundEvent" group="MS2Sound/Sound/Skill/Thief" event="04300003" startDelay="0.1">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>     
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Assassin" event="04400024">

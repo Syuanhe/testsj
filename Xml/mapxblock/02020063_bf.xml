@@ -5,9 +5,10 @@
 		<frustum left="-13228.9" right="13228.9" top="8268.07" bottom="-8268.07" near="10" far="100000" ortho="true" />
 		<screen left="0" right="1920" top="0" bottom="1200" />
 		<image left="402.95" right="1426.95" top="53" bottom="1077" name="./Data/Resource/Image/Map/Minimap/02020063.dds" icon="" />
-		<camera position="-7783.793945, -7903.182617, 10778.946289" rotation="90.000000, 45.000000, -45.000000" />
+		<camera position="-7513.511230, -7958.168457, 10590.495117" rotation="90.000000, 45.000000, -45.000000" />
 		<edit zoomfactor="6.89006" />
 	</minimap>
-	<fog color="110,100,174" near="0" far="13000" />
-	<clientProperty bgDay="BG_Kritias_H.dds" />
+	<fog color="125,135,169" near="0" far="13000" />
+	<heightfog color="110,135,200" upper="4000" lower="700" percentage="100" />
+	<clientProperty bgDay="BG_Kritias_I.dds" />
 </ms2>

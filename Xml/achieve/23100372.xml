@@ -3,7 +3,7 @@
 <ms2>
 	<achieves id="23100372" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="Fishing02">
 		<grade value="1">
-			<condition type="item_add" code="11301371,11400383,11500311,11700411" value="4" target="" />
+			<condition type="item_add" code="11301371" value="1" target="" />
 			<reward type="title" code="10000636" value="0" rank="1" />
 		</grade>
 	</achieves>

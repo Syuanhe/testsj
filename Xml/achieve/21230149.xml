@@ -12,7 +12,7 @@
 		</grade>
 		<grade value="3">
 			<condition type="interact_npc" code="21803500,21803501,21803502,21803503,21803510" value="50" target="" />
-			<reward type="title" code="10000695" value="0" rank="1" />
+			<reward type="title" code="10000696" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

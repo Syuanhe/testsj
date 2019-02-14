@@ -445,6 +445,7 @@
 	<key id="02000423" name="퍼니퍼니 아일랜드" feature="WorldChampionMushroom" />
 	<key id="02000424" name="베르크 섬" feature="Mastery05" />
 	<key id="02000425" name="알키미 가든" feature="Mastery05" />
+	<key id="02000426" name="고대 에네르 광산" feature="Kritias_Zakum01" />
 	<key id="02000427" name="루디브리엄 시계탑" feature="EventPapulatus" />
 	<key id="02000428" name="오르비스급 공중 함선" feature="CrimsonBalrog01" />
 	<key id="02000429" name="오르비스급 공중 함선" feature="CrimsonBalrog01" />
@@ -475,6 +476,9 @@
 	<key id="02000497" name="서릿발 신전" feature="LapentaFrontierQuest" />
 	<key id="02000500" name="그림자 군단의 제단" feature="Season3" />
 	<key id="02000501" name="달빛선장의 요새" feature="Season3" />
+	<key id="02000511" name="서릿발 신전" feature="SnowKingdom" />
+	<key id="02000521" name="마드라칸 첨탑" feature="DarkCastle" />
+	<key id="02000531" name="시간의 신전" feature="PinkBean01" />
 	<key id="02010002" name="루델리 시티" feature="KarkarIsland" />
 	<key id="02010005" name="작은 사막 움막" feature="KarkarIsland" />
 	<key id="02010006" name="미어캣 정찰대 본거지" feature="KarkarIsland" />
@@ -564,7 +568,11 @@
 	<key id="02020051" name="폐기물 매립지" feature="Kritias_2018_12" />
 	<key id="02020061" name="푸르카우 평원" feature="Fieldwar01" />
 	<key id="02020062" name="바베니 전초 기지" feature="Fieldwar01" />
+	<key id="02020063" name="생태 실험 구역" feature="Fieldwar02" />
+	<key id="02020064" name="검은군단 점령지" feature="Fieldwar02" />
+	<key id="02020065" name="지크벤 루트" feature="Fieldwar02" />
 	<key id="02020097" name="에네르 캐슬" feature="Kritias_Balrog01" />
+	<key id="02020098" name="티아만 시간의 회랑" feature="Kritias_Inferno01" />
 	<key id="02020100" name="비통의 숲" feature="LapentaDungeon" />
 	<key id="02020101" name="에메랄드 프리즌" feature="LapentaDungeon" />
 	<key id="02020110" name="뒤섞인 세계" feature="LapentaDungeon" />

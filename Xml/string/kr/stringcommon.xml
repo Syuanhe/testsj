@@ -194,6 +194,8 @@
 	<key id="s_err_cannot_destroy_petsystem_opendialog" value="펫 정보창이 열려 있어 펫 아이템을 파괴할수 없습니다." />
 	<key id="s_err_cannot_compose_petitem_hasitem" value="펫 가방에 아이템이 있어 재료로 사용할 수 없습니다." />
 	<key id="s_err_cannot_change_shortkey_page" value="퀵슬롯 페이지 변경할 수 없는 상태입니다." />
+	<key id="s_err_cannot_evolution_petitem_hasitem" value="펫 가방에 아이템이 있어 재료로 사용할 수 없습니다." feature="PetEvolution01" />
+	<key id="s_err_cannot_evolution_consume" value="진화 경험치가 가득찼습니다." feature="PetEvolution01" />
 	<key id="s_err_cannot_use_maview_in_testsvr" value="테스트 서버에서는 메이뷰를 이용할 수 없습니다." />
 	<key id="s_mirror_err_not_editable_cp" value="편집할 수 없는 모자를 착용하고 있습니다." />
 	<key id="s_mirror_err_not_editable_cp_by_transp_badge" value="투명 배지 착용으로 모자를 편집할 수 없습니다." />
@@ -241,6 +243,7 @@
 	<key id="s_inventory_tab_badge" value="배지" />
 	<key id="s_inventory_tab_survival" value="참가자 전용" feature="SurvivalContents01" />
 	<key id="s_inventory_tab_lapenshard" value="라펜샤드" feature="Lapenshard01" />
+	<key id="s_inventory_tab_piece" value="조각" feature="InventoryPieceTab" />
 	<key id="s_inventory_ask_expand" value="{0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 {1} 소지품 창을 확장하시겠습니까?\n한번에 {2}칸씩 확장됩니다." />
 	<key id="s_inventory_err_expand_max" value="더 이상 확장할 수 없습니다." />
 	<key id="s_inventory_err_open_bank_remain_time" value="재사용 대기시간 {0}초가 남았습니다." />
@@ -2171,6 +2174,7 @@
 	<key id="s_word_require_skill_level_without_leveloption" value="{0} (스킬 레벨 증가는 포함되지 않음)" />
 	<key id="s_word_require_player_level" value="레벨 {0} 이상" />
 	<key id="s_word_require_quest_completed" value="[{0}] 퀘스트 완료" />
+	<key id="s_word_pet_evolution" value="펫 진화" feature="PetEvolution01" />
 	<key id="s_word_limit_petcompose" value="펫 성장 불가 및 펫 합성 재료로 사용 불가" />
 	<key id="s_word_compose_result" value="결과물" />
 	<key id="s_msg_rclick_attach_trade" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 아이템을 거래창에 등록할 수 있습니다.&lt;/FONT&gt;" />
@@ -2300,6 +2304,7 @@
 	<key id="s_msg_transfer_bind_pet_training" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;펫을 성장시키면 {0}에게 귀속됩니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n트레이닝으로 펫을 성장시키겠습니까?\n" />
 	<key id="s_msg_transfer_bind_pet_study" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;스킬을 배우면 {0}에게 귀속됩니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n정말 배우겠습니까?\n" />
 	<key id="s_msg_transfer_bind_pet_remakeoption" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;추가 능력을 변경하면 {0}에게 귀속됩니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n추가 능력을 변경하겠습니까?\n" feature="PetRemake01" />
+	<key id="s_msg_transfer_bind_pet_evolution" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;펫을 진화시키면 {0}에게 귀속됩니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n진화로 펫을 성장시키겠습니까?\n" feature="PetEvolution01" />
 	<key id="s_msg_transfer_bind_when_use" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;사용 시 {0}에게 귀속됩니다.&lt;/FONT&gt;\n거래 가능 횟수가 남은 경우도 거래 불가로 변경됩니다.\n\n사용하시겠습니까?" />
 	<key id="s_msg_transfer_bind_when_equip" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;착용 시 {0}에게 귀속됩니다.&lt;/FONT&gt;\n거래 가능 횟수가 남은 경우도 거래 불가로 변경됩니다.\n\n착용하시겠습니까?" />
 	<key id="s_msg_transfer_bind_when_transform" value="착용 시 귀속되는 아이템이 갈아입기에 포함되어 있습니다. \n착용하시겠습니까?" />
@@ -3034,7 +3039,7 @@
 	<key id="s_move_err_InsideDungeonUser" value="던전에 남아있는 파티원이 존재합니다.\n파티원이 모두 던전에서 나온 뒤 다시 시도하세요." />
 	<key id="s_move_err_ExpireEnterTime" value="입장 가능 시간이 지나 더이상 입장 할 수 업습니다." />
 	<key id="s_move_err_default" value="서버 이동 중 알수 없는 오류가 발생했습니다. Code={0}" />
-	<key id="s_quest_standard_level" value="{0} 레벨" />
+	<key id="s_quest_standard_level" value="{0}레벨" />
 	<key id="s_skill_err_male" value="남자만 사용할 수 있는 스킬입니다." />
 	<key id="s_skill_err_female" value="여자만 사용할 수 있는 스킬입니다." />
 	<key id="s_word_ok" value="확인" />
@@ -3390,6 +3395,7 @@
 	<key id="s_tooltip_gamemenu_lapenshard" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;라펜샤드 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n라펜샤드를 장착하고 합성할 수 있습니다." feature="Lapenshard01" />
 	<key id="s_tooltip_gamemenu_MeratCharge" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;메럿 충전샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메럿을 구입할 수 있습니다." locale="NA" />
 	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스타일 코인샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n스타일 코인으로 아이템을 구입할 수 있습니다.\n스타일 코인은 스타일 박스에서 획득한 아이템을 분해하면 얻을 수 있습니다." />
+	<key id="s_tooltip_gamemenu_collectitemgroupevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;마법 더하기 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템을 수집하여 보상을 받을 수 있습니다." />
 	<key id="s_eventtag_gamemenu_mushking_royal" value="신청중" />
 	<key id="s_chat_restrict_samechat" value="같은 말을 여러 번 입력하여 {0}초간 지역/채널/월드/귓속말 채팅을 할 수 없습니다. (도배 경고 : 1회)" />
 	<key id="s_chat_restrict_fastchat" value="짧은 시간에 여러 번 대화를 입력하여 {0}초간 지역/채널/월드/귓속말 채팅을 할 수 없습니다. (도배 경고 : 1회)" />
@@ -3422,6 +3428,7 @@
 	<key id="s_itembreak_usedgemstone_item" value="젬스톤이 장착되어 있는 경우에는\n상점 판매, 버리기, 파괴, 분해를 할 수 없습니다.\n젬스톤 장착 해제 후 다시 시도해 주세요." />
 	<key id="s_itembreak_excellent_item" value="&lt;FONT color=&apos;#C888FF&apos;&gt;엑설런트&lt;/FONT&gt; 등급 이상의 아이템이 포함되어 있습니다.\n정말 분해 하시겠습니까?" />
 	<key id="s_itembreak_legendary_item" value="&lt;FONT color=&apos;#FFD533&apos;&gt;레전더리&lt;/FONT&gt; 등급 이상의 아이템이 포함되어 있습니다.\n정말 분해 하시겠습니까?" />
+	<key id="s_itembreak_high_sa_option_item" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 분해 하시겠습니까?" />
 	<key id="s_itembreak_legendary_item_checkbox" value="레전더리 아이템도 분해하겠습니다." />
 	<key id="s_itembreak_artifact_item" value="&lt;FONT color=&apos;#ff8c37&apos;&gt;에픽&lt;/FONT&gt; 등급 이상의 아이템이 포함되어 있습니다.\n정말 분해 하시겠습니까?" feature="EpicItem" />
 	<key id="s_itembreak_artifact_item_checkbox" value="에픽 아이템도 분해하겠습니다." feature="EpicItem" />
@@ -4078,6 +4085,7 @@
 	<key id="s_meratmarket_error_ugc_buy_limit_achieve_account_char_level" value="계정 내 {0}레벨을 달성한  캐릭터가 없어 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_buy_limit_achieve_account_ad_level" value="계정 내 {0}모험레벨을 달성한 캐릭터가 없어 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_buy_limit_product_buy_count" value="이 상품은 계정에서 {0}번 이상 구매했습니다. 추가 구매할 수 없습니다." />
+	<key id="s_meratmarket_error_country_limit" value="이 상품은 현재 접속중인 국가(IP)에서는 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_calculate_invalid_blueprint_item" value="견적서를 볼 수 없는 아이템입니다." feature="Blueprint" />
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} 님을 즐겨찾는 디자이너로 등록했습니다." />
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="최대 {0}명까지만 즐겨찾기에 등록할 수 있습니다.\n즐겨찾기 목록을 정리한 후 다시 시도해 주세요." />
@@ -4255,6 +4263,7 @@
 	<key id="s_room_exit_pvp_zone" value="전장 떠나기" />
 	<key id="s_room_exit_arcade" value="아케이드에서 나가기" />
 	<key id="s_room_exit_maple_survival" value="머쉬킹 챔피언십 나가기" feature="SurvivalContents01" />
+	<key id="s_room_exit_name_17" value="군단전에서 나가기" desc="mapType:17(군단전) 나갈때 메시지" />
 	<key id="s_room_exit_msg_design" value="꾸미기 모드에서 나가기" />
 	<key id="s_room_exit_msg_blueprint" value="블루프린트 모드에서 나가기" feature="Blueprint" />
 	<key id="s_room_exit_msg_blueprint_preview" value="모델하우스에서 나가기" feature="Blueprint" />
@@ -4267,6 +4276,7 @@
 	<key id="s_room_exit_msg_pvp_field" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;10초 후 자동으로 메이플 월드로 이동합니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_arcade" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;아케이드를 포기하고 밖으로 이동합니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_maple_survival" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;머쉬킹 챔피언십을 포기하고 밖으로 이동합니다.&lt;/font&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;\n매치 도중 종료 시 보상은 받지 못 하며,\n랭킹은 현재 등수를 기준으로 적용됩니다.&lt;/font&gt;" feature="SurvivalContents01" />
+	<key id="s_room_exit_msg_17" value="[{0}] 군단전을 포기하고 밖으로 이동합니다." desc="mapType:17(군단전) 나갈때 메시지 {0}:맵이름" />
 	<key id="s_itemlink_meratmarket" value="[메럿마켓: {0}]" />
 	<key id="s_itemlink_cashshop" value="[캐시샵 : {0}]" />
 	<key id="s_waitingticket_message" value="정원을 초과했습니다.\n현재 대기 순위: {0}" />
@@ -4632,6 +4642,7 @@
 	<key id="s_itemremake_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}% &lt;/FONT&gt;할인 이벤트 중" />
 	<key id="s_itemremake_sa_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}% &lt;/FONT&gt;할인 효과 적용 중" />
 	<key id="s_itemremake_ask_lock_item_option" value="옵션을 잠그게 되면, 옵션 바꾸기를 진행하더라도 옵션과 수치가 변경되지 않습니다. 옵션 바꾸기 진행 시 {0} 아이템이 소모됩니다. 진행하시겠습니까?" feature="OptionBlock01" />
+	<key id="s_itemremake_ask_high_sa_item_option" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 추가 옵션을 변경 하시겠습니까?" />
 	<key id="s_itemremake_notice_disable_lock_item_option" value="{0} 아이템을 소지하고 있지 않아, 옵션 잠금 기능을 사용할 수 없습니다." feature="OptionBlock01" />
 	<key id="s_itemremake_notice_disable_lock_item_option_when_click_remake" value="{0} 아이템을 소지하고 있지 않아, 옵션 잠금 기능을 사용할 수 없습니다. 옵션 잠금을 해제하고 다시 시도해 주세요." feature="OptionBlock01" />
 	<key id="s_itemremake_notice_disable_lock_item_option_error_count" value="추가 옵션이 1개일 때는 옵션 고정을 사용할 수 없습니다." feature="OptionBlock01" />
@@ -4685,6 +4696,7 @@
 	<key id="s_itemremake_scroll_ask_close_pet" value="창을 닫으면 새로운 추가 능력이 적용됩니다.\n정말 닫으시겠습니까?" />
 	<key id="s_itemremake_scroll_notice_slot_condition" value="{0}에 사용 가능" />
 	<key id="s_itemremake_scroll_notice_pet" value="펫 추가 능력 변경 전용" />
+	<key id="s_itemremake_scroll_ask_high_sa_item_option" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 추가 옵션을 변경 하시겠습니까?" />
 	<key id="s_itemremake_scroll_error_have_not_scroll" value="소지한 주문서가 아닙니다.\n창을 닫고 다시 시도해 주세요." />
 	<key id="s_itemremake_scroll_error_have_not_item" value="소지한 아이템이 아닙니다.\n창을 닫고 다시 시도해 주세요." />
 	<key id="s_itemremake_scroll_error_invalid_target" value="유효하지 않은 아이템입니다." />
@@ -4724,6 +4736,7 @@
 	<key id="s_tooltip_itemoption_kinds_constant" value="&lt;font color=&apos;#ffffff&apos;&gt;기본 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_static" value="&lt;font color=&apos;#ffffff&apos;&gt;기본 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_random" value="&lt;font color=&apos;#91a8ff&apos;&gt;추가 옵션\n{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_kinds_random_nohead" value="&lt;font color=&apos;#91a8ff&apos;&gt;{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_title" value="&lt;font color=&apos;#84ffef&apos;&gt;\n타이틀 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_merge" value="&lt;font color=&apos;#FF5400&apos;&gt;초월 옵션\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_merge_1step" value="&lt;font color=&apos;#FF5400&apos;&gt;{0}&lt;/font&gt;" />
@@ -4932,6 +4945,12 @@
 	<key id="s_pet_compose_cost_sale" value="합성 비용 {0}% 할인 이벤트 중!" feature="PetBattle" />
 	<key id="s_pet_compose_exp_bonus" value="펫 합성 보너스가 {0} 회 남았습니다. ( 매일 0시 초기화 )" feature="PetBattle" />
 	<key id="s_pet_compose_compose_success" value="기본 경험치 : {0}\n보너스 경험치 : {1}" feature="PetBattle" />
+	<key id="s_pet_evolution_point" value="&lt;font color=&apos;#ff0000&apos;&gt;{0}&lt;/font&gt;/{1}" feature="PetEvolution01" />
+	<key id="s_pet_evolution_notice" value="진화 게이지를 다 채우면 다음 등급으로 진화합니다." feature="PetEvolution01" />
+	<key id="s_pet_evolution_pointup_success" value="진화 포인트 {0} 획득!" feature="PetEvolution01" />
+	<key id="s_pet_evolution_enable_evolution" value="다음 등급으로 진화할 수 있습니다!" feature="PetEvolution01" />
+	<key id="s_pet_evolution_success" value="등급이 올랐습니다!" feature="PetEvolution01" />
+	<key id="s_pet_evolution_max" value="더 이상 진화할 수 없는 펫 입니다.\n다른 펫을 선택해 주세요." feature="PetEvolution01" />
 	<key id="s_pet_collect_collect_total_cout" value="\n도감 등록 수: {0}" />
 	<key id="s_pet_collect_total_category" value="전체" />
 	<key id="s_pet_collect_pet_tooltip_pet_name" value="&lt;FONT size=&apos;20&apos;&gt;{0}&lt;/FONT&gt;" />
@@ -4954,7 +4973,9 @@
 	<key id="s_pet_cant_summon_state_play_instrument" value="연주 중에는 펫을 소환할 수 없습니다." />
 	<key id="s_pet_cant_summon_state_fishing" value="낚시 중에는 펫을 소환할 수 없습니다." />
 	<key id="s_pet_tooltip_exp" value="&lt;font color=&apos;#ffd200&apos;&gt;펫 경험치\n&lt;/font&gt;" />
+	<key id="s_pet_tooltip_evolution_point" value="&lt;font color=&apos;#ffd200&apos;&gt;펫 진화 경험치\n&lt;/font&gt;" feature="PetEvolution01" />
 	<key id="s_pet_not_enchant" value="이 펫은 더 이상 성장시킬 수 없습니다." feature="PetBattle" />
+	<key id="s_pet_not_evolution" value="이 펫은 아직 성장 레벨 최대치를 달성하지 못했습니다." feature="PetEvolution01" />
 	<key id="s_pet_not_inventory" value="이 펫은 가방이 없습니다." feature="PetBase" />
 	<key id="s_pet_otherpet_inventory" value="펫 가방 {0}칸\n다른 사람의 펫 가방은 볼 수 없습니다." feature="PetBase" />
 	<key id="s_pet_otherpet_not_inventory" value="이 펫은 가방이 없습니다.\n다른 사람의 펫 가방은 볼 수 없습니다." feature="PetBase" />
@@ -5090,6 +5111,7 @@
 	<key id="s_itemsocketsystem_socketunlock_msg_ask_unlock_ingredient_in_gemstone" value="&lt;font color=&apos;#ff5f5f&apos;&gt;재료로 선택한 아이템에 젬스톤이 있습니다.\n이대로  소켓 확장을 시도하면,\n재료에 장착된 젬스톤도 함께 사라집니다.&lt;/font&gt;\n정말 소켓 확장을 시도하겠습니까?" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_socketunlock_msg_ask_unlock_skin_first" value="해당 아이템의 스킨 소켓을 확장하면,\n&lt;FONT color=&apos;#FF4040&apos;&gt;캐릭터 귀속 상태로 변경됩니다.&lt;/FONT&gt;\n스킨 소켓을 확장하시겠습니까?" feature="SkinSocket" />
 	<key id="s_itemsocketsystem_socketunlock_msg_ask_transfer_skin_first" value="소켓을 이전 받으면, 이전 받은 스킨 아이템은\n&lt;FONT color=&apos;#FF4040&apos;&gt;캐릭터 귀속 상태로 변경됩니다.&lt;/FONT&gt;\n소켓을 이전하시겠습니까?" feature="ItemSocketTransfer01" />
+	<key id="s_itemsocketsystem_socketunlock_msg_ask_high_sa_option_item" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 재료로 사용 하시겠습니까?\n&lt;FONT color=&apos;#FF4040&apos;&gt; 재료로 사용한 장비는 파괴됩니다.&lt;/FONT&gt;" />
 	<key id="s_party_search_default_msg_1" value="클리어 하실 분." />
 	<key id="s_party_search_default_msg_2" value="가볍게 다녀오실 분." />
 	<key id="s_party_search_default_msg_3" value="천천히 다녀오실 분." />
@@ -5594,6 +5616,7 @@
 	<key id="s_word_tab_petcompose" value="펫 합성" feature="PetBattle" />
 	<key id="s_word_tab_petcollect" value="펫 도감" feature="PetBattle" />
 	<key id="s_word_tab_remakeoption" value="펫 능력 변경" feature="PetRemake01" />
+	<key id="s_word_tab_petevolution" value="펫 진화" feature="PetEvolution01" />
 	<key id="s_pet_remake_option_submit" value="능력 바꾸기" feature="PetRemake01" />
 	<key id="s_pet_remake_option_apply" value="능력 선택하기" feature="PetRemake01" />
 	<key id="s_pet_remake_option_retry" value="다시 하기" feature="PetRemake01" />
@@ -5610,6 +5633,7 @@
 	<key id="s_item_enchant_transform_submit" value="변환하기" feature="EnchantTransform01" />
 	<key id="s_item_enchant_transform_retry" value="돌아가기" feature="EnchantTransform01" />
 	<key id="s_item_enchant_transform_fee" value="변환 비용 &lt;Img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;/&gt;{0}" feature="EnchantTransform01" />
+	<key id="s_item_enchant_transform_ask_high_sa_option_item" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 인챈트 이전을 하시겠습니까?\n&lt;FONT color=&apos;#FF4040&apos;&gt;인챈트 이전한 장비는 파괴됩니다.&lt;/FONT&gt;" />
 	<key id="s_char_input_itemname" value="아이템의 이름을 지어주세요.\n(한글 6자, 영문 12자까지 입력할 수 있습니다.)" />
 	<key id="s_chapterbook_skill_point" value="스킬 포인트 {0}" />
 	<key id="s_chapterbook_skill_point_sub_1" value="전직 스킬 포인트 {0}" feature="JobChange_01" />
@@ -5784,10 +5808,16 @@
 	<key id="s_alliance_quest_accept" value="수락하기" />
 	<key id="s_alliance_quest_complete" value="완료하기" />
 	<key id="s_alliance_quest_rumble_warn" value="다른 세력의 포트리스 럼블 임무 진행 중" />
+	<key id="s_alliance_quest_limit_alliance_delimeter" value=", " />
+	<key id="s_alliance_quest_limit_alliance_delimeter" value="," locale="CN" />
 	<key id="s_alliance_quest_limit_alliance" value="{0} 세력 평판 {1}" />
 	<key id="s_alliance_quest_limit_alliance_condition" value="{0} 이상 시 평판 퀘스트를 진행할 수 있습니다." />
 	<key id="s_alliance_quest_limit_exped_condition" value="레벨 70 이상이고, {0} 퀘스트를 완료해야 합니다." feature="Kritias_2018_12" />
 	<key id="s_alliance_quest_unreq_group_warn" value="이 임무는 한 주에 1개 세력에서만 진행할 수 있습니다. 진행하시겠습니까?" />
+	<key id="s_alliance_quest_completion_ticket_count" value="X{0} 즉시 완료" comment="{0} : 즉시 완료 아이템 필요 갯수" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_lack" value="{0}이 부족합니다. 메럿마켓에서 아이템을 구매하시겠습니까?" commend="{0} : 즉시완료권 아이템" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_use" value="{0}({1}개)이 소모됩니다. 사용하시겠습니까?" commend="{0} : 즉시완료권 아이템, {1}: 아이템 필요 갯수" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_error" value="{0} 사용에 실패하였습니다." commend="{0} : 즉시완료권 아이템" feature="FameCompletionTicket" />
 	<key id="s_fame_point_board_time1" value="{0}분전" />
 	<key id="s_fame_point_board_time2" value="{0:02d}시 {1:02d}분" />
 	<key id="s_fame_point_board_time3" value="{0:04d}/{1:02d}/{2:02d}" />

@@ -145,6 +145,9 @@
 	<key skillID="90200122" default="0" reserved="돼지꿈|돼지의꿈" />
 	<key skillID="90200123" default="0" reserved="반신욕" />
 	<key skillID="90200124" default="0" reserved="메이슨처럼/메이슨따라쟁이" />
+	<key skillID="90200125" default="0" reserved="스텝댄스/스텝셔플댄스" />
+	<key skillID="90200126" default="0" reserved="포잉포잉댄스|포잉댄스" feature="Event" />
+	<key skillID="90200127" default="0" reserved="포잉이랑놀아줘|포잉놀아줘" feature="Event" />
 	<key skillID="90220001" default="0" reserved="" />
 	<key skillID="90220002" default="0" reserved="" />
 	<key skillID="90220003" default="0" reserved="" />
@@ -162,4 +165,7 @@
 	<key skillID="90220015" default="0" reserved="" />
 	<key skillID="90220016" default="0" reserved="" />
 	<key skillID="90220017" default="0" reserved="" />
+	<key skillID="90220018" default="0" reserved="" />
+	<key skillID="90220019" default="0" reserved="" />
+	<key skillID="90220020" default="0" reserved="" />
 </ms2>

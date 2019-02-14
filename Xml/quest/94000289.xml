@@ -11,7 +11,7 @@
 			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="2" rewardExpExtra="2">
 				<essentialItem code="30001280" rank="1" count="200" />
 			</completeReward>
-			<progressMap progressMap="" />
+			<progressMap progressMap="02020035,02020036" />
 			<guide guideType="" guideIcon="" guideMinLevel="0" guideMaxLevel="0" />
 			<gotoNpc enable="0" gotoField="0" gotoPortal="0" />
 			<gotoDungeon state="0" gotoDungeon="0" gotoInstanceID="0" />

@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="RH">
-				<asset name="urn:gamebryo-animation:urn:15600532_UGCOrb02" selfnode="Point01" targetnode="Scene Root" attachnode="Scene Root" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="56" placeable="0">
+				<asset name="urn:gamebryo-animation:urn:15600532_UGCOrb02" selfnode="Move_Point01" targetnode="Scene Root" attachnode="Scene Root" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="56" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />

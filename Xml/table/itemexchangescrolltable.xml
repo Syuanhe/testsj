@@ -6823,4 +6823,136 @@
 		<exchange id="20001286" rank="3" count="1" />
 		<require meso="10000" />
 	</exchange>
+	<exchange id="36000450" type="exchange">
+		<receipe id="36000450" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000781" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000451" type="exchange">
+		<receipe id="36000451" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000791" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000452" type="exchange">
+		<receipe id="36000452" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000801" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000453" type="exchange">
+		<receipe id="36000453" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000811" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000454" type="exchange">
+		<receipe id="36000454" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000821" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000455" type="exchange">
+		<receipe id="36000455" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000831" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000456" type="exchange">
+		<receipe id="36000456" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000841" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000457" type="exchange">
+		<receipe id="36000457" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000851" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000458" type="exchange">
+		<receipe id="36000458" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000861" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000459" type="exchange">
+		<receipe id="36000459" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000871" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000460" type="exchange">
+		<receipe id="36000460" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000881" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000461" type="exchange">
+		<receipe id="36000461" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000891" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000462" type="exchange">
+		<receipe id="36000462" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000901" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000463" type="exchange">
+		<receipe id="36000463" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000911" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000464" type="exchange">
+		<receipe id="36000464" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000921" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000465" type="exchange">
+		<receipe id="36000465" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000931" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000466" type="exchange">
+		<receipe id="36000466" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000941" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000467" type="exchange">
+		<receipe id="36000467" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000951" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000468" type="exchange">
+		<receipe id="36000468" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000961" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000469" type="exchange">
+		<receipe id="36000469" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000971" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000470" type="exchange">
+		<receipe id="36000470" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000981" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000471" type="exchange">
+		<receipe id="36000471" rank="3" count="50" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="42000991" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
 </ms2>

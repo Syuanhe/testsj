@@ -58,8 +58,8 @@
     <onEnter>
 		<action name="버프를걸어준다" arg1="701" arg2="99910120" arg3="1" arg4="0" arg5="0" />
     </onEnter>
-		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="1">
-			<transition state="Ending"/>
+		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="2">
+			<transition state="QuestEnd_warp"/>
 		</condition>	
 		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100080" arg3="2">
 			<transition state="Ending"/>
@@ -237,7 +237,7 @@
 		<action name="DungeonClear" />
 		
 	</onEnter>
-		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="1">
+		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="2">
 			<transition state="QuestEnd_warp"/>
 		</condition>
     <onExit>
@@ -252,7 +252,7 @@
 		<action name="메쉬를설정한다" arg1="1001-1002" arg2="0" />
 		<action name="업적이벤트를발생시킨다" arg1="701" arg2="trigger" arg3="clearalbanos"/>
 	</onEnter>
-		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="1">
+		<condition name="퀘스트유저를감지하면" arg1="701" arg2="50100090" arg3="2">
 			<transition state="QuestEnd_warp"/>
 		</condition>		
     <onExit>
@@ -266,7 +266,7 @@
 			<transition state="QuestEnd_warp_End"/> 
 		</condition>
     <onExit>
-		<action name="유저를이동시킨다" arg1="52000097" arg2="0"/>
+		<action name="유저를이동시킨다" arg1="52010068" arg2="6001"/>
     </onExit>
   </state> 
 

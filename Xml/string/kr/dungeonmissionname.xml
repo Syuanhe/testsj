@@ -132,6 +132,20 @@
 	<key id="23023003" name="비석에 깔리면 감점" feature="PinkBean01" />
 	<key id="23023004" name="확성기에 맞아 춤추면 감점" feature="PinkBean01" />
 	<key id="23023005" name="빛기둥 마법에 맞으면 감점" feature="PinkBean01" />
+	<key id="23024000" name="(파티)$npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024001" name="(파티)5분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024002" name="(파티)10분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024003" name="비석에 깔리면 감점" feature="Kritias_Zakum01" />
+	<key id="23024004" name="(파티)$npc:23000073$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024005" name="(파티)5분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024006" name="(파티)10분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" />
+	<key id="23025000" name="(파티)$npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025001" name="(파티)5분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025002" name="(파티)10분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025003" name="비석에 깔리면 감점" feature="Kritias_Inferno01" />
+	<key id="23025004" name="(파티)$npc:23000151$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025005" name="(파티)5분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025006" name="(파티)10분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" />
 	<key id="24090001" name="(파티)인페르녹 24억 대미지" feature="CrimsonBalrog01" />
 	<key id="24090002" name="(파티)인페르녹 20억 대미지" feature="CrimsonBalrog01" />
 	<key id="24090003" name="(파티)15분 동안 생존" feature="CrimsonBalrog01" />

@@ -23,6 +23,12 @@
     </textureani>
   </emotion>
 
+  <emotion type="1" name="attack">
+    <textureani target="FA">
+      <texture file="Npc_Common/21000990_M_Minibean_Idle01.dds" control="" delay="2500" loop="true"/>
+    </textureani>
+  </emotion>  
+  
   <emotion type="1" name="Skill">
     <textureani target="FA">
       <texture file="Npc_Common/21000990_M_Minibean_Skill.dds" control="" delay="1600" loop="true"/>

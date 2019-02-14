@@ -74,8 +74,8 @@
 		<v type="STUNT_JUMP_UP" names="Sp_Jump_Up_A" />
 		<v type="STUNT_JUMP_DOWN" names="Sp_Jump_Down_A" />
 		<v type="STUNT_JUMP_LAND" names="Sp_Jump_Land_A" />
-		<v type="CHARACTER_SELECT_BORE" names="Knight_CharacterSelect_Bore_A" />
-		<v type="CHARACTER_SELECT_BORE_IDLE" names="Knight_CharacterSelect_Bore_Idle_A" />
+		<v type="CHARACTER_SELECT_BORE" names="Bore_A" />
+		<v type="CHARACTER_SELECT_BORE_IDLE" names="Idle_A" />
 	</group>
 	<group groupID="10" desc="Knight Anim">
 		<v type="BORE" names="Knight_Bore_A" />

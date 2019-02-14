@@ -17,6 +17,6 @@
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.2" />
   </effect>
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Wizard" event="03200005">
-    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect>
 </ms2>

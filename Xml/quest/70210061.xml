@@ -7,7 +7,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="42" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="dailymission" money="0" karma="0" lu="0" missionPoint="30">
+			<completeReward exp="0" relativeExp="dailymissionLevelUp" money="0" karma="0" lu="0" missionPoint="30">
 				<essentialItem code="30000928" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />

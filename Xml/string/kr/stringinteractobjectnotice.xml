@@ -1496,18 +1496,26 @@
 	<key id="10002138" name="" feature="Fieldwar01" />
 	<key id="10002139" name="" feature="Fieldwar01" />
 	<key id="10002140" name="" feature="Fieldwar01" />
-	<key id="10002141" name="" feature="Fieldwar01" />
-	<key id="10002142" name="" feature="Fieldwar01" />
-	<key id="10002143" name="" feature="Fieldwar01" />
-	<key id="10002144" name="" feature="Fieldwar01" />
-	<key id="10002145" name="" feature="Fieldwar01" />
-	<key id="10002146" name="" feature="Fieldwar01" />
-	<key id="10002147" name="" feature="Fieldwar01" />
-	<key id="10002148" name="" feature="Fieldwar01" />
+	<key id="10002141" name="" feature="Fieldwar02" />
+	<key id="10002142" name="" feature="Fieldwar02" />
+	<key id="10002143" name="" feature="Fieldwar02" />
+	<key id="10002144" name="" feature="Fieldwar02" />
+	<key id="10002145" name="" feature="Fieldwar02" />
+	<key id="10002146" name="" feature="Fieldwar02" />
+	<key id="10002147" name="" feature="Fieldwar02" />
+	<key id="10002148" name="" feature="Fieldwar02" />
 	<key id="10002149" name="" feature="Kritias_Paika01" />
 	<key id="10002150" name="" feature="Kritias_Paika01" />
 	<key id="10002151" name="" feature="Kritias_Paika01" />
 	<key id="10002152" name="" feature="Kritias_Paika01" />
+	<key id="10002153" name="" feature="Fieldwar02" />
+	<key id="10002154" name="" feature="Fieldwar02" />
+	<key id="10002155" name="" feature="Fieldwar02" />
+	<key id="10002156" name="" feature="Fieldwar02" />
+	<key id="10002157" name="" feature="Fieldwar02" />
+	<key id="10002158" name="" feature="Fieldwar02" />
+	<key id="10002159" name="" feature="Fieldwar02" />
+	<key id="10002160" name="" feature="Fieldwar02" />
 	<key id="10002161" name="" feature="Fieldwar01" />
 	<key id="10002162" name="" feature="Fieldwar01" />
 	<key id="10002163" name="" feature="Fieldwar01" />
@@ -1516,6 +1524,12 @@
 	<key id="10002166" name="" feature="Fieldwar01" />
 	<key id="10002167" name="" feature="Fieldwar01" />
 	<key id="10002168" name="" feature="Fieldwar01" />
+	<key id="10002169" name="" feature="Fieldwar02" />
+	<key id="10002170" name="" feature="Fieldwar02" />
+	<key id="10002171" name="" feature="Fieldwar02" />
+	<key id="10002172" name="" feature="Fieldwar02" />
+	<key id="10002173" name="" feature="Fieldwar02" />
+	<key id="10002174" name="" feature="Fieldwar02" />
 	<key id="10003001" name="" feature="Gigantica01" />
 	<key id="11000001" name="" />
 	<key id="11000002" name="" />
@@ -1601,6 +1615,7 @@
 	<key id="11000110" name="" />
 	<key id="11000111" name="" />
 	<key id="11000112" name="" />
+	<key id="11000113" name="" feature="Event" locale="NA" />
 	<key id="11100001" name="" />
 	<key id="11100002" name="" />
 	<key id="11100003" name="" />

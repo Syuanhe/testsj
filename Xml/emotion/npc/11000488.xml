@@ -204,7 +204,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_serious.dds" control="" delay="3500" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Calm.xml" />
+    
   </emotion>  
   <!-- 기합 -->       
   <emotion type="1" name="Focus">

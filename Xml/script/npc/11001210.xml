@@ -15,16 +15,6 @@
 			<distractor text="$script:1022122107004248$" goto="31" gotoFail="" />
 		</content>
 	</script>
-	<script randomPick="1" id="40" feature="" locale="">
-		<content voiceID="ko/Npc/03000794" text="$script:1023213007004272$">
-			<distractor text="$script:1023213007004273$" goto="41" gotoFail="" />
-		</content>
-	</script>
-	<script randomPick="1" id="50" feature="" locale="">
-		<content voiceID="ko/Npc/03000793" text="$script:1023213007004274$">
-			<distractor text="$script:1023213007004275$" goto="41" gotoFail="" />
-		</content>
-	</script>
 	<script id="31" feature="" locale="">
 		<content text="$script:1022122107004249$">
 			<distractor text="$script:1022122107004250$" goto="32" gotoFail="" />
@@ -33,9 +23,19 @@
 	<script id="32" feature="" locale="">
 		<content text="$script:1022122107004251$" />
 	</script>
+	<script randomPick="1" id="40" feature="" locale="">
+		<content voiceID="ko/Npc/03000794" text="$script:1023213007004272$">
+			<distractor text="$script:1023213007004273$" goto="41" gotoFail="" />
+		</content>
+	</script>
 	<script id="41" feature="" locale="">
 		<content voiceID="ko/Npc/03000795" text="$script:1023213007004276$" />
 		<content voiceID="ko/Npc/03000797" functionID="1" openTalkReward="1" text="$script:1023213007004277$" />
+	</script>
+	<script randomPick="1" id="50" feature="" locale="">
+		<content voiceID="ko/Npc/03000793" text="$script:1023213007004274$">
+			<distractor text="$script:1023213007004275$" goto="41" gotoFail="" />
+		</content>
 	</script>
 	<script id="51" feature="" locale="">
 		<content voiceID="ko/Npc/03000795" text="$script:1023213007004278$">

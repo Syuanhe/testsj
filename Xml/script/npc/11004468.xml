@@ -4,13 +4,13 @@
 	<select id="0" feature="Kritias_2018_12" locale="">
 		<content text="$script:1227192907012113$" />
 	</select>
-	<script randomPick="1" id="10" feature="Kritias_2018_12" locale="">
-		<content text="$script:1227192907012114$" />
-	</script>
 	<monologue id="5" feature="Kritias_2018_12" locale="">
 		<content text="$script:1227192907012115$" />
 	</monologue>
 	<monologue id="6" feature="Kritias_2018_12" locale="">
 		<content text="$script:1227192907012116$" />
 	</monologue>
+	<script randomPick="1" id="10" feature="Kritias_2018_12" locale="">
+		<content text="$script:1227192907012114$" />
+	</script>
 </ms2>

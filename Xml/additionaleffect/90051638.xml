@@ -12,7 +12,7 @@
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
-			<Stat hpvalue="4500" aspvalue="15" atpvalue="15" />
+			<Stat hpvalue="4500" aspvalue="15" atpvalue="25" />
 			<SpecialAbility stunreducerate="0.5" />
 		</StatusProperty>
 		<FinalStatusProperty>

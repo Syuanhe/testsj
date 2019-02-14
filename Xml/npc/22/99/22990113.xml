@@ -7,12 +7,12 @@
 		<stat str="0" dex="0" int="0" luk="0" hp="398622" hp_rgp="0" hp_inv="0" sp="0" sp_rgp="0" sp_inv="0" ep="0" ep_rgp="0" ep_inv="0" asp="100" msp="100" atp="81" evp="82" cap="65" cad="500" car="50" ndd="702" abp="0" jmp="0" pap="68042" map="68063" par="105" mar="105" wapmin="0" wapmax="0" dmg="0" pen="0" rmsp="0" bap="0" />
 		<speed rotation="400" walk="190" run="380" />
 		<distance avoid="140" sight="2000" sightHeightUP="500" sightHeightDown="0" customLastSightRadius="5500" customLastSightHeightUp="900" customLastSightHeightDown="225" />
-		<skill ids="50001273" levels="1" priorities="1" probs="100" coolDown="0" />
+		<skill ids="50001360" levels="1" priorities="1" probs="100" coolDown="0" />
 		<additionalEffect codes="" levels="" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="" />
+		<aiInfo path="Test/AI_BalrogCrimson_Test113.xml" />
 		<collision shape="box" width="200" height="480" depth="200" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="60" height="230" ignore="0" />

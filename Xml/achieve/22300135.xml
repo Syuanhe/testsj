@@ -7,4 +7,22 @@
 			<reward type="title" code="10000566" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22300135" account="0" icon="hero_adventure.PNG" noticePercent="" locking="" categoryTag="adventure,quest" feature="KarkarIsland" locale="JP">
+		<grade value="1">
+			<condition type="quest_clear" code="10002815" value="1" target="" />
+			<reward type="title" code="10000566" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22300135" account="0" icon="hero_adventure.PNG" noticePercent="" locking="" categoryTag="adventure,quest" feature="KarkarIsland" locale="TH">
+		<grade value="1">
+			<condition type="quest_clear" code="10002815" value="1" target="" />
+			<reward type="title" code="10000566" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22300135" account="0" icon="hero_adventure.PNG" noticePercent="" locking="" categoryTag="adventure,quest" feature="KarkarIsland" locale="TW">
+		<grade value="1">
+			<condition type="quest_clear" code="10002815" value="1" target="" />
+			<reward type="title" code="10000566" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

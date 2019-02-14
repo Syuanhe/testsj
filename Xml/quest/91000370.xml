@@ -16,7 +16,7 @@
 			<gotoNpc enable="0" gotoField="0" gotoPortal="0" />
 			<gotoDungeon state="0" gotoDungeon="0" gotoInstanceID="0" />
 			<remoteAccept useRemote="0" requireField="0" />
-			<remoteComplete useRemote="Cinematic" requireField="0" requireDungeonClear="0" />
+			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
 		</quest>

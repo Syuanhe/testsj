@@ -67,4 +67,70 @@
 			<reward type="title" code="10000369" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22200420" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="JP">
+		<grade value="1">
+			<condition type="trigger" code="02100009_1" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="trigger" code="02100009_1" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="trigger" code="02100009_1" value="20" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="trigger" code="02100009_1" value="35" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="trigger" code="02100009_1" value="50" target="" />
+			<reward type="title" code="10000369" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200420" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="TH">
+		<grade value="1">
+			<condition type="trigger" code="02100009_1" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="trigger" code="02100009_1" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="trigger" code="02100009_1" value="20" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="trigger" code="02100009_1" value="35" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="trigger" code="02100009_1" value="50" target="" />
+			<reward type="title" code="10000369" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200420" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="TW">
+		<grade value="1">
+			<condition type="trigger" code="02100009_1" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="trigger" code="02100009_1" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="trigger" code="02100009_1" value="20" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="trigger" code="02100009_1" value="35" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="trigger" code="02100009_1" value="50" target="" />
+			<reward type="title" code="10000369" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

@@ -65,6 +65,9 @@
 			<distractor text="$script:0407181907008394$" goto="51" gotoFail="" />
 		</content>
 	</script>
+	<monologue id="60" feature="NPCPortal01" locale="" popupState="10">
+		<content text="$script:0105003907007665$" />
+	</monologue>
 	<script id="61" feature="SkinSocket" locale="">
 		<content text="$script:0407181907008395$">
 			<distractor text="$script:0407181907008396$" goto="62" gotoFail="" />
@@ -116,9 +119,6 @@
 	<script id="74" feature="SkinSocket" locale="">
 		<content text="$script:0407181907008422$" />
 	</script>
-	<monologue id="60" feature="NPCPortal01" locale="" popupState="10">
-		<content text="$script:0105003907007665$" />
-	</monologue>
 	<script randomPick="1" id="80" feature="" locale="">
 		<content text="$script:0116174407009791$" />
 		<content text="$script:0116174407009792$">

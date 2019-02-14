@@ -21,14 +21,14 @@
 			<distractor text="$script:0831180407000248$" goto="33" gotoFail="" />
 		</content>
 	</script>
-	<script id="33" feature="" locale="">
-		<content text="$script:0831180407000249$" />
-		<content text="$script:0831180407000250$" />
-	</script>
 	<script id="32" feature="" locale="">
 		<content text="$script:0831180407000251$">
 			<distractor text="$script:0831180407000252$" goto="34" gotoFail="" />
 		</content>
+	</script>
+	<script id="33" feature="" locale="">
+		<content text="$script:0831180407000249$" />
+		<content text="$script:0831180407000250$" />
 	</script>
 	<script id="34" feature="" locale="">
 		<content text="$script:0831180407000253$" />

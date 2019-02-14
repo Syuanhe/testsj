@@ -463,11 +463,17 @@
 	<key id="10000466" name="레인보우 슬라임의 친구" />
 	<key id="10000467" name="레인보우 슬라임 사육사" />
 	<key id="10000468" name="최초의 전직" feature="JobChange_01" />
+	<key id="10000469" name="후룸의 친구" />
 	<key id="10000469" name="후룸의 친구" locale="NA" />
+	<key id="10000470" name="고양이의 카운셀러" />
 	<key id="10000470" name="고양이의 카운셀러" locale="NA" />
+	<key id="10000471" name="골두스 찬양가를 부른 신입사원" />
 	<key id="10000471" name="골두스 찬양가를 부른 신입사원" locale="NA" />
+	<key id="10000472" name="핫바를 홍보 중인" />
 	<key id="10000472" name="핫바를 홍보 중인" locale="NA" />
+	<key id="10000473" name="따끈따끈한 피자를 배달한" />
 	<key id="10000473" name="따끈따끈한 피자를 배달한" locale="NA" />
+	<key id="10000474" name="아르웬의 유리구두를 찾아준" />
 	<key id="10000474" name="아르웬의 유리구두를 찾아준" locale="NA" />
 	<key id="10000475" name="3세 메린이" locale="KR" />
 	<key id="10000476" name="3주년을 함께한" locale="KR" />
@@ -475,9 +481,13 @@
 	<key id="10000478" name="반격의" feature="ChronicleDungeon60_01" />
 	<key id="10000479" name="흑화한" feature="ChronicleDungeon60_01" />
 	<key id="10000480" name="골고루 먹는" feature="ChronicleDungeon60_01" />
+	<key id="10000481" name="우파루파의 친구" feature="Fishing" />
 	<key id="10000481" name="우파루파의 친구" feature="Fishing" locale="NA" />
+	<key id="10000482" name="낚시에 영혼을 판" feature="Fishing" />
 	<key id="10000482" name="낚시에 영혼을 판" feature="Fishing" locale="NA" />
+	<key id="10000483" name="그림자술사를 친구로 둔" feature="PetBattle" />
 	<key id="10000483" name="그림자술사를 친구로 둔" feature="PetBattle" locale="NA" />
+	<key id="10000484" name="나태한" feature="PetBattle" />
 	<key id="10000484" name="나태한" feature="PetBattle" locale="NA" />
 	<key id="10000485" name="아름다운 바다의" feature="ChronicleDungeon60_01" />
 	<key id="10000486" name="눈보라를 이겨낸" feature="ChronicleDungeon60_01" />
@@ -515,7 +525,9 @@
 	<key id="10000537" name="조디와 함께 하는" />
 	<key id="10000540" name="달빛" />
 	<key id="10000541" name="사나운 힘을 얻은" locale="CN" />
+	<key id="10000542" name="레버넌트 좀비를 처치한" feature="Season1" />
 	<key id="10000542" name="레버넌트 좀비를 처치한" feature="Season1" locale="NA" />
+	<key id="10000543" name="외계인을 만나고 싶은" feature="Season1" />
 	<key id="10000543" name="외계인을 만나고 싶은" feature="Season1" locale="NA" />
 	<key id="10000544" name="반짝반짝 눈이 부신" feature="WorldChampionMushroom" />
 	<key id="10000545" name="먹기 위해 태어난" feature="WorldChampionMushroom" />
@@ -539,8 +551,11 @@
 	<key id="10000563" name="병약한" feature="WorldChampionMushroom" />
 	<key id="10000564" name="신나는 축제" locale="CN" />
 	<key id="10000565" name="1주년을 함께한" locale="CN" />
+	<key id="10000566" name="빛의 아이를 만난" feature="KarkarIsland" />
 	<key id="10000566" name="빛의 아이를 만난" feature="KarkarIsland" locale="NA" />
+	<key id="10000567" name="뮤지션의 고민을 들어준" feature="KarkarIsland" />
 	<key id="10000567" name="뮤지션의 고민을 들어준" feature="KarkarIsland" locale="NA" />
+	<key id="10000568" name="달인 포토그래퍼" feature="KarkarIsland" />
 	<key id="10000568" name="달인 포토그래퍼" feature="KarkarIsland" locale="NA" />
 	<key id="10000569" name="탑 디자이너" locale="NA" />
 	<key id="10000570" name="스타 건축가" locale="NA" />
@@ -609,9 +624,11 @@
 	<key id="10000637" name="칠면조 요리사" />
 	<key id="10000638" name="위험한 힘을 다루는" feature="Lapenshard01" />
 	<key id="10000639" name="오늘의 산타" />
+	<key id="10000640" name="연합의 기대를 한 몸에 받는" feature="FameContents" />
 	<key id="10000640" name="연합의 기대를 한 몸에 받는" feature="FameContents" locale="NA" />
 	<key id="10000641" name="가위바위보 달인" locale="CN" />
 	<key id="10000642" name="보안 의식이 우수한" locale="KR" />
+	<key id="10000643" name="포트리스 럼블 마스터" feature="FameChallengeDungeon" />
 	<key id="10000643" name="포트리스 럼블 마스터" feature="FameChallengeDungeon" locale="NA" />
 	<key id="10000644" name="신비한 힘을 가진" />
 	<key id="10000645" name="돼지 만두 요리사" />
@@ -640,7 +657,7 @@
 	<key id="10000668" name="빛나는" feature="Kritias_Paika01" />
 	<key id="10000669" name="해충박멸" feature="Fieldwar01" />
 	<key id="10000670" name="잘나가는" feature="Fieldwar01" />
-	<key id="10000671" name="무자비한" feature="Fieldwar01" />
+	<key id="10000671" name="자비없는" feature="Fieldwar01" />
 	<key id="10000672" name="군단장" feature="Fieldwar01" />
 	<key id="10000673" name="새 대륙, 새 각오" feature="Kritias_2018_12" />
 	<key id="10000674" name="크리티아스의 샛별" feature="Kritias_2018_12" />
@@ -658,6 +675,7 @@
 	<key id="10000686" name="일기장을 훔쳐 본" feature="Kritias_2018_12" />
 	<key id="10000687" name="악마의 나무 벌목꾼" feature="Kritias_2018_12" />
 	<key id="10000688" name="크리티아스를 지키는 영웅" feature="Kritias_2018_12" />
+	<key id="10000689" name="신대륙 여행자" locale="KR" />
 	<key id="10000690" name="블리체의 고양이" feature="Kritias_2018_12" />
 	<key id="10000691" name="메이슨의 백염룡" feature="Kritias_2018_12" />
 	<key id="10000692" name="네이린의 큐티" feature="Kritias_2018_12" />
@@ -680,4 +698,33 @@
 	<key id="10000709" name="거짓말쟁이" feature="Kritias_2018_12" />
 	<key id="10000710" name="심마니" feature="Kritias_2018_12" />
 	<key id="10000711" name="생계형 모험가" feature="Kritias_2018_12" />
+	<key id="10000712" name="붉은 함박꽃" locale="CN" />
+	<key id="10000713" name="노랑 함박꽃" locale="CN" />
+	<key id="10000714" name="퇴마사" feature="Kritias_Zakum01" />
+	<key id="10000715" name="고대의" feature="Kritias_Inferno01" />
+	<key id="10000716" name="나무꾼" feature="Kritias_Zakum01" />
+	<key id="10000717" name="일격필살" feature="Kritias_Inferno01" />
+	<key id="10000718" name="강한 친구들" feature="PetEvolution01" />
+	<key id="10000719" name="키워주세요" feature="PetEvolution01" />
+	<key id="10000720" name="보랏빛" feature="PetEvolution01" />
+	<key id="10000721" name="금색의" feature="PetEvolution01" />
+	<key id="10000722" name="으쌰!으쌰!" feature="PetEvolution01" />
+	<key id="10000723" name="힘 내!" feature="PetEvolution01" />
+	<key id="10000724" name="엘리트" feature="PetEvolution01" />
+	<key id="10000725" name="갈아타는 중" feature="PetEvolution01" />
+	<key id="10000726" name="전설을 만드는" feature="PetEvolution01" />
+	<key id="10000727" name="이걸 다 하는" feature="PetEvolution01" />
+	<key id="10000728" name="진화하는" feature="PetEvolution01" />
+	<key id="10000729" name="노력파" feature="PetEvolution01" />
+	<key id="10000730" name="전설 수집가" feature="PetEvolution01" />
+	<key id="10000731" name="벚꽃의 노래" locale="KR" />
+	<key id="10000732" name="레알" feature="Event" locale="KR" />
+	<key id="10000733" name="항상 이기는" feature="Event" locale="KR" />
+	<key id="10000734" name="마음을 읽는" feature="Event" locale="KR" />
+	<key id="10000735" name="일부러 져주는" feature="Event" locale="KR" />
+	<key id="10000736" name="오늘의 짝꿍" feature="Event" />
+	<key id="10000737" name="실속있는" feature="Fieldwar02" />
+	<key id="10000738" name="날렵한" feature="Fieldwar02" />
+	<key id="10000739" name="깡통차는" feature="Fieldwar02" />
+	<key id="10000740" name="포수" feature="Fieldwar02" />
 </ms2>

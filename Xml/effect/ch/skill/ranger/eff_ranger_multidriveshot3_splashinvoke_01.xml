@@ -6,6 +6,6 @@
   </effect>
   <effect type="vibrate" startDelay="0.0" duration="0.2" freq="20" amp="5"></effect>
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Wizard" event="03200013">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+    <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect>
 </ms2>

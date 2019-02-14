@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="BE">
-				<asset name="Data/Resource/Model/Item/Empty.nif" selfnode="Scene Root" targetnode="BE" attachnode="" pony="0" zalign="0" replace="1" earfold="0" ani="1" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="Data/Resource/Model/Item/1/21/Eff_Item_AncientFairyNormal_Keep_01.nif" selfnode="Scene Root" targetnode="Bip01 Pelvis" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="1" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />
@@ -39,7 +39,7 @@
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="90030593" level="1" />
-		<tool itemPreset="12100001" itemPresetPath="1/21/" />
+		<tool itemPreset="12100050" itemPresetPath="1/21/" />
 		<option title="12100102" static="12100102" random="12100102" constant="12100102" staticMakeType="0" randomMakeType="1" constantMakeType="0" optionRandom="0" optionLevelFactor="50" optionID="121010101" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />

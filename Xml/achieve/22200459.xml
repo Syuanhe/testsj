@@ -7,4 +7,22 @@
 			<reward type="shop_ride" code="50600015" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22200459" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="JP">
+		<grade value="1">
+			<condition type="field_mission" code="72000112,72000113,72000114" value="3" target="" />
+			<reward type="shop_ride" code="50600015" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200459" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="TH">
+		<grade value="1">
+			<condition type="field_mission" code="72000112,72000113,72000114" value="3" target="" />
+			<reward type="shop_ride" code="50600015" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200459" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="TW">
+		<grade value="1">
+			<condition type="field_mission" code="72000112,72000113,72000114" value="3" target="" />
+			<reward type="shop_ride" code="50600015" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

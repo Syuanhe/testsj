@@ -1485,7 +1485,6 @@
 	<key id="11001532" name="펀치:s" feature="MassiveDanceDanceStop" />
 	<key id="11001533" name="원숭이 연출1:s" feature="ArcadeCrazyMonkeyOcean" />
 	<key id="11001534" name="원숭이 연출2:s" feature="ArcadeCrazyMonkeyOcean" />
-	<key id="11001535" name="스머그:s" />
 	<key id="11001536" name="주마:s" feature="Season1" />
 	<key id="11001537" name="이파지오:s" feature="Season1" />
 	<key id="11001538" name="테레즈:s" feature="Season1" />
@@ -2408,6 +2407,7 @@
 	<key id="11003403" name="프레데릭:s" feature="JobIntro" />
 	<key id="11003404" name="알론:s" feature="JobIntro" />
 	<key id="11003405" name="밍밍:s" feature="MassiveCrazyRunnersShanghai" />
+	<key id="11003405" name="밍밍:s" feature="MassiveCrazyRunnersShanghai" locale="NA" />
 	<key id="11003406" name="붉은 늑대의 심장:s" feature="Quest2017_2" />
 	<key id="11003407" name="붉은 늑대의 심장:s" feature="Quest2017_2" />
 	<key id="11003408" name="에바고르:s" feature="Quest2017_2" />
@@ -2546,7 +2546,8 @@
 	<key id="11003552" name="요하랑:s" feature="ContentsGuide01" />
 	<key id="11003553" name="트라이아 해군 병사:s" feature="FameContents" />
 	<key id="11003554" name="트라이아 해군 병사:s" feature="FameContents" />
-	<key id="11003555" name="토드:s" feature="DungeonRank02" />
+	<key id="11003555" name="토드:s" locale="KR" />
+	<key id="11003555" name="토드:s" locale="CN" />
 	<key id="11003556" name="갈릴레오 박사의 홀로그램:s" feature="GuildRaid01" />
 	<key id="11003557" name="갈릴레오 박사의 홀로그램:s" feature="GuildRaid01" />
 	<key id="11003558" name="문레빗:s" feature="Season1" />
@@ -3319,6 +3320,9 @@
 	<key id="11004551" name="집무실 보초병:s" feature="Kritias_2018_12" />
 	<key id="11004552" name="쇼콜라:s" feature="Season1" />
 	<key id="11004553" name="각성한 클라디아:s" feature="Kritias_Epic01" />
+	<key id="11004554" name="꽃의 요정:s" />
+	<key id="11004555" name="트리스탄:s" feature="Kritias_Inferno01" />
+	<key id="11004556" name="분홍 꿈트리:s" feature="Kritias_2018_12" />
 	<key id="11400001" name="버섯 보트:s" feature="SurvivalContents01" />
 	<key id="11400002" name="버섯 열기구:s" feature="SurvivalContents01" />
 	<key id="11200000" name="그레이:s" feature="GuildHouse01" />
@@ -3945,6 +3949,15 @@
 	<key id="21410100" name="모쿰:s" />
 	<key id="21410101" name="모쿰:s" />
 	<key id="21410102" name="모쿰:s" />
+	<key id="21410110" name="부기:s" feature="Kritias_Zakum01" />
+	<key id="21410111" name="부기:s" feature="Kritias_Zakum01" />
+	<key id="21410112" name="부기:s" feature="Kritias_Zakum01" />
+	<key id="21410120" name="계약의 토템:s" feature="Kritias_Zakum01" />
+	<key id="21410121" name="계약의 토템:s" feature="Kritias_Zakum01" />
+	<key id="21410122" name="계약의 토템:s" feature="Kritias_Zakum01" />
+	<key id="21410123" name="계약의 토템:s" feature="Kritias_Zakum01" />
+	<key id="21410124" name="계약의 토템:s" feature="Kritias_Zakum01" />
+	<key id="21410125" name="계약의 토템:s" feature="Kritias_Zakum01" />
 	<key id="21420101" name="피리스:s" feature="ChronicleDungeon60_01" />
 	<key id="21420102" name="셀린:s" feature="ChronicleDungeon60_01" />
 	<key id="21420103" name="옥토스:s" feature="ChronicleDungeon60_01" />
@@ -4759,16 +4772,19 @@
 	<key id="21501294" name="크림슨 발록:s" feature="Kritias_Balrog01" />
 	<key id="21501295" name="크림슨 발록:s" feature="Kritias_Balrog01" />
 	<key id="21501296" name="크림슨 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501300" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501301" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501302" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501303" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501304" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501305" name="졸병 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501310" name="크림슨 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501311" name="크림슨 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501312" name="크림슨 발록:s" feature="Kritias_Balrog01" />
-	<key id="21501313" name="크림슨 발록:s" feature="Kritias_Balrog01" />
+	<key id="21501300" name="솔저레토:s" feature="Kritias_Inferno01" />
+	<key id="21501301" name="솔저레토:s" feature="Kritias_Inferno01" />
+	<key id="21501302" name="나이트레토:s" feature="Kritias_Inferno01" />
+	<key id="21501303" name="나이트레토:s" feature="Kritias_Inferno01" />
+	<key id="21501305" name="졸병 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501306" name="졸병 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501310" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501311" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501312" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501313" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501314" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501315" name="크림슨 발록:s" feature="Kritias_Inferno01" />
+	<key id="21501316" name="크림슨 발록:s" feature="Kritias_Inferno01" />
 	<key id="21501330" name="졸병 발록:s" feature="CrimsonBalrog01" />
 	<key id="21501331" name="졸병 발록:s" feature="CrimsonBalrog01" />
 	<key id="21501332" name="졸병 발록:s" feature="CrimsonBalrog01" />
@@ -4796,6 +4812,91 @@
 	<key id="21501371" name="크림슨 발록:s" feature="CrimsonBalrog01" />
 	<key id="21501372" name="크림슨 발록:s" feature="CrimsonBalrog01" />
 	<key id="21501373" name="크림슨 발록:s" feature="CrimsonBalrog01" />
+	<key id="21502001" name="카블:s" feature="DarkCastle" />
+	<key id="21502002" name="카블:s" feature="DarkCastle" />
+	<key id="21502003" name="카블:s" feature="DarkCastle" />
+	<key id="21502004" name="카블:s" feature="DarkCastle" />
+	<key id="21502005" name="카블:s" feature="DarkCastle" />
+	<key id="21502006" name="카블:s" feature="DarkCastle" />
+	<key id="21502007" name="카블:s" feature="DarkCastle" />
+	<key id="21502008" name="카블:s" feature="DarkCastle" />
+	<key id="21502009" name="카블:s" feature="DarkCastle" />
+	<key id="21502010" name="카블:s" feature="DarkCastle" />
+	<key id="21502011" name="갸투스:s" feature="DarkCastle" />
+	<key id="21502012" name="갸투스:s" feature="DarkCastle" />
+	<key id="21502013" name="몬토:s" feature="DarkCastle" />
+	<key id="21502014" name="몬토:s" feature="DarkCastle" />
+	<key id="21502015" name="몬토:s" feature="DarkCastle" />
+	<key id="21502016" name="몬토:s" feature="DarkCastle" />
+	<key id="21502017" name="몬토:s" feature="DarkCastle" />
+	<key id="21502018" name="몬토:s" feature="DarkCastle" />
+	<key id="21502101" name="수호병 몽크:s" feature="SnowKingdom" />
+	<key id="21502102" name="수호병 몽크:s" feature="SnowKingdom" />
+	<key id="21502103" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502104" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502105" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502106" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502107" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502108" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502109" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502110" name="수호병 쿠쿠:s" feature="SnowKingdom" />
+	<key id="21502111" name="수호병 데브:s" feature="SnowKingdom" />
+	<key id="21502112" name="수호병 데브:s" feature="SnowKingdom" />
+	<key id="21502113" name="수호병 데브:s" feature="SnowKingdom" />
+	<key id="21502114" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502115" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502116" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502117" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502118" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502119" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502120" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502121" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502122" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502123" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502124" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502125" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502126" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502127" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502128" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502129" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502130" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502131" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502132" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502133" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502134" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502135" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502136" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502137" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502138" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502139" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502140" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502141" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502142" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502143" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502144" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502145" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502146" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502147" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502148" name="타락한 기사단:s" feature="SnowKingdom" />
+	<key id="21502201" name="솔로몬:s" feature="PinkBean01" />
+	<key id="21502202" name="렉스:s" feature="PinkBean01" />
+	<key id="21502203" name="휘긴:s" feature="PinkBean01" />
+	<key id="21502204" name="무긴:s" feature="PinkBean01" />
+	<key id="21502205" name="아리엘:s" feature="PinkBean01" />
+	<key id="21502206" name="솔로몬:s" feature="PinkBean01" />
+	<key id="21502207" name="렉스:s" feature="PinkBean01" />
+	<key id="21502208" name="휘긴:s" feature="PinkBean01" />
+	<key id="21502209" name="무긴:s" feature="PinkBean01" />
+	<key id="21502210" name="아리엘:s" feature="PinkBean01" />
+	<key id="21502211" name="솔로몬:s" feature="PinkBean01" />
+	<key id="21502212" name="렉스:s" feature="PinkBean01" />
+	<key id="21502213" name="휘긴:s" feature="PinkBean01" />
+	<key id="21502214" name="무긴:s" feature="PinkBean01" />
+	<key id="21502215" name="아리엘:s" feature="PinkBean01" />
+	<key id="21502216" name="아리엘:s" feature="PinkBean01" />
+	<key id="21502217" name="미니빈:s" feature="PinkBean01" />
+	<key id="21502218" name="미니빈:s" feature="PinkBean01" />
+	<key id="21502219" name="미니빈:s" feature="PinkBean01" />
 	<key id="21800001" name="근위대장 프레이:s" feature="Season3" />
 	<key id="21800002" name="경호원 검사:s" feature="Season1" />
 	<key id="21800003" name="경호원 창병:s" feature="Season3" />
@@ -4817,6 +4918,8 @@
 	<key id="21801509" name="알론:s" feature="Season1" />
 	<key id="21800144" name="트리스탄:s" feature="Season3" />
 	<key id="21801144" name="트리스탄:s" feature="Season3" />
+	<key id="21801145" name="트리스탄:s" feature="Kritias_Inferno01" />
+	<key id="21801146" name="트리스탄:s" feature="Kritias_Inferno01" />
 	<key id="21800901" name="그린후드의 석궁:s" feature="Season1" />
 	<key id="21800902" name="그린후드의 석궁:s" feature="Season1" />
 	<key id="21800903" name="그린후드의 석궁:s" feature="Season2" />
@@ -5114,6 +5217,8 @@
 	<key id="23090006" name="발록:s" feature="Kritias_Balrog01" />
 	<key id="23090066" name="스핑거:s" feature="KarkarIsland" />
 	<key id="23000071" name="자쿰:s" feature="Zakum01" />
+	<key id="23000072" name="자쿰:s" feature="Kritias_Zakum01" />
+	<key id="23000073" name="자쿰:s" feature="Kritias_Zakum01" />
 	<key id="23000076" name="파풀라투스:s" feature="EventPapulatus" />
 	<key id="23000077" name="파풀라투스:s" feature="Season2" />
 	<key id="23000078" name="룬의 거신 누타만:s" feature="NutaNuta" />
@@ -5138,6 +5243,28 @@
 	<key id="23404071" name="자쿰의 네 번째 팔:s" feature="Zakum01" />
 	<key id="23405071" name="자쿰의 다섯 번째 팔:s" feature="Zakum01" />
 	<key id="23406071" name="자쿰의 여섯 번째 팔:s" feature="Zakum01" />
+	<key id="23400072" name="자쿰:s" feature="Kritias_Zakum01" />
+	<key id="23400073" name="자쿰:s" feature="Kritias_Zakum01" />
+	<key id="23407001" name="자쿰의 첫 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407002" name="자쿰의 두 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407003" name="자쿰의 세 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407004" name="자쿰의 네 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407005" name="자쿰의 다섯 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407006" name="자쿰의 여섯 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407007" name="자쿰의 첫 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407008" name="자쿰의 두 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407009" name="자쿰의 네 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407010" name="자쿰의 다섯 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407011" name="자쿰의 첫 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407012" name="자쿰의 두 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407013" name="자쿰의 세 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407014" name="자쿰의 네 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407015" name="자쿰의 다섯 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407016" name="자쿰의 여섯 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407017" name="자쿰의 첫 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407018" name="자쿰의 두 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407019" name="자쿰의 네 번째 팔:s" feature="Kritias_Zakum01" />
+	<key id="23407020" name="자쿰의 다섯 번째 팔:s" feature="Kritias_Zakum01" />
 	<key id="23000088" name="핑크빈:s" feature="PinkBean01" />
 	<key id="23000090" name="인페르녹:s" />
 	<key id="23000091" name="인페르녹의 전함:s" />
@@ -5152,14 +5279,16 @@
 	<key id="23000116" name="유페리아:s" feature="LapentaDungeon" />
 	<key id="23000117" name="렌듀비앙:s" feature="LapentaDungeon" />
 	<key id="23000118" name="이슈라:s" feature="LapentaDungeon" />
-	<key id="23000140" name="인페르녹:s" />
-	<key id="23000141" name="인페르녹의 전함:s" />
-	<key id="23000142" name="인페르녹의 전함:s" />
-	<key id="23000143" name="인페르녹의 전함:s" />
-	<key id="23000144" name="인페르녹:s" />
-	<key id="23000145" name="인페르녹의 전함:s" />
-	<key id="23000146" name="인페르녹의 전함:s" />
-	<key id="23000147" name="인페르녹의 전함:s" />
+	<key id="23000140" name="인페르녹:s" feature="CrimsonBalrog01" />
+	<key id="23000141" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000142" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000143" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000144" name="인페르녹:s" feature="CrimsonBalrog01" />
+	<key id="23000145" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000146" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000147" name="인페르녹의 전함:s" feature="CrimsonBalrog01" />
+	<key id="23000150" name="인페르녹:s" feature="Kritias_Inferno01" />
+	<key id="23000151" name="인페르녹:s" feature="Kritias_Inferno01" />
 	<key id="23000918" name="자이언트 터틀_테스트:s" />
 	<key id="23001001" name="기간티카:s" feature="Gigantica01" />
 	<key id="23001002" name="기간티카:s" feature="Gigantica01" />
@@ -5308,10 +5437,11 @@
 	<key id="23500199" name="머쉬킹:s" feature="WorldChampionMushroom" />
 	<key id="23501001" name="유페리아:s" feature="LapentaDungeon" />
 	<key id="23501011" name="렌듀비앙:s" feature="LapentaDungeon" />
-	<key id="23988090" name="인페르녹_전방발사:s" />
-	<key id="23988091" name="인페르녹_사방발사:s" />
-	<key id="23988092" name="인페르녹_바닥 연속 생성:s" />
-	<key id="23988093" name="인페르녹_대미지필드_원기둥:s" />
+	<key id="23502001" name="마드리아:s" feature="DarkCastle" />
+	<key id="23502002" name="루카락스:s" feature="DarkCastle" />
+	<key id="23502003" name="루카락스:s" feature="DarkCastle" />
+	<key id="23502011" name="비에른:s" feature="SnowKingdom" />
+	<key id="23502021" name="핑크빈:s" feature="PinkBean01" />
 	<key id="23988094" name="인페르녹_대미지필드_투척:s" />
 	<key id="23988095" name="인페르녹_대미지필드_충격파:s" />
 	<key id="23988096" name="인페르녹_대미지필드_순간이동:s" />
@@ -6054,18 +6184,27 @@
 	<key id="25100117" name="검은군단 마법사:s" feature="Fieldwar01" />
 	<key id="25100118" name="군단전 쫄 마법사2:s" feature="Fieldwar01" />
 	<key id="25100119" name="군단전 쫄 마법사3:s" feature="Fieldwar01" />
-	<key id="25100201" name="군단전 쫄1:s" feature="Fieldwar01" />
-	<key id="25100202" name="군단전 쫄2:s" feature="Fieldwar01" />
-	<key id="25100203" name="군단전 쫄3:s" feature="Fieldwar01" />
-	<key id="25100204" name="군단전 쫄4:s" feature="Fieldwar01" />
-	<key id="25100205" name="군단전 쫄5:s" feature="Fieldwar01" />
-	<key id="25100206" name="군단전 쫄6:s" feature="Fieldwar01" />
-	<key id="25100207" name="쫄 자폭용 더미:s" feature="Fieldwar01" />
-	<key id="25100208" name="군단전 왕쫄1:s" feature="Fieldwar01" />
-	<key id="25100209" name="보스:s" feature="Fieldwar01" />
-	<key id="25100210" name="파일런:s" feature="Fieldwar01" />
-	<key id="25100211" name="미니 파일런:s" feature="Fieldwar01" />
-	<key id="25100212" name="군단전 쫄 마법사1:s" feature="Fieldwar01" />
+	<key id="25100201" name="검은군단 탐식이:s" feature="Fieldwar02" />
+	<key id="25100202" name="검은군단 파수견:s" feature="Fieldwar02" />
+	<key id="25100203" name="검은군단 약탈자:s" feature="Fieldwar02" />
+	<key id="25100204" name="검은군단 악귀:s" feature="Fieldwar02" />
+	<key id="25100205" name="검은군단 사령:s" feature="Fieldwar02" />
+	<key id="25100206" name="검은군단 악령:s" feature="Fieldwar02" />
+	<key id="25100207" name="쫄 자폭용 더미:s" feature="Fieldwar02" />
+	<key id="25100208" name="검은군단 파괴자:s" feature="Fieldwar02" />
+	<key id="25100209" name="검은군단 군단장:s" feature="Fieldwar02" />
+	<key id="25100210" name="에네르 분광장치:s" feature="Fieldwar02" />
+	<key id="25100211" name="검은군단 미사일 포대:s" feature="Fieldwar02" />
+	<key id="25100212" name="검은군단 라바나이트:s" feature="Fieldwar02" />
+	<key id="25100213" name="검은군단 소환체:s" feature="Fieldwar02" />
+	<key id="25100301" name="검은군단 탐식이:s" feature="Fieldwar02" />
+	<key id="25100302" name="검은군단 파수견:s" feature="Fieldwar02" />
+	<key id="25100303" name="검은군단 약탈자:s" feature="Fieldwar02" />
+	<key id="25100304" name="검은군단 무시돌진:s" feature="Fieldwar02" />
+	<key id="25100305" name="검은군단 파괴자:s" feature="Fieldwar02" />
+	<key id="25100306" name="검은군단 군단장:s" feature="Fieldwar02" />
+	<key id="25100307" name="에네르 분광장치:s" feature="Fieldwar02" />
+	<key id="25100308" name="검은군단 미사일 포대:s" feature="Fieldwar02" />
 	<key id="25200001" name="검은군단 마도사:s" feature="Kritias_Paika01" />
 	<key id="25200002" name="검은군단 탐식이:s" feature="Kritias_Paika01" />
 	<key id="25200003" name="검은군단 파수견:s" feature="Kritias_Paika01" />

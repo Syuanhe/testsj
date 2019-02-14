@@ -2,14 +2,14 @@
 <ms2> <!--계약의 토템에 의해 오른쪽 지점에 용암파도 생성-->
  
 	<state name="전투체크">
-			<condition name="몬스터가전투상태면" arg1="2001">
-					<transition state="대기" />			
-			</condition>					
+		<condition name="유저를감지했으면" arg1="199">
+			<transition state="대기" /> 
+		</condition>		
 	</state>  
 
 	<state name="대기">
 		<onEnter> 
-			<action name="이펙트를설정한다" arg1="600" arg2="0" />	
+			<action name="이펙트를설정한다" arg1="600" arg2="0" />			
 		</onEnter>			
 			
 				<condition name="UserValue" key="LavaflowRight" value="1"> <!-- 오른쪽 용암 담당 계약의 토템이 생성될때, 이 부분 작동,   LavaflowRight 변수는 자쿰몸체 보스한테 LavaflowRight = 1 설정되어서 넘어오는 것임 -->

@@ -9,7 +9,8 @@
   </customize>
   <slots>
     <slot name="FH">
-      <asset name="Data/Resource/Model/Item/0/10/11050051_C_Chocolate01.nif" targetnode="Bip01 Head" selfnode="FH"/>  
+      <asset gender="0" name="Data/Resource/Model/Item/0/10/11050051_M_Chocolate01.nif" targetnode="Bip01 Head" selfnode="FH"/>
+	  <asset gender="1" name="Data/Resource/Model/Item/0/10/11050051_F_Chocolate01.nif" targetnode="Bip01 Head" selfnode="FH"/>  
     </slot>
   </slots>
 </ms2>

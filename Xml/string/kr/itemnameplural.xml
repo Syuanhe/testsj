@@ -387,8 +387,8 @@
 	<key id="10300163" class="face" name="또렷한 눈빛 얼굴:s" />
 	<key id="10300164" class="face" name="샤프한 눈빛 얼굴:s" />
 	<key id="10300165" class="face" name="샤프한 눈빛 얼굴:s" />
-	<key id="10300166" class="face" name="붉은 눈가 얼굴 (남):s" />
-	<key id="10300167" class="face" name="붉은 눈가 얼굴 (여):s" />
+	<key id="10300166" class="face" name="붉은 눈가 얼굴:s" />
+	<key id="10300167" class="face" name="붉은 눈가 얼굴:s" />
 	<key id="10400000" class="face mark" name="꾸미기 없음:s" />
 	<key id="10400001" class="face mark" name="부끄부끄 홍조:s" />
 	<key id="10400002" class="face mark" name="하트 타투:s" />
@@ -573,9 +573,15 @@
 	<key id="10400181" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="NA" />
 	<key id="10400182" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="NA" />
 	<key id="10400183" class="face mark" name="불꽃 팡팡 폭죽 페인팅:s" />
+	<key id="10400184" class="face mark" name="아기 큐피드 페인팅:s" />
+	<key id="10400185" class="face mark" name="펭귄 얼굴 페인팅:s" />
+	<key id="10400186" class="face mark" name="더블하트 페인팅:s" />
 	<key id="10400192" class="face mark" name="Razer 페인팅:s" locale="NA" />
 	<key id="10400193" class="face mark" name="Razer 페인팅:s" locale="NA" />
 	<key id="10400194" class="face mark" name="불꽃 팡팡 폭죽 페인팅:s" />
+	<key id="10400195" class="face mark" name="아기 큐피드 페인팅:s" />
+	<key id="10400196" class="face mark" name="펭귄 얼굴 페인팅:s" />
+	<key id="10400197" class="face mark" name="더블하트 페인팅:s" />
 	<key id="10500001" class="ear" name="귀:s" />
 	<key id="11050001" class="mouth" name="달콤한 막대사탕:s" />
 	<key id="11050002" class="mouth" name="멋쟁이 신사수염:s" />
@@ -627,6 +633,7 @@
 	<key id="11050049" class="mouth" name="턱밑 검은 마스크:s" />
 	<key id="11050050" class="mouth" name="턱밑 하얀 마스크:s" />
 	<key id="11050051" class="mouth" name="스위트 초콜릿:s" />
+	<key id="11050055" class="mouth" name="피노키오 코:s" />
 	<key id="11099999" class="system" name="투명기능_얼굴장식:s" />
 	<key id="11150001" class="eye" name="깔끔한 뿔테 안경:s" />
 	<key id="11150002" class="eye" name="세련된 호피무늬 안경:s" />
@@ -683,8 +690,11 @@
 	<key id="11150052" class="eye" name="박쥐 선글라스:s" />
 	<key id="11150053" class="eye" name="가는테 안경:s" />
 	<key id="11150054" class="eye" name="VR 기기:s" />
-	<key id="11150057" class="eye" name="스타 체인 라운드 안경 (남):s" />
-	<key id="11150058" class="eye" name="스타 체인 라운드 안경 (여):s" />
+	<key id="11150055" class="eye" name="푸들 푸들 안대:s" />
+	<key id="11150057" class="eye" name="오버 윈터 체인 라운드 안경 (남):s" />
+	<key id="11150058" class="eye" name="오버 윈터 체인 라운드 안경 (여):s" />
+	<key id="11150059" class="eye" name="다 보여 스카우터:s" />
+	<key id="11150060" class="eye" name="작은 동글안경:s" />
 	<key id="11199999" class="system" name="투명기능_눈장식:s" />
 	<key id="11200001" class="earring" name="사파이어 이어링:s" />
 	<key id="11200002" class="earring" name="작은 별 이어링:s" />
@@ -781,7 +791,7 @@
 	<key id="11200093" class="earring" name="마드라칸 군주의 귀고리:s" feature="Level60Item" />
 	<key id="11200094" class="earring" name="타이렌 렌샤 귀고리:s" feature="Level70Item" />
 	<key id="11200095" class="earring" name="게오르크 카이 귀고리:s" feature="Level70Item" />
-	<key id="11200096" class="earring" name="라펜샤드 이어링:s" feature="Level70Item" />
+	<key id="11200096" class="earring" name="타이렌 로열 귀고리:s" feature="Level70Item" />
 	<key id="11200097" class="earring" name="루미나리에 귀고리 (남):s" />
 	<key id="11200098" class="earring" name="루미나리에 귀고리 (여):s" />
 	<key id="11200099" class="earring" name="제너러스 귀고리:s" feature="Level70Item" />
@@ -2265,6 +2275,17 @@
 	<key id="11301335" class="hat" name="안티크 인페누크 헬멧 (룬블레이더):s" feature="Level70Item" />
 	<key id="11301336" class="hat" name="안티크 인페누크 헬멧 (스트라이커):s" feature="Level70Item" />
 	<key id="11301337" class="hat" name="안티크 인페누크 헬멧 (소울바인더):s" feature="Level70Item" />
+	<key id="11301349" class="hat" name="타이렌 로열 써클릿 (나이트):s" feature="Level70Item" />
+	<key id="11301350" class="hat" name="타이렌 로열 써클릿 (버서커):s" feature="Level70Item" />
+	<key id="11301351" class="hat" name="타이렌 로열 써클릿 (위자드):s" feature="Level70Item" />
+	<key id="11301352" class="hat" name="타이렌 로열 써클릿 (프리스트):s" feature="Level70Item" />
+	<key id="11301353" class="hat" name="타이렌 로열 써클릿 (레인저):s" feature="Level70Item" />
+	<key id="11301354" class="hat" name="타이렌 로열 써클릿 (헤비거너):s" feature="Level70Item" />
+	<key id="11301355" class="hat" name="타이렌 로열 써클릿 (시프):s" feature="Level70Item" />
+	<key id="11301356" class="hat" name="타이렌 로열 써클릿 (어쌔신):s" feature="Level70Item" />
+	<key id="11301357" class="hat" name="타이렌 로열 써클릿 (룬블레이더):s" feature="Level70Item" />
+	<key id="11301358" class="hat" name="타이렌 로열 써클릿 (스트라이커):s" feature="Level70Item" />
+	<key id="11301359" class="hat" name="타이렌 로열 써클릿 (소울바인더):s" feature="Level70Item" />
 	<key id="11301360" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (나이트):s" feature="Level70Item" />
 	<key id="11301361" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (버서커):s" feature="Level70Item" />
 	<key id="11301362" class="hat" name="엘리트 어드벤쳐 매직 햇 (위자드):s" feature="Level70Item" />
@@ -2281,7 +2302,7 @@
 	<key id="11301387" class="hat" name="존엄의 모자:s" feature="PvPRankingDuelMode" />
 	<key id="11301388" class="hat" name="2019 머리띠:s" />
 	<key id="11301389" class="hat" name="해피 슬라임 머리핀:s" />
-	<key id="11301390" class="hat" name="스타 버클 베레모:s" />
+	<key id="11301390" class="hat" name="오버 윈터 버클 베레모:s" />
 	<key id="11301391" class="hat" name="루미나리에 크리스탈 머리 장식 (여):s" />
 	<key id="11301392" class="hat" name="강화된 품위의 전투 모자:s" feature="Level70Item" />
 	<key id="11301393" class="hat" name="강화된 품위의 광란 모자:s" feature="Level70Item" />
@@ -2294,6 +2315,8 @@
 	<key id="11301400" class="hat" name="강화된 품위의 주술 모자:s" feature="Level70Item" />
 	<key id="11301401" class="hat" name="강화된 품위의 난투 모자:s" feature="Level70Item" />
 	<key id="11301402" class="hat" name="강화된 품위의 의식 모자:s" feature="Level70Item" />
+	<key id="11301403" class="hat" name="슬라임 색동 도령모자 (남):s" />
+	<key id="11301404" class="hat" name="꽃송이 족두리 (여):s" />
 	<key id="11304762" class="hat" name="하랑 면류관 (남):s" />
 	<key id="11304763" class="hat" name="나예 가체 (여):s" />
 	<key id="11304764" class="hat" name="샤인 스타 베레모 (남):s" />
@@ -2347,9 +2370,12 @@
 	<key id="11304812" class="hat" name="알파인 스키 고글 비니:s" />
 	<key id="11304813" class="hat" name="블랙키튼 메이드 스터드 머리띠 (남):s" />
 	<key id="11304814" class="hat" name="블랙키튼 메이드 프릴 머리띠 (여):s" />
-	<key id="11304815" class="hat" name="릴리스 모자:s" />
+	<key id="11304815" class="hat" name="마드리아 인형 모자:s" />
 	<key id="11304816" class="hat" name="콩콩 캥거루 모자:s" />
 	<key id="11304820" class="hat" name="따끈따끈 돼지 만두 모자:s" />
+	<key id="11304821" class="hat" name="러블리 하트 리본:s" feature="Event" />
+	<key id="11304822" class="hat" name="사랑은 방울방울:s" feature="Event" />
+	<key id="11304823" class="hat" name="춤추는 꽃:s" feature="Event" />
 	<key id="11309995" class="hat" name="세비지 모자:s" />
 	<key id="11309996" class="hat" name="오리할콘 모자:s" />
 	<key id="11309997" class="hat" name="블러드 레퀴엠 모자:s" />
@@ -4107,6 +4133,17 @@
 	<key id="11401138" class="coat" name="안티크 인페누크 코트 (룬블레이더):s" feature="Level70Item" />
 	<key id="11401139" class="coat" name="안티크 인페누크 코트 (스트라이커):s" feature="Level70Item" />
 	<key id="11401140" class="coat" name="안티크 인페누크 코트 (소울바인더):s" feature="Level70Item" />
+	<key id="11401152" class="coat" name="타이렌 로열 코트 (나이트):s" feature="Level70Item" />
+	<key id="11401153" class="coat" name="타이렌 로열 코트 (버서커):s" feature="Level70Item" />
+	<key id="11401154" class="coat" name="타이렌 로열 코트 (위자드):s" feature="Level70Item" />
+	<key id="11401155" class="coat" name="타이렌 로열 코트 (프리스트):s" feature="Level70Item" />
+	<key id="11401156" class="coat" name="타이렌 로열 코트 (레인저):s" feature="Level70Item" />
+	<key id="11401157" class="coat" name="타이렌 로열 코트 (헤비거너):s" feature="Level70Item" />
+	<key id="11401158" class="coat" name="타이렌 로열 코트 (시프):s" feature="Level70Item" />
+	<key id="11401159" class="coat" name="타이렌 로열 코트 (어쌔신):s" feature="Level70Item" />
+	<key id="11401160" class="coat" name="타이렌 로열 코트 (룬블레이더):s" feature="Level70Item" />
+	<key id="11401161" class="coat" name="타이렌 로열 코트 (스트라이커):s" feature="Level70Item" />
+	<key id="11401162" class="coat" name="타이렌 로열 코트 (소울바인더):s" feature="Level70Item" />
 	<key id="11401163" class="coat" name="엘리트 어드벤쳐 배틀 코트 (나이트):s" feature="Level70Item" />
 	<key id="11401164" class="coat" name="엘리트 어드벤쳐 배틀 코트 (버서커):s" feature="Level70Item" />
 	<key id="11401165" class="coat" name="엘리트 어드벤쳐 배틀 코트 (룬블레이더):s" feature="Level70Item" />
@@ -4130,6 +4167,8 @@
 	<key id="11401183" class="coat" name="강화된 품위의 주술 상의:s" feature="Level70Item" />
 	<key id="11401184" class="coat" name="강화된 품위의 난투 상의:s" feature="Level70Item" />
 	<key id="11401185" class="coat" name="강화된 품위의 의식 상의:s" feature="Level70Item" />
+	<key id="11401186" class="coat" name="찾아라 나의 반쪽 티셔츠 LO:s" feature="Event" />
+	<key id="11401187" class="coat" name="찾아라 나의 반쪽 티셔츠 VE:s" feature="Event" />
 	<key id="11409996" class="coat" name="세비지 상의:s" />
 	<key id="11409997" class="coat" name="오리할콘 상의:s" />
 	<key id="11409998" class="coat" name="피닉스 상의:s" />
@@ -5658,6 +5697,17 @@
 	<key id="11501031" class="pants" name="안티크 인페누크 팬츠 (룬블레이더):s" feature="Level70Item" />
 	<key id="11501032" class="pants" name="안티크 인페누크 팬츠 (스트라이커):s" feature="Level70Item" />
 	<key id="11501033" class="pants" name="안티크 인페누크 팬츠 (소울바인더):s" feature="Level70Item" />
+	<key id="11501045" class="pants" name="타이렌 로열 팬츠 (나이트):s" feature="Level70Item" />
+	<key id="11501046" class="pants" name="타이렌 로열 팬츠 (버서커):s" feature="Level70Item" />
+	<key id="11501047" class="pants" name="타이렌 로열 팬츠 (위자드):s" feature="Level70Item" />
+	<key id="11501048" class="pants" name="타이렌 로열 팬츠 (프리스트):s" feature="Level70Item" />
+	<key id="11501049" class="pants" name="타이렌 로열 팬츠 (레인저):s" feature="Level70Item" />
+	<key id="11501050" class="pants" name="타이렌 로열 팬츠 (헤비거너):s" feature="Level70Item" />
+	<key id="11501051" class="pants" name="타이렌 로열 팬츠 (시프):s" feature="Level70Item" />
+	<key id="11501052" class="pants" name="타이렌 로열 팬츠 (어쌔신):s" feature="Level70Item" />
+	<key id="11501053" class="pants" name="타이렌 로열 팬츠 (룬블레이더):s" feature="Level70Item" />
+	<key id="11501054" class="pants" name="타이렌 로열 팬츠 (스트라이커):s" feature="Level70Item" />
+	<key id="11501055" class="pants" name="타이렌 로열 팬츠 (소울바인더):s" feature="Level70Item" />
 	<key id="11501056" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (나이트):s" feature="Level70Item" />
 	<key id="11501057" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (버서커):s" feature="Level70Item" />
 	<key id="11501058" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (룬블레이더):s" feature="Level70Item" />
@@ -7391,6 +7441,17 @@
 	<key id="11601219" class="gloves" name="안티크 인페누크 핸드 (룬블레이더):s" feature="Level70Item" />
 	<key id="11601220" class="gloves" name="안티크 인페누크 핸드 (스트라이커):s" feature="Level70Item" />
 	<key id="11601221" class="gloves" name="안티크 인페누크 핸드 (소울바인더):s" feature="Level70Item" />
+	<key id="11601233" class="gloves" name="타이렌 로열 글러브 (나이트):s" feature="Level70Item" />
+	<key id="11601234" class="gloves" name="타이렌 로열 글러브 (버서커):s" feature="Level70Item" />
+	<key id="11601235" class="gloves" name="타이렌 로열 글러브 (위자드):s" feature="Level70Item" />
+	<key id="11601236" class="gloves" name="타이렌 로열 글러브 (프리스트):s" feature="Level70Item" />
+	<key id="11601237" class="gloves" name="타이렌 로열 글러브 (레인저):s" feature="Level70Item" />
+	<key id="11601238" class="gloves" name="타이렌 로열 글러브 (헤비거너):s" feature="Level70Item" />
+	<key id="11601239" class="gloves" name="타이렌 로열 글러브 (시프):s" feature="Level70Item" />
+	<key id="11601240" class="gloves" name="타이렌 로열 글러브 (어쌔신):s" feature="Level70Item" />
+	<key id="11601241" class="gloves" name="타이렌 로열 글러브 (룬블레이더):s" feature="Level70Item" />
+	<key id="11601242" class="gloves" name="타이렌 로열 글러브 (스트라이커):s" feature="Level70Item" />
+	<key id="11601243" class="gloves" name="타이렌 로열 글러브 (소울바인더):s" feature="Level70Item" />
 	<key id="11601244" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (나이트):s" feature="Level70Item" />
 	<key id="11601245" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (버서커):s" feature="Level70Item" />
 	<key id="11601246" class="gloves" name="엘리트 어드벤쳐 매직 슬리브 (위자드):s" feature="Level70Item" />
@@ -7440,8 +7501,8 @@
 	<key id="11604700" class="gloves" name="오드리 튜튜 장갑 (여):s" />
 	<key id="11604701" class="gloves" name="일루셔니스트 다이아 장갑 (남):s" />
 	<key id="11604702" class="gloves" name="일루셔니스트 다이아 장갑 (여):s" />
-	<key id="11604703" class="gloves" name="스타 티타늄 링 (남):s" />
-	<key id="11604704" class="gloves" name="스타 티타늄 링 (여):s" />
+	<key id="11604703" class="gloves" name="오버 윈터 티타늄 링 (남):s" />
+	<key id="11604704" class="gloves" name="오버 윈터 티타늄 링 (여):s" />
 	<key id="11609001" class="gloves" name="무딘 가죽 손 보호구:s" />
 	<key id="11609002" class="gloves" name="무딘 좀도둑 장갑:s" />
 	<key id="11609003" class="gloves" name="무딘 초보 마법사 장갑:s" />
@@ -9297,8 +9358,8 @@
 	<key id="11701243" class="shoes" name="엘리트 어드벤쳐 마샬 슈즈 (소울바인더):s" feature="Level60Item" />
 	<key id="11701244" class="shoes" name="베이직 하이탑 캔버스화 (남):s" />
 	<key id="11701245" class="shoes" name="베이직 하이탑 캔버스화 (여):s" />
-	<key id="11701246" class="shoes" name="옐로우 부츠 (남):s" />
-	<key id="11701247" class="shoes" name="옐로우 부츠 (여):s" />
+	<key id="11701246" class="shoes" name="카멜 브라운 레더 부츠 (남):s" />
+	<key id="11701247" class="shoes" name="카멜 브라운 레더 부츠 (여):s" />
 	<key id="11701248" class="shoes" name="발랄한 보트 슈즈 (남):s" />
 	<key id="11701249" class="shoes" name="발랄한 보트 슈즈 (여):s" />
 	<key id="11701250" class="shoes" name="반짝별빛 신발 (남):s" />
@@ -9358,6 +9419,17 @@
 	<key id="11701315" class="shoes" name="안티크 인페누크 부츠 (룬블레이더):s" feature="Level70Item" />
 	<key id="11701316" class="shoes" name="안티크 인페누크 부츠 (스트라이커):s" feature="Level70Item" />
 	<key id="11701317" class="shoes" name="안티크 인페누크 부츠 (소울바인더):s" feature="Level70Item" />
+	<key id="11701329" class="shoes" name="타이렌 로열 부츠 (나이트):s" feature="Level70Item" />
+	<key id="11701330" class="shoes" name="타이렌 로열 부츠 (버서커):s" feature="Level70Item" />
+	<key id="11701331" class="shoes" name="타이렌 로열 부츠 (위자드):s" feature="Level70Item" />
+	<key id="11701332" class="shoes" name="타이렌 로열 부츠 (프리스트):s" feature="Level70Item" />
+	<key id="11701333" class="shoes" name="타이렌 로열 부츠 (레인저):s" feature="Level70Item" />
+	<key id="11701334" class="shoes" name="타이렌 로열 부츠 (헤비거너):s" feature="Level70Item" />
+	<key id="11701335" class="shoes" name="타이렌 로열 부츠 (시프):s" feature="Level70Item" />
+	<key id="11701336" class="shoes" name="타이렌 로열 부츠 (어쌔신):s" feature="Level70Item" />
+	<key id="11701337" class="shoes" name="타이렌 로열 부츠 (룬블레이더):s" feature="Level70Item" />
+	<key id="11701338" class="shoes" name="타이렌 로열 부츠 (스트라이커):s" feature="Level70Item" />
+	<key id="11701339" class="shoes" name="타이렌 로열 부츠 (소울바인더):s" feature="Level70Item" />
 	<key id="11701340" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (나이트):s" feature="Level70Item" />
 	<key id="11701341" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (버서커):s" feature="Level70Item" />
 	<key id="11701342" class="shoes" name="엘리트 어드벤쳐 매직 슈즈 (위자드):s" feature="Level70Item" />
@@ -9375,8 +9447,8 @@
 	<key id="11701354" class="shoes" name="루미나이츠 오네스타 부츠 (여):s" />
 	<key id="11701355" class="shoes" name="존엄의 신발:s" feature="PvPRankingDuelMode" />
 	<key id="11701356" class="shoes" name="다크윈드 아텐토 부츠 (여):s" />
-	<key id="11701357" class="shoes" name="메리제인 버클 슈즈 (남):s" />
-	<key id="11701358" class="shoes" name="메리제인 버클 슈즈 (여):s" />
+	<key id="11701357" class="shoes" name="오버 윈터 메리제인 버클 슈즈 (남):s" />
+	<key id="11701358" class="shoes" name="오버 윈터 메리제인 버클 슈즈 (여):s" />
 	<key id="11701359" class="shoes" name="강화된 품위의 전투 신발:s" feature="Level70Item" />
 	<key id="11701360" class="shoes" name="강화된 품위의 광란 신발:s" feature="Level70Item" />
 	<key id="11701361" class="shoes" name="강화된 품위의 마법 신발:s" feature="Level70Item" />
@@ -10140,7 +10212,7 @@
 	<key id="11800120" class="mantle" name="유령 버섯 망토:s" />
 	<key id="11800121" class="mantle" name="타이렌 렌샤 망토:s" feature="Level70Item" />
 	<key id="11800122" class="mantle" name="게오르크 카이 망토:s" feature="Level70Item" />
-	<key id="11800123" class="mantle" name="라펜샤드 망토:s" feature="Level70Item" />
+	<key id="11800123" class="mantle" name="타이렌 로열 망토:s" feature="Level70Item" />
 	<key id="11800124" class="mantle" name="루미나리에 망토 (남):s" />
 	<key id="11800125" class="mantle" name="루미나리에 망토 (여):s" />
 	<key id="11800126" class="mantle" name="알파인 스노우보드 망토:s" />
@@ -10340,6 +10412,8 @@
 	<key id="11850181" class="mantle" name="품위의 망토:s" feature="PvPRankingDuelMode" />
 	<key id="11850196" class="mantle" name="Razer 백팩:s" locale="NA" />
 	<key id="11850197" class="mantle" name="해피 슬라임 가방:s" />
+	<key id="11850198" class="mantle" name="빵빠레 베이비 엔젤:s" feature="Event" />
+	<key id="11850199" class="mantle" name="러블리 하트 가방:s" feature="Event" />
 	<key id="11860060" class="mantle" name="복제된 흉포의 망토:s" />
 	<key id="11860061" class="mantle" name="오색빛깔 무지개:s" />
 	<key id="11860062" class="mantle" name="해피 벌룬 푸들:s" />
@@ -10499,7 +10573,7 @@
 	<key id="11900118" class="necklace" name="세이렌의 목걸이:s" feature="Level60Item" />
 	<key id="11900119" class="necklace" name="타이렌 렌샤 목걸이:s" feature="Level70Item" />
 	<key id="11900120" class="necklace" name="게오르크 카이 목걸이:s" feature="Level70Item" />
-	<key id="11900121" class="necklace" name="라펜샤드 펜던트:s" feature="Level70Item" />
+	<key id="11900121" class="necklace" name="타이렌 로열 목걸이:s" feature="Level70Item" />
 	<key id="11900122" class="necklace" name="페이카의 라펜샤드 목걸이:s" feature="Level70Item" />
 	<key id="11900123" class="necklace" name="제너러스 목걸이:s" feature="Level70Item" />
 	<key id="11900124" class="necklace" name="크리티아시스 목걸이:s" feature="Level70Item" />
@@ -10632,7 +10706,7 @@
 	<key id="12000107" class="ring" name="서리의 반지:s" feature="Level60Item" />
 	<key id="12000108" class="ring" name="타이렌 렌샤 반지:s" feature="Level70Item" />
 	<key id="12000109" class="ring" name="게오르크 카이 반지:s" feature="Level70Item" />
-	<key id="12000110" class="ring" name="라펜샤드 링:s" feature="Level70Item" />
+	<key id="12000110" class="ring" name="타이렌 로열 반지:s" feature="Level70Item" />
 	<key id="12000111" class="ring" name="시공의 자쿰 반지:s" feature="Level70Item" />
 	<key id="12000112" class="ring" name="제너러스 반지:s" feature="Level70Item" />
 	<key id="12000113" class="ring" name="크리티아시스 반지:s" feature="Level70Item" />
@@ -10772,7 +10846,7 @@
 	<key id="12100108" class="belt" name="눈보라의 벨트:s" feature="Level60Item" />
 	<key id="12100109" class="belt" name="타이렌 렌샤 벨트:s" feature="Level70Item" />
 	<key id="12100110" class="belt" name="게오르크 카이 벨트:s" feature="Level70Item" />
-	<key id="12100111" class="belt" name="라펜샤드 벨트:s" feature="Level70Item" />
+	<key id="12100111" class="belt" name="타이렌 로열 벨트:s" feature="Level70Item" />
 	<key id="12100112" class="belt" name="발록의 라펜샤드 벨트:s" feature="Level70Item" />
 	<key id="12100113" class="belt" name="제너러스 벨트:s" feature="Level70Item" />
 	<key id="12100114" class="belt" name="크리티아시스 벨트:s" feature="Level70Item" />
@@ -11357,8 +11431,8 @@
 	<key id="12200565" class="dress" name="알파인 스키복 전신 (남):s" />
 	<key id="12200566" class="dress" name="알파인 스키복 전신 (여):s" />
 	<key id="12200581" class="dress" name="해피 슬라임 캐쥬얼 슈트:s" />
-	<key id="12200582" class="dress" name="모직 숏코트 의상 (남):s" />
-	<key id="12200583" class="dress" name="모직 숏코트 의상 (여):s" />
+	<key id="12200582" class="dress" name="오버 윈터 모직 숏코트 의상 (남):s" />
+	<key id="12200583" class="dress" name="오버 윈터 모직 숏코트 의상 (여):s" />
 	<key id="12209999" class="dress" name="블러드 레퀴엠 전신옷:s" />
 	<key id="12230024" class="dress" name="샤이닝 위자드리 코트:s" />
 	<key id="12230025" class="dress" name="나이티지 숄더 메일:s" />
@@ -11856,9 +11930,11 @@
 	<key id="13100309" class="dagger" name="타이렌 컴뱃 나이프:s" feature="Level70Item" />
 	<key id="13100311" class="dagger" name="타이렌 커맨더 컴뱃 나이프:s" feature="Level70Item" />
 	<key id="13100312" class="dagger" name="안티크 인페누크 나이프:s" feature="Level70Item" />
+	<key id="13100314" class="dagger" name="타이렌 로열 나이프:s" feature="Level70Item" />
 	<key id="13100315" class="dagger" name="엘리트 어드벤쳐 나이프:s" feature="Level70Item" />
 	<key id="13100319" class="dagger" name="디자인 웨이브 대거 (단검):s" />
 	<key id="13100320" class="dagger" name="강화된 품위의 대거:s" feature="Level70Item" />
+	<key id="13100321" class="dagger" name="퐁퐁이냥 단검:s" />
 	<key id="13130036" class="dagger" name="황금빛 태극부채:s" />
 	<key id="13130042" class="dagger" name="킨 나이프:s" />
 	<key id="13130043" class="dagger" name="이올릿 대거:s" />
@@ -12250,9 +12326,11 @@
 	<key id="13200304" class="longsword" name="타이렌 컴뱃 롱소드:s" feature="Level70Item" />
 	<key id="13200306" class="longsword" name="타이렌 커맨더 컴뱃 롱소드:s" feature="Level70Item" />
 	<key id="13200307" class="longsword" name="안티크 인페누크 롱소드:s" feature="Level70Item" />
+	<key id="13200309" class="longsword" name="타이렌 로열 롱소드:s" feature="Level70Item" />
 	<key id="13200310" class="longsword" name="엘리트 어드벤쳐 롱소드:s" feature="Level70Item" />
 	<key id="13200314" class="longsword" name="디자인 폴첸 (롱소드):s" />
 	<key id="13200315" class="longsword" name="강화된 품위의 롱소드:s" feature="Level70Item" />
+	<key id="13200316" class="longsword" name="퐁퐁이냥 롱소드:s" />
 	<key id="13209001" class="longsword" name="낡은 스파타:s" />
 	<key id="13230042" class="longsword" name="기사단 장검:s" />
 	<key id="13230044" class="longsword" name="광휘의 강철 장검:s" />
@@ -12641,9 +12719,11 @@
 	<key id="13300303" class="scepter" name="타이렌 컴뱃 홀:s" feature="Level70Item" />
 	<key id="13300305" class="scepter" name="타이렌 커맨더 컴뱃 홀:s" feature="Level70Item" />
 	<key id="13300306" class="scepter" name="안티크 인페누크 액스:s" feature="Level70Item" />
+	<key id="13300308" class="scepter" name="타이렌 로열 홀:s" feature="Level70Item" />
 	<key id="13300309" class="scepter" name="엘리트 어드벤쳐 홀:s" feature="Level70Item" />
 	<key id="13300310" class="" name="디자인 라운드 홀 (홀):s" />
 	<key id="13300314" class="scepter" name="강화된 품위의 홀:s" feature="Level70Item" />
+	<key id="13300315" class="scepter" name="퐁퐁이냥 홀:s" />
 	<key id="13330033" class="scepter" name="승리의 홀:s" />
 	<key id="13330038" class="scepter" name="실버 프라임 홀:s" />
 	<key id="13330039" class="scepter" name="브론즈 타이니벨 셉터:s" />
@@ -13035,9 +13115,11 @@
 	<key id="13400302" class="javelin" name="타이렌 컴뱃 스파이크:s" feature="Level70Item" />
 	<key id="13400304" class="javelin" name="타이렌 커맨더 컴뱃 스파이크:s" feature="Level70Item" />
 	<key id="13400305" class="javelin" name="안티크 인페누크 스파이크:s" feature="Level70Item" />
+	<key id="13400307" class="javelin" name="타이렌 로열 스파이크:s" feature="Level70Item" />
 	<key id="13400308" class="javelin" name="엘리트 어드벤쳐 스로잉스타:s" feature="Level70Item" />
 	<key id="13400309" class="javelin" name="디자인 초승달 표창 (표창):s" />
 	<key id="13400313" class="javelin" name="강화된 품위의 표창:s" feature="Level70Item" />
+	<key id="13400314" class="javelin" name="퐁퐁이냥 표창:s" />
 	<key id="13430035" class="javelin" name="관통 수리검:s" />
 	<key id="13430039" class="javelin" name="상아색 선회 표창:s" />
 	<key id="13430040" class="javelin" name="검은테 표창:s" />
@@ -13390,9 +13472,11 @@
 	<key id="14000265" class="book" name="타이렌 컴뱃 메뉴얼:s" feature="Level70Item" />
 	<key id="14000267" class="book" name="타이렌 커맨더 컴뱃 메뉴얼:s" feature="Level70Item" />
 	<key id="14000268" class="book" name="안티크 인페누크 히스토릭:s" feature="Level70Item" />
+	<key id="14000270" class="book" name="타이렌 로열 법전:s" feature="Level70Item" />
 	<key id="14000271" class="book" name="엘리트 어드벤쳐 바이블:s" feature="Level70Item" />
 	<key id="14000272" class="book" name="디자인 스크롤 (법전):s" />
 	<key id="14000276" class="book" name="강화된 품위의 법전:s" feature="Level70Item" />
+	<key id="14000277" class="book" name="퐁퐁이냥 법전:s" />
 	<key id="14030028" class="book" name="유니티 스크롤:s" />
 	<key id="14030030" class="book" name="골든 위즈 코덱스:s" />
 	<key id="14030031" class="book" name="블랙 위즈 코덱스:s" />
@@ -13750,9 +13834,11 @@
 	<key id="14100274" class="shield" name="타이렌 컴뱃 쉴드:s" feature="Level70Item" />
 	<key id="14100276" class="shield" name="타이렌 커맨더 컴뱃 쉴드:s" feature="Level70Item" />
 	<key id="14100277" class="shield" name="안티크 인페누크 쉴드:s" feature="Level70Item" />
+	<key id="14100279" class="shield" name="타이렌 로열 쉴드:s" feature="Level70Item" />
 	<key id="14100280" class="shield" name="엘리트 어드벤쳐 쉴드:s" feature="Level70Item" />
 	<key id="14100284" class="shield" name="디자인 버클러 (방패):s" />
 	<key id="14100285" class="shield" name="강화된 품위의 방패:s" feature="Level70Item" />
+	<key id="14100286" class="shield" name="퐁퐁이냥 방패:s" />
 	<key id="14130036" class="shield" name="인듀어 실드:s" />
 	<key id="14130039" class="shield" name="광휘의 강철 방패:s" />
 	<key id="14130042" class="shield" name="금빛 몰타 실드:s" />
@@ -14147,9 +14233,11 @@
 	<key id="15000308" class="large sword" name="타이렌 컴뱃 라지소드:s" feature="Level70Item" />
 	<key id="15000310" class="large sword" name="타이렌 커맨더 컴뱃 라지소드:s" feature="Level70Item" />
 	<key id="15000311" class="large sword" name="안티크 인페누크 라지소드:s" feature="Level70Item" />
+	<key id="15000313" class="large sword" name="타이렌 로열 라지소드:s" feature="Level70Item" />
 	<key id="15000314" class="large sword" name="엘리트 어드벤쳐 라지소드:s" feature="Level70Item" />
 	<key id="15000315" class="large sword" name="디자인 플랫 라지소드 (라지소드):s" />
 	<key id="15000319" class="large sword" name="강화된 품위의 대검:s" feature="Level70Item" />
+	<key id="15000320" class="large sword" name="퐁퐁이냥 라지소드:s" />
 	<key id="15030040" class="large sword" name="브루탈 소드:s" />
 	<key id="15030042" class="large sword" name="보이드 대검:s" />
 	<key id="15030043" class="large sword" name="황혼의 보이드 대검:s" />
@@ -14538,9 +14626,11 @@
 	<key id="15100300" class="bow" name="타이렌 컴뱃 보우:s" feature="Level70Item" />
 	<key id="15100302" class="bow" name="타이렌 커맨더 컴뱃 보우:s" feature="Level70Item" />
 	<key id="15100303" class="bow" name="안티크 인페누크 보우:s" feature="Level70Item" />
+	<key id="15100305" class="bow" name="타이렌 로열 보우:s" feature="Level70Item" />
 	<key id="15100306" class="bow" name="엘리트 어드벤쳐 보우:s" feature="Level70Item" />
 	<key id="15100310" class="bow" name="디자인 리커브 (활):s" />
 	<key id="15100311" class="bow" name="강화된 품위의 활:s" feature="Level70Item" />
+	<key id="15100312" class="bow" name="퐁퐁이냥 활:s" />
 	<key id="15109001" class="bow" name="낡은 트윅 보우:s" />
 	<key id="15130038" class="bow" name="호밍 헌터보우:s" />
 	<key id="15130042" class="bow" name="메탈릭 피니언 보우:s" />
@@ -14936,9 +15026,11 @@
 	<key id="15200307" class="staff" name="타이렌 컴뱃 스태프:s" feature="Level70Item" />
 	<key id="15200309" class="staff" name="타이렌 커맨더 컴뱃 스태프:s" feature="Level70Item" />
 	<key id="15200310" class="staff" name="안티크 인페누크 스태프:s" feature="Level70Item" />
+	<key id="15200312" class="staff" name="타이렌 로열 스태프:s" feature="Level70Item" />
 	<key id="15200313" class="staff" name="엘리트 어드벤쳐 스태프:s" feature="Level70Item" />
 	<key id="15200314" class="" name="디자인 라운드 스태프 (스태프):s" />
 	<key id="15200318" class="staff" name="강화된 품위의 스태프:s" feature="Level70Item" />
+	<key id="15200319" class="staff" name="퐁퐁이냥 스태프:s" />
 	<key id="15209001" class="staff" name="낡은 견습 스태프:s" />
 	<key id="15230036" class="staff" name="인텔리전트 스태프:s" />
 	<key id="15230038" class="staff" name="어스웜 스태프:s" />
@@ -15332,9 +15424,11 @@
 	<key id="15300303" class="cannon" name="타이렌 컴뱃 캐논:s" feature="Level70Item" />
 	<key id="15300305" class="cannon" name="타이렌 커맨더 컴뱃 캐논:s" feature="Level70Item" />
 	<key id="15300306" class="cannon" name="안티크 인페누크 캐논:s" feature="Level70Item" />
+	<key id="15300308" class="cannon" name="타이렌 로열 캐논:s" feature="Level70Item" />
 	<key id="15300309" class="cannon" name="엘리트 어드벤쳐 캐논:s" feature="Level70Item" />
 	<key id="15300310" class="cannon" name="디자인 포멀 캐논 (캐논):s" />
 	<key id="15300314" class="cannon" name="강화된 품위의 캐논:s" feature="Level70Item" />
+	<key id="15300315" class="cannon" name="퐁퐁이냥 캐논:s" />
 	<key id="15330035" class="cannon" name="블로우 캐논:s" />
 	<key id="15330037" class="cannon" name="브라운 스파이럴 캐논:s" />
 	<key id="15330038" class="cannon" name="블랙 스파이럴 캐논:s" />
@@ -15695,9 +15789,11 @@
 	<key id="15400289" class="blade" name="타이렌 컴뱃 블레이드:s" feature="Level70Item" />
 	<key id="15400291" class="blade" name="타이렌 커맨더 컴뱃 블레이드:s" feature="Level70Item" />
 	<key id="15400292" class="blade" name="안티크 인페누크 블레이드:s" feature="Level70Item" />
+	<key id="15400294" class="blade" name="타이렌 로열 블레이드:s" feature="Level70Item" />
 	<key id="15400295" class="blade" name="엘리트 어드벤쳐 블레이드:s" feature="Level70Item" />
 	<key id="15400296" class="blade" name="디자인 샤프 블레이드 (블레이드):s" />
 	<key id="15400300" class="blade" name="강화된 품위의 블레이드:s" feature="Level70Item" />
+	<key id="15400301" class="blade" name="퐁퐁이냥 블레이드:s" />
 	<key id="15430044" class="blade" name="하몬 블레이드:s" />
 	<key id="15430045" class="blade" name="슬라이스 블레이드:s" />
 	<key id="15430081" class="blade" name="피네스 블레이드:s" />
@@ -16001,7 +16097,9 @@
 	<key id="15500221" class="knuckle" name="타이렌 컴뱃 너클:s" feature="Level70Item" />
 	<key id="15500223" class="knuckle" name="타이렌 커맨더 컴뱃 너클:s" feature="Level70Item" />
 	<key id="15500224" class="knuckle" name="안티크 인페누크 너클:s" feature="Level70Item" />
+	<key id="15500226" class="knuckle" name="타이렌 로열 너클:s" feature="Level70Item" />
 	<key id="15500227" class="knuckle" name="엘리트 어드벤쳐 너클:s" feature="Level70Item" />
+	<key id="15500228" class="knuckle" name="퐁퐁이냥 너클:s" />
 	<key id="15500501" class="knuckle" name="야옹야옹 너클 (너클):s" feature="Striker" />
 	<key id="15500502" class="knuckle" name="쿨 샤크 너클 (너클):s" feature="Striker" />
 	<key id="15500503" class="knuckle" name="빨간 바닷가재 (너클):s" feature="Striker" />
@@ -16346,7 +16444,9 @@
 	<key id="15600223" class="orb" name="타이렌 컴뱃 스피릿:s" feature="Level70Item" />
 	<key id="15600225" class="orb" name="타이렌 커맨더 컴뱃 스피릿:s" feature="Level70Item" />
 	<key id="15600226" class="orb" name="안티크 인페누크 스피릿:s" feature="Level70Item" />
+	<key id="15600228" class="orb" name="타이렌 로열 스피릿:s" feature="Level70Item" />
 	<key id="15600229" class="orb" name="엘리트 어드벤쳐 오브:s" feature="Level70Item" />
+	<key id="15600230" class="orb" name="퐁퐁이냥 오브:s" />
 	<key id="15600501" class="orb" name="이프리트 크리스탈 오브 (오브):s" feature="SoulBinder" />
 	<key id="15600502" class="orb" name="달달한 컵케이크 (오브):s" feature="SoulBinder" />
 	<key id="15600503" class="orb" name="시원한 수박화채 (오브):s" feature="SoulBinder" />
@@ -16548,6 +16648,7 @@
 	<key id="18100074" class="throw" name="과부하 된 에네르 파편:s" feature="Fieldwar01" />
 	<key id="18100075" class="throw" name="과부하 된 에네르 파편:s" feature="Fieldwar01" />
 	<key id="18100076" class="throw" name="크리티아스 열매:s" />
+	<key id="18100077" class="throw" name="에네르 파편:s" feature="Kritias_Inferno01" />
 	<key id="18200001" class="throw" name="폭탄던지기 다연발 폭탄:s" />
 	<key id="18200002" class="throw" name="토템:s" />
 	<key id="18200003" class="throw" name="미나르 코브라조각상:s" />
@@ -16605,6 +16706,7 @@
 	<key id="19000055" class="fishingRod" name="스타 라이트 낚싯대 (본):s" feature="Fishing02" />
 	<key id="19000056" class="fishingRod" name="작살 낚싯대 (본):s" feature="Fishing02" />
 	<key id="19000057" class="fishingRod" name="머신건 낚싯대 (본):s" feature="Fishing02" />
+	<key id="19000058" class="fishingRod" name="개구리 우산 낚싯대 (본):s" />
 	<key id="19000061" class="fishingRod" name="동양붓 낚싯대 (본):s" />
 	<key id="19100001" class="InstrumentBone" name="연습용 어쿠스틱 기타 (본):s" />
 	<key id="19100002" class="InstrumentBone" name="연습용 클라리넷 (본):s" />
@@ -17784,8 +17886,17 @@
 	<key id="20001290" class="consume" name="칭호 : 블리체의 고양이:s" />
 	<key id="20001291" class="consume" name="칭호 : 메이슨의 백염룡:s" />
 	<key id="20001292" class="consume" name="칭호 : 네이린의 큐티:s" />
-	<key id="20001295" class="consume" name="하얀 포션:s" />
+	<key id="20001293" class="consume" name="칭호 : 신대륙 여행자:s" />
 	<key id="20001294" class="consume" name="달콤 쌉싸름한 초콜릿:s" locale="CN" />
+	<key id="20001295" class="consume" name="하얀 포션:s" />
+	<key id="20001296" class="consume" name="딤섬:s" />
+	<key id="20001297" class="consume" name="고기만두:s" />
+	<key id="20001298" class="consume" name="완탕:s" />
+	<key id="20001299" class="consume" name="쑥찰떡:s" />
+	<key id="20001300" class="consume" name="연잎찹쌀밥:s" />
+	<key id="20001301" class="consume" name="칭호 : 레알:s" feature="Event" locale="KR" />
+	<key id="20001302" class="consume" name="버블버블 하트 캔디:s" feature="Event" />
+	<key id="20001303" class="consume" name="칭호 : 오늘의 짝꿍:s" feature="Event" />
 	<key id="20200001" class="consume" name="액션 수강증 : 기합:s" />
 	<key id="20200002" class="consume" name="액션 수강증 : 몰라:s" />
 	<key id="20200003" class="consume" name="액션 수강증 : 자랑:s" />
@@ -17893,7 +18004,11 @@
 	<key id="20200105" class="consume" name="액션 수강증 : 상어 낚시 성공!:s" feature="Fishing02" />
 	<key id="20200106" class="consume" name="액션 수강증 : 돼지의 꿈:s" />
 	<key id="20200107" class="consume" name="액션 수강증 : 따뜻한 반신욕:s" />
+	<key id="20200108" class="consume" name="액션 수강증 : 스텝 셔플 댄스:s" />
 	<key id="20200122" class="consume" name="액션 수강증 : 메이슨 따라쟁이:s" feature="Kritias_2018_12" />
+	<key id="20200123" class="consume" name="액션 수강증 : 꿀잠모드:s" />
+	<key id="20200124" class="consume" name="액션 수강증 : 포잉포잉 댄스:s" feature="Event" />
+	<key id="20200125" class="consume" name="액션 수강증 : 포잉이랑 놀아줘!:s" feature="Event" />
 	<key id="20210001" class="consume" name="2인 액션 수강증 : 포옹:s" />
 	<key id="20210002" class="consume" name="2인 액션 수강증 : 주먹 인사:s" />
 	<key id="20210003" class="consume" name="2인 액션 수강증 : 첫눈:s" />
@@ -17913,6 +18028,9 @@
 	<key id="20210017" class="consume" name="2인 액션 수강증 : 함께 걸어요:s" />
 	<key id="20210018" class="consume" name="2인 액션 수강증 : 홍등 달기:s" />
 	<key id="20210018" class="consume" name="2인 액션 수강증 : 붉은 등불:s" locale="KR" />
+	<key id="20210019" class="consume" name="2인 액션 수강증 : 초콜릿 냠냠:s" />
+	<key id="20210020" class="consume" name="2인 액션 수강증 : 캔디 러브:s" />
+	<key id="20210027" class="consume" name="2인 액션 수강증 : 눈물 젖은 사탕:s" />
 	<key id="20300001" class="consume" name="메이플 쿠폰:s" />
 	<key id="20300002" class="consume" name="777 웰컴 팩:s" />
 	<key id="20300003" class="consume" name="로터스 무전기:s" />
@@ -19945,7 +20063,7 @@
 	<key id="20302155" class="package" name="정교한 모자,장갑,신발 선택 상자:s" feature="Season3" />
 	<key id="20302156" class="package" name="정교한 상의,하의 선택 상자:s" feature="Season3" />
 	<key id="20302157" class="package" name="정교한 방어구 조각 교환 상자:s" feature="Season3" />
-	<key id="20302158" class="consume" name="윈터 매일 보상 스크롤:s" />
+	<key id="20302158" class="consume" name="윈터 파워 매일 보상 스크롤:s" />
 	<key id="20302159" class="package" name="데보라크의 보물 조각 선택 상자:s" feature="Season3" />
 	<key id="20302160" class="package" name="모크의 보물 조각 선택 상자:s" feature="Season3" />
 	<key id="20302161" class="consume" name="가위바위보 대결권:s" locale="CN" />
@@ -20122,8 +20240,10 @@
 	<key id="20302332" class="package" name="타이렌 렌샤 액세서리 조각 상자:s" feature="Level70Item" />
 	<key id="20302333" class="package" name="작은 특제 물약의 상자:s" />
 	<key id="20302334" class="package" name="던전 패키지:s" locale="CN" />
+	<key id="20302335" class="package" name="건설 패키지 : 더키의 호수:s" />
 	<key id="20302336" class="package" name="크리스마스 패키지:s" />
 	<key id="20302337" class="package" name="크리스마스 악기 패키지:s" />
+	<key id="20302338" class="package" name="트위치 프라임 패키지:s" locale="NA" />
 	<key id="20302339" class="package" name="BnB M 프로모션 선물 상자:s" locale="KR" />
 	<key id="20302340" class="package" name="네이린의 보급 상자:s" locale="NA" />
 	<key id="20302341" class="package" name="메이슨의 보급 상자:s" locale="NA" />
@@ -20145,6 +20265,67 @@
 	<key id="20302357" class="consume" name="70레벨 액세서리 1소켓 변환 주문서 상자:s" feature="Level70Item" />
 	<key id="20302358" class="package" name="발렌타인 초콜릿 상자:s" locale="CN" />
 	<key id="20302359" class="package" name="하트 데코 스프링클 주머니:s" locale="CN" />
+	<key id="20302360" class="consume" name="70LV 엑설런트 펫 뽑기 캡슐:s" />
+	<key id="20302361" class="consume" name="펫 전용 트레이더스 리본:s" />
+	<key id="20302362" class="consume" name="겨울 패키지:s" locale="CN" />
+	<key id="20302363" class="consume" name="별빛 토끼 패키지:s" locale="CN" />
+	<key id="20302364" class="consume" name="발렌타인 패키지:s" locale="CN" />
+	<key id="20302365" class="consume" name="화이트 패키지:s" locale="CN" />
+	<key id="20302366" class="consume" name="청명 패키지:s" locale="CN" />
+	<key id="20302367" class="consume" name="꽃사슴 패키지:s" locale="CN" />
+	<key id="20302368" class="consume" name="유원지 패키지:s" locale="CN" />
+	<key id="20302369" class="consume" name="서커스 패키지:s" locale="CN" />
+	<key id="20302370" class="consume" name="쫑즈 패키지:s" locale="CN" />
+	<key id="20302371" class="consume" name="한여름 바캉스 패키지:s" locale="CN" />
+	<key id="20302372" class="consume" name="통통 핑크빈 패키지:s" locale="CN" />
+	<key id="20302373" class="consume" name="고래의 꿈 패키지:s" locale="CN" />
+	<key id="20302374" class="consume" name="여유로운 휴식 패키지:s" locale="CN" />
+	<key id="20302375" class="consume" name="국경절 축하 패키지:s" locale="CN" />
+	<key id="20302376" class="consume" name="할로윈 패키지:s" locale="CN" />
+	<key id="20302377" class="consume" name="반짝이는 호박 모자 패키지:s" locale="CN" />
+	<key id="20302378" class="consume" name="2019 메모리얼 럭키백:s" locale="CN" />
+	<key id="20302379" class="package" name="함박꽃 마크 선택 상자:s" />
+	<key id="20302380" class="consume" name="붉은 함박꽃 상자:s" />
+	<key id="20302381" class="consume" name="노랑 함박꽃 상자:s" />
+	<key id="20302382" class="package" name="펀펀 매일 보상 스크롤:s" locale="NA" />
+	<key id="20302383" class="package" name="70레벨 라펜샤드 랜덤 상자:s" />
+	<key id="20302384" class="consume" name="바니걸 민트를 위한 초콜릿:s" feature="Event" />
+	<key id="20302385" class="consume" name="피치를 위한 초콜릿:s" feature="Event" />
+	<key id="20302386" class="consume" name="샤텐을 위한 초콜릿:s" feature="Event" />
+	<key id="20302387" class="consume" name="일일 임무 즉시 완료권:s" />
+	<key id="20302388" class="package" name="고대 에네르 광산 C랭크 보상 상자:s" feature="Kritias_Zakum01" />
+	<key id="20302389" class="package" name="고대 에네르 광산 B랭크 보상 상자:s" feature="Kritias_Zakum01" />
+	<key id="20302390" class="package" name="고대 에네르 광산 A랭크 보상 상자:s" feature="Kritias_Zakum01" />
+	<key id="20302391" class="package" name="고대 에네르 광산 S랭크 보상 상자:s" feature="Kritias_Zakum01" />
+	<key id="20302392" class="package" name="고대 에네르 광산 S+랭크 보상 상자:s" feature="Kritias_Zakum01" />
+	<key id="20302393" class="package" name="인페르녹 최후의 결전 C랭크 보상 상자:s" feature="Kritias_Inferno01" />
+	<key id="20302394" class="package" name="인페르녹 최후의 결전 B랭크 보상 상자:s" feature="Kritias_Inferno01" />
+	<key id="20302395" class="package" name="인페르녹 최후의 결전 A랭크 보상 상자:s" feature="Kritias_Inferno01" />
+	<key id="20302396" class="package" name="인페르녹 최후의 결전 S랭크 보상 상자:s" feature="Kritias_Inferno01" />
+	<key id="20302397" class="package" name="인페르녹 최후의 결전 S+랭크 보상 상자:s" feature="Kritias_Inferno01" />
+	<key id="20302398" class="package" name="프리 뷰티 쿠폰 패키지:s" feature="Event" />
+	<key id="20302399" class="consume" name="무료 스페셜 헤어 스타일링 쿠폰:s" feature="Event" />
+	<key id="20302400" class="consume" name="무료 헤어 스타일링 쿠폰:s" feature="Event" />
+	<key id="20302401" class="consume" name="무료 성형 시술 쿠폰:s" feature="Event" />
+	<key id="20302402" class="consume" name="무료 메이크업 쿠폰:s" feature="Event" />
+	<key id="20302403" class="consume" name="무료 피부 시술 쿠폰:s" feature="Event" />
+	<key id="20302404" class="consume" name="윈터 가위바위보 대결권:s" feature="Event" locale="KR" />
+	<key id="20302405" class="package" name="윈터 가위바위보 선물상자:s" feature="Event" locale="KR" />
+	<key id="20302406" class="package" name="윈터 가위바위보 스페셜 선물상자:s" feature="Event" locale="KR" />
+	<key id="20302407" class="consume" name="벚꽃의 노래 상자:s" locale="KR" />
+	<key id="20302408" class="package" name="든든한 포션 상자:s" locale="KR" />
+	<key id="20302409" class="package" name="컬러 크리스탈 묶음 상자:s" locale="KR" />
+	<key id="20302410" class="package" name="1단계 루미스톤 선택 상자:s" locale="KR" />
+	<key id="20302411" class="package" name="70LV 라펜샤드 랜덤 상자:s" locale="KR" />
+	<key id="20302412" class="package" name="워너비 마크 선택 상자:s" locale="KR" />
+	<key id="20302413" class="consume" name="조디 스쿼드 웰컴 패키지:s" feature="Event" locale="NA" />
+	<key id="20302414" class="package" name="짝꿍의 코디 상자:s" feature="Event" />
+	<key id="20302415" class="package" name="빙글빙글 회오리 집 조각:s" feature="Event" />
+	<key id="20302416" class="package" name="70LV 펫 선택 상자:s" locale="KR" />
+	<key id="20302417" class="package" name="포잉 액션 수강증 상자:s" feature="Event" locale="KR" />
+	<key id="20302418" class="package" name="짝꿍의 선물 상자:s" feature="Event" />
+	<key id="20302419" class="package" name="군단전 보급품:s" feature="Event" locale="KR" />
+	<key id="20302420" class="consume" name="에나멜 스트라이프 리본 조각:s" feature="Event" locale="KR" />
 	<key id="20400001" class="PetConsume" name="올가닉 컴패니언 쿠키 7kg:s" />
 	<key id="20400002" class="PetConsume" name="올가닉 컴패니언 쿠키 30kg:s" />
 	<key id="20400003" class="PetConsume" name="올가닉 컴패니언 쿠키 90kg:s" />
@@ -21023,7 +21204,9 @@
 	<key id="30000727" class="mission" name="암흑에너지 정수:s" feature="PirateOcean" />
 	<key id="30000728" class="mission" name="룬스톤:s" />
 	<key id="30000729" class="mission" name="달콤한 설탕 가루:s" feature="PirateOcean" />
+	<key id="30000729" class="mission" name="달콤한 설탕 가루:s" feature="Event" locale="NA" />
 	<key id="30000730" class="mission" name="매끈한 달걀:s" feature="PirateOcean" />
+	<key id="30000730" class="mission" name="매끈한 달걀:s" feature="Event" locale="NA" />
 	<key id="30000731" class="mission" name="위대한 용사의 증표:s" feature="PirateOcean" />
 	<key id="30000732" class="mission" name="카킨드 : 아크루미에라 주문서:s" />
 	<key id="30000733" class="mission" name="펄른 드라군 : 아크루미에라 주문서:s" />
@@ -21521,7 +21704,7 @@
 	<key id="30001237" class="mission" name="목걸이 원석:s" feature="Kritias_2018_12" />
 	<key id="30001238" class="mission" name="빼앗긴 탐사자료:s" feature="Kritias_2018_12" />
 	<key id="30001239" class="mission" name="파수견의 송곳니:s" feature="Kritias_2018_12" />
-	<key id="30001240" class="mission" name="수트 배터리:s" feature="Kritias_2018_12" />
+	<key id="30001240" class="mission" name="에네르 응축 배터리:s" feature="Kritias_2018_12" />
 	<key id="30001241" class="mission" name="사나운 메카랩터의 기계 부품:s" feature="Kritias_2018_12" />
 	<key id="30001242" class="mission" name="병사의 수첩:s" feature="Kritias_2018_12" />
 	<key id="30001243" class="mission" name="블루 가드 MK-I의 메모리 칩:s" feature="Kritias_2018_12" />
@@ -21538,7 +21721,7 @@
 	<key id="30001254" class="mission" name="크리티아스 군사 비밀 문서:s" feature="Kritias_2018_12" />
 	<key id="30001255" class="mission" name="파손된 메모리 칩:s" feature="Kritias_2018_12" />
 	<key id="30001256" class="mission" name="해독제 신약 샘플:s" feature="Kritias_2018_12" />
-	<key id="30001257" class="mission" name="메이플 연합 특수임무 아이템:s" feature="Kritias_2018_12" />
+	<key id="30001257" class="mission" name="고순도 에네르 코어:s" feature="Kritias_2018_12" />
 	<key id="30001258" class="mission" name="크리스마스 별 장식:s" />
 	<key id="30001259" class="mission" name="누군가의 일기장 37페이지:s" />
 	<key id="30001260" class="mission" name="누군가의 일기장 45페이지:s" />
@@ -21582,6 +21765,23 @@
 	<key id="30001301" class="mission" name="티아만 하늘 이슬:s" feature="Kritias_2018_12" />
 	<key id="30001302" class="mission" name="주피아 난초:s" feature="Kritias_2018_12" />
 	<key id="30001303" class="mission" name="모랑 펜던트:s" feature="Kritias_2018_12" />
+	<key id="30001304" class="mission" name="요정의 금화:s" />
+	<key id="30001305" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" />
+	<key id="30001306" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" />
+	<key id="30001307" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" />
+	<key id="30001308" class="etc" name="무지개 캔디:s" feature="PetRemakeBlock01" />
+	<key id="30001309" class="mission" name="바:s" feature="Event" locale="KR" />
+	<key id="30001310" class="mission" name="깥:s" feature="Event" locale="KR" />
+	<key id="30001311" class="mission" name="은:s" feature="Event" locale="KR" />
+	<key id="30001312" class="mission" name="쌀:s" feature="Event" locale="KR" />
+	<key id="30001313" class="mission" name="쌀:s" feature="Event" locale="KR" />
+	<key id="30001314" class="mission" name="해:s" feature="Event" locale="KR" />
+	<key id="30001315" class="mission" name="메:s" feature="Event" locale="KR" />
+	<key id="30001316" class="mission" name="2:s" feature="Event" locale="KR" />
+	<key id="30001317" class="mission" name="는:s" feature="Event" locale="KR" />
+	<key id="30001318" class="mission" name="따:s" feature="Event" locale="KR" />
+	<key id="30001319" class="mission" name="뜻:s" feature="Event" locale="KR" />
+	<key id="30001320" class="mission" name="해:s" feature="Event" locale="KR" />
 	<key id="30050859" class="enchant" name="옵션 고정 주문서 (무기):s" feature="OptionBlock02" />
 	<key id="30050860" class="enchant" name="옵션 고정 주문서 (방어구):s" feature="OptionBlock02" />
 	<key id="30050889" class="enchant" name="옵션 고정 주문서 (액세서리):s" feature="OptionBlock02" />
@@ -22759,6 +22959,7 @@
 	<key id="32000055" class="fishingRod" name="스타 라이트 낚싯대:s" feature="Fishing02" />
 	<key id="32000056" class="fishingRod" name="작살 낚싯대:s" feature="Fishing02" />
 	<key id="32000057" class="fishingRod" name="머신건 낚싯대:s" feature="Fishing02" />
+	<key id="32000058" class="fishingRod" name="개구리 우산 낚싯대:s" />
 	<key id="32000061" class="fishingRod" name="동양붓 낚싯대:s" />
 	<key id="33000001" class="material" name="구리 광석:s" feature="Mastery" />
 	<key id="33000002" class="material" name="주석 광석:s" feature="Mastery" />
@@ -23749,6 +23950,28 @@
 	<key id="36000447" class="piece" name="안티크 인페누크 신발 상자 조각:s" feature="Level70Item" />
 	<key id="36000448" class="piece" name="게오르크 카이 액세서리 랜덤 상자 조각:s" feature="Level70Item" />
 	<key id="36000449" class="piece" name="기간티카 펫 소환 장치 조각:s" feature="Pet_70Lv" />
+	<key id="36000450" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000451" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000452" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000453" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000454" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000455" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000456" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000457" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000458" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000459" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000460" class="piece" name="멸망의 마법 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000461" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000462" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000463" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000464" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000465" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000466" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000467" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000468" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000469" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000470" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000471" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
 	<key id="37000001" class="mergeMaterial" name="미지의 초월 수정(50LV):s" feature="ItemMerge" />
 	<key id="37000002" class="mergeMaterial" name="빛나는 미지의 초월 수정(50LV):s" feature="ItemMerge" />
 	<key id="37000003" class="mergeMaterial" name="미지의 초월 수정(50LV/한벌):s" feature="ItemMerge" />
@@ -24691,7 +24914,7 @@
 	<key id="40400077" class="flight" name="마녀 빗자루:s" />
 	<key id="40400078" class="flight" name="로맨틱 레인보우 멜로디:s" />
 	<key id="40400079" class="flight" name="비공정:s" />
-	<key id="40400080" class="flight" name="회오리바람 집:s" />
+	<key id="40400080" class="flight" name="빙글빙글 회오리 집:s" />
 	<key id="40400081" class="flight" name="날으는 침대:s" />
 	<key id="40400082" class="flight" name="두둥실 호박 풍선:s" />
 	<key id="40400086" class="flight" name="조디 풍선:s" locale="NA" />
@@ -24706,6 +24929,13 @@
 	<key id="40400097" class="flight" name="메리 크리스마스 멜로디:s" />
 	<key id="40400098" class="flight" name="머나먼 우주로:s" />
 	<key id="40400099" class="flight" name="샤리링 유니콘:s" />
+	<key id="40400100" class="flight" name="사랑 뿜뿜 컵 케이크:s" />
+	<key id="40400101" class="flight" name="곱디고운 연꽃:s" />
+	<key id="40400102" class="flight" name="행복한 클로버 풍선:s" />
+	<key id="40400106" class="flight" name="윙윙 허니 벌집:s" />
+	<key id="40400107" class="flight" name="우주의 지배자:s" />
+	<key id="40400108" class="flight" name="우아한 클래식 음악:s" />
+	<key id="40400109" class="flight" name="비를 부르는 개구리의 노래 :s" />
 	<key id="40400110" class="flight" name="날아라 Razer:s" locale="NA" />
 	<key id="40400111" class="flight" name="스카이 포트리스 강하선:s" />
 	<key id="40500001" class="skin_gemstone_material" name="빛나는 바이올렛 더스트:s" feature="SkinSocket" />
@@ -25542,6 +25772,226 @@
 	<key id="42000778" class="LapenShard" name="분노 증폭 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
 	<key id="42000779" class="LapenShard" name="분노 증폭 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
 	<key id="42000780" class="LapenShard" name="분노 증폭 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000781" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000782" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000783" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000784" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000785" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000786" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000787" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000788" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000789" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000790" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000791" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000792" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000793" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000794" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000795" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000796" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000797" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000798" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000799" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000800" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000801" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000802" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000803" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000804" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000805" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000806" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000807" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000808" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000809" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000810" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000811" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000812" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000813" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000814" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000815" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000816" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000817" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000818" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000819" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000820" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000821" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000822" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000823" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000824" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000825" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000826" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000827" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000828" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000829" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000830" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000831" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000832" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000833" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000834" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000835" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000836" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000837" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000838" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000839" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000840" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000841" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000842" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000843" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000844" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000845" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000846" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000847" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000848" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000849" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000850" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000851" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000852" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000853" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000854" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000855" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000856" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000857" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000858" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000859" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000860" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000861" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000862" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000863" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000864" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000865" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000866" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000867" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000868" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000869" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000870" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000871" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000872" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000873" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000874" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000875" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000876" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000877" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000878" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000879" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000880" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000881" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000882" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000883" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000884" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000885" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000886" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000887" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000888" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000889" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000890" class="LapenShard" name="멸망의 마법 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000891" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000892" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000893" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000894" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000895" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000896" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000897" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000898" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000899" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000900" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000901" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000902" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000903" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000904" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000905" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000906" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000907" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000908" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000909" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000910" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000911" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000912" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000913" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000914" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000915" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000916" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000917" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000918" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000919" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000920" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000921" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000922" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000923" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000924" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000925" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000926" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000927" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000928" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000929" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000930" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000931" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000932" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000933" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000934" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000935" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000936" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000937" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000938" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000939" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000940" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000941" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000942" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000943" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000944" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000945" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000946" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000947" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000948" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000949" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000950" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000951" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000952" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000953" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000954" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000955" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000956" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000957" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000958" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000959" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000960" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000961" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000962" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000963" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000964" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000965" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000966" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000967" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000968" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000969" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000970" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000971" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000972" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000973" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000974" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000975" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000976" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000977" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000978" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000979" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000980" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000981" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000982" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000983" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000984" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000985" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000986" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000987" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000988" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000989" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42000990" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
+	<key id="42000991" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (1단계):s" feature="Lapenshard01" />
+	<key id="42000992" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (2단계):s" feature="Lapenshard01" />
+	<key id="42000993" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (3단계):s" feature="Lapenshard01" />
+	<key id="42000994" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (4단계):s" feature="Lapenshard01" />
+	<key id="42000995" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (5단계):s" feature="Lapenshard01" />
+	<key id="42000996" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (6단계):s" feature="Lapenshard01" />
+	<key id="42000997" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (7단계):s" feature="Lapenshard01" />
+	<key id="42000998" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (8단계):s" feature="Lapenshard01" />
+	<key id="42000999" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (9단계):s" feature="Lapenshard01" />
+	<key id="42001000" class="LapenShard" name="파멸의 날개 : 블루 라펜샤드 (10단계):s" feature="Lapenshard01" />
 	<key id="43000011" class="LapenShard" name="마물의 힘 : 그린 라펜샤드 (1단계):s" feature="Lapenshard01" />
 	<key id="43000012" class="LapenShard" name="마물의 힘 : 그린 라펜샤드 (2단계):s" feature="Lapenshard01" />
 	<key id="43000013" class="LapenShard" name="마물의 힘 : 그린 라펜샤드 (3단계):s" feature="Lapenshard01" />
@@ -26027,6 +26477,10 @@
 	<key id="50100424" class="UGC" name="카펫 지붕 사이드 큐브:s" />
 	<key id="50100425" class="UGC" name="눈꽃 무늬 큐브:s" />
 	<key id="50100426" class="UGC" name="아이스 패턴 큐브:s" />
+	<key id="50100427" class="UGC" name="우아한 무대 바닥 큐브:s" />
+	<key id="50100428" class="UGC" name="고급스러운 무대 바닥 큐브:s" />
+	<key id="50100429" class="UGC" name="정갈한 무대 바닥 큐브:s" />
+	<key id="50100430" class="UGC" name="레드카펫 계단:s" />
 	<key id="50200001" class="UGC" name="나무 벤치:s" />
 	<key id="50200002" class="UGC" name="나무 상자:s" />
 	<key id="50200003" class="UGC" name="하얀 들꽃:s" />
@@ -27372,6 +27826,7 @@
 	<key id="50400313" class="UGC" name="빙글빙글 북극곰:s" />
 	<key id="50400314" class="UGC" name="별이 빛나는 가로등:s" />
 	<key id="50400315" class="UGC" name="스카이 포트리스 입구:s" feature="Kritias_2018_12" />
+	<key id="50400316" class="UGC" name="발레하는 더키:s" />
 	<key id="50410001" class="UGC" name="화이트 체스말 : 스페셜 킹:s" />
 	<key id="50410002" class="UGC" name="화이트 체스말 : 킹:s" />
 	<key id="50410003" class="UGC" name="화이트 체스말 : 퀸:s" />
@@ -27651,8 +28106,8 @@
 	<key id="50600249" class="ride" name="뚱냥이:s" />
 	<key id="50600250" class="ride" name="티라노사우르스:s" />
 	<key id="50600251" class="ride" name="복실복실 강아지:s" />
-	<key id="50600252" class="ride" name="거북이 축사:s" />
-	<key id="50600253" class="ride" name="개썰매:s" />
+	<key id="50600252" class="ride" name="중절모 쓴 거북이:s" />
+	<key id="50600253" class="ride" name="얼음꽃 개썰매:s" />
 	<key id="50600254" class="ride" name="외계 비행 물체:s" />
 	<key id="50600255" class="ride" name="귀여운 알파카:s" />
 	<key id="50600256" class="ride" name="아이스크림 트럭:s" />
@@ -27681,6 +28136,13 @@
 	<key id="50600287" class="ride" name="메이슨의 로봇 친구:s" feature="Kritias_2018_12" />
 	<key id="50600288" class="ride" name="네이린의 로봇 친구:s" feature="Kritias_2018_12" />
 	<key id="50600289" class="ride" name="콩콩 캥거루 엄마:s" />
+	<key id="50600290" class="ride" name="엽전 한 푼:s" />
+	<key id="50600291" class="ride" name="사랑 뿅뿅 열차:s" />
+	<key id="50600292" class="ride" name="초원의 신사 기링:s" />
+	<key id="50600293" class="ride" name="추억은 트램을 타고:s" />
+	<key id="50600294" class="ride" name="차밍 포니:s" />
+	<key id="50600296" class="ride" name="엄마 곰과 유모차 나들이:s" />
+	<key id="50600299" class="ride" name="아이차 달콤 쉐이브:s" />
 	<key id="50600302" class="ride" name="길들여진 검은군단 파수견:s" feature="Kritias_2018_12" />
 	<key id="50600303" class="ride" name="포잉포잉:s" feature="Kritias_2018_12" />
 	<key id="50600304" class="ride" name="개조된 터렛 MK-I:s" feature="Kritias_2018_12" />
@@ -27810,6 +28272,8 @@
 	<key id="50740067" class="charm" name="라펜턴드 룬블레이더 기념품:s" feature="LapentaDungeon" />
 	<key id="50740068" class="charm" name="발록 기념품:s" feature="Kritias_Balrog01" />
 	<key id="50740069" class="charm" name="페이카 기념품:s" feature="Kritias_Paika01" />
+	<key id="50740070" class="charm" name="악마의 제단:s" feature="Kritias_Zakum01" />
+	<key id="50740071" class="charm" name="인페르녹의 뿔:s" feature="Kritias_Inferno01" />
 	<key id="50750001" class="charm" name="무자비한 초급 사냥꾼:s" />
 	<key id="50750002" class="charm" name="무자비한 견습 사냥꾼:s" />
 	<key id="50750003" class="charm" name="무자비한 숙련 사냥꾼:s" />
@@ -28248,6 +28712,8 @@
 	<key id="59200344" class="package" name="그린후드 패키지:s" />
 	<key id="59200345" class="package" name="루미나이츠 패키지:s" />
 	<key id="59200346" class="package" name="다크윈드 패키지:s" />
+	<key id="59200347" class="package" name="스칼렛 하트 룩 패키지:s" />
+	<key id="59200348" class="package" name="색동 한복 패키지:s" />
 	<key id="59300001" class="BuildPack" name="해피 하우스 인테리어 공사권:s" />
 	<key id="59300002" class="BuildPack" name="해피 하우스 인테리어 공사권:s" />
 	<key id="59300003" class="BuildPack" name="설원 오두막 인테리어 공사권:s" />
@@ -28364,7 +28830,7 @@
 	<key id="60000018" class="pet" name="영리한 까미:s" />
 	<key id="60000019" class="pet" name="비비:s" />
 	<key id="60000020" class="pet" name="쁘띠 레르노스:s" />
-	<key id="60000021" class="pet" name="itemp" />
+	<key id="60000021" class="pet" name="쁘띠 페카노스:s" />
 	<key id="60000022" class="pet" name="쁘띠 칼키노스:s" />
 	<key id="60000023" class="pet" name="밀로:s" />
 	<key id="60000024" class="pet" name="타로:s" />
@@ -28511,6 +28977,7 @@
 	<key id="61100145" class="battle_Pet" name="강화형 인페르녹:s" feature="Pet_70Lv_Boss" />
 	<key id="61100146" class="battle_Pet" name="자쿰의 손:s" feature="Pet_70Lv_Boss" />
 	<key id="61100147" class="battle_Pet" name="페이카:s" feature="Pet_70Lv_Boss" />
+	<key id="61100149" class="battle_Pet" name="인페르녹:s" feature="Pet_Infernog" />
 	<key id="61120010" class="battle_Pet" name="피로스 파드:s" feature="PetBattle" />
 	<key id="61120020" class="battle_Pet" name="카보:s" feature="PetBattle" />
 	<key id="61120030" class="battle_Pet" name="바르칸트:s" feature="PetUpdate01" />
@@ -28536,6 +29003,9 @@
 	<key id="61120145" class="battle_Pet" name="강화형 인페르녹:s" feature="Pet_70Lv_Boss" />
 	<key id="61120146" class="battle_Pet" name="자쿰의 손:s" feature="Pet_70Lv_Boss" />
 	<key id="61120147" class="battle_Pet" name="페이카:s" feature="Pet_70Lv_Boss" />
+	<key id="61120149" class="battle_Pet" name="인페르녹:s" feature="Pet_Infernog" />
+	<key id="61130145" class="battle_Pet" name="강화형 인페르녹:s" feature="Pet_70Lv_Boss" />
+	<key id="61130146" class="battle_Pet" name="자쿰의 손:s" feature="Pet_70Lv_Boss" />
 	<key id="61200001" class="battle_Pet" name="나태버섯:s" feature="SurvivalContents01" />
 	<key id="61220001" class="battle_Pet" name="나태버섯:s" feature="SurvivalContents01" locale="CN" />
 	<key id="61220002" class="battle_Pet" name="머쉬킹:s" feature="WorldChampionMushroom" locale="CN" />
@@ -28688,12 +29158,14 @@
 	<key id="70200125" class="gem" name="말풍선 배지 : 메이슨:s" feature="Kritias_2018_12" />
 	<key id="70200126" class="gem" name="말풍선 배지 : 네이린:s" feature="Kritias_2018_12" />
 	<key id="70200127" class="gem" name="말풍선 배지 : 우주 탐험의 시작:s" />
-	<key id="70200128" class="gem" name="말풍선 배지 : BBS이벤트:s" />
+	<key id="70200128" class="gem" name="말풍선 배지 : 핑크 고양이:s" />
 	<key id="70200129" class="gem" name="말풍선 배지 : 남극의 친구:s" />
 	<key id="70200130" class="gem" name="말풍선 배지 : 캥거루:s" />
 	<key id="70200131" class="gem" name="말풍선 배지 : 새해 희망의 등불:s" />
+	<key id="70200133" class="gem" name="말풍선 배지 : 봄의 정원:s" />
 	<key id="70200146" class="gem" name="말풍선 배지 : 우수한 보안 의식:s" locale="KR" />
 	<key id="70200147" class="gem" name="말풍선 배지 : 따끈따끈 돼지 만두:s" />
+	<key id="70200148" class="gem" name="말풍선 배지 : 신비한 에네르:s" feature="Event" />
 	<key id="70300001" class="gem" name="이름표 배지 : 벚꽃:s" />
 	<key id="70300002" class="gem" name="이름표 배지 : 반짝 별님:s" />
 	<key id="70300003" class="gem" name="이름표 배지 : 나뭇잎:s" />
@@ -28830,13 +29302,17 @@
 	<key id="70300134" class="gem" name="이름표 배지 : 메이슨:s" feature="Kritias_2018_12" />
 	<key id="70300135" class="gem" name="이름표 배지 : 네이린:s" feature="Kritias_2018_12" />
 	<key id="70300136" class="gem" name="이름표 배지 : 우주 탐험의 시작:s" />
+	<key id="70300137" class="gem" name="이름표 배지 : 핑크 고양이:s" />
 	<key id="70300138" class="gem" name="이름표 배지 : 남극의 친구:s" />
 	<key id="70300139" class="gem" name="이름표 배지 : 캥거루:s" />
 	<key id="70300140" class="gem" name="이름표 배지 : 새해 희망의 등불:s" />
+	<key id="70300142" class="gem" name="이름표 배지 : 봄의 정원:s" />
 	<key id="70300155" class="gem" name="이름표 배지 : 우수한 보안 의식:s" locale="KR" />
 	<key id="70300156" class="gem" name="이름표 배지 : Razer:s" locale="NA" />
 	<key id="70300157" class="gem" name="이름표 배지 : 용맹의 표식:s" feature="PvPRankingDuelMode" />
 	<key id="70300158" class="gem" name="이름표 배지 : 따끈따끈 돼지 만두:s" />
+	<key id="70300159" class="gem" name="이름표 배지 : 게임피디아:s" />
+	<key id="70300160" class="gem" name="이름표 배지 : 신비한 에네르:s" feature="Event" />
 	<key id="70400001" class="gem" name="대미지 폰트 배지 : 인페르노:s" />
 	<key id="70400002" class="gem" name="대미지 폰트 배지 : 스위트 캔디:s" />
 	<key id="70400003" class="gem" name="대미지 폰트 배지 : 반짝 스퀘어:s" />
@@ -28871,6 +29347,9 @@
 	<key id="70400032" class="gem" name="대미지 폰트 배지 : 뭉글뭉글 달토끼:s" />
 	<key id="70400033" class="gem" name="대미지 폰트 배지 : 흩날리는 눈꽃:s" />
 	<key id="70400034" class="gem" name="대미지 폰트 배지 : 우주전쟁:s" />
+	<key id="70400035" class="gem" name="대미지 폰트 배지 : 컵케이크:s" />
+	<key id="70400037" class="gem" name="대미지 폰트 배지 : 클로버:s" />
+	<key id="70400042" class="gem" name="대미지 폰트 배지 : 메콩데이 2222 :s" feature="Event" />
 	<key id="70500001" class="gem" name="비석 배지 : 니할왕조의 관:s" />
 	<key id="70500002" class="gem" name="비석 배지 : 굿모닝:s" />
 	<key id="70500003" class="gem" name="비석 배지 : 잘 손질된 무덤:s" />
@@ -28905,7 +29384,7 @@
 	<key id="70600010" class="gem" name="수영 튜브 배지 : 나태버섯:s" />
 	<key id="70600011" class="gem" name="수영 튜브 배지 : 유령버섯:s" />
 	<key id="70600012" class="gem" name="수영 튜브 배지 : 귀여운 해마:s" />
-	<key id="70600013" class="gem" name="수영 튜브 배지 : 나무 판자:s" />
+	<key id="70600013" class="gem" name="수영 튜브 배지 : 끼룩끼룩 갈매기 나무판자:s" />
 	<key id="70600014" class="gem" name="수영 튜브 배지 : 상어 지느러미:s" />
 	<key id="70600015" class="gem" name="수영 튜브 배지 : 신비로운 플래시오:s" />
 	<key id="70600016" class="gem" name="수영 튜브 배지 : 빙하 위 북극곰과 함께:s" />
@@ -28946,6 +29425,11 @@
 	<key id="70700022" class="gem" name="낚시 배지 : 톱니바퀴:s" feature="Fishing02" />
 	<key id="70700023" class="gem" name="낚시 배지 : 광선검:s" />
 	<key id="70700024" class="gem" name="낚시 배지 : 동양붓:s" />
+	<key id="70700025" class="gem" name="낚시 배지 : 그린후드 자경단:s" />
+	<key id="70700026" class="gem" name="낚시 배지 : 트라이아 근위대:s" />
+	<key id="70700027" class="gem" name="낚시 배지 : 루미나이츠:s" />
+	<key id="70700028" class="gem" name="낚시 배지 : 메이플 연합:s" />
+	<key id="70700029" class="gem" name="낚시 배지 : 다크윈드:s" />
 	<key id="70800001" class="gem" name="커플 이펙트 배지 : 러블리 하트:s" />
 	<key id="70800002" class="gem" name="커플 이펙트 배지 : 할로윈의 낭만:s" />
 	<key id="70800003" class="gem" name="커플 이펙트 배지 : 폭죽을 팡야팡야:s" />

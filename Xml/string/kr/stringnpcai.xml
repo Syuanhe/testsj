@@ -131,6 +131,24 @@
 	<key id="BalrogMagicBurster_CannonTargetChange02" name="이런 저 대포가 걸리적 거려...." />
 	<key id="BalrogMagicBursterEventLeave01" name="뭐야 저건!......" />
 	<key id="BalrogMagicBursterEventLeave02" name="헉!... 이런 당했다!!!...." />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining01" name="네놈이냐~!" feature="Kritias_Inferno01" />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining02" name="정말 귀찮게 하는군" feature="Kritias_Inferno01" />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining03" name="너는 내가 특별하게 상대해주마" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Start" name="저기 인페르녹이 있으니 빨리 가세!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Warning" name="인페르녹 눈빛의 저주가 강렬하군...." feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Go2Stage" name="자~ 빨리 이동하지!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Go3Stage" name="귀찮은 적들이 너무 많군...." feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectCircle" name="이곳에서 저주를 정화하게" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0401" name="4명까지 정화할 수 있소!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0402" name="어서 정화를 받으시오~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0301" name="3명까지 정화할 수 있소!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0302" name="어서 정화를 받으시오~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_StunWarning01" name="저 크림슨 발록이 나만 노리고 있군" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_StunWarning02" name="이런... 저주를 정화 할 수 없어..." feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_1PhaseStartMove" name="빨리 인페르녹을 쫓아 가세~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_2PhaseStartMove" name="이곳은 곧 파괴될 거 같소!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_3PhaseStartMove" name="곧 파괴되니 조심하시오!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_BattleEnd" name="드디어 인페르녹을 처치한 것인가......" feature="Kritias_Inferno01" />
 	<key id="AirshipBalrogCrimson_Center" name="중앙 이동" />
 	<key id="AirshipBalrogCrimson_Left" name="왼쪽 이동" />
 	<key id="AirshipBalrogCrimson_Right" name="오른쪽 이동" />
@@ -155,6 +173,11 @@
 	<key id="MapleGuardSpearKritias_InstallComplete" name="설치완료! 이것을 빨리 사용하세요" feature="Kritias_Balrog01" />
 	<key id="BalrogCrimsonKritias_BalrogBossGuard" name="발록님 대신 내가 대포를 파괴하겠다!" feature="Kritias_Balrog01" />
 	<key id="BalrogCrimsonKritias_BalrogBossGuard02" name="저 경비병이 대포를 설치하지 못하게 해야 해!" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_InfernoSoilderGuard" name="나의 보호를 받아라!" feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard04" name="한 명으론 부족하다! 4명까지 상대해주지." feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard03" name="한 명으론 부족하다! 3명까지 상대해주지." feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard02" name="한 명으론 부족하다! 2명까지 상대해주지." feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_TristanAttack" name="트리스탄만 막으면 네놈은 끝이다~!" feature="Kritias_Inferno01" />
 	<key id="Paika_Phase03" name="이런 건방진... 병사들이여 나를 도와라" feature="Kritias_Paika01" />
 	<key id="Paika_Phase04" name="이런 망할... 버러지 같은 놈들이!" feature="Kritias_Paika01" />
 	<key id="Paika_LastSkill" name="이제 죽어라. 크아아아악" feature="Kritias_Paika01" />
@@ -377,4 +400,8 @@
 	<key id="AI__AI_GIGANTIKA_SUBBOSS__0" name="좋아요! 이녀석을 타고 기간티카의 장갑을 뚫어버리세요!!" feature="Gigantica01" />
 	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS2__0" name="키히히히, 이곳이 네놈들의 무덤이 될 것이다." feature="Fieldwar01" />
 	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS2__1" name="키히익, 아직 끝이 아니다!" feature="Fieldwar01" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS3__0" name="네놈들이 발버둥 쳐봤자..." feature="Fieldwar02" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS3__1" name="헛수작 부리지 못하게 해주마." feature="Fieldwar02" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS4__0" name="이건 어떠냐!" feature="Fieldwar02" />
+	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS4__1" name="파리같은 놈들..." feature="Fieldwar02" />
 </ms2>

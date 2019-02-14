@@ -17,6 +17,7 @@
 	<key id="500" name="거래하기" />
 	<key id="501" name="신고하기" />
 	<key id="502" name="그룹 대화" />
+	<key id="502" name="1:1 대화" locale="CN" />
 	<key id="503" name="집 방문하기" />
 	<key id="504" name="내 집으로 초대하기" />
 	<key id="505" name="펫 정보보기" />

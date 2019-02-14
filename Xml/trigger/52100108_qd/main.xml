@@ -48,7 +48,7 @@
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="4006,4005" arg2="0"/>
 			<action name="연출UI를설정한다" arg1="3"/>
-			<action name="AddCinematicTalk" npcID="0" msg="이 곳이구나...블리체가 말해주었던 장소가." duration="3000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__0$" duration="3000" />
 			<action name="SetSceneSkip" arg1="Skip_1" arg2="nextState"/>
 		</onEnter>
 			<condition name="WaitTick" waitTick="5000">
@@ -61,7 +61,7 @@
 	<state name="들어왔다_03"> 
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="4004,4003" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="0" msg="그럼 그 '메인 제어기기'라는 건 어디 있는 거지?" duration="5000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__1$" duration="5000" />
 		</onEnter>
 			<condition name="WaitTick" waitTick="5000">
 					<transition state="제어기기"/>
@@ -73,8 +73,8 @@
 	<state name="제어기기"> 
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="4007" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="0" msg="앗! " duration="3000" />
-			<action name="AddCinematicTalk" npcID="0" msg="저건가? 저거 맞지?!" duration="3000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__2$" duration="3000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__3$" duration="3000" />
 		</onEnter>
 			<condition name="WaitTick" waitTick="7000">
 					<transition state="들킴"/>
@@ -97,7 +97,7 @@
 			<action name="액터를설정한다" arg1="206" arg2="1" arg3="sf_quest_light_A01_On" />		
 			<action name="액터를설정한다" arg1="207" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="208" arg2="1" arg3="sf_quest_light_A01_On" />	
-			<action name="AddCinematicTalk" npcID="0" msg="응...?" duration="3500" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__4$" duration="3500" />
 		</onEnter>
 			<condition name="WaitTick" waitTick="3500">
 					<transition state="들킴_02"/>
@@ -109,8 +109,8 @@
 	<state name="들킴_02"> 
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="4008" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="25022107" msg="누구냐!!!" duration="3000" />
-			<action name="AddCinematicTalk" npcID="0" msg="!!!" duration="3000" />
+			<action name="AddCinematicTalk" npcID="25022107" msg="$52100108_QD__MAIN__5$" duration="3000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__6$" duration="3000" />
 		</onEnter>
 			<condition name="WaitTick" waitTick="6000">
 					<transition state="들킴_03"/>
@@ -122,7 +122,7 @@
 	<state name="들킴_03"> 
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="4009" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="0" msg="들킨건가...!" duration="3000" />
+			<action name="AddCinematicTalk" npcID="0" msg="$52100108_QD__MAIN__7$" duration="3000" />
 			<action name="SetSceneSkip" arg1="" arg2=""/>
 		</onEnter>
 			<condition name="WaitTick" waitTick="3000">

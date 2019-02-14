@@ -19,4 +19,58 @@
 			<reward type="skillPoint" code="0" value="1" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21100055" account="0" icon="hero_battle_2.png" noticePercent="1" locking="" categoryTag="combat,growth" locale="JP">
+		<grade value="1">
+			<condition type="level" code="" value="20" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="level" code="" value="30" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="level" code="" value="40" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="level" code="" value="50" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21100055" account="0" icon="hero_battle_2.png" noticePercent="1" locking="" categoryTag="combat,growth" locale="TH">
+		<grade value="1">
+			<condition type="level" code="" value="20" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="level" code="" value="30" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="level" code="" value="40" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="level" code="" value="50" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21100055" account="0" icon="hero_battle_2.png" noticePercent="1" locking="" categoryTag="combat,growth" locale="TW">
+		<grade value="1">
+			<condition type="level" code="" value="20" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="level" code="" value="30" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="level" code="" value="40" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="level" code="" value="50" target="" />
+			<reward type="skillPoint" code="0" value="1" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

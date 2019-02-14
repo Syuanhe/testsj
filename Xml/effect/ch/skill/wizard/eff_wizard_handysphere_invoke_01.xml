@@ -7,4 +7,5 @@
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Wizard" event="03200015">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
+  
 </ms2>

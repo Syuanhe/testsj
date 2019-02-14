@@ -21,7 +21,7 @@
 		<Reward requireScore="4000" itemID="20301065" />
 		<Reward requireScore="2000" itemID="20301064" />
 	</DungeonSeason>
-	<DungeonSeason seasonID="1002" locale="KR" feature="DungeonRank02" startTime="2018-07-05-08-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="5700" systemMailID="53000000" dayOfWeeks="6">
+	<DungeonSeason seasonID="1002" locale="KR" feature="DungeonRank01" startTime="2018-07-05-08-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="5700" systemMailID="53000000" dayOfWeeks="6">
 		<Reward requireScore="5700" itemID="20301068" />
 		<Reward requireScore="4300" itemID="20301067" />
 		<Reward requireScore="2800" itemID="20301066" />
@@ -45,7 +45,7 @@
 		<Reward requireScore="2800" itemID="20301065" />
 		<Reward requireScore="1600" itemID="20301064" />
 	</DungeonSeason>
-	<DungeonSeason seasonID="2002" locale="CN" feature="DungeonRank02" startTime="2018-07-12-08-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="5700" systemMailID="53000000" dayOfWeeks="6">
+	<DungeonSeason seasonID="2002" locale="CN" feature="DungeonRank01" startTime="2018-07-12-08-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="5700" systemMailID="53000000" dayOfWeeks="6">
 		<Reward requireScore="5700" itemID="20301068" />
 		<Reward requireScore="4300" itemID="20301067" />
 		<Reward requireScore="2800" itemID="20301066" />
@@ -59,12 +59,5 @@
 	</DungeonSeason>
 	<DungeonSeason seasonID="6" locale="NA" feature="DungeonRank01" startTime="2017-08-30-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="1000000" dayOfWeeks="6">
 		<Reward requireScore="1000000" />
-	</DungeonSeason>
-	<DungeonSeason seasonID="3001" locale="NA" feature="DungeonRank02" startTime="2018-11-08-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="5700" systemMailID="53000000" dayOfWeeks="6">
-		<Reward requireScore="5700" itemID="20301068" />
-		<Reward requireScore="4300" itemID="20301067" />
-		<Reward requireScore="2800" itemID="20301066" />
-		<Reward requireScore="1400" itemID="20301065" />
-		<Reward requireScore="1200" itemID="20301064" />
 	</DungeonSeason>
 </ms2>

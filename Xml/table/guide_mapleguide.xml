@@ -267,6 +267,34 @@
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
 		</openAction>
 	</event>
+	<event id="60962" isForce="1" isNoSave="1" desc="건설 자재 탭 안내">
+		<open>
+			<condition type="allOf">
+				<condition type="fieldId" value="62000000" />
+				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
+				<condition type="questProgress" value="90000660" />
+				<condition type="constructMode" />
+				<condition type="CubeHolderSelectItem" value="50200094" not="1" />
+			</condition>
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="CubeHolderSelectItem" value="50200094" />
+				<condition type="timeout" value="3000" />
+			</condition>
+		</close>
+		<cancel>
+			<condition type="fieldId" value="62000000" not="1" />
+			<condition dialogName="UGCCubePaletteDialog" isOpen="0" type="dialog" />
+		</cancel>
+		<openAction>
+			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
+			<action type="uiArrowDialog" align="1" direction="1" customPosType="cubeType" childIndex="1" entityId="60962" offset="-10,12,0" textId="60963" />
+			<action type="uiSummary" isNotClose="0" textId="60962" />
+		</openAction>
+	</event>
 	<event id="60970" isForce="1" saveId="61730" saveStep="20" desc="갈색 책 묶음 아이템 이름 검색 안내">
 		<open>
 			<condition type="allOf">
@@ -274,7 +302,7 @@
 				<condition type="IsMyHome" />
 				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000660" />
-				<condition type="guideClear" id="60960" />
+				<condition type="guideClear" id="60962" />
 			</condition>
 		</open>
 		<close>
@@ -347,6 +375,34 @@
 			<action type="uiSummary" isNotClose="0" textId="60969" controllerType="gamepad" />
 		</openAction>
 	</event>
+	<event id="60991" isForce="1" isNoSave="1" desc="건설 자재 탭 안내">
+		<open>
+			<condition type="allOf">
+				<condition type="fieldId" value="62000000" />
+				<condition type="IsMyHome" />
+				<condition type="HomeMode" mode="0" />
+				<condition type="questProgress" value="90000661" />
+				<condition type="constructMode" />
+				<condition type="CubeHolderSelectItem" value="50200108" not="1" />
+			</condition>
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="CubeHolderSelectItem" value="50200108" />
+				<condition type="timeout" value="3000" />
+			</condition>
+		</close>
+		<cancel>
+			<condition type="fieldId" value="62000000" not="1" />
+			<condition dialogName="UGCCubePaletteDialog" isOpen="0" type="dialog" />
+		</cancel>
+		<openAction>
+			<action type="limit" limit="DesignHome" />
+			<action type="limit" limit="Blueprint" />
+			<action type="uiArrowDialog" align="1" direction="1" customPosType="cubeType" childIndex="1" entityId="60991" offset="-10,12,0" textId="60963" />
+			<action type="uiSummary" isNotClose="0" textId="60962" />
+		</openAction>
+	</event>
 	<event id="61000" isForce="1" saveId="61740" saveStep="10" desc="붉은 방석 아이템 이름 검색 안내">
 		<open>
 			<condition type="allOf">
@@ -355,6 +411,7 @@
 				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000661" />
 				<condition type="constructMode" />
+				<condition type="guideClear" id="60991" />
 			</condition>
 		</open>
 		<close>
@@ -1515,34 +1572,6 @@
 			<action type="limit" limit="DesignHome" />
 			<action type="limit" limit="Blueprint" />
 			<action type="uiArrowDialog" align="1" direction="1" customPosType="cubeType" childIndex="2" entityId="61110" offset="-10,12,0" textId="61112" />
-			<action type="uiSummary" isNotClose="0" textId="61101" />
-		</openAction>
-	</event>
-	<event id="61110" isForce="1" saveId="61860" saveStep="10" desc="닭 축사 아이템 이름 검색 안내">
-		<open>
-			<condition type="allOf">
-				<condition type="fieldId" value="62000000" />
-				<condition type="IsMyHome" />
-				<condition type="HomeMode" mode="0" />
-				<condition type="questProgress" value="90000690" />
-				<condition type="constructMode" />
-				<condition type="guideClear" id="61101" />
-			</condition>
-		</open>
-		<close>
-			<condition type="anyOne">
-				<condition type="CubeHolderSelectItem" value="50400159" />
-				<condition type="questSatisfied" value="90000690" />
-			</condition>
-		</close>
-		<cancel>
-			<condition type="fieldId" value="62000000" not="1" />
-			<condition dialogName="UGCCubePaletteDialog" isOpen="0" type="dialog" />
-		</cancel>
-		<openAction>
-			<action type="limit" limit="DesignHome" />
-			<action type="limit" limit="Blueprint" />
-			<action type="uiArrowDialog" align="1" direction="2" childName="m_cubeSearch" dialogName="UGCCubePaletteDialog" entityId="61110" offset="-20,0,0" textId="61111" />
 			<action type="uiSummary" isNotClose="0" textId="61110" />
 		</openAction>
 	</event>
@@ -1553,7 +1582,7 @@
 				<condition type="IsMyHome" />
 				<condition type="HomeMode" mode="0" />
 				<condition type="questProgress" value="90000690" />
-				<condition type="guideClear" id="61110" />
+				<condition type="guideClear" id="61101" />
 				<condition type="constructMode" />
 			</condition>
 		</open>

@@ -227,4 +227,18 @@
 		<v rank="4" itemID="20302108" systemMailID="53000015" />
 		<v rank="5" itemID="20302109" systemMailID="53000016" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10019">
+		<v rank="1" itemID="20302388" systemMailID="53000061" />
+		<v rank="2" itemID="20302389" systemMailID="53000062" />
+		<v rank="3" itemID="20302390" systemMailID="53000063" />
+		<v rank="4" itemID="20302391" systemMailID="53000064" />
+		<v rank="5" itemID="20302392" systemMailID="53000065" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10020">
+		<v rank="1" itemID="20302393" systemMailID="53000066" />
+		<v rank="2" itemID="20302394" systemMailID="53000067" />
+		<v rank="3" itemID="20302395" systemMailID="53000068" />
+		<v rank="4" itemID="20302396" systemMailID="53000069" />
+		<v rank="5" itemID="20302397" systemMailID="53000070" />
+	</DungeonRankReward>
 </ms2>

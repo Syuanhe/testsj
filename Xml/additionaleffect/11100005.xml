@@ -10,7 +10,7 @@
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="1" cancelEffectCodes="11100061" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
-		<ResetSkillCoolDownTimeProperty skillCodes="" />
+		<ResetSkillCoolDownTimeProperty skillCodes="11100101,11100102,11100103,11100104,11100105" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
@@ -39,7 +39,7 @@
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="1" cancelEffectCodes="11100061" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
-		<ResetSkillCoolDownTimeProperty skillCodes="" />
+		<ResetSkillCoolDownTimeProperty skillCodes="11100101,11100102,11100103,11100104,11100105" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />
@@ -68,7 +68,7 @@
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
 		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="1" cancelEffectCodes="11100061" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
-		<ResetSkillCoolDownTimeProperty skillCodes="" />
+		<ResetSkillCoolDownTimeProperty skillCodes="11100101,11100102,11100103,11100104,11100105" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
 		<StatusProperty statChangeBase="0" statChangeResult="0" statChangeRate="0" finalCapV="0" finalCapR="0" finalAbpV="0" finalAbpR="0" finalAtpV="0" finalAtpR="0" finalEvpV="0" finalEvpR="0" itemCriticalRecoveryRate="0" itemRecoveryHPRate="0" healRecoveryHPRate="0" compulsionEventTypes="" compulsionEventRate="" compulsionEventSkillCodes="">
 			<Stat />

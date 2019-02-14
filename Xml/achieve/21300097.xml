@@ -29,4 +29,46 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21300097" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="JP">
+		<grade value="1">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="3" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300097" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="TH">
+		<grade value="1">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="3" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300097" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="TW">
+		<grade value="1">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="3" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survival_total_kill_use_skill" code="90000801" value="5" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

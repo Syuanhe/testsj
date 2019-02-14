@@ -13,4 +13,22 @@
 			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400096,female:10400100" />
 		</grade>
 	</achieves>
+	<achieves id="23100302" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="MusicInstrument" locale="JP">
+		<grade value="1">
+			<condition type="hero_achieve" code="23100143,23100144,23100168,23100169,23100170,23100178,23100179,23100180,23100197,23100198,23100199,23100224,23100225,23100226,23100232,23100233,23100234,23100235,23100236,23100237,23100254,23100255,23100256,23100277,23100278" value="3" target="1" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400096,female:10400100" />
+		</grade>
+	</achieves>
+	<achieves id="23100302" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="MusicInstrument" locale="TH">
+		<grade value="1">
+			<condition type="hero_achieve" code="23100143,23100144,23100168,23100169,23100170,23100178,23100179,23100180,23100197,23100198,23100199,23100224,23100225,23100226,23100232,23100233,23100234,23100235,23100236,23100237,23100254,23100255,23100256,23100277,23100278" value="3" target="1" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400096,female:10400100" />
+		</grade>
+	</achieves>
+	<achieves id="23100302" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="MusicInstrument" locale="TW">
+		<grade value="1">
+			<condition type="hero_achieve" code="23100143,23100144,23100168,23100169,23100170,23100178,23100179,23100180,23100197,23100198,23100199,23100224,23100225,23100226,23100232,23100233,23100234,23100235,23100236,23100237,23100254,23100255,23100256,23100277,23100278" value="3" target="1" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400096,female:10400100" />
+		</grade>
+	</achieves>
 </ms2>

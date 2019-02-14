@@ -23,7 +23,31 @@
 			<distractor text="$script:0913145407011306$" goto="41" gotoFail="" />
 		</content>
 	</script>
+	<script randomPick="1" id="40" feature="" locale="JP">
+		<content voiceID="ko/Npc/02000971" text="$script:0201172907012764$">
+			<distractor text="$script:0201172907012765$" goto="41" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="40" feature="" locale="TH">
+		<content voiceID="ko/Npc/02000971" text="$script:0201172907012767$">
+			<distractor text="$script:0201172907012768$" goto="41" gotoFail="" />
+		</content>
+	</script>
+	<script randomPick="1" id="40" feature="" locale="TW">
+		<content voiceID="ko/Npc/02000971" text="$script:0201172907012770$">
+			<distractor text="$script:0201172907012771$" goto="41" gotoFail="" />
+		</content>
+	</script>
 	<script id="41" feature="" locale="NA">
 		<content voiceID="ko/Npc/02000977" text="$script:0913145407011307$" />
+	</script>
+	<script id="41" feature="" locale="JP">
+		<content voiceID="ko/Npc/02000977" text="$script:0201172907012766$" />
+	</script>
+	<script id="41" feature="" locale="TH">
+		<content voiceID="ko/Npc/02000977" text="$script:0201172907012769$" />
+	</script>
+	<script id="41" feature="" locale="TW">
+		<content voiceID="ko/Npc/02000977" text="$script:0201172907012772$" />
 	</script>
 </ms2>

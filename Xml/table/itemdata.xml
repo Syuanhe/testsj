@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<Text id="0" color="213,203,183" />
 	<Text id="1" color="255,255,255" />
@@ -277,4 +277,5 @@
 	<tag name="EnchantJockerItemExcellent" itemID="30001155" />
 	<tag name="EnchantJockerItemLegendary" itemID="30001156" />
 	<tag name="EnchantJockerItemEpic" itemID="30001157" />
+	<tag name="FameCompletionTicket" itemID="20302387" />
 </ms2>

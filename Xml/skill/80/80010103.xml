@@ -9,7 +9,7 @@
 	<level value="1">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="1" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 			<stat hp="1" />
-			<item id="40400098" count="1" rank="3" />
+			<item id="40400098" count="1" rank="4" />
 		</beginCondition>
 		<changeSkill changeSkillCheckEffectID="" changeSkillCheckEffectLevel="" changeSkillCheckEffectOverlapCount="" changeSkillID="" changeSkillLevel="" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="210" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
@@ -23,7 +23,7 @@
 		<upgrade />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
-		<glideProperty gravity="5" heightLimit="1300" horizontalAccelerate="200" horizontalVelocity="50" verticalAccelerate="0" verticalVelocity="170" verticalVibrateAmplitude="0" verticalVibrateFrequency="0" glideHorizontalAccelerateLimit="500" bEffect="1" effectRun="CH/Fly/40400098_F_spaceplane_Run_A.xml" effectIdle="CH/Fly/40400098_F_spaceplane_Idle_A.xml" aniIdle="FlyType004_Idle_A" aniLeft="FlyType004_Idle_A" aniRight="" aniRun="FlyType004_Idle_A" onGroundDisable="0" />
+		<glideProperty gravity="5" heightLimit="1300" horizontalAccelerate="200" horizontalVelocity="100" verticalAccelerate="0" verticalVelocity="170" verticalVibrateAmplitude="50" verticalVibrateFrequency="2000" glideHorizontalAccelerateLimit="550" bEffect="1" effectRun="CH/Fly/40400098_F_spaceplane_Run_A.xml" effectIdle="CH/Fly/40400098_F_spaceplane_Idle_A.xml" aniIdle="FlyType004_Idle_A" aniLeft="FlyType004_Idle_A" aniRight="" aniRun="FlyType004_Idle_A" onGroundDisable="0" />
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>

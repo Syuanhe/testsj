@@ -7,4 +7,22 @@
 			<reward type="shop_ride" code="50600022" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21210020" account="0" icon="hero_battle.png" noticePercent="20" locking="" categoryTag="combat,hunt" feature="Season1" locale="JP">
+		<grade value="1">
+			<condition type="npc" code="21000249,21000252" value="50" target="02000004" />
+			<reward type="shop_ride" code="50600022" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21210020" account="0" icon="hero_battle.png" noticePercent="20" locking="" categoryTag="combat,hunt" feature="Season1" locale="TH">
+		<grade value="1">
+			<condition type="npc" code="21000249,21000252" value="50" target="02000004" />
+			<reward type="shop_ride" code="50600022" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21210020" account="0" icon="hero_battle.png" noticePercent="20" locking="" categoryTag="combat,hunt" feature="Season1" locale="TW">
+		<grade value="1">
+			<condition type="npc" code="21000249,21000252" value="50" target="02000004" />
+			<reward type="shop_ride" code="50600022" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

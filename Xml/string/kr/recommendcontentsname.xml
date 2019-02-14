@@ -140,6 +140,10 @@
 	<key id="274" name="기간티카" feature="Gigantica01" />
 	<key id="275" name="$dungeonTitle:23037002$" feature="Kritias_Paika01" />
 	<key id="276" name="$dungeonTitle:23038002$" feature="Kritias_Balrog01" />
+	<key id="277" name="$dungeonTitle:23041003$" feature="Kritias_Zakum01" />
+	<key id="278" name="$dungeonTitle:23040003$" feature="Kritias_Zakum01" />
+	<key id="279" name="$dungeonTitle:23043003$" feature="Kritias_Inferno01" />
+	<key id="280" name="$dungeonTitle:23042003$" feature="Kritias_Inferno01" />
 	<key id="297" name="일일 퀘스트" />
 	<key id="298" name="푸른 별" feature="Season3" />
 	<key id="299" name="붉은 별" feature="Season3" />

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2><!-- 현재 이거 사용 안함, 만약을 위해 남겨두었음, 이 부분은  999102_Lavaflow.xml   999108_Lavaflow.xml    999109_Lavaflow.xml   3개 xml 파일로 나누어서 분할 설정 했음 -->
- 
-	<state name="전투체크">
-			<condition name="몬스터가전투상태면" arg1="2001">
-					<transition state="대기" />			
-			</condition>					
-	</state>  
 
+	<state name="전투체크">
+		<condition name="유저를감지했으면" arg1="199">
+			<transition state="대기" /> 
+		</condition>	
+	</state>
+ 
 	<state name="대기">
 		<onEnter> 
-			<action name="이펙트를설정한다" arg1="600" arg2="0" />	
+			<action name="이펙트를설정한다" arg1="600" arg2="0" />			
 		</onEnter>			
 				<condition name="UserValue" key="LavaflowHigh" value="1"> <!-- 자쿰 팔이 제거될 때 LavaflowHigh 혹은 LavaflowLow 신호를 보내서 이 부분 작동하게 됨-->
 					<transition state="3칸분기" />

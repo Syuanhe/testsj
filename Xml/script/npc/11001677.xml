@@ -40,9 +40,12 @@
 		<content text="$script:0704194107006595$" />
 		<content text="$script:0704194107006596$" />
 	</script>
-	<script id="69" feature="" locale="">
-		<content text="$script:0704194107006597$" />
-		<content text="$script:0704194107006598$" />
+	<script id="53" feature="" locale="">
+		<content text="$script:0704194107006611$" />
+		<content text="$script:0704194107006612$" />
+		<content text="$script:0704194107006613$" />
+		<content text="$script:0704194107006614$" />
+		<content text="$script:0704194107006615$" />
 	</script>
 	<script id="61" feature="" locale="">
 		<content text="$script:0704194107006599$" />
@@ -68,6 +71,10 @@
 	<script id="68" feature="" locale="">
 		<content text="$script:0704194107006606$" />
 	</script>
+	<script id="69" feature="" locale="">
+		<content text="$script:0704194107006597$" />
+		<content text="$script:0704194107006598$" />
+	</script>
 	<script id="70" feature="" locale="">
 		<content text="$script:0704194107006607$" />
 	</script>
@@ -81,12 +88,5 @@
 	</script>
 	<script id="90" feature="SoulBinder" locale="">
 		<content voiceID="ko/Npc/02000412" text="$script:0805235907007127$" />
-	</script>
-	<script id="53" feature="" locale="">
-		<content text="$script:0704194107006611$" />
-		<content text="$script:0704194107006612$" />
-		<content text="$script:0704194107006613$" />
-		<content text="$script:0704194107006614$" />
-		<content text="$script:0704194107006615$" />
 	</script>
 </ms2>

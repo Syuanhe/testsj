@@ -24,6 +24,10 @@
 			<distractor text="$script:0831180407002203$" goto="43" gotoFail="" />
 		</content>
 	</script>
+	<script id="42" feature="" locale="">
+		<content voiceID="ko/Npc/03000392" text="$script:0831180407002207$" />
+		<content text="$script:0831180407002208$" />
+	</script>
 	<script id="43" feature="" locale="">
 		<content text="$script:0831180407002204$">
 			<distractor text="$script:0831180407002205$" goto="44" gotoFail="" />
@@ -31,10 +35,6 @@
 	</script>
 	<script id="44" feature="" locale="">
 		<content text="$script:0831180407002206$" />
-	</script>
-	<script id="42" feature="" locale="">
-		<content voiceID="ko/Npc/03000392" text="$script:0831180407002207$" />
-		<content text="$script:0831180407002208$" />
 	</script>
 	<script randomPick="1" id="50" feature="" locale="">
 		<content voiceID="ko/Npc/03000390" text="$script:1210061907004881$">

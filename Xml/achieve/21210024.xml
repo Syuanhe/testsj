@@ -23,4 +23,70 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21210024" account="0" icon="hero_battle.png" noticePercent="50" locking="" categoryTag="combat,hunt" feature="KarkarIsland" locale="JP">
+		<grade value="1">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="50" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400163,female:10400164" />
+		</grade>
+		<grade value="4">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21210024" account="0" icon="hero_battle.png" noticePercent="50" locking="" categoryTag="combat,hunt" feature="KarkarIsland" locale="TH">
+		<grade value="1">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="50" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400163,female:10400164" />
+		</grade>
+		<grade value="4">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21210024" account="0" icon="hero_battle.png" noticePercent="50" locking="" categoryTag="combat,hunt" feature="KarkarIsland" locale="TW">
+		<grade value="1">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="50" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400163,female:10400164" />
+		</grade>
+		<grade value="4">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="npc" code="21000391,21000392,21000400,21000395,21000396" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

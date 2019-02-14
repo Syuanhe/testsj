@@ -25,7 +25,7 @@
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="1" height="1" ignore="1" />
 		<validBattleCylinder radius="0" height="0" />
-		<dead time="5" defaultaction="Dead_A" upaction="Dead_A" revival="0" count="0" lifeTime="0" slowLastHit="0" extendRoomTime="60000" />
+		<dead time="5" defaultaction="Dead_A" upaction="Dead_A" revival="0" count="0" lifeTime="0" slowLastHit="0" extendRoomTime="0" />
 		<push back="0" up="0" knockback="0" />
 		<exp customExp="0" />
 		<shadow scale="1300" bias="1" />

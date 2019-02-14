@@ -7,4 +7,22 @@
 			<reward type="title" code="10000481" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="23100316" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="Fishing" locale="JP">
+		<grade value="1">
+			<condition type="fish_collect" code="10000014,10000015" value="2" target="" />
+			<reward type="title" code="10000481" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23100316" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="Fishing" locale="TH">
+		<grade value="1">
+			<condition type="fish_collect" code="10000014,10000015" value="2" target="" />
+			<reward type="title" code="10000481" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23100316" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,life" feature="Fishing" locale="TW">
+		<grade value="1">
+			<condition type="fish_collect" code="10000014,10000015" value="2" target="" />
+			<reward type="title" code="10000481" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

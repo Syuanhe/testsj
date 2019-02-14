@@ -4,9 +4,33 @@
 	<select id="0" feature="KarkarIsland" locale="NA">
 		<content text="$script:0911203207011241$" />
 	</select>
+	<select id="0" feature="KarkarIsland" locale="JP">
+		<content text="$script:0201172907014174$" />
+	</select>
+	<select id="0" feature="KarkarIsland" locale="TH">
+		<content text="$script:0201172907014178$" />
+	</select>
+	<select id="0" feature="KarkarIsland" locale="TW">
+		<content text="$script:0201172907014182$" />
+	</select>
 	<script randomPick="1" id="10" feature="KarkarIsland" locale="NA">
 		<content text="$script:0911203207011242$" />
 		<content text="$script:0911203207011243$" />
 		<content text="$script:0911203207011244$" />
+	</script>
+	<script randomPick="1" id="10" feature="KarkarIsland" locale="JP">
+		<content text="$script:0201172907014175$" />
+		<content text="$script:0201172907014176$" />
+		<content text="$script:0201172907014177$" />
+	</script>
+	<script randomPick="1" id="10" feature="KarkarIsland" locale="TH">
+		<content text="$script:0201172907014179$" />
+		<content text="$script:0201172907014180$" />
+		<content text="$script:0201172907014181$" />
+	</script>
+	<script randomPick="1" id="10" feature="KarkarIsland" locale="TW">
+		<content text="$script:0201172907014183$" />
+		<content text="$script:0201172907014184$" />
+		<content text="$script:0201172907014185$" />
 	</script>
 </ms2>

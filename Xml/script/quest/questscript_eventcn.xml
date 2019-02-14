@@ -2459,4 +2459,29 @@
 			<content text="$script:1207170517004284$" />
 		</script>
 	</quest>
+	<quest id="80010300">
+		<script id="100" feature="" locale="">
+			<content text="$script:0109175417004285$" />
+			<content text="$script:0109175417004286$" />
+			<content text="$script:0109175417004287$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0109175417004288$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0109175417004289$" />
+		</script>
+	</quest>
+	<quest id="80010310">
+		<script id="100" feature="" locale="">
+			<content text="$script:0116133817004290$" />
+			<content text="$script:0116133817004291$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0116133817004292$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0116133817004293$" />
+		</script>
+	</quest>
 </ms2>

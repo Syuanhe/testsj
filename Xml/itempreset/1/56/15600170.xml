@@ -9,7 +9,7 @@
 	</customize>
 	<slots>
 		<slot name="RH">
-			<asset name="urn:15600170_BalrogB01Orb" targetnode="Scene Root" selfnode="Point01" attachnode="Scene Root" />
+			<asset name="urn:15600170_BalrogB01Orb" targetnode="Scene Root" selfnode="Move_Point01" attachnode="Scene Root" />
 		</slot>
 		<slot name="LH"/>
 	</slots>

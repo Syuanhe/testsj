@@ -4,16 +4,25 @@
 		<onEnter>  
 			<action name="메쉬를설정한다" arg1="3100-3108" arg2="1" arg3="0" arg4="0" arg5="0" />
 		</onEnter>
-			<condition name="몬스터가전투상태면" arg1="2001">
-				<transition state="카운트" />
-			</condition>		
+		<condition name="유저를감지했으면" arg1="199">
+			<transition state="알림시작중" /> 
+		</condition>
 	</state>    
-  
+
+	<state name="알림시작중">
+		<onEnter>  
+		</onEnter>	
+			<condition name="WaitTick" waitTick="6000" > 
+				<transition state="카운트"/> 
+			</condition>
+	</state>
+
+	
 	<state name="카운트">
 		<onEnter>  
 			<action name="이벤트UI를설정한다" arg1="1" arg2="$02000207_BF__BARRICADE__0$" arg3="3000" />
 		</onEnter>	
-			<condition name="WaitTick" waitTick="30000" > 
+			<condition name="WaitTick" waitTick="23000" > 
 				<transition state="차단"/> 
 			</condition>
 	</state>

@@ -53,8 +53,17 @@
 	<achieve id="21100052" desc="모험레벨 {0} 달성하기!" complete="모험레벨 {0}을 달성!" manualDesc="" manualComplete="" feature="AdventureLevel" />
 	<achieve id="21100053" desc="모험레벨 {0} 달성하기!" complete="모험레벨 {0}을 달성!" manualDesc="" manualComplete="" feature="AdventureLevel" />
 	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="JP" />
+	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="TH" />
+	<achieve id="21100054" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="TW" />
 	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="JP" />
+	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="TH" />
+	<achieve id="21100055" desc="{0}레벨 달성하기!" complete="{0}레벨까지 성장!" manualDesc="" manualComplete="" locale="TW" />
 	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21100056" desc="50레벨 달성하기!" complete="50레벨까지 성장!" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21100057" desc="라펜샤드 합성 {0}회 시도하기" complete="라펜샤드 합성 {0}회 시도!" manualDesc="" manualComplete="" feature="Lapenshard01" />
 	<achieve id="21100058" desc="라펜샤드 합성 {0}회 실패하기" complete="라펜샤드 합성 {0}회 실패!" manualDesc="" manualComplete="" feature="Lapenshard01" />
 	<achieve id="21100059" desc="라펜샤드 합성 {0}회 성공하기" complete="라펜샤드 합성 {0}회 성공!" manualDesc="" manualComplete="" feature="Lapenshard01" />
@@ -94,12 +103,33 @@
 	<achieve id="21210018" desc="" complete="" manualDesc='모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002710$ 공격으로 비석에 깔리기' manualComplete='모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002710$ 공격으로 비석에 깔림' feature="ShrineOfGuidance" />
 	<achieve id="21210019" desc="$map:02000259$에서 $npc:21000168$ {0}회 처치하기" complete="$map:02000259$에서 $npc:21000168$ {0}회 처치" manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="21210020" desc="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치하기" complete="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="NA" />
+	<achieve id="21210020" desc="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치하기" complete="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="JP" />
+	<achieve id="21210020" desc="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치하기" complete="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="TH" />
+	<achieve id="21210020" desc="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치하기" complete="$map:02000004$에서 $npcName:21000249$ 또는 $npcName:21000252$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="TW" />
 	<achieve id="21210021" desc="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치하기" complete="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="NA" />
+	<achieve id="21210021" desc="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치하기" complete="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="JP" />
+	<achieve id="21210021" desc="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치하기" complete="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="TH" />
+	<achieve id="21210021" desc="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치하기" complete="$map:02000053$에서 $npcName:21000251$ 혹은 $npcName:21000254$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" locale="TW" />
 	<achieve id="21210022" desc="$map:02000054$에서 몬스터 {0}번 처치하기" complete="$map:02000054$에서 몬스터 {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="NA" />
+	<achieve id="21210022" desc="$map:02000054$에서 몬스터 {0}번 처치하기" complete="$map:02000054$에서 몬스터 {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="JP" />
+	<achieve id="21210022" desc="$map:02000054$에서 몬스터 {0}번 처치하기" complete="$map:02000054$에서 몬스터 {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="TH" />
+	<achieve id="21210022" desc="$map:02000054$에서 몬스터 {0}번 처치하기" complete="$map:02000054$에서 몬스터 {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="TW" />
 	<achieve id="21210023" desc="$map:02000041$에서 $npcName:21000023$ {0}번 처치하기" complete="$map:02000041$에서 $npcName:21000023$ {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="NA" />
+	<achieve id="21210023" desc="$map:02000041$에서 $npcName:21000023$ {0}번 처치하기" complete="$map:02000041$에서 $npcName:21000023$ {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="JP" />
+	<achieve id="21210023" desc="$map:02000041$에서 $npcName:21000023$ {0}번 처치하기" complete="$map:02000041$에서 $npcName:21000023$ {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="TH" />
+	<achieve id="21210023" desc="$map:02000041$에서 $npcName:21000023$ {0}번 처치하기" complete="$map:02000041$에서 $npcName:21000023$ {0}번 처치" manualDesc="" manualComplete="" feature="Season1" locale="TW" />
 	<achieve id="21210024" desc="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치하기" complete="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21210024" desc="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치하기" complete="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21210024" desc="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치하기" complete="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21210024" desc="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치하기" complete="카르카르 아일랜드에 서식하는 뱀 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21210025" desc="$map:02010030$의 몬스터 처치하기" complete="$map:02010030$의 몬스터 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21210025" desc="$map:02010030$의 몬스터 처치하기" complete="$map:02010030$의 몬스터 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21210025" desc="$map:02010030$의 몬스터 처치하기" complete="$map:02010030$의 몬스터 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21210025" desc="$map:02010030$의 몬스터 처치하기" complete="$map:02010030$의 몬스터 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21210026" desc="$map:02010010$의 몬스터 {0}마리 처치하기" complete="$map:02010010$의 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21210026" desc="$map:02010010$의 몬스터 {0}마리 처치하기" complete="$map:02010010$의 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21210026" desc="$map:02010010$의 몬스터 {0}마리 처치하기" complete="$map:02010010$의 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21210026" desc="$map:02010010$의 몬스터 {0}마리 처치하기" complete="$map:02010010$의 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21210027" desc="크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="21210028" desc="크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="21210029" desc="크리티아스 대륙에서 벌레 몬스터 {0}마리 처치하기" complete="크리티아스 대륙에서 벌레 몬스터 {0}마리 처치" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
@@ -137,7 +167,10 @@
 	<achieve id="21220034" desc='모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002701$ {0}번 처치하기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:21016001$&quot;에서 $npc:24002701$ {0}번 처치!' manualDesc="" manualComplete="" feature="ShrineOfGuidance" />
 	<achieve id="21220035" desc='&quot;$dungeonTitle:21022001$&quot;에서 $npc:24003007$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:21022001$&quot;에서 $npc:24003007$ {0}번 처치!' manualDesc="" manualComplete="" feature="PirateOcean" />
 	<achieve id="21220036" desc='월드 인베이젼 : &quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 월드 인베이젼 : &quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" />
-	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090004$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="NA" />
+	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="NA" />
+	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="JP" />
+	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="TH" />
+	<achieve id="21220036" desc='(카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치하기' complete='지금까지 (카오스)&quot;$dungeonTitle:24090005$&quot;에서 $npc:21500820$ {0}마리 처치!' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="TW" />
 	<achieve id="21220037" desc='모험[일반] : &quot;$dungeonTitle:21019001$&quot;에서 $npc:24001601$ {0}회 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21019001$&quot;에서 $npc:24001601$ {0}회 처치!' manualDesc="" manualComplete="" feature="Season3" />
 	<achieve id="21220038" desc="$npc:22300105$ {0}회 처치하기" complete="$npc:22300105$ {0}회 처치!" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21220039" desc='&quot;$dungeonTitle:23031002$&quot;에서 $npc:21420107$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:23031002$&quot;에서 $npc:21420107$ {0}번 처치!' manualDesc="" manualComplete="" feature="ChronicleDungeon60_01" />
@@ -236,6 +269,10 @@
 	<achieve id="21230093" desc='&quot;$dungeonTitle:20023001$&quot;에서 춤추기 효과에 {0}번 걸리기' complete='&quot;$dungeonTitle:20023001$&quot;에서 춤추기 효과에 {0}번 걸림' manualDesc="" manualComplete="" feature="PinkBean01" />
 	<achieve id="21230094" desc='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500670$을 {0}번 처치하기' complete='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500670$을 {0}번 처치' manualDesc="" manualComplete="" feature="PinkBean01" />
 	<achieve id="21230095" desc='&quot;$dungeonTitle:24090004$&quot; {0}번 완료하기' complete='&quot;$dungeonTitle:24090004$&quot; {0}번 완료' manualDesc="" manualComplete="" feature="CrimsonBalrog01" />
+	<achieve id="21230095" desc='&quot;$dungeonTitle:24090005$&quot; {0}번 완료하기' complete='&quot;$dungeonTitle:24090005$&quot; {0}번 완료' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="NA" />
+	<achieve id="21230095" desc='&quot;$dungeonTitle:24090005$&quot; {0}번 완료하기' complete='&quot;$dungeonTitle:24090005$&quot; {0}번 완료' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="JP" />
+	<achieve id="21230095" desc='&quot;$dungeonTitle:24090005$&quot; {0}번 완료하기' complete='&quot;$dungeonTitle:24090005$&quot; {0}번 완료' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="TH" />
+	<achieve id="21230095" desc='&quot;$dungeonTitle:24090005$&quot; {0}번 완료하기' complete='&quot;$dungeonTitle:24090005$&quot; {0}번 완료' manualDesc="" manualComplete="" feature="CrimsonBalrog01" locale="TW" />
 	<achieve id="21230096" desc="$npc:23000094$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000094$ 처치에 {0}번 기여!" manualDesc="" manualComplete="" feature="FameContents_EP1_01" />
 	<achieve id="21230097" desc='모험[일반] : &quot;$dungeonTitle:21001001$&quot;에서 $npc:24000409$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21001001$&quot;에서 $npc:24000409$ {0}번 처치' manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21230098" desc="$npc:23000019$, $npc:23000020$ 부부 중 1명을 {0}번 처치하기" complete="$npc:23000019$, $npc:23000020$ 부부 중 1명을 {0}번 처치" manualDesc="" manualComplete="" feature="Season1" />
@@ -273,10 +310,25 @@
 	<achieve id="21230130" desc="" complete="" manualDesc='&quot;$dungeonTitle:27003001$&quot; 클리어 하기' manualComplete='&quot;$dungeonTitle:27003001$&quot; 클리어' feature="LapentaDungeon" />
 	<achieve id="21230131" desc="" complete="" manualDesc="변해버린 동료가 지배하는 공간에서 살아남기" manualComplete="변해버린 동료가 지배하는 공간에서 살아남음" feature="LapentaDungeon" />
 	<achieve id="21230132" desc='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21230132" desc='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21230132" desc='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21230132" desc='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21014001$&quot;에서 $npcName:24002004$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21230133" desc='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21230133" desc='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21230133" desc='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21230133" desc='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:21010001$&quot;에서 $npcName:24001308$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21230134" desc='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21230134" desc='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21230134" desc='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21230134" desc='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25010001$&quot;에서 $npcName:24001802$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21230135" desc='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21230135" desc='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21230135" desc='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21230135" desc='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:25009001$&quot;에서 $npcName:24001907$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21230136" desc='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="NA" />
+	<achieve id="21230136" desc='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="JP" />
+	<achieve id="21230136" desc='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TH" />
+	<achieve id="21230136" desc='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치하기' complete='모험[일반] : &quot;$dungeonTitle:20017001$&quot;에서 $npcName:22500020$ {0}번 처치' manualDesc="" manualComplete="" feature="KarkarIsland" locale="TW" />
 	<achieve id="21230137" desc='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500850$을 {0}번 처치하기' complete='&quot;$dungeonTitle:23023003$&quot;에서 $npc:21500850$을 {0}번 처치' manualDesc="" manualComplete="" feature="PinkBean01" />
 	<achieve id="21230141" desc="" complete="" manualDesc="아이 오브 라펜타 던전 관련 트로피 2종 달성" manualComplete="아이 오브 라펜타 던전 관련 트로피 2종 달성하기" feature="LapentaDungeon" />
 	<achieve id="21230142" desc='&quot;$dungeonTitle:23038002$&quot;에서 $npc:23090006$ {0}번 처치하기' complete='지금까지 &quot;$dungeonTitle:23038002$&quot;에서 $npc:23090006$ {0}번 처치!' manualDesc="" manualComplete="" feature="Kritias_Balrog01" />
@@ -287,6 +339,10 @@
 	<achieve id="21230147" desc='&quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 소환하기' complete='지금까지 &quot;$map:02020051$&quot;에서 $npc:23001006$ {0}번 소환' manualDesc="" manualComplete="" feature="Gigantica01" />
 	<achieve id="21230148" desc='&quot;$map:02020051$&quot;에서 펜텀디스트로이어 {0}번 탑승하기' complete='지금까지 &quot;$map:02020051$&quot;에서 펜텀디스트로이어 {0}번 탑승' manualDesc="" manualComplete="" feature="Gigantica01" />
 	<achieve id="21230149" desc='&quot;$map:02020097$&quot;에서 $npc:21803500$ {0}번 발사하기' complete='지금까지 &quot;$map:02020097$&quot;에서 $npc:21803500$ {0}번 발사!' manualDesc="" manualComplete="" feature="Kritias_Balrog01" />
+	<achieve id="21230150" desc='&quot;$map:02000426$&quot;에서 $npc:23000072$ {0}번 처치하기' complete='지금까지 &quot;$map:02000426$&quot;에서 $npc:23000072$ {0}번 처치!' manualDesc="" manualComplete="" feature="Kritias_Zakum01" />
+	<achieve id="21230151" desc='&quot;$map:02020098$&quot;에서 $npc:23000150$ {0}번 처치하기' complete='지금까지 &quot;$map:02020098$&quot;에서 $npc:23000150$ {0}번 처치!' manualDesc="" manualComplete="" feature="Kritias_Inferno01" />
+	<achieve id="21230152" desc='&quot;$map:02020065$&quot;에서 $npc:25100306$ {0}번 처치하기' complete='지금까지 &quot;$map:02020065$&quot;에서 $npc:25100306$ {0}번 처치!' manualDesc="" manualComplete="" feature="Fieldwar02" />
+	<achieve id="21230153" desc='&quot;$map:02020063$&quot;에서 $npc:25100209$ {0}번 처치하기' complete='지금까지 &quot;$map:02020063$&quot;에서 $npc:25100209$ {0}번 처치!' manualDesc="" manualComplete="" feature="Fieldwar02" />
 	<achieve id="21231001" desc="나의 마지막 일격으로 $npc:23000024$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000024$ {0}회 처치" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21231002" desc="나의 마지막 일격으로 $npc:23000018$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000018$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="21231003" desc="나의 마지막 일격으로 $npc:23000019$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000019$ {0}회 처치" manualDesc="" manualComplete="" feature="Season1" />
@@ -343,6 +399,10 @@
 	<achieve id="21231054" desc='&quot;$map:02020062$&quot;에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치하기' complete='&quot;$map:02020062$&quot;에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar01" />
 	<achieve id="21231055" desc='&quot;$map:02020061$&quot;에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치하기' complete='&quot;$map:02020061$&quot;에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar01" />
 	<achieve id="21231056" desc='&quot;$map:02020051$&quot;에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치하기' complete='&quot;$map:02020051$&quot;에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치' manualDesc="" manualComplete="" feature="Gigantica01" />
+	<achieve id="21231057" desc='&quot;$map:02000426$&quot;에서 나의 마지막 일격으로 $npc:23000072$ {0}회 처치하기' complete='&quot;$map:02000426$&quot;에서 나의 마지막 일격으로 $npc:23000072$ {0}회 처치' manualDesc="" manualComplete="" feature="Kritias_Zakum01" />
+	<achieve id="21231058" desc='&quot;$map:02020098$&quot;에서 나의 마지막 일격으로 $npc:23000150$ {0}회 처치하기' complete='&quot;$map:02020098$&quot;에서 나의 마지막 일격으로 $npc:23000150$ {0}회 처치' manualDesc="" manualComplete="" feature="Kritias_Inferno01" />
+	<achieve id="21231059" desc='&quot;$map:02020065$&quot;에서 나의 마지막 일격으로 $npc:25100306$ {0}회 처치하기' complete='&quot;$map:02020065$&quot;에서 나의 마지막 일격으로 $npc:25100306$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar02" />
+	<achieve id="21231060" desc='&quot;$map:02020063$&quot;에서 나의 마지막 일격으로 $npc:25100209$ {0}회 처치하기' complete='&quot;$map:02020063$&quot;에서 나의 마지막 일격으로 $npc:25100209$ {0}회 처치' manualDesc="" manualComplete="" feature="Fieldwar02" />
 	<achieve id="21232001" desc="$npc:22000059$의 침에 {0}번 맞기" complete="지금까지 $npc:22000059$의 침에 {0}번 맞음" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21232002" desc="$npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔리기" complete="지금까지 $npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔림" manualDesc="" manualComplete="" feature="Season2" />
 	<achieve id="21232003" desc="" complete="" manualDesc="$npc:22090107$의 공격을 받아 작아지기" manualComplete="$npc:22090107$의 공격을 받아 작아지기" feature="Season2" />
@@ -901,7 +961,13 @@
 	<achieve id="22200456" desc="" complete="" manualDesc="빅토리아 아일랜드의 평화를 어지럽히는 괴수들 처치하기" manualComplete="빅토리아 아일랜드의 평화를 어지럽히는 괴수들을 처치함" feature="Season2" />
 	<achieve id="22200457" desc="" complete="" manualDesc="갑자기 일어난 사건들, 그 소문의 진상 파헤쳐보기" manualComplete="갑자기 일어난 사건들, 그 소문의 진상을 확인함" feature="Season3" />
 	<achieve id="22200458" desc="" complete="" manualDesc="$map:02000076$의 모든 탐험 목표 완료하기" manualComplete="$map:02000076$의 모든 탐험 목표 완료" feature="Season1" locale="NA" />
+	<achieve id="22200458" desc="" complete="" manualDesc="$map:02000076$의 모든 탐험 목표 완료하기" manualComplete="$map:02000076$의 모든 탐험 목표 완료" feature="Season1" locale="JP" />
+	<achieve id="22200458" desc="" complete="" manualDesc="$map:02000076$의 모든 탐험 목표 완료하기" manualComplete="$map:02000076$의 모든 탐험 목표 완료" feature="Season1" locale="TH" />
+	<achieve id="22200458" desc="" complete="" manualDesc="$map:02000076$의 모든 탐험 목표 완료하기" manualComplete="$map:02000076$의 모든 탐험 목표 완료" feature="Season1" locale="TW" />
 	<achieve id="22200459" desc="" complete="" manualDesc="$map:02000054$의 모든 탐험 목표 완료하기" manualComplete="$map:02000054$의 모든 탐험 목표 완료" feature="Season1" locale="NA" />
+	<achieve id="22200459" desc="" complete="" manualDesc="$map:02000054$의 모든 탐험 목표 완료하기" manualComplete="$map:02000054$의 모든 탐험 목표 완료" feature="Season1" locale="JP" />
+	<achieve id="22200459" desc="" complete="" manualDesc="$map:02000054$의 모든 탐험 목표 완료하기" manualComplete="$map:02000054$의 모든 탐험 목표 완료" feature="Season1" locale="TH" />
+	<achieve id="22200459" desc="" complete="" manualDesc="$map:02000054$의 모든 탐험 목표 완료하기" manualComplete="$map:02000054$의 모든 탐험 목표 완료" feature="Season1" locale="TW" />
 	<achieve id="22200460" desc="" complete="" manualDesc="$map:02000062$에서 사랑 싸움 중인 $npcName:11000456$$pp:와,과$ 대화하기" manualComplete="$map:02000062$에서 사랑 싸움 중인 $npcName:11000456$$pp:와,과$ 대화함" />
 	<achieve id="22200461" desc="" complete="" manualDesc="$map:02000001$ 성벽에 적힌 $npc:11004067$ 확인하기" manualComplete="$map:02000001$ 성벽에 적힌 $npc:11004067$ 확인함" />
 	<achieve id="22200462" desc="" complete="" manualDesc="$npcName:11004076$들에게 놀림받는 $npcName:11004075$$pp:와,과$ 대화하기" manualComplete="$npcName:11004076$들에게 놀림받는 $npcName:11004075$$pp:와,과$ 대화함" />
@@ -948,22 +1014,73 @@
 	<achieve id="22210016" desc="용암에서 누적 1분 버티기" complete="용암에서 누적 1분 버팀" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="22210017" desc="집에서 배우는 메이플 가이드 모두 완료하기" complete="집에서 배우는 메이플 가이드를 모두 완료했다!" manualDesc="" manualComplete="" feature="ContentsGuide01" />
 	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210029" desc="" complete="" manualDesc="블랙노프 던전 관련 트로피 1단계 달성하기" manualComplete="블랙노프 던전 관련 트로피 1단계 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210030" desc="" complete="" manualDesc="$map:02010010$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010010$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210031" desc="" complete="" manualDesc="$map:02010084$에서 작은 연못 살펴보기" manualComplete="$map:02010084$에서 작은 연못 살펴보기" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210032" desc="" complete="" manualDesc="$map:02010022$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010022$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210033" desc="" complete="" manualDesc="$map:02010047$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010047$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210034" desc="" complete="" manualDesc="나즈카르 전당의 탐험 목표 모두 달성하기" manualComplete="나즈카르 전당의 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210035" desc="" complete="" manualDesc="$map:02010023$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010023$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210036" desc="" complete="" manualDesc="$map:02010002$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010002$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210036" desc="" complete="" manualDesc="$map:02010002$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010002$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210036" desc="" complete="" manualDesc="$map:02010002$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010002$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210036" desc="" complete="" manualDesc="$map:02010002$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010002$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210037" desc="" complete="" manualDesc="$map:02010063$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010063$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210037" desc="" complete="" manualDesc="$map:02010063$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010063$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210037" desc="" complete="" manualDesc="$map:02010063$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010063$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210037" desc="" complete="" manualDesc="$map:02010063$에서 탐험 목표 모두 달성하기" manualComplete="$map:02010063$에서 탐험 목표 모두 달성" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210038" desc="" complete="" manualDesc="$map:02010058$의 $npc:11004265$와 대화하기" manualComplete="$map:02010058$의 $npc:11004265$와 대화" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210038" desc="" complete="" manualDesc="$map:02010058$의 $npc:11004265$와 대화하기" manualComplete="$map:02010058$의 $npc:11004265$와 대화" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210038" desc="" complete="" manualDesc="$map:02010058$의 $npc:11004265$와 대화하기" manualComplete="$map:02010058$의 $npc:11004265$와 대화" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210038" desc="" complete="" manualDesc="$map:02010058$의 $npc:11004265$와 대화하기" manualComplete="$map:02010058$의 $npc:11004265$와 대화" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210039" desc="" complete="" manualDesc="$map:02010012$의 $npc:11004267$와 대화하기" manualComplete="$map:02010012$의 $npc:11004267$와 대화" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210039" desc="" complete="" manualDesc="$map:02010012$의 $npc:11004267$와 대화하기" manualComplete="$map:02010012$의 $npc:11004267$와 대화" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210039" desc="" complete="" manualDesc="$map:02010012$의 $npc:11004267$와 대화하기" manualComplete="$map:02010012$의 $npc:11004267$와 대화" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210039" desc="" complete="" manualDesc="$map:02010012$의 $npc:11004267$와 대화하기" manualComplete="$map:02010012$의 $npc:11004267$와 대화" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210040" desc="" complete="" manualDesc="$map:02010011$의 $npc:11004266$과 대화하기" manualComplete="$map:02010011$의 $npc:11004266$과 대화" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210040" desc="" complete="" manualDesc="$map:02010011$의 $npc:11004266$과 대화하기" manualComplete="$map:02010011$의 $npc:11004266$과 대화" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210040" desc="" complete="" manualDesc="$map:02010011$의 $npc:11004266$과 대화하기" manualComplete="$map:02010011$의 $npc:11004266$과 대화" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210040" desc="" complete="" manualDesc="$map:02010011$의 $npc:11004266$과 대화하기" manualComplete="$map:02010011$의 $npc:11004266$과 대화" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210041" desc="" complete="" manualDesc="$map:02010023$에 핀 $npcName:11004271$ 살펴보기" manualComplete="$map:02010023$에 핀 $npcName:11004271$ 살펴봄" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210041" desc="" complete="" manualDesc="$map:02010023$에 핀 $npcName:11004271$ 살펴보기" manualComplete="$map:02010023$에 핀 $npcName:11004271$ 살펴봄" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210041" desc="" complete="" manualDesc="$map:02010023$에 핀 $npcName:11004271$ 살펴보기" manualComplete="$map:02010023$에 핀 $npcName:11004271$ 살펴봄" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210041" desc="" complete="" manualDesc="$map:02010023$에 핀 $npcName:11004271$ 살펴보기" manualComplete="$map:02010023$에 핀 $npcName:11004271$ 살펴봄" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210042" desc="" complete="" manualDesc="$map:02010007$의 $npcName:11004275$과 대화하기" manualComplete="$map:02010007$의 $npcName:11004275$과 대화" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210042" desc="" complete="" manualDesc="$map:02010007$의 $npcName:11004275$과 대화하기" manualComplete="$map:02010007$의 $npcName:11004275$과 대화" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210042" desc="" complete="" manualDesc="$map:02010007$의 $npcName:11004275$과 대화하기" manualComplete="$map:02010007$의 $npcName:11004275$과 대화" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210042" desc="" complete="" manualDesc="$map:02010007$의 $npcName:11004275$과 대화하기" manualComplete="$map:02010007$의 $npcName:11004275$과 대화" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210043" desc="" complete="" manualDesc="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴보기" manualComplete="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴봄" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210043" desc="" complete="" manualDesc="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴보기" manualComplete="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴봄" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210043" desc="" complete="" manualDesc="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴보기" manualComplete="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴봄" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210043" desc="" complete="" manualDesc="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴보기" manualComplete="$map:02010043$에 불시착 한 $npcName:11004263$ 살펴봄" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210044" desc="" complete="" manualDesc="$map:02010063$에서 $npc:11001387$에게 소문에 대해 묻기" manualComplete="$map:02010063$에서 $npc:11001387$에게 소문에 대해 물음" feature="KarkarIsland" locale="NA" />
+	<achieve id="22210044" desc="" complete="" manualDesc="$map:02010063$에서 $npc:11001387$에게 소문에 대해 묻기" manualComplete="$map:02010063$에서 $npc:11001387$에게 소문에 대해 물음" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210044" desc="" complete="" manualDesc="$map:02010063$에서 $npc:11001387$에게 소문에 대해 묻기" manualComplete="$map:02010063$에서 $npc:11001387$에게 소문에 대해 물음" feature="KarkarIsland" locale="TH" />
+	<achieve id="22210044" desc="" complete="" manualDesc="$map:02010063$에서 $npc:11001387$에게 소문에 대해 묻기" manualComplete="$map:02010063$에서 $npc:11001387$에게 소문에 대해 물음" feature="KarkarIsland" locale="TW" />
 	<achieve id="22210045" desc="" complete="" manualDesc="포트리스 럼블에서 1회 A랭크 받기" manualComplete="포트리스 럼블에서 1회 A랭크 달성" feature="FameChallengeDungeon" locale="NA" />
+	<achieve id="22210045" desc="" complete="" manualDesc="포트리스 럼블에서 1회 A랭크 받기" manualComplete="포트리스 럼블에서 1회 A랭크 달성" feature="FameChallengeDungeon" locale="JP" />
+	<achieve id="22210045" desc="" complete="" manualDesc="포트리스 럼블에서 1회 A랭크 받기" manualComplete="포트리스 럼블에서 1회 A랭크 달성" feature="FameChallengeDungeon" locale="TH" />
+	<achieve id="22210045" desc="" complete="" manualDesc="포트리스 럼블에서 1회 A랭크 받기" manualComplete="포트리스 럼블에서 1회 A랭크 달성" feature="FameChallengeDungeon" locale="TW" />
 	<achieve id="22210046" desc="$map:80000017$에서 큰 광석 {0}개 조사" complete="지금까지 $map:80000017$에서 큰 광석 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="22210047" desc="$map:80000018$에서 큰 꽃  {0}개 조사" complete="지금까지 $map:80000017$에서 큰 꽃 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
 	<achieve id="22210048" desc="$map:80000019$에서 큰 애벌레 {0}개 조사" complete="지금까지 $map:80000017$에서 큰 애벌레 {0}개 조사" manualDesc="" manualComplete="" feature="Kritias_2018_12" />
@@ -1056,54 +1173,195 @@
 	<achieve id="22300086" desc="우정 따위 필요 없어 챕터 완료하기" complete="우정 따위 필요 없어 챕터 완료" manualDesc="" manualComplete="" feature="QuestChapter00" />
 	<achieve id="22300087" desc="에레브 여제 첫 알현 퀘스트 (제목 : 여제 알현) 완료하기" complete="에레브 여제 첫 알현 퀘스트 (제목 : 여제 알현) 완료" manualDesc="" manualComplete="" feature="Quest2017" />
 	<achieve id="22300088" desc="" complete="" manualDesc="나무도 친구가 필요해 퀘스트 완료하기" manualComplete="나무도 친구가 필요해 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300088" desc="" complete="" manualDesc="나무도 친구가 필요해 퀘스트 완료하기" manualComplete="나무도 친구가 필요해 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300088" desc="" complete="" manualDesc="나무도 친구가 필요해 퀘스트 완료하기" manualComplete="나무도 친구가 필요해 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300088" desc="" complete="" manualDesc="나무도 친구가 필요해 퀘스트 완료하기" manualComplete="나무도 친구가 필요해 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300089" desc="" complete="" manualDesc="우리 이만 헤어져 퀘스트 완료하기" manualComplete="우리 이만 헤어져 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300089" desc="" complete="" manualDesc="우리 이만 헤어져 퀘스트 완료하기" manualComplete="우리 이만 헤어져 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300089" desc="" complete="" manualDesc="우리 이만 헤어져 퀘스트 완료하기" manualComplete="우리 이만 헤어져 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300089" desc="" complete="" manualDesc="우리 이만 헤어져 퀘스트 완료하기" manualComplete="우리 이만 헤어져 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300090" desc="" complete="" manualDesc="찬양하라 골두스 퀘스트 완료하기" manualComplete="찬양하라 골두스 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300090" desc="" complete="" manualDesc="찬양하라 골두스 퀘스트 완료하기" manualComplete="찬양하라 골두스 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300090" desc="" complete="" manualDesc="찬양하라 골두스 퀘스트 완료하기" manualComplete="찬양하라 골두스 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300090" desc="" complete="" manualDesc="찬양하라 골두스 퀘스트 완료하기" manualComplete="찬양하라 골두스 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300091" desc="" complete="" manualDesc="발로 뛰는 홍보 퀘스트 완료하기" manualComplete="발로 뛰는 홍보 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300091" desc="" complete="" manualDesc="발로 뛰는 홍보 퀘스트 완료하기" manualComplete="발로 뛰는 홍보 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300091" desc="" complete="" manualDesc="발로 뛰는 홍보 퀘스트 완료하기" manualComplete="발로 뛰는 홍보 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300091" desc="" complete="" manualDesc="발로 뛰는 홍보 퀘스트 완료하기" manualComplete="발로 뛰는 홍보 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300092" desc="" complete="" manualDesc="합격 기원 퀘스트 완료하기" manualComplete="합격 기원 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300092" desc="" complete="" manualDesc="합격 기원 퀘스트 완료하기" manualComplete="합격 기원 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300092" desc="" complete="" manualDesc="합격 기원 퀘스트 완료하기" manualComplete="합격 기원 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300092" desc="" complete="" manualDesc="합격 기원 퀘스트 완료하기" manualComplete="합격 기원 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300093" desc="" complete="" manualDesc="아르웬과 유리구두 퀘스트 완료하기" manualComplete="아르웬과 유리구두 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300093" desc="" complete="" manualDesc="아르웬과 유리구두 퀘스트 완료하기" manualComplete="아르웬과 유리구두 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300093" desc="" complete="" manualDesc="아르웬과 유리구두 퀘스트 완료하기" manualComplete="아르웬과 유리구두 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300093" desc="" complete="" manualDesc="아르웬과 유리구두 퀘스트 완료하기" manualComplete="아르웬과 유리구두 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300094" desc="" complete="" manualDesc="구하라, 핑크램! 퀘스트 완료하기" manualComplete="구하라, 핑크램! 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300094" desc="" complete="" manualDesc="구하라, 핑크램! 퀘스트 완료하기" manualComplete="구하라, 핑크램! 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300094" desc="" complete="" manualDesc="구하라, 핑크램! 퀘스트 완료하기" manualComplete="구하라, 핑크램! 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300094" desc="" complete="" manualDesc="구하라, 핑크램! 퀘스트 완료하기" manualComplete="구하라, 핑크램! 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300095" desc="" complete="" manualDesc="몰카 촬영? 퀘스트 완료하기" manualComplete="몰카 촬영? 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300095" desc="" complete="" manualDesc="몰카 촬영? 퀘스트 완료하기" manualComplete="몰카 촬영? 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300095" desc="" complete="" manualDesc="몰카 촬영? 퀘스트 완료하기" manualComplete="몰카 촬영? 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300095" desc="" complete="" manualDesc="몰카 촬영? 퀘스트 완료하기" manualComplete="몰카 촬영? 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300096" desc="" complete="" manualDesc="하늘에서라도, 부디… 퀘스트 완료하기" manualComplete="하늘에서라도, 부디… 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300096" desc="" complete="" manualDesc="하늘에서라도, 부디… 퀘스트 완료하기" manualComplete="하늘에서라도, 부디… 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300096" desc="" complete="" manualDesc="하늘에서라도, 부디… 퀘스트 완료하기" manualComplete="하늘에서라도, 부디… 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300096" desc="" complete="" manualDesc="하늘에서라도, 부디… 퀘스트 완료하기" manualComplete="하늘에서라도, 부디… 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300097" desc="" complete="" manualDesc="아티스트 vs 아티스트 퀘스트 완료하기" manualComplete="아티스트 vs 아티스트 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300097" desc="" complete="" manualDesc="아티스트 vs 아티스트 퀘스트 완료하기" manualComplete="아티스트 vs 아티스트 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300097" desc="" complete="" manualDesc="아티스트 vs 아티스트 퀘스트 완료하기" manualComplete="아티스트 vs 아티스트 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300097" desc="" complete="" manualDesc="아티스트 vs 아티스트 퀘스트 완료하기" manualComplete="아티스트 vs 아티스트 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300098" desc="" complete="" manualDesc="음악은 사랑을 싣고 퀘스트 완료하기" manualComplete="음악은 사랑을 싣고 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300098" desc="" complete="" manualDesc="음악은 사랑을 싣고 퀘스트 완료하기" manualComplete="음악은 사랑을 싣고 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300098" desc="" complete="" manualDesc="음악은 사랑을 싣고 퀘스트 완료하기" manualComplete="음악은 사랑을 싣고 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300098" desc="" complete="" manualDesc="음악은 사랑을 싣고 퀘스트 완료하기" manualComplete="음악은 사랑을 싣고 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300099" desc="" complete="" manualDesc="울음소리의 정체 확인하기" manualComplete="울음소리의 정체 확인" feature="Season1" locale="NA" />
+	<achieve id="22300099" desc="" complete="" manualDesc="울음소리의 정체 확인하기" manualComplete="울음소리의 정체 확인" feature="Season1" locale="JP" />
+	<achieve id="22300099" desc="" complete="" manualDesc="울음소리의 정체 확인하기" manualComplete="울음소리의 정체 확인" feature="Season1" locale="TH" />
+	<achieve id="22300099" desc="" complete="" manualDesc="울음소리의 정체 확인하기" manualComplete="울음소리의 정체 확인" feature="Season1" locale="TW" />
 	<achieve id="22300100" desc="" complete="" manualDesc="구슬픈 울음 소리 퀘스트 완료하기" manualComplete="구슬픈 울음 소리 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300100" desc="" complete="" manualDesc="구슬픈 울음 소리 퀘스트 완료하기" manualComplete="구슬픈 울음 소리 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300100" desc="" complete="" manualDesc="구슬픈 울음 소리 퀘스트 완료하기" manualComplete="구슬픈 울음 소리 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300100" desc="" complete="" manualDesc="구슬픈 울음 소리 퀘스트 완료하기" manualComplete="구슬픈 울음 소리 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300101" desc="" complete="" manualDesc="그 돼지는 용감했다 퀘스트 완료하기" manualComplete="그 돼지는 용감했다 퀘스트 완료" feature="Season1" locale="NA" />
+	<achieve id="22300101" desc="" complete="" manualDesc="그 돼지는 용감했다 퀘스트 완료하기" manualComplete="그 돼지는 용감했다 퀘스트 완료" feature="Season1" locale="JP" />
+	<achieve id="22300101" desc="" complete="" manualDesc="그 돼지는 용감했다 퀘스트 완료하기" manualComplete="그 돼지는 용감했다 퀘스트 완료" feature="Season1" locale="TH" />
+	<achieve id="22300101" desc="" complete="" manualDesc="그 돼지는 용감했다 퀘스트 완료하기" manualComplete="그 돼지는 용감했다 퀘스트 완료" feature="Season1" locale="TW" />
 	<achieve id="22300102" desc="" complete="" manualDesc="장로의 부탁 퀘스트 완료하기" manualComplete="장로의 부탁 퀘스트 완료" feature="Season1" />
 	<achieve id="22300103" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:50100710$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:50100710$&quot; 완료' feature="LapentaDungeon" />
 	<achieve id="22300104" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001210$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001210$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300104" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001210$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001210$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300104" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001210$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001210$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300104" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001210$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001210$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300105" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001450$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001450$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300105" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001450$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001450$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300105" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001450$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001450$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300105" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001450$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001450$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300106" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001190$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001190$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300106" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001190$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001190$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300106" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001190$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001190$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300106" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001190$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001190$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300107" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001301$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001301$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300107" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001301$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001301$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300107" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001301$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001301$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300107" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001301$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001301$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300108" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001620$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001620$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300108" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001620$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001620$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300108" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001620$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001620$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300108" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001620$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001620$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300109" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001110$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001110$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300109" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001110$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001110$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300109" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001110$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001110$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300109" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001110$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001110$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300110" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40002551$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40002551$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300110" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40002551$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40002551$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300110" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40002551$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40002551$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300110" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40002551$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40002551$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300111" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001510$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001510$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300111" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001510$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001510$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300111" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001510$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001510$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300111" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001510$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001510$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300112" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001861$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001861$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300112" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001861$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001861$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300112" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001861$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001861$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300112" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001861$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001861$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300113" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001511$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001511$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300113" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001511$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001511$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300113" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001511$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001511$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300113" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001511$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001511$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300114" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001591$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001591$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300114" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001591$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001591$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300114" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001591$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001591$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300114" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001591$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001591$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300115" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001490$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001490$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300115" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001490$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001490$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300115" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001490$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001490$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300115" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10001490$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10001490$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300116" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001270$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001270$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300116" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001270$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001270$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300116" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001270$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001270$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300116" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:40001270$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:40001270$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300117" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10002362$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10002362$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300117" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10002362$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10002362$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300117" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10002362$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10002362$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300117" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:10002362$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:10002362$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300118" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001261$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001261$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300118" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001261$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001261$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300118" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001261$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001261$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300118" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:20001261$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:20001261$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300119" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:30001005$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:30001005$&quot; 완료' feature="Season1" locale="NA" />
+	<achieve id="22300119" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:30001005$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:30001005$&quot; 완료' feature="Season1" locale="JP" />
+	<achieve id="22300119" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:30001005$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:30001005$&quot; 완료' feature="Season1" locale="TH" />
+	<achieve id="22300119" desc="" complete="" manualDesc='월드 퀘스트 &quot;$quest:30001005$&quot; 완료하기' manualComplete='월드 퀘스트 &quot;$quest:30001005$&quot; 완료' feature="Season1" locale="TW" />
 	<achieve id="22300120" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300120" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300120" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300120" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:10002782$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300121" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300121" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300121" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300121" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002795$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300122" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300122" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300122" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300122" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002800$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300123" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300123" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300123" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300123" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002812$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300124" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300124" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300124" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300124" desc="" complete="" manualDesc='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료하기' manualComplete='에픽 퀘스트  &quot;$quest:10002814$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300125" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002081$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002081$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300125" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002081$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002081$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300125" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002081$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002081$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300125" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002081$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002081$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300126" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002091$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002091$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300126" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002091$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002091$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300126" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002091$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002091$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300126" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002091$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002091$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300127" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002040$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002040$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300127" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002040$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002040$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300127" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002040$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002040$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300127" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002040$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002040$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300128" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002110$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300128" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002110$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300128" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002110$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300128" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002110$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300129" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002140$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002140$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300129" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002140$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002140$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300129" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002140$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002140$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300129" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002140$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002140$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300130" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001110$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300130" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001110$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300130" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001110$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300130" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001110$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001110$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300131" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001200$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001200$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300131" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001200$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001200$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300131" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001200$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001200$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300131" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001200$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001200$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300132" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002011$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002011$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300132" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002011$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002011$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300132" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002011$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002011$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300132" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:20002011$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:20002011$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300133" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002020$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002020$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300133" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002020$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002020$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300133" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002020$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002020$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300133" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:40002020$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:40002020$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300134" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001130$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001130$&quot; 완료' feature="KarkarIsland" locale="NA" />
+	<achieve id="22300134" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001130$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001130$&quot; 완료' feature="KarkarIsland" locale="JP" />
+	<achieve id="22300134" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001130$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001130$&quot; 완료' feature="KarkarIsland" locale="TH" />
+	<achieve id="22300134" desc="" complete="" manualDesc='월드 퀘스트  &quot;$quest:50001130$&quot; 완료하기' manualComplete='월드 퀘스트  &quot;$quest:50001130$&quot; 완료' feature="KarkarIsland" locale="TW" />
 	<achieve id="22300135" desc="" complete="" manualDesc="빛을 잃은 빛의 후예 챕터 완료하기" manualComplete="빛을 잃은 빛의 후예 챕터 완료" feature="KarkarIsland" locale="NA" />
+	<achieve id="22300135" desc="" complete="" manualDesc="빛을 잃은 빛의 후예 챕터 완료하기" manualComplete="빛을 잃은 빛의 후예 챕터 완료" feature="KarkarIsland" locale="JP" />
+	<achieve id="22300135" desc="" complete="" manualDesc="빛을 잃은 빛의 후예 챕터 완료하기" manualComplete="빛을 잃은 빛의 후예 챕터 완료" feature="KarkarIsland" locale="TH" />
+	<achieve id="22300135" desc="" complete="" manualDesc="빛을 잃은 빛의 후예 챕터 완료하기" manualComplete="빛을 잃은 빛의 후예 챕터 완료" feature="KarkarIsland" locale="TW" />
 	<achieve id="22300136" desc="" complete="" manualDesc="하늘의 요새, 최우선 임무 챕터 완료하기" manualComplete="하늘의 요새, 최우선 임무 챕터 완료" feature="FameContents" locale="NA" />
+	<achieve id="22300136" desc="" complete="" manualDesc="하늘의 요새, 최우선 임무 챕터 완료하기" manualComplete="하늘의 요새, 최우선 임무 챕터 완료" feature="FameContents" locale="JP" />
+	<achieve id="22300136" desc="" complete="" manualDesc="하늘의 요새, 최우선 임무 챕터 완료하기" manualComplete="하늘의 요새, 최우선 임무 챕터 완료" feature="FameContents" locale="TH" />
+	<achieve id="22300136" desc="" complete="" manualDesc="하늘의 요새, 최우선 임무 챕터 완료하기" manualComplete="하늘의 요새, 최우선 임무 챕터 완료" feature="FameContents" locale="TW" />
 	<achieve id="22300137" desc="" complete="" manualDesc='에픽 퀘스트 &quot;$quest:50100960$&quot; 완료하기' manualComplete='에픽 퀘스트 &quot;$quest:50100960$&quot; 완료하기' feature="Kritias_Epic01" />
 	<achieve id="22300138" desc="" complete="" manualDesc="미지의 대륙 크리티아스 챕터 완료하기" manualComplete="미지의 대륙 크리티아스 챕터 완료하기" feature="Kritias_Epic01" />
 	<achieve id="22400001" desc="누적 경험치 {0} 획득하기" complete="지금까지 누적 경험치 {0} 획득" manualDesc="" manualComplete="" feature="Season1" />
@@ -1154,7 +1412,13 @@
 	<achieve id="22500046" desc="" complete="" manualDesc="$map:02000422$에서 $npcName:11003536$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02000422$에서 전술 부관 $npcName:11003536$$pp:와,과$ 대화 완료" feature="FameContents" />
 	<achieve id="22500047" desc="" complete="" manualDesc="$map:02000422$에서 $npcName:11003537$에게 말 걸어 깊은 대화 나누기" manualComplete="$map:02000422$에서 신관 기사 $npcName:11003537$$pp:와,과$ 대화 완료" feature="FameContents" />
 	<achieve id="22500048" desc="" complete="다양한 현장 임무 완료" manualDesc="다양한 현장 임무 진행하기" manualComplete="" feature="FameContents" locale="NA" />
+	<achieve id="22500048" desc="" complete="다양한 현장 임무 완료" manualDesc="다양한 현장 임무 진행하기" manualComplete="" feature="FameContents" locale="JP" />
+	<achieve id="22500048" desc="" complete="다양한 현장 임무 완료" manualDesc="다양한 현장 임무 진행하기" manualComplete="" feature="FameContents" locale="TH" />
+	<achieve id="22500048" desc="" complete="다양한 현장 임무 완료" manualDesc="다양한 현장 임무 진행하기" manualComplete="" feature="FameContents" locale="TW" />
 	<achieve id="22500049" desc="" complete="" manualDesc="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료하기" manualComplete="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료" feature="FameChallengeDungeon" locale="NA" />
+	<achieve id="22500049" desc="" complete="" manualDesc="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료하기" manualComplete="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료" feature="FameChallengeDungeon" locale="JP" />
+	<achieve id="22500049" desc="" complete="" manualDesc="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료하기" manualComplete="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료" feature="FameChallengeDungeon" locale="TH" />
+	<achieve id="22500049" desc="" complete="" manualDesc="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료하기" manualComplete="모든 연합 포트리스 럼블 주간 퀘스트 1회씩 완료" feature="FameChallengeDungeon" locale="TW" />
 	<achieve id="22501001" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스 세력 중 하나의 우호도 &quot;보통&quot; 달성' feature="Kritias_2018_12" />
 	<achieve id="22501002" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;높음&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;높음&quot; 달성' feature="Kritias_2018_12" />
 	<achieve id="22501003" desc="" complete="" manualDesc='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;매우 높음&quot; 달성하기' manualComplete='[크리티아스] 스카이 포트리스  세력 중 하나의 우호도 &quot;매우 높음&quot; 달성' feature="Kritias_2018_12" />
@@ -1505,21 +1769,69 @@
 	<achieve id="23100312" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400236$에 앉아보기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400236$에 앉아보기 완료" feature="Season1" />
 	<achieve id="23100313" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400295$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400295$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100314" desc="" complete="" manualDesc="빛나는 황금 물고기 낚아보기" manualComplete="빛나는 황금 물고기를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100314" desc="" complete="" manualDesc="빛나는 황금 물고기 낚아보기" manualComplete="빛나는 황금 물고기를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100314" desc="" complete="" manualDesc="빛나는 황금 물고기 낚아보기" manualComplete="빛나는 황금 물고기를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100314" desc="" complete="" manualDesc="빛나는 황금 물고기 낚아보기" manualComplete="빛나는 황금 물고기를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100315" desc="" complete="" manualDesc="진주조개, 빛나는 황금 조개, 타오르는 진주 낚아보기" manualComplete="진주조개, 빛나는 황금 조개, 타오르는 진주를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100315" desc="" complete="" manualDesc="진주조개, 빛나는 황금 조개, 타오르는 진주 낚아보기" manualComplete="진주조개, 빛나는 황금 조개, 타오르는 진주를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100315" desc="" complete="" manualDesc="진주조개, 빛나는 황금 조개, 타오르는 진주 낚아보기" manualComplete="진주조개, 빛나는 황금 조개, 타오르는 진주를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100315" desc="" complete="" manualDesc="진주조개, 빛나는 황금 조개, 타오르는 진주 낚아보기" manualComplete="진주조개, 빛나는 황금 조개, 타오르는 진주를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100316" desc="" complete="" manualDesc="우파루파, 얼룩 우파루파 낚아보기" manualComplete="우파루파, 얼룩 우파루파를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100316" desc="" complete="" manualDesc="우파루파, 얼룩 우파루파 낚아보기" manualComplete="우파루파, 얼룩 우파루파를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100316" desc="" complete="" manualDesc="우파루파, 얼룩 우파루파 낚아보기" manualComplete="우파루파, 얼룩 우파루파를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100316" desc="" complete="" manualDesc="우파루파, 얼룩 우파루파 낚아보기" manualComplete="우파루파, 얼룩 우파루파를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100317" desc="" complete="" manualDesc="다양한 비단잉어 낚아보기" manualComplete="다양한 비단잉어를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100317" desc="" complete="" manualDesc="다양한 비단잉어 낚아보기" manualComplete="다양한 비단잉어를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100317" desc="" complete="" manualDesc="다양한 비단잉어 낚아보기" manualComplete="다양한 비단잉어를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100317" desc="" complete="" manualDesc="다양한 비단잉어 낚아보기" manualComplete="다양한 비단잉어를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100318" desc="" complete="" manualDesc="다양한 상어 낚아보기" manualComplete="다양한 상어를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100318" desc="" complete="" manualDesc="다양한 상어 낚아보기" manualComplete="다양한 상어를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100318" desc="" complete="" manualDesc="다양한 상어 낚아보기" manualComplete="다양한 상어를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100318" desc="" complete="" manualDesc="다양한 상어 낚아보기" manualComplete="다양한 상어를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100319" desc="" complete="" manualDesc="엔젤 해마, 데빌 해마 낚아보기" manualComplete="엔젤 해마, 데빌 해마를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100319" desc="" complete="" manualDesc="엔젤 해마, 데빌 해마 낚아보기" manualComplete="엔젤 해마, 데빌 해마를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100319" desc="" complete="" manualDesc="엔젤 해마, 데빌 해마 낚아보기" manualComplete="엔젤 해마, 데빌 해마를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100319" desc="" complete="" manualDesc="엔젤 해마, 데빌 해마 낚아보기" manualComplete="엔젤 해마, 데빌 해마를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100320" desc="" complete="" manualDesc="용암에 살고 있는 다양한 물고기 낚아보기" manualComplete="용암에 살고 있는 다양한 물고기를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100320" desc="" complete="" manualDesc="용암에 살고 있는 다양한 물고기 낚아보기" manualComplete="용암에 살고 있는 다양한 물고기를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100320" desc="" complete="" manualDesc="용암에 살고 있는 다양한 물고기 낚아보기" manualComplete="용암에 살고 있는 다양한 물고기를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100320" desc="" complete="" manualDesc="용암에 살고 있는 다양한 물고기 낚아보기" manualComplete="용암에 살고 있는 다양한 물고기를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100321" desc="" complete="" manualDesc="바닷속 현자, 거북이 낚아보기" manualComplete="바닷속 현자, 거북이 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100321" desc="" complete="" manualDesc="바닷속 현자, 거북이 낚아보기" manualComplete="바닷속 현자, 거북이 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100321" desc="" complete="" manualDesc="바닷속 현자, 거북이 낚아보기" manualComplete="바닷속 현자, 거북이 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100321" desc="" complete="" manualDesc="바닷속 현자, 거북이 낚아보기" manualComplete="바닷속 현자, 거북이 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100322" desc="" complete="" manualDesc="독액에 사는 다양한 물고기 낚아보기" manualComplete="독액에 사는 다양한 물고기를 낚음" feature="Fishing" locale="NA" />
+	<achieve id="23100322" desc="" complete="" manualDesc="독액에 사는 다양한 물고기 낚아보기" manualComplete="독액에 사는 다양한 물고기를 낚음" feature="Fishing" locale="JP" />
+	<achieve id="23100322" desc="" complete="" manualDesc="독액에 사는 다양한 물고기 낚아보기" manualComplete="독액에 사는 다양한 물고기를 낚음" feature="Fishing" locale="TH" />
+	<achieve id="23100322" desc="" complete="" manualDesc="독액에 사는 다양한 물고기 낚아보기" manualComplete="독액에 사는 다양한 물고기를 낚음" feature="Fishing" locale="TW" />
 	<achieve id="23100323" desc="" complete="" manualDesc="$item:61000016$, $item:61000019$ 펫 도감 등록하기" manualComplete="$item:61000016$, $item:61000019$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100323" desc="" complete="" manualDesc="$item:61000016$, $item:61000019$ 펫 도감 등록하기" manualComplete="$item:61000016$, $item:61000019$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100323" desc="" complete="" manualDesc="$item:61000016$, $item:61000019$ 펫 도감 등록하기" manualComplete="$item:61000016$, $item:61000019$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100323" desc="" complete="" manualDesc="$item:61000016$, $item:61000019$ 펫 도감 등록하기" manualComplete="$item:61000016$, $item:61000019$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100324" desc="" complete="" manualDesc="$item:61000077$, $item:61000100$ 펫 도감 등록하기" manualComplete="$item:61000077$, $item:61000100$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100324" desc="" complete="" manualDesc="$item:61000077$, $item:61000100$ 펫 도감 등록하기" manualComplete="$item:61000077$, $item:61000100$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100324" desc="" complete="" manualDesc="$item:61000077$, $item:61000100$ 펫 도감 등록하기" manualComplete="$item:61000077$, $item:61000100$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100324" desc="" complete="" manualDesc="$item:61000077$, $item:61000100$ 펫 도감 등록하기" manualComplete="$item:61000077$, $item:61000100$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100325" desc="" complete="" manualDesc="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록하기" manualComplete="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100325" desc="" complete="" manualDesc="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록하기" manualComplete="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100325" desc="" complete="" manualDesc="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록하기" manualComplete="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100325" desc="" complete="" manualDesc="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록하기" manualComplete="$item:61000018$, $item:61000097$, $item:61000047$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100326" desc="" complete="" manualDesc="$item:61000007$ 펫 도감 등록하기" manualComplete="$item:61000007$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100326" desc="" complete="" manualDesc="$item:61000007$ 펫 도감 등록하기" manualComplete="$item:61000007$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100326" desc="" complete="" manualDesc="$item:61000007$ 펫 도감 등록하기" manualComplete="$item:61000007$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100326" desc="" complete="" manualDesc="$item:61000007$ 펫 도감 등록하기" manualComplete="$item:61000007$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100327" desc="" complete="" manualDesc="$item:61100050$ 펫 도감 등록하기" manualComplete="$item:61100050$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100327" desc="" complete="" manualDesc="$item:61100050$ 펫 도감 등록하기" manualComplete="$item:61100050$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100327" desc="" complete="" manualDesc="$item:61100050$ 펫 도감 등록하기" manualComplete="$item:61100050$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100327" desc="" complete="" manualDesc="$item:61100050$ 펫 도감 등록하기" manualComplete="$item:61100050$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100328" desc="" complete="" manualDesc="$item:61000079$ 펫 도감 등록하기" manualComplete="$item:61000079$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100328" desc="" complete="" manualDesc="$item:61000079$ 펫 도감 등록하기" manualComplete="$item:61000079$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100328" desc="" complete="" manualDesc="$item:61000079$ 펫 도감 등록하기" manualComplete="$item:61000079$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100328" desc="" complete="" manualDesc="$item:61000079$ 펫 도감 등록하기" manualComplete="$item:61000079$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100329" desc="" complete="" manualDesc="$item:61200001$ 펫 도감 등록하기" manualComplete="$item:61200001$ 펫 도감 등록" feature="PetBattle" locale="NA" />
+	<achieve id="23100329" desc="" complete="" manualDesc="$item:61200001$ 펫 도감 등록하기" manualComplete="$item:61200001$ 펫 도감 등록" feature="PetBattle" locale="JP" />
+	<achieve id="23100329" desc="" complete="" manualDesc="$item:61200001$ 펫 도감 등록하기" manualComplete="$item:61200001$ 펫 도감 등록" feature="PetBattle" locale="TH" />
+	<achieve id="23100329" desc="" complete="" manualDesc="$item:61200001$ 펫 도감 등록하기" manualComplete="$item:61200001$ 펫 도감 등록" feature="PetBattle" locale="TW" />
 	<achieve id="23100330" desc="채광으로 숙련도 {0}단계까지 올리기" complete="" manualDesc="" manualComplete="채광으로 숙련도 15단계까지 올리기 완료" feature="Mastery06" />
 	<achieve id="23100331" desc="축산으로 숙련도 {0}단계까지 올리기" complete="" manualDesc="" manualComplete="축산으로 숙련도 15단계까지 올리기 완료" feature="Mastery06" />
 	<achieve id="23100332" desc="대장으로 숙련도 {0}단계까지 올리기" complete="" manualDesc="" manualComplete="대장으로 숙련도 15단계까지 올리기 완료" feature="Mastery06" />
@@ -1540,7 +1852,7 @@
 	<achieve id="23100347" desc="낚시로 활어 {0}마리 낚기" complete="낚시로 활어 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100348" desc="" complete="" manualDesc="낚시꾼 상점에서 $item:32000054$ 구입하기" manualComplete="낚시꾼 상점에서 $item:332000054$ 구입하기 완료" feature="Fishing02" />
 	<achieve id="23100349" desc="낚시로 블루 엔젤 피쉬 {0}마리 낚기" complete="낚시로 블루 엔젤 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
-	<achieve id="23100350" desc="낚시로 블루밍 플라위 피쉬 {0}마리 낚기" complete="낚시로 블루밍 플라위 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100350" desc="낚시로 블루밍 플라워 피쉬 {0}마리 낚기" complete="낚시로 블루밍 플라워 피쉬 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100351" desc="낚시로 블루 젤리 새우 월척 {0}회 낚기" complete="낚시로 블루 젤리 새우 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100352" desc="낚시로 에네르 피쉬 {0}마리 낚기" complete="낚시로 에네르 {0}마리 낚음!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100353" desc="큰북 연주로 숙련도 {0}까지 올리기" complete="큰북 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" feature="DrumInstrument" />
@@ -1562,7 +1874,7 @@
 	<achieve id="23100369" desc="크리티아스 서식 어종 금메달 수집하기 (쏘우 헤드, 테일 헤드, 캐슬 피쉬 제외)" complete="크리티아스에 서식 어종 금메달 수집 완료!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100370" desc="" complete="" manualDesc="낚시로 해산물 낚시 스킨 무기 낚기" manualComplete="낚시로 해산물 낚시 스킨 무기 낚기 성공!" feature="Fishing02" />
 	<achieve id="23100371" desc="분홍 점박이 해파리를 대형으로 낚아 금메달 획득하기" complete="분홍 점박이 해파리를 대형으로 낚아 금메달 획득" manualDesc="" manualComplete="" feature="Fishing02" />
-	<achieve id="23100372" desc="낚시 상점에서 낚시꾼 스킨 종류별로 {0}개 구입하기" complete="낚시 상점에서 낚시꾼 스킨 종류별로 {0}개 구입 완료!" manualDesc="" manualComplete="" feature="Fishing02" />
+	<achieve id="23100372" desc="낚시 상점에서 포로롱 문어 스킨 구입하기" complete="낚시 상점에서 포로롱 문어 스킨 구입 완료!" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100373" desc="낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기" complete="낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Fishing02" />
 	<achieve id="23100374" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400312$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400312$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100375" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400313$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400313$ 사용하기 완료" feature="Season1" />
@@ -1573,6 +1885,14 @@
 	<achieve id="23100380" desc="$item:61000163$, $item:61000166$ 각각 획득하기" complete="$item:61000163$, $item:61000166$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
 	<achieve id="23100381" desc="$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득하기" complete="$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
 	<achieve id="23100382" desc="$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득하기" complete="$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득 완료" manualDesc="" manualComplete="" feature="Pet_70Lv_Taming" />
+	<achieve id="23100383" desc="노멀 등급의 펫 {0} 마리를 레어 등급으로 진화 시키기" complete="노멀 등급의 펫 {0} 마리를 레어 등급으로 진화 시키기 완료" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100384" desc="레어 등급의 펫 {0} 마리를 엘리트 등급으로 진화 시키기" complete="레어 등급의 펫 {0} 마리를 엘리트 등급으로 진화 시키기" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100385" desc="엘리트 등급의 펫 {0} 마리를 엑설런트 등급으로 진화 시키기" complete="엘리트 등급의 펫 {0} 마리를 엑설런트 등급으로 진화 시키기" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100386" desc="엑설런트 등급의 펫 {0} 마리를 레전더리 등급으로 진화 시키기" complete="엑설런트 등급의 펫 {0} 마리를 레전더리 등급으로 진화 시키기" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100387" desc="노멀 등급의 펫 진화 게이지 {0}회 올리기" complete="노멀 등급의 펫 진화 게이지 {0}회 올리기 완료" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100388" desc="레어 등급의 펫 진화 게이지 {0}회 올리기" complete="레어 등급의 펫 진화 게이지 {0}회 올리기 완료" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100389" desc="엘리트 등급의 펫 진화 게이지 {0}회 올리기" complete="엘리트 등급의 펫 진화 게이지 {0}회 올리기 완료" manualDesc="" manualComplete="" feature="PetEvolution01" />
+	<achieve id="23100390" desc="엑설런트 등급의 펫 진화 게이지 {0}회 올리기" complete="엑설런트 등급의 펫 진화 게이지 {0}회 올리기 완료" manualDesc="" manualComplete="" feature="PetEvolution01" />
 	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200002" desc="택시 요금으로 {0}메소 사용하기" complete="지금까지 택시 요금으로 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200004" desc="상점에서 아이템 구입하는데 {0}메소 사용하기" complete="지금까지 상점에서 아이템 구입하는데 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
@@ -1676,6 +1996,9 @@
 	<achieve id="23300065" desc="" complete="" manualDesc="$item:50600221$ 수집하기" manualComplete="$item:50600221$ 수집" />
 	<achieve id="23300066" desc="" complete="" manualDesc="$item:50600217$ 수집하기" manualComplete="$item:50600217$ 수집" feature="KarmaTokenItem01" />
 	<achieve id="23300067" desc="" complete="" manualDesc="$item:50600022$, $item:50600024$ 수집하기" manualComplete="$item:50600022$, $item:50600024$ 수집" feature="Season1" locale="NA" />
+	<achieve id="23300067" desc="" complete="" manualDesc="$item:50600022$, $item:50600024$ 수집하기" manualComplete="$item:50600022$, $item:50600024$ 수집" feature="Season1" locale="JP" />
+	<achieve id="23300067" desc="" complete="" manualDesc="$item:50600022$, $item:50600024$ 수집하기" manualComplete="$item:50600022$, $item:50600024$ 수집" feature="Season1" locale="TH" />
+	<achieve id="23300067" desc="" complete="" manualDesc="$item:50600022$, $item:50600024$ 수집하기" manualComplete="$item:50600022$, $item:50600024$ 수집" feature="Season1" locale="TW" />
 	<achieve id="23300068" desc="" complete="" manualDesc="$item:50600247$ 수집하기" manualComplete="$item:50600247$ 수집" feature="LapentaDungeon" />
 	<achieve id="23300069" desc="" complete="" manualDesc="$item:40400071$ 수집하기" manualComplete="$item:40400071$ 수집" feature="LapentaDungeon" />
 	<achieve id="23300070" desc="" complete="" manualDesc="$item:50600302$ 수집하기" manualComplete="$item:50600302$ 수집" feature="Kritias_2018_12" />
@@ -1731,6 +2054,7 @@
 	<achieve id="23400050" desc="$item:20001150$ {0}회 획득하기" complete="지금까지 $item:20001150$ {0}회 획득" manualDesc="" manualComplete="" locale="KR" />
 	<achieve id="23400051" desc="$item:20001294$ {0}회 획득하기" complete="지금까지 $item:20001294$ {0}회 획득" manualDesc="" manualComplete="" locale="CN" />
 	<achieve id="23400052" desc="$item:20001151$ {0}회 획득하기" complete="지금까지 $item:20001151$ {0}회 획득" manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="23400053" desc="" complete="" manualDesc="이벤트 기간 내 블루프린트 1회 제작해보기" manualComplete="이벤트 기간 내 블루프린트 1회 제작" feature="Blueprint" locale="CN" />
 	<achieve id="23500001" desc="" complete="" manualDesc="대지형 부동산 계약하기" manualComplete="대지형 부동산 계약 완료" feature="Season1" />
 	<achieve id="23500003" desc="부동산 계약 {0}번 연장하기" complete="지금까지 부동산 계약 {0}번 연장" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23500004" desc="" complete="" manualDesc="$item:50400035$ 또는 $item:50400036$ 내 집에 설치해보기" manualComplete="$item:50400035$ 또는 $item:50400036$ 내 집에 설치 완료" feature="Season1" />
@@ -1806,9 +2130,12 @@
 	<achieve id="92000008" desc="$item:20300618$ 5개 획득하기" complete="$item:20300618$ 5개 획득" manualDesc="" manualComplete="" feature="Season1" locale="KR" />
 	<achieve id="92000009" desc="" complete="" manualDesc='&quot;용족의 발자취, 암흑의 숨결&quot; 퀘스트 완료하기' manualComplete='&quot;용족의 발자취, 암흑의 숨결&quot; 퀘스트 완료!' feature="Season1" />
 	<achieve id="92000010" desc="" complete="" manualDesc='&quot;드러난 마드리아의 성&quot; 퀘스트 완료하기' manualComplete='&quot;드러난 마드리아의 성&quot; 퀘스트 완료!' feature="Season1" />
-	<achieve id="92000011" desc="$item:20300637$ 3개 획득하기" complete="$item:20300637$ 3개 획득" manualDesc="" manualComplete="" feature="Season1" />
-	<achieve id="92000012" desc="$item:20300637$ 5개 획득하기" complete="$item:20300637$ 5개 획득" manualDesc="" manualComplete="" feature="Season1" />
-	<achieve id="92000013" desc="$item:20300637$ 10개 획득하기" complete="$item:20300637$ 10개 획득" manualDesc="" manualComplete="" feature="Season1" />
+	<achieve id="92000011" desc="$item:20300637$ 3개 획득하기" complete="$item:20300637$ 3개 획득" manualDesc="" manualComplete="" feature="Season1" locale="KR" />
+	<achieve id="92000012" desc="$item:20300637$ 5개 획득하기" complete="$item:20300637$ 5개 획득" manualDesc="" manualComplete="" feature="Season1" locale="KR" />
+	<achieve id="92000013" desc="$item:20300637$ 10개 획득하기" complete="$item:20300637$ 10개 획득" manualDesc="" manualComplete="" feature="Season1" locale="KR" />
+	<achieve id="92000011" desc="$item:20300637$ 5개 획득하기" complete="$item:20300637$ 5개 획득" manualDesc="" manualComplete="" feature="Event" locale="NA" />
+	<achieve id="92000012" desc="$item:20300637$ 10개 획득하기" complete="$item:20300637$ 10개 획득" manualDesc="" manualComplete="" feature="Event" locale="NA" />
+	<achieve id="92000013" desc="$item:20300637$ 15개 획득하기" complete="$item:20300637$ 15개 획득" manualDesc="" manualComplete="" feature="Event" locale="NA" />
 	<achieve id="92000014" desc="" complete="" manualDesc="OX 퀴즈에 가장 많이 참여한 사람 200위 안에 들기" manualComplete="OX 퀴즈에 가장 많이 참여한 사람 200위 안에 들기" feature="Season1" locale="CN" />
 	<achieve id="92000015" desc="" complete="" manualDesc="$item:20000471$ 열어보기" manualComplete="$item:20000471$ 열어보기" feature="Season3" locale="CN" />
 	<achieve id="92000016" desc="낚시로 월척 {0}회 낚기" complete="낚시로 월척 {0}회 낚기 성공" manualDesc="" manualComplete="" feature="Season1" />
@@ -1930,4 +2257,8 @@
 	<achieve id="92000132" desc='&quot;$item:20302275$&quot; 15개 열기' complete='&quot;$item:20302275$&quot; 15개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="92000133" desc='&quot;$item:20302275$&quot; 35개 열기' complete='&quot;$item:20302275$&quot; 35개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="92000134" desc='&quot;$item:20302275$&quot; 50개 열기' complete='&quot;$item:20302275$&quot; 50개 열기 완료' manualDesc="" manualComplete="" locale="NA" />
+	<achieve id="92000135" desc="윈터 가위바위보 이벤트에서 승리 20회 달성하기" complete="윈터 가위바위보 이벤트에서 승리 20회 달성" manualDesc="" manualComplete="" feature="Event" locale="KR" />
+	<achieve id="92000136" desc="윈터 가위바위보 이벤트에서 무승부 20회 달성하기" complete="윈터 가위바위보 이벤트에서 무승부 20회 달성" manualDesc="" manualComplete="" feature="Event" locale="KR" />
+	<achieve id="92000137" desc="윈터 가위바위보 이벤트에서 패배 20회 달성하기" complete="윈터 가위바위보 이벤트에서 패배 20회 달성" manualDesc="" manualComplete="" feature="Event" locale="KR" />
+	<achieve id="92000138" desc="술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료하기" complete="술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료" manualDesc="" manualComplete="" feature="Event" locale="KR" />
 </ms2>

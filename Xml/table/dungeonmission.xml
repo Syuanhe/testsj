@@ -163,6 +163,20 @@
 	<DungeonMission id="23023003" feature="PinkBean01" type="DeathCount" maxScore="520" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23023004" feature="PinkBean01" type="DamageBySkill" value1="50001205" maxScore="120" applyCount="5" isPenaltyType="1" />
 	<DungeonMission id="23023005" feature="PinkBean01" type="DamageBySkill" value1="99999816" maxScore="60" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23024000" feature="Kritias_Zakum01" type="LastHitNpc" value1="23000072,23000073" maxScore="1440" applyCount="1" />
+	<DungeonMission id="23024001" feature="Kritias_Zakum01" type="PlayTime" value1="0" value2="300" maxScore="480" />
+	<DungeonMission id="23024002" feature="Kritias_Zakum01" type="PlayTime" value1="0" value2="600" maxScore="240" />
+	<DungeonMission id="23024003" feature="Kritias_Zakum01" type="DeathCount" maxScore="240" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23024004" feature="Kritias_Zakum01" type="LastHitNpc" value1="23000072,23000073" maxScore="750" applyCount="1" />
+	<DungeonMission id="23024005" feature="Kritias_Zakum01" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23024006" feature="Kritias_Zakum01" type="PlayTime" value1="0" value2="600" maxScore="250" />
+	<DungeonMission id="23025000" feature="Kritias_Inferno01" type="LastHitNpc" value1="23000150,23000151" maxScore="1440" applyCount="1" />
+	<DungeonMission id="23025001" feature="Kritias_Inferno01" type="PlayTime" value1="0" value2="300" maxScore="480" />
+	<DungeonMission id="23025002" feature="Kritias_Inferno01" type="PlayTime" value1="0" value2="600" maxScore="240" />
+	<DungeonMission id="23025003" feature="Kritias_Inferno01" type="DeathCount" maxScore="240" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23025004" feature="Kritias_Inferno01" type="LastHitNpc" value1="23000150,23000151" maxScore="750" applyCount="1" />
+	<DungeonMission id="23025005" feature="Kritias_Inferno01" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23025006" feature="Kritias_Inferno01" type="PlayTime" value1="0" value2="600" maxScore="250" />
 	<DungeonMission id="24090001" feature="CrimsonBalrog01" type="DamageToNpc" value1="2400000000" value2="23000090" maxScore="125" />
 	<DungeonMission id="24090002" feature="CrimsonBalrog01" type="DamageToNpc" value1="2000000000" value2="23000090" maxScore="130" />
 	<DungeonMission id="24090003" feature="CrimsonBalrog01" type="Trigger" maxScore="410" />

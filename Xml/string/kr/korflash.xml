@@ -123,6 +123,7 @@
 	<key id="$s_inventory_tab_badge" value="배지" />
 	<key id="$s_inventory_tab_survival" value="참가자 전용" feature="SurvivalContents01" />
 	<key id="$s_inventory_tab_lapenshard" value="라펜샤드" feature="Lapenshard01" />
+	<key id="$s_inventory_tab_piece" value="조각" feature="InventoryPieceTab" />
 	<key id="$s_inventory_meso_drop" value="메소버리기" />
 	<key id="$s_inventory_range" value="자동정렬" />
 	<key id="$s_inventory_item_option" value="자동줍기" />
@@ -511,6 +512,7 @@
 	<key id="$s_gamemenu_btn_lapenshard" value="라펜샤드" feature="Lapenshard01" />
 	<key id="$s_gamemenu_btn_MeratCharge" value="메럿 충전샵" />
 	<key id="$s_gamemenu_btn_pssbshop" value="스타일 코인샵" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="마법 더하기" />
 	<key id="$s_gamemenu_btn_demolish" value="실내 비우기" />
 	<key id="$s_gamemenu_btn_construct" value="건설 시작하기" />
 	<key id="$s_gamemenu_btn_normal" value="건설 종료하기" />
@@ -990,6 +992,7 @@
 	<key id="$s_tooltip_inven_badge" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n배지 아이템을 보관합니다." />
 	<key id="$s_tooltip_inven_survival" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;참가자 전용&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n머쉬킹 챔피언십 참가만 사용할 수 있는 아이템을 보관합니다." feature="SurvivalContents01" />
 	<key id="$s_tooltip_inven_lapenshard" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;라펜샤드&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n라펜샤드 아이템을 보관합니다." feature="Lapenshard01" />
+	<key id="$s_tooltip_inven_piece" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;조각&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템 조각을 보관합니다." feature="InventoryPieceTab" />
 	<key id="$s_tooltip_inven_skill" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스킬&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n스킬 아이템을 보관합니다." />
 	<key id="$s_tooltip_inven_construct" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;건설&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n건설 아이템을 보관합니다." />
 	<key id="$s_tooltip_inven_etc" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;기타&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n소비, 기타 아이템을 보관합니다." />
@@ -2372,6 +2375,12 @@
 	<key id="$s_petsystem_remakeoption_cur_randomoption" value="현재 추가 능력" feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_final_randomoption" value="변경된 추가 능력" feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_select_option" value="추가 능력을 선택하지 않으면 새로운 추가 능력이 적용됩니다." feature="PetRemake01" />
+	<key id="$s_petsystem_evolution_title1" value="진화 시킬 전투펫" feature="PetEvolution01" />
+	<key id="$s_petsystem_evolution_title2" value="재료로 사용할 펫 또는 재료" feature="PetEvolution01" />
+	<key id="$s_petsystem_evolution_evolution" value="성장 레벨이 최대인 펫을\n다음 등급으로 전화 시킬 수 있습니다." feature="PetEvolution01" />
+	<key id="$s_petsystem_evolution_selected" value="진화 시킬 펫을 선택하세요." feature="PetEvolution01" />
+	<key id="$s_petsystem_evolution_cost" value="진화 비용:" feature="PetEvolution01" />
+	<key id="$s_petsystem_evolution_button" value="진화" feature="PetEvolution01" />
 	<key id="$s_item_enchant_transform_title" value="인챈트 주문서로 교환 가능한 장비\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;* 장착 중인 장비는 교환 불가능 합니다.&lt;/FONT&gt;" feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_msg" value="인챈트 된 장비를 인챈트 주문서로 변환합니다." feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_selected" value="인챈트 주문서로 변환할 장비를 선택하세요." feature="EnchantTransform01" />
@@ -2912,7 +2921,7 @@
 	<key id="$s_ugc_expand" value="확장하기" />
 	<key id="$s_ugc_cube_btn_buy" value="구매 및 적용하기" />
 	<key id="$s_ugc_cube_bill_title_calculate" value="견적서" />
-	<key id="$s_ugc_meso" value="메소" />
+	<key id="$s_ugc_meso" value="메소 합계" />
 	<key id="$s_ugc_redmerat" value="레드메럿" />
 	<key id="$s_ugc_merat" value="메럿 합계" />
 	<key id="$s_ugc_interiorlevel" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;현재 인테리어 단계&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 나의 인테리어 단계를 확인할 수 있습니다.\n인테리어 단계가 올랐다면 버튼을 클릭해보세요.\n생활 기술 창이 열리고 인테리어 단계 달성 선물을 받을 수 있습니다." />
@@ -3313,4 +3322,9 @@
 	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 제작하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 꾸며진 모습을 블루프린트 아이템으로 제작할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 샵&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자이너스 샵의 판매 중인 블루프린트를 확인할 수 있습니다." feature="BlueprintMarket" />
 	<key id="$s_sidepopup_fieldwar_enter" value="입장하기" feature="" />
+	<key id="$s_collect_item_group_event_dialog_title" value="마법 더하기 " feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* 세 가지 아이템을 모두 얻은 후 [더하기 보상 받기]를 누르면 보상을 받을 수 있습니다." feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템이 사라지는 것은 아닙니다." feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="출석체크 + 가위바위보 + 글자 모으기를 모두 완료하세요. 보상품을 모두 모으면 더하기 아이템을 추가로 받으실 수 있어요!" feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_recieve_button" value="더하기 보상 받기" feature="Event" />
 </ms2>

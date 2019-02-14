@@ -151,6 +151,12 @@
 	<chapter id="8149" name="꼬마 호박 악마 펌키" isTutorial="" regionID="" />
 	<chapter id="8150" name="칠면조의 습격!" isTutorial="" regionID="" />
 	<chapter id="8151" name="아기 복돼지에게 자유를" isTutorial="" regionID="" />
+	<chapter id="8152" name="술래잡기, 오늘의 짝꿍" isTutorial="" regionID="" feature="Event" />
+	<chapter id="8153" name="글자 모으기 1주차" isTutorial="" regionID="" feature="Event" />
+	<chapter id="8154" name="글자 모으기 2주차" isTutorial="" regionID="" feature="Event" />
+	<chapter id="8155" name="글자 모으기 3주차" isTutorial="" regionID="" feature="Event" />
+	<chapter id="8156" name="글자 모으기 4주차" isTutorial="" regionID="" feature="Event" />
+	<chapter id="8157" name="GM을 찾아라!" isTutorial="" regionID="" feature="Event" />
 	<chapter id="8989" name="슈반다의 크리스마스 갤러리" isTutorial="" regionID="" />
 	<chapter id="8990" name="할로윈 스탬프" isTutorial="" regionID="" />
 	<chapter id="8991" name="달토끼 스탬프" isTutorial="" regionID="" />

@@ -8,6 +8,9 @@
 	<systemSound key="select_confirm" group="MS2Sound/Sound/system" soundID="02100233" />
 	<systemSound key="pet_eatFood" group="MS2Sound/Sound/system" soundID="02100203" />
 	<systemSound key="pet_eatFoodSuccess" group="MS2Sound/Sound/system" soundID="02100204" />
+	<systemSound key="pet_Button_Click" group="MS2Sound/Sound/system" soundID="02100320" />
+	<systemSound key="pet_Evolution_Success" group="MS2Sound/Sound/system" soundID="02100319" />
+	<systemSound key="pet_Evolution_Success02" group="MS2Sound/Sound/system" soundID="02100321" />
 	<systemSound key="quest_pipe_01" group="MS2Sound/Sound/system" soundID="02100072" />
 	<systemSound key="button_over" group="MS2Sound/Sound/system" soundID="" />
 	<systemSound key="button_click" group="MS2Sound/Sound/system" soundID="02000002" />

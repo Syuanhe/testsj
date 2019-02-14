@@ -35,68 +35,14 @@
     <state name="몬스터사망_1" >
 		<onEnter>			
 		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_01"  >	
-					<transition state="몬스터사망_2"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>	
+      <condition name="AnyOne">
+      <group>
+            <condition name="NpcIsDeadByStringID" stringID="Gigantika_01" />
+            <condition name="UserValue" key="End" value="3" /> 
+      </group>
+            <transition state="종료"/>
+      </condition>		
 				
-    </state>	
-
-    <state name="몬스터사망_2" >
-		<onEnter>		
-		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_02"  >	
-					<transition state="몬스터사망_3"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>					
-    </state>	
-
-    <state name="몬스터사망_3" >
-		<onEnter>		
-		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_03"  >	
-					<transition state="몬스터사망_4"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>					
-    </state>	
-
-    <state name="몬스터사망_4" >
-		<onEnter>		
-		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_04"  >	
-					<transition state="몬스터사망_5"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>					
-    </state>	
-
-    <state name="몬스터사망_5" >
-		<onEnter>		
-		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_05"  >	
-					<transition state="몬스터사망_6"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>					
-    </state>	
-
-    <state name="몬스터사망_6" >
-		<onEnter>		
-		</onEnter>	
-				<condition name="NpcIsDeadByStringID" stringID="Gigantika_06"  >	
-					<transition state="종료"/>	
-				</condition>				
-                <condition name="UserValue" key="End" value="3">
-					<transition state="종료"/>	
-				</condition>					
     </state>		
 
     <state name="종료" >

@@ -5017,12 +5017,6 @@
 	</preview>
 	<preview id="29003001">
 		<item itemID="30000869" grade="4" />
-		<item itemID="11900120" grade="6" />
-		<item itemID="11900121" grade="6" />
-		<item itemID="11900122" grade="6" />
-		<item itemID="11900123" grade="6" />
-		<item itemID="11900124" grade="6" />
-		<item itemID="11900125" grade="6" />
 	</preview>
 	<preview id="20007001">
 		<item itemID="13100219" grade="4" reqJobs="070" />
@@ -5442,6 +5436,8 @@
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="20300633" grade="1" />
+		<item itemID="61120149 " grade="4" feature="Pet_Infernog" />
+		<item itemID="61100149 " grade="3" feature="Pet_Infernog" />
 	</preview>
 	<preview id="24091005">
 		<item itemID="30000925" grade="1" feature="FameContents" />
@@ -6059,6 +6055,7 @@
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="20000027" grade="1" />
+		<item itemID="20000026" grade="1" />
 		<item itemID="61120139" grade="4" feature="Pet_60Lv" />
 		<item itemID="61100139" grade="3" feature="Pet_60Lv" />
 	</preview>
@@ -6140,6 +6137,7 @@
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="20000027" grade="1" />
+		<item itemID="20000026" grade="1" />
 		<item itemID="61120138" grade="4" feature="Pet_60Lv" />
 		<item itemID="61100138" grade="3" feature="Pet_60Lv" />
 	</preview>
@@ -6231,6 +6229,7 @@
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="20000027" grade="1" />
+		<item itemID="20000026" grade="1" />
 		<item itemID="61120140" grade="4" feature="Pet_60Lv" />
 		<item itemID="61100140" grade="3" feature="Pet_60Lv" />
 	</preview>
@@ -6420,12 +6419,218 @@
 		<item itemID="61100147" grade="3" feature="Pet_70Lv_Boss" />
 	</preview>
 	<preview id="23038002">
-		<item itemID="11900120" grade="4" />
-		<item itemID="11900121" grade="4" />
-		<item itemID="11900122" grade="4" />
-		<item itemID="11900123" grade="4" />
-		<item itemID="11900124" grade="4" />
-		<item itemID="11900125" grade="4" />
+		<item itemID="13100308" grade="4" reqJobs="070" />
+		<item itemID="13400301" grade="4" reqJobs="080" />
+		<item itemID="15000307" grade="4" reqJobs="020" />
+		<item itemID="15200306" grade="4" reqJobs="030" />
+		<item itemID="15100299" grade="4" reqJobs="050" />
+		<item itemID="15300302" grade="4" reqJobs="060" />
+		<item itemID="15400288" grade="4" reqJobs="090" feature="RuneBlader" />
+		<item itemID="15500220" grade="4" reqJobs="100" feature="Striker" />
+		<item itemID="15600222" grade="4" reqJobs="110" feature="SoulBinder" />
+		<item itemID="13200303" grade="4" reqJobs="010" />
+		<item itemID="14100273" grade="4" reqJobs="010" />
+		<item itemID="13300302" grade="4" reqJobs="040" />
+		<item itemID="14000264" grade="4" reqJobs="040" />
+		<item itemID="13100309" grade="4" reqJobs="070" />
+		<item itemID="13400302" grade="4" reqJobs="080" />
+		<item itemID="15000308" grade="4" reqJobs="020" />
+		<item itemID="15200307" grade="4" reqJobs="030" />
+		<item itemID="15100300" grade="4" reqJobs="050" />
+		<item itemID="15300303" grade="4" reqJobs="060" />
+		<item itemID="15400289" grade="4" reqJobs="090" feature="RuneBlader" />
+		<item itemID="15500221" grade="4" reqJobs="100" feature="Striker" />
+		<item itemID="15600223" grade="4" reqJobs="110" feature="SoulBinder" />
+		<item itemID="13200304" grade="4" reqJobs="010" />
+		<item itemID="14100274" grade="4" reqJobs="010" />
+		<item itemID="14000265" grade="4" reqJobs="040" />
+		<item itemID="13300303" grade="4" reqJobs="040" />
+		<item itemID="12100112" grade="4" />
+		<item itemID="36000433" grade="4" />
+		<item itemID="36000434" grade="4" />
+		<item itemID="36000435" grade="4" />
+		<item itemID="42000671" grade="3" reqJobs="010" />
+		<item itemID="42000681" grade="3" reqJobs="020" />
+		<item itemID="42000691" grade="3" reqJobs="030" />
+		<item itemID="42000701" grade="3" reqJobs="040" />
+		<item itemID="42000711" grade="3" reqJobs="050" />
+		<item itemID="42000721" grade="3" reqJobs="060" />
+		<item itemID="42000731" grade="3" reqJobs="070" />
+		<item itemID="42000741" grade="3" reqJobs="080" />
+		<item itemID="42000751" grade="3" reqJobs="090" />
+		<item itemID="42000761" grade="3" reqJobs="100" />
+		<item itemID="42000771" grade="3" reqJobs="110" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" />
+		<item itemID="33000280" grade="4" />
+		<item itemID="20000027" grade="1" />
+		<item itemID="61100144" grade="3" feature="Pet_70Lv_Boss" />
+	</preview>
+	<preview id="23041003">
+		<item itemID="36000438" grade="5" />
+		<item itemID="36000439" grade="5" />
+		<item itemID="12000111" grade="4" />
+		<item itemID="36000436" grade="4" />
+		<item itemID="36000437" grade="4" />
+		<item itemID="36000433" grade="4" />
+		<item itemID="36000434" grade="4" />
+		<item itemID="36000435" grade="4" />
+		<item itemID="36000450" grade="3" reqJobs="010" />
+		<item itemID="36000451" grade="3" reqJobs="020" />
+		<item itemID="36000452" grade="3" reqJobs="030" />
+		<item itemID="36000453" grade="3" reqJobs="040" />
+		<item itemID="36000454" grade="3" reqJobs="050" />
+		<item itemID="36000455" grade="3" reqJobs="060" />
+		<item itemID="36000456" grade="3" reqJobs="070" />
+		<item itemID="36000457" grade="3" reqJobs="080" />
+		<item itemID="36000458" grade="3" reqJobs="090" feature="RuneBlader" />
+		<item itemID="36000459" grade="3" reqJobs="100" feature="Striker" />
+		<item itemID="36000460" grade="3" reqJobs="110" feature="SoulBinder" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000027" grade="1" />
+		<item itemID="20000026" grade="1" />
+	</preview>
+	<preview id="23040003">
+		<item itemID="11401119" grade="5" reqJobs="010" />
+		<item itemID="11401120" grade="5" reqJobs="020" />
+		<item itemID="11401121" grade="5" reqJobs="030" />
+		<item itemID="11401122" grade="5" reqJobs="040" />
+		<item itemID="11401123" grade="5" reqJobs="050" />
+		<item itemID="11401124" grade="5" reqJobs="060" />
+		<item itemID="11401125" grade="5" reqJobs="070" />
+		<item itemID="11401126" grade="5" reqJobs="080" />
+		<item itemID="11401127" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="11401128" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="11401129" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="11501012" grade="5" reqJobs="010" />
+		<item itemID="11501013" grade="5" reqJobs="020" />
+		<item itemID="11501014" grade="5" reqJobs="030" />
+		<item itemID="11501015" grade="5" reqJobs="040" />
+		<item itemID="11501016" grade="5" reqJobs="050" />
+		<item itemID="11501017" grade="5" reqJobs="060" />
+		<item itemID="11501018" grade="5" reqJobs="070" />
+		<item itemID="11501019" grade="5" reqJobs="080" />
+		<item itemID="11501020" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="11501021" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="11501022" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="11401130" grade="5" reqJobs="010" />
+		<item itemID="11401131" grade="5" reqJobs="020" />
+		<item itemID="11401132" grade="5" reqJobs="030" />
+		<item itemID="11401133" grade="5" reqJobs="040" />
+		<item itemID="11401134" grade="5" reqJobs="050" />
+		<item itemID="11401135" grade="5" reqJobs="060" />
+		<item itemID="11401136" grade="5" reqJobs="070" />
+		<item itemID="11401137" grade="5" reqJobs="080" />
+		<item itemID="11401138" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="11401139" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="11401140" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="11501023" grade="5" reqJobs="010" />
+		<item itemID="11501024" grade="5" reqJobs="020" />
+		<item itemID="11501025" grade="5" reqJobs="030" />
+		<item itemID="11501026" grade="5" reqJobs="040" />
+		<item itemID="11501027" grade="5" reqJobs="050" />
+		<item itemID="11501028" grade="5" reqJobs="060" />
+		<item itemID="11501029" grade="5" reqJobs="070" />
+		<item itemID="11501030" grade="5" reqJobs="080" />
+		<item itemID="11501031" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="11501032" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="11501033" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="12000111" grade="4" />
+		<item itemID="36000436" grade="4" />
+		<item itemID="36000437" grade="4" />
+		<item itemID="36000433" grade="4" />
+		<item itemID="36000434" grade="4" />
+		<item itemID="36000435" grade="4" />
+		<item itemID="36000450" grade="3" reqJobs="010" />
+		<item itemID="36000451" grade="3" reqJobs="020" />
+		<item itemID="36000452" grade="3" reqJobs="030" />
+		<item itemID="36000453" grade="3" reqJobs="040" />
+		<item itemID="36000454" grade="3" reqJobs="050" />
+		<item itemID="36000455" grade="3" reqJobs="060" />
+		<item itemID="36000456" grade="3" reqJobs="070" />
+		<item itemID="36000457" grade="3" reqJobs="080" />
+		<item itemID="36000458" grade="3" reqJobs="090" feature="RuneBlader" />
+		<item itemID="36000459" grade="3" reqJobs="100" feature="Striker" />
+		<item itemID="36000460" grade="3" reqJobs="110" feature="SoulBinder" />
+		<item itemID="61120146" grade="4" feature="Pet_70Lv_Boss" />
+		<item itemID="61100146" grade="3" feature="Pet_70Lv_Boss" />
+	</preview>
+	<preview id="23043003">
+		<item itemID="36000440" grade="5" />
+		<item itemID="36000441" grade="5" />
+		<item itemID="11800130" grade="4" />
+		<item itemID="36000436" grade="4" />
+		<item itemID="36000437" grade="4" />
+		<item itemID="36000433" grade="4" />
+		<item itemID="36000434" grade="4" />
+		<item itemID="36000435" grade="4" />
+		<item itemID="36000461" grade="3" reqJobs="010" />
+		<item itemID="36000462" grade="3" reqJobs="020" />
+		<item itemID="36000463" grade="3" reqJobs="030" />
+		<item itemID="36000464" grade="3" reqJobs="040" />
+		<item itemID="36000465" grade="3" reqJobs="050" />
+		<item itemID="36000466" grade="3" reqJobs="060" />
+		<item itemID="36000467" grade="3" reqJobs="070" />
+		<item itemID="36000468" grade="3" reqJobs="080" />
+		<item itemID="36000469" grade="3" reqJobs="090" feature="RuneBlader" />
+		<item itemID="36000470" grade="3" reqJobs="100" feature="Striker" />
+		<item itemID="36000471" grade="3" reqJobs="110" feature="SoulBinder" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000027" grade="1" />
+		<item itemID="20000026" grade="1" />
+	</preview>
+	<preview id="23042003">
+		<item itemID="13100311" grade="5" reqJobs="070" />
+		<item itemID="13400304" grade="5" reqJobs="080" />
+		<item itemID="15000310" grade="5" reqJobs="020" />
+		<item itemID="15200309" grade="5" reqJobs="030" />
+		<item itemID="15100302" grade="5" reqJobs="050" />
+		<item itemID="15300305" grade="5" reqJobs="060" />
+		<item itemID="15400291" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="15500223" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="15600225" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="13200306" grade="5" reqJobs="010" />
+		<item itemID="13300305" grade="5" reqJobs="040" />
+		<item itemID="14100276" grade="5" reqJobs="010" />
+		<item itemID="14000267" grade="5" reqJobs="040" />
+		<item itemID="13100312" grade="5" reqJobs="070" />
+		<item itemID="13400305" grade="5" reqJobs="080" />
+		<item itemID="15000311" grade="5" reqJobs="020" />
+		<item itemID="15200310" grade="5" reqJobs="030" />
+		<item itemID="15100303" grade="5" reqJobs="050" />
+		<item itemID="15300306" grade="5" reqJobs="060" />
+		<item itemID="15400292" grade="5" reqJobs="090" feature="RuneBlader" />
+		<item itemID="15500224" grade="5" reqJobs="100" feature="Striker" />
+		<item itemID="15600226" grade="5" reqJobs="110" feature="SoulBinder" />
+		<item itemID="13200307" grade="5" reqJobs="010" />
+		<item itemID="13300306" grade="5" reqJobs="040" />
+		<item itemID="14100277" grade="5" reqJobs="010" />
+		<item itemID="14000268" grade="5" reqJobs="040" />
+		<item itemID="11800130" grade="4" />
+		<item itemID="36000436" grade="4" />
+		<item itemID="36000437" grade="4" />
+		<item itemID="36000433" grade="4" />
+		<item itemID="36000434" grade="4" />
+		<item itemID="36000435" grade="4" />
+		<item itemID="36000461" grade="3" reqJobs="010" />
+		<item itemID="36000462" grade="3" reqJobs="020" />
+		<item itemID="36000463" grade="3" reqJobs="030" />
+		<item itemID="36000464" grade="3" reqJobs="040" />
+		<item itemID="36000465" grade="3" reqJobs="050" />
+		<item itemID="36000466" grade="3" reqJobs="060" />
+		<item itemID="36000467" grade="3" reqJobs="070" />
+		<item itemID="36000468" grade="3" reqJobs="080" />
+		<item itemID="36000469" grade="3" reqJobs="090" feature="RuneBlader" />
+		<item itemID="36000470" grade="3" reqJobs="100" feature="Striker" />
+		<item itemID="36000471" grade="3" reqJobs="110" feature="SoulBinder" />
+		<item itemID="61120145" grade="4" feature="Pet_70Lv_Boss" />
+		<item itemID="61100145" grade="3" feature="Pet_70Lv_Boss" />
 	</preview>
 	<preview id="" />
 </ms2>

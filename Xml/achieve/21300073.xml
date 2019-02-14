@@ -67,4 +67,70 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21300073" account="0" icon="hero_battle.png" noticePercent="10" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents01" locale="JP">
+		<grade value="1">
+			<condition type="survive_map" code="82000012, 82000001" value="200" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survive_map" code="82000012, 82000001" value="400" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survive_map" code="82000012, 82000001" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="survive_map" code="82000012, 82000001" value="800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="survive_map" code="82000012, 82000001" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300073" account="0" icon="hero_battle.png" noticePercent="10" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents01" locale="TH">
+		<grade value="1">
+			<condition type="survive_map" code="82000012, 82000001" value="200" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survive_map" code="82000012, 82000001" value="400" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survive_map" code="82000012, 82000001" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="survive_map" code="82000012, 82000001" value="800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="survive_map" code="82000012, 82000001" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300073" account="0" icon="hero_battle.png" noticePercent="10" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents01" locale="TW">
+		<grade value="1">
+			<condition type="survive_map" code="82000012, 82000001" value="200" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="survive_map" code="82000012, 82000001" value="400" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="survive_map" code="82000012, 82000001" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="survive_map" code="82000012, 82000001" value="800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="survive_map" code="82000012, 82000001" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

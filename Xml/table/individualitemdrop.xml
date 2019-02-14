@@ -442,6 +442,7 @@
 	<individualDropBox individualDropBoxID="311000107" dropGroup="1" item="20001145" minCount="1" maxCount="1" socketDataID="" feature="Kritias_2018_12" />
 	<individualDropBox individualDropBoxID="311000107" dropGroup="2" item="20001144" minCount="1" maxCount="1" socketDataID="" feature="Kritias_2018_12" />
 	<individualDropBox individualDropBoxID="311000108" dropGroup="1" item="20001145" minCount="1" maxCount="1" socketDataID="" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="311000109" dropGroup="1" item="20000452" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Event" />
 	<individualDropBox individualDropBoxID="311100001" dropGroup="1" item="20000041" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="311100001" dropGroup="1" item="20000076" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="311100002" dropGroup="1" item="20000042" minCount="1" maxCount="1" socketDataID="" />

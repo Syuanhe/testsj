@@ -10,5 +10,5 @@
 	<tailEffect id="207" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Sun.xml" distance="60" speed="10" />
 	<tailEffect id="208" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Worm.xml" distance="60" speed="10" />
 	<tailEffect id="1001" effectPath="CH/Skill/Wizard/Eff_Wizard_IceElemental_Tail_01.xml" endEffectPath="CH/Skill/Wizard/Eff_Wizard_IceElemental_Tail_End_01.xml" distance="60" speed="5" />
-	<tailEffect id="1002" effectPath="CH/Skill/Wizard/Eff_Wizard_IceElemental_Tail_02.xml" endEffectPath="CH/Skill/Wizard/Eff_Wizard_IceElemental_Tail_End_02.xml" distance="60" speed="5" />
+	<tailEffect id="1002" effectPath="CH/Skill/Wizard/Eff_Wizard_IceElemental_Tail_02.xml" distance="60" speed="5" />
 </ms2>

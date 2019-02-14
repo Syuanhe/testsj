@@ -132,6 +132,10 @@
 	<contents id="274" minLevel="70" maxLevel="80" type="common" code="02020051" img="./Data/Resource/Image/RecommendContents/Gigantica01.png" link="WorldMapDialog" sorting="99913" feature="Gigantica01" locale="" />
 	<contents id="275" minLevel="70" maxLevel="80" type="dungeon" code="23037002" img="./Data/Resource/Image/Map/DungeonBanner/02020200.png" link="DungeonRoomDialog" sorting="299910" feature="Kritias_Paika01" locale="" />
 	<contents id="276" minLevel="70" maxLevel="80" type="dungeon" code="23038002" img="./Data/Resource/Image/Map/DungeonBanner/02020097.png" link="DungeonRoomDialog" sorting="299910" feature="Kritias_Balrog01" locale="" />
+	<contents id="277" minLevel="70" maxLevel="80" type="dungeon" code="23041003" img="./Data/Resource/Image/Map/DungeonBanner/02000426.png" link="DungeonRoomDialog" sorting="299911" feature="Kritias_Zakum01" locale="" />
+	<contents id="278" minLevel="70" maxLevel="80" type="dungeon" code="23040003" img="./Data/Resource/Image/Map/DungeonBanner/02000426.png" link="DungeonRoomDialog" sorting="299912" feature="Kritias_Zakum01" locale="" />
+	<contents id="279" minLevel="70" maxLevel="80" type="dungeon" code="23043003" img="./Data/Resource/Image/Map/DungeonBanner/02020098.png" link="DungeonRoomDialog" sorting="299915" feature="Kritias_Inferno01" locale="" />
+	<contents id="280" minLevel="70" maxLevel="80" type="dungeon" code="23042003" img="./Data/Resource/Image/Map/DungeonBanner/02020098.png" link="DungeonRoomDialog" sorting="299916" feature="Kritias_Inferno01" locale="" />
 	<contents id="297" minLevel="99" maxLevel="99" type="common" code="" img="./Data/Resource/Image/recommendContents/dailyquest.png" link="" feature="" locale="" />
 	<contents id="298" minLevel="99" maxLevel="99" type="common" code="02000023" img="./Data/Resource/Image/recommendContents/bluestar.png" link="WorldMapDialog" feature="Season3" locale="" />
 	<contents id="299" minLevel="99" maxLevel="99" type="common" code="02000023" img="./Data/Resource/Image/recommendContents/redstar.png" link="WorldMapDialog" feature="Season3" locale="" />

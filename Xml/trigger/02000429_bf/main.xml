@@ -232,7 +232,7 @@
    <state name="성공연출시작">
     <onEnter>
 		<!-- 다섯번째팝업영상출력 -->
-		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_normal" duration="3000" script="$02000410_BF__ClearCheck__4$" voice=""/>
+		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_normal" duration="3000" script="$02000410_BF__ClearCheck__2$" voice="ko/Npc/00002182"/>
 
     </onEnter>
 
@@ -250,11 +250,27 @@
 
 		<!-- 다섯번째팝업영상출력 -->
 		<action name="SideNpcTalk" type="movie" usm="Common/WorldInvasionScene5.usm" duration="0"/>  <!-- duration="0" 은 영상 끝날때까지 계속 출력 -->
-		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_nomal" duration="8000" script="$02000410_BF__ClearCheck__5$" voice=""/>
+		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_nomal" duration="8000" script="$02000410_BF__ClearCheck__3$" voice="ko/Npc/00002177"/>
 
     </onEnter>
 
 		<condition name="WaitTick" waitTick="10000" >
+			<transition state="성공연출02_pre" />
+		</condition>
+
+
+    <onExit>
+    </onExit>
+  </state>
+
+   <state name="성공연출02_pre">
+    <onEnter>
+
+		<action name="SetOnetimeEffect" id="1" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>
+
+    </onEnter>
+
+		<condition name="WaitTick" waitTick="1000" >
 			<transition state="성공연출02" />
 		</condition>
 
@@ -263,72 +279,26 @@
     </onExit>
   </state>
 
-	<state name="성공연출02">
-		<onEnter>
-			<!-- ## 1인던전 퀘스트용 던전성공 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="4000" script="$02000410_BF__ClearCheck__6$" voice="ko/Monster/60000722"/>
-
-		</onEnter>
-
-			<condition name="WaitTick" waitTick="4000" >
-				<transition state="성공연출03"/>
+	<state name="성공연출02" >
+        <onEnter>
+			<action name="CreateWidget" arg1="SceneMovie"/>
+			<action name="WidgetAction" arg1="SceneMovie" arg2="Clear"/>
+			<action name="PlaySceneMovie" fileName="common\WorldInvasionScene6.usm" movieID='1' skipType="needAll"/>
+        </onEnter>
+			<condition name="WidgetCondition" arg1="SceneMovie" arg2="IsStop" arg3="1">
+				<transition state="최종성공처리"/>
 			</condition>
-
+			<condition name="WaitTick" waitTick="10000">
+				<transition state="최종성공처리"/>
+			</condition>
 		<onExit>
 
 		</onExit>
-	</state>
-
-	<state name="성공연출03">
-		<onEnter>
-			<!-- ## 1인던전 퀘스트용 던전성공 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="infernog_nomal" duration="10000" script="$02000410_BF__ClearCheck__7$" voice="ko/Monster/60000723"/>
-
-		</onEnter>
-
-			<condition name="WaitTick" waitTick="15000" > <!-- 시간조절 중요, 인페르녹이 도망간 이후 1~2초 뒤에 네리인 대화가 뜨도록 시간 조절함-->
-				<transition state="성공연출04"/>
-			</condition>
-
-		<onExit>
-
-		</onExit>
-	</state>
-
-	<state name="성공연출04">
-		<onEnter>
-			<!-- ## 1인던전 퀘스트용 던전성공 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="Neirin_surprise" duration="4000" script="$02000410_BF__ClearCheck__11$" voice=""/>  <!-- $02000410_BF__ClearCheck__11$ 은 NA버전 전용 대사임 -->
-
-		</onEnter>
-
-			<condition name="WaitTick" waitTick="4000" >
-				<transition state="성공연출05"/>
-			</condition>
-
-		<onExit>
-
-		</onExit>
-	</state>
-
-	<state name="성공연출05">
-		<onEnter>
-			<!-- ## 1인던전 퀘스트용 던전성공 설정 작업은 여기서 정의함-->
- 		<action name="SideNpcTalk" npcID="11003536" illust="Bliche_closeEye" duration="4000" script="$02000410_BF__ClearCheck__12$" voice=""/> <!-- $02000410_BF__ClearCheck__12$ 은 NA버전 전용 대사임-->
-
-		</onEnter>
-
-			<condition name="WaitTick" waitTick="4000" >
-				<transition state="성공마무리"/>
-			</condition>
-
-		<onExit>
-
-		</onExit>
-	</state>
+    </state>	
+  
   
 
-	<state name="성공마무리">
+	<state name="최종성공처리">
 		<onEnter>
 
 			<!-- 던전성공처리-->
@@ -351,7 +321,6 @@
     </onExit>
 
 	</state>	
-	
 	
 	
 	

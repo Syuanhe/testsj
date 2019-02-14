@@ -29,9 +29,6 @@
 	<monologue id="60" feature="NPCPortal01" locale="" popupState="10">
 		<content text="$script:0105003907007674$" />
 	</monologue>
-	<script randomPick="1" id="120" feature="" locale="">
-		<content voiceID="ko/Npc/00000121" text="$script:0831180407000518$" />
-	</script>
 	<script randomPick="1" id="70" feature="" locale="">
 		<content text="$script:1215105107009695$">
 			<distractor text="$script:1215105107009696$" goto="71" gotoFail="" />
@@ -60,5 +57,8 @@
 	</script>
 	<script id="75" feature="" locale="">
 		<content text="$script:1215105107009706$" />
+	</script>
+	<script randomPick="1" id="120" feature="" locale="">
+		<content voiceID="ko/Npc/00000121" text="$script:0831180407000518$" />
 	</script>
 </ms2>

@@ -7,9 +7,6 @@
 	<monologue id="10" feature="" locale="">
 		<content text="$script:0831180407000905$" />
 	</monologue>
-	<monologue id="40" feature="" locale="">
-		<content text="$script:0831180407000906$" />
-	</monologue>
 	<script randomPick="1" id="30" feature="" locale="">
 		<content voiceID="ko/Npc/00000155" text="$script:0831180407000907$">
 			<distractor text="$script:0831180407000908$" goto="31" gotoFail="" />
@@ -18,4 +15,7 @@
 	<script id="31" feature="" locale="">
 		<content text="$script:0831180407000909$" />
 	</script>
+	<monologue id="40" feature="" locale="">
+		<content text="$script:0831180407000906$" />
+	</monologue>
 </ms2>

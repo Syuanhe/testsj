@@ -1216,6 +1216,9 @@
 	<key id="90200122" name="돼지의 꿈" />
 	<key id="90200123" name="따뜻한 반신욕" />
 	<key id="90200124" name="메이슨 따라쟁이" feature="Kritias_2018_12" />
+	<key id="90200125" name="스텝 셔플 댄스" />
+	<key id="90200126" name="포잉포잉 댄스" feature="Event" />
+	<key id="90200127" name="포잉이랑 놀아줘!" feature="Event" />
 	<key id="90210001" name="박수치기" locale="CN" />
 	<key id="90210002" name="야광봉 흔들기" locale="CN" />
 	<key id="90220001" name="포옹" />
@@ -1235,6 +1238,9 @@
 	<key id="90220015" name="공주님 안기" />
 	<key id="90220016" name="따뜻한 크리스마스" />
 	<key id="90220017" name="붉은 등불" />
+	<key id="90220018" name="초콜릿 냠냠" />
+	<key id="90220019" name="눈물 젖은 사탕" />
+	<key id="90220020" name="캔디 러브" />
 	<key id="90300001" name="타격 시 20% 확률로 화상 유발" />
 	<key id="90300011" name="타격 시 20% 확률로 INT 증가" />
 	<key id="90400001" name="타격 시 10% 확률로 빙결 유발" />
@@ -1332,6 +1338,12 @@
 	<key id="70003051" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
 	<key id="70003061" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
 	<key id="70003071" name="보스용 슈퍼 핵 쎈 스킬" feature="Kritias_2018_12" />
+	<key id="70003091" name="주먹질" feature="Fieldwar02" />
+	<key id="70003101" name="충격파" feature="Fieldwar02" />
+	<key id="70003121" name="기관총 발사" feature="Fieldwar02" />
+	<key id="70003122" name="드릴 드라이버" feature="Fieldwar02" />
+	<key id="70003123" name="파워 캐논" feature="Fieldwar02" />
+	<key id="70003131" name="특제 하얀 포션" feature="Fieldwar02" />
 	<key id="90003003" name="시간의 검 : 레드 라펜샤드" feature="LapentaDungeon" />
 	<key id="90003004" name="공간 균열 : 블루 라펜샤드" feature="LapentaDungeon" />
 	<key id="90003005" name="유페리아의 가호 : 그린 라펜샤드" feature="LapentaDungeon" />

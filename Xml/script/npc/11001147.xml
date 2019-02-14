@@ -12,9 +12,6 @@
 			<distractor text="$script:0916043407003994$" goto="21" gotoFail="" />
 		</content>
 	</script>
-	<script randomPick="1" id="30" feature="" locale="">
-		<content text="$script:1027182707004383$" />
-	</script>
 	<script id="21" feature="" locale="">
 		<content text="$script:0916043407003995$">
 			<distractor text="$script:0916043407003996$" goto="41" gotoFail="28" />
@@ -63,6 +60,9 @@
 	</script>
 	<script id="28" feature="" locale="">
 		<content text="$script:1027175907004302$" />
+	</script>
+	<script randomPick="1" id="30" feature="" locale="">
+		<content text="$script:1027182707004383$" />
 	</script>
 	<script id="35" feature="" locale="">
 		<content text="$script:0916043407004041$" />

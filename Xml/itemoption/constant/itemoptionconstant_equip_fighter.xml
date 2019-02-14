@@ -1304,11 +1304,11 @@
 	<option code="11300600" grade="3" ndd_value_base="126" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.024" />
 	<option code="11600542" grade="3" ndd_value_base="36" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.028" />
 	<option code="11700564" grade="3" ndd_value_base="36" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.028" />
-	<option code="11300599" grade="3" ndd_value_base="126" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.024" />
-	<option code="11400515" grade="3" ndd_value_base="193" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.021" />
-	<option code="11500429" grade="3" ndd_value_base="180" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.022" />
-	<option code="11600541" grade="3" ndd_value_base="36" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.028" />
-	<option code="11700563" grade="3" ndd_value_base="36" dex_value_base="10" int_value_base="10" nddcalibrationfactor_rate_base="1.028" />
+	<option code="11300599" grade="3" hp_value_base="43" ndd_value_base="126" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" nddcalibrationfactor_rate_base="1.024" />
+	<option code="11400515" grade="3" hp_value_base="43" ndd_value_base="193" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" nddcalibrationfactor_rate_base="1.021" />
+	<option code="11500429" grade="3" hp_value_base="43" ndd_value_base="180" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" nddcalibrationfactor_rate_base="1.022" />
+	<option code="11600541" grade="3" hp_value_base="43" ndd_value_base="36" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" parpen_rate_base="0.054" marpen_rate_base="0.054" nddcalibrationfactor_rate_base="1.028" />
+	<option code="11700563" grade="3" hp_value_base="43" ndd_value_base="36" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" nddcalibrationfactor_rate_base="1.028" />
 	<option code="11300568" grade="4" ndd_value_base="15" />
 	<option code="11300569" grade="4" ndd_value_base="21" />
 	<option code="11300570" grade="4" ndd_value_base="25" />
@@ -1457,11 +1457,11 @@
 	<option code="11300600" grade="4" ndd_value_base="136" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="137" nddcalibrationfactor_rate_base="1.022" />
 	<option code="11600542" grade="4" ndd_value_base="39" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
 	<option code="11700564" grade="4" ndd_value_base="39" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
-	<option code="11300599" grade="4" ndd_value_base="136" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="137" nddcalibrationfactor_rate_base="1.022" />
-	<option code="11400515" grade="4" ndd_value_base="207" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="208" nddcalibrationfactor_rate_base="1.019" />
-	<option code="11500429" grade="4" ndd_value_base="194" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="195" nddcalibrationfactor_rate_base="1.021" />
-	<option code="11600541" grade="4" ndd_value_base="39" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
-	<option code="11700563" grade="4" ndd_value_base="39" dex_value_base="10" int_value_base="10" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
+	<option code="11300599" grade="4" hp_value_base="43" ndd_value_base="136" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" hiddennddadd_value_base="137" nddcalibrationfactor_rate_base="1.022" />
+	<option code="11400515" grade="4" hp_value_base="43" ndd_value_base="207" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" hiddennddadd_value_base="208" nddcalibrationfactor_rate_base="1.019" />
+	<option code="11500429" grade="4" hp_value_base="43" ndd_value_base="194" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" hiddennddadd_value_base="195" nddcalibrationfactor_rate_base="1.021" />
+	<option code="11600541" grade="4" hp_value_base="43" ndd_value_base="39" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" parpen_rate_base="0.054" marpen_rate_base="0.054" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
+	<option code="11700563" grade="4" hp_value_base="43" ndd_value_base="39" par_value_base="18" mar_value_base="18" dex_value_base="10" int_value_base="10" stunreduce_rate_base="0.02" hiddennddadd_value_base="39" nddcalibrationfactor_rate_base="1.026" />
 	<option code="11300568" grade="5" ndd_value_base="16" />
 	<option code="11300569" grade="5" ndd_value_base="22" />
 	<option code="11300570" grade="5" ndd_value_base="26" />

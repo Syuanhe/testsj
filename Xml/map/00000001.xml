@@ -10,7 +10,7 @@
 		<cashCall cashTaxiNotDeparture="0" cashTaxiNotDestination="1" cashCallMedicProhibit="0" cashCallMarketProhibit="0" RecallOtherUserProhibit="1" />
 		<fov value="40" />
 		<split globalSplit="0" />
-		<bgm id="212" param="0" value="0" />
+		<bgm id="15" param="5" value="0" />
 		<hdr threshold="0" offset="0" middlegray="0" bloomscale="0" glowscale="0.1" />
 		<camera distance="1100" hangle="0" vangle="30" zoomOutHeightOffset="60" zoomInHeightOffset="95" useFileSetting="" />
 		<shadow intensity="0.3" simpleshadow="0.5" />
@@ -25,7 +25,7 @@
 		<cashCall cashTaxiNotDeparture="0" cashTaxiNotDestination="1" cashCallMedicProhibit="0" cashCallMarketProhibit="0" RecallOtherUserProhibit="1" />
 		<fov value="40" />
 		<split globalSplit="0" />
-		<bgm id="212" param="0" value="0" />
+		<bgm id="15" param="5" value="0" />
 		<hdr threshold="0" offset="0" middlegray="0" bloomscale="0" glowscale="0.1" />
 		<camera distance="1100" hangle="0" vangle="30" zoomOutHeightOffset="60" zoomInHeightOffset="95" useFileSetting="" />
 		<shadow intensity="0.3" simpleshadow="0.5" />

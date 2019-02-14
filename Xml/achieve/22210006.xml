@@ -13,4 +13,22 @@
 			<reward type="title" code="10000643" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22210006" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="FameChallengeDungeon" locale="JP">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="22210001,22210002,22210003,22210004,22210005" value="5" target="1" />
+			<reward type="title" code="10000643" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210006" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="FameChallengeDungeon" locale="TH">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="22210001,22210002,22210003,22210004,22210005" value="5" target="1" />
+			<reward type="title" code="10000643" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210006" account="0" icon="hero_adventure.PNG" noticePercent="50" locking="" categoryTag="adventure,voyageur" feature="FameChallengeDungeon" locale="TW">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="22210001,22210002,22210003,22210004,22210005" value="5" target="1" />
+			<reward type="title" code="10000643" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

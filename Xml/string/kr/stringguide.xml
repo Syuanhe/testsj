@@ -414,6 +414,8 @@
 	<key id="60950" name='비행을 종료하고 착지해보세요.\n&lt;font color=&quot;#909090&quot;&gt;소지품 창에 있는 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;비행 풍선 아이콘&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;더블클릭&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하거나 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;퀵슬롯 단축키&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 누르면 비행을 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;종료&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다.&lt;/font&gt;' />
 	<key id="60960" name="[[keyAction:install]] 또는 건설 시작하기를 눌러 건설모드로 전환하세요" />
 	<key id="60961" name="건설 시작하기" />
+	<key id="60962" name='&lt;font color=&quot;#00a2ed&quot;&gt;건설 자재&lt;/font&gt; 탭을 선택하세요' />
+	<key id="60963" name="건설 자재" />
 	<key id="60969" name="건설 시작하기를 눌러 건설모드로 전환하세요" />
 	<key id="60970" name='&lt;font color=&quot;#00a2ed&quot;&gt;$item:50200094$&lt;/font&gt; 이름을 입력하고 검색해보세요' />
 	<key id="60971" name="$item:50200094$ 검색" />
@@ -432,8 +434,8 @@
 	<key id="61071" name="$item:50200299$ 검색" />
 	<key id="61080" name='&lt;font color=&quot;#00a2ed&quot;&gt;$item:50200299$&lt;/font&gt;를 설치해보세요' />
 	<key id="61090" name='변경된 장식도 점수를 확인해보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;$item:50200299$&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 설치하기 전과 후의 장식도 점수 변화를 확인하고, 내 집의 장식도 점수를 관리해보세요.&lt;/font&gt;' />
-	<key id="61101" name='&lt;font color=&quot;#00a2ed&quot;&gt;생활기술 자재&lt;/font&gt; 탭을 선택하세요' />
-	<key id="61110" name='&lt;font color=&quot;#00a2ed&quot;&gt;생활기술 자재&lt;/font&gt;에서 &lt;font color=&quot;#00a2ed&quot;&gt;$item:50400159$&lt;/font&gt; 이름을 입력하고 검색해보세요' />
+	<key id="61101" name='&lt;font color=&quot;#00a2ed&quot;&gt;생활기술 자재&lt;/font&gt; 탭을 선택하세요.' />
+	<key id="61110" name='&lt;font color=&quot;#00a2ed&quot;&gt;생활기술 자재&lt;/font&gt;에서 &lt;font color=&quot;#00a2ed&quot;&gt;$item:50400159$&lt;/font&gt;를 선택해보세요.' />
 	<key id="61111" name="$item:50400159$ 검색" />
 	<key id="61112" name="생활기술 자재" />
 	<key id="61120" name='&lt;font color=&quot;#00a2ed&quot;&gt;$item:50400159$&lt;/font&gt;를 설치해보세요' />
@@ -505,6 +507,7 @@
 	<key id="81070" name="[[icon:questaccept]]블리체 함장과 대화" feature="FameContents" />
 	<key id="81071" name="각 세력의 임무를 시작할 수 있습니다.  \n[[icon:fame_npc_lumiknight]] [[icon:fame_npc_triaroyalguard]] [[icon:fame_npc_mapleunion]] [[icon:fame_npc_darkwind]] [[icon:fame_npc_greenhood]]" feature="FameContents" />
 	<key id="81072" name="전직 버튼 클릭" feature="LapentaFrontierQuest" />
+	<key id="81073" name="[[icon:autoquestaccept]]월드 안전 보장회의 퀘스트 확인하기" feature="Kritias_Epic01" />
 	<key id="90000" name='땅에 떨어진 도구는 &lt;font color=&apos;#00A2ED&apos;&gt;&apos;줍기 버튼(단축키 [Z])&apos;&lt;/font&gt;을 사용하면 획득할 수 있습니다.&#x0A;맵 곳곳에 있는 &lt;font color=&quot;#00a2ed&quot;&gt;머쉬룸 타워&lt;/font&gt; 근처에서는 본인의 위치가 노출됩니다.&#x0A;다른 참가자를 쓰러트리면 도구를 주는 &lt;font color=&quot;#00a2ed&quot;&gt;무서운 버섯&lt;/font&gt;이 등장합니다.' feature="SurvivalContents01" />
 	<key id="100000" name="모험레벨을 높여서 다양한 보상을 획득하세요.&#x0A;50레벨이상 캐릭터는 경험치를 획득할 때 모험경험치도 함께 획득합니다.&#x0A;모험경험치를 모아 모험레벨업을 하면 매일매일 보상을 받을 수 있습니다.&#x0A;모험레벨창에서 다양한 모험레벨 달성보상을 확인할 수 있습니다." feature="AdventureLevel" />
 	<key id="110010" name="월드 레이드" feature="WorldChampionMushroom" />
@@ -1185,6 +1188,7 @@
 	<key id="26620112" name='길드 미니 게임 대전을 &lt;font color=&quot;#00a2ed&quot;&gt;1분 30초&lt;/font&gt; 후에 시작합니다.' />
 	<key id="26620113" name='길드 미니 게임 대전을 &lt;font color=&quot;#00a2ed&quot;&gt;1분 15초&lt;/font&gt; 후에 시작합니다.' />
 	<key id="29200001" name="도움을 요청하는 경비병을 도와야  $npcName:23090006$을 처치할 수 있습니다." feature="Kritias_Balrog01" />
+	<key id="29200002" name='&lt;font color=&quot;#00a2ed&quot;&gt;크리스탈&lt;/font&gt;을  $npcName:23000150$에게 던져서 주의를 끌 수 있습니다.' feature="Kritias_Inferno01" />
 	<key id="52001641" name="[[icon:questcomplete]] $npcName:11003927$에게 인사하기" feature="LapentaFrontierQuest" />
 	<key id="52001651" name="[[icon:questcomplete]] 피스메이커 최종 테스트 진행하기" feature="LapentaFrontierQuest" />
 	<key id="52001671" name="[[icon:questcomplete]] 바닷가 바라보기" feature="LapentaFrontierQuest" />

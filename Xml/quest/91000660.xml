@@ -19,7 +19,7 @@
 			<remoteComplete useRemote="Cinematic" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="map" code="02000426" value="1" />
+			<condition type="trigger" code="ZakumKritiasClear" value="1" />
 		</quest>
 	</environment>
 </ms2>

@@ -3,24 +3,4 @@
 	<group id="5022" pickCount="1" dependency="character" />
 	<group id="5023" pickCount="1" dependency="character" />
 	<group id="5024" pickCount="1" dependency="character" />
-	<group id="94002" pickCount="2" dependency="global" />
-	<group id="94004" pickCount="2" dependency="global" />
-	<group id="94006" pickCount="2" dependency="global" />
-	<group id="94008" pickCount="2" dependency="global" />
-	<group id="94010" pickCount="2" dependency="global" />
-	<group id="94012" pickCount="2" dependency="global" />
-	<group id="94014" pickCount="2" dependency="global" />
-	<group id="94016" pickCount="2" dependency="global" />
-	<group id="94018" pickCount="2" dependency="global" />
-	<group id="94020" pickCount="2" dependency="global" />
-	<group id="94022" pickCount="2" dependency="global" />
-	<group id="94024" pickCount="2" dependency="global" />
-	<group id="94026" pickCount="2" dependency="global" />
-	<group id="94028" pickCount="2" dependency="global" />
-	<group id="94030" pickCount="2" dependency="global" />
-	<group id="93100" pickCount="2" dependency="global" />
-	<group id="93200" pickCount="2" dependency="global" />
-	<group id="93300" pickCount="2" dependency="global" />
-	<group id="93400" pickCount="2" dependency="global" />
-	<group id="93500" pickCount="2" dependency="global" />
 </ms2>

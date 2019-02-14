@@ -15,4 +15,25 @@
 		<content text="$script:1130175706001008$" />
 		<content text="$script:1130175706001009$" />
 	</script>
+	<select id="0" feature="" locale="JP">
+		<content text="$script:0212141906001015$" />
+	</select>
+	<script randomPick="1" id="30" feature="" locale="JP">
+		<content text="$script:0212141906001016$" />
+		<content text="$script:0212141906001017$" />
+	</script>
+	<select id="0" feature="" locale="TH">
+		<content text="$script:0212141906001018$" />
+	</select>
+	<script randomPick="1" id="30" feature="" locale="TH">
+		<content text="$script:0212141906001019$" />
+		<content text="$script:0212141906001020$" />
+	</script>
+	<select id="0" feature="" locale="TW">
+		<content text="$script:0212141906001021$" />
+	</select>
+	<script randomPick="1" id="30" feature="" locale="TW">
+		<content text="$script:0212141906001022$" />
+		<content text="$script:0212141906001023$" />
+	</script>
 </ms2>

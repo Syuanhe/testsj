@@ -942,4 +942,13 @@
 	<key id="1207170517004282" feature="" npc="루비" name="2018년 12월 30일부터 2019년 1월 1일까지 3일간,&#x0A;하루 한 번씩 드리니 잊지 말고 받으세요!" />
 	<key id="1207170517004283" feature="" npc="루비" name="2018년에 있었던 안 좋은 기억은 모두 잊고, 좋았던 추억만 간직한 채 새해를 맞이해 보아요." />
 	<key id="1207170517004284" feature="" npc="루비" name='설레는 마음으로 맞이하는 &lt;font color=&quot;#ffd200&quot;&gt;2019년&lt;/font&gt;!&#x0A;즐겁고 행복한 일들만 가득하길 바랄게요.' />
+	<key id="0109175417004285" feature="" npc="루비" name='$MyPCName$님! 혹시 주변에서 아기 복돼지들 못 보셨나요?&#x0A;12년 만에 돌아온 &lt;font color=&quot;#ffd200&quot;&gt;돼지의 해&lt;/font&gt;를 맞아 복돼지들의 파티가 열리는데, 몇몇 &lt;font color=&quot;#ffd200&quot;&gt;아기 복돼지들&lt;/font&gt;이 나타나지 않고 있대요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;파티를 아주 좋아하는 아이들&lt;/font&gt;이니 신나게 꾸미고 달려갈텐데… 뭔가 이상해요.' />
+	<key id="0109175417004286" feature="" npc="루비" name='설마 &lt;font color=&quot;#ffd200&quot;&gt;몬스터&lt;/font&gt;를 만난 걸까요? &lt;font color=&quot;#ffd200&quot;&gt;아기 복돼지들&lt;/font&gt;은 겁이 많아 아주 무서워할 텐데….&#x0A;바닥에 꽁꽁 발이 묶여 꼼짝도 하지 못하겠죠… 너무 불쌍해요!&#x0A;주변이 안전하기만 하면 괜찮을 텐데. $MyPCName$님께서 도와주시겠어요?' />
+	<key id="0109175417004287" feature="" npc="루비" name='복돼지 파티에 가는 아기 복돼지들은 등에 &lt;font color=&quot;#ffd200&quot;&gt;풍선&lt;/font&gt;을 매달고 있대요.&#x0A;그러니까, 주변 몬스터들을 물리친 후 도망가도 된다고 알려주면 풍선의 힘으로 빠르게 날아서 도망칠 수 있을 거예요.&#x0A;$MyPCName$님, &lt;font color=&quot;#ffd200&quot;&gt;아기 복돼지들&lt;/font&gt;을 발견하면 &lt;font color=&quot;#ffd200&quot;&gt;날려 보내주세요!&lt;/font&gt;' />
+	<key id="0109175417004288" feature="" npc="루비" name='복돼지 파티에 가는 아기 복돼지들은 등에 &lt;font color=&quot;#ffd200&quot;&gt;풍선&lt;/font&gt;을 매달고 있대요.&#x0A;그러니까, 주변 몬스터들을 물리친 후 도망가도 된다고 알려주면 풍선의 힘으로 빠르게 날아서 도망칠 수 있을 거예요.&#x0A;$MyPCName$님, &lt;font color=&quot;#ffd200&quot;&gt;아기 복돼지들&lt;/font&gt;을 발견하면 &lt;font color=&quot;#ffd200&quot;&gt;날려 보내주세요!&lt;/font&gt;' />
+	<key id="0109175417004289" feature="" npc="루비" name='$MyPCName$님 덕분에 아기 복돼지들이 무사히 파티장에 도착했다고 해요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;올해도 잘 부탁드릴게요,&lt;/font&gt; $MyPCName$님!' />
+	<key id="0116133817004290" feature="" npc="루비" name="$MyPCName$님! 혹시 강하신가요?&#x0A;음… &apos;강하다&apos;는 건 너무 어려운 질문인가요?&#x0A;저 $npc:11001002[gender:1]$$pp:는,은$ 강한 모험가님들을 찾고 있었답니다." />
+	<key id="0116133817004291" feature="" npc="루비" name="제가 마침 좋은 물건을 가지고 있는데, 강력한 힘을 가진 모험가가 사용해야 유용한 물건이라서요.&#x0A;$dungeonTitle:23037002$ 또는 $dungeonTitle:23038002$$pp:를,을$ 정복하고 돌아오신다면 선물을 드릴게요!&#x0A;" />
+	<key id="0116133817004292" feature="" npc="루비" name="제가 마침 좋은 물건을 가지고 있는데, 강력한 힘을 가진 모험가가 사용해야 유용한 물건이라서요.&#x0A;$dungeonTitle:23037002$ 또는 $dungeonTitle:23038002$$pp:를,을$ 정복하고 돌아오신다면 선물을 드릴게요!&#x0A;" />
+	<key id="0116133817004293" feature="" npc="루비" name="$MyPCName$님은 역시 생각대로 강하시군요.&#x0A;제 선물을 받아 가세요!" />
 </ms2>

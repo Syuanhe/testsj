@@ -9,10 +9,10 @@
 			<distractor text="$script:0806025707010595$" goto="11" gotoFail="" />
 		</content>
 	</script>
-	<monologue id="20" feature="SurvivalContents03" locale="">
-		<content text="$script:0806102807010708$" />
-	</monologue>
 	<script id="11" feature="SurvivalContents03" locale="">
 		<content voiceID="ko/Npc/02000256" illust="MapleGuard_Spear_normal" text="$script:0806025707010596$" />
 	</script>
+	<monologue id="20" feature="SurvivalContents03" locale="">
+		<content text="$script:0806102807010708$" />
+	</monologue>
 </ms2>

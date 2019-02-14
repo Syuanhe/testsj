@@ -34,7 +34,7 @@
 			<FD translation="0" rotation="0" scale="0" />
 			<CP xrotation="0" yrotation="0" zrotation="0" scale="0" attach="0" />
 		</customize>
-		<function name="ItemChangeBeauty" parameter="650" onlyShadowContinent="0" />
+		<function name="ItemChangeBeauty" parameter="672" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
 		<tool itemPreset="20500001" itemPresetPath="2/05/" />
 		<option title="0" static="0" random="0" constant="3" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />

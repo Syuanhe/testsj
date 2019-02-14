@@ -406,18 +406,18 @@
 	<key id="10200271" level="10" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
 	<key id="10200271" level="11" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
 	<key id="10200271" level="12" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
-	<key id="10200281" level="1" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="2" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="3" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="4" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="5" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="6" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="7" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="8" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="9" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="10" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="11" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
-	<key id="10200281" level="12" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="1" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="2" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="3" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="4" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="5" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="6" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="7" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="8" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="9" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="10" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="11" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="12" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
 	<key id="10200291" level="1" name="암흑 광기" tooltipDescription="물리 공격력 1% 증가" feature="JobChange_02" />
 	<key id="10200291" level="2" name="암흑 광기" tooltipDescription="물리 공격력 2% 증가" feature="JobChange_02" />
 	<key id="10200291" level="3" name="암흑 광기" tooltipDescription="물리 공격력 3% 증가" feature="JobChange_02" />
@@ -1052,18 +1052,18 @@
 	<key id="10500231" level="12" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 12%, 명중 12 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
 	<key id="10500232" level="1" name="충전 상태" tooltipDescription="활에 바람의 힘이 스며들고 있습니다.\n바람 계열 공격 스킬 타격 시 1 중첩 증가 최대 15 까지 중첩.\n15 중첩 시 해방 상태로 변경됩니다." feature="JobChange_01" />
 	<key id="10500233" level="1" name="해방 상태" tooltipDescription="활에 충분한 바람의 힘이 모였습니다!.\n시크릿 오브 아쳐리 스킬을 사용할 수 있습니다." feature="JobChange_01" />
-	<key id="10500261" level="1" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 142% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="2" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 159% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="3" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 176% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="4" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 193% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="5" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 210% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="6" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 227% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="7" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 244% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="8" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 261% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="9" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 278% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="10" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 295% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="11" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 312% 의 지속 대미지" feature="JobChange_02" />
-	<key id="10500261" level="12" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 329% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="1" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 172% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="2" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 192% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="3" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 212% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="4" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 232% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="5" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 252% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="6" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 272% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="7" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 292% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="8" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 312% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="9" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 332% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="10" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 352% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="11" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 372% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="12" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 392% 의 지속 대미지" feature="JobChange_02" />
 	<key id="10500272" level="1" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 10 증가\n물리 대미지 2% 증가\nDEX 1.5% 증가" feature="JobChange_02" />
 	<key id="10500272" level="2" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 20 증가\n물리 대미지 4% 증가\nDEX 3% 증가" feature="JobChange_02" />
 	<key id="10500272" level="3" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 30 증가\n물리 대미지 6% 증가\nDEX 4.5% 증가" feature="JobChange_02" />
@@ -1076,18 +1076,18 @@
 	<key id="10500272" level="10" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 100 증가\n물리 대미지 20% 증가\nDEX 15% 증가" feature="JobChange_02" />
 	<key id="10500272" level="11" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 110 증가\n물리 대미지 22% 증가\nDEX 16.5% 증가" feature="JobChange_02" />
 	<key id="10500272" level="12" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 120 증가\n물리 대미지 24% 증가\nDEX 18% 증가" feature="JobChange_02" />
-	<key id="10500281" level="1" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 220% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="2" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 245% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="3" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 270% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="4" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 295% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="5" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 320% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="6" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 345% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="7" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 370% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="8" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 395% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="9" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 420% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="10" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 445% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="11" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 470% 의 추가 대미지" feature="JobChange_02" />
-	<key id="10500281" level="12" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 495% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="1" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 276% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="2" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 307% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="3" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 338% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="4" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 369% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="5" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 400% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="6" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 431% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="7" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 462% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="8" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 493% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="9" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 524% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="10" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 555% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="11" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 586% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="12" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 617% 의 추가 대미지" feature="JobChange_02" />
 	<key id="10500291" level="1" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 2% 증가" feature="JobChange_02" />
 	<key id="10500291" level="2" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 4% 증가" feature="JobChange_02" />
 	<key id="10500291" level="3" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 6% 증가" feature="JobChange_02" />
@@ -1747,14 +1747,6 @@
 	<key id="10900222" level="10" name="화염 블레이드 윕" tooltipDescription="뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 315% 의 화염 대미지" feature="JobChange_01" />
 	<key id="10900222" level="11" name="화염 블레이드 윕" tooltipDescription="뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 333% 의 화염 대미지" feature="JobChange_01" />
 	<key id="10900222" level="12" name="화염 블레이드 윕" tooltipDescription="뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 351% 의 화염 대미지" feature="JobChange_01" />
-	<key id="10900222" level="13" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="14" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="15" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="16" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="17" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="18" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="19" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="10900222" level="20" name="화염 블레이드 윕" tooltipDescription="-2146826246" feature="JobChange_01" />
 	<key id="10900224" level="1" name="냉기 블레이드 윕 스플래쉬" tooltipDescription="차가운 검기가 몸 속에 스며듭니다!\n이동속도 15% 감소\n점프력 15% 감소" feature="JobChange_01" />
 	<key id="10900231" level="1" name="피지컬 부스트" tooltipDescription="신체 능력이 강화되었습니다!\n이동 속도 30% 증가\n방어력 20% 증가" feature="JobChange_01" />
 	<key id="11000042" level="1" name="길로틴" tooltipDescription="강렬한 진동에 몸을 움직이기 힘듭니다!\n이동속도와 점프력 30% 감소" feature="Striker" />
@@ -2170,18 +2162,18 @@
 	<key id="11100171" level="10" name="소생의 공간" tooltipDescription="자연으로부터 생명의 기운을 받고 있습니다!\n시전자의 마법 공격력의 489% 에\n해당되는 수치만큼 HP 회복\n물리, 마법 저항력 317 증가\n피격 시 밀려나지 않음" feature="SoulBinder" />
 	<key id="11100171" level="11" name="소생의 공간" tooltipDescription="자연으로부터 생명의 기운을 받고 있습니다!\n시전자의 마법 공격력의 510% 에\n해당되는 수치만큼 HP 회복\n물리, 마법 저항력 330 증가\n피격 시 밀려나지 않음" feature="SoulBinder" />
 	<key id="11100171" level="12" name="소생의 공간" tooltipDescription="자연으로부터 생명의 기운을 받고 있습니다!\n시전자의 마법 공격력의 531% 에\n해당되는 수치만큼 HP 회복\n물리, 마법 저항력 343 증가\n피격 시 밀려나지 않음" feature="SoulBinder" />
-	<key id="11100202" level="1" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="2" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="3" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="4" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="5" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="6" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="7" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="8" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="9" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="10" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="11" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
-	<key id="11100202" level="12" name="비전 격류" tooltipDescription="-2146826246" feature="JobChange_01" />
+	<key id="11100202" level="1" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 4% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="2" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 6% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="3" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 8% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="4" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 10% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="5" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 12% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="6" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 14% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="7" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 16% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="8" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 18% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="9" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 20% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="10" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 22% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="11" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 24% 증가합니다." feature="JobChange_01" />
+	<key id="11100202" level="12" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 26% 증가합니다." feature="JobChange_01" />
 	<key id="11100202" level="1" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 4% 증가합니다." feature="JobChange_02" />
 	<key id="11100202" level="2" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 6% 증가합니다." feature="JobChange_02" />
 	<key id="11100202" level="3" name="비전 격류" tooltipDescription="내면의 비전이 실체화 되었습니다!\n마법 공격력이 8% 증가합니다." feature="JobChange_02" />
@@ -3566,6 +3558,7 @@
 	<key id="50000264" level="1" name="완전 방어" tooltipDescription="무적 상태" feature="LapentaDungeon" />
 	<key id="50000264" level="2" name="완전 방어" tooltipDescription="무적 상태" feature="LapentaDungeon" />
 	<key id="50000264" level="3" name="완전 방어" tooltipDescription="무적 상태" feature="LapentaDungeon" />
+	<key id="50000265" level="1" name="완전 방어" tooltipDescription="팔에 의해서 무적 상태 유지" feature="Kritias_Zakum01" />
 	<key id="50000290" level="1" name="방어력 상승" tooltipDescription="방어력 80% 증가" feature="Kritias_Balrog01" />
 	<key id="50000292" level="1" name="공격력 방어력 상승" tooltipDescription="공격력 30% 증가\n적에게 받는 모든 대미지 50% 감소" feature="Kritias_Balrog01" />
 	<key id="50000294" level="1" name="방어력 상승 2단계" tooltipDescription="적에게 받는 모든 대미지 60% 감소\n1단계 2단계가 합쳐진 상태" />
@@ -3758,11 +3751,14 @@
 	<key id="50001406" level="2" name="얼음 큐브" tooltipDescription="얼음 큐브에 갇혀 행동 불가\n얼음 상태일 때 방어력 하락" />
 	<key id="50001406" level="3" name="얼음 큐브" tooltipDescription="얼음 큐브에 갇혀 행동 불가\n얼음 상태일 때 방어력 하락" />
 	<key id="50001407" level="1" name="화염폭발" tooltipDescription="3초 후 화염 폭팔이 발생" />
-	<key id="50001408" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 화염 대미지\n폭발에 영향받은 아군에게 전염병 전파" />
-	<key id="50001409" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 화염 대미지\n폭발에 영향받은 아군에게 전염병 전파" />
-	<key id="50001410" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 화염 대미지\n폭발에 영향받은 아군에게 전염병 전파" />
+	<key id="50001408" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
+	<key id="50001409" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
+	<key id="50001410" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
 	<key id="50001411" level="1" name="얼음 큐브" tooltipDescription="얼음 큐브에 갇혀 행동 불가\n얼음 상태일 때 방어력 하락" />
 	<key id="50001412" level="1" name="저주 폭발" tooltipDescription="보스를 공격하면 침묵 상태가 됨\n5초마다 저주 폭발을 발생하여\n주변 아군에게 SP 0 상태를 부여" feature="LapentaDungeon" />
+	<key id="50001415" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
+	<key id="50001416" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
+	<key id="50001417" level="1" name="전염병 폭발" tooltipDescription="5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파" feature="Kritias_Zakum01" />
 	<key id="50001450" level="1" name="죽음의 선고" tooltipDescription="몇 초 후 즉사" />
 	<key id="50001451" level="1" name="죽음의 선고" tooltipDescription="몇 초 후 즉사" />
 	<key id="50001452" level="1" name="죽음의 선고" tooltipDescription="곧 죽음" />
@@ -3781,7 +3777,8 @@
 	<key id="50001654" level="1" name="명중 감소" tooltipDescription="명중 18% 감소\n최대 5회까지 중첩" feature="LapentaDungeon" />
 	<key id="50001654" level="2" name="명중 감소" tooltipDescription="명중 18% 감소\n최대 5회까지 중첩" feature="LapentaDungeon" />
 	<key id="50001655" level="1" name="명중 감소" tooltipDescription="명중 85% 감소" feature="LapentaDungeon" />
-	<key id="50001656" level="1" name="명중 감소" tooltipDescription="명중 45% 감소\n최대 2회까지 중첩" feature="CrimsonBalrog01" />
+	<key id="50001656" level="1" name="명중 감소" tooltipDescription="명중 70% 감소" feature="CrimsonBalrog01" />
+	<key id="50001657" level="1" name="명중 감소" tooltipDescription="명중 25% 감소\n최대 3회까지 중첩" feature="Kritias_Inferno01" />
 	<key id="50002000" level="1" name="HP 감소" tooltipDescription="최대 HP량 10% 감소\n최대 5회까지 중첩" />
 	<key id="50002100" level="1" name="침묵" tooltipDescription="침묵하여 스킬 사용이 불가능합니다.\n일반공격은 사용가능 합니다." />
 	<key id="50002101" level="1" name="혼란" tooltipDescription="정신을 차릴 수가 없습니다!\n상하와 좌우 방향이 반대로 동작" />
@@ -3843,12 +3840,14 @@
 	<key id="50003129" level="2" name="저주 폭발 직전" tooltipDescription="몇초 뒤 서있는 지점에서\n저주 영역이 생성됨" feature="CrimsonBalrog01" />
 	<key id="50003130" level="1" name="폭발 직전" tooltipDescription="몇초 뒤 체력의 절반을 감소시키는 폭발을 일으킴" feature="LapentaDungeon" />
 	<key id="50003132" level="1" name="폭발 직전" tooltipDescription="몇초 뒤 기절시키는 폭발을 일으킴" feature="Fieldwar01" />
+	<key id="50003133" level="1" name="저주 폭발 직전" tooltipDescription="몇초 뒤 서있는 지점에서\n저주 영역이 생성됨" feature="Kritias_Inferno01" />
 	<key id="50003300" level="1" name="공격 반사" tooltipDescription="공격 한 대상에게 피해를 부여함\n방어력 99% 상승\n모든 석상을 파괴하면 사라짐" />
 	<key id="50003300" level="2" name="공격 반사" tooltipDescription="공격 한 대상에게 피해를 부여함\n방어력 99% 상승\n아리엘 석상에게 받은 효과" />
 	<key id="50003302" level="1" name="공격 반사" tooltipDescription="공격 한 대상에게 피해를 부여함\n방어력 99% 상승" />
 	<key id="50004401" level="2" name="후유증" tooltipDescription="분신에게 공격 당한 후유증으로\n새로운 분신을 생성하지 못함" />
 	<key id="50004406" level="1" name="한명만 주시" tooltipDescription="단 한명의 대상을 지속적으로 쫓아가면서 공격함\n석궁에 의한 효과" />
 	<key id="50004407" level="1" name="한명만 주시" tooltipDescription="단 한명의 대상을 지속적으로 쫓아가면서 공격함\n대포에 의한 효과" />
+	<key id="50004414" level="1" name="한명만 주시" tooltipDescription="인페르녹이 자신을 계속 주시함\n크리스탈에 의한 효과" feature="Kritias_Inferno01" />
 	<key id="50004513" level="1" name="지옥 불의 패기" tooltipDescription="지옥의 불에서 강력한 기력을 발산하여\n약한 대상에게 치명적인 피해를 부여함" />
 	<key id="50004517" level="1" name="지옥 불의 패기" tooltipDescription="인페르녹의 지옥 불의 패기를\n버티지 못하고 죽게 됨" />
 	<key id="50004518" level="1" name="지옥 불의 패기" tooltipDescription="인페르녹의 지옥 불의 패기를\n버티지 못하고 죽게 됨" />
@@ -3856,6 +3855,9 @@
 	<key id="50004520" level="1" name="지옥의 안개" tooltipDescription="인페르녹 지옥의 안개 속 악령에\n버티지 못하고 죽게 됨" />
 	<key id="50004521" level="1" name="인페르녹의 실드" tooltipDescription="인페르녹을 보호하는 강력한 실드로 입자포의 정밀한 조준을 방해하며, 함포의 에너지 공격을 분산시키는 역할을 한다." />
 	<key id="50004544" level="1" name="버섯 포자 중독" tooltipDescription="머쉬킹의 몸에서 나오는 버섯 포자에 중독되어 치명적인 독 피해를 받음" />
+	<key id="50004548" level="1" name="인페르녹 눈빛의 저주" tooltipDescription="인페르녹의 저주 눈빛에 노출되어\n지속적으로 저주 피해를 받음\n무한으로 중첩됨" feature="Kritias_Inferno01" />
+	<key id="50004557" level="1" name="기력 저하" tooltipDescription="한번 더 같은 공격에 맞으면 기절함" feature="Kritias_Inferno01" />
+	<key id="50004558" level="1" name="기절" tooltipDescription="기절하여 행동 불가" feature="Kritias_Inferno01" />
 	<key id="50004800" level="1" name="HP 회복제 효과 감소" tooltipDescription="HP 회복제 아이템 사용에 의한 회복 효과가\n80% 감소됨\n지속적으로 저주 대미지" />
 	<key id="50004800" level="2" name="HP 회복제 효과 감소" tooltipDescription="HP 회복제 아이템 사용에 의한 회복 효과가\n90% 감소됨\n지속적으로 저주 대미지" />
 	<key id="50004800" level="3" name="HP 회복제 효과 감소" tooltipDescription="HP 회복제 아이템 사용에 의한 회복 효과가\n95% 감소됨\n지속적으로 저주 대미지" />
@@ -3876,8 +3878,8 @@
 	<key id="50005100" level="1" name="공격력 상승" tooltipDescription="공격력 50% 상승\n설콩이가 부여한 능력" />
 	<key id="50005101" level="1" name="방어력 상승" tooltipDescription="방여럭 50% 상승\n설콩이가 부여한 능력" />
 	<key id="50005102" level="1" name="이동속도 상승" tooltipDescription="이동속도 50% 상승\n설콩이가 부여한 능력" />
-	<key id="50005300" level="1" name="자쿰의 저주" tooltipDescription="자쿰을 공격하면 공격력과 명중률 저하\n계약의 토템을 모두 제거하면 사라짐" />
-	<key id="50005301" level="1" name="토템의 저주" tooltipDescription="계약의 토템을 공격하면 공격력과 명중률 저하\n계약의 토템을 모두 제거하면 사라짐" />
+	<key id="50005300" level="1" name="토템의 자쿰 보호 명령" tooltipDescription="자쿰을 공격하면 공격력과 명중률 저하\n계약의 토템을 모두 제거하면 사라짐" feature="Kritias_Zakum01" />
+	<key id="50005301" level="1" name="자쿰의 토템 보호 명령" tooltipDescription="계약의 토템을 공격하면 공격력과 명중률 저하\n계약의 토템을 모두 제거하면 사라짐" feature="Kritias_Zakum01" />
 	<key id="50005306" level="1" name="자쿰 팔의 복수" tooltipDescription="자쿰의 손바닥 공격이 주기적으로 발생함" />
 	<key id="50005307" level="1" name="태양빛 저주" tooltipDescription="낮이 되면 치명적인 피해를 받음\n지속적으로 저주 대미지가 중첩됨 \n공격력과 명중률이 점차 감소됨" feature="LapentaDungeon" />
 	<key id="50005308" level="1" name="달빛 저주" tooltipDescription="밤이 되면 치명적인 피해를 받음\n지속적으로 저주 대미지가 중첩됨 \n공격력과 명중률이 점차 감소됨" feature="LapentaDungeon" />
@@ -3885,6 +3887,12 @@
 	<key id="50005312" level="1" name="달빛 저주의 피해" tooltipDescription="지속적으로 저주 대미지가 중첩됨 \n공격력과 명중률이 점차 감소됨" feature="LapentaDungeon" />
 	<key id="50005314" level="1" name="레드 라펜타의 보호" tooltipDescription="레드 라펜타의 영향을 받아\n태양빛과 달빛의 저주를 받지 않게 됨\n이슈라의 암흑영역의 피해를 받지 않음" feature="LapentaDungeon" />
 	<key id="50005500" level="1" name="영혼의 속박" tooltipDescription="알 수 없는 강한 힘에 영혼이 속박되었습니다.\n영혼의 속박 상태에서는 모든 비석을 치울 수 없으며 제자리 부활도 사용할 수 없습니다." />
+	<key id="50006000" level="1" name="대미지 극 감소 : 화염 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 화염 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
+	<key id="50006001" level="1" name="대미지 극 감소 : 냉기 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 냉기 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
+	<key id="50006002" level="1" name="대미지 극 감소 : 전격 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 전격 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
+	<key id="50006003" level="1" name="대미지 극 감소 : 신성 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 신성 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
+	<key id="50006004" level="1" name="대미지 극 감소 : 암흑 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 암흑 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
+	<key id="50006005" level="1" name="대미지 극 감소 : 독 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 독 속성 공격에 매우 약함" feature="Kritias_Inferno01" />
 	<key id="50160005" level="1" name="출혈" tooltipDescription="지속적으로 물리 대미지" />
 	<key id="50200001" level="1" name="저주" tooltipDescription="지속적인 데미지와 함께 회복력이 감소합니다." />
 	<key id="51100000" level="1" name="얼음 폭발" tooltipDescription="잠시 후, 얼음이 폭발하며 빙결 상태가 됩니다." />
@@ -4078,6 +4086,7 @@
 	<key id="61110272" level="1" name="펫 스킬: 공격속도 증가" tooltipDescription="공격속도 4% 증가" feature="LapentaDungeon" />
 	<key id="61110273" level="1" name="펫 스킬: 공격속도 감소" tooltipDescription="공격속도 4% 감소" feature="LapentaDungeon" />
 	<key id="61110281" level="1" name="펫 스킬 : 기절" tooltipDescription="행동 및 이동 불가" />
+	<key id="61110311" level="1" name="펫 스킬 : 공격력 증가" tooltipDescription="공격력 2% 증가" feature="Pet_Infernog" />
 	<key id="62100002" level="1" name="폭주" tooltipDescription="유페리아가 미쳐 날뛰기 시작했습니다." feature="LapentaDungeon" />
 	<key id="62100003" level="1" name="힘빠진 다리" tooltipDescription="그린 라펜타 웨이브에 휩쓸렸습니다.\n이동속도가 감소했습니다." feature="LapentaDungeon" />
 	<key id="62100004" level="1" name="찢어진 상처" tooltipDescription="그린 라펜타 웨이브에 휩쓸렸습니다.\n상처가 찢어져 지속적인 피해를 입습니다." feature="LapentaDungeon" />
@@ -4280,8 +4289,8 @@
 	<key id="70002190" level="1" name="유페리아의 저주" tooltipDescription="유페리아의 저주가 이 곳을 감쌉니다.\n체력이 지속적으로 감소합니다.\n[그린 라펜샤드에 공명] 효과로 상쇄됩니다." feature="LapentaDungeon" />
 	<key id="70002191" level="1" name="렌듀비앙의 저주" tooltipDescription="렌듀비앙의 저주가 이 곳을 감쌉니다.\n적중이 크게 감소합니다.\n[블루 라펜샤드에 공명] 효과로 상쇄됩니다." feature="LapentaDungeon" />
 	<key id="70002192" level="1" name="이슈라의 저주" tooltipDescription="이슈라의 저주가 이 곳을 감쌉니다.\n최대 체력과 이동 속도가 크게 감소합니다.\n[레드 라펜샤드에 공명] 효과로 상쇄됩니다." feature="LapentaDungeon" />
-	<key id="70002201" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Kritias_2018_12" />
-	<key id="70002221" level="1" name="군단의 결속 : 기운" tooltipDescription="군단이 결속합니다.\n서로에게 기운을 주고 받습니다." feature="Kritias_2018_12" />
+	<key id="70002201" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar01" />
+	<key id="70002221" level="1" name="군단의 결속 : 기운" tooltipDescription="군단이 결속합니다.\n서로에게 기운을 주고 받습니다." feature="Fieldwar01" />
 	<key id="70002231" level="1" name="군단 파괴자" tooltipDescription="군단을 파괴하는 능력을 지녔습니다." feature="Kritias_2018_12" />
 	<key id="70002241" level="1" name="군단 학살자" tooltipDescription="군단을 학살하는 능력을 지녔습니다." feature="Kritias_2018_12" />
 	<key id="70002251" level="1" name="군단 처리자" tooltipDescription="군단을 처리하는 능력을 지녔습니다." feature="Kritias_2018_12" />
@@ -4290,7 +4299,9 @@
 	<key id="70002321" level="1" name="군단 학살자" tooltipDescription="군단을 학살하는 능력을 지녔습니다." feature="Kritias_2018_12" />
 	<key id="70002331" level="1" name="군단 처리자" tooltipDescription="군단을 처리하는 능력을 지녔습니다." feature="Kritias_2018_12" />
 	<key id="70002341" level="1" name="군단 처형자" tooltipDescription="군단을 처형하는 능력을 지녔습니다." feature="Kritias_2018_12" />
-	<key id="70002361" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Kritias_2018_12" />
+	<key id="70002361" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar01" />
+	<key id="70002391" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar02" />
+	<key id="70002401" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar02" />
 	<key id="71000007" level="1" name="오르데의 매직 배리어" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n받는 피해량 25% 감소" />
 	<key id="71000008" level="1" name="오르데의 집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 30% 증가" />
 	<key id="71000012" level="1" name="뜨거운 용기" tooltipDescription="몸을 감도는 기운이 느껴집니다." feature="GuildRaid01" />
@@ -4341,6 +4352,9 @@
 	<key id="71001271" level="1" name="제한시간!" tooltipDescription="제한시간 내에 목표지점에 도착하세요!" feature="Kritias_2018_12" />
 	<key id="71001281" level="1" name="시간초과!" tooltipDescription="제한시간이 초과 되었습니다." feature="Kritias_2018_12" />
 	<key id="71001311" level="1" name="수줍음 상승" tooltipDescription="수줍음이 점점 상승합니다." feature="Kritias_2018_12" />
+	<key id="73000001" level="1" name="거대화" tooltipDescription="몸집이 커졌습니다." feature="Fieldwar02" />
+	<key id="73000002" level="1" name="T55 탑승" tooltipDescription="T55에 탑승했습니다." feature="Fieldwar02" />
+	<key id="73000003" level="1" name="스톤 골렘 탑승" tooltipDescription="스톤 골렘에 탑승했습니다." feature="Fieldwar02" />
 	<key id="79000001" level="1" name="영혼 부활의 저주 : 기력 증가" tooltipDescription="부활의 저주로 인해 능력이 증가됨\n공격력 10% 증가\n최대 9회까지 중첩" />
 	<key id="79000002" level="1" name="영혼 부활의 저주 : 기력 감소" tooltipDescription="부활의 저주로 인해 능력이 감소됨\n공격력 10% 감소\n최대 9회까지 중첩" />
 	<key id="79010010" level="1" name="기념품 효과" tooltipDescription="방어력 관통 4% 증가" />
@@ -5250,6 +5264,13 @@
 	<key id="90000917" level="1" name="격파 축하 폭죽" tooltipDescription="HP 6% 증가\n&lt;font color=&apos;#9FC93C&apos;&gt;격벽 격파를 축하하는 폭죽 효과이다.&lt;/font&gt;" />
 	<key id="90000918" level="1" name="격파 축하 폭죽" tooltipDescription="HP 6% 증가\n&lt;font color=&apos;#9FC93C&apos;&gt;격벽 격파를 축하하는 폭죽 효과이다.&lt;/font&gt;" />
 	<key id="90000919" level="1" name="먹음직한 열매" tooltipDescription="사냥/연주/낚시 경험치 1.5배 획득\n&lt;font color=&apos;#9FC93C&apos;&gt;열매의 달콤한 향이 남았다.&lt;/font&gt;" />
+	<key id="90000933" level="1" name="능력치마크 1" tooltipDescription="크리티컬 대미지 150 증가\n공격속도 4% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
+	<key id="90000934" level="1" name="능력치마크 2" tooltipDescription="보스 공격 시 대미지 7% 증가\nHP 500 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
+	<key id="90000935" level="1" name="능력치마크 3" tooltipDescription="보스 공격 시 대미지 4% 증가\n공격속도 5% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
+	<key id="90000936" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 2750 (실적용 1084)\nKR 70 엑설런트" />
+	<key id="90000937" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 3150 (실적용 1241)\nCN 70 엑설런트" />
+	<key id="90000938" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 지분 6.0%" />
+	<key id="90000939" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 지분 24.4%" />
 	<key id="90001001" level="1" name="트라이아에서 이동속도 5% 증가" tooltipDescription="트라이아에서 이동속도 5% 증가" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정\n99레벨의 스탯으로 보정" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정\n99레벨의 스탯으로 보정\n피해량, 회복량 감소" feature="KREquipmentBalance_01" />
@@ -5820,15 +5841,65 @@
 	<key id="90051620" level="1" name="영롱한 푸른빛" feature="KREquipmentBalance_01" />
 	<key id="90051621" level="1" name="미약한 푸른빛" tooltipDescription="블루 라펜타의 힘이 모이고 있습니다" feature="Level70Item" />
 	<key id="90051622" level="1" name="영롱하군요!!!" tooltipDescription="블루 라펜타의 힘으로 강력한 대미지를 동반합니다" feature="Level70Item" />
-	<key id="90051634" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, STR 200 증가" feature="PvPRankingDuelMode" />
-	<key id="90051635" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, DEX 200 증가" feature="PvPRankingDuelMode" />
-	<key id="90051636" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, INT 200 증가" feature="PvPRankingDuelMode" />
-	<key id="90051637" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, LUK 200 증가" feature="PvPRankingDuelMode" />
-	<key id="90051638" level="1" name="전장 및 투기장에서 HP 4500, 공격속도 15%, 명중 15, 행동 불가 시간 감소 50% 증가" feature="PvPRankingDuelMode" />
+	<key id="90051634" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, STR 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" locale="KR" />
+	<key id="90051635" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, DEX 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" locale="KR" />
+	<key id="90051636" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, INT 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" locale="KR" />
+	<key id="90051637" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, LUK 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" locale="KR" />
+	<key id="90051638" level="1" name="전장 및 투기장에서 HP 4500, 공격속도 15%, 명중 25, 행동 불가 시간 감소 50% 증가" feature="PvPRankingDuelMode" locale="KR" />
 	<key id="90051639" level="1" name="이동속도 6% 증가 (전장에서 미적용)" feature="Level70Item" />
 	<key id="90051640" level="1" name="지상 탈것 탑승 시 이동속도 20% 증가 (전장에서 미적용)" feature="Level70Item" />
 	<key id="90051641" level="1" name="에네르 부스트" feature="Level70Item" />
 	<key id="90051642" level="1" name="고대의 힘 강화" feature="Level70Item" />
+	<key id="90051650" level="1" name="타오르는 에너지" feature="Level70Item" />
+	<key id="90051651" level="1" name="에너지 보호막" tooltipDescription="시공의 힘이 몸을 감싸 전투력이 증가하고 피격 시 대미지를 흡수합니다." feature="Level70Item" />
+	<key id="90051653" level="1" name="전투력 530 증가 (전장에서 미적용)" feature="Level70Item" locale="CN" />
+	<key id="90051653" level="1" name="전투력 1700 증가 (전장에서 미적용)" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051654" level="1" name="전투력 330 증가 (전장에서 미적용)" feature="Level70Item" locale="CN" />
+	<key id="90051654" level="1" name="전투력 1050 증가 (전장에서 미적용)" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="1" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="2" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="3" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="4" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="5" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="6" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="7" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="8" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="9" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="10" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="11" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="1" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="2" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="3" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="4" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="5" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="6" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="7" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="8" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="9" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="10" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="11" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="1" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="2" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="3" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="4" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="5" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="6" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="7" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="8" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="9" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="10" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="11" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="1" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="2" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="3" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="4" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="5" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="6" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="7" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="8" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="9" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="10" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="11" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="91000011" level="1" name="카운터 발동 시 SP 3 회복" />
 	<key id="91000021" level="1" name="광전사의 혼 상태 중에 매 초마다 HP 1.0% 회복" />
 	<key id="91000041" level="1" name="홀리 익스플로전 명중 시 7.0% 추가 대미지" />
@@ -8193,6 +8264,116 @@
 	<key id="120020192" level="8" name="분노" tooltipDescription="분노가 쌓이고 있습니다\n물리/마법 대미지 증가, 방어력 감소" feature="Lapenshard01" />
 	<key id="120020192" level="9" name="분노" tooltipDescription="분노가 쌓이고 있습니다\n물리/마법 대미지 증가, 방어력 감소" feature="Lapenshard01" />
 	<key id="120020192" level="10" name="분노" tooltipDescription="분노가 쌓이고 있습니다\n물리/마법 대미지 증가, 방어력 감소" feature="Lapenshard01" />
+	<key id="120020220" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020220" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020222" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020224" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020226" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020228" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020230" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020232" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020234" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020236" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020238" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="1" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="2" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="3" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="4" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="5" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="6" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="7" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="8" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="9" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
+	<key id="120020240" level="10" name="파멸의 날개" tooltipDescription="파멸의 날개짓으로 공격속도, 무기공격력, 이동속도가 증가하고 주변 적에게 피해를 줍니다" feature="Lapenshard01" />
 	<key id="120030008" level="1" name="유페리아의 분노" tooltipDescription="1초 간격으로 체력 1.5% 감소" feature="Lapenshard01" />
 	<key id="120030008" level="2" name="유페리아의 분노" tooltipDescription="1초 간격으로 체력 1.5% 감소" feature="Lapenshard01" />
 	<key id="120030008" level="3" name="유페리아의 분노" tooltipDescription="1초 간격으로 체력 1.5% 감소" feature="Lapenshard01" />

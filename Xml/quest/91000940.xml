@@ -19,7 +19,9 @@
 			<remoteComplete useRemote="Cinematic" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="item_exist" code="30001289" value="3" />
+			<condition type="item_exist" code="30001289" value="3">
+				<navi type="interact" code="10001384" map="02020018" />
+			</condition>
 		</quest>
 	</environment>
 </ms2>

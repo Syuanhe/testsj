@@ -195,6 +195,7 @@
 			<tab name="3019" category="Mide" priority="4" />
 			<tab name="3004" category="Ride" priority="5" />
 			<tab name="1014" category="Pet" priority="6" />
+			<tab name="1011" category="Badge" priority="7" />
 			<tab name="3039" category="CouponNScroll" priority="90" />
 			<tab name="2015" category="PS,PetTaming" priority="30" />
 			<tab name="2019" category="DS" priority="40" />
@@ -441,11 +442,12 @@
 		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="1">
 			<tab name="2031" category="SKIN" priority="2" static="0" />
 			<tab name="1009" category="Ride" priority="1" static="0" />
-			<tab name="2079" category="Instrument" priority="3" static="0" />
-			<tab name="1006" category="EventHouse" priority="4" static="0" />
-			<tab name="1013" category="Coupon" priority="5" static="0" />
-			<tab name="2015" category="PS" priority="5" static="0" />
-			<tab name="1010" category="BBEtc" priority="6" />
+			<tab name="1011" category="EventBadge" priority="3" static="0" />
+			<tab name="2079" category="Instrument" priority="4" static="0" />
+			<tab name="1006" category="EventHouse" priority="5" static="0" />
+			<tab name="1013" category="Coupon" priority="6" static="0" />
+			<tab name="2015" category="PS" priority="7" static="0" />
+			<tab name="1010" category="BBEtc" priority="8" />
 		</tab>
 	</category>
 	<category id="34">

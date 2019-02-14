@@ -18,6 +18,12 @@
     </textureani>
   </emotion>
 
+   <emotion type="1" name="attack">
+    <textureani target="FA">
+    <texture file="Npc_Common/21000697_M_CatCleoWhite_Idle01.dds" control="" delay="1800" loop="true"/>
+    </textureani>
+  </emotion> 
+  
   <emotion type="1" name="skill">
     <textureani target="FA">
       <texture file="Npc_Common/21000697_M_CatCleoWhite_Skill.dds" control="" delay="1600" loop="true"/>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2> 
+
 	<state name="대기">	
 				<condition name="UserValue" key="ZakumArmDeath05" value="1">
-					<transition state="트로피지급" />
-				</condition>						
+					<transition state="종료" /> <!-- 리버스 레이드 시절 자쿰팔 잡으면 트로피 주던 기능이였는데, 카오스 자쿰 던전에서는 사용 안함-->
+				</condition>						 
 	</state>     	
 	
 	<state name="트로피지급">

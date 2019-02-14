@@ -36,4 +36,6 @@
 	<skillSet id="99910370" skillIDs="99910371, 99910372" skillLevels="1,1" />
 	<skillSet id="99930001" feature="Kritias_2018_12" skillIDs="70003001" skillLevels="1" />
 	<skillSet id="99930011" feature="Kritias_2018_12" skillIDs="70003041" skillLevels="1" />
+	<skillSet id="99930021" feature="Fieldwar02" skillIDs="70003091, 70003101, 70003131" skillLevels="1,1,1" />
+	<skillSet id="99930031" feature="Fieldwar02" skillIDs="70003121, 70003122, 70003123" skillLevels="1,1,1" />
 </ms2>

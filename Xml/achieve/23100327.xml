@@ -7,4 +7,22 @@
 			<reward type="title" code="10000483" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="23100327" account="0" icon="hero_life.PNG" noticePercent="1" locking="" categoryTag="living,life" feature="PetBattle" locale="JP">
+		<grade value="1">
+			<condition type="pet_first_collect" code="61100050" value="1" target="" />
+			<reward type="title" code="10000483" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23100327" account="0" icon="hero_life.PNG" noticePercent="1" locking="" categoryTag="living,life" feature="PetBattle" locale="TH">
+		<grade value="1">
+			<condition type="pet_first_collect" code="61100050" value="1" target="" />
+			<reward type="title" code="10000483" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23100327" account="0" icon="hero_life.PNG" noticePercent="1" locking="" categoryTag="living,life" feature="PetBattle" locale="TW">
+		<grade value="1">
+			<condition type="pet_first_collect" code="61100050" value="1" target="" />
+			<reward type="title" code="10000483" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

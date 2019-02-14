@@ -4,7 +4,7 @@
 	<basic feature="JobChange_02">
 		<ui icon="./Data/Resource/Image/skill/icon/10400181.png" movie="" exceptUI="1" attackType="2" disableChangeSkillIconEffect="1" />
 		<kinds type="0" subType="2" rangeType="2" continue="0" spRecoverySkill="0" element="4" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
-		<stateAttr battle="1" speedRank="0" superArmor="0" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="1" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
+		<stateAttr battle="1" speedRank="0" superArmor="3" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="1" useInGameTime="0" cooldownGroupID="10400181" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>
 	<level value="1" feature="JobChange_02">
 		<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="60" useCoolDownShowUI="1" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
@@ -29,7 +29,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="1" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="1" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -92,7 +92,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="2" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="2" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -155,7 +155,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="3" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="3" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -218,7 +218,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="4" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="4" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -281,7 +281,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="5" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="5" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -344,7 +344,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="6" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="6" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -407,7 +407,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="7" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="7" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -470,7 +470,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="8" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="8" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -533,7 +533,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="9" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="9" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -596,7 +596,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="10" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="10" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -659,7 +659,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="11" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="11" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>
@@ -722,7 +722,7 @@
 				<stat />
 			</beginCondition>
 		</conditionSkill>
-		<conditionSkill splash="0" level="12" skillID="10400183" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
+		<conditionSkill splash="0" level="12" skillID="10400184" skillTarget="1" skillOwner="0" delay="0" interval="0" immediateActive="0" fireCount="1" nonTargetActive="0" useDirection="0" onlySensingActive="0" dependOnCasterState="0" activeByIntervalTick="0" dependOnDamageCount="0">
 			<beginCondition level="1" gender="2" target="0" probability="1" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="1" onlyBattleRidingState="0">
 				<stat />
 			</beginCondition>

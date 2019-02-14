@@ -22,13 +22,5 @@
 			<condition type="fish_big" code="" value="1000" target="" />
 			<reward type="title" code="10000196" value="0" rank="1" />
 		</grade>
-		<grade value="6">
-			<condition type="fish_big" code="" value="3000" target="" />
-			<reward type="" code="0" value="0" rank="1" />
-		</grade>
-		<grade value="7">
-			<condition type="fish_big" code="" value="5000" target="" />
-			<reward type="title" code="10000632" value="0" rank="1" />
-		</grade>
 	</achieves>
 </ms2>

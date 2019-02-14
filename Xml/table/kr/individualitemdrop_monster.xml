@@ -13546,8 +13546,80 @@
 	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000721" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
 	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000731" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
 	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000741" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
-	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000751" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
-	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000761" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
-	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000771" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000751" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000761" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" feature="Striker" />
+	<individualDropBox individualDropBoxID="23090006" dropGroup="54" item="42000771" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="23090006" dropGroup="655" item="12100112" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="1" item="20302294" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="94" item="36000436" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="94" item="36000437" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="94" item="36000433" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="94" item="36000434" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="94" item="36000435" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000450" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000451" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000452" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000453" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000454" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000455" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000456" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000457" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000458" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000459" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="Striker" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9004" item="36000460" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="SoulBinder" />
+	<individualDropBox individualDropBoxID="23000073" dropGroup="9005" item="12000111" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="1" item="20302296" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="94" item="36000436" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="94" item="36000437" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="94" item="36000433" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="94" item="36000434" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="94" item="36000435" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000461" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000462" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000463" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000464" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000465" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000466" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000467" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000468" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000469" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000470" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="Striker" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9004" item="36000471" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="SoulBinder" />
+	<individualDropBox individualDropBoxID="23000151" dropGroup="9006" item="11800130" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="1" item="20302295" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="94" item="36000436" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="94" item="36000437" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="94" item="36000433" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="94" item="36000434" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="94" item="36000435" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000450" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000451" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000452" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000453" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000454" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000455" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000456" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000457" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000458" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000459" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="Striker" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9004" item="36000460" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="SoulBinder" />
+	<individualDropBox individualDropBoxID="23000072" dropGroup="9005" item="12000111" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="1" item="20302297" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="94" item="36000436" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="94" item="36000437" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="94" item="36000433" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="94" item="36000434" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="94" item="36000435" enchantLevel="0" socketDataID="" minCount="4" maxCount="4" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000461" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000462" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000463" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000464" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000465" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000466" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000467" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000468" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000469" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="RuneBlader" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000470" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="Striker" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9004" item="36000471" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" locale="KR" feature="SoulBinder" />
+	<individualDropBox individualDropBoxID="23000150" dropGroup="9006" item="11800130" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" locale="KR" />
 </ms2>

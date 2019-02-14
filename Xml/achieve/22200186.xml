@@ -29,4 +29,46 @@
 			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400089,female:10400090" />
 		</grade>
 	</achieves>
+	<achieves id="22200186" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="JP">
+		<grade value="1">
+			<condition type="npc" code="24000409" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="24000409" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="24000409" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400089,female:10400090" />
+		</grade>
+	</achieves>
+	<achieves id="22200186" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="TH">
+		<grade value="1">
+			<condition type="npc" code="24000409" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="24000409" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="24000409" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400089,female:10400090" />
+		</grade>
+	</achieves>
+	<achieves id="22200186" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Season1" locale="TW">
+		<grade value="1">
+			<condition type="npc" code="24000409" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="npc" code="24000409" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="npc" code="24000409" value="100" target="" />
+			<reward type="beauty_makeup" code="0" value="0" rank="1" extra="male:10400089,female:10400090" />
+		</grade>
+	</achieves>
 </ms2>

@@ -13,4 +13,22 @@
 			<reward type="title" code="10000084" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="23300003" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,collect" feature="Season1" locale="JP">
+		<grade value="1">
+			<condition type="item_collect_revise" code="39000014,39000016,39000017,39000015,39000018,39000019" value="6" target="" />
+			<reward type="title" code="10000084" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23300003" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,collect" feature="Season1" locale="TH">
+		<grade value="1">
+			<condition type="item_collect_revise" code="39000014,39000016,39000017,39000015,39000018,39000019" value="6" target="" />
+			<reward type="title" code="10000084" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23300003" account="0" icon="hero_life.PNG" noticePercent="50" locking="" categoryTag="living,collect" feature="Season1" locale="TW">
+		<grade value="1">
+			<condition type="item_collect_revise" code="39000014,39000016,39000017,39000015,39000018,39000019" value="6" target="" />
+			<reward type="title" code="10000084" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

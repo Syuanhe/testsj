@@ -53,16 +53,16 @@
 	<fame alliance="GreenHood_KritiasExped" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="GreenHood_KritiasExped" grade="2" requirePoint="34000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="GreenHood_KritiasExped" grade="3" requirePoint="71500" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="GreenHood_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="GreenHood_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
+	<fame alliance="GreenHood_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
+	<fame alliance="GreenHood_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
 	<fame alliance="Lumiknight_KritiasExped" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="Lumiknight_KritiasExped" grade="2" requirePoint="34000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="Lumiknight_KritiasExped" grade="3" requirePoint="71500" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="Lumiknight_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="Lumiknight_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
+	<fame alliance="Lumiknight_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
+	<fame alliance="Lumiknight_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
 	<fame alliance="MapleUnion_KritiasExped" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="MapleUnion_KritiasExped" grade="2" requirePoint="34000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
 	<fame alliance="MapleUnion_KritiasExped" grade="3" requirePoint="71500" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="MapleUnion_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
-	<fame alliance="MapleUnion_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="" />
+	<fame alliance="MapleUnion_KritiasExped" grade="4" requirePoint="122000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
+	<fame alliance="MapleUnion_KritiasExped" grade="5" requirePoint="178000" additionalEffectID="" additionalEffectLevel="" feature="Kritias_2018_12" locale="KR" />
 </ms2>

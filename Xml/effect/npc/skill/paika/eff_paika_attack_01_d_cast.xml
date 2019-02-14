@@ -5,7 +5,7 @@
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
   </effect>
   
-  <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06100608" startDelay="0.0">
+  <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102359" startDelay="0.3">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
   </effect>
 </ms2>

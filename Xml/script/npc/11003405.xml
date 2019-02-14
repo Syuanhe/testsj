@@ -7,8 +7,11 @@
 	<monologue id="10" feature="" locale="">
 		<content text="$script:1003143806000927$" />
 	</monologue>
-	<monologue id="20" feature="" locale="">
+	<monologue id="20" feature="" locale="KR">
 		<content text="$script:1003143806000928$" />
+	</monologue>
+	<monologue id="20" feature="" locale="CN">
+		<content text="$script:0122202506001011$" />
 	</monologue>
 	<monologue id="30" feature="" locale="">
 		<content text="$script:1003143806000929$" />

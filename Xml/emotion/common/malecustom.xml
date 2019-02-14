@@ -3290,6 +3290,13 @@
 			<texture file="Item_Face/MC_face_smile.dds" control="" delay="100" loop="true" />
     </textureani>
   </emotion>
+
+    <emotion name="Ride_Run_043">
+    <anim name="Ride_Run_043" />
+    <textureani target="FA">
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="100" loop="true" />
+    </textureani>
+  </emotion>
   
      <emotion name="Ride_Jump_030">
     <anim name="Ride_Run_030" />
@@ -4537,6 +4544,16 @@
 			<texture file="Item_Face/MC_face_happy.dds" control="" loop="true" />
 		</textureani>
 	</emotion>
+	
+	
+	<!-- 스텝 셔플 댄스-->
+	<emotion name="Dance_W">
+		<anim name="Emotion_Dance_W" />
+		<idleAnim name="Emotion_Dance_W" />
+		<textureani target="FA">
+		<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="100" loop="true" />
+		</textureani>
+	</emotion>
 
   <emotion name="Halloween_Ghost_A">
     <anim name="Emotion_Halloween_Ghost_A" />
@@ -5561,6 +5578,26 @@
 		</textureani>
 		<effect file="CH/Emotion/Eff_Emotion_HalfBath_A.xml" />
 	</emotion>
+
+  <!--포잉포잉 댄스-->	
+    <emotion name="DancewithPoing_A">
+		<anim name="Emotion_DancewithPoing_A" />
+		<idleAnim name="Emotion_DancewithPoing_A" />		
+    <textureani target="FA">
+	  <texture file="Item_Face/MC_face_smile.dds" control="" loop="true" />
+    </textureani>
+		<effect file="CH/Emotion/Eff_Emotion_DancewithPoing_A.xml" />	
+  </emotion>	
+
+  <!--포잉과 놀아줘-->	
+    <emotion name="PlaywithPoing_A">
+		<anim name="Emotion_PlaywithPoing_A" />
+		<idleAnim name="Emotion_PlaywithPoing_A" />		
+    <textureani target="FA">
+	  <texture file="Item_Face/MC_face_smile.dds" control="" loop="true" />
+    </textureani>
+		<effect file="CH/Emotion/Eff_Emotion_PlaywithPoing_A.xml" />		
+  </emotion>		
 	
 <!--황금고래-->	
   <emotion name="FlyType001_Idle_A">
@@ -5624,6 +5661,25 @@
     <anim name="FlyType007_Run_A" />
     <textureani target="FA">
 			<texture file="Item_Face/MC_face_happy.dds" control="" loop="true" />
+    </textureani>
+  </emotion>  
+  
+    <!--빙글빙글 회오리 집-->	
+    <emotion name="FlyType011_Idle_A">
+    <anim name="FlyType011_Idle_A" />
+    <textureani target="FA">
+			<texture file="Item_Face/MC_face_syncope01.dds" control="" delay="140" loop="true" />
+			<texture file="Item_Face/MC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/MC_face_syncope03.dds" control="" delay="140" />	
+    </textureani>
+  </emotion>	
+
+  <emotion name="FlyType011_Run_A">
+    <anim name="FlyType011_Run_A" />
+    <textureani target="FA">
+			<texture file="Item_Face/MC_face_syncope01.dds" control="" delay="140" loop="true" />
+			<texture file="Item_Face/MC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/MC_face_syncope03.dds" control="" delay="140" />		
     </textureani>
   </emotion>  
   
@@ -5889,4 +5945,79 @@
 		</textureani>
 	</emotion>
 	
+	<!-- 2인 액션 수강증 : 초콜릿 냠냠 -->
+	<emotion name="Chocolate_Same_Male_Loop_A"> <!-- 10667ms -->
+		<anim name="Emotion_Chocolate_Same_Male_Loop_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_happy.dds" control="" delay="3150" loop="true"/>
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="2300"/> <!-- 5450ms -->
+			<texture file="Item_Face/MC_face_indifferent02.dds" control="" delay="2100"/> <!-- 7550ms -->
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="3117"/> <!-- 10667ms -->
+		</textureani>
+	</emotion>
+
+	<emotion name="Chocolate_Same_Male_Loop_B"> <!-- 10667ms -->
+		<anim name="Emotion_Chocolate_Same_Male_Loop_B" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_happy.dds" control="" delay="3450" loop="true"/>
+			<texture file="Item_Face/MC_face_hateyou.dds" control="" delay="1450"/> <!-- 4900ms -->
+			<texture file="Item_Face/MC_face_pathetic.dds" control="" delay="3000"/> <!-- 7900ms -->
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="2767"/> <!-- 10667ms -->
+		</textureani>
+	</emotion>
+
+	<emotion name="Chocolate_Diff_Male_Loop"> <!-- 10167ms -->
+		<anim name="Emotion_Chocolate_Diff_Male_Loop" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_expect.dds" control="" delay="3200" loop="true"/>
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="2050"/> <!-- 5250ms -->
+			<texture file="Item_Face/MC_face_expect.dds" control="" delay="2500"/> <!-- 7750ms -->
+			<texture file="Item_Face/MC_face_happy.dds" control="" delay="2417"/> <!-- 10667ms -->
+		</textureani>
+	</emotion>
+	
+	<!-- 2인 액션 수강증 : 캔디 러브 -->
+	<emotion name="CandyLove_Same_Male_Loop_A"> <!-- 2733ms -->
+		<anim name="Emotion_CandyLove_Same_Male_Loop_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<emotion name="CandyLove_Same_Male_Loop_B"> <!-- 2733ms -->
+		<anim name="Emotion_CandyLove_Same_Male_Loop_B" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<emotion name="CandyLove_Diff_Male_Loop"> <!-- 2733ms -->
+		<anim name="Emotion_CandyLove_Diff_Male_Loop" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_smile.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<!-- 2인 액션 수강증 : 눈물 젖은 사탕 -->
+	<emotion name="CandySorrow_Same_Male_Loop_A"> <!-- 2167ms -->
+		<anim name="Emotion_CandySorrow_Same_Male_Loop_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_gloomy.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<emotion name="CandySorrow_Same_Male_Loop_B"> <!-- 2167ms -->
+		<anim name="Emotion_CandySorrow_Same_Male_Loop_B" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_gloomy.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<emotion name="CandySorrow_Diff_Male_Loop"> <!-- 2167ms -->
+		<anim name="Emotion_CandySorrow_Diff_Male_Loop" />
+		<textureani target="FA">
+			<texture file="Item_Face/MC_face_gloomy.dds" control="" delay="" loop="true"/>
+		</textureani>
+	</emotion>
+
 </ms2>

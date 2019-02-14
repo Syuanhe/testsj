@@ -247,4 +247,5 @@
 	<individualDropBox individualDropBoxID="725020106" dropGroup="1" item="30001266" minCount="1" maxCount="1" feature="Kritias_Epic01" />
 	<individualDropBox individualDropBoxID="725020901" dropGroup="1" item="30001303" minCount="1" maxCount="1" feature="Kritias_2018_12" />
 	<individualDropBox individualDropBoxID="725020902" dropGroup="1" item="30001303" minCount="1" maxCount="1" feature="Kritias_2018_12" />
+	<individualDropBox individualDropBoxID="725021604" dropGroup="2" item="30001257" minCount="1" maxCount="1" feature="Kritias_2018_12" />
 </ms2>

@@ -4,10 +4,37 @@
 	<select id="0" feature="" locale="NA">
 		<content text="$script:0622133907010295$" />
 	</select>
+	<select id="0" feature="" locale="JP">
+		<content text="$script:0201172907013514$" />
+	</select>
+	<select id="0" feature="" locale="TH">
+		<content text="$script:0201172907013517$" />
+	</select>
+	<select id="0" feature="" locale="TW">
+		<content text="$script:0201172907013520$" />
+	</select>
 	<script randomPick="1" id="10" feature="" locale="NA">
 		<content text="$script:0622133907010296$" />
 	</script>
+	<script randomPick="1" id="10" feature="" locale="JP">
+		<content text="$script:0201172907013515$" />
+	</script>
+	<script randomPick="1" id="10" feature="" locale="TH">
+		<content text="$script:0201172907013518$" />
+	</script>
+	<script randomPick="1" id="10" feature="" locale="TW">
+		<content text="$script:0201172907013521$" />
+	</script>
 	<monologue id="20" feature="" locale="NA">
 		<content text="$script:0622133907010297$" />
+	</monologue>
+	<monologue id="20" feature="" locale="JP">
+		<content text="$script:0201172907013516$" />
+	</monologue>
+	<monologue id="20" feature="" locale="TH">
+		<content text="$script:0201172907013519$" />
+	</monologue>
+	<monologue id="20" feature="" locale="TW">
+		<content text="$script:0201172907013522$" />
 	</monologue>
 </ms2>

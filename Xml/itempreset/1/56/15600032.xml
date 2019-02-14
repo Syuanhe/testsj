@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="RH">
-      <asset weapon="56" name="urn:15600032_NuOrb" targetnode="Scene Root" attachnode="Scene Root" selfnode="Point01">
+      <asset weapon="56" name="urn:15600032_NuOrb" targetnode="Scene Root" attachnode="Scene Root" selfnode="Move_Point01">
 	  </asset>
     </slot>
     <slot name="LH">

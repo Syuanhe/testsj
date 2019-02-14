@@ -13,4 +13,22 @@
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22300035" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" categoryTag="adventure,quest" feature="Season3" locale="JP">
+		<grade value="1">
+			<condition type="quest" code="20001880" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22300035" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" categoryTag="adventure,quest" feature="Season3" locale="TH">
+		<grade value="1">
+			<condition type="quest" code="20001880" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22300035" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" categoryTag="adventure,quest" feature="Season3" locale="TW">
+		<grade value="1">
+			<condition type="quest" code="20001880" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

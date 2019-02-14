@@ -10,6 +10,6 @@
   </effect>
   
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/RuneBlader" event="04500096" startDelay="0.0">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+    <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect>  
 </ms2>

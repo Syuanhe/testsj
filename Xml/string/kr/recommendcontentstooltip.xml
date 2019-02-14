@@ -138,8 +138,12 @@
 	<key id="272" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;크리티아스&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n70레벨 달성 후, 트라이아에 있는 루미윈드 비행사와 대화를 하면 크리티아스로 이동할 수 있습니다." feature="Kritias_2018_12" />
 	<key id="273" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;군단전&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n매시 50분마다 군단전이 열립니다. 군단전에 참여하여 크리티아스를 지켜주세요." feature="Fieldwar01" />
 	<key id="274" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;기간티카&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n기간틱 드릴을 작동시키면, 기간티카가 등장합니다. 기간틱 드릴을 작동시키기 위해서는 기간틱 드릴 배터리가 필요합니다." feature="Gigantica01" />
-	<key id="275" />
-	<key id="276" />
+	<key id="275" feature="Kritias_Paika01" />
+	<key id="276" feature="Kritias_Balrog01" />
+	<key id="277" feature="Kritias_Zakum01" />
+	<key id="278" feature="Kritias_Zakum01" />
+	<key id="279" feature="Kritias_Inferno01" />
+	<key id="280" feature="Kritias_Inferno01" />
 	<key id="297" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;일일 퀘스트&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n퀸즈 타운 및 루델리 시티에서 일일 퀘스트를 완료하면 메소와 함께 루를 획득할 수 있습니다." />
 	<key id="298" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;푸른 별&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n푸른 별을 모아 별지기 상점을 방문해보세요. 다양한 아이템을 구입할 수 있습니다." feature="Season3" />
 	<key id="299" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;붉은 별&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n붉은 별을 모아 별지기 상점을 방문해보세요. 다양한 아이템을 구입할 수 있습니다." feature="Season3" />

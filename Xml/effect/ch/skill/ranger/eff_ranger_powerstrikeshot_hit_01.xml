@@ -7,6 +7,6 @@
   </effect>
   <effect type="vibrate" startDelay="0.0" duration="0.2" freq="10" amp="4"></effect>
   <effect type="soundEvent" group="MS2Sound/Sound/Skill/Ranger" event="02100032">
-    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+    <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
   </effect>
 </ms2>

@@ -53,4 +53,82 @@
 			<reward type="title" code="10000520" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22210021" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="adventure,voyageur,survival" feature="SurvivalContents03" locale="JP">
+		<grade value="1">
+			<condition type="holdtime" code="02000499" value="60" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="holdtime" code="02000499" value="180" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="holdtime" code="02000499" value="300" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="holdtime" code="02000499" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="holdtime" code="02000499" value="1800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="6">
+			<condition type="holdtime" code="02000499" value="3000" target="" />
+			<reward type="title" code="10000520" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210021" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="adventure,voyageur,survival" feature="SurvivalContents03" locale="TH">
+		<grade value="1">
+			<condition type="holdtime" code="02000499" value="60" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="holdtime" code="02000499" value="180" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="holdtime" code="02000499" value="300" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="holdtime" code="02000499" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="holdtime" code="02000499" value="1800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="6">
+			<condition type="holdtime" code="02000499" value="3000" target="" />
+			<reward type="title" code="10000520" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210021" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="adventure,voyageur,survival" feature="SurvivalContents03" locale="TW">
+		<grade value="1">
+			<condition type="holdtime" code="02000499" value="60" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="holdtime" code="02000499" value="180" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="holdtime" code="02000499" value="300" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="holdtime" code="02000499" value="600" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="holdtime" code="02000499" value="1800" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="6">
+			<condition type="holdtime" code="02000499" value="3000" target="" />
+			<reward type="title" code="10000520" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

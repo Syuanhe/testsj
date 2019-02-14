@@ -13,4 +13,22 @@
 			<reward type="title" code="10000536" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="21300102" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="JP">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="21300094,21300095,21300096,21300097,21300098,21300099" value="6" target="3" />
+			<reward type="title" code="10000536" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300102" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="TH">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="21300094,21300095,21300096,21300097,21300098,21300099" value="6" target="3" />
+			<reward type="title" code="10000536" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="21300102" account="0" icon="hero_battle.png" noticePercent="1" locking="1" contentsTag="Survival" categoryTag="combat,pvp,survival" feature="SurvivalContents03" locale="TW">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="21300094,21300095,21300096,21300097,21300098,21300099" value="6" target="3" />
+			<reward type="title" code="10000536" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

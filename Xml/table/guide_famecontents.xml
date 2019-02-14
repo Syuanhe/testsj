@@ -304,6 +304,14 @@
 			<condition type="fieldId" value="02000422" />
 			<condition type="questComplete" value="91000014" />
 			<condition dialogName="ShopDialog" isOpen="1" type="dialog" />
+			<condition type="anyOne">
+				<condition type="trigger" trigger="ShopOpen" value="210" />
+				<condition type="trigger" trigger="ShopOpen" value="207" />
+				<condition type="trigger" trigger="ShopOpen" value="206" />
+				<condition type="trigger" trigger="ShopOpen" value="208" />
+				<condition type="trigger" trigger="ShopOpen" value="209" />
+				<condition type="trigger" trigger="ShopOpen" value="211" />
+			</condition>
 		</open>
 		<close>
 			<condition type="fieldId" value="02000422" />

@@ -288,7 +288,7 @@
 	<quest questID="70300099" name="$map:02000027$의 $npc:11000273$$pp:와,과$ 대화하기" desc="" manual="" complete="" count="" locale="" />
 	<quest questID="70400001" name="모험[일반] : $dungeonTitle:25008001$에 도전하여 1라운드 통과하기" desc="" manual="" complete="" count="1" locale="" locking="1" />
 	<quest questID="70400002" name="모험[일반] : $dungeonTitle:25008001$에 도전하여 5라운드 통과하기" desc="" manual="" complete="" count="1" locale="" locking="1" />
-	<quest questID="70400003" name="루미윈드 비행사를 만나 루미윈드 타고 이동하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
+	<quest questID="70400003" name="카르카르 아일랜드에 있는 $map:02010043$ 방문하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70400004" name="나무 보물 상자 열어보기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70400005" name="망원경이 설치된 곳에서 망원경으로 풍경 감상하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70400006" name="메이플 투기장에 1회 참여해 끝까지 플레이하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
@@ -415,7 +415,7 @@
 	<quest questID="70500010" name="황금 보물 상자 열어보기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70500011" name="비틀린 공간의 틈 입장하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70500012" name="쉐도우 잡화 상인 $npc:11000953$의 상점 구경하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
-	<quest questID="70500013" name="달팽이 축사에서 축산물 수확하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
+	<quest questID="70500013" name="내 집에 있는 달팽이 축사에서 축산물 수확하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70500014" name="$map:02000002$ 또는 $map:02000424$에서 구리 광맥 채광하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70500015" name="$map:03000090$의 몬스터 처치하기" desc="" manual="" complete="" count="1" locale="" locking="0" />
 	<quest questID="70500016" name="$map:03000004$의 몬스터 처치하기" desc="" manual="" complete="" count="1" locale="" locking="0" />

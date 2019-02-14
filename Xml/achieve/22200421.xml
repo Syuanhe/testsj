@@ -67,4 +67,70 @@
 			<reward type="title" code="10000368" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22200421" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="JP">
+		<grade value="1">
+			<condition type="climb" code="02100000" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="climb" code="02100000" value="2000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="climb" code="02100000" value="3500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="climb" code="02100000" value="5500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="climb" code="02100000" value="8000" target="" />
+			<reward type="title" code="10000368" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200421" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="TH">
+		<grade value="1">
+			<condition type="climb" code="02100000" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="climb" code="02100000" value="2000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="climb" code="02100000" value="3500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="climb" code="02100000" value="5500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="climb" code="02100000" value="8000" target="" />
+			<reward type="title" code="10000368" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22200421" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="Develop" locale="TW">
+		<grade value="1">
+			<condition type="climb" code="02100000" value="1000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="climb" code="02100000" value="2000" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="climb" code="02100000" value="3500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="4">
+			<condition type="climb" code="02100000" value="5500" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="5">
+			<condition type="climb" code="02100000" value="8000" target="" />
+			<reward type="title" code="10000368" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

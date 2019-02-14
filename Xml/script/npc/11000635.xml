@@ -14,11 +14,9 @@
 		<content text="$script:0831180407002585$">
 			<distractor text="$script:0831180407002586$" goto="31" gotoFail="" />
 		</content>
+		<content text="$script:0831180407002588$" />
 	</script>
 	<script id="31" feature="" locale="">
 		<content text="$script:0831180407002587$" />
 	</script>
-	<monologue id="30" feature="" locale="">
-		<content text="$script:0831180407002588$" />
-	</monologue>
 </ms2>

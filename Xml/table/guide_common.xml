@@ -3753,4 +3753,21 @@
 			<action type="uiArrowDialog" align="1" direction="2" childName="m_slot.m_skillCommon" dialogName="MainPlayerInfo" entityId="40023" offset="10,-90,0" textId="40023" />
 		</openAction>
 	</event>
+	<event id="50100820" saveId="50100820" desc="크리티아스 에픽퀘스트" feature="Kritias_Epic01">
+		<open>
+			<condition type="myPlayerLevel" value="70" />
+			<condition type="allOf">
+				<condition type="questComplete" value="50100820" not="1" />
+				<condition type="questSatisfied" value="50100820" not="1" />
+				<condition type="questProgress" value="50100820" not="1" />
+			</condition>
+		</open>
+		<close>
+			<condition type="questProgress" value="50100820" />
+		</close>
+		<openAction>
+			<action type="uiSummary" isNotClose="0" textId="81073" />
+			<action type="SideNpcTalk" scriptID="50100820" npcID="11000119" illust="11000119" duration="10000" voice="" />
+		</openAction>
+	</event>
 </ms2>

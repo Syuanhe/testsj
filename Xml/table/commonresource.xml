@@ -16,6 +16,7 @@
 	<DEFAULT_BLIND_BANNER_PATH value="./Data/Resource/Image/ETC/bannerBlindDefault.png" />
 	<DEFAULT_MERATMARKET_IMAGE_PATH value="./Data/Resource/Image/Item/icon/default_market.png" />
 	<DEFAULT_MERATMARKET_LIMITED_ICON_PATH value="./Data/Resource/Image/Item/icon/default_limitbox.png" />
+	<DEFAULT_BLUEPRINT_TOOLTIP_IMAGE_PATH value="./Data/Resource/Image/Item/icon/EtcPreview/ugcDefualt.png" />
 	<UGC_ICON_CAPTURE_FILE_FULL_PATH value="./Custom/camera_icon.png" />
 	<objectShadowDDS value="./Data/Resource/Image/Effect/Shadow.dds" />
 	<vectorNoiseDDS value="./Data/Resource/Image/Effect/vector_noise.dds" />

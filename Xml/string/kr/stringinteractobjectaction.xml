@@ -1323,11 +1323,11 @@
 	<key id="10001369" name="에네르 확보하기" feature="Kritias_2018_12" />
 	<key id="10001370" name="에네르 확보하기" feature="Kritias_2018_12" />
 	<key id="10001371" name="메이플연합 특수임무 오브젝트01" feature="Kritias_2018_12" />
-	<key id="10001372" name="접근 코드 확보하기" feature="Kritias_2018_12" />
+	<key id="10001372" name="통신 코드 확보하기" feature="Kritias_2018_12" />
 	<key id="10001373" name="메인 제어기기 장악하기" feature="Kritias_2018_12" />
 	<key id="10001374" name="증폭기 설치" feature="Kritias_2018_12" />
 	<key id="10001375" name="기운 받기" feature="Kritias_2018_12" />
-	<key id="10001376" name=" 제단 파괴하기" feature="Kritias_2018_12" />
+	<key id="10001376" name=" 토템 파괴하기" feature="Kritias_2018_12" />
 	<key id="10001377" name="에네르 확보하기" feature="Kritias_2018_12" />
 	<key id="10001378" name="물자 확보하기" feature="Kritias_2018_12" />
 	<key id="10001379" name="철창 파괴하기" feature="Kritias_2018_12" />
@@ -1496,18 +1496,26 @@
 	<key id="10002138" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002139" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002140" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002141" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002142" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002143" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002144" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002145" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002146" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002147" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
-	<key id="10002148" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
+	<key id="10002141" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002142" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002143" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002144" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002145" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002146" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002147" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002148" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
 	<key id="10002149" name="레버 당기기" feature="Kritias_Paika01" />
 	<key id="10002150" name="레버 당기기" feature="Kritias_Paika01" />
 	<key id="10002151" name="레버 당기기" feature="Kritias_Paika01" />
 	<key id="10002152" name="레버 당기기" feature="Kritias_Paika01" />
+	<key id="10002153" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002154" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002155" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002156" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002157" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002158" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002159" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
+	<key id="10002160" name="검은군단 화염기관총 탑승" feature="Fieldwar02" />
 	<key id="10002161" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002162" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002163" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
@@ -1516,6 +1524,12 @@
 	<key id="10002166" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002167" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
 	<key id="10002168" name="검은군단 화염기관총 탑승" feature="Fieldwar01" />
+	<key id="10002169" name="보급 상자" feature="Fieldwar02" />
+	<key id="10002170" name="보급 상자" feature="Fieldwar02" />
+	<key id="10002171" name="보급 상자" feature="Fieldwar02" />
+	<key id="10002172" name="보급 상자" feature="Fieldwar02" />
+	<key id="10002173" name="보급 상자" feature="Fieldwar02" />
+	<key id="10002174" name="보급 상자" feature="Fieldwar02" />
 	<key id="10003001" name="겨우 작동하는 마크52 탑승" feature="Gigantica01" />
 	<key id="11000001" name="황금 보물 상자 열기" />
 	<key id="11000002" name="열기" />
@@ -1601,6 +1615,7 @@
 	<key id="11000110" name="스탠드 조명 켜기" />
 	<key id="11000111" name="캐럴 벨 트리 작동하기" />
 	<key id="11000112" name="아기 복돼지 날려 보내기" />
+	<key id="11000113" name="초코볼 풍선 조사하기" feature="Event" locale="NA" />
 	<key id="11100001" name="우유짜기" />
 	<key id="11100002" name="달걀채집" />
 	<key id="11100003" name="우유짜기" />

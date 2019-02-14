@@ -264,6 +264,9 @@
 	<individualDropBox individualDropBoxID="310001351" dropGroup="1" item="30001056" minCount="1" maxCount="1" feature="FameContents_EP1_01" />
 	<individualDropBox individualDropBoxID="310002011" dropGroup="1" item="30001129" minCount="1" maxCount="1" feature="Mastery05" />
 	<individualDropBox individualDropBoxID="310002121" dropGroup="1" item="30001179" minCount="1" maxCount="1" locale="NA" />
+	<individualDropBox individualDropBoxID="310002121" dropGroup="1" item="30001179" minCount="1" maxCount="1" locale="JP" />
+	<individualDropBox individualDropBoxID="310002121" dropGroup="1" item="30001179" minCount="1" maxCount="1" locale="TH" />
+	<individualDropBox individualDropBoxID="310002121" dropGroup="1" item="30001179" minCount="1" maxCount="1" locale="TW" />
 	<individualDropBox individualDropBoxID="310001385" dropGroup="1" item="30001259" minCount="1" maxCount="1" />
 	<individualDropBox individualDropBoxID="310001384" dropGroup="1" item="30001289" minCount="1" maxCount="1" feature="Kritias_2018_12" />
 	<individualDropBox individualDropBoxID="310001384" dropGroup="1" item="30001290" minCount="1" maxCount="1" feature="Kritias_2018_12" />

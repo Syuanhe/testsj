@@ -7,4 +7,22 @@
 			<reward type="shop_build" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="22210031" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="KarkarIsland" locale="JP">
+		<grade value="1">
+			<condition type="field_mission" code="72000577" value="1" target="" />
+			<reward type="shop_build" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210031" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="KarkarIsland" locale="TH">
+		<grade value="1">
+			<condition type="field_mission" code="72000577" value="1" target="" />
+			<reward type="shop_build" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="22210031" account="0" icon="hero_adventure.PNG" noticePercent="1" locking="" categoryTag="adventure,voyageur" feature="KarkarIsland" locale="TW">
+		<grade value="1">
+			<condition type="field_mission" code="72000577" value="1" target="" />
+			<reward type="shop_build" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

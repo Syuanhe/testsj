@@ -1004,6 +1004,7 @@
 	<key id="11001000" />
 	<key id="11001001" />
 	<key id="11001002" name="이벤트 도우미" />
+	<key id="11001002" name="이벤트 도우미" locale="CN" feature="Season1" />
 	<key id="11001003" name="이벤트 도우미" />
 	<key id="11001004" />
 	<key id="11001005" />
@@ -3296,9 +3297,9 @@
 	<key id="11004441" name="고고학자" feature="TreasureMap01" />
 	<key id="11004451" name="닥터" feature="Kritias_2018_12" />
 	<key id="11004456" />
-	<key id="11004457" name="승무원" />
-	<key id="11004458" name="승무원" />
-	<key id="11004459" name="승무원" />
+	<key id="11004457" name="승무원" feature="Kritias_2018_12" />
+	<key id="11004458" name="승무원" feature="Kritias_2018_12" />
+	<key id="11004459" name="승무원" feature="Kritias_2018_12" />
 	<key id="11004460" />
 	<key id="11004461" />
 	<key id="11004462" />
@@ -3318,27 +3319,27 @@
 	<key id="11004476" />
 	<key id="11004477" />
 	<key id="11004478" />
-	<key id="11004479" name="탐사대원" />
-	<key id="11004480" name="탐사대원" />
-	<key id="11004481" name="탐사대원" />
-	<key id="11004482" name="탐사대원" />
-	<key id="11004483" name="탐사대원" />
-	<key id="11004484" name="탐사대원" />
-	<key id="11004485" name="연구원" />
-	<key id="11004486" name="연구원" />
-	<key id="11004487" name="연구원" />
-	<key id="11004488" name="연구원" />
-	<key id="11004489" name="연구원" />
-	<key id="11004490" name="연구원" />
-	<key id="11004491" name="연구원" />
-	<key id="11004492" name="식물학자" />
-	<key id="11004493" name="생물학자" />
-	<key id="11004494" name="지질학자" />
-	<key id="11004495" name="물리학자" />
-	<key id="11004496" name="어류학자" />
-	<key id="11004497" name="어류학자" />
-	<key id="11004498" name="문학가" />
-	<key id="11004499" name="건축학자" />
+	<key id="11004479" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004480" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004481" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004482" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004483" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004484" name="탐사대원" feature="Kritias_2018_12" />
+	<key id="11004485" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004486" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004487" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004488" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004489" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004490" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004491" name="연구원" feature="Kritias_2018_12" />
+	<key id="11004492" name="식물학자" feature="Kritias_2018_12" />
+	<key id="11004493" name="생물학자" feature="Kritias_2018_12" />
+	<key id="11004494" name="지질학자" feature="Kritias_2018_12" />
+	<key id="11004495" name="물리학자" feature="Kritias_2018_12" />
+	<key id="11004496" name="어류학자" feature="Kritias_2018_12" />
+	<key id="11004497" name="어류학자" feature="Kritias_2018_12" />
+	<key id="11004498" name="문학가" feature="Kritias_2018_12" />
+	<key id="11004499" name="건축학자" feature="Kritias_2018_12" />
 	<key id="11004500" />
 	<key id="11004501" />
 	<key id="11004502" />
@@ -3373,6 +3374,7 @@
 	<key id="11004547" />
 	<key id="11004552" name="이벤트 도우미" />
 	<key id="11004553" />
+	<key id="11004554" />
 	<key id="11400001" />
 	<key id="11400002" />
 	<key id="11200000" name="닥터" />

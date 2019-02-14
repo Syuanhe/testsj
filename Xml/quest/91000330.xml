@@ -19,7 +19,7 @@
 			<remoteComplete useRemote="Cinematic" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="npc" code="25021601,25021602,25021603,25021604" value="20" />
+			<condition type="npc" code="25021601,25021602,25021603" value="20" />
 		</quest>
 	</environment>
 </ms2>

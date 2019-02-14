@@ -13,7 +13,7 @@
 				<essentialItem code="30001293" rank="4" count="1600" />
 				<essentialItem code="41000061" rank="3" count="2" />
 			</completeReward>
-			<progressMap progressMap="" />
+			<progressMap progressMap="02020051" />
 			<guide guideType="" guideIcon="" guideMinLevel="0" guideMaxLevel="0" />
 			<gotoNpc enable="0" gotoField="0" gotoPortal="0" />
 			<gotoDungeon state="0" gotoDungeon="0" gotoInstanceID="0" />

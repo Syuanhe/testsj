@@ -44,6 +44,6 @@
 		<maid maidID="11000768" />
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />
-		<housing filter="91" categoryTag="91,91" categoryIndex="91" trophyID="0" trophyLevel="1" interiorLevel="1" />
+		<housing filter="91" categoryTag="91,91" categoryIndex="91" trophyID="0" trophyLevel="1" interiorLevel="1" doNotInstallBlueprint="true" />
 	</environment>
 </ms2>
