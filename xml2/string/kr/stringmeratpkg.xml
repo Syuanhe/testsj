@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="SN_10000001" name="100-Meret Package" locale="NA" />
+	<key id="SN_10000002" name="500-Meret Package" locale="NA" />
+	<key id="SN_10000003" name="2,500-Meret Package" locale="NA" />
+	<key id="SN_10000004" name="5.000-Meret Package" locale="NA" />
+	<key id="SN_10000005" name="10,000-Meret Package" locale="NA" />
+	<key id="SN_90000001" name="Founder&apos;s Package A" locale="NA" />
+	<key id="SN_90000002" name="Founder&apos;s Package B" locale="NA" />
+	<key id="SN_90000003" name="Founder&apos;s Package C" locale="NA" />
+	<key id="SN_90000004" name="Founder&apos;s Package B Extra" locale="NA" />
+	<key id="SN_90000005" name="Founder&apos;s Package C Extra" locale="NA" />
+	<key id="SN_90000006" name="Founder&apos;s Package B, C Extra" locale="NA" />
+</ms2>

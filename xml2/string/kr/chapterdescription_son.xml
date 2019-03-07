@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<chapter id="2000" name="신대륙을 찾아서" isTutorial="" regionID="" />
+	<chapter id="2001" name="쌀쌀맞은 요정 팅" isTutorial="" regionID="" />
+	<chapter id="2002" name="안경을 찾아줘!" isTutorial="" regionID="" />
+	<chapter id="2003" name="실종된 페리온 주민들" isTutorial="" regionID="" />
+	<chapter id="2004" name="두꺼비는 왕자님!?" isTutorial="" regionID="" />
+	<chapter id="2005" name="엄티의 병세" isTutorial="" regionID="" />
+	<chapter id="2006" name="보스 던전 : 마크52 프로젝트" isTutorial="" regionID="" />
+	<chapter id="2007" name="보스 던전 : 지혜의 돌" isTutorial="" regionID="" />
+	<chapter id="2008" name="보스 던전 : 트리스탄의 숙명" isTutorial="" regionID="" />
+	<chapter id="2009" name="체리코코 사탕이 먹고 싶어요!" isTutorial="" regionID="" />
+	<chapter id="2010" name="$npcName:11001179$의 사업 아이템" isTutorial="" regionID="" />
+	<chapter id="2011" name="디자인 협회에서 알려드립니다." isTutorial="" regionID="" />
+	<chapter id="2012" name="빛나는 축복의 힘" isTutorial="" regionID="" />
+	<chapter id="2016" name="크리스마스의 마법" isTutorial="" regionID="" feature="Season1" />
+	<chapter id="2100" name="블러디 몽슈슈 호텔의 비밀" isTutorial="" regionID="" feature="Season1" />
+	<chapter id="2101" name="크리스마스 소동" isTutorial="" regionID="" feature="Season1" />
+	<chapter id="2102" name="수습 루돌프를 도와줘" isTutorial="" regionID="" feature="Season1" />
+	<chapter id="2103" name="크리스마스 댄스 파티" isTutorial="" regionID="" feature="Season1" />
+</ms2>

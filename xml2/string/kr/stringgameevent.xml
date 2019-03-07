@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="170001_TITLE" name="레이의 출석 체크" locale="CN" />
+	<key id="170001_TITLE" name="메이플 출석 체크" locale="NA" />
+	<key id="170002_TITLE" name="크리스마스 출석 체크" locale="NA" />
+	<key id="170004_TITLE" name="매일 보상 스크롤" locale="CN" />
+	<key id="170005_TITLE" name="OBT 보상 스크롤" locale="CN" />
+	<key id="170006_TITLE" name="스카이 포트리스 탑승 준비" locale="CN" />
+	<key id="170007_TITLE" name="춘절 매일 보상 스크롤" locale="CN" />
+	<key id="18051001_TITLE" name="CBT 출석 이벤트" locale="NA" />
+	<key id="20300000_TITLE" name="레이의 홍빠오 이벤트" locale="CN" />
+	<key id="20300000_DESC" name="특별한 여러분을 위한 깜짝 선물을 준비했어요! 제 작은 선물이 여러분에게 큰 기쁨이 되었으면 좋겠어요. 오늘도 행복하세요!" locale="CN" />
+	<key id="170008_TITLE" name="병아리 매일 보상 스크롤" locale="CN" />
+	<key id="170009_TITLE" name="스트라이커 매일 보상 스크롤" locale="CN" />
+	<key id="170010_TITLE" name="썸머 매일 보상 스크롤" locale="CN" />
+	<key id="171001_DESC" name="8월 23일 오전 8시부터 8월 30일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="CN" />
+	<key id="171001_DESC" name="Founder&apos;s Package C에 포함되어 제공되는 아이템입니다. Founder&apos;s Package는 10월 10일 점검 전까지 구입 가능합니다." locale="NA" />
+	<key id="171002_DESC" name="9월 13일 오전 8시부터 10월 11일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="CN" />
+	<key id="171002_DESC" name="11월 26일 오전 8시부터 12월 3일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="NA" />
+	<key id="171003_DESC" name="12월 6일 오전 8시부터 1월 10일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="CN" />
+	<key id="171003_DESC" name="12월 20일 오전 8시부터 1월 3일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="NA" />
+	<key id="620001_TITLE" name="메이플 포춘 쿠키 이벤트" locale="NA" />
+	<key id="620001_DESC" name="단풍 언덕 너머에서 살랑이는 바람을 타고 행운이 찾아왔어요! 특별한 여러분에게 큰 기쁨이 되었으면 좋겠어요. 우리는 퀸즈타운에서 다시 만나요~" locale="NA" />
+	<key id="20300003_TITLE" name="홍빠오 이벤트" locale="CN" />
+	<key id="20300003_DESC" name="특별한 여러분을 위한 깜짝 선물을 준비했어요! 작은 선물이 여러분에게 큰 기쁨이 되었으면 좋겠어요. 오늘도 행복하세요!" locale="CN" />
+	<key id="20300004_TITLE" name="홍빠오 이벤트" locale="CN" />
+	<key id="20300004_DESC" name="특별한 여러분을 위한 깜짝 선물을 준비했어요! 작은 선물이 여러분에게 큰 기쁨이 되었으면 좋겠어요. 오늘도 행복하세요!" locale="CN" />
+	<key id="171004_DESC" name="1월 17일 오전 8시부터 1월 31일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="NA" />
+	<key id="171005_DESC" name="2월 07일 오전 8시부터 2월 28일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="NA" />
+	<key id="1009_TITLE" name="윈터 파워 매일 보상 스크롤" locale="KR" />
+	<key id="1009_DESC" name="2월 14일부터 3월 14일 점검 전까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="KR" />
+</ms2>
