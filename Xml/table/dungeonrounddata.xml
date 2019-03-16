@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<DungeonRoundGroup id="90001">
+		<v rewardID="10000009" gearScore="19400" />
+		<v rewardID="10000010" gearScore="19400" />
+		<v rewardID="10000011" gearScore="19400" />
+		<v rewardID="10000012" gearScore="24000" />
+		<v rewardID="10000013" gearScore="24000" />
+		<v rewardID="10000014" gearScore="24000" />
+		<v rewardID="10000015" gearScore="24000" />
+		<v rewardID="10000016" gearScore="31400" />
+		<v rewardID="10000017" gearScore="31400" />
+		<v rewardID="10000018" gearScore="31400" />
+	</DungeonRoundGroup>
+</ms2>
