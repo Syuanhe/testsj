@@ -130,7 +130,7 @@
 			<action name="연출UI를설정한다" arg1="0"/>
 			<action name="연출UI를설정한다" arg1="2"/>
             <!--action name="이벤트UI를설정한다" arg1="0" arg2="0,0" /-->
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$52000063_QD__90000640__6$" arg3="1,3" />
+			<action name="ShowCountUI" text="$52000063_QD__90000640__6$" stage="1" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="경기시작" />

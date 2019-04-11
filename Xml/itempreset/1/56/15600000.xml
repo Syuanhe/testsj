@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="RH">
-      <asset name="Data/Resource/Model/Item/1/53/15600001_Orb_001_A.nif" targetnode="Scene Root" attachnode="Scene Root" selfnode="Point01">
+      <asset name="Data/Resource/Model/Item/1/56/15600001_Orb_001_A.nif" targetnode="Scene Root" attachnode="Scene Root" selfnode="Move_Point01">
 	  </asset>
     </slot>
     <slot name="LH">

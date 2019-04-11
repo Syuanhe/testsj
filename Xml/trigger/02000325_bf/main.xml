@@ -68,7 +68,7 @@
             <action name="오브젝트반응설정한다" arg1="10000739" arg2="1" />
             <action name="오브젝트반응설정한다" arg1="10000740" arg2="1" />
             <action name="이벤트UI를설정한다" arg1="0" arg2="1,3" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000325_BF__MAIN__3$" arg3="1,3" />
+			<action name="ShowCountUI" text="$02000325_BF__MAIN__3$" stage="1" count="3"  />
         </onEnter>
 					<condition name="WaitTick" waitTick="2000" > 
 						<transition state="1라운드" />
@@ -383,7 +383,7 @@
 			<action name="이펙트를설정한다" arg1="612" arg2="1" />
             <action name="오브젝트반응설정한다" arg1="10000740" arg2="1" />
             <action name="이벤트UI를설정한다" arg1="0" arg2="2,3" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000325_BF__MAIN__6$" arg3="2,3" />
+			<action name="ShowCountUI" text="$02000325_BF__MAIN__6$" stage="2" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="2000" > 
 					<transition state="2라운드" />
@@ -877,7 +877,7 @@
 			<action name="이펙트를설정한다" arg1="612" arg2="0" />
 			<!--action name="메쉬를설정한다" arg1="3000-3022" arg2="0" arg3="0" arg4="200" arg5="2" /-->
             <action name="이벤트UI를설정한다" arg1="0" arg2="3,3" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000325_BF__MAIN__9$" arg3="3,3" />
+			<action name="ShowCountUI" text="$02000325_BF__MAIN__9$" stage="3" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="2000" > 
 					<transition state="3라운드" />

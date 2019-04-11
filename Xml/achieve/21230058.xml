@@ -3,23 +3,23 @@
 <ms2>
 	<achieves id="21230058" account="1" icon="hero_battle_2.png" noticePercent="1" locking="" categoryTag="combat,boss" feature="Kandura">
 		<grade value="1">
-			<condition type="npc" code="23000082" value="1" target="" />
+			<condition type="npc" code="23000081,23000082" value="1" target="" />
 			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 		<grade value="2">
-			<condition type="npc" code="23000082" value="10" target="" />
+			<condition type="npc" code="23000081,23000082" value="10" target="" />
 			<reward type="shop_build" code="50740042" value="0" rank="1" />
 		</grade>
 		<grade value="3">
-			<condition type="npc" code="23000082" value="50" target="" />
+			<condition type="npc" code="23000081,23000082" value="50" target="" />
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="4">
-			<condition type="npc" code="23000082" value="100" target="" />
+			<condition type="npc" code="23000081,23000082" value="100" target="" />
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 		<grade value="5">
-			<condition type="npc" code="23000082" value="300" target="" />
+			<condition type="npc" code="23000081,23000082" value="300" target="" />
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>
 	</achieves>

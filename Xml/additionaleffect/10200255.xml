@@ -7,7 +7,7 @@
 		</beginCondition>
 		<BasicProperty level="1" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -35,7 +35,7 @@
 		</beginCondition>
 		<BasicProperty level="2" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -63,7 +63,7 @@
 		</beginCondition>
 		<BasicProperty level="3" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -91,7 +91,7 @@
 		</beginCondition>
 		<BasicProperty level="4" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -119,7 +119,7 @@
 		</beginCondition>
 		<BasicProperty level="5" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -147,7 +147,7 @@
 		</beginCondition>
 		<BasicProperty level="6" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -175,7 +175,7 @@
 		</beginCondition>
 		<BasicProperty level="7" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -203,7 +203,7 @@
 		</beginCondition>
 		<BasicProperty level="8" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -231,7 +231,7 @@
 		</beginCondition>
 		<BasicProperty level="9" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -259,7 +259,7 @@
 		</beginCondition>
 		<BasicProperty level="10" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -287,7 +287,7 @@
 		</beginCondition>
 		<BasicProperty level="11" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />
@@ -315,7 +315,7 @@
 		</beginCondition>
 		<BasicProperty level="12" accountEffect="0" group="0" buffType="2" buffSubType="0" buffCategory="0" eventBuffType="0" useInGameTime="0" durationTick="1000" intervalTick="1000" delayTick="0" keepCondition="0" resetCondition="1" maxBuffCount="1" dotCondition="0" invokeEvent="0" deadKeepEffect="0" logoutClearEffect="0" leaveFieldClearEffect="0" pvpOnOff="0" casterKeepEffect="0" casterIndividualEffect="0" coolDownTime="0" clearDistanceFromCaster="0" useInvokeEffectFactor="0" clearEffectFromPVPZone="0" doNotClearEffectFromEnterPVPZone="0" forceApplyTarget="0" ignoreReduceTimeCondition="0" skillGroupType="1" />
 		<MotionProperty sequenceName="" sequenceSpeed="0" startEffect="CH/Skill/Berserker/Eff_Berserker_BloodSlash_Start_01.xml" keepEffect="" stopEffect="" invokeEffect="" IgnoreOptimalHideStartEffect="false" IgnoreOptimalHideKeepEffect="false" IgnoreOptimalHideStopEffect="false" IgnoreOptimalHideInvokeEffect="false" hide="0" clearCondition="" alphaBlending="1" stun="0" confusion="0" confusionMove="0" soundPitch="0" abnormalImmuneBreak="5" revival="0" holdWeapon="1" chaosMode="0" scale="0" knockBackDistance="0" ignoreCollisionGroups="0" noFly="0" superArmor="0" skillUseDisable="0" skillUseDisableIDs="" />
-		<CancelEffectProperty cancelCheckSameCaster="0" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelPassiveEffect="0" cancelEffectCodes="10200243" cancelBuffCategories="" />
 		<ImmuneEffectProperty immuneEffectCodes="" immuneBuffCategories="" />
 		<ResetSkillCoolDownTimeProperty skillCodes="" />
 		<ModifyEffectDurationProperty effectCodes="" durationFactors="" />

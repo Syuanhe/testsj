@@ -289,6 +289,9 @@
 	<key id="10961" name='&lt;font color=&quot;#00a2ed&quot;&gt;키 타입 설정&lt;/font&gt; 버튼을 눌러 키 타입을 변경할 수 있습니다.' feature="MouseContoller" />
 	<key id="10970" name="게임 패드 사용/중지" feature="GamePad" />
 	<key id="10971" name='&lt;font color=&quot;#00a2ed&quot;&gt;게임 패드 ON/OFF&lt;/font&gt; 버튼을 눌러 게임 패드 사용 여부를 설정할 수 있습니다.' feature="GamePad" />
+	<key id="11100" name="이모티콘 창 열기" feature="ChatEmoticon" />
+	<key id="11110" name='이모티콘을 사용해보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;이모티콘&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 등록해서 채팅에서 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;다양한 감정 표현&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 할 수 있습니다.\n채팅 시 이모티콘 창에서 원하는 이모티콘을 선택 후 전송하면 채팅창에 이모티콘이 표시됩니다.\n&lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;메럿 마켓&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 있는 다양한 이모티콘 상품 중 원하는 스타일을 골라보세요.&lt;/font&gt;' feature="ChatEmoticon" />
+	<key id="11120" name="이모티콘 구경하기" feature="ChatEmoticon" />
 	<key id="20000" name='모두 함께 볼 수 있는 전광판입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는 전광판에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원하는 날짜와 시간을 예약&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자신이 등록한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 모두 함께 볼 수 있습니다. 하지만 다른 사람이 먼저 예약한 시간에는 자신의 사진을 예약할 수 없습니다.&lt;/font&gt;' />
 	<key id="20001" name='모두 함께 볼 수 있는 벽보입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;벽보&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에는 저렴한 비용으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누구나 자유롭게&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;사진을 붙일 수 있습니다. 하지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 사진이 등록되면 이전의 사진은 사라진다&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;는 점을 명심하세요.&lt;/font&gt;' />
 	<key id="20010" name='프로필을 등록하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 개성을 뽐낼 수 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 등록할 수 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;PC에 보관하고 있던 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋고&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필 카메라로 촬영한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋습니다. 남들과 다른 자신을 표현해 보세요.&lt;/font&gt;' />
@@ -497,7 +500,11 @@
 	<key id="81040" name='현장 임무 시작하기&#x0A;&lt;font color=&quot;#909090&quot;&gt;각 세력마다, 브리핑 없이&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;현장에서 즉시 수행할 수 있는 임무&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있습니다.&lt;/font&gt;&#x0A;&lt;font color=&quot;#909090&quot;&gt;이 임무들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;월드맵에 각 세력의 마크로 표시&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;되어 있으며,&lt;/font&gt;&#x0A;&lt;font color=&quot;#909090&quot;&gt;해당&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;지역에 도착하면 자동으로 임무가 시작&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' feature="FameContents" />
 	<key id="81041" name="[[icon:questaccept]]다크윈드 담당관과 대화" feature="FameContents" />
 	<key id="81042" name="[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="NA" />
-	<key id="81042" name="[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" />
+	<key id="81042" name="[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="JP" />
+	<key id="81042" name="[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="TH" />
+	<key id="81042" name="[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="TW" />
+	<key id="81042" name="[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="CN" />
+	<key id="81042" name="[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능" feature="FameContents" locale="KR" />
 	<key id="81043" name="[[icon:questcomplete]]다크윈드 담당관과 대화" feature="FameContents" />
 	<key id="81050" name='함선으로 복귀하는 두번째 방법&#x0A;&lt;font color=&quot;#00a2ed&quot;&gt;월드맵을 열고 함선 찾기를 눌러보세요.&lt;/font&gt; [g:메이플 월드를 순찰중인 함선을 &#x0A;찾을 수 있습니다. 이때] &lt;font color=&quot;#00a2ed&quot;&gt;함선을 클릭하면&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;언제 어디서든 탑승할 수 있습니다.&lt;/font&gt;' feature="FameContents" />
 	<key id="81051" name="함선 이동 메뉴 누르기" feature="FameContents" />
@@ -1171,6 +1178,11 @@
 	<key id="26300731" name='$npcName:11004345$의 오빠, &lt;font color=&quot;#00a2ed&quot;&gt;$npcName:11004359$&lt;/font&gt;$pp:를,을$ 찾아보세요.' />
 	<key id="26300732" name="[[icon:questprogress]] $item:30001259$ 줍기" />
 	<key id="26300733" name='&lt;font color=&quot;#00a2ed&quot;&gt;사다리&lt;/font&gt;를 타고 올라가 &lt;font color=&quot;#00a2ed&quot;&gt;$npcName:11004359$&lt;/font&gt;$pp:를,을$ 찾아보세요.' />
+	<key id="26300734" name='$npcName:11004558$$pp:를,을$ 지키는 &lt;font color=&quot;#00a2ed&quot;&gt;$npcName:27000115$&lt;/font&gt;들을 처치하세요!' feature="Event" />
+	<key id="26300735" name='문이 열렸어요. 출구에 있는 $item:30001342$$pp:를,을$ 주운 후 [[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;로 이동하세요.' feature="Event" />
+	<key id="26300736" name="[[icon:click]] 화살표를 클릭해, 방향을 선택하세요." feature="Event" />
+	<key id="26300737" name="[[icon:questaccept]] 신난다! 승리했어요!" feature="Event" />
+	<key id="26300738" name="[[icon:questprogress]] 아… 안돼! 졌어요!" feature="Event" />
 	<key id="26500201" name='&lt;font color=&quot;#00a2ed&quot;&gt;2명&lt;/font&gt; 이상 모여야 시작할 수 있습니다.' />
 	<key id="26500202" name="중앙에 불꽃이 피었습니다." />
 	<key id="26500301" name='&lt;font color=&quot;#00a2ed&quot;&gt;2명&lt;/font&gt; 이상 모여야 시작할 수 있습니다.' />

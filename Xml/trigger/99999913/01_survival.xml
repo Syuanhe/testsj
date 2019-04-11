@@ -225,7 +225,7 @@
 	
 	<state name="Countdown" >
 		<onEnter>		
-			<action name="이벤트UI를설정한다" arg1="2" arg2="경기 시작!" arg3="0,3" arg4="0"/>
+			<action name="ShowCountUI" text="경기 시작!" count="3"  />
         </onEnter>
 			<condition name="WaitTick" waitTick="3000" >
 				<transition state="AreaOpen"/> 

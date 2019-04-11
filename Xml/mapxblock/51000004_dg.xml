@@ -8,5 +8,5 @@
 		<camera position="-1421.786987, -3678.212158, 5653.421387" rotation="90.000000, 45.000000, -45.000000" />
 		<edit zoomfactor="3.44" />
 	</minimap>
-	<clientProperty />
+	<clientProperty bgDay="BG_Indoor_A.dds" />
 </ms2>

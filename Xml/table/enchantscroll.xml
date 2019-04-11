@@ -1452,6 +1452,20 @@
 	<scroll id="60600346" scrollType="1" grade="13" minLv="70" maxLv="70" slot="56" rank="5" feature="EnchantTransform01" />
 	<scroll id="60600347" scrollType="1" grade="14" minLv="70" maxLv="70" slot="56" rank="5" feature="EnchantTransform01" />
 	<scroll id="60600348" scrollType="1" grade="15" minLv="70" maxLv="70" slot="56" rank="5" feature="EnchantTransform01" />
+	<scroll id="60600349" scrollType="1" grade="10" minLv="70" maxLv="70" slot="13" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600350" scrollType="1" grade="10" minLv="70" maxLv="70" slot="14,15" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600351" scrollType="1" grade="10" minLv="70" maxLv="70" slot="16,17" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600352" scrollType="1" grade="10" minLv="70" maxLv="70" slot="32" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600353" scrollType="1" grade="10" minLv="70" maxLv="70" slot="50" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600354" scrollType="1" grade="10" minLv="70" maxLv="70" slot="52" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600355" scrollType="1" grade="10" minLv="70" maxLv="70" slot="33" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600356" scrollType="1" grade="10" minLv="70" maxLv="70" slot="51" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600357" scrollType="1" grade="10" minLv="70" maxLv="70" slot="53" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600358" scrollType="1" grade="10" minLv="70" maxLv="70" slot="31" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600359" scrollType="1" grade="10" minLv="70" maxLv="70" slot="34" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600360" scrollType="1" grade="10" minLv="70" maxLv="70" slot="54" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600361" scrollType="1" grade="10" minLv="70" maxLv="70" slot="55" rank="4" feature="EnchantTransform01" />
+	<scroll id="60600362" scrollType="1" grade="10" minLv="70" maxLv="70" slot="56" rank="4" feature="EnchantTransform01" />
 	<scroll id="20994101" scrollType="1" grade="10" minLv="20" maxLv="99" slot="30,32,33" rank="1,2,3,4" feature="EnchantScroll5099A" locale="KR" />
 	<scroll id="20994102" scrollType="1" grade="10" minLv="20" maxLv="99" slot="31,34" rank="1,2,3,4" feature="EnchantScroll5099A" locale="KR" />
 	<scroll id="20994103" scrollType="1" grade="10" minLv="20" maxLv="99" slot="50,51,52,53,54,55,56" rank="1,2,3,4" feature="EnchantScroll5099A" locale="KR" />
@@ -1561,6 +1575,21 @@
 	<scroll id="20996135" scrollType="1" grade="8" minLv="20" maxLv="50" slot="50,51,52,53,54" rank="1,2,3" locale="NA" />
 	<scroll id="20996136" scrollType="1" grade="8" minLv="20" maxLv="50" slot="14,15" rank="1,2,3" locale="NA" />
 	<scroll id="20996137" scrollType="1" grade="8" minLv="20" maxLv="50" slot="22" rank="1,2,3" locale="NA" />
+	<scroll id="20996133" scrollType="1" grade="8" minLv="20" maxLv="50" slot="32,33" rank="1,2,3" locale="JP" />
+	<scroll id="20996134" scrollType="1" grade="8" minLv="20" maxLv="50" slot="31,34" rank="1,2,3" locale="JP" />
+	<scroll id="20996135" scrollType="1" grade="8" minLv="20" maxLv="50" slot="50,51,52,53,54" rank="1,2,3" locale="JP" />
+	<scroll id="20996136" scrollType="1" grade="8" minLv="20" maxLv="50" slot="14,15" rank="1,2,3" locale="JP" />
+	<scroll id="20996137" scrollType="1" grade="8" minLv="20" maxLv="50" slot="22" rank="1,2,3" locale="JP" />
+	<scroll id="20996133" scrollType="1" grade="8" minLv="20" maxLv="50" slot="32,33" rank="1,2,3" locale="TH" />
+	<scroll id="20996134" scrollType="1" grade="8" minLv="20" maxLv="50" slot="31,34" rank="1,2,3" locale="TH" />
+	<scroll id="20996135" scrollType="1" grade="8" minLv="20" maxLv="50" slot="50,51,52,53,54" rank="1,2,3" locale="TH" />
+	<scroll id="20996136" scrollType="1" grade="8" minLv="20" maxLv="50" slot="14,15" rank="1,2,3" locale="TH" />
+	<scroll id="20996137" scrollType="1" grade="8" minLv="20" maxLv="50" slot="22" rank="1,2,3" locale="TH" />
+	<scroll id="20996133" scrollType="1" grade="8" minLv="20" maxLv="50" slot="32,33" rank="1,2,3" locale="TW" />
+	<scroll id="20996134" scrollType="1" grade="8" minLv="20" maxLv="50" slot="31,34" rank="1,2,3" locale="TW" />
+	<scroll id="20996135" scrollType="1" grade="8" minLv="20" maxLv="50" slot="50,51,52,53,54" rank="1,2,3" locale="TW" />
+	<scroll id="20996136" scrollType="1" grade="8" minLv="20" maxLv="50" slot="14,15" rank="1,2,3" locale="TW" />
+	<scroll id="20996137" scrollType="1" grade="8" minLv="20" maxLv="50" slot="22" rank="1,2,3" locale="TW" />
 	<scroll id="20996138" scrollType="1" grade="10" minLv="20" maxLv="50" slot="32,33" rank="1,2,3" />
 	<scroll id="20996139" scrollType="1" grade="10" minLv="20" maxLv="50" slot="31,34" rank="1,2,3" />
 	<scroll id="20996140" scrollType="1" grade="10" minLv="20" maxLv="50" slot="50,51,52,53,54,55,56" rank="1,2,3" />

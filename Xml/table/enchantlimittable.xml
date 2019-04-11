@@ -24,4 +24,13 @@
 	<limit slot="13" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="NA" />
 	<limit slot="16" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="NA" />
 	<limit slot="17" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="NA" />
+	<limit slot="13" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="JP" />
+	<limit slot="16" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="JP" />
+	<limit slot="17" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="JP" />
+	<limit slot="13" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TH" />
+	<limit slot="16" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TH" />
+	<limit slot="17" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TH" />
+	<limit slot="13" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TW" />
+	<limit slot="16" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TW" />
+	<limit slot="17" minLv="50" maxLv="99" maxGrade="15" feature="EnchantExpansion01" locale="TW" />
 </ms2>

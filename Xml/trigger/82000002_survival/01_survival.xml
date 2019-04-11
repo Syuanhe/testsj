@@ -334,7 +334,7 @@
 	<state name="Countdown" >
 		<onEnter>				
 			<action name="CreateFieldGame" type="MapleSurvivalTeam" />		
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$82000002_survival__01_SURVIVAL__10$" arg3="0,3" arg4="0"/>	
+			<action name="ShowCountUI" text="$82000002_survival__01_SURVIVAL__10$" stage="0" count="3"  />
         </onEnter>
 			<condition name="WaitTick" waitTick="3000" >
 				<transition state="AreaOpen"/> 

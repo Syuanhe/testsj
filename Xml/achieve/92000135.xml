@@ -7,4 +7,10 @@
 			<reward type="title" code="10000733" value="0" rank="1" />
 		</grade>
 	</achieves>
+	<achieves id="92000135" account="1" icon="emblem.png" noticePercent="1" locking="" feature="Event" locale="NA">
+		<grade value="1">
+			<condition type="play_rps_win" code="20302432" value="20" target="" />
+			<reward type="title" code="10000733" value="0" rank="1" />
+		</grade>
+	</achieves>
 </ms2>

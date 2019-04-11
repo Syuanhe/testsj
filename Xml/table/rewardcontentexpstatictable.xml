@@ -6,4 +6,7 @@
 	<table expTableID="100002">
 		<base exp="274000" />
 	</table>
+	<table expTableID="100003">
+		<base exp="1000000" />
+	</table>
 </ms2>

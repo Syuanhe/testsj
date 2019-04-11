@@ -9,7 +9,7 @@
     </customize>
     <slots>
     <slot name="RH">
-	 <asset gender="2" weapon="52" name="Data/Resource/Model/Item/0/52/05200003_YellowishTurner_Staff.nif" targetnode="Weapon_Back_B_Point" selfnode="Staff_Point01">
+	 <asset gender="2" weapon="52" name="Data/Resource/Model/Item/0/52/05200003_YellowishTurner_Staff.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01">
 	  <dummy gender="2" sequence="" rotation="0,-74,0" translation="0,4,0" />
       </asset>		
    	</slot>

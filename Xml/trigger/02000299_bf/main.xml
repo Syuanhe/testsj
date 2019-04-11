@@ -167,7 +167,7 @@
 			<action name="이펙트를설정한다" arg1="602" arg2="1" />
 			<action name="이펙트를설정한다" arg1="604" arg2="1" />
 			<action name="액터를설정한다" arg1="201" arg2="1" arg3="Opened_A" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000299_BF__MAIN__3$" arg3="1,3" />
+			<action name="ShowCountUI" text="$02000299_BF__MAIN__3$" stage="1" count="3"  />
 			<action name="액터를설정한다" arg1="290" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="291" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="292" arg2="1" arg3="sf_quest_light_A01_On" />
@@ -236,7 +236,7 @@
 			<action name="이펙트를설정한다" arg1="602" arg2="1" />
 			<action name="액터를설정한다" arg1="201" arg2="1" arg3="Opened_A" />
 			<action name="이펙트를설정한다" arg1="604" arg2="1" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000299_BF__MAIN__5$" arg3="1,3" />
+			<action name="ShowCountUI" text="$02000299_BF__MAIN__5$" stage="1" count="3"  />
 			<action name="액터를설정한다" arg1="290" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="291" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="292" arg2="1" arg3="sf_quest_light_A01_On" />
@@ -305,7 +305,7 @@
 			<action name="이펙트를설정한다" arg1="602" arg2="1" />
 			<action name="액터를설정한다" arg1="201" arg2="1" arg3="Opened_A" />
 			<action name="이펙트를설정한다" arg1="604" arg2="1" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000299_BF__MAIN__7$" arg3="1,3" />
+			<action name="ShowCountUI" text="$02000299_BF__MAIN__7$" stage="1" count="3"  />
 			<action name="액터를설정한다" arg1="290" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="291" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="292" arg2="1" arg3="sf_quest_light_A01_On" />
@@ -374,7 +374,7 @@
 			<action name="이펙트를설정한다" arg1="602" arg2="1" />
 			<action name="액터를설정한다" arg1="201" arg2="1" arg3="Opened_A" />
 			<action name="이펙트를설정한다" arg1="604" arg2="1" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$02000299_BF__MAIN__9$" arg3="1,3" />
+			<action name="ShowCountUI" text="$02000299_BF__MAIN__9$" stage="1" count="3"  />
 			<action name="액터를설정한다" arg1="290" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="291" arg2="1" arg3="sf_quest_light_A01_On" />
 			<action name="액터를설정한다" arg1="292" arg2="1" arg3="sf_quest_light_A01_On" />
@@ -537,7 +537,7 @@
 		<onEnter>
 		    <action name="타이머를설정한다" arg1="4" arg2="4"/>
 			        <action name="이펙트를설정한다" arg1="603" arg2="1" />
-                    <action name="이벤트UI를설정한다" arg1="2" arg2="$02000299_BF__MAIN__15$" arg3="1,3" />
+					<action name="ShowCountUI" text="$02000299_BF__MAIN__15$" stage="1" count="3"  />
 		</onEnter>
 				<condition name="시간이경과했으면" arg1="4">
                       <action name="유저를이동시킨다" arg1="02000304" arg2="1" />

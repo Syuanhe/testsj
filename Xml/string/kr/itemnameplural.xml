@@ -222,6 +222,7 @@
 	<key id="10200224" class="hair" name="엔젤스 롤링 헤어:s" />
 	<key id="10200225" class="hair" name="시크보이 컬링 헤어:s" />
 	<key id="10200226" class="hair" name="볼륨 단발 펌:s" />
+	<key id="10200229" class="hair" name="볼류밍 애즈펌:s" />
 	<key id="10300001" class="face" name="씩씩한 얼굴:s" />
 	<key id="10300002" class="face" name="똘똘한 얼굴:s" />
 	<key id="10300003" class="face" name="깜찍한 얼굴:s" />
@@ -389,6 +390,8 @@
 	<key id="10300165" class="face" name="샤프한 눈빛 얼굴:s" />
 	<key id="10300166" class="face" name="붉은 눈가 얼굴:s" />
 	<key id="10300167" class="face" name="붉은 눈가 얼굴:s" />
+	<key id="10300172" class="face" name="해맑은 얼굴:s" />
+	<key id="10300173" class="face" name="해맑은 얼굴:s" />
 	<key id="10400000" class="face mark" name="꾸미기 없음:s" />
 	<key id="10400001" class="face mark" name="부끄부끄 홍조:s" />
 	<key id="10400002" class="face mark" name="하트 타투:s" />
@@ -553,25 +556,85 @@
 	<key id="10400161" class="face mark" name="돛단배 페인팅:s" />
 	<key id="10400162" class="face mark" name="돛단배 페인팅:s" />
 	<key id="10400163" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400163" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400163" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400163" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400164" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400164" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400164" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400164" class="face mark" name="카르카르 스네이크 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400165" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400165" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400165" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400165" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400166" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400166" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400166" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400166" class="face mark" name="넬르미 꽃 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400167" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400167" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400167" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400167" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400168" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400168" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400168" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400168" class="face mark" name="니할왕가의 왕자 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400169" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400169" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400169" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400169" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400170" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400170" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400170" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400170" class="face mark" name="빛의 아이 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400171" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400171" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400171" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400171" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400172" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400172" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400172" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400172" class="face mark" name="루델리 모노레일 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400173" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400173" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400173" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400173" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400174" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400174" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400174" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400174" class="face mark" name="럭셔리 핸드백 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400175" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400175" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400175" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400175" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400176" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400176" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400176" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400176" class="face mark" name="미어캣 정찰대원 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400177" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400177" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400177" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400177" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400178" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400178" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400178" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400178" class="face mark" name="블랙노프호 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400179" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400179" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400179" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400179" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400180" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400180" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400180" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400180" class="face mark" name="물놀이 중인 스핑거 페인팅:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400181" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400181" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400181" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400181" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400182" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="NA" />
+	<key id="10400182" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="JP" />
+	<key id="10400182" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="TH" />
+	<key id="10400182" class="face mark" name="빛을 잃은 루미에라곤:s" feature="KarkarIsland" locale="TW" />
 	<key id="10400183" class="face mark" name="불꽃 팡팡 폭죽 페인팅:s" />
 	<key id="10400184" class="face mark" name="아기 큐피드 페인팅:s" />
 	<key id="10400185" class="face mark" name="펭귄 얼굴 페인팅:s" />
@@ -582,6 +645,8 @@
 	<key id="10400195" class="face mark" name="아기 큐피드 페인팅:s" />
 	<key id="10400196" class="face mark" name="펭귄 얼굴 페인팅:s" />
 	<key id="10400197" class="face mark" name="더블하트 페인팅:s" />
+	<key id="10400203" class="face mark" name="체리 페인팅:s" />
+	<key id="10400204" class="face mark" name="체리 페인팅:s" />
 	<key id="10500001" class="ear" name="귀:s" />
 	<key id="11050001" class="mouth" name="달콤한 막대사탕:s" />
 	<key id="11050002" class="mouth" name="멋쟁이 신사수염:s" />
@@ -633,7 +698,7 @@
 	<key id="11050049" class="mouth" name="턱밑 검은 마스크:s" />
 	<key id="11050050" class="mouth" name="턱밑 하얀 마스크:s" />
 	<key id="11050051" class="mouth" name="스위트 초콜릿:s" />
-	<key id="11050055" class="mouth" name="피노키오 코:s" />
+	<key id="11050055" class="mouth" name="쭉쭉 피노키오 코:s" />
 	<key id="11099999" class="system" name="투명기능_얼굴장식:s" />
 	<key id="11150001" class="eye" name="깔끔한 뿔테 안경:s" />
 	<key id="11150002" class="eye" name="세련된 호피무늬 안경:s" />
@@ -691,6 +756,7 @@
 	<key id="11150053" class="eye" name="가는테 안경:s" />
 	<key id="11150054" class="eye" name="VR 기기:s" />
 	<key id="11150055" class="eye" name="푸들 푸들 안대:s" />
+	<key id="11150056" class="eye" name="행운의 클로버 안경:s" />
 	<key id="11150057" class="eye" name="오버 윈터 체인 라운드 안경 (남):s" />
 	<key id="11150058" class="eye" name="오버 윈터 체인 라운드 안경 (여):s" />
 	<key id="11150059" class="eye" name="다 보여 스카우터:s" />
@@ -797,6 +863,8 @@
 	<key id="11200099" class="earring" name="제너러스 귀고리:s" feature="Level70Item" />
 	<key id="11200100" class="earring" name="크리티아시스 귀고리:s" feature="Level70Item" />
 	<key id="11200101" class="earring" name="강화된 품위의 귀고리:s" feature="Level70Item" />
+	<key id="11200102" class="earring" name="챠밍 스타 이어링:s" />
+	<key id="11200103" class="earring" name="러블리 퀸크빈 귀고리:s" feature="Colosseum01" />
 	<key id="11230031" class="earring" name="앱솔루트 이어링:s" />
 	<key id="11230044" class="earring" name="흉포한 귀고리:s" />
 	<key id="11230061" class="earring" name="검은 불꽃의 귀고리:s" />
@@ -926,6 +994,10 @@
 	<key id="11250119" class="earring" name="마르스 이어링:s" feature="LegendaryAccessory01" />
 	<key id="11250120" class="earring" name="품위의 귀고리:s" feature="PvPRankingDuelMode" />
 	<key id="11250135" class="earring" name="해피 슬라임 이어링:s" />
+	<key id="11250136" class="earring" name="살랑 벚꽃 귀고리:s" />
+	<key id="11250137" class="earring" name="페어리 메탈 이어링:s" />
+	<key id="11250138" class="earring" name="정열의 별빛 귀고리 (남):s" />
+	<key id="11250139" class="earring" name="정열의 물방울 귀고리 (여):s" />
 	<key id="11260044" class="earring" name="복제된 흉포의 귀고리:s" />
 	<key id="11260089" class="earring" name="블랙퓨리티 이어링:s" feature="Level60Item" />
 	<key id="11260090" class="earring" name="라펜샤드 이어링:s" feature="Level60Item" />
@@ -1495,8 +1567,8 @@
 	<key id="11300545" class="hat" name="꿈꾸는 갈매기 조나단:s" />
 	<key id="11300546" class="hat" name="[가칭] 50LV 이상 방어구 세트 A 모자:s" />
 	<key id="11300547" class="hat" name=":s" />
-	<key id="11300548" class="hat" name="백여우 방울귀 (남):s" />
-	<key id="11300549" class="hat" name="백여우 방울귀 (여):s" />
+	<key id="11300548" class="hat" name=":s" />
+	<key id="11300549" class="hat" name=":s" />
 	<key id="11300550" class="hat" name=":s" />
 	<key id="11300551" class="hat" name=":s" />
 	<key id="11300552" class="hat" name=":s" />
@@ -2317,6 +2389,13 @@
 	<key id="11301402" class="hat" name="강화된 품위의 의식 모자:s" feature="Level70Item" />
 	<key id="11301403" class="hat" name="슬라임 색동 도령모자 (남):s" />
 	<key id="11301404" class="hat" name="꽃송이 족두리 (여):s" />
+	<key id="11301405" class="hat" name="챠밍 캣 이어:s" />
+	<key id="11301406" class="hat" name="알록달록 화관:s" />
+	<key id="11301407" class="hat" name="자라나라 벚꽃벚꽃:s" />
+	<key id="11301408" class="hat" name="아기 공룡 모자:s" />
+	<key id="11301409" class="hat" name="정열의 솜브레로 (남):s" />
+	<key id="11301410" class="hat" name="정열의 장미꽃 머리핀 (여):s" />
+	<key id="11301411" class="hat" name="러블리 퀸크빈 크라운:s" feature="Colosseum01" />
 	<key id="11304762" class="hat" name="하랑 면류관 (남):s" />
 	<key id="11304763" class="hat" name="나예 가체 (여):s" />
 	<key id="11304764" class="hat" name="샤인 스타 베레모 (남):s" />
@@ -2372,6 +2451,8 @@
 	<key id="11304814" class="hat" name="블랙키튼 메이드 프릴 머리띠 (여):s" />
 	<key id="11304815" class="hat" name="마드리아 인형 모자:s" />
 	<key id="11304816" class="hat" name="콩콩 캥거루 모자:s" />
+	<key id="11304817" class="hat" name="행운의 녹색 모자:s" />
+	<key id="11304819" class="hat" name="행운의 붉은 모자:s" />
 	<key id="11304820" class="hat" name="따끈따끈 돼지 만두 모자:s" />
 	<key id="11304821" class="hat" name="러블리 하트 리본:s" feature="Event" />
 	<key id="11304822" class="hat" name="사랑은 방울방울:s" feature="Event" />
@@ -2629,6 +2710,17 @@
 	<key id="11351147" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (룬블레이더):s" locale="NA" />
 	<key id="11351148" class="hat" name="엘리트 어드벤쳐 마샬 써클릿 (스트라이커):s" locale="NA" />
 	<key id="11351149" class="hat" name="엘리트 어드벤쳐 마샬 써클릿 (소울바인더):s" locale="NA" />
+	<key id="11351150" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (나이트):s" feature="Level60Item" />
+	<key id="11351151" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (버서커):s" feature="Level60Item" />
+	<key id="11351152" class="hat" name="엘리트 어드벤쳐 매직 햇 (위자드):s" feature="Level60Item" />
+	<key id="11351153" class="hat" name="엘리트 어드벤쳐 매직 햇 (프리스트):s" feature="Level60Item" />
+	<key id="11351154" class="hat" name="엘리트 어드벤쳐 스카우트 햇 (레인저):s" feature="Level60Item" />
+	<key id="11351155" class="hat" name="엘리트 어드벤쳐 스카우트 햇 (헤비거너):s" feature="Level60Item" />
+	<key id="11351156" class="hat" name="엘리트 어드벤쳐 스니킹 오브젝트 (시프):s" feature="Level60Item" />
+	<key id="11351157" class="hat" name="엘리트 어드벤쳐 스니킹 오브젝트 (어쌔신):s" feature="Level60Item" />
+	<key id="11351158" class="hat" name="엘리트 어드벤쳐 배틀 헬맷 (룬블레이더):s" feature="Level60Item" />
+	<key id="11351159" class="hat" name="엘리트 어드벤쳐 마샬 써클릿 (스트라이커):s" feature="Level60Item" />
+	<key id="11351160" class="hat" name="엘리트 어드벤쳐 마샬 써클릿 (소울바인더):s" feature="Level60Item" />
 	<key id="11360073" class="hat" name="나르바샨 다크 스위프트 버글러:s" />
 	<key id="11360077" class="hat" name="나르바샨 샤이닝 위자드리 햇:s" />
 	<key id="11360078" class="hat" name="나르바샨 나이티지 버거넷:s" />
@@ -3004,16 +3096,16 @@
 	<key id="11390936" class="" name="리버스 룬 블레이더 컴뱃캡 (LV56):s" feature="ItemExtraction" />
 	<key id="11390937" class="" name="리버스 스트라이커 컴뱃캡 (LV56):s" feature="ItemExtraction" />
 	<key id="11390938" class="" name="리버스 소울바인더 컴뱃캡 (LV56):s" feature="ItemExtraction" />
-	<key id="11390943" class="" name="안티크 에라곤 써클릿:s" feature="Level70Item" />
-	<key id="11390944" class="" name="타이렌 컴뱃 써클릿:s" feature="Level70Item" />
-	<key id="11390945" class="" name="타이렌 커맨더 컴뱃 써클릿:s" feature="Level70Item" />
-	<key id="11390946" class="" name="안티크 인페누크 헬멧:s" feature="Level70Item" />
 	<key id="11390939" class="hat" name="오리엔탈 엔젤 헤어 (남):s" />
 	<key id="11390940" class="hat" name="오리엔탈 엔젤 헤어 (여):s" />
 	<key id="11390941" class="hat" name="오리엔탈 페어리 비녀장식 (남):s" locale="CN" />
 	<key id="11390941" class="hat" name="천계의 선인 비녀장식 (남):s" locale="KR" />
 	<key id="11390942" class="hat" name="오리엔탈 페어리 꽃장식 (여):s" locale="CN" />
 	<key id="11390942" class="hat" name="천계의 선녀 꽃장식 (여):s" locale="KR" />
+	<key id="11390943" class="" name="안티크 에라곤 써클릿:s" feature="Level70Item" />
+	<key id="11390944" class="" name="타이렌 컴뱃 써클릿:s" feature="Level70Item" />
+	<key id="11390945" class="" name="타이렌 커맨더 컴뱃 써클릿:s" feature="Level70Item" />
+	<key id="11390946" class="" name="안티크 인페누크 헬멧:s" feature="Level70Item" />
 	<key id="11399997" class="" name="블러드 레퀴엠 모자:s" feature="ItemExtraction" />
 	<key id="11399999" class="system" name="투명기능_모자:s" />
 	<key id="11400001" class="coat" name="초보자 운동복:s" />
@@ -4370,6 +4462,11 @@
 	<key id="11451040" class="coat" name="엘리트 어드벤쳐 배틀 코트 (룬블레이더):s" locale="NA" />
 	<key id="11451041" class="coat" name="엘리트 어드벤쳐 마샬 셔츠 (스트라이커):s" locale="NA" />
 	<key id="11451042" class="coat" name="엘리트 어드벤쳐 마샬 셔츠 (소울바인더):s" locale="NA" />
+	<key id="11451043" class="coat" name="엘리트 어드벤쳐 배틀 코트 (나이트):s" feature="Level60Item" />
+	<key id="11451044" class="coat" name="엘리트 어드벤쳐 배틀 코트 (버서커):s" feature="Level60Item" />
+	<key id="11451045" class="coat" name="엘리트 어드벤쳐 배틀 코트 (룬블레이더):s" feature="Level60Item" />
+	<key id="11451046" class="coat" name="엘리트 어드벤쳐 마샬 셔츠 (스트라이커):s" feature="Level60Item" />
+	<key id="11451047" class="coat" name="엘리트 어드벤쳐 마샬 셔츠 (소울바인더):s" feature="Level60Item" />
 	<key id="11460048" class="coat" name="나르바샨 다크 스위프트:s" />
 	<key id="11460054" class="coat" name="나르바샨 쉐도우 스파이크 베스트:s" />
 	<key id="11460055" class="coat" name="나르바샨 디멘티드 숄더 메일:s" />
@@ -5717,7 +5814,7 @@
 	<key id="11501062" class="pants" name="그린후드 자경단 피오레 하의 (여):s" />
 	<key id="11501063" class="pants" name="트라이아 근위대 리네아르 하의 (여):s" />
 	<key id="11501064" class="pants" name="루미나이츠 오네스타 하의 (여):s" />
-	<key id="11501065" class="pants" name="그린후드 자경단 피오레 하의 (여):s" feature="PvPRankingDuelMode" />
+	<key id="11501065" class="pants" name="존엄의 하의:s" feature="PvPRankingDuelMode" />
 	<key id="11501066" class="pants" name="다크윈드 아텐토 하의 (여):s" />
 	<key id="11501067" class="pants" name="강화된 품위의 전투 하의:s" feature="Level70Item" />
 	<key id="11501068" class="pants" name="강화된 품위의 광란 하의:s" feature="Level70Item" />
@@ -5931,6 +6028,11 @@
 	<key id="11550944" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (룬블레이더):s" locale="NA" />
 	<key id="11550945" class="pants" name="엘리트 어드벤쳐 마샬 팬츠 (스트라이커):s" locale="NA" />
 	<key id="11550946" class="pants" name="엘리트 어드벤쳐 마샬 팬츠 (소울바인더):s" locale="NA" />
+	<key id="11550947" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (나이트):s" feature="Level60Item" />
+	<key id="11550948" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (버서커):s" feature="Level60Item" />
+	<key id="11550949" class="pants" name="엘리트 어드벤쳐 배틀 사이드 (룬블레이더):s" feature="Level60Item" />
+	<key id="11550950" class="pants" name="엘리트 어드벤쳐 마샬 팬츠 (스트라이커):s" feature="Level60Item" />
+	<key id="11550951" class="pants" name="엘리트 어드벤쳐 마샬 팬츠 (소울바인더):s" feature="Level60Item" />
 	<key id="11560047" class="pants" name="나르바샨 다크 스위프트 바지:s" />
 	<key id="11560053" class="pants" name="나르바샨 쉐도우 스파이크 팬츠:s" />
 	<key id="11560054" class="pants" name="나르바샨 디멘티드 타이 가드:s" />
@@ -7481,6 +7583,10 @@
 	<key id="11601270" class="gloves" name="강화된 품위의 주술 장갑:s" feature="Level70Item" />
 	<key id="11601271" class="gloves" name="강화된 품위의 난투 장갑:s" feature="Level70Item" />
 	<key id="11601272" class="gloves" name="강화된 품위의 의식 장갑:s" feature="Level70Item" />
+	<key id="11601273" class="gloves" name="챠밍 스타 팔찌 (남):s" />
+	<key id="11601274" class="gloves" name="챠밍 스타 팔찌 (여):s" />
+	<key id="11601275" class="gloves" name="아기 공룡 장갑 (남):s" />
+	<key id="11601276" class="gloves" name="아기 공룡 장갑 (여):s" />
 	<key id="11604684" class="gloves" name="아리솔 반지 (남):s" />
 	<key id="11604685" class="gloves" name="아리솔 반지 (여):s" />
 	<key id="11604686" class="gloves" name="샤인 스타 브레이슬릿 (남):s" />
@@ -7524,6 +7630,8 @@
 	<key id="11610009" class="gloves" name="알파인 스키 글러브 (남):s" />
 	<key id="11610010" class="gloves" name="알파인 스키 글러브 (여):s" />
 	<key id="11610025" class="gloves" name="해피 슬라임 반지:s" />
+	<key id="11610026" class="gloves" name="정열의 별빛 반지 (남):s" />
+	<key id="11610027" class="gloves" name="정열의 디스크 브레이슬릿 (여):s" />
 	<key id="11630040" class="gloves" name="다크 스위프트 핸드가드:s" />
 	<key id="11630044" class="gloves" name="샤이닝 위자드리 암슬리브:s" />
 	<key id="11630045" class="gloves" name="나이티지 리스트 가드:s" />
@@ -7767,6 +7875,17 @@
 	<key id="11651061" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (룬블레이더):s" locale="NA" />
 	<key id="11651062" class="gloves" name="엘리트 어드벤쳐 마샬 글러브 (스트라이커):s" locale="NA" />
 	<key id="11651063" class="gloves" name="엘리트 어드벤쳐 마샬 글러브 (소울바인더):s" locale="NA" />
+	<key id="11651064" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (나이트):s" feature="Level60Item" />
+	<key id="11651065" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (버서커):s" feature="Level60Item" />
+	<key id="11651066" class="gloves" name="엘리트 어드벤쳐 매직 슬리브 (위자드):s" feature="Level60Item" />
+	<key id="11651067" class="gloves" name="엘리트 어드벤쳐 매직 슬리브 (프리스트):s" feature="Level60Item" />
+	<key id="11651068" class="gloves" name="엘리트 어드벤쳐 스카우트 글러브 (레인저):s" feature="Level60Item" />
+	<key id="11651069" class="gloves" name="엘리트 어드벤쳐 스카우트 글러브 (헤비거너):s" feature="Level60Item" />
+	<key id="11651070" class="gloves" name="엘리트 어드벤쳐 스니킹 뱅글 (시프):s" feature="Level60Item" />
+	<key id="11651071" class="gloves" name="엘리트 어드벤쳐 스니킹 뱅글 (어쌔신):s" feature="Level60Item" />
+	<key id="11651072" class="gloves" name="엘리트 어드벤쳐 배틀 글러브 (룬블레이더):s" feature="Level60Item" />
+	<key id="11651073" class="gloves" name="엘리트 어드벤쳐 마샬 글러브 (스트라이커):s" feature="Level60Item" />
+	<key id="11651074" class="gloves" name="엘리트 어드벤쳐 마샬 글러브 (소울바인더):s" feature="Level60Item" />
 	<key id="11660040" class="gloves" name="나르바샨 다크 스위프트 핸드가드:s" />
 	<key id="11660044" class="gloves" name="나르바샨 샤이닝 위자드리 암슬리브:s" />
 	<key id="11660045" class="gloves" name="나르바샨 나이티지 리스트 가드:s" />
@@ -8626,8 +8745,8 @@
 	<key id="11700508" class="shoes" name="이프리트 부츠 (남):s" />
 	<key id="11700509" class="shoes" name="이프리트 크리스탈 샌들 (여):s" />
 	<key id="11700510" class="shoes" name="해피 슬라임 운동화:s" />
-	<key id="11700511" class="shoes" name="리본 매듭 버선 (남):s" />
-	<key id="11700512" class="shoes" name="리본 매듭 버선 (여):s" />
+	<key id="11700511" class="shoes" name=":s" />
+	<key id="11700512" class="shoes" name=":s" />
 	<key id="11700513" class="shoes" name=":s" />
 	<key id="11700514" class="shoes" name=":s" />
 	<key id="11700515" class="shoes" name=":s" />
@@ -9460,6 +9579,10 @@
 	<key id="11701367" class="shoes" name="강화된 품위의 주술 신발:s" feature="Level70Item" />
 	<key id="11701368" class="shoes" name="강화된 품위의 난투 신발:s" feature="Level70Item" />
 	<key id="11701369" class="shoes" name="강화된 품위의 의식 신발:s" feature="Level70Item" />
+	<key id="11701370" class="shoes" name="챠밍 하이 삭스 스니커즈 (남):s" />
+	<key id="11701371" class="shoes" name="챠밍 하이 삭스 스니커즈 (여):s" />
+	<key id="11701372" class="shoes" name="아기 공룡 신발 (남):s" />
+	<key id="11701373" class="shoes" name="아기 공룡 신발 (여):s" />
 	<key id="11709001" class="shoes" name="무딘 가죽 워 부츠:s" />
 	<key id="11709002" class="shoes" name="무딘 좀도둑 운동화:s" />
 	<key id="11709003" class="shoes" name="무딘 초보 마법사 구두:s" />
@@ -9495,6 +9618,8 @@
 	<key id="11710023" class="shoes" name="알파인 스키 부츠 (남):s" />
 	<key id="11710024" class="shoes" name="알파인 스키 부츠 (여):s" />
 	<key id="11710039" class="shoes" name="해피 슬라임 운동화:s" />
+	<key id="11710040" class="shoes" name="정열의 마리아치 구두 (남):s" />
+	<key id="11710041" class="shoes" name="정열의 장미 스트랩 슈즈 (여):s" />
 	<key id="11730059" class="shoes" name="다크 스위프트 부츠:s" />
 	<key id="11730064" class="shoes" name="샤이닝 위자드리 부츠:s" />
 	<key id="11730065" class="shoes" name="나이티지 배틀 부츠:s" />
@@ -9738,6 +9863,17 @@
 	<key id="11751136" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (룬블레이더):s" locale="NA" />
 	<key id="11751137" class="shoes" name="엘리트 어드벤쳐 마샬 슈즈 (스트라이커):s" locale="NA" />
 	<key id="11751138" class="shoes" name="엘리트 어드벤쳐 마샬 슈즈 (소울바인더):s" locale="NA" />
+	<key id="11751139" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (나이트):s" feature="Level60Item" />
+	<key id="11751140" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (버서커):s" feature="Level60Item" />
+	<key id="11751141" class="shoes" name="엘리트 어드벤쳐 매직 슈즈 (위자드):s" feature="Level60Item" />
+	<key id="11751142" class="shoes" name="엘리트 어드벤쳐 매직 슈즈 (프리스트):s" feature="Level60Item" />
+	<key id="11751143" class="shoes" name="엘리트 어드벤쳐 스카우트 부츠 (레인저):s" feature="Level60Item" />
+	<key id="11751144" class="shoes" name="엘리트 어드벤쳐 스카우트 부츠 (헤비거너):s" feature="Level60Item" />
+	<key id="11751145" class="shoes" name="엘리트 어드벤쳐 스니킹 슈즈 (시프):s" feature="Level60Item" />
+	<key id="11751146" class="shoes" name="엘리트 어드벤쳐 스니킹 슈즈 (어쌔신):s" feature="Level60Item" />
+	<key id="11751147" class="shoes" name="엘리트 어드벤쳐 배틀 그리브 (룬블레이더):s" feature="Level60Item" />
+	<key id="11751148" class="shoes" name="엘리트 어드벤쳐 마샬 슈즈 (스트라이커):s" feature="Level60Item" />
+	<key id="11751149" class="shoes" name="엘리트 어드벤쳐 마샬 슈즈 (소울바인더):s" feature="Level60Item" />
 	<key id="11760059" class="shoes" name="나르바샨 다크 스위프트 부츠:s" />
 	<key id="11760064" class="shoes" name="나르바샨 샤이닝 위자드리 부츠:s" />
 	<key id="11760065" class="shoes" name="나르바샨 나이티지 배틀 부츠:s" />
@@ -10222,6 +10358,7 @@
 	<key id="11800130" class="mantle" name="시공의 인페르녹 날개:s" feature="Level70Item" />
 	<key id="11800131" class="mantle" name="탐험 전문가 가방:s" />
 	<key id="11800132" class="mantle" name="강화된 품위의 망토:s" feature="Level70Item" />
+	<key id="11800133" class="mantle" name="아기 공룡 꼬리:s" />
 	<key id="11830046" class="mantle" name="앱솔루트 망토:s" />
 	<key id="11830060" class="mantle" name="흉포한 망토:s" />
 	<key id="11830081" class="mantle" name="검은 불꽃의 망토:s" />
@@ -11414,8 +11551,8 @@
 	<key id="12200548" class="dress" name="엘리트 어드벤쳐 스카우트 코트 (헤비거너):s" feature="Level60Item" />
 	<key id="12200549" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (시프):s" feature="Level60Item" />
 	<key id="12200550" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (어쌔신):s" feature="Level60Item" />
-	<key id="12200551" class="dress" name="발랄한 여름 교복 (남):s" />
-	<key id="12200552" class="dress" name="발랄한 여름 교복 (여):s" />
+	<key id="12200551" class="dress" name="발랄한 멜빵 교복 (남):s" />
+	<key id="12200552" class="dress" name="발랄한 멜빵 교복 (여):s" />
 	<key id="12200553" class="dress" name="반짝별빛 코트 (남):s" />
 	<key id="12200554" class="dress" name="반짝별빛 드레스 (여):s" />
 	<key id="12200555" class="dress" name="몽달귀신의 으스스한 전신 (남):s" />
@@ -11433,6 +11570,12 @@
 	<key id="12200581" class="dress" name="해피 슬라임 캐쥬얼 슈트:s" />
 	<key id="12200582" class="dress" name="오버 윈터 모직 숏코트 의상 (남):s" />
 	<key id="12200583" class="dress" name="오버 윈터 모직 숏코트 의상 (여):s" />
+	<key id="12200584" class="dress" name="챠밍 체크 교복 (남):s" />
+	<key id="12200585" class="dress" name="챠밍 체크 교복 (여):s" />
+	<key id="12200586" class="dress" name="아기 공룡 옷 (남):s" />
+	<key id="12200587" class="dress" name="아기 공룡 옷 (여):s" />
+	<key id="12200588" class="dress" name="정열의 마리아치 수트 (남):s" />
+	<key id="12200589" class="dress" name="정열의 프릴 리본 드레스 (여):s" />
 	<key id="12209999" class="dress" name="블러드 레퀴엠 전신옷:s" />
 	<key id="12230024" class="dress" name="샤이닝 위자드리 코트:s" />
 	<key id="12230025" class="dress" name="나이티지 숄더 메일:s" />
@@ -11477,6 +11620,12 @@
 	<key id="12250240" class="dress" name="엘리트 어드벤쳐 스카우트 코트 (헤비거너):s" locale="NA" />
 	<key id="12250241" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (시프):s" locale="NA" />
 	<key id="12250242" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (어쌔신):s" locale="NA" />
+	<key id="12250243" class="dress" name="엘리트 어드벤쳐 매직 클로스 (위자드):s" feature="Level60Item" />
+	<key id="12250244" class="dress" name="엘리트 어드벤쳐 매직 클로스 (프리스트):s" feature="Level60Item" />
+	<key id="12250245" class="dress" name="엘리트 어드벤쳐 스카우트 코트 (레인저):s" feature="Level60Item" />
+	<key id="12250246" class="dress" name="엘리트 어드벤쳐 스카우트 코트 (헤비거너):s" feature="Level60Item" />
+	<key id="12250247" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (시프):s" feature="Level60Item" />
+	<key id="12250248" class="dress" name="엘리트 어드벤쳐 스니킹 슈츠 (어쌔신):s" feature="Level60Item" />
 	<key id="12250498" class="dress" name="불안정한 힘의 마법사 전신옷:s" />
 	<key id="12250499" class="dress" name="불안정한 힘의 궁수 전신옷:s" />
 	<key id="12250500" class="dress" name="불안정한 힘의 도적 전신옷:s" />
@@ -11971,6 +12120,7 @@
 	<key id="13150299" class="dagger" name="광포한 혼란 대거:s" feature="Season3" />
 	<key id="13150300" class="dagger" name="품위의 대거:s" feature="PvPRankingDuelMode" />
 	<key id="13150301" class="dagger" name="엘리트 어드벤쳐 나이프:s" locale="NA" />
+	<key id="13150302" class="dagger" name="엘리트 어드벤쳐 나이프:s" feature="Level60Item" />
 	<key id="13160153" class="dagger" name="불멸의 대거 : 혼돈:s" />
 	<key id="13160195" class="dagger" name="나르바샨 단검:s" />
 	<key id="13160231" class="dagger" name="리버스 엘메스 대거:s" />
@@ -12368,6 +12518,7 @@
 	<key id="13250294" class="longsword" name="광포한 전투 롱소드:s" feature="Season3" />
 	<key id="13250295" class="longsword" name="품위의 롱소드:s" feature="PvPRankingDuelMode" />
 	<key id="13250296" class="longsword" name="엘리트 어드벤쳐 롱소드:s" locale="NA" />
+	<key id="13250297" class="longsword" name="엘리트 어드벤쳐 롱소드:s" feature="Level60Item" />
 	<key id="13260149" class="longsword" name="불멸의 롱소드 : 의지:s" />
 	<key id="13260190" class="longsword" name="나르바샨 장검:s" />
 	<key id="13260226" class="longsword" name="리버스 아테니안 소드:s" />
@@ -12760,6 +12911,7 @@
 	<key id="13350293" class="scepter" name="광포한 신성 홀:s" feature="Season3" />
 	<key id="13350294" class="scepter" name="품위의 홀:s" feature="PvPRankingDuelMode" />
 	<key id="13350295" class="scepter" name="엘리트 어드벤쳐 홀:s" locale="NA" />
+	<key id="13350296" class="scepter" name="엘리트 어드벤쳐 홀:s" feature="Level60Item" />
 	<key id="13360148" class="scepter" name="불멸의 홀 : 계시:s" />
 	<key id="13360190" class="scepter" name="나르바샨 홀:s" />
 	<key id="13360225" class="scepter" name="리버스 홀리 완드:s" />
@@ -13156,6 +13308,7 @@
 	<key id="13450292" class="javelin" name="광포한 암살 표창:s" feature="Season3" />
 	<key id="13450293" class="javelin" name="품위의 표창:s" feature="PvPRankingDuelMode" />
 	<key id="13450294" class="javelin" name="엘리트 어드벤쳐 스로잉스타:s" locale="NA" />
+	<key id="13450295" class="javelin" name="엘리트 어드벤쳐 스로잉스타:s" feature="Level60Item" />
 	<key id="13460146" class="javelin" name="불멸의 표창 : 잠행:s" />
 	<key id="13460187" class="javelin" name="나르바샨 표창:s" />
 	<key id="13460224" class="javelin" name="리버스 테라 스타:s" />
@@ -13513,6 +13666,7 @@
 	<key id="14050255" class="book" name="광포한 신성 법전:s" feature="Season3" />
 	<key id="14050256" class="book" name="품위의 법전:s" feature="PvPRankingDuelMode" />
 	<key id="14050257" class="book" name="엘리트 어드벤쳐 바이블:s" locale="NA" />
+	<key id="14050258" class="book" name="엘리트 어드벤쳐 바이블:s" feature="Level60Item" />
 	<key id="14060125" class="book" name="불멸의 법전 : 신성:s" />
 	<key id="14060155" class="book" name="나르바샨 법전:s" />
 	<key id="14060185" class="book" name="리버스 클로니클 코덱스:s" />
@@ -13875,6 +14029,7 @@
 	<key id="14150264" class="shield" name="광포한 전투 방패:s" feature="Season3" />
 	<key id="14150265" class="shield" name="품위의 방패:s" feature="PvPRankingDuelMode" />
 	<key id="14150266" class="shield" name="엘리트 어드벤쳐 쉴드:s" locale="NA" />
+	<key id="14150267" class="shield" name="엘리트 어드벤쳐 쉴드:s" feature="Level60Item" />
 	<key id="14160134" class="shield" name="불멸의 실드 : 수호:s" />
 	<key id="14160164" class="shield" name="나르바샨 방패:s" />
 	<key id="14160194" class="shield" name="리버스 아이기스 쉴드:s" />
@@ -14274,6 +14429,7 @@
 	<key id="15050298" class="large sword" name="광포한 광란 라지소드:s" feature="Season3" />
 	<key id="15050299" class="large sword" name="품위의 대검:s" feature="PvPRankingDuelMode" />
 	<key id="15050300" class="large sword" name="엘리트 어드벤쳐 라지소드:s" locale="NA" />
+	<key id="15050301" class="large sword" name="엘리트 어드벤쳐 라지소드:s" feature="Level60Item" />
 	<key id="15060153" class="large sword" name="불멸의 대검 : 광기:s" />
 	<key id="15060194" class="large sword" name="나르바샨 대검:s" />
 	<key id="15060230" class="large sword" name="리버스 타이탄 소드:s" />
@@ -14668,6 +14824,7 @@
 	<key id="15150290" class="bow" name="광포한 집중 활:s" feature="Season3" />
 	<key id="15150291" class="bow" name="품위의 활:s" feature="PvPRankingDuelMode" />
 	<key id="15150292" class="bow" name="엘리트 어드벤쳐 보우:s" locale="NA" />
+	<key id="15150293" class="bow" name="엘리트 어드벤쳐 보우:s" feature="Level60Item" />
 	<key id="15160146" class="bow" name="불멸의 활 : 전념:s" />
 	<key id="15160186" class="bow" name="나르바샨 활:s" />
 	<key id="15160222" class="bow" name="리버스 아르테미스 롱보우:s" />
@@ -15068,6 +15225,7 @@
 	<key id="15250297" class="staff" name="광포한 마법 스태프:s" feature="Season3" />
 	<key id="15250298" class="staff" name="품위의 스태프:s" feature="PvPRankingDuelMode" />
 	<key id="15250299" class="staff" name="엘리트 어드벤쳐 스태프:s" locale="NA" />
+	<key id="15250300" class="staff" name="엘리트 어드벤쳐 스태프:s" feature="Level60Item" />
 	<key id="15260152" class="staff" name="불멸의 스태프 : 마력:s" />
 	<key id="15260193" class="staff" name="나르바샨 스태프:s" />
 	<key id="15260229" class="staff" name="리버스 에이션트 스태프:s" />
@@ -15465,6 +15623,7 @@
 	<key id="15350293" class="cannon" name="광포한 포격 캐논:s" feature="Season3" />
 	<key id="15350294" class="cannon" name="품위의 캐논:s" feature="PvPRankingDuelMode" />
 	<key id="15350295" class="cannon" name="엘리트 어드벤쳐 캐논:s" locale="NA" />
+	<key id="15350296" class="cannon" name="엘리트 어드벤쳐 캐논:s" feature="Level60Item" />
 	<key id="15360146" class="cannon" name="불멸의 캐논 : 포격:s" />
 	<key id="15360189" class="cannon" name="나르바샨 캐논:s" />
 	<key id="15360225" class="cannon" name="리버스 포스 캐논:s" />
@@ -15829,6 +15988,7 @@
 	<key id="15450293" class="blade" name="광포한 주술 블레이드:s" feature="Season3" />
 	<key id="15450294" class="blade" name="품위의 블레이드:s" feature="PvPRankingDuelMode" />
 	<key id="15450295" class="blade" name="엘리트 어드벤쳐 블레이드:s" locale="NA" />
+	<key id="15450296" class="blade" name="엘리트 어드벤쳐 블레이드:s" feature="Level60Item" />
 	<key id="15460044" class="blade" name="복제된 하몬 블레이드:s" />
 	<key id="15460091" class="blade" name="불멸의 블레이드 : 극의:s" />
 	<key id="15460093" class="blade" name="나르바샨 블레이드:s" />
@@ -16176,6 +16336,7 @@
 	<key id="15550533" class="knuckle" name="광포한 난투 너클:s" feature="Season3" />
 	<key id="15550534" class="knuckle" name="품위의 너클:s" feature="PvPRankingDuelMode" />
 	<key id="15550535" class="knuckle" name="엘리트 어드벤쳐 너클:s" locale="NA" />
+	<key id="15550536" class="knuckle" name="엘리트 어드벤쳐 너클:s" feature="Level60Item" />
 	<key id="15560065" class="knuckle" name="불멸의 너클 : 투지:s" feature="Striker" />
 	<key id="15560124" class="knuckle" name="나르바샨 너클:s" />
 	<key id="15560153" class="knuckle" name="리버스 크토스 너클:s" />
@@ -16515,6 +16676,7 @@
 	<key id="15650534" class="orb" name="광포한 의식 오브:s" feature="Season3" />
 	<key id="15650535" class="orb" name="품위의 오브:s" feature="PvPRankingDuelMode" />
 	<key id="15650536" class="orb" name="엘리트 어드벤쳐 오브:s" locale="NA" />
+	<key id="15650537" class="orb" name="엘리트 어드벤쳐 오브:s" feature="Level60Item" />
 	<key id="15660021" class="orb" name="복제된 곡옥 오브:s" />
 	<key id="15660065" class="orb" name="불멸의 오브 : 집중:s" feature="SoulBinder" />
 	<key id="15660118" class="orb" name="나르바샨 오브:s" />
@@ -17895,8 +18057,14 @@
 	<key id="20001299" class="consume" name="쑥찰떡:s" />
 	<key id="20001300" class="consume" name="연잎찹쌀밥:s" />
 	<key id="20001301" class="consume" name="칭호 : 레알:s" feature="Event" locale="KR" />
-	<key id="20001302" class="consume" name="버블버블 하트 캔디:s" feature="Event" />
+	<key id="20001302" class="consume" name="버블버블 하트 캔디:s" feature="Event" locale="KR" />
+	<key id="20001302" class="consume" name="버블버블 슈가 캔디:s" feature="Event" locale="CN" />
+	<key id="20001302" class="consume" name="버블버블 하트 캔디:s" feature="Event" locale="NA" />
 	<key id="20001303" class="consume" name="칭호 : 오늘의 짝꿍:s" feature="Event" />
+	<key id="20001304" class="consume" name="핑크 페인트:s" feature="Event" />
+	<key id="20001305" class="consume" name="초록 페인트:s" feature="Event" />
+	<key id="20001306" class="consume" name="70레벨 레벨업 포션:s" />
+	<key id="20001307" class="consume" name="칭호 : 퀸크빈의:s" feature="Colosseum01" />
 	<key id="20200001" class="consume" name="액션 수강증 : 기합:s" />
 	<key id="20200002" class="consume" name="액션 수강증 : 몰라:s" />
 	<key id="20200003" class="consume" name="액션 수강증 : 자랑:s" />
@@ -18005,10 +18173,13 @@
 	<key id="20200106" class="consume" name="액션 수강증 : 돼지의 꿈:s" />
 	<key id="20200107" class="consume" name="액션 수강증 : 따뜻한 반신욕:s" />
 	<key id="20200108" class="consume" name="액션 수강증 : 스텝 셔플 댄스:s" />
+	<key id="20200109" class="consume" name="액션 수강증 : 열공모드:s" />
 	<key id="20200122" class="consume" name="액션 수강증 : 메이슨 따라쟁이:s" feature="Kritias_2018_12" />
-	<key id="20200123" class="consume" name="액션 수강증 : 꿀잠모드:s" />
+	<key id="20200123" class="consume" name="액션 수강증 : 꿀잠 쿨쿨:s" />
 	<key id="20200124" class="consume" name="액션 수강증 : 포잉포잉 댄스:s" feature="Event" />
 	<key id="20200125" class="consume" name="액션 수강증 : 포잉이랑 놀아줘!:s" feature="Event" />
+	<key id="20200126" class="consume" name="액션 수강증 : 인싸댄스:s" />
+	<key id="20200127" class="consume" name="액션 수강증 : 알베르토빈의 트레이닝:s" feature="Colosseum01" />
 	<key id="20210001" class="consume" name="2인 액션 수강증 : 포옹:s" />
 	<key id="20210002" class="consume" name="2인 액션 수강증 : 주먹 인사:s" />
 	<key id="20210003" class="consume" name="2인 액션 수강증 : 첫눈:s" />
@@ -19974,47 +20145,161 @@
 	<key id="20302066" class="package" name="단풍 인테리어 상자:s" />
 	<key id="20302067" class="package" name="단풍 낙엽 상자:s" />
 	<key id="20302068" class="package" name="8단계 엘리트 무기 인챈트 주문서 상자:s" locale="NA" />
+	<key id="20302068" class="package" name="8단계 엘리트 무기 인챈트 주문서 상자:s" locale="JP" />
+	<key id="20302068" class="package" name="8단계 엘리트 무기 인챈트 주문서 상자:s" locale="TH" />
+	<key id="20302068" class="package" name="8단계 엘리트 무기 인챈트 주문서 상자:s" locale="TW" />
 	<key id="20302069" class="package" name="8단계 엘리트 방어구 인챈트 주문서 선택 상자:s" locale="NA" />
+	<key id="20302069" class="package" name="8단계 엘리트 방어구 인챈트 주문서 선택 상자:s" locale="JP" />
+	<key id="20302069" class="package" name="8단계 엘리트 방어구 인챈트 주문서 선택 상자:s" locale="TH" />
+	<key id="20302069" class="package" name="8단계 엘리트 방어구 인챈트 주문서 선택 상자:s" locale="TW" />
 	<key id="20302070" class="package" name="건설 패키지 : 땡스기빙 데이:s" />
 	<key id="20302071" class="package" name="광군제 홍빠오:s" locale="CN" />
 	<key id="20302072" class="consume" name="50레벨 달성 보상 상자:s" />
 	<key id="20302073" class="package" name="2018년 광군제 홍빠오:s" locale="CN" />
 	<key id="20302074" class="package" name="데보라크의 보물 선택 상자:s" locale="NA" />
+	<key id="20302074" class="package" name="데보라크의 보물 선택 상자:s" locale="JP" />
+	<key id="20302074" class="package" name="데보라크의 보물 선택 상자:s" locale="TH" />
+	<key id="20302074" class="package" name="데보라크의 보물 선택 상자:s" locale="TW" />
 	<key id="20302075" class="package" name="모크의 보물 선택 상자:s" locale="NA" />
+	<key id="20302075" class="package" name="모크의 보물 선택 상자:s" locale="JP" />
+	<key id="20302075" class="package" name="모크의 보물 선택 상자:s" locale="TH" />
+	<key id="20302075" class="package" name="모크의 보물 선택 상자:s" locale="TW" />
 	<key id="20302076" class="package" name="파풀라투스의 보물 선택 상자:s" locale="NA" />
+	<key id="20302076" class="package" name="파풀라투스의 보물 선택 상자:s" locale="JP" />
+	<key id="20302076" class="package" name="파풀라투스의 보물 선택 상자:s" locale="TH" />
+	<key id="20302076" class="package" name="파풀라투스의 보물 선택 상자:s" locale="TW" />
 	<key id="20302077" class="package" name="극한의 무기 랜덤 상자:s" locale="NA" />
+	<key id="20302077" class="package" name="극한의 무기 랜덤 상자:s" locale="JP" />
+	<key id="20302077" class="package" name="극한의 무기 랜덤 상자:s" locale="TH" />
+	<key id="20302077" class="package" name="극한의 무기 랜덤 상자:s" locale="TW" />
 	<key id="20302078" class="package" name="난폭한 무기 랜덤 상자:s" locale="NA" />
+	<key id="20302078" class="package" name="난폭한 무기 랜덤 상자:s" locale="JP" />
+	<key id="20302078" class="package" name="난폭한 무기 랜덤 상자:s" locale="TH" />
+	<key id="20302078" class="package" name="난폭한 무기 랜덤 상자:s" locale="TW" />
 	<key id="20302079" class="package" name="광포한 무기 랜덤 상자:s" locale="NA" />
+	<key id="20302079" class="package" name="광포한 무기 랜덤 상자:s" locale="JP" />
+	<key id="20302079" class="package" name="광포한 무기 랜덤 상자:s" locale="TH" />
+	<key id="20302079" class="package" name="광포한 무기 랜덤 상자:s" locale="TW" />
 	<key id="20302080" class="package" name="극한의 상의,하의 랜덤 상자:s" locale="NA" />
+	<key id="20302080" class="package" name="극한의 상의,하의 랜덤 상자:s" locale="JP" />
+	<key id="20302080" class="package" name="극한의 상의,하의 랜덤 상자:s" locale="TH" />
+	<key id="20302080" class="package" name="극한의 상의,하의 랜덤 상자:s" locale="TW" />
 	<key id="20302081" class="package" name="난폭한 상의,하의 랜덤 상자:s" locale="NA" />
+	<key id="20302081" class="package" name="난폭한 상의,하의 랜덤 상자:s" locale="JP" />
+	<key id="20302081" class="package" name="난폭한 상의,하의 랜덤 상자:s" locale="TH" />
+	<key id="20302081" class="package" name="난폭한 상의,하의 랜덤 상자:s" locale="TW" />
 	<key id="20302082" class="package" name="광포한 상의,하의 랜덤 상자:s" locale="NA" />
+	<key id="20302082" class="package" name="광포한 상의,하의 랜덤 상자:s" locale="JP" />
+	<key id="20302082" class="package" name="광포한 상의,하의 랜덤 상자:s" locale="TH" />
+	<key id="20302082" class="package" name="광포한 상의,하의 랜덤 상자:s" locale="TW" />
 	<key id="20302083" class="package" name="극한의 모자,장갑,신발 랜덤 상자:s" locale="NA" />
+	<key id="20302083" class="package" name="극한의 모자,장갑,신발 랜덤 상자:s" locale="JP" />
+	<key id="20302083" class="package" name="극한의 모자,장갑,신발 랜덤 상자:s" locale="TH" />
+	<key id="20302083" class="package" name="극한의 모자,장갑,신발 랜덤 상자:s" locale="TW" />
 	<key id="20302084" class="package" name="난폭한 모자,장갑,신발 랜덤 상자:s" locale="NA" />
+	<key id="20302084" class="package" name="난폭한 모자,장갑,신발 랜덤 상자:s" locale="JP" />
+	<key id="20302084" class="package" name="난폭한 모자,장갑,신발 랜덤 상자:s" locale="TH" />
+	<key id="20302084" class="package" name="난폭한 모자,장갑,신발 랜덤 상자:s" locale="TW" />
 	<key id="20302085" class="package" name="광포한 모자,장갑,신발 랜덤 상자:s" locale="NA" />
+	<key id="20302085" class="package" name="광포한 모자,장갑,신발 랜덤 상자:s" locale="JP" />
+	<key id="20302085" class="package" name="광포한 모자,장갑,신발 랜덤 상자:s" locale="TH" />
+	<key id="20302085" class="package" name="광포한 모자,장갑,신발 랜덤 상자:s" locale="TW" />
 	<key id="20302086" class="package" name="극한의 무기 상자:s" locale="NA" />
+	<key id="20302086" class="package" name="극한의 무기 상자:s" locale="JP" />
+	<key id="20302086" class="package" name="극한의 무기 상자:s" locale="TH" />
+	<key id="20302086" class="package" name="극한의 무기 상자:s" locale="TW" />
 	<key id="20302087" class="package" name="난폭한 무기 상자:s" locale="NA" />
+	<key id="20302087" class="package" name="난폭한 무기 상자:s" locale="JP" />
+	<key id="20302087" class="package" name="난폭한 무기 상자:s" locale="TH" />
+	<key id="20302087" class="package" name="난폭한 무기 상자:s" locale="TW" />
 	<key id="20302088" class="package" name="광포한 무기 상자:s" locale="NA" />
+	<key id="20302088" class="package" name="광포한 무기 상자:s" locale="JP" />
+	<key id="20302088" class="package" name="광포한 무기 상자:s" locale="TH" />
+	<key id="20302088" class="package" name="광포한 무기 상자:s" locale="TW" />
 	<key id="20302089" class="package" name="극한의 상의,하의 선택 상자:s" locale="NA" />
+	<key id="20302089" class="package" name="극한의 상의,하의 선택 상자:s" locale="JP" />
+	<key id="20302089" class="package" name="극한의 상의,하의 선택 상자:s" locale="TH" />
+	<key id="20302089" class="package" name="극한의 상의,하의 선택 상자:s" locale="TW" />
 	<key id="20302090" class="package" name="난폭한 상의,하의 선택 상자:s" locale="NA" />
+	<key id="20302090" class="package" name="난폭한 상의,하의 선택 상자:s" locale="JP" />
+	<key id="20302090" class="package" name="난폭한 상의,하의 선택 상자:s" locale="TH" />
+	<key id="20302090" class="package" name="난폭한 상의,하의 선택 상자:s" locale="TW" />
 	<key id="20302091" class="package" name="광포한 상의,하의 선택 상자:s" locale="NA" />
+	<key id="20302091" class="package" name="광포한 상의,하의 선택 상자:s" locale="JP" />
+	<key id="20302091" class="package" name="광포한 상의,하의 선택 상자:s" locale="TH" />
+	<key id="20302091" class="package" name="광포한 상의,하의 선택 상자:s" locale="TW" />
 	<key id="20302092" class="package" name="극한의 모자,장갑,신발 선택 상자:s" locale="NA" />
+	<key id="20302092" class="package" name="극한의 모자,장갑,신발 선택 상자:s" locale="JP" />
+	<key id="20302092" class="package" name="극한의 모자,장갑,신발 선택 상자:s" locale="TH" />
+	<key id="20302092" class="package" name="극한의 모자,장갑,신발 선택 상자:s" locale="TW" />
 	<key id="20302093" class="package" name="난폭한 모자,장갑,신발 선택 상자:s" locale="NA" />
+	<key id="20302093" class="package" name="난폭한 모자,장갑,신발 선택 상자:s" locale="JP" />
+	<key id="20302093" class="package" name="난폭한 모자,장갑,신발 선택 상자:s" locale="TH" />
+	<key id="20302093" class="package" name="난폭한 모자,장갑,신발 선택 상자:s" locale="TW" />
 	<key id="20302094" class="package" name="광포한 모자,장갑,신발 선택 상자:s" locale="NA" />
+	<key id="20302094" class="package" name="광포한 모자,장갑,신발 선택 상자:s" locale="JP" />
+	<key id="20302094" class="package" name="광포한 모자,장갑,신발 선택 상자:s" locale="TH" />
+	<key id="20302094" class="package" name="광포한 모자,장갑,신발 선택 상자:s" locale="TW" />
 	<key id="20302095" class="package" name="그림자 군단의 제단 C랭크 보상 상자:s" locale="NA" />
+	<key id="20302095" class="package" name="그림자 군단의 제단 C랭크 보상 상자:s" locale="JP" />
+	<key id="20302095" class="package" name="그림자 군단의 제단 C랭크 보상 상자:s" locale="TH" />
+	<key id="20302095" class="package" name="그림자 군단의 제단 C랭크 보상 상자:s" locale="TW" />
 	<key id="20302096" class="package" name="그림자 군단의 제단 B랭크 보상 상자:s" locale="NA" />
+	<key id="20302096" class="package" name="그림자 군단의 제단 B랭크 보상 상자:s" locale="JP" />
+	<key id="20302096" class="package" name="그림자 군단의 제단 B랭크 보상 상자:s" locale="TH" />
+	<key id="20302096" class="package" name="그림자 군단의 제단 B랭크 보상 상자:s" locale="TW" />
 	<key id="20302097" class="package" name="그림자 군단의 제단 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302097" class="package" name="그림자 군단의 제단 A랭크 보상 상자:s" locale="JP" />
+	<key id="20302097" class="package" name="그림자 군단의 제단 A랭크 보상 상자:s" locale="TH" />
+	<key id="20302097" class="package" name="그림자 군단의 제단 A랭크 보상 상자:s" locale="TW" />
 	<key id="20302098" class="package" name="그림자 군단의 제단 S랭크 보상 상자:s" locale="NA" />
+	<key id="20302098" class="package" name="그림자 군단의 제단 S랭크 보상 상자:s" locale="JP" />
+	<key id="20302098" class="package" name="그림자 군단의 제단 S랭크 보상 상자:s" locale="TH" />
+	<key id="20302098" class="package" name="그림자 군단의 제단 S랭크 보상 상자:s" locale="TW" />
 	<key id="20302099" class="package" name="그림자 군단의 제단 S+랭크 보상 상자:s" locale="NA" />
+	<key id="20302099" class="package" name="그림자 군단의 제단 S+랭크 보상 상자:s" locale="JP" />
+	<key id="20302099" class="package" name="그림자 군단의 제단 S+랭크 보상 상자:s" locale="TH" />
+	<key id="20302099" class="package" name="그림자 군단의 제단 S+랭크 보상 상자:s" locale="TW" />
 	<key id="20302100" class="package" name="달빛선장의 요새 C랭크 보상 상자:s" locale="NA" />
+	<key id="20302100" class="package" name="달빛선장의 요새 C랭크 보상 상자:s" locale="JP" />
+	<key id="20302100" class="package" name="달빛선장의 요새 C랭크 보상 상자:s" locale="TH" />
+	<key id="20302100" class="package" name="달빛선장의 요새 C랭크 보상 상자:s" locale="TW" />
 	<key id="20302101" class="package" name="달빛선장의 요새 B랭크 보상 상자:s" locale="NA" />
+	<key id="20302101" class="package" name="달빛선장의 요새 B랭크 보상 상자:s" locale="JP" />
+	<key id="20302101" class="package" name="달빛선장의 요새 B랭크 보상 상자:s" locale="TH" />
+	<key id="20302101" class="package" name="달빛선장의 요새 B랭크 보상 상자:s" locale="TW" />
 	<key id="20302102" class="package" name="달빛선장의 요새 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302102" class="package" name="달빛선장의 요새 A랭크 보상 상자:s" locale="JP" />
+	<key id="20302102" class="package" name="달빛선장의 요새 A랭크 보상 상자:s" locale="TH" />
+	<key id="20302102" class="package" name="달빛선장의 요새 A랭크 보상 상자:s" locale="TW" />
 	<key id="20302103" class="package" name="달빛선장의 요새 S랭크 보상 상자:s" locale="NA" />
+	<key id="20302103" class="package" name="달빛선장의 요새 S랭크 보상 상자:s" locale="JP" />
+	<key id="20302103" class="package" name="달빛선장의 요새 S랭크 보상 상자:s" locale="TH" />
+	<key id="20302103" class="package" name="달빛선장의 요새 S랭크 보상 상자:s" locale="TW" />
 	<key id="20302104" class="package" name="달빛선장의 요새 S+랭크 보상 상자:s" locale="NA" />
+	<key id="20302104" class="package" name="달빛선장의 요새 S+랭크 보상 상자:s" locale="JP" />
+	<key id="20302104" class="package" name="달빛선장의 요새 S+랭크 보상 상자:s" locale="TH" />
+	<key id="20302104" class="package" name="달빛선장의 요새 S+랭크 보상 상자:s" locale="TW" />
 	<key id="20302105" class="package" name="루디브리엄 시계탑 C랭크 보상 상자:s" locale="NA" />
+	<key id="20302105" class="package" name="루디브리엄 시계탑 C랭크 보상 상자:s" locale="JP" />
+	<key id="20302105" class="package" name="루디브리엄 시계탑 C랭크 보상 상자:s" locale="TH" />
+	<key id="20302105" class="package" name="루디브리엄 시계탑 C랭크 보상 상자:s" locale="TW" />
 	<key id="20302106" class="package" name="루디브리엄 시계탑 B랭크 보상 상자:s" locale="NA" />
+	<key id="20302106" class="package" name="루디브리엄 시계탑 B랭크 보상 상자:s" locale="JP" />
+	<key id="20302106" class="package" name="루디브리엄 시계탑 B랭크 보상 상자:s" locale="TH" />
+	<key id="20302106" class="package" name="루디브리엄 시계탑 B랭크 보상 상자:s" locale="TW" />
 	<key id="20302107" class="package" name="루디브리엄 시계탑 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302107" class="package" name="루디브리엄 시계탑 A랭크 보상 상자:s" locale="JP" />
+	<key id="20302107" class="package" name="루디브리엄 시계탑 A랭크 보상 상자:s" locale="TH" />
+	<key id="20302107" class="package" name="루디브리엄 시계탑 A랭크 보상 상자:s" locale="TW" />
 	<key id="20302108" class="package" name="루디브리엄 시계탑 S랭크 보상 상자:s" locale="NA" />
+	<key id="20302108" class="package" name="루디브리엄 시계탑 S랭크 보상 상자:s" locale="JP" />
+	<key id="20302108" class="package" name="루디브리엄 시계탑 S랭크 보상 상자:s" locale="TH" />
+	<key id="20302108" class="package" name="루디브리엄 시계탑 S랭크 보상 상자:s" locale="TW" />
 	<key id="20302109" class="package" name="루디브리엄 시계탑 S+랭크 보상 상자:s" locale="NA" />
+	<key id="20302109" class="package" name="루디브리엄 시계탑 S+랭크 보상 상자:s" locale="JP" />
+	<key id="20302109" class="package" name="루디브리엄 시계탑 S+랭크 보상 상자:s" locale="TH" />
+	<key id="20302109" class="package" name="루디브리엄 시계탑 S+랭크 보상 상자:s" locale="TW" />
 	<key id="20302110" class="package" name="지스타 스페셜 박스:s" />
 	<key id="20302111" class="package" name="건설 패키지 : 해피 아이스링크:s" />
 	<key id="20302112" class="consume" name="스노우 테일 웨폰 박스:s" />
@@ -20077,13 +20362,37 @@
 	<key id="20302169" class="consume" name="크리스마스의 마법 꾸러미:s" locale="CN" />
 	<key id="20302170" class="consume" name="크리스마스의 마법 열쇠:s" locale="CN" />
 	<key id="20302171" class="package" name="모험[일반/어려움] 보너스 상자 (1단계):s" locale="NA" />
+	<key id="20302171" class="package" name="모험[일반/어려움] 보너스 상자 (1단계):s" locale="JP" />
+	<key id="20302171" class="package" name="모험[일반/어려움] 보너스 상자 (1단계):s" locale="TH" />
+	<key id="20302171" class="package" name="모험[일반/어려움] 보너스 상자 (1단계):s" locale="TW" />
 	<key id="20302172" class="package" name="모험[일반/어려움] 보너스 상자 (2단계):s" locale="NA" />
+	<key id="20302172" class="package" name="모험[일반/어려움] 보너스 상자 (2단계):s" locale="JP" />
+	<key id="20302172" class="package" name="모험[일반/어려움] 보너스 상자 (2단계):s" locale="TH" />
+	<key id="20302172" class="package" name="모험[일반/어려움] 보너스 상자 (2단계):s" locale="TW" />
 	<key id="20302173" class="package" name="모험[일반/어려움] 보너스 상자 (3단계):s" locale="NA" />
+	<key id="20302173" class="package" name="모험[일반/어려움] 보너스 상자 (3단계):s" locale="JP" />
+	<key id="20302173" class="package" name="모험[일반/어려움] 보너스 상자 (3단계):s" locale="TH" />
+	<key id="20302173" class="package" name="모험[일반/어려움] 보너스 상자 (3단계):s" locale="TW" />
 	<key id="20302174" class="package" name="모험[일반/어려움] 보너스 상자 (4단계):s" locale="NA" />
+	<key id="20302174" class="package" name="모험[일반/어려움] 보너스 상자 (4단계):s" locale="JP" />
+	<key id="20302174" class="package" name="모험[일반/어려움] 보너스 상자 (4단계):s" locale="TH" />
+	<key id="20302174" class="package" name="모험[일반/어려움] 보너스 상자 (4단계):s" locale="TW" />
 	<key id="20302175" class="package" name="모험[일반/어려움] 보너스 상자 (5단계):s" locale="NA" />
+	<key id="20302175" class="package" name="모험[일반/어려움] 보너스 상자 (5단계):s" locale="JP" />
+	<key id="20302175" class="package" name="모험[일반/어려움] 보너스 상자 (5단계):s" locale="TH" />
+	<key id="20302175" class="package" name="모험[일반/어려움] 보너스 상자 (5단계):s" locale="TW" />
 	<key id="20302176" class="package" name="모험[일반/어려움] 보너스 상자 (6단계):s" locale="NA" />
+	<key id="20302176" class="package" name="모험[일반/어려움] 보너스 상자 (6단계):s" locale="JP" />
+	<key id="20302176" class="package" name="모험[일반/어려움] 보너스 상자 (6단계):s" locale="TH" />
+	<key id="20302176" class="package" name="모험[일반/어려움] 보너스 상자 (6단계):s" locale="TW" />
 	<key id="20302177" class="package" name="모험[일반/어려움] 보너스 상자 (7단계):s" locale="NA" />
+	<key id="20302177" class="package" name="모험[일반/어려움] 보너스 상자 (7단계):s" locale="JP" />
+	<key id="20302177" class="package" name="모험[일반/어려움] 보너스 상자 (7단계):s" locale="TH" />
+	<key id="20302177" class="package" name="모험[일반/어려움] 보너스 상자 (7단계):s" locale="TW" />
 	<key id="20302178" class="package" name="모험[일반/어려움] 보너스 상자 (8단계):s" locale="NA" />
+	<key id="20302178" class="package" name="모험[일반/어려움] 보너스 상자 (8단계):s" locale="JP" />
+	<key id="20302178" class="package" name="모험[일반/어려움] 보너스 상자 (8단계):s" locale="TH" />
+	<key id="20302178" class="package" name="모험[일반/어려움] 보너스 상자 (8단계):s" locale="TW" />
 	<key id="20302179" class="package" name="메리 크리스마스 웨폰 박스:s" />
 	<key id="20302180" class="consume" name="크리스마스 트리 폭죽 패키지:s" />
 	<key id="20302181" class="consume" name="크리스마스의 행운 박스:s" />
@@ -20092,6 +20401,9 @@
 	<key id="20302184" class="package" name="숙련가의 성장 패키지:s" />
 	<key id="20302185" class="package" name="60레벨 기념 보너스 패키지:s" />
 	<key id="20302186" class="package" name="무기 옵션 변경권 선택 상자:s" locale="NA" />
+	<key id="20302186" class="package" name="무기 옵션 변경권 선택 상자:s" locale="JP" />
+	<key id="20302186" class="package" name="무기 옵션 변경권 선택 상자:s" locale="TH" />
+	<key id="20302186" class="package" name="무기 옵션 변경권 선택 상자:s" locale="TW" />
 	<key id="20302187" class="package" name="엘리트 어드벤쳐 장비 상자:s" locale="NA" />
 	<key id="20302188" class="consume" name="크리스마스 매일 보상 스크롤:s" locale="NA" />
 	<key id="20302189" class="package" name="Razer 패키지:s" locale="NA" />
@@ -20110,6 +20422,9 @@
 	<key id="20302202" class="consume" name="크리스마스 폭죽 패키지 + 레드메럿:s" locale="CN" />
 	<key id="20302203" class="consume" name="던전 보상 횟수 추가 쿠폰:s" />
 	<key id="20302204" class="package" name="앱솔루트 액세서리 랜덤 상자:s" locale="NA" />
+	<key id="20302204" class="package" name="앱솔루트 액세서리 랜덤 상자:s" locale="JP" />
+	<key id="20302204" class="package" name="앱솔루트 액세서리 랜덤 상자:s" locale="TH" />
+	<key id="20302204" class="package" name="앱솔루트 액세서리 랜덤 상자:s" locale="TW" />
 	<key id="20302205" class="package" name="라펜샤드 랜덤 상자:s" locale="CN" />
 	<key id="20302206" class="package" name="돼지 만두 상자:s" />
 	<key id="20302207" class="package" name="슈마이 세트 상자:s" />
@@ -20118,6 +20433,9 @@
 	<key id="20302210" class="package" name="슈마이 세트 상자 조각:s" />
 	<key id="20302211" class="package" name="모둠 만두 세트 상자 조각:s" />
 	<key id="20302212" class="package" name="플루토 액세서리 랜덤 상자:s" locale="NA" />
+	<key id="20302212" class="package" name="플루토 액세서리 랜덤 상자:s" locale="JP" />
+	<key id="20302212" class="package" name="플루토 액세서리 랜덤 상자:s" locale="TH" />
+	<key id="20302212" class="package" name="플루토 액세서리 랜덤 상자:s" locale="TW" />
 	<key id="20302213" class="package" name="럭셔리 코디 키 + 미스터리 코디 박스:s" locale="KR" />
 	<key id="20302214" class="consume" name="럭셔리 코디 키 (기간제):s" locale="KR" />
 	<key id="20302215" class="consume" name="미스터리 코디 박스 (기간제):s" locale="KR" />
@@ -20229,6 +20547,9 @@
 	<key id="20302321" class="package" name="(이벤트) 앱솔루트 액세서리 선택 상자:s" locale="NA" />
 	<key id="20302322" class="package" name="스펙업 풀 패키지:s" locale="CN" />
 	<key id="20302323" class="package" name="+10 인챈트 주문서 선택 상자:s" locale="NA" />
+	<key id="20302323" class="package" name="+10 인챈트 주문서 선택 상자:s" locale="JP" />
+	<key id="20302323" class="package" name="+10 인챈트 주문서 선택 상자:s" locale="TH" />
+	<key id="20302323" class="package" name="+10 인챈트 주문서 선택 상자:s" locale="TW" />
 	<key id="20302324" class="package" name="앱솔루트 이어링 상자:s" locale="NA" />
 	<key id="20302325" class="package" name="앱솔루트 망토 상자:s" locale="NA" />
 	<key id="20302326" class="package" name="앱솔루트 펜던트 상자:s" locale="NA" />
@@ -20246,10 +20567,25 @@
 	<key id="20302338" class="package" name="트위치 프라임 패키지:s" locale="NA" />
 	<key id="20302339" class="package" name="BnB M 프로모션 선물 상자:s" locale="KR" />
 	<key id="20302340" class="package" name="네이린의 보급 상자:s" locale="NA" />
+	<key id="20302340" class="package" name="네이린의 보급 상자:s" locale="JP" />
+	<key id="20302340" class="package" name="네이린의 보급 상자:s" locale="TH" />
+	<key id="20302340" class="package" name="네이린의 보급 상자:s" locale="TW" />
 	<key id="20302341" class="package" name="메이슨의 보급 상자:s" locale="NA" />
+	<key id="20302341" class="package" name="메이슨의 보급 상자:s" locale="JP" />
+	<key id="20302341" class="package" name="메이슨의 보급 상자:s" locale="TH" />
+	<key id="20302341" class="package" name="메이슨의 보급 상자:s" locale="TW" />
 	<key id="20302342" class="package" name="샤텐의 보급 상자:s" locale="NA" />
+	<key id="20302342" class="package" name="샤텐의 보급 상자:s" locale="JP" />
+	<key id="20302342" class="package" name="샤텐의 보급 상자:s" locale="TH" />
+	<key id="20302342" class="package" name="샤텐의 보급 상자:s" locale="TW" />
 	<key id="20302343" class="package" name="콘대르의 보급 상자:s" locale="NA" />
+	<key id="20302343" class="package" name="콘대르의 보급 상자:s" locale="JP" />
+	<key id="20302343" class="package" name="콘대르의 보급 상자:s" locale="TH" />
+	<key id="20302343" class="package" name="콘대르의 보급 상자:s" locale="TW" />
 	<key id="20302344" class="package" name="블리체의 보급 상자:s" locale="NA" />
+	<key id="20302344" class="package" name="블리체의 보급 상자:s" locale="JP" />
+	<key id="20302344" class="package" name="블리체의 보급 상자:s" locale="TH" />
+	<key id="20302344" class="package" name="블리체의 보급 상자:s" locale="TW" />
 	<key id="20302345" class="package" name="70레벨 엑설런트 무기 옵션 변경권 선택 상자:s" feature="Level70Item" />
 	<key id="20302346" class="package" name="70레벨 레전더리 무기 옵션 변경권 선택 상자:s" feature="Level70Item" />
 	<key id="20302347" class="consume" name="66레벨 달성 보상 상자:s" feature="ExtendLevel80" />
@@ -20304,8 +20640,8 @@
 	<key id="20302396" class="package" name="인페르녹 최후의 결전 S랭크 보상 상자:s" feature="Kritias_Inferno01" />
 	<key id="20302397" class="package" name="인페르녹 최후의 결전 S+랭크 보상 상자:s" feature="Kritias_Inferno01" />
 	<key id="20302398" class="package" name="프리 뷰티 쿠폰 패키지:s" feature="Event" />
-	<key id="20302399" class="consume" name="무료 스페셜 헤어 스타일링 쿠폰:s" feature="Event" />
-	<key id="20302400" class="consume" name="무료 헤어 스타일링 쿠폰:s" feature="Event" />
+	<key id="20302399" class="consume" name="무료 헤어 스타일링 쿠폰:s" feature="Event" />
+	<key id="20302400" class="consume" name="무료 스페셜 헤어 스타일링 쿠폰:s" feature="Event" />
 	<key id="20302401" class="consume" name="무료 성형 시술 쿠폰:s" feature="Event" />
 	<key id="20302402" class="consume" name="무료 메이크업 쿠폰:s" feature="Event" />
 	<key id="20302403" class="consume" name="무료 피부 시술 쿠폰:s" feature="Event" />
@@ -20319,13 +20655,69 @@
 	<key id="20302411" class="package" name="70LV 라펜샤드 랜덤 상자:s" locale="KR" />
 	<key id="20302412" class="package" name="워너비 마크 선택 상자:s" locale="KR" />
 	<key id="20302413" class="consume" name="조디 스쿼드 웰컴 패키지:s" feature="Event" locale="NA" />
+	<key id="20302413" class="consume" name="조디 스쿼드 웰컴 패키지:s" feature="Event" locale="JP" />
+	<key id="20302413" class="consume" name="조디 스쿼드 웰컴 패키지:s" feature="Event" locale="TH" />
+	<key id="20302413" class="consume" name="조디 스쿼드 웰컴 패키지:s" feature="Event" locale="TW" />
 	<key id="20302414" class="package" name="짝꿍의 코디 상자:s" feature="Event" />
 	<key id="20302415" class="package" name="빙글빙글 회오리 집 조각:s" feature="Event" />
 	<key id="20302416" class="package" name="70LV 펫 선택 상자:s" locale="KR" />
-	<key id="20302417" class="package" name="포잉 액션 수강증 상자:s" feature="Event" locale="KR" />
+	<key id="20302417" class="package" name="포잉 액션 수강증 상자:s" feature="Event" />
 	<key id="20302418" class="package" name="짝꿍의 선물 상자:s" feature="Event" />
 	<key id="20302419" class="package" name="군단전 보급품:s" feature="Event" locale="KR" />
 	<key id="20302420" class="consume" name="에나멜 스트라이프 리본 조각:s" feature="Event" locale="KR" />
+	<key id="20302420" class="consume" name="에나멜 스트라이프 리본 조각:s" feature="Event" locale="NA" />
+	<key id="20302421" class="consume" name="거북이 발자국:s" feature="Event" locale="CN" />
+	<key id="20302422" class="consume" name="50레벨 트레이더스 리본:s" locale="NA" />
+	<key id="20302423" class="package" name="그림자 군단의 제단 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302424" class="package" name="달빛선장의 요새 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302425" class="package" name="루디브리엄 시계탑 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302426" class="package" name="인페르녹 최후의 방어선 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302427" class="package" name="그린후드 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302428" class="package" name="루미나이츠 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302429" class="package" name="다크윈드 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302430" class="package" name="트라이아 근위대 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302431" class="package" name="메이플 연합 A랭크 보상 상자:s" locale="NA" />
+	<key id="20302432" class="consume" name="피크닉 가위바위보 대결권:s" feature="Event" locale="NA" />
+	<key id="20302433" class="package" name="피크닉 가위바위보 선물상자:s" feature="Event" locale="NA" />
+	<key id="20302434" class="package" name="피크닉 가위바위보 스페셜 선물상자:s" feature="Event" locale="NA" />
+	<key id="20302435" class="userOpenMinigame" name="미니 게임 : 수상한 빈빈 동산 M:s" feature="Event" />
+	<key id="20302436" class="package" name="슈테판의 신나는 악보 상자:s" feature="Event" />
+	<key id="20302437" class="package" name="완전 멋진 핑크빈 상자:s" feature="Event" />
+	<key id="20302438" class="package" name="귀염둥이 핑크빈 상자:s" feature="Event" />
+	<key id="20302439" class="package" name="MS2 만점 포션 상자:s" locale="NA" />
+	<key id="20302440" class="consume" name="무지개 맛 사료:s" feature="Event" locale="NA" />
+	<key id="20302441" class="consume" name="조각 소지품 창 확장권 : 6칸:s" />
+	<key id="20302442" class="package" name="트윙클 스타 팬시 웨폰 박스:s" locale="KR" />
+	<key id="20302443" class="package" name="리턴 투 핑크빈:s" locale="KR" />
+	<key id="20302444" class="package" name="건설 패키지 : 핑크빈 뮤직 스테이지:s" />
+	<key id="20302445" class="package" name="퀸크빈 럼블 1라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302446" class="package" name="퀸크빈 럼블 2라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302447" class="package" name="퀸크빈 럼블 3라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302448" class="package" name="퀸크빈 럼블 4라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302449" class="package" name="퀸크빈 럼블 5라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302450" class="package" name="퀸크빈 럼블 6라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302451" class="package" name="퀸크빈 럼블 7라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302452" class="package" name="퀸크빈 럼블 8라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302453" class="package" name="퀸크빈 럼블 9라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302454" class="package" name="퀸크빈 럼블 10라운드 보상 상자:s" feature="ColosseumDungeon" />
+	<key id="20302455" class="package" name="레전더리 신발 조각 선택 상자:s" feature="ColosseumDungeon" />
+	<key id="20302456" class="package" name="레전더리 장갑 조각 선택 상자:s" feature="ColosseumDungeon" />
+	<key id="20302457" class="package" name="레전더리 모자 조각 선택 상자:s" feature="ColosseumDungeon" />
+	<key id="20302458" class="package" name="레전더리 상하의 조각 선택 상자:s" feature="ColosseumDungeon" />
+	<key id="20302459" class="package" name="레전더리 무기 조각 선택 상자:s" feature="ColosseumDungeon" />
+	<key id="20302460" class="package" name="주목끌기 패키지:s" locale="NA" />
+	<key id="20302461" class="package" name="펀 패키지:s" locale="NA" />
+	<key id="20302462" class="package" name="펀 패키지2:s" locale="NA" />
+	<key id="20302463" class="package" name="7단계 젬스톤 선택 상자:s" feature="ItemSocketSystem" locale="CN" />
+	<key id="20302464" class="package" name="2단계 루미스톤 선택 상자:s" feature="ItemSocketSystem" locale="CN" />
+	<key id="20302518" class="package" name="70레벨 라펜샤드 상자:s" />
+	<key id="20302519" class="package" name="빛나는 해피 슬라임 스킨 상자:s" />
+	<key id="20302520" class="package" name="70레벨 엑설런트 전투펫 랜덤 상자:s" />
+	<key id="20302521" class="package" name="반짝이는 70레벨 레벨업 패키지:s" locale="CN" />
+	<key id="20302522" class="package" name="70레벨 +10 인챈트 주문서 상자:s" locale="CN" />
+	<key id="20302523" class="package" name="70레벨 엑설런트 액세서리 상자:s" locale="CN" />
+	<key id="20302524" class="package" name="신비한 에네르 상자:s" feature="Event" />
+	<key id="20302525" class="package" name="만우절 깜짝 상자:s" feature="Event" />
 	<key id="20400001" class="PetConsume" name="올가닉 컴패니언 쿠키 7kg:s" />
 	<key id="20400002" class="PetConsume" name="올가닉 컴패니언 쿠키 30kg:s" />
 	<key id="20400003" class="PetConsume" name="올가닉 컴패니언 쿠키 90kg:s" />
@@ -20417,6 +20809,10 @@
 	<key id="20500077" class="consume" name="뷰티 쿠폰 : 깔끔 소프트 컬 헤어:s" />
 	<key id="20500078" class="consume" name="뷰티 쿠폰 : 투블럭 포마드 헤어:s" />
 	<key id="20500079" class="consume" name="뷰티 쿠폰 : 차분한 머리:s" />
+	<key id="20500080" class="consume" name="뷰티 쿠폰 : 비녀 반올림 머리:s" />
+	<key id="20500081" class="consume" name="뷰티 쿠폰 : 로맨틱 블레이드 헤어:s" />
+	<key id="20500082" class="consume" name="뷰티 쿠폰 : 나비 떨잠 머리:s" />
+	<key id="20500083" class="consume" name="뷰티 쿠폰 : 샤이닝 볼륨 매직:s" />
 	<key id="20510001" class="consume" name="롤리의 스페셜 헤어 쿠폰:s" />
 	<key id="20520001" class="consume" name="메이크업 쿠폰 : Razer (남):s" locale="NA" />
 	<key id="20520002" class="consume" name="메이크업 쿠폰 : Razer (여):s" locale="NA" />
@@ -20477,6 +20873,11 @@
 	<key id="20800034" class="consume" name="슈퍼 월드 대화 : 코믹 카툰:s" feature="SuperWorldChat" />
 	<key id="20800035" class="consume" name="슈퍼 월드 대화 : 공룡알:s" feature="SuperWorldChat" />
 	<key id="20800036" class="consume" name="슈퍼 월드 대화 : 디제이:s" feature="SuperWorldChat" />
+	<key id="21100000" class="chatEmoticon" name="이모티콘 : 우르자의 특별한 얼굴 (4종):s" feature="ChatEmoticon" />
+	<key id="21100001" class="chatEmoticon" name="이모티콘 : 안녕! 슬라임 (8종):s" feature="ChatEmoticon" />
+	<key id="21100002" class="chatEmoticon" name="이모티콘 : 안녕! 더키 (8종):s" feature="ChatEmoticon" />
+	<key id="21100003" class="chatEmoticon" name="이모티콘 : 안녕! 주황버섯 (8종):s" feature="ChatEmoticon" />
+	<key id="21100004" class="chatEmoticon" name="이모티콘 : 안녕! 우르자 (8종):s" feature="ChatEmoticon" />
 	<key id="30000001" class="mission" name="지옥불의 정기:s" />
 	<key id="30000002" class="etc" name="낚시도구:s" />
 	<key id="30000003" class="etc" name="그물망:s" />
@@ -21656,28 +22057,28 @@
 	<key id="30001205" class="mission" name="오닉스 결정 상자 : 500개:s" />
 	<key id="30001206" class="mission" name="컬러 크리스탈 상자:s" />
 	<key id="30001207" class="mission" name="마리엔의 일기장:s" locale="KR" />
-	<key id="30001208" class="mission" name="변호사 자격증:s" locale="KR" />
-	<key id="30001209" class="mission" name="유언장 사본:s" locale="KR" />
-	<key id="30001210" class="mission" name="입양 증명서:s" locale="KR" />
-	<key id="30001211" class="mission" name="보마르셰의 목걸이:s" locale="KR" />
-	<key id="30001212" class="mission" name="할로윈 캔디:s" locale="KR" />
-	<key id="30001213" class="mission" name="유언장 원본:s" locale="KR" />
-	<key id="30001214" class="mission" name="할로윈 호박 장식:s" locale="KR" />
 	<key id="30001207" class="mission" name="마리엔의 일기장:s" locale="CN" />
-	<key id="30001208" class="mission" name="변호사 자격증:s" locale="CN" />
-	<key id="30001209" class="mission" name="유언장 사본:s" locale="CN" />
-	<key id="30001210" class="mission" name="입양 증명서:s" locale="CN" />
-	<key id="30001211" class="mission" name="보마르셰의 목걸이:s" locale="CN" />
-	<key id="30001212" class="mission" name="할로윈 캔디:s" locale="CN" />
-	<key id="30001213" class="mission" name="유언장 원본:s" locale="CN" />
-	<key id="30001214" class="mission" name="할로윈 호박 장식:s" locale="CN" />
 	<key id="30001207" class="mission" name="마리엔의 일기장:s" locale="NA" />
+	<key id="30001208" class="mission" name="변호사 자격증:s" locale="KR" />
+	<key id="30001208" class="mission" name="변호사 자격증:s" locale="CN" />
 	<key id="30001208" class="mission" name="변호사 자격증:s" locale="NA" />
+	<key id="30001209" class="mission" name="유언장 사본:s" locale="KR" />
+	<key id="30001209" class="mission" name="유언장 사본:s" locale="CN" />
 	<key id="30001209" class="mission" name="유언장 사본:s" locale="NA" />
+	<key id="30001210" class="mission" name="입양 증명서:s" locale="KR" />
+	<key id="30001210" class="mission" name="입양 증명서:s" locale="CN" />
 	<key id="30001210" class="mission" name="입양 증명서:s" locale="NA" />
+	<key id="30001211" class="mission" name="보마르셰의 목걸이:s" locale="KR" />
+	<key id="30001211" class="mission" name="보마르셰의 목걸이:s" locale="CN" />
 	<key id="30001211" class="mission" name="보마르셰의 목걸이:s" locale="NA" />
+	<key id="30001212" class="mission" name="할로윈 캔디:s" locale="KR" />
+	<key id="30001212" class="mission" name="할로윈 캔디:s" locale="CN" />
 	<key id="30001212" class="mission" name="할로윈 캔디:s" locale="NA" />
+	<key id="30001213" class="mission" name="유언장 원본:s" locale="KR" />
+	<key id="30001213" class="mission" name="유언장 원본:s" locale="CN" />
 	<key id="30001213" class="mission" name="유언장 원본:s" locale="NA" />
+	<key id="30001214" class="mission" name="할로윈 호박 장식:s" locale="KR" />
+	<key id="30001214" class="mission" name="할로윈 호박 장식:s" locale="CN" />
 	<key id="30001214" class="mission" name="할로윈 호박 장식:s" locale="NA" />
 	<key id="30001215" class="etc" name="펌킨 코인:s" />
 	<key id="30001216" class="etc" name="에네르 코어:s" feature="Kritias_2018_12" />
@@ -21741,6 +22142,9 @@
 	<key id="30001274" class="mission" name="든든한 회복 포션 상자:s" feature="DailyMission" />
 	<key id="30001275" class="potion" name="리커버리 엘릭서:s" />
 	<key id="30001276" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" locale="NA" />
+	<key id="30001276" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" locale="JP" />
+	<key id="30001276" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" locale="TH" />
+	<key id="30001276" class="etc" name="토드의 연마석:s" feature="EnchantReformation01" locale="TW" />
 	<key id="30001277" class="etc" name="복돼지 주화:s" />
 	<key id="30001278" class="etc" name="기간틱 드릴 배터리:s" feature="Kritias_2018_12" />
 	<key id="30001279" class="etc" name="[크리티아스 원정대] 그린후드 증표:s" feature="Kritias_2018_12" />
@@ -21782,6 +22186,28 @@
 	<key id="30001318" class="mission" name="따:s" feature="Event" locale="KR" />
 	<key id="30001319" class="mission" name="뜻:s" feature="Event" locale="KR" />
 	<key id="30001320" class="mission" name="해:s" feature="Event" locale="KR" />
+	<key id="30001321" class="mission" name="난(暖):s" feature="Event" locale="CN" />
+	<key id="30001322" class="mission" name="동(冬):s" feature="Event" locale="CN" />
+	<key id="30001323" class="mission" name="행(行):s" feature="Event" locale="CN" />
+	<key id="30001324" class="mission" name="영(迎):s" feature="Event" locale="CN" />
+	<key id="30001325" class="mission" name="춘(春):s" feature="Event" locale="CN" />
+	<key id="30001326" class="mission" name="계(季):s" feature="Event" locale="CN" />
+	<key id="30001327" class="mission" name="낭(浪):s" feature="Event" locale="CN" />
+	<key id="30001328" class="mission" name="만(漫):s" feature="Event" locale="CN" />
+	<key id="30001329" class="mission" name="시(时):s" feature="Event" locale="CN" />
+	<key id="30001330" class="mission" name="M:s" feature="Event" locale="NA" />
+	<key id="30001331" class="mission" name="A:s" feature="Event" locale="NA" />
+	<key id="30001332" class="mission" name="P:s" feature="Event" locale="NA" />
+	<key id="30001333" class="mission" name="L:s" feature="Event" locale="NA" />
+	<key id="30001334" class="mission" name="E:s" feature="Event" locale="NA" />
+	<key id="30001335" class="mission" name="S:s" feature="Event" locale="NA" />
+	<key id="30001336" class="mission" name="T:s" feature="Event" locale="NA" />
+	<key id="30001337" class="mission" name="O:s" feature="Event" locale="NA" />
+	<key id="30001338" class="mission" name="R:s" feature="Event" locale="NA" />
+	<key id="30001339" class="mission" name="Y:s" feature="Event" locale="NA" />
+	<key id="30001340" class="mission" name="2:s" feature="Event" locale="NA" />
+	<key id="30001341" class="mission" name="!:s" feature="Event" locale="NA" />
+	<key id="30001342" class="etc" name="초록 코인:s" feature="Event" />
 	<key id="30050859" class="enchant" name="옵션 고정 주문서 (무기):s" feature="OptionBlock02" />
 	<key id="30050860" class="enchant" name="옵션 고정 주문서 (방어구):s" feature="OptionBlock02" />
 	<key id="30050889" class="enchant" name="옵션 고정 주문서 (액세서리):s" feature="OptionBlock02" />
@@ -22123,9 +22549,9 @@
 	<key id="31000744" class="enchant" name="+7 고급 인챈트 주문서:s" />
 	<key id="31000745" class="enchant" name="+8 고급 인챈트 주문서:s" />
 	<key id="31000746" class="enchant" name="+9 고급 인챈트 주문서:s" />
-	<key id="31000747" class="enchant" name="+9 고급 인챈트 주문서:s" />
-	<key id="31000748" class="enchant" name="+9 고급 인챈트 주문서:s" />
-	<key id="31000749" class="enchant" name="+9 고급 인챈트 주문서:s" />
+	<key id="31000747" class="enchant" name="+10 고급 인챈트 주문서:s" />
+	<key id="31000748" class="enchant" name="+11 고급 인챈트 주문서:s" />
+	<key id="31000749" class="enchant" name="+12 고급 인챈트 주문서:s" />
 	<key id="31000750" class="enchant" name="(이벤트) 장비 복구 주문서:s" />
 	<key id="31000751" class="enchant" name="10단계 최고급 인챈트 주문서:s" />
 	<key id="31000753" class="enchant" name="5단계 하급 인챈트 주문서:s" />
@@ -22780,10 +23206,25 @@
 	<key id="31001491" class="enchant" name="에픽 1소켓 변환 주문서:s" />
 	<key id="31001492" class="enchant" name="에픽 2소켓 변환 주문서:s" />
 	<key id="31001493" class="enchant" name="8단계 엘리트 인챈트 주문서 (한손):s" locale="NA" />
+	<key id="31001493" class="enchant" name="8단계 엘리트 인챈트 주문서 (한손):s" locale="JP" />
+	<key id="31001493" class="enchant" name="8단계 엘리트 인챈트 주문서 (한손):s" locale="TH" />
+	<key id="31001493" class="enchant" name="8단계 엘리트 인챈트 주문서 (한손):s" locale="TW" />
 	<key id="31001494" class="enchant" name="8단계 엘리트 인챈트 주문서 (쌍수):s" locale="NA" />
+	<key id="31001494" class="enchant" name="8단계 엘리트 인챈트 주문서 (쌍수):s" locale="JP" />
+	<key id="31001494" class="enchant" name="8단계 엘리트 인챈트 주문서 (쌍수):s" locale="TH" />
+	<key id="31001494" class="enchant" name="8단계 엘리트 인챈트 주문서 (쌍수):s" locale="TW" />
 	<key id="31001495" class="enchant" name="8단계 엘리트 인챈트 주문서 (양손):s" locale="NA" />
+	<key id="31001495" class="enchant" name="8단계 엘리트 인챈트 주문서 (양손):s" locale="JP" />
+	<key id="31001495" class="enchant" name="8단계 엘리트 인챈트 주문서 (양손):s" locale="TH" />
+	<key id="31001495" class="enchant" name="8단계 엘리트 인챈트 주문서 (양손):s" locale="TW" />
 	<key id="31001496" class="enchant" name="8단계 엘리트 인챈트 주문서 (상하의):s" locale="NA" />
+	<key id="31001496" class="enchant" name="8단계 엘리트 인챈트 주문서 (상하의):s" locale="JP" />
+	<key id="31001496" class="enchant" name="8단계 엘리트 인챈트 주문서 (상하의):s" locale="TH" />
+	<key id="31001496" class="enchant" name="8단계 엘리트 인챈트 주문서 (상하의):s" locale="TW" />
 	<key id="31001497" class="enchant" name="8단계 엘리트 인챈트 주문서 (한벌):s" locale="NA" />
+	<key id="31001497" class="enchant" name="8단계 엘리트 인챈트 주문서 (한벌):s" locale="JP" />
+	<key id="31001497" class="enchant" name="8단계 엘리트 인챈트 주문서 (한벌):s" locale="TH" />
+	<key id="31001497" class="enchant" name="8단계 엘리트 인챈트 주문서 (한벌):s" locale="TW" />
 	<key id="31001498" class="enchant" name="10단계 엘리트 인챈트 주문서 (한손):s" />
 	<key id="31001499" class="enchant" name="10단계 엘리트 인챈트 주문서 (쌍수):s" />
 	<key id="31001500" class="enchant" name="10단계 엘리트 인챈트 주문서 (양손):s" />
@@ -22797,11 +23238,29 @@
 	<key id="31001522" class="enchant" name="에픽 방어구 옵션 수치 변경권:s" feature="ItemRemakeOption" />
 	<key id="31001523" class="enchant" name="에픽 액세서리 옵션 수치 변경권:s" feature="ItemRemakeOption" />
 	<key id="31001524" class="enchant" name="+10단계 인챈트 주문서 (한손):s" locale="NA" />
+	<key id="31001524" class="enchant" name="+10단계 인챈트 주문서 (한손):s" locale="JP" />
+	<key id="31001524" class="enchant" name="+10단계 인챈트 주문서 (한손):s" locale="TH" />
+	<key id="31001524" class="enchant" name="+10단계 인챈트 주문서 (한손):s" locale="TW" />
 	<key id="31001525" class="enchant" name="+10단계 인챈트 주문서 (쌍수):s" locale="NA" />
+	<key id="31001525" class="enchant" name="+10단계 인챈트 주문서 (쌍수):s" locale="JP" />
+	<key id="31001525" class="enchant" name="+10단계 인챈트 주문서 (쌍수):s" locale="TH" />
+	<key id="31001525" class="enchant" name="+10단계 인챈트 주문서 (쌍수):s" locale="TW" />
 	<key id="31001526" class="enchant" name="+10단계 인챈트 주문서 (양손):s" locale="NA" />
+	<key id="31001526" class="enchant" name="+10단계 인챈트 주문서 (양손):s" locale="JP" />
+	<key id="31001526" class="enchant" name="+10단계 인챈트 주문서 (양손):s" locale="TH" />
+	<key id="31001526" class="enchant" name="+10단계 인챈트 주문서 (양손):s" locale="TW" />
 	<key id="31001527" class="enchant" name="액세서리 1소켓 변환 주문서:s" locale="NA" />
+	<key id="31001527" class="enchant" name="액세서리 1소켓 변환 주문서:s" locale="JP" />
+	<key id="31001527" class="enchant" name="액세서리 1소켓 변환 주문서:s" locale="TH" />
+	<key id="31001527" class="enchant" name="액세서리 1소켓 변환 주문서:s" locale="TW" />
 	<key id="31001528" class="enchant" name="액세서리 옵션 수치 변경권:s" locale="NA" />
+	<key id="31001528" class="enchant" name="액세서리 옵션 수치 변경권:s" locale="JP" />
+	<key id="31001528" class="enchant" name="액세서리 옵션 수치 변경권:s" locale="TH" />
+	<key id="31001528" class="enchant" name="액세서리 옵션 수치 변경권:s" locale="TW" />
 	<key id="31001529" class="enchant" name="+10단계 인챈트 주문서 (방어구):s" locale="NA" />
+	<key id="31001529" class="enchant" name="+10단계 인챈트 주문서 (방어구):s" locale="JP" />
+	<key id="31001529" class="enchant" name="+10단계 인챈트 주문서 (방어구):s" locale="TH" />
+	<key id="31001529" class="enchant" name="+10단계 인챈트 주문서 (방어구):s" locale="TW" />
 	<key id="31001530" class="enchant" name="70레벨 엑설런트 옵션 변경권 (한손):s" feature="Level70Item" />
 	<key id="31001531" class="enchant" name="70레벨 엑설런트 옵션 변경권 (양손):s" feature="Level70Item" />
 	<key id="31001532" class="enchant" name="70레벨 엑설런트 옵션 수치 변경권 (방어구) :s" feature="Level70Item" />
@@ -22904,6 +23363,20 @@
 	<key id="31001629" class="enchant" name="13단계 레전더리 인챈트 주문서(오브):s" feature="EnchantTransform01" />
 	<key id="31001630" class="enchant" name="14단계 레전더리 인챈트 주문서(오브):s" feature="EnchantTransform01" />
 	<key id="31001631" class="enchant" name="15단계 레전더리 인챈트 주문서(오브):s" feature="EnchantTransform01" />
+	<key id="31001632" class="enchant" name="10단계 엑설런트 인챈트 주문서(모자):s" locale="CN" />
+	<key id="31001633" class="enchant" name="10단계 엑설런트 인챈트 주문서(상하의):s" locale="CN" />
+	<key id="31001634" class="enchant" name="10단계 엑설런트 인챈트 주문서(장갑,신발):s" locale="CN" />
+	<key id="31001635" class="enchant" name="10단계 엑설런트 인챈트 주문서(롱소드):s" locale="CN" />
+	<key id="31001636" class="enchant" name="10단계 엑설런트 인챈트 주문서(라지소드):s" locale="CN" />
+	<key id="31001637" class="enchant" name="10단계 엑설런트 인챈트 주문서(스태프):s" locale="CN" />
+	<key id="31001638" class="enchant" name="10단계 엑설런트 인챈트 주문서(홀):s" locale="CN" />
+	<key id="31001639" class="enchant" name="10단계 엑설런트 인챈트 주문서(활):s" locale="CN" />
+	<key id="31001640" class="enchant" name="10단계 엑설런트 인챈트 주문서(캐논):s" locale="CN" />
+	<key id="31001641" class="enchant" name="10단계 엑설런트 인챈트 주문서(단검):s" locale="CN" />
+	<key id="31001642" class="enchant" name="10단계 엑설런트 인챈트 주문서(표창):s" locale="CN" />
+	<key id="31001643" class="enchant" name="10단계 엑설런트 인챈트 주문서(블레이드):s" locale="CN" />
+	<key id="31001644" class="enchant" name="10단계 엑설런트 인챈트 주문서(너클):s" locale="CN" />
+	<key id="31001645" class="enchant" name="10단계 엑설런트 인챈트 주문서(오브):s" locale="CN" />
 	<key id="32000001" class="fishingRod" name="나뭇가지 낚싯대:s" />
 	<key id="32000002" class="fishingRod" name="빨간색 철제 낚싯대:s" />
 	<key id="32000003" class="fishingRod" name="파란색 철제 낚싯대:s" />
@@ -23909,20 +24382,59 @@
 	<key id="36000389" class="piece" name="흉포한 반지 조각:s" feature="Season3" />
 	<key id="36000390" class="piece" name="흉포한 벨트 조각:s" feature="Season3" />
 	<key id="36000408" class="piece" name="극한의 무기 상자 조각:s" locale="NA" />
+	<key id="36000408" class="piece" name="극한의 무기 상자 조각:s" locale="JP" />
+	<key id="36000408" class="piece" name="극한의 무기 상자 조각:s" locale="TH" />
+	<key id="36000408" class="piece" name="극한의 무기 상자 조각:s" locale="TW" />
 	<key id="36000409" class="piece" name="난폭한 무기 상자 조각:s" locale="NA" />
+	<key id="36000409" class="piece" name="난폭한 무기 상자 조각:s" locale="JP" />
+	<key id="36000409" class="piece" name="난폭한 무기 상자 조각:s" locale="TH" />
+	<key id="36000409" class="piece" name="난폭한 무기 상자 조각:s" locale="TW" />
 	<key id="36000410" class="piece" name="광포한 무기 상자 조각:s" locale="NA" />
+	<key id="36000410" class="piece" name="광포한 무기 상자 조각:s" locale="JP" />
+	<key id="36000410" class="piece" name="광포한 무기 상자 조각:s" locale="TH" />
+	<key id="36000410" class="piece" name="광포한 무기 상자 조각:s" locale="TW" />
 	<key id="36000411" class="piece" name="극한의 상의,하의 선택 상자 조각:s" locale="NA" />
+	<key id="36000411" class="piece" name="극한의 상의,하의 선택 상자 조각:s" locale="JP" />
+	<key id="36000411" class="piece" name="극한의 상의,하의 선택 상자 조각:s" locale="TH" />
+	<key id="36000411" class="piece" name="극한의 상의,하의 선택 상자 조각:s" locale="TW" />
 	<key id="36000412" class="piece" name="난폭한 상의,하의 선택 상자 조각:s" locale="NA" />
+	<key id="36000412" class="piece" name="난폭한 상의,하의 선택 상자 조각:s" locale="JP" />
+	<key id="36000412" class="piece" name="난폭한 상의,하의 선택 상자 조각:s" locale="TH" />
+	<key id="36000412" class="piece" name="난폭한 상의,하의 선택 상자 조각:s" locale="TW" />
 	<key id="36000413" class="piece" name="광포한 상의,하의 선택 상자 조각:s" locale="NA" />
+	<key id="36000413" class="piece" name="광포한 상의,하의 선택 상자 조각:s" locale="JP" />
+	<key id="36000413" class="piece" name="광포한 상의,하의 선택 상자 조각:s" locale="TH" />
+	<key id="36000413" class="piece" name="광포한 상의,하의 선택 상자 조각:s" locale="TW" />
 	<key id="36000414" class="piece" name="극한의 모자,장갑,신발 선택 상자 조각:s" locale="NA" />
+	<key id="36000414" class="piece" name="극한의 모자,장갑,신발 선택 상자 조각:s" locale="JP" />
+	<key id="36000414" class="piece" name="극한의 모자,장갑,신발 선택 상자 조각:s" locale="TH" />
+	<key id="36000414" class="piece" name="극한의 모자,장갑,신발 선택 상자 조각:s" locale="TW" />
 	<key id="36000415" class="piece" name="난폭한 모자,장갑,신발 선택 상자 조각:s" locale="NA" />
+	<key id="36000415" class="piece" name="난폭한 모자,장갑,신발 선택 상자 조각:s" locale="JP" />
+	<key id="36000415" class="piece" name="난폭한 모자,장갑,신발 선택 상자 조각:s" locale="TH" />
+	<key id="36000415" class="piece" name="난폭한 모자,장갑,신발 선택 상자 조각:s" locale="TW" />
 	<key id="36000416" class="piece" name="광포한 모자,장갑,신발 선택 상자 조각:s" locale="NA" />
+	<key id="36000416" class="piece" name="광포한 모자,장갑,신발 선택 상자 조각:s" locale="JP" />
+	<key id="36000416" class="piece" name="광포한 모자,장갑,신발 선택 상자 조각:s" locale="TH" />
+	<key id="36000416" class="piece" name="광포한 모자,장갑,신발 선택 상자 조각:s" locale="TW" />
 	<key id="36000417" class="piece" name="정교한 모자,장갑,신발 선택 상자 조각:s" feature="Season3" />
 	<key id="36000418" class="piece" name="정교한 상의,하의 선택 상자 조각:s" feature="Season3" />
 	<key id="36000419" class="piece" name="무기 옵션 변경권 선택 상자 조각:s" locale="NA" />
+	<key id="36000419" class="piece" name="무기 옵션 변경권 선택 상자 조각:s" locale="JP" />
+	<key id="36000419" class="piece" name="무기 옵션 변경권 선택 상자 조각:s" locale="TH" />
+	<key id="36000419" class="piece" name="무기 옵션 변경권 선택 상자 조각:s" locale="TW" />
 	<key id="36000420" class="piece" name="방어구 옵션 수치 변경권 조각:s" locale="NA" />
+	<key id="36000420" class="piece" name="방어구 옵션 수치 변경권 조각:s" locale="JP" />
+	<key id="36000420" class="piece" name="방어구 옵션 수치 변경권 조각:s" locale="TH" />
+	<key id="36000420" class="piece" name="방어구 옵션 수치 변경권 조각:s" locale="TW" />
 	<key id="36000421" class="piece" name="토드의 연마석 조각:s" feature="EnchantReformation01" locale="NA" />
+	<key id="36000421" class="piece" name="토드의 연마석 조각:s" feature="EnchantReformation01" locale="JP" />
+	<key id="36000421" class="piece" name="토드의 연마석 조각:s" feature="EnchantReformation01" locale="TH" />
+	<key id="36000421" class="piece" name="토드의 연마석 조각:s" feature="EnchantReformation01" locale="TW" />
 	<key id="36000422" class="piece" name="플루토 액세서리 랜덤 상자 조각:s" locale="NA" />
+	<key id="36000422" class="piece" name="플루토 액세서리 랜덤 상자 조각:s" locale="JP" />
+	<key id="36000422" class="piece" name="플루토 액세서리 랜덤 상자 조각:s" locale="TH" />
+	<key id="36000422" class="piece" name="플루토 액세서리 랜덤 상자 조각:s" locale="TW" />
 	<key id="36000423" class="piece" name="안티크 에라곤 무기 상자 조각:s" feature="Level70Item" />
 	<key id="36000424" class="piece" name="타이렌 컴뱃 무기 상자 조각:s" feature="Level70Item" />
 	<key id="36000425" class="piece" name="안티크 에라곤 상의,하의 선택 상자 조각:s" feature="Level70Item" />
@@ -23972,6 +24484,7 @@
 	<key id="36000469" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
 	<key id="36000470" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
 	<key id="36000471" class="piece" name="파멸의 날개 : 블루 라펜샤드 (1단계) 조각:s" feature="Lapenshard01" />
+	<key id="36000472" class="piece" name="50레벨 트레이더스 리본 조각:s" locale="NA" />
 	<key id="37000001" class="mergeMaterial" name="미지의 초월 수정(50LV):s" feature="ItemMerge" />
 	<key id="37000002" class="mergeMaterial" name="빛나는 미지의 초월 수정(50LV):s" feature="ItemMerge" />
 	<key id="37000003" class="mergeMaterial" name="미지의 초월 수정(50LV/한벌):s" feature="ItemMerge" />
@@ -24874,7 +25387,7 @@
 	<key id="40400037" class="flight" name="윙 프로투스:s" />
 	<key id="40400038" class="flight" name="더키 열기구:s" />
 	<key id="40400039" class="flight" name="날아라 판다:s" />
-	<key id="40400040" class="flight" name="비행 스노우보드:s" />
+	<key id="40400040" class="flight" name="네온 호버보드:s" />
 	<key id="40400041" class="flight" name="황금 용:s" />
 	<key id="40400042" class="flight" name="오색 나비연:s" />
 	<key id="40400043" class="flight" name="러블리 열기구:s" />
@@ -24932,12 +25445,17 @@
 	<key id="40400100" class="flight" name="사랑 뿜뿜 컵 케이크:s" />
 	<key id="40400101" class="flight" name="곱디고운 연꽃:s" />
 	<key id="40400102" class="flight" name="행복한 클로버 풍선:s" />
+	<key id="40400103" class="flight" name="떼굴떼굴 달걀:s" />
+	<key id="40400104" class="flight" name="트랜스포머 슈퍼 씽:s" />
+	<key id="40400105" class="flight" name="반짝 반짝 LED 운동화:s" />
 	<key id="40400106" class="flight" name="윙윙 허니 벌집:s" />
 	<key id="40400107" class="flight" name="우주의 지배자:s" />
 	<key id="40400108" class="flight" name="우아한 클래식 음악:s" />
 	<key id="40400109" class="flight" name="비를 부르는 개구리의 노래 :s" />
 	<key id="40400110" class="flight" name="날아라 Razer:s" locale="NA" />
 	<key id="40400111" class="flight" name="스카이 포트리스 강하선:s" />
+	<key id="40400112" class="flight" name="두둥실 핑크빈 풍선:s" feature="Event" />
+	<key id="40400113" class="flight" name="알베르토빈 붕붕카 라이딩:s" feature="Colosseum01" />
 	<key id="40500001" class="skin_gemstone_material" name="빛나는 바이올렛 더스트:s" feature="SkinSocket" />
 	<key id="40500002" class="skin_gemstone_material" name="빛나는 다크블루 더스트:s" feature="SkinSocket" />
 	<key id="40500003" class="skin_gemstone_material" name="빛나는 바이올렛 더스트:s" feature="SkinSocket" />
@@ -26467,7 +26985,13 @@
 	<key id="50100414" class="UGC" name="모던 지그재그 큐브:s" />
 	<key id="50100415" class="UGC" name="핑크 우드 큐브:s" />
 	<key id="50100416" class="UGC" name="바이올렛 별모래 큐브:s" feature="KarkarIsland" locale="NA" />
+	<key id="50100416" class="UGC" name="바이올렛 별모래 큐브:s" feature="KarkarIsland" locale="JP" />
+	<key id="50100416" class="UGC" name="바이올렛 별모래 큐브:s" feature="KarkarIsland" locale="TH" />
+	<key id="50100416" class="UGC" name="바이올렛 별모래 큐브:s" feature="KarkarIsland" locale="TW" />
 	<key id="50100417" class="UGC" name="라벤더 별모래 큐브:s" feature="KarkarIsland" locale="NA" />
+	<key id="50100417" class="UGC" name="라벤더 별모래 큐브:s" feature="KarkarIsland" locale="JP" />
+	<key id="50100417" class="UGC" name="라벤더 별모래 큐브:s" feature="KarkarIsland" locale="TH" />
+	<key id="50100417" class="UGC" name="라벤더 별모래 큐브:s" feature="KarkarIsland" locale="TW" />
 	<key id="50100418" class="UGC" name="장미 정원 짙은 풀 큐브:s" />
 	<key id="50100419" class="UGC" name="붉은 장미 큐브:s" />
 	<key id="50100420" class="UGC" name="스산한 나무 큐브:s" />
@@ -26481,6 +27005,7 @@
 	<key id="50100428" class="UGC" name="고급스러운 무대 바닥 큐브:s" />
 	<key id="50100429" class="UGC" name="정갈한 무대 바닥 큐브:s" />
 	<key id="50100430" class="UGC" name="레드카펫 계단:s" />
+	<key id="50100431" class="UGC" name="별빛 반짝이는 핑크빈 큐브:s" />
 	<key id="50200001" class="UGC" name="나무 벤치:s" />
 	<key id="50200002" class="UGC" name="나무 상자:s" />
 	<key id="50200003" class="UGC" name="하얀 들꽃:s" />
@@ -27418,35 +27943,125 @@
 	<key id="50200939" class="UGC" name="파티 아이스 바구니:s" />
 	<key id="50200940" class="UGC" name="둥실둥실 별무늬 풍선:s" />
 	<key id="50200941" class="UGC" name="카르카르 스네이크 석상:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200941" class="UGC" name="카르카르 스네이크 석상:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200941" class="UGC" name="카르카르 스네이크 석상:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200941" class="UGC" name="카르카르 스네이크 석상:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200942" class="UGC" name="나즈카르 받침 기둥:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200942" class="UGC" name="나즈카르 받침 기둥:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200942" class="UGC" name="나즈카르 받침 기둥:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200942" class="UGC" name="나즈카르 받침 기둥:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200943" class="UGC" name="나즈카르 사각 기둥:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200943" class="UGC" name="나즈카르 사각 기둥:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200943" class="UGC" name="나즈카르 사각 기둥:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200943" class="UGC" name="나즈카르 사각 기둥:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200944" class="UGC" name="나즈카르 각인 받침:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200944" class="UGC" name="나즈카르 각인 받침:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200944" class="UGC" name="나즈카르 각인 받침:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200944" class="UGC" name="나즈카르 각인 받침:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200945" class="UGC" name="별모래 성단 다리:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200945" class="UGC" name="별모래 성단 다리:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200945" class="UGC" name="별모래 성단 다리:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200945" class="UGC" name="별모래 성단 다리:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200946" class="UGC" name="메르지트 제단 기둥:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200946" class="UGC" name="메르지트 제단 기둥:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200946" class="UGC" name="메르지트 제단 기둥:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200946" class="UGC" name="메르지트 제단 기둥:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200947" class="UGC" name="메르지트 문지기 조각상:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200947" class="UGC" name="메르지트 문지기 조각상:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200947" class="UGC" name="메르지트 문지기 조각상:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200947" class="UGC" name="메르지트 문지기 조각상:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200948" class="UGC" name="메르지트 수호신 조각상:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200948" class="UGC" name="메르지트 수호신 조각상:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200948" class="UGC" name="메르지트 수호신 조각상:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200948" class="UGC" name="메르지트 수호신 조각상:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200949" class="UGC" name="루미에라곤의 안식처:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200949" class="UGC" name="루미에라곤의 안식처:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200949" class="UGC" name="루미에라곤의 안식처:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200949" class="UGC" name="루미에라곤의 안식처:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200950" class="UGC" name="메르지트 뱀머리 수호등:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200950" class="UGC" name="메르지트 뱀머리 수호등:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200950" class="UGC" name="메르지트 뱀머리 수호등:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200950" class="UGC" name="메르지트 뱀머리 수호등:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200951" class="UGC" name="메르지트 문지기 벽장식:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200951" class="UGC" name="메르지트 문지기 벽장식:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200951" class="UGC" name="메르지트 문지기 벽장식:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200951" class="UGC" name="메르지트 문지기 벽장식:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200952" class="UGC" name="별모래 마법 구슬:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200952" class="UGC" name="별모래 마법 구슬:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200952" class="UGC" name="별모래 마법 구슬:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200952" class="UGC" name="별모래 마법 구슬:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200953" class="UGC" name="은하 연구 받침대:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200953" class="UGC" name="은하 연구 받침대:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200953" class="UGC" name="은하 연구 받침대:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200953" class="UGC" name="은하 연구 받침대:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200954" class="UGC" name="은하수 관찰경:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200954" class="UGC" name="은하수 관찰경:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200954" class="UGC" name="은하수 관찰경:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200954" class="UGC" name="은하수 관찰경:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200955" class="UGC" name="천체 공전 모형:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200955" class="UGC" name="천체 공전 모형:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200955" class="UGC" name="천체 공전 모형:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200955" class="UGC" name="천체 공전 모형:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200956" class="UGC" name="카르카르 황금칼날고기 어항:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200956" class="UGC" name="카르카르 황금칼날고기 어항:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200956" class="UGC" name="카르카르 황금칼날고기 어항:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200956" class="UGC" name="카르카르 황금칼날고기 어항:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200957" class="UGC" name="블루 랜턴 탁자:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200957" class="UGC" name="블루 랜턴 탁자:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200957" class="UGC" name="블루 랜턴 탁자:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200957" class="UGC" name="블루 랜턴 탁자:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200958" class="UGC" name="블루 힐링 암체어:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200958" class="UGC" name="블루 힐링 암체어:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200958" class="UGC" name="블루 힐링 암체어:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200958" class="UGC" name="블루 힐링 암체어:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200959" class="UGC" name="블루 바캉스 테이블:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200959" class="UGC" name="블루 바캉스 테이블:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200959" class="UGC" name="블루 바캉스 테이블:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200959" class="UGC" name="블루 바캉스 테이블:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200960" class="UGC" name="블루 비치 소파:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200960" class="UGC" name="블루 비치 소파:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200960" class="UGC" name="블루 비치 소파:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200960" class="UGC" name="블루 비치 소파:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200961" class="UGC" name="블루 그네 소파:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200961" class="UGC" name="블루 그네 소파:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200961" class="UGC" name="블루 그네 소파:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200961" class="UGC" name="블루 그네 소파:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200962" class="UGC" name="빈티지 금장 옷장:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200962" class="UGC" name="빈티지 금장 옷장:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200962" class="UGC" name="빈티지 금장 옷장:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200962" class="UGC" name="빈티지 금장 옷장:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200963" class="UGC" name="고급 원단 보관함:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200963" class="UGC" name="고급 원단 보관함:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200963" class="UGC" name="고급 원단 보관함:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200963" class="UGC" name="고급 원단 보관함:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200964" class="UGC" name="고급 원단 샘플함:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200964" class="UGC" name="고급 원단 샘플함:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200964" class="UGC" name="고급 원단 샘플함:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200964" class="UGC" name="고급 원단 샘플함:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200965" class="UGC" name="고급 의상 드레스룸:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200965" class="UGC" name="고급 의상 드레스룸:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200965" class="UGC" name="고급 의상 드레스룸:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200965" class="UGC" name="고급 의상 드레스룸:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200966" class="UGC" name="고급 의상 쇼케이스:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200966" class="UGC" name="고급 의상 쇼케이스:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200966" class="UGC" name="고급 의상 쇼케이스:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200966" class="UGC" name="고급 의상 쇼케이스:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200967" class="UGC" name="심플 의상 수선대:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200967" class="UGC" name="심플 의상 수선대:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200967" class="UGC" name="심플 의상 수선대:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200967" class="UGC" name="심플 의상 수선대:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200968" class="UGC" name="장인의 의상 작업대:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200968" class="UGC" name="장인의 의상 작업대:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200968" class="UGC" name="장인의 의상 작업대:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200968" class="UGC" name="장인의 의상 작업대:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200969" class="UGC" name="양가죽 구두 보관함:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200969" class="UGC" name="양가죽 구두 보관함:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200969" class="UGC" name="양가죽 구두 보관함:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200969" class="UGC" name="양가죽 구두 보관함:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200970" class="UGC" name="최고급 의상 재봉틀:s" feature="KarkarIsland" locale="NA" />
+	<key id="50200970" class="UGC" name="최고급 의상 재봉틀:s" feature="KarkarIsland" locale="JP" />
+	<key id="50200970" class="UGC" name="최고급 의상 재봉틀:s" feature="KarkarIsland" locale="TH" />
+	<key id="50200970" class="UGC" name="최고급 의상 재봉틀:s" feature="KarkarIsland" locale="TW" />
 	<key id="50200971" class="UGC" name="푸른 도깨비불 나무:s" />
 	<key id="50200972" class="UGC" name="외눈도깨비 울타리:s" />
 	<key id="50200973" class="UGC" name="외눈박이 등불:s" />
@@ -27827,6 +28442,12 @@
 	<key id="50400314" class="UGC" name="별이 빛나는 가로등:s" />
 	<key id="50400315" class="UGC" name="스카이 포트리스 입구:s" feature="Kritias_2018_12" />
 	<key id="50400316" class="UGC" name="발레하는 더키:s" />
+	<key id="50400317" class="UGC" name="레인보우 슬라임의 보금자리:s" />
+	<key id="50400318" class="UGC" name="춤추는 쌍봉 핑크빈:s" />
+	<key id="50400319" class="UGC" name="춤추는 스타 미니빈:s" />
+	<key id="50400320" class="UGC" name="별빛 반짝이는 핑크빈 스피커:s" />
+	<key id="50400321" class="UGC" name="별빛 반짝이는 핑크빈 이퀄라이저:s" />
+	<key id="50400322" class="UGC" name="별빛 반짝이는 핑크빈 무대:s" />
 	<key id="50410001" class="UGC" name="화이트 체스말 : 스페셜 킹:s" />
 	<key id="50410002" class="UGC" name="화이트 체스말 : 킹:s" />
 	<key id="50410003" class="UGC" name="화이트 체스말 : 퀸:s" />
@@ -28111,7 +28732,7 @@
 	<key id="50600254" class="ride" name="외계 비행 물체:s" />
 	<key id="50600255" class="ride" name="귀여운 알파카:s" />
 	<key id="50600256" class="ride" name="아이스크림 트럭:s" />
-	<key id="50600257" class="ride" name="꼬물꼬물 애벌레:s" />
+	<key id="50600257" class="ride" name="연두 빛깔 꼬물이:s" />
 	<key id="50600258" class="ride" name="라펜턴드 이슈라 쿠션:s" />
 	<key id="50600259" class="ride" name="씽씽 핸드 카트:s" feature="SurvivalContents01" />
 	<key id="50600260" class="ride" name="월병 구름마차:s" />
@@ -28141,7 +28762,10 @@
 	<key id="50600292" class="ride" name="초원의 신사 기링:s" />
 	<key id="50600293" class="ride" name="추억은 트램을 타고:s" />
 	<key id="50600294" class="ride" name="차밍 포니:s" />
+	<key id="50600295" class="ride" name="트랜스포머 슈퍼 붕:s" />
 	<key id="50600296" class="ride" name="엄마 곰과 유모차 나들이:s" />
+	<key id="50600297" class="ride" name="유니콘 회전목마:s" />
+	<key id="50600298" class="ride" name="사랑은 금고를 타고:s" />
 	<key id="50600299" class="ride" name="아이차 달콤 쉐이브:s" />
 	<key id="50600302" class="ride" name="길들여진 검은군단 파수견:s" feature="Kritias_2018_12" />
 	<key id="50600303" class="ride" name="포잉포잉:s" feature="Kritias_2018_12" />
@@ -28274,6 +28898,9 @@
 	<key id="50740069" class="charm" name="페이카 기념품:s" feature="Kritias_Paika01" />
 	<key id="50740070" class="charm" name="악마의 제단:s" feature="Kritias_Zakum01" />
 	<key id="50740071" class="charm" name="인페르녹의 뿔:s" feature="Kritias_Inferno01" />
+	<key id="50740072" class="charm" name="퀸크빈 럼블 입상 기념품:s" feature="Colosseum01" />
+	<key id="50740073" class="charm" name="퀸크빈 럼블 우승 기념품:s" feature="Colosseum01" />
+	<key id="50740074" class="charm" name="영예로운 황금 핑크빈 기념품:s" feature="Colosseum01" />
 	<key id="50750001" class="charm" name="무자비한 초급 사냥꾼:s" />
 	<key id="50750002" class="charm" name="무자비한 견습 사냥꾼:s" />
 	<key id="50750003" class="charm" name="무자비한 숙련 사냥꾼:s" />
@@ -28714,6 +29341,8 @@
 	<key id="59200346" class="package" name="다크윈드 패키지:s" />
 	<key id="59200347" class="package" name="스칼렛 하트 룩 패키지:s" />
 	<key id="59200348" class="package" name="색동 한복 패키지:s" />
+	<key id="59200349" class="package" name="루미나리에 룩 패키지:s" />
+	<key id="59200350" class="package" name="발랄 교복 룩 패키지:s" />
 	<key id="59300001" class="BuildPack" name="해피 하우스 인테리어 공사권:s" />
 	<key id="59300002" class="BuildPack" name="해피 하우스 인테리어 공사권:s" />
 	<key id="59300003" class="BuildPack" name="설원 오두막 인테리어 공사권:s" />
@@ -28928,24 +29557,24 @@
 	<key id="61020099" class="battle_Pet" name="코볼크:s" feature="PetBattle" locale="CN" />
 	<key id="61020100" class="battle_Pet" name="트윙쿠:s" feature="PetBattle" locale="CN" />
 	<key id="61020152" class="battle_Pet" name="산토끼:s" feature="PetBattle" locale="CN" />
-	<key id="61020153" class="battle_Pet" name="크리티아스 날벌레:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020154" class="battle_Pet" name="크리스탈 부양기계:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020155" class="battle_Pet" name="크리티아스 아룸:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020156" class="battle_Pet" name="메카 솔져:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020157" class="battle_Pet" name="크리티아스 꿈틀이(청):s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020158" class="battle_Pet" name="크리티아스 슬라임:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020159" class="battle_Pet" name="크리티아스 원주민:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020160" class="battle_Pet" name="크리스탈 전투기계:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020161" class="battle_Pet" name="크리티아스 기계 병사:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020162" class="battle_Pet" name="크리티아스 라플레시아:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020163" class="battle_Pet" name="메카랩터:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020164" class="battle_Pet" name="메카 슈터:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020165" class="battle_Pet" name="메카 닌자:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020166" class="battle_Pet" name="메카티라노(청):s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020167" class="battle_Pet" name="크리티아스 애벌레(적):s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020168" class="battle_Pet" name="크리티아스 오염된 원주민:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020169" class="battle_Pet" name="메카 헤비:s" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020170" class="battle_Pet" name="메카 탱커:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020153" class="battle_Pet" name="맹독 놀라쥬:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020154" class="battle_Pet" name="터렛 MK-I:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020155" class="battle_Pet" name="붉은 아룸:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020156" class="battle_Pet" name="솔저레토:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020157" class="battle_Pet" name="푸른 쿠우쿠:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020158" class="battle_Pet" name="초록 포잉:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020159" class="battle_Pet" name="튼튼모랑:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020160" class="battle_Pet" name="가드 MK-II:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020161" class="battle_Pet" name="타이렌 MK-I-S:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020162" class="battle_Pet" name="핑크 라플레시아:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020163" class="battle_Pet" name="레드 메카랩터:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020164" class="battle_Pet" name="메카캐논:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020165" class="battle_Pet" name="킬러휴롯:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020166" class="battle_Pet" name="블루 메카티라노:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020167" class="battle_Pet" name="분홍 꿈트리:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020168" class="battle_Pet" name="버럭모랑:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020169" class="battle_Pet" name="나이트레토:s" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020170" class="battle_Pet" name="헤비휴롯:s" feature="Pet_70Lv_Taming" locale="CN" />
 	<key id="61100010" class="battle_Pet" name="피로스 파드:s" feature="PetBattle" />
 	<key id="61100020" class="battle_Pet" name="카보:s" feature="PetBattle" />
 	<key id="61100030" class="battle_Pet" name="바르칸트:s" feature="PetUpdate01" />
@@ -29162,7 +29791,9 @@
 	<key id="70200129" class="gem" name="말풍선 배지 : 남극의 친구:s" />
 	<key id="70200130" class="gem" name="말풍선 배지 : 캥거루:s" />
 	<key id="70200131" class="gem" name="말풍선 배지 : 새해 희망의 등불:s" />
+	<key id="70200132" class="gem" name="말풍선 배지 : 행운의 클로버:s" feature="Event" />
 	<key id="70200133" class="gem" name="말풍선 배지 : 봄의 정원:s" />
+	<key id="70200134" class="gem" name="말풍선 배지 : 롤리팝:s" />
 	<key id="70200146" class="gem" name="말풍선 배지 : 우수한 보안 의식:s" locale="KR" />
 	<key id="70200147" class="gem" name="말풍선 배지 : 따끈따끈 돼지 만두:s" />
 	<key id="70200148" class="gem" name="말풍선 배지 : 신비한 에네르:s" feature="Event" />
@@ -29306,13 +29937,17 @@
 	<key id="70300138" class="gem" name="이름표 배지 : 남극의 친구:s" />
 	<key id="70300139" class="gem" name="이름표 배지 : 캥거루:s" />
 	<key id="70300140" class="gem" name="이름표 배지 : 새해 희망의 등불:s" />
+	<key id="70300141" class="gem" name="이름표 배지 : 행운의 클로버:s" feature="Event" />
 	<key id="70300142" class="gem" name="이름표 배지 : 봄의 정원:s" />
+	<key id="70300143" class="gem" name="이름표 배지 : 롤리팝:s" feature="Event" />
 	<key id="70300155" class="gem" name="이름표 배지 : 우수한 보안 의식:s" locale="KR" />
 	<key id="70300156" class="gem" name="이름표 배지 : Razer:s" locale="NA" />
 	<key id="70300157" class="gem" name="이름표 배지 : 용맹의 표식:s" feature="PvPRankingDuelMode" />
 	<key id="70300158" class="gem" name="이름표 배지 : 따끈따끈 돼지 만두:s" />
 	<key id="70300159" class="gem" name="이름표 배지 : 게임피디아:s" />
 	<key id="70300160" class="gem" name="이름표 배지 : 신비한 에네르:s" feature="Event" />
+	<key id="70300161" class="gem" name="이름표 배지 : 러블리 퀸크빈:s" feature="Colosseum01" />
+	<key id="70300162" class="gem" name="이름표 배지 : 근엄한 경비병:s" feature="Colosseum01" />
 	<key id="70400001" class="gem" name="대미지 폰트 배지 : 인페르노:s" />
 	<key id="70400002" class="gem" name="대미지 폰트 배지 : 스위트 캔디:s" />
 	<key id="70400003" class="gem" name="대미지 폰트 배지 : 반짝 스퀘어:s" />
@@ -29350,6 +29985,7 @@
 	<key id="70400035" class="gem" name="대미지 폰트 배지 : 컵케이크:s" />
 	<key id="70400037" class="gem" name="대미지 폰트 배지 : 클로버:s" />
 	<key id="70400042" class="gem" name="대미지 폰트 배지 : 메콩데이 2222 :s" feature="Event" />
+	<key id="70400043" class="gem" name="대미지 폰트 배지 : 만우절 기호체:s" feature="Event" />
 	<key id="70500001" class="gem" name="비석 배지 : 니할왕조의 관:s" />
 	<key id="70500002" class="gem" name="비석 배지 : 굿모닝:s" />
 	<key id="70500003" class="gem" name="비석 배지 : 잘 손질된 무덤:s" />
@@ -29364,14 +30000,15 @@
 	<key id="70500012" class="gem" name="비석 배지 : 공룡알:s" />
 	<key id="70500013" class="gem" name="비석 배지 : 피냐타:s" />
 	<key id="70500014" class="gem" name="비석 배지 : 거대한 종:s" />
-	<key id="70500015" class="gem" name="비석 배지 : 천사 석상:s" />
+	<key id="70500015" class="gem" name="비석 배지 : 아기 천사:s" />
 	<key id="70500016" class="gem" name="비석 배지 : 마법의 램프:s" />
 	<key id="70500017" class="gem" name="비석 배지 : 고목:s" />
 	<key id="70500018" class="gem" name="비석 배지 : 신비한 향로:s" />
-	<key id="70500019" class="gem" name="비석 배지 : 모래시계:s" />
+	<key id="70500019" class="gem" name="비석 배지 : 사랑의 시간:s" />
 	<key id="70500020" class="gem" name="비석 배지 : 미사일:s" />
 	<key id="70500021" class="gem" name="비석 배지 : 홀로그램:s" />
 	<key id="70500022" class="gem" name="비석 배지 : 홍등:s" />
+	<key id="70500023" class="gem" name="비석 배지 : 클로버:s" />
 	<key id="70600001" class="gem" name="수영 튜브 배지 : 도도한 플라밍고:s" />
 	<key id="70600002" class="gem" name="수영 튜브 배지 : 통통 오리 보트:s" />
 	<key id="70600003" class="gem" name="수영 튜브 배지 : 멍뭉이:s" />
@@ -29430,6 +30067,7 @@
 	<key id="70700027" class="gem" name="낚시 배지 : 루미나이츠:s" />
 	<key id="70700028" class="gem" name="낚시 배지 : 메이플 연합:s" />
 	<key id="70700029" class="gem" name="낚시 배지 : 다크윈드:s" />
+	<key id="70700030" class="gem" name="낚시 배지 : 개구리 우산:s" />
 	<key id="70800001" class="gem" name="커플 이펙트 배지 : 러블리 하트:s" />
 	<key id="70800002" class="gem" name="커플 이펙트 배지 : 할로윈의 낭만:s" />
 	<key id="70800003" class="gem" name="커플 이펙트 배지 : 폭죽을 팡야팡야:s" />
@@ -29440,6 +30078,7 @@
 	<key id="70800008" class="gem" name="커플 이펙트 배지 : 반짝이는 크리스마스:s" />
 	<key id="70900001" class="gem" name="이펙트 배지 : 선구자의 빛:s" feature="AdventureLevel" />
 	<key id="70900002" class="gem" name="이펙트 배지 : 엘리멘탈 라이트:s" feature="AdventureLevel" />
+	<key id="70900003" class="gem" name="이펙트 배지 : 샤랄라 춤추는 장미:s" />
 	<key id="80000010" class="mission" name="땅문서:s" />
 	<key id="80000011" class="mission" name="집문서:s" />
 	<key id="80000012" class="mission" name="금괴:s" />

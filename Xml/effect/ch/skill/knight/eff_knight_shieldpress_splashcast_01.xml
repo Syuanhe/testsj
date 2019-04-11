@@ -8,6 +8,6 @@
 	<effect type="vibrate" startDelay="0.0" duration="0.5" freq="25" amp="10" />
 	
 	<effect type="soundEvent" group="MS2Sound/Sound/Skill/Knight" event="01300003">
-		<attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+		<attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
 	</effect> 
 </ms2>

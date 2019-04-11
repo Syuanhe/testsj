@@ -3,6 +3,20 @@
 <ms2>
 	<achieves id="23500009" account="1" icon="hero_realEstate.PNG" noticePercent="1" locking="" categoryTag="living,property" feature="Season1">
 		<grade value="1">
+			<condition type="maid_get_item" code="12030049" value="1" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="2">
+			<condition type="maid_get_item" code="12030049" value="10" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+		<grade value="3">
+			<condition type="maid_get_item" code="12030049" value="100" target="" />
+			<reward type="" code="0" value="0" rank="1" />
+		</grade>
+	</achieves>
+	<achieves id="23500009" account="1" icon="hero_realEstate.PNG" noticePercent="1" locking="" categoryTag="living,property" feature="Season1" locale="KR">
+		<grade value="1">
 			<condition type="maid_get_item" code="12000045" value="1" target="" />
 			<reward type="" code="0" value="0" rank="1" />
 		</grade>

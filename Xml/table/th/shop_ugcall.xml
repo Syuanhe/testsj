@@ -825,7 +825,7 @@
 	<key id="50200674" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50200675" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50200676" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
-	<key id="50200677" ugcHousingBuy="0" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
+	<key id="50200677" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50200716" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50200717" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50200718" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
@@ -1841,6 +1841,9 @@
 	<key id="50740069" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
 	<key id="50740070" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
 	<key id="50740071" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
+	<key id="50740072" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
+	<key id="50740073" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
+	<key id="50740074" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="10000" />
 	<key id="50750001" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50750002" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50750003" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />

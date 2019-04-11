@@ -9,10 +9,10 @@
     </customize>
 	<slots>
 		<slot name="CL">
-			<asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/22/11701260_F_SHLuminous.nif" targetnode="CL" selfnode="CL" />
+			<asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/22/12200558_F_CLPALuminous.nif" targetnode="CL" selfnode="CL" />
 		</slot>
 		<slot name="PA">
-			<asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/22/11701260_F_SHLuminous.nif" targetnode="PA" selfnode="PA"/>
+			<asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/22/12200558_F_CLPALuminous.nif" targetnode="PA" selfnode="PA"/>
 		</slot>
 	</slots>
 </ms2>

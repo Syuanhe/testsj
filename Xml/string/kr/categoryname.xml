@@ -16,6 +16,7 @@
 	<key id="1014" name="펫" />
 	<key id="1015" name="신규상품" />
 	<key id="1016" name="라펜샤드" feature="Lapenshard01" />
+	<key id="1017" name="이모티콘" />
 	<key id="2000" name="한벌" />
 	<key id="2001" name="상의" />
 	<key id="2002" name="하의" />
@@ -346,7 +347,7 @@
 	<key id="40203" name="펫" />
 	<key id="40204" name="먹이" />
 	<key id="40300" name="기능,소비" />
-	<key id="40400" name="액션 수강증" />
+	<key id="40400" name="감정 표현" />
 	<key id="40500" name="배지 " />
 	<key id="40600" name="생활" />
 	<key id="60000" name="&lt;전체&gt;" />

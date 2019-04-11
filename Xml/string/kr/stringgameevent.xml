@@ -3,6 +3,7 @@
 	<key id="170001_TITLE" name="레이의 출석 체크" locale="CN" />
 	<key id="170001_TITLE" name="메이플 출석 체크" locale="NA" />
 	<key id="170002_TITLE" name="크리스마스 출석 체크" locale="NA" />
+	<key id="170003_TITLE" name="피크닉 출석 체크" locale="NA" />
 	<key id="170004_TITLE" name="매일 보상 스크롤" locale="CN" />
 	<key id="170005_TITLE" name="OBT 보상 스크롤" locale="CN" />
 	<key id="170006_TITLE" name="스카이 포트리스 탑승 준비" locale="CN" />
@@ -13,6 +14,7 @@
 	<key id="170008_TITLE" name="병아리 매일 보상 스크롤" locale="CN" />
 	<key id="170009_TITLE" name="스트라이커 매일 보상 스크롤" locale="CN" />
 	<key id="170010_TITLE" name="썸머 매일 보상 스크롤" locale="CN" />
+	<key id="170011_TITLE" name="초록 수호대 출석 체크" locale="CN" />
 	<key id="171001_DESC" name="8월 23일 오전 8시부터 8월 30일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="CN" />
 	<key id="171001_DESC" name="Founder&apos;s Package C에 포함되어 제공되는 아이템입니다. Founder&apos;s Package는 10월 10일 점검 전까지 구입 가능합니다." locale="NA" />
 	<key id="171002_DESC" name="9월 13일 오전 8시부터 10월 11일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="CN" />
@@ -29,4 +31,5 @@
 	<key id="171005_DESC" name="2월 07일 오전 8시부터 2월 28일 오전 8시까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="NA" />
 	<key id="1009_TITLE" name="윈터 파워 매일 보상 스크롤" locale="KR" />
 	<key id="1009_DESC" name="2월 14일부터 3월 14일 점검 전까지 메럿마켓 특별 판매 탭에서 계정 당 1회에 한해 아이템 구매가 가능합니다." locale="KR" />
+	<key id="900200_TITLE" name="마법 더하기" locale="NA" />
 </ms2>

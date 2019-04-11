@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="CP">
-	    <asset name="Data/Resource/Model/Item/0/13/11301279_C_CPLuminous_A.nif" targetnode="Bip01 Head" selfnode="CP">
+	    <asset name="Data/Resource/Model/Item/1/13/11301279_C_CPLuminous_A.nif" targetnode="Bip01 Head" selfnode="CP">
       </asset>
 	</slot>
   </slots>

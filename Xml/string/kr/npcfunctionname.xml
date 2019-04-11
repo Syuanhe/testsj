@@ -2470,6 +2470,9 @@
 	<key id="11003404" />
 	<key id="11003405" name="상해 코인 상인" />
 	<key id="11003405" name="복돼지 주화 상인" locale="NA" feature="MassiveCrazyRunnersShanghai" />
+	<key id="11003405" name="복돼지 주화 상인" locale="JP" feature="MassiveCrazyRunnersShanghai" />
+	<key id="11003405" name="복돼지 주화 상인" locale="TH" feature="MassiveCrazyRunnersShanghai" />
+	<key id="11003405" name="복돼지 주화 상인" locale="TW" feature="MassiveCrazyRunnersShanghai" />
 	<key id="11003406" />
 	<key id="11003407" />
 	<key id="11003408" />
@@ -3115,41 +3118,127 @@
 	<key id="11004061" />
 	<key id="11004062" />
 	<key id="11004063" locale="NA" />
+	<key id="11004063" locale="JP" />
+	<key id="11004063" locale="TH" />
+	<key id="11004063" locale="TW" />
 	<key id="11004064" locale="NA" />
+	<key id="11004064" locale="JP" />
+	<key id="11004064" locale="TH" />
+	<key id="11004064" locale="TW" />
 	<key id="11004065" locale="NA" />
-	<key id="11004066" locale="NA" />
+	<key id="11004065" locale="JP" />
+	<key id="11004065" locale="TH" />
+	<key id="11004065" locale="TW" />
 	<key id="11004067" locale="NA" />
+	<key id="11004067" locale="JP" />
+	<key id="11004067" locale="TH" />
+	<key id="11004067" locale="TW" />
 	<key id="11004068" locale="NA" />
+	<key id="11004068" locale="JP" />
+	<key id="11004068" locale="TH" />
+	<key id="11004068" locale="TW" />
 	<key id="11004069" locale="NA" />
+	<key id="11004069" locale="JP" />
+	<key id="11004069" locale="TH" />
+	<key id="11004069" locale="TW" />
 	<key id="11004070" locale="NA" />
+	<key id="11004070" locale="JP" />
+	<key id="11004070" locale="TH" />
+	<key id="11004070" locale="TW" />
 	<key id="11004071" locale="NA" />
+	<key id="11004071" locale="JP" />
+	<key id="11004071" locale="TH" />
+	<key id="11004071" locale="TW" />
 	<key id="11004072" locale="NA" />
+	<key id="11004072" locale="JP" />
+	<key id="11004072" locale="TH" />
+	<key id="11004072" locale="TW" />
 	<key id="11004073" locale="NA" />
+	<key id="11004073" locale="JP" />
+	<key id="11004073" locale="TH" />
+	<key id="11004073" locale="TW" />
 	<key id="11004074" locale="NA" />
+	<key id="11004074" locale="JP" />
+	<key id="11004074" locale="TH" />
+	<key id="11004074" locale="TW" />
 	<key id="11004075" locale="NA" />
+	<key id="11004075" locale="JP" />
+	<key id="11004075" locale="TH" />
+	<key id="11004075" locale="TW" />
 	<key id="11004076" locale="NA" />
+	<key id="11004076" locale="JP" />
+	<key id="11004076" locale="TH" />
+	<key id="11004076" locale="TW" />
 	<key id="11004077" locale="NA" />
+	<key id="11004077" locale="JP" />
+	<key id="11004077" locale="TH" />
+	<key id="11004077" locale="TW" />
 	<key id="11004078" locale="NA" />
+	<key id="11004078" locale="JP" />
+	<key id="11004078" locale="TH" />
+	<key id="11004078" locale="TW" />
 	<key id="11004079" locale="NA" />
+	<key id="11004079" locale="JP" />
+	<key id="11004079" locale="TH" />
+	<key id="11004079" locale="TW" />
 	<key id="11004080" locale="NA" />
+	<key id="11004080" locale="JP" />
+	<key id="11004080" locale="TH" />
+	<key id="11004080" locale="TW" />
 	<key id="11004081" locale="NA" />
+	<key id="11004081" locale="JP" />
+	<key id="11004081" locale="TH" />
+	<key id="11004081" locale="TW" />
 	<key id="11004082" locale="NA" />
+	<key id="11004082" locale="JP" />
+	<key id="11004082" locale="TH" />
+	<key id="11004082" locale="TW" />
 	<key id="11004083" locale="NA" />
+	<key id="11004083" locale="JP" />
+	<key id="11004083" locale="TH" />
+	<key id="11004083" locale="TW" />
 	<key id="11004084" locale="NA" />
+	<key id="11004084" locale="JP" />
+	<key id="11004084" locale="TH" />
+	<key id="11004084" locale="TW" />
 	<key id="11004085" locale="NA" />
+	<key id="11004085" locale="JP" />
+	<key id="11004085" locale="TH" />
+	<key id="11004085" locale="TW" />
 	<key id="11004086" locale="NA" />
+	<key id="11004086" locale="JP" />
+	<key id="11004086" locale="TH" />
+	<key id="11004086" locale="TW" />
 	<key id="11004087" locale="NA" />
+	<key id="11004087" locale="JP" />
+	<key id="11004087" locale="TH" />
+	<key id="11004087" locale="TW" />
 	<key id="11004088" locale="NA" />
+	<key id="11004088" locale="JP" />
+	<key id="11004088" locale="TH" />
+	<key id="11004088" locale="TW" />
 	<key id="11004089" locale="NA" />
+	<key id="11004089" locale="JP" />
+	<key id="11004089" locale="TH" />
+	<key id="11004089" locale="TW" />
 	<key id="11004090" locale="NA" />
+	<key id="11004090" locale="JP" />
+	<key id="11004090" locale="TH" />
+	<key id="11004090" locale="TW" />
 	<key id="11004091" locale="NA" />
-	<key id="11004092" name="머쉬킹 챔피언십 스태프" locale="CN" />
-	<key id="11004093" locale="CN" />
-	<key id="11004094" locale="CN" />
-	<key id="11004095" locale="CN" />
-	<key id="11004096" locale="CN" />
-	<key id="11004097" />
+	<key id="11004091" locale="JP" />
+	<key id="11004091" locale="TH" />
+	<key id="11004091" locale="TW" />
+	<key id="11004092" name="머쉬킹 챔피언십 스태프" locale="CN" feature="SurvivalContents02" />
+	<key id="11004093" locale="CN" feature="SurvivalContents02" />
+	<key id="11004094" locale="CN" feature="SurvivalContents02" />
+	<key id="11004095" locale="CN" feature="SurvivalContents02" />
+	<key id="11004096" locale="CN" feature="SurvivalContents02" />
+	<key id="11004097" feature="LapentaFrontierQuest" />
 	<key id="11004098" locale="NA" />
+	<key id="11004098" locale="JP" />
+	<key id="11004098" locale="TH" />
+	<key id="11004098" locale="TW" />
 	<key id="11004099" />
 	<key id="11004100" />
 	<key id="11004101" />
@@ -3338,6 +3427,8 @@
 	<key id="11004552" />
 	<key id="11004553" />
 	<key id="11004554" name="요정 금화의 주인" />
+	<key id="11004557" />
+	<key id="11004558" />
 	<key id="11400001" />
 	<key id="11400002" />
 	<key id="11200000" name="의사" />

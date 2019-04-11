@@ -104,7 +104,7 @@
 
     <state name="어나운스1" posX="540" posY="52">
         <onEnter>
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000004_ME__TRIGGER_01__1$" arg3="0,5" arg4="0" />
+			<action name="ShowCountUI" text="$61000004_ME__TRIGGER_01__1$" stage="0" count="5"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="5500" > 
 					<action name="메쉬를설정한다" arg1="301,302,303" arg2="0" arg3="12" arg4="0" />

@@ -53,7 +53,7 @@
 <!--   플레이어 감지하면 1초 대기 -->
     <state name="시작_01">
 		    <onEnter>
-				<action name="이벤트UI를설정한다" arg1="2" arg2="$02000346_BF__MAIN1__2$" arg3="0,3" />
+				<action name="ShowCountUI" text="$02000346_BF__MAIN1__2$" stage="0" count="3"  />
 				<action name="타이머를설정한다" arg1="3" arg2="3" arg4="0" />
 				<action name="메쉬를설정한다" arg1="6001" arg2="0" /> <!-- 가림막 -->	
 		    </onEnter>

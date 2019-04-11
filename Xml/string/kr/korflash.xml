@@ -280,6 +280,7 @@
 	<key id="$s_gameoption_PcIllust" value="대화 시 내 직업 일러스트 표시" />
 	<key id="$s_gameoption_MonsterGaugeValue" value="몬스터 게이지에 남은 HP 수치 항상 표시" />
 	<key id="$s_gameoption_ExpValue" value="경험치 게이지에 보유 경험치 수치 항상 표시" />
+	<key id="$s_gameoption_OnlyMyEffectToMonster" value="몬스터 게이지에 자신의 상태효과만 표시" />
 	<key id="$s_gameoption_MyHpGauge" value="내 캐릭터 머리 위 HP 게이지 표시" />
 	<key id="$s_gameoption_MyShieldGauge" value="내 캐릭터 머리 위 방어막 게이지 표시" />
 	<key id="$s_gameoption_PartyHpGauge" value="파티원, 우호적인 NPC 머리 위 HP 게이지 표시" />
@@ -485,7 +486,7 @@
 	<key id="$s_gamemenu_btn_dictionary" value="사전" />
 	<key id="$s_gamemenu_btn_ranking" value="랭킹" />
 	<key id="$s_gamemenu_btn_beauty_hair" value="뷰티살롱" />
-	<key id="$s_party_enterDungeon_button" value="염색공방" />
+	<key id="$s_gamemenu_btn_beauty_item" value="염색공방" />
 	<key id="$s_gamemenu_btn_beauty_skin" value="성형외과" />
 	<key id="$s_gamemenu_btn_club" value="동아리" />
 	<key id="$s_gamemenu_btn_epic_restart" value="에픽 다시하기" />
@@ -755,6 +756,7 @@
 	<key id="$s_ugc_banner_cb_terms" value="주의 사항을 읽고, 이용에 동의합니다." />
 	<key id="$s_ugc_banner_lb_terms" value="예약한 시간 동안 전광판을 독점적으로 사용할 수 있습니다.\n운영정책에 위배되는 이미지를 예약하는 경우 서비스 이용 제한의 \n제재를 받게 되며, 소모된 게임 재화는 복구되지 않습니다." />
 	<key id="$s_ugc_banner_lb_noimage" value="버튼을 눌러\n이미지를 추가해 주세요." />
+	<key id="$s_ugc_banner_lb_register_fee" value="등록 비용" />
 	<key id="$s_ugc_banner_lb_time_0" value="오전 12" />
 	<key id="$s_ugc_banner_lb_time_1" value="1" />
 	<key id="$s_ugc_banner_lb_time_2" value="2" />
@@ -1423,7 +1425,7 @@
 	<key id="$s_beauty_equip_color_select" value="색상 선택" />
 	<key id="$s_beauty_color_select" value="색상 선택" />
 	<key id="$s_beauty_notice_coloring_select" value="염색할 아이템을 선택해 주세요." />
-	<key id="$s_beauty_notice_coloring_equip" value="현재 착용한 아이템 중 염색이 가능한 아이템만 보여집니다." />
+	<key id="$s_beauty_notice_coloring_equip" value="&lt;FONT size=&apos;14&apos; &gt;현재 착용한 아이템 중 겉으로 보이는 염색 가능한 장비만 보여집니다.&lt;/FONT&gt;" />
 	<key id="$s_beauty_notice_makeup_select" value="메이크업을 선택해 주세요." />
 	<key id="$s_beauty_notice_hair_select" value="헤어를 선택해 주세요." />
 	<key id="$s_beauty_notice_face_select" value="얼굴을 선택해 주세요." />
@@ -1920,6 +1922,7 @@
 	<key id="$s_dungeonSearch_submenu_worldBoss" value="월드 인베이젼" feature="WorldBossDungeon" />
 	<key id="$s_dungeonSearch_submenu_fameChallenge" value="포트리스 럼블" feature="FameChallengeDungeon" />
 	<key id="$s_dungeonSearch_submenu_lapenta" value="아이 오브 라펜타" feature="LapentaDungeon" />
+	<key id="$s_dungeonSearch_submenu_colosseum" value="퀸크빈 럼블" feature="ColosseumDungeon" />
 	<key id="$s_dungeonSearch_reward_count" value="보상 획득 횟수" />
 	<key id="$s_dungeonSearch_united_reward_tooltip" value="모험[일반/어려움] 던전의 보상 획득 횟수는 던전 별로 정해져 있지 않고\n하나의 통합된 횟수로 되어 있습니다.\n\n일간 보상 획득 횟수, 주간 보상 획득 횟수 중 한 가지라도\n초과된 경우에는 보상을 획득할 수 없습니다.\n\n보너스 상자는 던전 클리어 시\n주간 보상 횟수가 1, 3, 5, 10, 15, 20, 25, 30에 해당될 경우\n클리어 보상과 함께 획득할 수 있으며, 주간 단위로 초기화 됩니다.\n(캐릭터 레벨이 50이 되었을 때는 별도로 초기화 됩니다.)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보상 획득 횟수&lt;/FONT&gt;\n주간 : 30회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매주 금요일 0시 초기화)&lt;/FONT&gt;\n일간 : 10회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매일 0시 초기화)&lt;/FONT&gt;" />
 	<key id="$s_dungeonSearch_united_reward_tooltip" value="모험[일반/어려움] 던전의 보상 획득 횟수는 던전 별로 정해져 있지 않고\n하나의 통합된 횟수로 되어 있습니다.\n\n일간 보상 획득 횟수, 주간 보상 획득 횟수 중 한 가지라도\n초과된 경우에는 보상을 획득할 수 없습니다.\n\n보너스 상자는 던전 클리어 시\n주간 보상 횟수가 1, 3, 5, 10, 15, 20, 25, 30에 해당될 경우\n클리어 보상과 함께 획득할 수 있으며, 주간 단위로 초기화 됩니다.\n(캐릭터 레벨이 50이 되었을 때는 별도로 초기화 됩니다.)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보상 획득 횟수&lt;/FONT&gt;\n주간 : 30회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매주 금요일 0시 초기화)&lt;/FONT&gt;\n일간 : 15회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매일 0시 초기화)&lt;/FONT&gt;" locale="NA" />
@@ -1936,6 +1939,7 @@
 	<key id="$s_dungeonSearch_submenu_worldBoss_tooltip" value="월드 인베이젼을 막아내세요." feature="WorldBossDungeon" />
 	<key id="$s_dungeonSearch_submenu_fameChallenge_tooltip" value="다양한 상대와의 1:1 대결에 도전하세요." feature="FameChallengeDungeon" />
 	<key id="$s_dungeonSearch_submenu_lapenta_tooltip" value="아이 오브 라펜타로 이동합니다." feature="LapentaDungeon" />
+	<key id="$s_dungeonSearch_submenu_colosseum_tooltip" value="여왕의 응접실로 이동합니다." feature="ColosseumDungeon" />
 	<key id="$s_dungeonSearch_settting_normal" value="모험[일반] 던전 설정" />
 	<key id="$s_dungeonSearch_settting_raid" value="모험[어려움] 던전 설정" />
 	<key id="$s_dungeonSearch_comming_soon" value="COMING SOON" />
@@ -2199,8 +2203,9 @@
 	<key id="$s_token_pocket_honor_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;용맹의 증표&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메이플 투기장 또는 이벤트 PvP에서 획득할 수 있습니다.\n메이플 투기장&gt;투기장 상점에서 특별한 아이템을 구입할 때 사용하세요.\n용맹의 증표는 미리 예고된 날짜에 초기화될 수 있습니다." />
 	<key id="$s_token_pocket_karma_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;트레바&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n비틀린 공간의 틈에서 획득할 수 있습니다.\n그림자 상인에게서 특별한 아이템을 구입할 때 사용하세요." />
 	<key id="$s_token_pocket_lu_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;루&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아리까리 상단이 주는 일일 퀘스트에서 획득할 수 있습니다.\n퀸즈 타운에 있는 아리까리 상단에게서 특별한 아이템을 구입할 때 사용하세요." />
-	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;하비 열매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다크 스트림에서 기록을 달성하거나 주간 퀘스트 보상인 그림자 줄기를 사용하면 획득할 수 있습니다. \n기둥고개 발굴장에 있는 하비 수집 요정 퓨리에게서 특별한 아이템을 교환할 때 사용하세요.\n다음 시즌이 시작되기 전 미리 예고된 날짜에 하비 열매는 초기화됩니다." />
-	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;하비 열매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다크 스트림에서 기록을 달성하거나 주간 퀘스트 보상인 그림자 줄기를 사용하면 획득할 수 있습니다. \n기둥고개 발굴장에 있는 하비 수집 요정 퓨리에게서 특별한 아이템을 교환할 때 사용하세요." locale="NA" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;하비 열매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다크 스트림에서 기록을 달성하거나 주간 퀘스트 보상인 그림자 줄기를 사용하면 획득할 수 있습니다. \n기둥고개 발굴장에 있는 하비 수집 요정 퓨리에게서 특별한 아이템을 교환할 때 사용하세요." />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;하비 열매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다크 스트림에서 기록을 달성하거나 주간 퀘스트 보상인 그림자 줄기를 사용하면 획득할 수 있습니다. \n기둥고개 발굴장에 있는 하비 수집 요정 퓨리에게서 특별한 아이템을 교환할 때 사용하세요.\n다음 시즌이 시작되기 전 미리 예고된 날짜에 하비 열매는 초기화됩니다." locale="KR" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;하비 열매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다크 스트림에서 기록을 달성하거나 주간 퀘스트 보상인 그림자 줄기를 사용하면 획득할 수 있습니다. \n기둥고개 발굴장에 있는 하비 수집 요정 퓨리에게서 특별한 아이템을 교환할 때 사용하세요.\n다음 시즌이 시작되기 전 미리 예고된 날짜에 하비 열매는 초기화됩니다." locale="CN" />
 	<key id="$s_token_pocket_reverse_coin_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;리버스 코인&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n리버스 레이드에 도전하여 특정 수준 이상의 성과를 달성하면 획득할 수 있습니다.\n리버스 게이트에 있는 리엔느에게서 특별한 아이템을 교환할 때 사용하세요." />
 	<key id="$s_token_pocket_mentor_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;멘토 포인트&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n멘티와 함께 던전을 클리어하면 멘토 포인트를 획득할 수 있습니다.\n일반 복귀 유저와 던전을 클리어해도 소량의 멘토 포인트를 획득할 수 있습니다.\n멘토 상점에서 특별한 아이템을 교환할 때 사용하세요." />
 	<key id="$s_token_pocket_mentee_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;멘티 포인트&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n매일 접속, 멘티 미션 완료, 던전 클리어를 통해 멘티 포인트를 획득할 수 있습니다.\n멘티 상점에서 특별한 아이템을 교환할 때 사용하세요." />
@@ -2488,6 +2493,7 @@
 	<key id="$s_arcade_select_game" value="플레이할 게임을 선택해 주세요" />
 	<key id="$s_arcade_rank_text" value="순위 (매주 금요일 0시 초기화)" />
 	<key id="$s_arcade_rank_tooltip" value="순위는 10분마다 업데이트되며 \n매주 금요일 0시 초기화됩니다." />
+	<key id="$s_arcade_item_event_band" value="이벤트" feature="Event" />
 	<key id="$s_enter_eventfield_dialog" value="이벤트 맵\n바로가기" />
 	<key id="$s_card_reverse_game_dialog_title" value="페스티벌 카드 보드" />
 	<key id="$s_card_reverse_game_dialog_play_notice" value="받고 싶은 아이템을 확인 후 섞기 버튼을 눌러주세요.\n버튼을 누르면 아이템 위치가 무작위로 바뀝니다." />
@@ -2695,6 +2701,30 @@
 	<key id="$s_dualshock_guide_r" value="카메라 이동\n마우스 모드 시 오른쪽 클릭" />
 	<key id="$s_dualshock_guide_rup" value="줌인" />
 	<key id="$s_dualshock_guide_rdown" value="줌아웃" />
+	<key id="$s_mouse_guide_title" value="마우스 조작법" />
+	<key id="$s_mouse_guide_menu" value="메뉴" />
+	<key id="$s_mouse_guide_dynamic" value="다이나믹 액션" />
+	<key id="$s_mouse_guide_skill" value="스킬 및 아이템 퀵슬롯" />
+	<key id="$s_mouse_guide_prtsc" value="스크린샷" />
+	<key id="$s_mouse_guide_tab" value="미니맵 확대" />
+	<key id="$s_mouse_guide_lclick" value="클릭 : 선택, 이동\n더블클릭 : 아이템 사용" />
+	<key id="$s_mouse_guide_wheel" value="화면 확대/축소" />
+	<key id="$s_mouse_guide_rclick" value="아이템 장착" />
+	<key id="$s_mouse_guide_arrow" value="이동" />
+	<key id="$s_mouse_guide_i" value="소지품" />
+	<key id="$s_mouse_guide_k" value="스킬" />
+	<key id="$s_mouse_guide_l" value="퀘스트" />
+	<key id="$s_mouse_guide_m" value="월드맵" />
+	<key id="$s_mouse_guide_p" value="캐릭터 정보" />
+	<key id="$s_mouse_guide_enter" value="채팅" />
+	<key id="$s_mouse_guide_ctrl" value="점프" />
+	<key id="$s_mouse_guide_alt" value="점프" />
+	<key id="$s_mouse_guide_space" value="점프" />
+	<key id="$s_mouse_guide_comma" value="걷기" />
+	<key id="$s_mouse_guide_period" value="기어가기" />
+	<key id="$s_mouse_guide_r" value="줍기" />
+	<key id="$s_mouse_guide_ext" value="확장 퀵슬롯" />
+	<key id="$s_mouse_guide_f" value="액션" />
 	<key id="$s_gamedictionary_title" value="메이플 사전" />
 	<key id="$s_gamedictionary_notice_default" value="원하는 정보를 검색해보세요." />
 	<key id="$s_gamedictionary_notice_no_result" value="검색 결과가 없습니다." />
@@ -2871,6 +2901,7 @@
 	<key id="$s_gameranking_dialog_columnname_damage" value="입힌 대미지" />
 	<key id="$s_gameranking_dialog_columnname_dungeon_rank_point" value="던전 랭크 점수" />
 	<key id="$s_gameranking_dialog_columnname_recent_playtime" value="최근 플레이 시간" />
+	<key id="$s_gameranking_dialog_columnname_clear_round" value="클리어 라운드" />
 	<key id="$s_gameranking_dialog_search_no_item" value="검색 결과가 없습니다." />
 	<key id="$s_gameranking_dialog_search_no_category" value="확인하려는 랭킹을 선택하세요." />
 	<key id="$s_gameranking_dialog_reward_guide" value="안내" />
@@ -3327,4 +3358,7 @@
 	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템이 사라지는 것은 아닙니다." feature="Event" />
 	<key id="$s_collect_item_group_event_dialog_guide" value="출석체크 + 가위바위보 + 글자 모으기를 모두 완료하세요. 보상품을 모두 모으면 더하기 아이템을 추가로 받으실 수 있어요!" feature="Event" />
 	<key id="$s_collect_item_group_event_dialog_recieve_button" value="더하기 보상 받기" feature="Event" />
+	<key id="$s_chat_emoticon_title" value="이모티콘" feature="ChatEmoticon" />
+	<key id="$s_chat_emoticon_empty_message" value="즐겨찾기 이모티콘이 없습니다.\n이모티콘을 등록해보세요." feature="ChatEmoticon" />
+	<key id="$s_chat_emoticon_shop_button" value="구입하러 가기" feature="ChatEmoticon" />
 </ms2>

@@ -2580,7 +2580,7 @@
 			</condition>
 		</cancel>
 		<openAction>
-			<action type="uiArrowDialog" align="1" direction="2" childName="m_buttonBar" dialogName="PetSystemDialog" entityId="62043" offset="-65,0,0" textId="62042" />
+			<action type="uiArrowDialog" align="1" direction="2" childName="m_buttonBar" dialogName="PetSystemDialog" entityId="62043" offset="-220,0,0" textId="62042" />
 		</openAction>
 	</event>
 </ms2>

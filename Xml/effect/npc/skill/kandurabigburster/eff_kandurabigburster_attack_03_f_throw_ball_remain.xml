@@ -2,6 +2,6 @@
 <ms2>
   <effect type="nif" filePath="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_Attack_03_F_Throw_Ball_Remain.nif" startDelay="0.0" duration="1.0" viewDistance="0">
     <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
-    <transform translate="0.0, 150.0, -50.0" rotation="0.0, 0.0, 0.0" scale="1.0" />
+    <transform translate="0.0, 100.0, -100.0" rotation="0.0, 0.0, 0.0" scale="0.7" />
   </effect>
 </ms2>

@@ -28,7 +28,15 @@
   <effect type="nif" filePath="NPC/Skill/Patos/Eff_Patos_Attack_01_F_02.nif" startDelay="0.9" duration="3.0" viewDistance="0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
     <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, -60.0" scale="1.0" />
-  </effect> 
+  </effect>
+
+  <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102012" startDelay="0.4">
+      <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+  </effect>
+
+  <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06102012" startDelay="0.4">
+      <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+  </effect>  
 <!--   <effect type="nif" filePath="NPC/Skill/Beelzebub/Eff_Beelzebub_Attack_02_C_Ball.nif" startDelay="0.0" loop="true" viewDistance="0">
     <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
     <transform translate="0.0, 0.0, 50.0" rotation="0.0, 0.0, 0.0" scale="0.7" />

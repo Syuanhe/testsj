@@ -79,7 +79,7 @@
 	<DungeonMission id="23019003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
 	<DungeonMission id="23019004" feature="DungeonRank01" type="DamageBySkill" value1="99999864" maxScore="300" applyCount="3" isPenaltyType="1" />
 	<DungeonMission id="23019005" feature="DungeonRank01" type="DamageBySkill" value1="99999863" maxScore="300" applyCount="3" isPenaltyType="1" />
-	<DungeonMission id="20020000" feature="DungeonRank01" type="LastHitNpc" value1="23000082" maxScore="200" applyCount="1" />
+	<DungeonMission id="20020000" feature="DungeonRank01" type="LastHitNpc" value1="23000081,23000082" maxScore="200" applyCount="1" />
 	<DungeonMission id="20020001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
 	<DungeonMission id="80020001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="330" />
 	<DungeonMission id="90020001" feature="DungeonRank01" type="PlayTime" value1="180" value2="420" maxScore="330" />
@@ -134,6 +134,27 @@
 	<DungeonMission id="23006003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23006004" feature="DungeonRank01" type="GainBuff" value1="50000508" maxScore="400" applyCount="5" isPenaltyType="1" />
 	<DungeonMission id="23006005" feature="DungeonRank01" type="DamageBySkill" value1="50100394,50100405,50100406" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="23006006" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23200007" maxScore="1440" />
+	<DungeonMission id="23006006" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23200007" maxScore="1440" />
+	<DungeonMission id="23006006" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23200007" maxScore="1440" />
+	<DungeonMission id="23006007" feature="DungeonRank01" locale="JP" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23006007" feature="DungeonRank01" locale="TH" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23006007" feature="DungeonRank01" locale="TW" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23006008" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23006008" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23006008" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23006009" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23006009" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23006009" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23007000" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23200016" maxScore="750" />
+	<DungeonMission id="23007000" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23200016" maxScore="750" />
+	<DungeonMission id="23007000" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23200016" maxScore="750" />
+	<DungeonMission id="23007001" feature="DungeonRank01" locale="JP" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23007001" feature="DungeonRank01" locale="TH" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23007001" feature="DungeonRank01" locale="TW" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23007002" feature="DungeonRank01" locale="JP" type="PlayTime" value1="0" value2="600" maxScore="250" />
+	<DungeonMission id="23007002" feature="DungeonRank01" locale="TH" type="PlayTime" value1="0" value2="600" maxScore="250" />
+	<DungeonMission id="23007002" feature="DungeonRank01" locale="TW" type="PlayTime" value1="0" value2="600" maxScore="250" />
 	<DungeonMission id="23010000" feature="DungeonRank01" type="LastHitNpc" value1="23200015" maxScore="400" applyCount="1" />
 	<DungeonMission id="23010001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
 	<DungeonMission id="23010002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
@@ -143,11 +164,44 @@
 	<DungeonMission id="23010003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23010004" feature="DungeonRank01" type="DamageBySkill" value1="50100703" maxScore="400" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23010005" feature="DungeonRank01" type="DamageBySkill" value1="50100713" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="23010006" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23200015" maxScore="1440" />
+	<DungeonMission id="23010006" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23200015" maxScore="1440" />
+	<DungeonMission id="23010006" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23200015" maxScore="1440" />
+	<DungeonMission id="23010007" feature="DungeonRank01" locale="JP" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23010007" feature="DungeonRank01" locale="TH" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23010007" feature="DungeonRank01" locale="TW" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23010008" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23010008" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23010008" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="7" maxScore="480" />
+	<DungeonMission id="23010009" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23010009" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23010009" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="4" maxScore="240" />
+	<DungeonMission id="23008000" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23200017" maxScore="750" />
+	<DungeonMission id="23008000" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23200017" maxScore="750" />
+	<DungeonMission id="23008000" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23200017" maxScore="750" />
+	<DungeonMission id="23008001" feature="DungeonRank01" locale="JP" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23008001" feature="DungeonRank01" locale="TH" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23008001" feature="DungeonRank01" locale="TW" type="PlayTime" value1="0" value2="300" maxScore="250" />
+	<DungeonMission id="23008002" feature="DungeonRank01" locale="JP" type="PlayTime" value1="0" value2="600" maxScore="250" />
+	<DungeonMission id="23008002" feature="DungeonRank01" locale="TH" type="PlayTime" value1="0" value2="600" maxScore="250" />
+	<DungeonMission id="23008002" feature="DungeonRank01" locale="TW" type="PlayTime" value1="0" value2="600" maxScore="250" />
 	<DungeonMission id="23011001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
 	<DungeonMission id="23011002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
 	<DungeonMission id="23011003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
 	<DungeonMission id="23011004" feature="DungeonRank01" type="DamageBySkill" value1="50100747" maxScore="400" applyCount="5" isPenaltyType="1" />
 	<DungeonMission id="23011005" feature="DungeonRank01" type="DamageBySkill" value1="50100740,50100748,50100749" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="23011006" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23200077" maxScore="1440" />
+	<DungeonMission id="23011006" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23200077" maxScore="1440" />
+	<DungeonMission id="23011006" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23200077" maxScore="1440" />
+	<DungeonMission id="23011007" feature="DungeonRank01" locale="JP" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23011007" feature="DungeonRank01" locale="TH" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23011007" feature="DungeonRank01" locale="TW" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23011008" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="23011008" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="23011008" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="23011009" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="5" maxScore="240" />
+	<DungeonMission id="23011009" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="5" maxScore="240" />
+	<DungeonMission id="23011009" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="5" maxScore="240" />
 	<DungeonMission id="20023001" feature="PinkBean01" type="PlayTime" value1="420" value2="480" maxScore="240" />
 	<DungeonMission id="20023002" feature="PinkBean01" type="PlayTime" value1="180" value2="720" maxScore="360" />
 	<DungeonMission id="20023003" feature="PinkBean01" type="LastHitNpc" value1="23000088" maxScore="300" applyCount="1" />
@@ -193,6 +247,18 @@
 	<DungeonMission id="24090016" feature="CrimsonBalrog01" type="DamageToNpc" value1="250000" value2="23000090" maxScore="510" />
 	<DungeonMission id="24090017" feature="CrimsonBalrog01" type="Trigger" maxScore="535" />
 	<DungeonMission id="24090018" feature="CrimsonBalrog01" type="DeathCount" maxScore="440" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="24090019" feature="DungeonRank01" locale="JP" type="LastHitNpc" value1="23000140" maxScore="1440" />
+	<DungeonMission id="24090019" feature="DungeonRank01" locale="TH" type="LastHitNpc" value1="23000140" maxScore="1440" />
+	<DungeonMission id="24090019" feature="DungeonRank01" locale="TW" type="LastHitNpc" value1="23000140" maxScore="1440" />
+	<DungeonMission id="24090020" feature="DungeonRank01" locale="JP" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="24090020" feature="DungeonRank01" locale="TH" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="24090020" feature="DungeonRank01" locale="TW" type="DeathCount" maxScore="240" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="24090021" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="24090021" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="24090021" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="8" maxScore="480" />
+	<DungeonMission id="24090022" feature="DungeonRank01" locale="JP" type="LimitUserCount" value1="5" maxScore="240" />
+	<DungeonMission id="24090022" feature="DungeonRank01" locale="TH" type="LimitUserCount" value1="5" maxScore="240" />
+	<DungeonMission id="24090022" feature="DungeonRank01" locale="TW" type="LimitUserCount" value1="5" maxScore="240" />
 	<DungeonMission id="24091001" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="4952308" maxScore="500" />
 	<DungeonMission id="24091001" feature="FameChallengeDungeon" type="DamageToNpc" value1="1622394" maxScore="500" />
 	<DungeonMission id="24091002" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="19809231" maxScore="500" />
@@ -202,6 +268,18 @@
 	<DungeonMission id="24091004" feature="FameChallengeDungeon" type="LastHitNpc" value1="23200083" maxScore="500" />
 	<DungeonMission id="24091005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24091006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24091007" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="5110781" maxScore="500" />
+	<DungeonMission id="24091007" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="5110781" maxScore="500" />
+	<DungeonMission id="24091007" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="5110781" maxScore="500" />
+	<DungeonMission id="24091008" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="10221563" maxScore="500" />
+	<DungeonMission id="24091008" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="10221563" maxScore="500" />
+	<DungeonMission id="24091008" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="10221563" maxScore="500" />
+	<DungeonMission id="24091009" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="15332344" maxScore="500" />
+	<DungeonMission id="24091009" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="15332344" maxScore="500" />
+	<DungeonMission id="24091009" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="15332344" maxScore="500" />
+	<DungeonMission id="24091010" feature="FameChallengeDungeon" locale="JP" type="Trigger" maxScore="500" />
+	<DungeonMission id="24091010" feature="FameChallengeDungeon" locale="TH" type="Trigger" maxScore="500" />
+	<DungeonMission id="24091010" feature="FameChallengeDungeon" locale="TW" type="Trigger" maxScore="500" />
 	<DungeonMission id="24092001" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="5245670" maxScore="500" />
 	<DungeonMission id="24092001" feature="FameChallengeDungeon" type="DamageToNpc" value1="1718500" maxScore="500" />
 	<DungeonMission id="24092002" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="20982681" maxScore="500" />
@@ -211,12 +289,27 @@
 	<DungeonMission id="24092004" feature="FameChallengeDungeon" type="LastHitNpc" value1="24110001" maxScore="500" />
 	<DungeonMission id="24092005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24092006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24092007" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="3504107" maxScore="500" />
+	<DungeonMission id="24092007" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="3504107" maxScore="500" />
+	<DungeonMission id="24092007" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="3504107" maxScore="500" />
+	<DungeonMission id="24092008" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="7008215" maxScore="500" />
+	<DungeonMission id="24092008" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="7008215" maxScore="500" />
+	<DungeonMission id="24092008" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="7008215" maxScore="500" />
+	<DungeonMission id="24092009" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="10512322" maxScore="500" />
+	<DungeonMission id="24092009" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="10512322" maxScore="500" />
+	<DungeonMission id="24092009" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="10512322" maxScore="500" />
+	<DungeonMission id="24092010" feature="FameChallengeDungeon" locale="JP" type="Trigger" maxScore="500" />
+	<DungeonMission id="24092010" feature="FameChallengeDungeon" locale="TH" type="Trigger" maxScore="500" />
+	<DungeonMission id="24092010" feature="FameChallengeDungeon" locale="TW" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093001" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093002" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093003" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093004" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24093006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24093007" feature="FameChallengeDungeon" locale="JP" type="Trigger" maxScore="500" />
+	<DungeonMission id="24093007" feature="FameChallengeDungeon" locale="TH" type="Trigger" maxScore="500" />
+	<DungeonMission id="24093007" feature="FameChallengeDungeon" locale="TW" type="Trigger" maxScore="500" />
 	<DungeonMission id="24094001" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="4999926.1" value2="24120001" maxScore="500" />
 	<DungeonMission id="24094001" feature="FameChallengeDungeon" type="DamageToNpc" value1="1637993.55" value2="24120001" maxScore="500" />
 	<DungeonMission id="24094002" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="19999704.4" value2="24120001" maxScore="500" />
@@ -226,7 +319,19 @@
 	<DungeonMission id="24094004" feature="FameChallengeDungeon" type="LastHitNpc" value1="24120001" maxScore="500" />
 	<DungeonMission id="24094005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24094006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24094007" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="2179967" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094007" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="2179967" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094007" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="2179967" value2="24120001" maxScore="500" />
 	<DungeonMission id="24094008" feature="FameChallengeDungeon" locale="NA" type="DamageToNpc" value1="4359935" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094008" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="4359935" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094008" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="4359935" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094008" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="4359935" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094009" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="6539902" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094009" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="6539902" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094009" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="6539902" value2="24120001" maxScore="500" />
+	<DungeonMission id="24094010" feature="FameChallengeDungeon" locale="JP" type="Trigger" maxScore="500" />
+	<DungeonMission id="24094010" feature="FameChallengeDungeon" locale="TH" type="Trigger" maxScore="500" />
+	<DungeonMission id="24094010" feature="FameChallengeDungeon" locale="TW" type="Trigger" maxScore="500" />
 	<DungeonMission id="24095001" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="4827507" maxScore="500" />
 	<DungeonMission id="24095001" feature="FameChallengeDungeon" type="DamageToNpc" value1="1581508" maxScore="500" />
 	<DungeonMission id="24095002" feature="FameChallengeDungeon" locale="KR" type="DamageToNpc" value1="19310027" maxScore="500" />
@@ -236,6 +341,18 @@
 	<DungeonMission id="24095004" feature="FameChallengeDungeon" type="LastHitNpc" value1="23200085" maxScore="500" />
 	<DungeonMission id="24095005" feature="FameChallengeDungeon" locale="KR" type="Trigger" maxScore="500" />
 	<DungeonMission id="24095006" feature="FameChallengeDungeon" type="Trigger" maxScore="500" />
+	<DungeonMission id="24095007" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="3379254" maxScore="500" />
+	<DungeonMission id="24095007" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="3379254" maxScore="500" />
+	<DungeonMission id="24095007" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="3379254" maxScore="500" />
+	<DungeonMission id="24095008" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="6758509" maxScore="500" />
+	<DungeonMission id="24095008" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="6758509" maxScore="500" />
+	<DungeonMission id="24095008" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="6758509" maxScore="500" />
+	<DungeonMission id="24095009" feature="FameChallengeDungeon" locale="JP" type="DamageToNpc" value1="10137763" maxScore="500" />
+	<DungeonMission id="24095009" feature="FameChallengeDungeon" locale="TH" type="DamageToNpc" value1="10137763" maxScore="500" />
+	<DungeonMission id="24095009" feature="FameChallengeDungeon" locale="TW" type="DamageToNpc" value1="10137763" maxScore="500" />
+	<DungeonMission id="24095010" feature="FameChallengeDungeon" locale="JP" type="Trigger" maxScore="500" />
+	<DungeonMission id="24095010" feature="FameChallengeDungeon" locale="TH" type="Trigger" maxScore="500" />
+	<DungeonMission id="24095010" feature="FameChallengeDungeon" locale="TW" type="Trigger" maxScore="500" />
 	<DungeonMission id="23031000" feature="ChronicleDungeon60_01" locale="KR" type="LastHitNpc" value1="21420101" maxScore="250" applyCount="1" />
 	<DungeonMission id="23031001" feature="ChronicleDungeon60_01" locale="KR" type="LastHitNpc" value1="21420102" maxScore="250" applyCount="1" />
 	<DungeonMission id="23031002" feature="ChronicleDungeon60_01" locale="KR" type="PlayTime" value1="0" value2="300" maxScore="210" />

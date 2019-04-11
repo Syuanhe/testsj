@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="RH">
-				<asset name="urn:gamebryo-animation:urn:15400014_FlameDivineSword" selfnode="15400014_FlameDivineSword" targetnode="Weapon_Back_R_Point" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="urn:gamebryo-animation:urn:15400014_FlameDivineSword" selfnode="Point01" targetnode="Weapon_Back_R_Point" attachnode="" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />

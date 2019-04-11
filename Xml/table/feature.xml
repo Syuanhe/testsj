@@ -33,7 +33,7 @@
 	<feature name="Fishing02" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="KarkarIsland" KR="9" JP="31" CN="29" NA="33" TH="1" TW="99" />
 	<feature name="Balrogitem3rd" KR="10" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="Barkhant" KR="10" JP="99" CN="29" NA="33" TH="99" TW="99" />
+	<feature name="Barkhant" KR="10" JP="31" CN="29" NA="33" TH="99" TW="99" />
 	<feature name="CompactControl" KR="11" JP="11" CN="11" NA="11" TH="1" TW="99" />
 	<feature name="ItemDropRenewal" KR="11" JP="11" CN="11" NA="11" TH="1" TW="99" />
 	<feature name="LuaCorrectionPen" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
@@ -43,6 +43,7 @@
 	<feature name="ItemRemakeOption" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="ItemRemakeOption02" KR="99" JP="29" CN="31" NA="29" TH="1" TW="99" />
 	<feature name="MesoMarket" KR="12" JP="99" CN="12" NA="99" TH="99" TW="99" />
+	<feature name="MesoMarketNA" KR="99" JP="99" CN="99" NA="39" TH="99" TW="99" />
 	<feature name="ArcadeSpringFarm" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="RewardPreview" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="ArcadeSystem" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
@@ -76,7 +77,7 @@
 	<feature name="SoulBinder" KR="18" JP="99" CN="32" NA="35" TH="99" TW="99" />
 	<feature name="ItemRePacking" KR="19" JP="19" CN="19" NA="19" TH="1" TW="99" />
 	<feature name="ItemRePacking02" KR="44" JP="29" CN="32" NA="29" TH="1" TW="99" />
-	<feature name="ItemRePackingHide" KR="99" JP="30" CN="99" NA="30" TH="1" TW="99" />
+	<feature name="ItemRePackingHide" KR="99" JP="30" CN="99" NA="99" TH="1" TW="99" />
 	<feature name="PetRePackingHide" KR="99" JP="30" CN="99" NA="30" TH="1" TW="99" />
 	<feature name="ShrineOfGuidance" KR="19" JP="31" CN="32" NA="33" TH="1" TW="99" />
 	<feature name="Kandura" KR="19" JP="31" CN="31" NA="33" TH="1" TW="99" />
@@ -141,9 +142,11 @@
 	<feature name="BattleFieldOnly01" KR="25" JP="31" CN="25" NA="32" TH="1" TW="99" />
 	<feature name="HousingTogether" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="BlackBean01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="CrimsonBalrog01" KR="34" JP="99" CN="35" NA="36" TH="99" TW="99" />
+	<feature name="CrimsonBalrog01" KR="34" JP="99" CN="36" NA="36" TH="99" TW="99" />
 	<feature name="WorldBossDungeon" KR="34" JP="99" CN="35" NA="99" TH="99" TW="99" />
 	<feature name="LapentaDungeon" KR="40" JP="99" CN="41" NA="99" TH="99" TW="99" />
+	<feature name="ColosseumDungeon" KR="46" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="DungeonFindRenewal01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="SurvivalContents01" KR="37" JP="30" CN="38" NA="30" TH="1" TW="99" />
 	<feature name="SurvivalContentsTest" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="SurvivalContents02" KR="38" JP="30" CN="40" NA="30" TH="1" TW="99" />
@@ -203,7 +206,7 @@
 	<feature name="PetBalance01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetTaming01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="PetCombine01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
-	<feature name="PetEvolution01" KR="45" JP="99" CN="47" NA="99" TH="99" TW="99" />
+	<feature name="PetEvolution01" KR="45" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="PetRemake01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetRemakeBlock01" KR="41" JP="99" CN="33" NA="99" TH="99" TW="99" />
 	<feature name="PetUpdate01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
@@ -265,7 +268,7 @@
 	<feature name="GlobalTransferType" KR="100" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="GlobalTransferTypeNA" KR="99" JP="99" CN="99" NA="33" TH="99" TW="99" />
 	<feature name="GlobalQuestRewardItem" KR="100" JP="1" CN="1" NA="1" TH="1" TW="99" />
-	<feature name="DungeonOpenCN1701" KR="99" JP="28" CN="28" NA="28" TH="1" TW="99" />
+	<feature name="DungeonOpenCN1701" KR="99" JP="99" CN="28" NA="28" TH="1" TW="99" />
 	<feature name="DungeonOpenCN1702" KR="99" JP="99" CN="29" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1703" KR="99" JP="99" CN="30" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1704" KR="99" JP="99" CN="31" NA="99" TH="99" TW="99" />
@@ -275,14 +278,18 @@
 	<feature name="DungeonOpenCN1805" KR="99" JP="99" CN="36" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1810" KR="99" JP="99" CN="40" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1811" KR="99" JP="99" CN="41" NA="99" TH="99" TW="99" />
-	<feature name="DungeonOpenNA1802" KR="99" JP="28" CN="99" NA="28" TH="1" TW="99" />
-	<feature name="DungeonOpenNA1803" KR="99" JP="30" CN="99" NA="30" TH="1" TW="99" />
+	<feature name="DungeonOpenNA1802" KR="99" JP="99" CN="99" NA="28" TH="1" TW="99" />
+	<feature name="DungeonOpenNA1803" KR="99" JP="99" CN="99" NA="30" TH="1" TW="99" />
 	<feature name="DungeonOpenNA1806" KR="99" JP="99" CN="99" NA="32" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1807" KR="99" JP="99" CN="99" NA="33" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1808" KR="99" JP="99" CN="99" NA="34" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1809" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1810" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1901" KR="99" JP="99" CN="99" NA="36" TH="99" TW="99" />
+	<feature name="DungeonOpenNA1906" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="DungeonOpenJP1901" KR="99" JP="31" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="DungeonOpenJP1903" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="DungeonOpenJP1904" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonClearCoupon" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="EnchantScrollTab01" KR="23" JP="30" CN="23" NA="99" TH="1" TW="99" />
 	<feature name="EnchantScroll50A" KR="99" JP="99" CN="1" NA="99" TH="99" TW="99" />
@@ -447,7 +454,7 @@
 	<feature name="MassiveChristmasDanceDanceStop" KR="43" JP="99" CN="45" NA="35" TH="99" TW="99" />
 	<feature name="Newbie" KR="1" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="AutoNewEquipSet" KR="99" JP="31" CN="99" NA="35" TH="1" TW="99" />
-	<feature name="Colosseum01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="Colosseum01" KR="46" JP="99" CN="50" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka03" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -462,13 +469,15 @@
 	<feature name="BlueprintMarket" KR="44" JP="31" CN="46" NA="37" TH="1" TW="99" />
 	<feature name="ETCMaterialDrop" KR="1" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="Fieldwar02" KR="45" JP="99" CN="47" NA="99" TH="99" TW="99" />
-	<feature name="chatEmoticon" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="ChatEmoticon" KR="46" JP="99" CN="48" NA="39" TH="99" TW="99" />
 	<feature name="Discord" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="InventoryPieceTab" KR="45" JP="99" CN="47" NA="38" TH="99" TW="99" />
 	<feature name="Event" KR="1" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="GemStoneUpgrade100" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="LapenshardUpgrade100" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="ItemSocketExpansion100" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="SummonPetSkill" KR="45" JP="38" CN="47" NA="38" TH="1" TW="99" />
+	<feature name="SummonPetSkill" KR="45" JP="31" CN="47" NA="38" TH="1" TW="99" />
 	<feature name="FameCompletionTicket" KR="45" JP="99" CN="47" NA="99" TH="99" TW="99" />
+	<feature name="MonsterBuffFilter" KR="46" JP="31" CN="48" NA="39" TH="1" TW="99" />
+	<feature name="ComboKeyCoolTime" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 </ms2>

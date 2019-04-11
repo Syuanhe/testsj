@@ -120,7 +120,8 @@
 	<key id="118" name="1월 23일까지 매일 19시~22시에는 액세서리 조각 합성 비용 50% 할인!" locale="CN" />
 	<key id="119" name="14시~16시에는 액세서리 조각 합성 비용 50% 할인!" locale="CN" />
 	<key id="120" name="상해에서 즐기는 크레이지 러너! 매시간 15분, 45분마다 참여할 수 있어요!" locale="NA" />
-	<key id="121" name="&lt;font color=&apos;#FF0000&apos; size=&apos;16&apos;&gt;춘절 한정 이벤트를 진행중입니다!&lt;/font&gt;\n\n&lt;font color=&apos;#2E2E2E&apos; size=&apos;16&apos;&gt;1월 24일 점검 후 ~ 2월 21일 점검 전까지&lt;/font&gt;\n&lt;font color=&apos;#2E2E2E&apos; size=&apos;15&apos;&gt;물품 구매 시 &lt;/font&gt;&lt;font color=&apos;#DF7401&apos; size=&apos;16&apos;&gt;$item:30001304$&lt;/font&gt;&lt;font color=&apos;#2E2E2E&apos; size=&apos;15&apos;&gt;를 드려요!\n&lt;font color=&apos;#3A01DF&apos; size=&apos;16&apos;&gt;\n춘절 한정 물품 구매 금액의 20% 지급\n일반 메럿 판매 물품 구매 금액의 10% 지급&lt;/font&gt;" locale="CN" />
+	<key id="121" name="&lt;font color=&apos;#FF0000&apos; size=&apos;16&apos;&gt;춘절 한정 이벤트를 진행중입니다!&lt;/font&gt;\n\n&lt;font color=&apos;#2E2E2E&apos; size=&apos;16&apos;&gt;1월 24일 점검 후 ~ 2월 28일 점검 전까지&lt;/font&gt;\n&lt;font color=&apos;#2E2E2E&apos; size=&apos;15&apos;&gt;물품 구매 시 &lt;/font&gt;&lt;font color=&apos;#DF7401&apos; size=&apos;16&apos;&gt;$item:30001304$&lt;/font&gt;&lt;font color=&apos;#2E2E2E&apos; size=&apos;15&apos;&gt;를 드려요!\n&lt;font color=&apos;#3A01DF&apos; size=&apos;16&apos;&gt;\n춘절 한정 물품 구매 금액의 20% 지급\n일반 메럿 판매 물품 구매 금액의 10% 지급&lt;/font&gt;" locale="CN" />
 	<key id="122" name="지금은 메소, 메럿 건설 자재 모두 50% 할인 중! 메럿마켓에서 건설 패키지도 할인된 가격으로 만나 보세요!" locale="CN" />
 	<key id="123" name="블루프린트 한 번 만들어 볼까요? 대지형 부동산 90% 할인 이벤트 및 건설 자재 50% 할인 이벤트 기간 연장!  (UTC) 1/31 15:30 ~ 2/28 15:30" locale="NA" />
+	<key id="124" name="세인트 패트릭 데이 기념 이벤트! 이벤트 기간 동안 캐시마트 아르바이트 던전 클리어 시 계정 당 1회에 한해 매력만점 녹색모자를 획득할 수 있어요!  (UTC) 3/16 00:00 ~ 3/17 23:59" locale="NA" />
 </ms2>

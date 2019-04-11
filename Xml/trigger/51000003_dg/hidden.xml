@@ -51,7 +51,7 @@
 	
 		    <state name="Hidden_ready_04">
 	        <onEnter>
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000004_ME__TRIGGER_01__1$" arg3="0,5" arg4="0" />
+			<action name="ShowCountUI" text="$61000004_ME__TRIGGER_01__1$" stage="0" count="5"  />
 			<action name="업적이벤트를발생시킨다" arg1="710" arg2="trigger" arg3="boomboombeach_hidden_start"/>
 			</onEnter>
 				<condition name="WaitTick" waitTick="6000" > 

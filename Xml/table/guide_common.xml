@@ -717,7 +717,7 @@
 			<condition dialogName="MyInfoDialog" dialogID="10001" isOpen="0" type="dialog" />
 		</close>
 		<openAction>
-			<action type="uiArrowDialog" align="1" childName="m_title" dialogName="MyInfoDialog" dialogID="10001" direction="2" entityId="10260" offset="72,0,0" textId="10260">
+			<action type="uiArrowDialog" align="1" childName="m_title" dialogName="MyInfoDialog" dialogID="10001" direction="2" entityId="10260" offset="32,0,0" textId="10260">
 				<focusDialogName v="MyInfoDialog" />
 			</action>
 		</openAction>
@@ -3149,6 +3149,48 @@
 			<action type="uiArrowDialog" align="1" direction="0" childName="m_gamePadOff" dialogName="UpperHudDialog" entityId="10971" offset="-3,15,0" textId="10970" />
 			<action type="uiSummary" isNotClose="0" textId="10971" />
 		</openAction>
+	</event>
+	<event id="11100" saveId="11100" desc="이모티콘 창 열기">
+		<open>
+			<condition type="guideClear" id="40000" />
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="timeout" value="20000" />
+				<condition dialogName="ChatEmoticonDialog" isOpen="1" type="dialog" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="uiArrowDialog" customPosType="messenger" childName="m_chatEmoticonOpen" direction="2" entityId="11100" align="1" offset="-2,-10,0" textId="11100" />
+		</openAction>
+	</event>
+	<event id="11110" saveId="11110" desc="이모티콘 창 연 후 설명">
+		<open>
+			<condition type="guideClear" id="11100" />
+			<condition dialogName="ChatEmoticonDialog" isOpen="1" type="dialog" />
+		</open>
+		<close>
+			<condition type="timeout" value="20000" />
+		</close>
+		<openAction>
+			<action type="uiTextTip" isNotClose="0" textId="11110" />
+		</openAction>
+	</event>
+	<event id="11120" saveId="11120" desc="이모티콘 구입하러 가기">
+		<open>
+			<condition type="guideClear" id="11100" />
+			<condition dialogName="ChatEmoticonDialog" isOpen="1" type="dialog" />
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="timeout" value="20000" />
+				<condition dialogName="MeratMarketDialog" isOpen="1" type="dialog" />
+				<condition dialogName="ChatEmoticonDialog" isOpen="0" type="dialog" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="uiArrowDialog" align="1" direction="3" childName="m_shopLinkPage.m_shopBtn" dialogName="ChatEmoticonDialog" entityId="11120" offset="70,15,0" textId="11120" />
+		</openAction>-
 	</event>
 	<event id="20000" saveId="20000" desc="UGC 가이드:전광판 열었을때 가이드 툴팁">
 		<open>

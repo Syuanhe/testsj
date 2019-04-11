@@ -8,7 +8,7 @@
   </customize>
   <slots>
     <slot name="RH">
-      <asset name="urn:15400014_FlameDivineSword" targetnode="Weapon_Back_R_Point" selfnode="15400014_FlameDivineSword" />
+      <asset name="urn:15400014_FlameDivineSword" targetnode="Weapon_Back_R_Point" selfnode="Point01" />
     </slot>
       <slot name="LH"/>
   </slots>

@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="1" name="하하" command="하하" />
-	<key id="2" name="분노" command="분노" />
-	<key id="3" name="흑흑" command="흑흑" />
-	<key id="4" name="꺄아" command="꺄아" />
-	<key id="5" name="하트" command="하트" />
-	<key id="6" name="놀람" command="놀람" />
-	<key id="7" name="미안" command="미안" />
-	<key id="8" name="꾸벅" command="꾸벅" />
-	<key id="9" name="당황" command="당황" />
-	<key id="10" name="좌절" command="좌절" />
-	<key id="11" name="축하" command="축하" />
-	<key id="12" name="우와" command="우와" />
-	<key id="13" name="최고" command="최고" />
-	<key id="14" name="기대" command="기대" />
-	<key id="15" name="시무룩" command="시무룩" />
-	<key id="16" name="민망" command="민망" />
-	<key id="17" name="고민" command="고민" />
+	<key id="100001" name="" command="Slime1" feature="ChatEmoticon" />
+	<key id="100002" name="" command="Slime2" feature="ChatEmoticon" />
+	<key id="100003" name="" command="Slime3" feature="ChatEmoticon" />
+	<key id="100004" name="" command="Slime4" feature="ChatEmoticon" />
+	<key id="100005" name="" command="Slime5" feature="ChatEmoticon" />
+	<key id="100006" name="" command="Slime6" feature="ChatEmoticon" />
+	<key id="100007" name="" command="Slime7" feature="ChatEmoticon" />
+	<key id="100008" name="" command="Slime8" feature="ChatEmoticon" />
+	<key id="200001" name="" command="Ducky1" feature="ChatEmoticon" />
+	<key id="200002" name="" command="Ducky2" feature="ChatEmoticon" />
+	<key id="200003" name="" command="Ducky3" feature="ChatEmoticon" />
+	<key id="200004" name="" command="Ducky4" feature="ChatEmoticon" />
+	<key id="200005" name="" command="Ducky5" feature="ChatEmoticon" />
+	<key id="200006" name="" command="Ducky6" feature="ChatEmoticon" />
+	<key id="200007" name="" command="Ducky7" feature="ChatEmoticon" />
+	<key id="200008" name="" command="Ducky8" feature="ChatEmoticon" />
+	<key id="300001" name="" command="OrangeMushroom1" feature="ChatEmoticon" />
+	<key id="300002" name="" command="OrangeMushroom2" feature="ChatEmoticon" />
+	<key id="300003" name="" command="OrangeMushroom3" feature="ChatEmoticon" />
+	<key id="300004" name="" command="OrangeMushroom4" feature="ChatEmoticon" />
+	<key id="300005" name="" command="OrangeMushroom5" feature="ChatEmoticon" />
+	<key id="300006" name="" command="OrangeMushroom6" feature="ChatEmoticon" />
+	<key id="300007" name="" command="OrangeMushroom7" feature="ChatEmoticon" />
+	<key id="300008" name="" command="OrangeMushroom8" feature="ChatEmoticon" />
+	<key id="400001" name="" command="Urza1" feature="ChatEmoticon" />
+	<key id="400002" name="" command="Urza2" feature="ChatEmoticon" />
+	<key id="400003" name="" command="Urza3" feature="ChatEmoticon" />
+	<key id="400004" name="" command="Urza4" feature="ChatEmoticon" />
+	<key id="400005" name="" command="Urza5" feature="ChatEmoticon" />
+	<key id="400006" name="" command="Urza6" feature="ChatEmoticon" />
+	<key id="400007" name="" command="Urza7" feature="ChatEmoticon" />
+	<key id="400008" name="" command="Urza8" feature="ChatEmoticon" />
+	<key id="400009" name="" command="Urza9" feature="ChatEmoticon" />
+	<key id="400010" name="" command="Urza10" feature="ChatEmoticon" />
+	<key id="400011" name="" command="Urza11" feature="ChatEmoticon" />
+	<key id="400012" name="" command="Urza12" feature="ChatEmoticon" />
 </ms2>

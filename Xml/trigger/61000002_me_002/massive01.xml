@@ -146,7 +146,7 @@
     <onEnter>
       <action name="타이머를설정한다" arg1="1" arg2="6"/>
       <action name="이벤트UI를설정한다" arg1="0" arg2="1,4"/>
-      <action name="이벤트UI를설정한다" arg1="2" arg2="$61000002_ME_002__MASSIVE01__3$" arg3="1,5"/>
+	  <action name="ShowCountUI" text="$61000002_ME_002__MASSIVE01__3$" stage="1" count="5"  />
     </onEnter>
     <condition name="시간이경과했으면" arg1="1">
       <transition state="퍼즐단계1대기"/>
@@ -198,7 +198,7 @@
    <state name="퍼즐단계1정리2"> 
   	  <condition name="유저를감지했으면" arg1="301">
         <action name="이벤트UI를설정한다" arg1="0" arg2="2,4"/>
-        <action name="이벤트UI를설정한다" arg1="2" arg2="$61000002_ME_002__MASSIVE01__4$" arg3="2,5"/>
+		<action name="ShowCountUI" text="$61000002_ME_002__MASSIVE01__4$" stage="2" count="5"  />
         <transition state="퍼즐단계2대기"/>
       </condition>
       <condition name="!유저를감지했으면" arg1="301">
@@ -248,7 +248,7 @@
   <state name="퍼즐단계2정리2">
   	  <condition name="유저를감지했으면" arg1="301">
         <action name="이벤트UI를설정한다" arg1="0" arg2="3,4"/>
-        <action name="이벤트UI를설정한다" arg1="2" arg2="$61000002_ME_002__MASSIVE01__5$" arg3="3,5"/>
+		<action name="ShowCountUI" text="$61000002_ME_002__MASSIVE01__5$" stage="3" count="5"  />
         <transition state="퍼즐단계3대기"/>
       </condition>
       <condition name="!유저를감지했으면" arg1="301">
@@ -300,7 +300,7 @@
   <state name="퍼즐단계3정리2">
   	  <condition name="유저를감지했으면" arg1="301">
         <action name="이벤트UI를설정한다" arg1="0" arg2="4,4"/>
-        <action name="이벤트UI를설정한다" arg1="2" arg2="$61000002_ME_002__MASSIVE01__6$" arg3="4,5"/>
+		<action name="ShowCountUI" text="$61000002_ME_002__MASSIVE01__6$" stage="4" count="5"  />
         <transition state="퍼즐단계4대기"/>
       </condition>
       <condition name="!유저를감지했으면" arg1="301">

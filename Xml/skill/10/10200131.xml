@@ -3,12 +3,12 @@
 <ms2 feature="">
 	<basic feature="CharacterBalance_01">
 		<ui icon="./Data/Resource/Image/skill/icon/10200131.png" movie="" exceptUI="0" attackType="0" />
-		<kinds type="0" subType="2" rangeType="0" jump="10200131" continue="0" spRecoverySkill="0" element="5" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="0" releaseStunState="0" />
+		<kinds type="0" subType="2" rangeType="0" jump="10200131" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="0" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="3" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>
 	<basic>
 		<ui icon="./Data/Resource/Image/skill/icon/10200131.png" movie="" exceptUI="0" attackType="0" />
-		<kinds type="0" subType="2" rangeType="0" jump="10200131" continue="0" spRecoverySkill="0" element="5" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="0" releaseStunState="0" />
+		<kinds type="0" subType="2" rangeType="0" jump="10200131" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="0" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="0" autoTargeting="0" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>
 	<level value="1" feature="CharacterBalance_01">

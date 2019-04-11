@@ -59,7 +59,8 @@
 
 			<!-- 라이프 카운트 정의 -->
 			<action name="ArcadeBoomBoomOcean" type="StartGame" lifeCount="20" />
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$51000003_DG__MAIN__0$" arg3="0,5" />
+			
+			<action name="ShowCountUI" text="$51000003_DG__MAIN__0$" stage="0" count="5"  />
 			<action name="SetUserValue" triggerID="991103" key="Fail" value="1" /> <!-- Fail Event on -->
 			<action name="버프를걸어준다" arg1="701" arg2="70000087" arg3="1" arg5="0" /> <!-- 아케이드 포커스 -->
 	    </onEnter>

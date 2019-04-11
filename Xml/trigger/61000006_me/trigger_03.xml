@@ -31,7 +31,7 @@
 
     <state name="어나운스1">
         <onEnter>
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000006_ME__TRIGGER_03__1$" arg3="0,5" arg4="0" />
+			<action name="ShowCountUI" text="$61000006_ME__TRIGGER_03__1$" stage="0" count="5"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="6000" > 
 						<transition state="시작"/>

@@ -84,4 +84,16 @@
 	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_FallFoliage_Loop_B.xml">
 		<Info emotionSkillID="90200120" gender="1" />
 	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_StudyHard_Ready_A.xml">
+		<Info emotionSkillID="90200128" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_StudyHard_Loop_A.xml">
+		<Info emotionSkillID="90200128" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_DeepSleep_Ready_A.xml">
+		<Info emotionSkillID="90200129" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_DeepSleep_Loop_A.xml">
+		<Info emotionSkillID="90200129" gender="2" />
+	</StateEffect>
 </ms2>

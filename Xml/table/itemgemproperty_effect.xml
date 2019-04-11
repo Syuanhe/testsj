@@ -2,4 +2,5 @@
 <ms2>
 	<effect id="70900001" Effect="CH/EffectBadge/Eff_EffectBadge_PioneerLight_A01.xml" feature="AdventureLevel" />
 	<effect id="70900002" Effect="CH/EffectBadge/Eff_EffectBadge_GameMeister_A01.xml" feature="AdventureLevel" />
+	<effect id="70900003" Effect="CH/EffectBadge/Eff_EffectBadge_Rose_A01.xml" />
 </ms2>

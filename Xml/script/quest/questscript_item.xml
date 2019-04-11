@@ -104,6 +104,19 @@
 			<content text="$script:1227162015000069$" />
 		</script>
 	</quest>
+	<quest id="95000008">
+		<script id="100" feature="" locale="">
+			<content text="$script:0304143915000070$" />
+			<content text="$script:0304143915000071$" />
+			<content text="$script:0304143915000072$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0304143915000073$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0304143915000074$" />
+		</script>
+	</quest>
 	<quest id="95100000">
 		<script id="100" feature="" locale="">
 			<content text="$script:0912180315000030$" />

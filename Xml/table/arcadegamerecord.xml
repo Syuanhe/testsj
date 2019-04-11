@@ -24,4 +24,16 @@
 		<rank npcID="11000617" score="20000" />
 		<rank npcID="11000049" score="10000" />
 	</arcadeGame>
+	<arcadeGame id="3" feature="Event">
+		<rank npcID="11001430" score="39800" />
+		<rank npcID="11000100" score="34500" />
+		<rank npcID="11000003" score="32800" />
+		<rank npcID="11000022" score="27900" />
+		<rank npcID="11000032" score="25400" />
+		<rank npcID="11000042" score="22600" />
+		<rank npcID="11000252" score="18800" />
+		<rank npcID="11000294" score="17200" />
+		<rank npcID="11000284" score="15400" />
+		<rank npcID="11000135" score="7700" />
+	</arcadeGame>
 </ms2>

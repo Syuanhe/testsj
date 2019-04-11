@@ -12,7 +12,7 @@
 		<basic friendly="1" stringTag="" />
 		<slots>
 			<slot name="RH">
-				<asset name="Data/Resource/Model/Item/1/53/15600001_Orb_001_A.nif" selfnode="Point01" targetnode="Scene Root" attachnode="Scene Root" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<asset name="Data/Resource/Model/Item/1/56/15600001_Orb_001_A.nif" selfnode="Move_Point01" targetnode="Scene Root" attachnode="Scene Root" pony="0" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
 					<physx action="" />
 				</asset>
 				<decal />

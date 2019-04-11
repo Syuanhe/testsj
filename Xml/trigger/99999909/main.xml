@@ -43,7 +43,7 @@
 
 		<action name="메쉬를설정한다" arg1="2001-3999" arg2="0" arg3="0" arg4="0" arg5="0" />
 	    <action name="이벤트UI를설정한다" arg1="0" arg2="1,4" />
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$99999909__MAIN__0$" arg3="0" />
+		<action name="ShowCountUI" text="$99999909__MAIN__0$" stage="0" count="3"  />
     </onEnter>	 
 		<condition name="WaitTick" waitTick="5000">
 			<transition state="start"/> 

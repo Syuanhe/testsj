@@ -60,4 +60,13 @@
 	<DungeonSeason seasonID="6" locale="NA" feature="DungeonRank01" startTime="2017-08-30-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="1000000" dayOfWeeks="6">
 		<Reward requireScore="1000000" />
 	</DungeonSeason>
+	<DungeonSeason seasonID="6" locale="JP" feature="DungeonRank01" startTime="2017-08-30-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="1000000" dayOfWeeks="6">
+		<Reward requireScore="1000000" />
+	</DungeonSeason>
+	<DungeonSeason seasonID="6" locale="TH" feature="DungeonRank01" startTime="2017-08-30-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="1000000" dayOfWeeks="6">
+		<Reward requireScore="1000000" />
+	</DungeonSeason>
+	<DungeonSeason seasonID="6" locale="TW" feature="DungeonRank01" startTime="2017-08-30-00-00-00" endTime="2999-12-31-23-59-59" maxSeasonScore="1000000" dayOfWeeks="6">
+		<Reward requireScore="1000000" />
+	</DungeonSeason>
 </ms2>

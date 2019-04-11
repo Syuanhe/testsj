@@ -1476,8 +1476,17 @@
 	<key id="10002117" name="레버 당기기" feature="LapentaDungeon" />
 	<key id="10002118" name="레버 당기기" feature="LapentaDungeon" />
 	<key id="10002119" name="관찰하기" locale="NA" />
+	<key id="10002119" name="관찰하기" locale="JP" />
+	<key id="10002119" name="관찰하기" locale="TH" />
+	<key id="10002119" name="관찰하기" locale="TW" />
 	<key id="10002120" name="쓰레기 줍기" locale="NA" />
+	<key id="10002120" name="쓰레기 줍기" locale="JP" />
+	<key id="10002120" name="쓰레기 줍기" locale="TH" />
+	<key id="10002120" name="쓰레기 줍기" locale="TW" />
 	<key id="10002121" name="탐스러운 체리 맛보기" locale="NA" />
+	<key id="10002121" name="탐스러운 체리 맛보기" locale="JP" />
+	<key id="10002121" name="탐스러운 체리 맛보기" locale="TH" />
+	<key id="10002121" name="탐스러운 체리 맛보기" locale="TW" />
 	<key id="10002122" name="씨앗 심기" feature="LapentaDungeon" />
 	<key id="10002123" name="씨앗 들기" feature="LapentaDungeon" />
 	<key id="10002124" name="씨앗 들기" feature="LapentaDungeon" />
@@ -1599,6 +1608,9 @@
 	<key id="11000094" name="풍선 날리기" />
 	<key id="11000095" name="꽃 풍선 조사하기" />
 	<key id="11000096" name="별풍선 터뜨리기" locale="NA" />
+	<key id="11000096" name="별풍선 터뜨리기" locale="JP" />
+	<key id="11000096" name="별풍선 터뜨리기" locale="TH" />
+	<key id="11000096" name="별풍선 터뜨리기" locale="TW" />
 	<key id="11000097" name="조사하기" feature="Kritias_2018_12" />
 	<key id="11000098" name="조사하기" feature="Kritias_2018_12" />
 	<key id="11000099" name="조사하기" feature="Kritias_2018_12" />
@@ -1612,10 +1624,16 @@
 	<key id="11000107" name="조사하기" feature="Kritias_2018_12" />
 	<key id="11000108" name="조사하기" feature="Kritias_2018_12" />
 	<key id="11000109" name="휴먼 메럿 쓰다듬기" locale="NA" />
+	<key id="11000109" name="휴먼 메럿 쓰다듬기" locale="JP" />
+	<key id="11000109" name="휴먼 메럿 쓰다듬기" locale="TH" />
+	<key id="11000109" name="휴먼 메럿 쓰다듬기" locale="TW" />
 	<key id="11000110" name="스탠드 조명 켜기" />
 	<key id="11000111" name="캐럴 벨 트리 작동하기" />
 	<key id="11000112" name="아기 복돼지 날려 보내기" />
 	<key id="11000113" name="초코볼 풍선 조사하기" feature="Event" locale="NA" />
+	<key id="11000113" name="초코볼 풍선 조사하기" feature="Event" locale="JP" />
+	<key id="11000113" name="초코볼 풍선 조사하기" feature="Event" locale="TH" />
+	<key id="11000113" name="초코볼 풍선 조사하기" feature="Event" locale="TW" />
 	<key id="11100001" name="우유짜기" />
 	<key id="11100002" name="달걀채집" />
 	<key id="11100003" name="우유짜기" />
@@ -3275,6 +3293,9 @@
 	<key id="31000013" name="굴려라! 쫑즈 마블!" />
 	<key id="31000014" name="굴려라! 메이플 마블!" />
 	<key id="31000015" name="굴려라! 메이플 마블!" locale="NA" />
+	<key id="31000015" name="굴려라! 메이플 마블!" locale="JP" />
+	<key id="31000015" name="굴려라! 메이플 마블!" locale="TH" />
+	<key id="31000015" name="굴려라! 메이플 마블!" locale="TW" />
 	<key id="32000000" name="서랍장" />
 	<key id="32000001" name="낡은 인형" />
 	<key id="32000002" name="스위트 룸의 열쇠" />

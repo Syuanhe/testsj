@@ -158,7 +158,7 @@
 		<action name="연출UI를설정한다" arg1="0"/> 
 		<action name="연출UI를설정한다" arg1="2"/> 
 		<action name="카메라경로를선택한다" arg1="8808" arg2="1"/>	
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02000348_BF__MAIN__10$" arg3="0,3" />
+		<action name="ShowCountUI" text="$02000348_BF__MAIN__10$" stage="0" count="3"  />
 		<action name="타이머를설정한다" arg1="3" arg2="3" arg4="0" />
     </onEnter>	
 		<condition name="WaitTick" waitTick="5000" > 

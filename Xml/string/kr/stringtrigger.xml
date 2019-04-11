@@ -6752,4 +6752,127 @@
 	<key id="02020065_BF__MESSAGE__1" name="에네르 분광장치의 내구도가 50% 미만입니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar02" />
 	<key id="02020065_BF__MESSAGE__2" name="에네르 분광장치의 내구도가 30% 미만입니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar02" />
 	<key id="02020065_BF__MESSAGE__3" name="에네르 분광장치의 내구도가 10% 미만입니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Fieldwar02" />
+	<key id="51000004_DG__51000004_MAIN__0" name="안녕? 난 게임을 좋아하는 핑크빈!\n지금부터 나랑 재밌게 놀자!" npc="systemMSG" type="연출UI를설정한다" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__1" name="나와 다른 방향을 선택하면 네가 이기고, \n같은 방향을 선택하면 지는 거야~!" npc="systemMSG" type="연출UI를설정한다" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__2" name="네가 다섯 번 지면 게임은 끝!\n지지 않고 오래 버티면 높은 점수를 받지!" npc="systemMSG" type="연출UI를설정한다" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__3" name="높은 순위를 기록하면 선물도 있으니까,\n자~ 지금 바로 도전하라고!" npc="systemMSG" type="연출UI를설정한다" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__4" name="좋아, 붙어 보자!" npc="NotUse" type="AddBalloonTalk" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__5" name="이얍!" npc="NotUse" type="AddBalloonTalk" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__6" name="이런 꼬맹이 녀석한테 지다니!" npc="NotUse" type="AddBalloonTalk" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__7" name="이겼다!" npc="player" type="AddBalloonTalk" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__8" name="오예~ 이겼다!" npc="NotUse" type="AddBalloonTalk" feature="Event" />
+	<key id="51000004_DG__51000004_MAIN__9" name="내가 졌어! 으앙!" npc="player" type="AddBalloonTalk" feature="Event" />
+	<key id="83000002_COLOSSEUM__ROUND1__0" name="첫 번째 상대는 피도 눈물도 없는 기사 학교의 교관님이시죠?! 로베 선수가 등장합니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__1" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__2" name="네 정의가 무엇인지 확인해주지!" npc="로베" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__3" name="너 따위 애송이에게 지다니…" npc="로베" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__4" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__5" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__6" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__7" name="Round1 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__8" name="Round1 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND1__9" name="경기에서 승리하셨습니다. 잠시만 기다려주세요! 다음 경기가 기다리고 있습니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__0" name="다음은 다년간의 조리로 다져진 팔근육이 드디어 진가를 발휘합니다! 스타츠 선수입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__3" name="오늘의 요리 재료는 바로 너로군!" npc="스타츠" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__4" name="요리 연구에 더 집중해야 겠어…" npc="스타츠" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__7" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__8" name="Round2 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__9" name="Round2 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND2__10" name="경기에서 승리하셨습니다. 잠시만 기다려주세요! 다음 경기가 기다리고 있습니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__0" name="드디어 나왔네요! 여제님을 지키는 명예로운 트라이아 기사단의 리더! 알론 선수입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__3" name="기사의 기백을 맛보아라. 봐주지 않는다!" npc="알론" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__4" name="너무 강하군..." npc="알론" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__6" name="저런... 경기장에서 도망쳐버리면 어떡해요... 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__7" name="너무 강한 상대였나 봐요... 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__8" name="Round4 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__9" name="Round4 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND4__10" name="승리하셨습니다. 다음 라운드에서는 더 강한 도전자들이 기다리고 있습니다. 긴장하세요!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__0" name="출전자들이 가장 기다렸던 선수죠? 천재 대장장이 오필리아 선수입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__3" name="너도 아이템처럼 두들겨 줄까?" npc="오필리아" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__4" name="강화만 잘 됐어도…" npc="오필리아" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__7" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__8" name="Round6 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__9" name="Round6 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND6__10" name="승리하셨습니다. 다음 라운드에서는 더 강한 도전자들이 기다리고 있습니다. 긴장하세요!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__0" name="으아, 소름 돋아… 벌써부터 짙은 어둠의 힘이 느껴지는군요. 어둠의 이노센트, 파토스 선수의 등장입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__3" name="너의 지루함이 보이는 것 같구나. 그래서 이제부터는 이 퀸크빈이 재밌는 걸 준비했다. 기대하거라!" npc="퀸크빈" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__4" name="너의 지루함이 보이는 것 같구나. 그래서 이제부터는 이 퀸크빈이 재밌는 걸 준비했다. 기대하거라!" npc="퀸크빈" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__5" name="앞을 가로막지 마라. 살고싶다면…" npc="파토스" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__6" name="여기까지인가…" npc="파토스" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__7" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__8" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__9" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__10" name="Round8 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__11" name="Round8 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND8__12" name="경기에서 승리하셨습니다. 이제 부터는 벅찬 상대가 나올 수 있어요. 마음 단단히 먹으셔야 해요!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__0" name="우승후보가 보이기 시작하네요! 실질적인 흑성회의 이인자! 다부진 근육이 위협적인 바사라 첸 선수가 등장합니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__3" name="트라이아 영웅의 실력을 확인해주지." npc="바사라 첸" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__4" name="내 수련이 부족했군…" npc="바사라 첸" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__7" name="패배했습니다. 경기가 종료됩니다." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__8" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__9" name="Round9 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__10" name="Round9 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND9__11" name="맘에 드는 녀석이군. 너, 나의 기사가 되지 않으련?" npc="퀸크빈" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__START__0" name="퀸크빈 아레나" npc="systemMSG" type="ShowCaption" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__0" name="자, 대망의 결승전! 카르카르 아일랜드의 최고 아이돌이죠? 하지만 결코 얕볼 수 없는 전투력의 소유자! 미카 선수입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__3" name="날 얕보면 곤란해. 비셋님께 전수받은 실력을 보여주지!" npc="미카" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__4" name="이럴수가…이게 무슨일이지…" npc="미카" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__7" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__8" name="Round10 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__9" name="Round10 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND10__10" name="드디어 승리자가 나왔습니다!!! 축하합니다!!!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__0" name="올 것이 왔습니다. 엘리넬 마법학원이 배출한 마법의 천재! 오르데 선수가 등장합니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__2" name="잠시 후 경기가 시작됩니다! 준비하세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__3" name="강력한 마법의 힘을 보여주지." npc="오르데" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__4" name="내 마법이..." npc="오르데" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__6" name="저런... 경기장에서 도망쳐버리면 어떡해요... 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__7" name="너무 강한 상대였나 봐요... 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__8" name="Round5 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__9" name="Round5 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND5__10" name="승리하셨습니다. 다음 라운드에서는 더 강한 도전자들이 기다리고 있습니다. 긴장하세요!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__0" name="이번전투는 메이플 월드의 귀염둥이 바니걸! 민트 선수의 등장입니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__3" name="정말 날 때리진 않을 거지?" npc="민트" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__4" name="너무해…" npc="민트" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__7" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__8" name="Round3 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__9" name="Round3 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND3__10" name="으음? 제법이군." npc="퀸크빈" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__0" name="아… 그를 여기서 만나게 되다니…! 아버지의 뒤를 이은 페리온의 족장! 구르는 천둥 선수가 등장합니다!" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__1" name="경기 조건에 맞지 않는 참가자시네요...다음에 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__2" name="경기를 준비해주세요!" npc="not implemented yet" type="ShowCountUI" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__3" name="페리온 전사의 실력을 보여주지! 기대하라고!" npc="구르는 천둥" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__4" name="세상엔 강한 상대가 많군…" npc="구르는 천둥" type="AddBalloonTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__5" name="아쉽게도 제한 시간을 초과했네요… 다음에 다시 도전해주세요." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__6" name="저런… 경기장에서 도망쳐버리면 어떡해요…! 경기 종료입니다." npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__7" name="너무 강한 상대였나 봐요… 실력은 좋은데 장비가 좋지 않은 탓이겠죠?" npc="MC 나기" type="SideNpcTalk" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__8" name="Round7 승리!!!" npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__9" name="Round7 실패." npc="systemMSG" type="이벤트UI를설정한다" feature="Colosseum01" />
+	<key id="83000002_COLOSSEUM__ROUND7__10" name="꽤 즐겁게 해주었군. 무료함을 달래기엔 충분했다." npc="퀸크빈" type="SideNpcTalk" feature="Colosseum01" />
 </ms2>

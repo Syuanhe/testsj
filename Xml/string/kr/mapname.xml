@@ -25,6 +25,7 @@
 	<key id="00000024" name="# 캐릭터 선택창 - 2018 할로윈" feature="LobbyMap01" />
 	<key id="00000025" name="# 캐릭터 선택창 - 2018 크리스마스" feature="LobbyMap01" />
 	<key id="00000026" name="# 캐릭터 선택창 - 2019 새해" feature="LobbyMap01" />
+	<key id="00000027" name="# 캐릭터 선택창 - 2019 봄" feature="LobbyMap01" />
 	<key id="00001001" name="# 게임 모드 선택창" feature="LobbyMap01" />
 	<key id="00009051" name="크리티아스 구름01" feature="Kritias_Epic01" />
 	<key id="00009052" name="크리티아스 구름02" feature="Kritias_Epic01" />
@@ -688,8 +689,11 @@
 	<key id="50000010" name="그레이브 블루 로비" feature="LapentaDungeon" />
 	<key id="50000011" name="터미너스 엔즈 로비" feature="LapentaDungeon" />
 	<key id="50000012" name="블랙샤드 체임버 로비" feature="LapentaDungeon" />
+	<key id="50000013" name="퀸크빈 럼블 로비" feature="Colosseum01" />
+	<key id="50000014" name="카오스 레이드 던전 로비" feature="Kritias_Zakum01" />
 	<key id="51000001" name="스프링 팜" feature="ArcadeSpringFarm" />
 	<key id="51000003" name="크레이지 몽키 오션" feature="ArcadeCrazyMonkeyOcean" />
+	<key id="51000004" name="미션! 셋, 둘, 하나" feature="Event" />
 	<key id="52000001" name="숲 속의 오두막" feature="CBT" />
 	<key id="52000002" name="알퐁달퐁 목장" feature="Season1" />
 	<key id="52000003" name="그림자 땅굴 끝" feature="Season3" />
@@ -1124,6 +1128,7 @@
 	<key id="80000018" name="루미너스 꽃 군락지" feature="Kritias_2018_12" />
 	<key id="80000019" name="에네르 애벌레 서식지" feature="Kritias_2018_12" />
 	<key id="80000020" name="신비한 허브 동굴" feature="Kritias_2018_12" />
+	<key id="80000021" name="수상한 빈빈 동산" feature="Event" />
 	<key id="81000001" name="루디브리엄 대탈출 M" feature="userOpenMinigame" />
 	<key id="81000002" name="스프링 비치 M" feature="userOpenMinigame" />
 	<key id="81000003" name="크레이지 러너즈 M" feature="userOpenMinigame" />
@@ -1131,6 +1136,8 @@
 	<key id="82000001" name="태초의 버섯 섬" feature="SurvivalContents02" />
 	<key id="82000006" name="태초의 버섯 섬" feature="SurvivalContents01" />
 	<key id="82000012" name="태초의 버섯 섬" feature="SurvivalContents01" />
+	<key id="83000001" name="여왕의 응접실" feature="Colosseum01" />
+	<key id="83000002" name="퀸크빈 아레나" feature="Colosseum01" />
 	<key id="99999888" name="# Test_888" feature="CBT" />
 	<key id="99999889" name="# Test_889" feature="CBT" />
 	<key id="99999890" name="# ChromaKey_White" feature="CBT" />

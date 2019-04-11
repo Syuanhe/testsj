@@ -132,7 +132,7 @@
         <onEnter>
             <action name="타이머를설정한다" arg1="17" arg2="6" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="1,5" />	
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__6$" arg3="1,5" />
+			<action name="ShowCountUI" text="$61000007_ME__MAINPROCESS_SPRINGBEACH__6$" stage="1" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="17">
             <transition state="스프링섞기01" />
@@ -381,7 +381,7 @@
         <onEnter>
             <action name="타이머를설정한다" arg1="22" arg2="6" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="2,5" />			
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__8$" arg3="2,5" />
+			<action name="ShowCountUI" text="$61000007_ME__MAINPROCESS_SPRINGBEACH__8$" stage="2" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="22">
             <transition state="스프링섞기02" />
@@ -630,7 +630,7 @@
         <onEnter>
             <action name="타이머를설정한다" arg1="26" arg2="6" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="3,5" />			
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__10$" arg3="3,5" />
+			<action name="ShowCountUI" text="$61000007_ME__MAINPROCESS_SPRINGBEACH__10$" stage="3" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="26">
             <transition state="스프링섞기03" />
@@ -879,7 +879,7 @@
         <onEnter>
             <action name="타이머를설정한다" arg1="30" arg2="6" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="4,5" />				
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__12$" arg3="4,5" />
+			<action name="ShowCountUI" text="$61000007_ME__MAINPROCESS_SPRINGBEACH__12$" stage="4" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="30">
             <transition state="스프링섞기04" />
@@ -1129,7 +1129,7 @@
         <onEnter>
             <action name="타이머를설정한다" arg1="34" arg2="6" />
 			<action name="이벤트UI를설정한다" arg1="0" arg2="5,5" />		
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__14$" arg3="5,5" />
+			<action name="ShowCountUI" text="$61000007_ME__MAINPROCESS_SPRINGBEACH__14$" stage="5" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="34">
             <transition state="스프링섞기05" />

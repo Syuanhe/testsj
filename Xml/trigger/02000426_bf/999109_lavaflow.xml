@@ -2,7 +2,7 @@
 <ms2> <!--계약의 토템에 의해 오른쪽 지점에 용암파도 생성-->
  
 	<state name="전투체크">
-		<condition name="유저를감지했으면" arg1="199">
+		<condition name="CheckUser">
 			<transition state="대기" /> 
 		</condition>		
 	</state>  

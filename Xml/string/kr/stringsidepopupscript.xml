@@ -47,4 +47,5 @@
 	<key id="40002788" name="&#x0A;마스터 스킬 퀘스트를 시작할 수 있습니다.&#x0A;( ! ) 말풍선을 확인 해보세요." feature="JobChange_02" npc="안내원 나탈리" />
 	<key id="50101050" name="크리티아스에 도착했으니, 탐사를 위한 특수 임무 수행을 요청한다. 자세한 내용은 각 담당관에게 듣도록." feature="Kritias_2018_12" npc="블리체" />
 	<key id="50100820" name="긴급 상황이다. $MyPCName$.&#x0A;( ! ) 말풍선을 클릭하여 여제님의 호출 메시지를 확인하도록." feature="Kritias_Epic01" npc="프레이" />
+	<key id="60001150" name="안녕하세요?&#x0A;$npcName:11004288$입니다.&#x0A;( ! ) 말풍선을 확인해주세요.&#x0A;드릴 말씀이 있어요!" feature="Colosseum01" npc="MC나기" />
 </ms2>

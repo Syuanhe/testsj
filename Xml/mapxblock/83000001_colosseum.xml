@@ -3,10 +3,10 @@
 <ms2>
 	<clientProperty bgDay="BG_Indoor_A.dds" />
 	<minimap>
-		<frustum left="-2323.2" right="2323.2" top="1452" bottom="-1452" near="10" far="100000" ortho="true" />
-		<screen left="0" right="1920" top="0" bottom="1200" />
-		<image left="472" right="472" top="32.95" bottom="1062.95" name="./Data/Resource/Image/Map/Minimap/83000001.dds" icon="" />
-		<camera position="39.369644, -141.421341, 441.421387" rotation="90.000000, 90.000000, -45.000000" />
-		<edit zoomfactor="1.21" />
+		<frustum left="-2553.6" right="2553.6" top="1436.4" bottom="-1436.4" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1080" />
+		<image left="491" right="1515" top="41" bottom="1065" name="./Data/Resource/Image/Map/Minimap/83000001.dds" icon="" />
+		<camera position="-247.051453, 107.299095, 1169.379395" rotation="90.000000, 0.000000, -62.000000" />
+		<edit zoomfactor="1.33" />
 	</minimap>
 </ms2>

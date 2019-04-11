@@ -133,8 +133,32 @@
       <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore01.dds" control="" delay="1600" />
 	  <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore02.dds" control="" delay="1233" />
     </textureani> 
+  </emotion>
+
+  <emotion type="1" name="Attack_01_E">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore01.dds" control="" delay="1333" />
+    </textureani> 
   </emotion>  
+
+  <emotion type="1" name="Attack_02_E">
+    <textureani target="FA">
+	  <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore02.dds" control="" delay="3000" />
+	  <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore01.dds" control="" delay="1367" />
+    </textureani> 
+  </emotion>
   
+  <emotion type="1" name="Attack_01_F">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore01.dds" control="" delay="1033" />
+    </textureani> 
+  </emotion>
+  
+  <emotion type="1" name="Attack_01_G">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010010_RollingThunder_Face_Bore01.dds" control="" delay="3333" />
+    </textureani> 
+  </emotion>
   
   <emotion type="1" name="Dead">
     <textureani target="FA">

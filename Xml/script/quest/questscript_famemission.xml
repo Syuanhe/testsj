@@ -4680,7 +4680,7 @@
 			<content leftIllust="Bliche_normal" rightIllust="Conder_normal" speakerIllust="Conder_normal" speakerNpc="11004313" text="$script:1217195521026172$" />
 			<content leftIllust="Neirin_serious" rightIllust="Conder_normal" speakerIllust="Neirin_serious" speakerNpc="11004315" text="$script:0116160121029250$" />
 			<content leftIllust="Bliche_normal" rightIllust="Conder_smile" speakerIllust="Conder_smile" speakerNpc="11004313" text="$script:1217195521026173$" />
-			<content leftIllust="Schatten_surprise" rightIllust="Conder_smile" speakerIllust="Schatten_surprise" speakerNpc="11004313" text="$script:1217195521026174$" />
+			<content leftIllust="Schatten_surprise" rightIllust="Conder_smile" speakerIllust="Schatten_surprise" speakerNpc="11004314" text="$script:1217195521026174$" />
 			<content leftIllust="Neirin_surprise" rightIllust="Conder_smile" speakerIllust="Neirin_surprise" speakerNpc="11004315" text="$script:1217195521026175$" />
 			<content leftIllust="Mason_closeEye" rightIllust="Conder_smile" speakerIllust="Mason_closeEye" speakerNpc="11004316" text="$script:1217195521026176$" />
 			<content myTalk="1" text="$script:1217195521026179$" />

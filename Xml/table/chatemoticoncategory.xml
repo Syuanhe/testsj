@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<chatEmoticonCategory id="1" icon_path="./Data/Resource/Image/Fishing/10000001.png" />
-	<chatEmoticonCategory id="2" icon_path="./Data/Resource/Image/Fishing/10000002.png" />
-	<chatEmoticonCategory id="3" icon_path="./Data/Resource/Image/Fishing/10000003.png" />
-	<chatEmoticonCategory id="4" icon_path="./Data/Resource/Image/Fishing/10000004.png" />
-	<chatEmoticonCategory id="5" icon_path="./Data/Resource/Image/Fishing/10000005.png" />
-	<chatEmoticonCategory id="6" icon_path="./Data/Resource/Image/Fishing/10000006.png" />
-	<chatEmoticonCategory id="7" icon_path="./Data/Resource/Image/Fishing/10000007.png" />
-	<chatEmoticonCategory id="8" icon_path="./Data/Resource/Image/Fishing/10000008.png" />
-	<chatEmoticonCategory id="9" icon_path="./Data/Resource/Image/Fishing/10000009.png" />
-	<chatEmoticonCategory id="10" icon_path="./Data/Resource/Image/Fishing/10000010.png" />
+	<chatEmoticonCategory id="100" icon_path="./Data/Resource/Image/Emoticon/Category/Slime.png" feature="ChatEmoticon" />
+	<chatEmoticonCategory id="200" icon_path="./Data/Resource/Image/Emoticon/Category/Ducky.png" feature="ChatEmoticon" />
+	<chatEmoticonCategory id="300" icon_path="./Data/Resource/Image/Emoticon/Category/OrangeMushroom.png" feature="ChatEmoticon" />
+	<chatEmoticonCategory id="400" icon_path="./Data/Resource/Image/Emoticon/Category/Urza.png" feature="ChatEmoticon" />
+	<chatEmoticonCategory id="99999999" icon_path="./Data/Resource/Image/Emoticon/Category/Develop.png" feature="ChatEmoticon" />
 </ms2>

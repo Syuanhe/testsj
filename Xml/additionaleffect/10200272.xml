@@ -23,7 +23,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="4.14" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="5.38" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -52,7 +52,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="4.61" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="5.99" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -81,7 +81,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="5.08" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="6.6" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -110,7 +110,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="5.55" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="7.21" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -139,7 +139,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="6.02" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="7.82" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -168,7 +168,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="6.49" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="8.43" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -197,7 +197,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="6.96" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="9.04" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -226,7 +226,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="7.43" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="9.65" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -255,7 +255,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="7.9" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="10.26" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -284,7 +284,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="8.37" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="10.87" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -313,7 +313,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="8.84" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="11.48" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />
@@ -342,7 +342,7 @@
 		<DefensiveProperty papDamageV="0" papDamageR="0" mapDamageV="0" mapDamageR="0" invincible="0" />
 		<RecoveryProperty showUIText="1" RecoveryRate="0" hpValue="0" hpRate="0" spValue="0" spRate="0" epValue="0" epRate="0" hpConsumeRate="0" spConsumeRate="0" statChangeBase="0" statChangeResult="0" statChangeRate="0" disableCriticalRecovery="0" />
 		<ExpProperty value="0" />
-		<DotDamageProperty type="1" useGrade="1" value="0" rate="9.31" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
+		<DotDamageProperty type="1" useGrade="1" value="0" rate="12.09" spValue="0" epValue="0" hand="0" element="0" damageByTargetMaxHP="0" casterRecoveryHpByDamage="0" soundMaterial="102" isConstDotDamageValue="0" />
 		<ConsumeProperty hpRate="0" spRate="0" spConsumeChangeHpRate="0" />
 		<ReflectProperty reflectionRate="0" reflectionAdditionalEffectId="0" reflectionAdditionalEffectLevel="0" reflectionCount="0" physicalReflectionValue="0" physicalReflectionRate="0" physicalReflectionRateLimit="0" magicalReflectionValue="0" magicalReflectionRate="0" magicalReflectionRateLimit="0" />
 		<UIProperty icon="" iconOnOff="0" isHideCooltime="0" iconBalloonOnOff="0" infinitySP="0" priority="0" />

@@ -49,5 +49,6 @@
 	<rod rodCode="32000055" itemCode="19000055" chair="Data/Resource/Model/Item/3/20/32000055_fishingChair055.nif" fishMasteryLimit="1000" addFishMastery="0" reduceFishingTime="7000" fishLureEffect="" fishingChairEffect="" feature="Fishing02" />
 	<rod rodCode="32000056" itemCode="19000056" chair="Data/Resource/Model/Item/3/20/32000019_fishingChair019.nif" fishMasteryLimit="0" addFishMastery="0" reduceFishingTime="0" fishLureEffect="" fishingChairEffect="Item/fishingRod/Eff_FishingRod_Harpoon_Body.xml" />
 	<rod rodCode="32000057" itemCode="19000057" chair="Data/Resource/Model/Item/3/20/32000021_fishingChair021.nif" fishMasteryLimit="0" addFishMastery="0" reduceFishingTime="0" fishLureEffect="" fishingChairEffect="Item/fishingRod/Eff_FishingRod_MachineGun_Body.xml" />
+	<rod rodCode="32000058" itemCode="19000058" chair="Data/Resource/Model/Item/3/20/32000058_fishingChair058.nif" fishMasteryLimit="0" addFishMastery="0" reduceFishingTime="0" fishLureEffect="" fishingChairEffect="Item/fishingRod/Eff_FishingRod_FrogUmbrella_Body.xml" />
 	<rod rodCode="32000061" itemCode="19000061" chair="Data/Resource/Model/Item/3/20/32000061_fishingChair061.nif" fishMasteryLimit="0" addFishMastery="0" reduceFishingTime="0" fishLureEffect="" fishingChairEffect="Item/fishingRod/Eff_FishingRod_OrientBrush_Body.xml" />
 </ms2>

@@ -16,7 +16,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="1,1,1" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="1,1,1" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -91,7 +91,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="2,2,2" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="2,2,2" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -166,7 +166,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="3,3,3" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="3,3,3" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -241,7 +241,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="4,4,4" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="4,4,4" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -316,7 +316,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="5,5,5" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="5,5,5" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -391,7 +391,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="6,6,6" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="6,6,6" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -466,7 +466,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="7,7,7" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="7,7,7" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -541,7 +541,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="8,8,8" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="8,8,8" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -616,7 +616,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="9,9,9" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="9,9,9" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -691,7 +691,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="10,10,10" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="10,10,10" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -766,7 +766,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="11,11,11" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="11,11,11" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">
@@ -841,7 +841,7 @@
 			<stat hp="1" />
 			<weapon lh="0" rh="55" />
 		</beginCondition>
-		<changeSkill changeSkillCheckEffectID="11000332,11000241,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="12,12,12" originSkillID="0" originSkillLevel="1" />
+		<changeSkill changeSkillCheckEffectID="11000332,11000335,11000331" changeSkillCheckEffectLevel="0,1,0" changeSkillCheckEffectOverlapCount="0,0,0" changeSkillID="11000266,11000262,11000265" changeSkillLevel="12,12,12" originSkillID="0" originSkillLevel="1" />
 		<autoTargeting autoTargetingMaxDegree="90" autoTargetingMaxDistance="0" autoTargetingMaxHeight="0" autoTargetUseMove="0" />
 		<push up="0" back="150" />
 		<consume money="0">

@@ -9,7 +9,7 @@
   </customize>
   <slots>
     <slot name="RH">
-    	 <asset gender="2" weapon="30"  name="urn:03200005_Umbrella" targetnode="Weapon_Side_L_Point" selfnode="Point02">
+    	 <asset gender="2" weapon="30"  name="urn:03200005_Umbrella" targetnode="Weapon_Side_L_Point" selfnode="Point01">
 			<dummy sequence="" rotation="5,0,-10" translation="-7,18,-1" />
 			<physx action="Default"/>
     	 </asset>

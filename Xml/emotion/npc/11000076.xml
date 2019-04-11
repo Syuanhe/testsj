@@ -140,5 +140,40 @@
 	  <texture file="Npc_Friendly/02010034_Alon_Face_Idle01.dds" control="" delay="233"/>
     </textureani>
   </emotion>
-    
+  
+  <emotion type="1" name="Attack_01_C">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="2000" />
+    </textureani>
+  </emotion>
+  
+  <emotion type="1" name="Attack_02_C">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="3000" />
+    </textureani>
+  </emotion>
+
+  <emotion type="1" name="Attack_01_D">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="2000" />
+    </textureani>
+  </emotion>
+
+  <emotion type="1" name="Attack_02_D">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="333" loop="true"/>
+    </textureani>
+  </emotion>
+
+  <emotion type="1" name="Attack_03_D">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="1167" />
+    </textureani>
+  </emotion> 
+
+  <emotion type="1" name="Attack_01_E">
+    <textureani target="FA">
+      <texture file="Npc_Friendly/02010034_Alon_Face_Attack.dds" control="" delay="1500" />
+    </textureani>
+  </emotion>   
 </ms2>

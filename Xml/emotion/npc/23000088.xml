@@ -316,5 +316,14 @@
       <texture file="Npc_Boss/23000088_B_Pinkbean_E01M02.dds" control="" delay="1267"/>  
    </textureani>
   </emotion>   
+
+    <emotion type="1" name="Failure">
+    <textureani target="FA">
+      <texture file="Npc_Boss/23000088_B_Pinkbean_E04M06.dds" control="" delay="600" loop="true"/>
+      <texture file="Npc_Boss/23000088_B_Pinkbean_E04M04.dds" control="" delay="350"/>	  
+      <texture file="Npc_Boss/23000088_B_Pinkbean_E04M06.dds" control="" delay="250"/>	  
+      <texture file="Npc_Boss/23000088_B_Pinkbean_E04M04.dds" control="" delay="200"/>
+    </textureani>
+  </emotion>  
   
 </ms2>

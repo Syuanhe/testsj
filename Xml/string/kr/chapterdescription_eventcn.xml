@@ -61,4 +61,9 @@
 	<chapter id="81059" name="해피 뉴 이어!" isTutorial="" regionID="" locale="CN" />
 	<chapter id="81060" name="아기 복돼지에게 자유를" isTutorial="" regionID="" locale="CN" />
 	<chapter id="81061" name="크리티아스 던전을 정복하라" isTutorial="" regionID="" locale="CN" />
+	<chapter id="81062" name="글자 모으기 1주차" isTutorial="" regionID="" feature="Event" locale="CN" />
+	<chapter id="81063" name="글자 모으기 2주차" isTutorial="" regionID="" feature="Event" locale="CN" />
+	<chapter id="81064" name="글자 모으기 3주차" isTutorial="" regionID="" feature="Event" locale="CN" />
+	<chapter id="81065" name="술래잡기, 오늘의 짝꿍" isTutorial="" regionID="" feature="Event" locale="CN" />
+	<chapter id="81066" name="만우절을 즐겨라!" isTutorial="" regionID="" feature="Event" locale="CN" />
 </ms2>

@@ -1444,7 +1444,7 @@
 			<skill main="11000181" subJobCode="1001" sub="11000182,11000183" uiPosition="0, 2" maxLevel="5" />
 			<skill main="11000211" subJobCode="1001" sub="11000212,11000213,11000214,11000219,11000312,11000313,11000316" uiPosition="0, 4" maxLevel="5" />
 			<skill main="11000241" subJobCode="1001" sub="11000231" uiPosition="2, 0" maxLevel="5" />
-			<skill main="11000261" subJobCode="1001" sub="11000262,11000265,11000266" uiPosition="2, 1" maxLevel="5" />
+			<skill main="11000261" subJobCode="1001" sub="11000262,11000265,11000266,11000267" uiPosition="2, 1" maxLevel="5" />
 			<skill main="11000271" subJobCode="1001" sub="11000272" uiPosition="2, 3" maxLevel="5" />
 			<skill main="11000281" subJobCode="1001" sub="11000282,11000283" uiPosition="2, 4" maxLevel="5" />
 			<skill main="11000291" subJobCode="1001" uiPosition="3, 0" maxLevel="1" />

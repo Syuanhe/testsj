@@ -76,6 +76,8 @@
 	<contents id="204" minLevel="54" maxLevel="55" type="boss" code="23000029" img="./Data/Resource/Image/Portrait/Mob/23000029_B_DragonLionHornBlue_P.png" link="WorldMapDialog" sorting="199910" feature="KarkarIsland" locale="" />
 	<contents id="205" minLevel="48" maxLevel="53" type="dungeon" code="21013001" img="./Data/Resource/Image/Map/DungeonBanner/02000349.png" link="DungeonRoomDialog" sorting="299930" feature="KatvanDungeon" locale="KR" />
 	<contents id="205" minLevel="48" maxLevel="49" type="dungeon" code="21013001" img="./Data/Resource/Image/Map/DungeonBanner/02000349.png" link="DungeonRoomDialog" sorting="299930" feature="KatvanDungeon" locale="NA" />
+	<contents id="205" minLevel="48" maxLevel="49" type="dungeon" code="21013001" img="./Data/Resource/Image/Map/DungeonBanner/02000349.png" link="DungeonRoomDialog" sorting="299930" feature="KatvanDungeon" locale="TH" />
+	<contents id="205" minLevel="48" maxLevel="49" type="dungeon" code="21013001" img="./Data/Resource/Image/Map/DungeonBanner/02000349.png" link="DungeonRoomDialog" sorting="299930" feature="KatvanDungeon" locale="TW" />
 	<contents id="206" minLevel="50" maxLevel="55" type="dungeon" code="25010001" img="./Data/Resource/Image/Map/DungeonBanner/02010052.png" link="DungeonRoomDialog" sorting="299910" feature="KarkarIsland" locale="" />
 	<contents id="207" minLevel="50" maxLevel="55" type="dungeon" code="25009001" img="./Data/Resource/Image/Map/DungeonBanner/02010070.png" link="DungeonRoomDialog" sorting="299910" feature="KarkarIsland" locale="" />
 	<contents id="208" minLevel="50" maxLevel="60" type="dungeon" code="25008001" img="./Data/Resource/Image/Map/DungeonBanner/02000350.png" link="DungeonRoomDialog" sorting="299890" feature="TimeAttackDungeon" locale="" />
@@ -136,6 +138,7 @@
 	<contents id="278" minLevel="70" maxLevel="80" type="dungeon" code="23040003" img="./Data/Resource/Image/Map/DungeonBanner/02000426.png" link="DungeonRoomDialog" sorting="299912" feature="Kritias_Zakum01" locale="" />
 	<contents id="279" minLevel="70" maxLevel="80" type="dungeon" code="23043003" img="./Data/Resource/Image/Map/DungeonBanner/02020098.png" link="DungeonRoomDialog" sorting="299915" feature="Kritias_Inferno01" locale="" />
 	<contents id="280" minLevel="70" maxLevel="80" type="dungeon" code="23042003" img="./Data/Resource/Image/Map/DungeonBanner/02020098.png" link="DungeonRoomDialog" sorting="299916" feature="Kritias_Inferno01" locale="" />
+	<contents id="281" minLevel="70" maxLevel="80" type="dungeon" code="24096001" img="./Data/Resource/Image/Map/DungeonBanner/83000002.png" link="DungeonRoomDialog" sorting="299917" feature="Colosseum01" locale="" />
 	<contents id="297" minLevel="99" maxLevel="99" type="common" code="" img="./Data/Resource/Image/recommendContents/dailyquest.png" link="" feature="" locale="" />
 	<contents id="298" minLevel="99" maxLevel="99" type="common" code="02000023" img="./Data/Resource/Image/recommendContents/bluestar.png" link="WorldMapDialog" feature="Season3" locale="" />
 	<contents id="299" minLevel="99" maxLevel="99" type="common" code="02000023" img="./Data/Resource/Image/recommendContents/redstar.png" link="WorldMapDialog" feature="Season3" locale="" />

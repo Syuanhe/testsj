@@ -1476,8 +1476,17 @@
 	<key id="10002117" name="" feature="LapentaDungeon" />
 	<key id="10002118" name="" feature="LapentaDungeon" />
 	<key id="10002119" name="" locale="NA" />
+	<key id="10002119" name="" locale="JP" />
+	<key id="10002119" name="" locale="TH" />
+	<key id="10002119" name="" locale="TW" />
 	<key id="10002120" name="" locale="NA" />
+	<key id="10002120" name="" locale="JP" />
+	<key id="10002120" name="" locale="TH" />
+	<key id="10002120" name="" locale="TW" />
 	<key id="10002121" name="" locale="NA" />
+	<key id="10002121" name="" locale="JP" />
+	<key id="10002121" name="" locale="TH" />
+	<key id="10002121" name="" locale="TW" />
 	<key id="10002122" name="" feature="LapentaDungeon" />
 	<key id="10002123" name="" feature="LapentaDungeon" />
 	<key id="10002124" name="" feature="LapentaDungeon" />
@@ -1599,6 +1608,9 @@
 	<key id="11000094" name="" />
 	<key id="11000095" name="" />
 	<key id="11000096" name="" locale="NA" />
+	<key id="11000096" name="" locale="JP" />
+	<key id="11000096" name="" locale="TH" />
+	<key id="11000096" name="" locale="TW" />
 	<key id="11000097" name="" feature="Kritias_2018_12" />
 	<key id="11000098" name="" feature="Kritias_2018_12" />
 	<key id="11000099" name="" feature="Kritias_2018_12" />
@@ -1612,10 +1624,16 @@
 	<key id="11000107" name="" feature="Kritias_2018_12" />
 	<key id="11000108" name="" feature="Kritias_2018_12" />
 	<key id="11000109" name="" locale="NA" />
+	<key id="11000109" name="" locale="JP" />
+	<key id="11000109" name="" locale="TH" />
+	<key id="11000109" name="" locale="TW" />
 	<key id="11000110" name="" />
 	<key id="11000111" name="" />
 	<key id="11000112" name="" />
 	<key id="11000113" name="" feature="Event" locale="NA" />
+	<key id="11000113" name="" feature="Event" locale="JP" />
+	<key id="11000113" name="" feature="Event" locale="TH" />
+	<key id="11000113" name="" feature="Event" locale="TW" />
 	<key id="11100001" name="" />
 	<key id="11100002" name="" />
 	<key id="11100003" name="" />
@@ -3275,6 +3293,9 @@
 	<key id="31000013" name="" />
 	<key id="31000014" name="" />
 	<key id="31000015" name="" locale="NA" />
+	<key id="31000015" name="" locale="JP" />
+	<key id="31000015" name="" locale="TH" />
+	<key id="31000015" name="" locale="TW" />
 	<key id="32000000" name="" />
 	<key id="32000001" name="" />
 	<key id="32000002" name="" />

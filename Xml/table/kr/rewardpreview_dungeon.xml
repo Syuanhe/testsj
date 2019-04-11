@@ -6632,5 +6632,16 @@
 		<item itemID="61120145" grade="4" feature="Pet_70Lv_Boss" />
 		<item itemID="61100145" grade="3" feature="Pet_70Lv_Boss" />
 	</preview>
-	<preview id="" />
+	<preview id="24096001">
+		<item itemID="20302445" grade="5" />
+		<item itemID="20302446" grade="5" />
+		<item itemID="20302447" grade="5" />
+		<item itemID="20302448" grade="5" />
+		<item itemID="20302449" grade="5" />
+		<item itemID="20302450" grade="5" />
+		<item itemID="20302451" grade="5" />
+		<item itemID="20302452" grade="5" />
+		<item itemID="20302453" grade="5" />
+		<item itemID="20302454" grade="5" />
+	</preview>
 </ms2>

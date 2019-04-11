@@ -550,15 +550,17 @@
 		</tab>
 	</category>
 	<category id="43">
-		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="1">
-			<tab name="2031" category="SKIN" priority="1" static="0" />
-			<tab name="1011" category="EventBadge" priority="2" static="0" />
-			<tab name="1009" category="Ride" priority="3" static="0" />
-			<tab name="1006" category="EventHouse" priority="4" static="0" />
-			<tab name="2079" category="Instrument" priority="5" static="0" />
-			<tab name="1013" category="Coupon" priority="6" static="0" />
-			<tab name="2015" category="PS" priority="7" static="0" />
-			<tab name="3038" category="ETC" priority="8" />
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="1015" category="NEW" priority="1" static="0" />
+			<tab name="1009" category="Ride" priority="2" static="0" />
+			<tab name="2031" category="SKIN" priority="3" static="0" />
+			<tab name="1017" category="Emoticon" priority="4" static="0" />
+			<tab name="1011" category="EventBadge" priority="5" static="0" />
+			<tab name="2080" category="MusicSheet" priority="6" static="0" />
+			<tab name="3038" category="ETC" priority="7" />
+			<tab name="1006" category="EventHouse" priority="8" static="0" />
+			<tab name="1013" category="Coupon" priority="9" static="0" />
+			<tab name="2015" category="PS" priority="10" static="0" />
 		</tab>
 	</category>
 	<category id="44">

@@ -117,7 +117,7 @@
     <state name="1단계_시작03">
     <onEnter>
         <action name="이벤트UI를설정한다" arg1="0" arg2="1,4" />
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02000334_BF__MAIN__2$" arg3="1,5" />
+		<action name="ShowCountUI" text="$02000334_BF__MAIN__2$" stage="1" count="5"  />
 
 		<action name="타이머를설정한다" arg1="4" arg2="4" />
 	</onEnter>	
@@ -197,7 +197,7 @@
 		<action name="대화를설정한다" arg1="1" arg2="199" arg3="$02000334_BF__MAIN__8$" arg4="3" />  <!-- 오스칼 대사 -->
 		<action name="메쉬를설정한다" arg1="6000-6016" arg2="0" arg4="250" arg5="1" /> <!-- 가림막 해제 -->	
         <action name="이벤트UI를설정한다" arg1="0" arg2="2,4" />
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02000334_BF__MAIN__2$" arg3="2,5" />
+		<action name="ShowCountUI" text="$02000334_BF__MAIN__2$" stage="2" count="5"  />
 		<action name="타이머를설정한다" arg1="6" arg2="6" />
 	</onEnter>	
 		<condition name="시간이경과했으면" arg1="6">
@@ -256,7 +256,7 @@
     <onEnter>
 		<action name="몬스터를생성한다" arg1="206,207" arg2="1" /> <!-- 성벽 지키는 NPC 리필 -->
         <action name="이벤트UI를설정한다" arg1="0" arg2="3,4" />
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02000334_BF__MAIN__2$" arg3="3,5" />
+		<action name="ShowCountUI" text="$02000334_BF__MAIN__2$" stage="3" count="5"  />
 		<action name="타이머를설정한다" arg1="6" arg2="6" />
 	</onEnter>	
 		<condition name="시간이경과했으면" arg1="6">
@@ -325,7 +325,7 @@
 		<action name="몬스터소멸시킨다" arg1="101,102,103,104,105,106,107,108,111,112,113,114,115,131,132,133,134,135,150,151,152,991,992,993,994,995,996,997,998"/>
 		<action name="NPC를이동시킨다" arg1="190" arg2="MS2PatrolData_2999" /> <!-- 보스 등장 -->
         <action name="이벤트UI를설정한다" arg1="0" arg2="4,4" />
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02000334_BF__MAIN__2$" arg3="4,5" />
+		<action name="ShowCountUI" text="$02000334_BF__MAIN__2$" stage="4" count="5"  />
 		<action name="타이머를설정한다" arg1="6" arg2="6" />
 		<action name="대화를설정한다" arg1="1" arg2="190" arg3="$02000334_BF__WAVE__2$" arg4="3" />  <!-- 보스 대사 -->
 	</onEnter>		

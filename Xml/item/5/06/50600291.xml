@@ -22,7 +22,7 @@
 		<effect enchantShape="1" idle="" battleIdle="" characterIdle="" characterBattleIdle="" />
 		<fusion fusionable="0" />
 		<cutting />
-		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="Data/Resource/Model/Npc/Etc/50600260_UGC_MoonCart.nif" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
+		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="Data/Resource/Model/Npc/Etc/50600291_R_train.nif" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />
 		<material ui="1" attack="0" />
 		<property skin="0" slotMax="1" slotIcon="./Data/Resource/Image/item/icon/50600291.png" slotIconCustom="icon0.png" type="9" subtype="12" itemGroup="3" category="Ride" blackMarketCategory="14" remakeDisable="false" iconCode="14" representOption="0" movie="" xmlData="" presetPath="" reference="0" gearScore="0" tradableCount="0" rePackingLimitCount="0" rePackingItemConsumeCount="0" collection="0" doNotPreview="0" doNotSkipRender="0">
 			<sell price="0,0,0,0,0,0" priceCustom="0,0,0,0,0,0" />
@@ -37,7 +37,7 @@
 		<function name="" parameter="" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
 		<tool itemPreset="empty" itemPresetPath="" />
-		<option title="0" static="0" random="0" constant="3" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
+		<option title="0" static="0" random="0" constant="4" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />

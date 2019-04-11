@@ -229,14 +229,14 @@
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_happy.dds" control="" delay="2500" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Nice.xml" />
+    
   </emotion>
   <!-- 안녕 -->    
   <emotion type="1" name="Hello">
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_smile.dds" control="" delay="2400" />
     </textureani>
-       <effect file="CH/Emotion/Eff_Male_Nice.xml" />
+       
   </emotion>
   <!-- 떼쓰기 -->  
   <emotion type="1" name="Fuss">
@@ -250,7 +250,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_sneaky.dds" control="" delay="3400" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Smile.xml" />
+    
   </emotion>
   <!-- 흠 -->     
   <emotion type="1" name="Troubled">
@@ -258,7 +258,7 @@
       <texture file="Item_Face/FC_face_indifferent01.dds" control="" delay="300" loop="true" />
       <texture file="Item_Face/FC_face_indifferent02.dds" control="" delay="300" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Troubled.xml" />
+    
   </emotion>
   <!-- 흥 -->  
   <emotion type="1" name="Chinchin">
@@ -321,14 +321,14 @@
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_sneaky2.dds" control="" delay="2600" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Sneaky.xml" />
+    
   </emotion>
   <!-- 꽃받침하기-->
   <emotion type="1" name="Rest">
       <textureani target="FA:1">
      <texture file="Item_Face/FC_face_expect.dds" control="" delay="2133" loop="true" />
     </textureani>
-        <effect file="CH/Emotion/Eff_Male_Haha.xml" />
+        
   </emotion>  
   <!-- 실망하기 -->
   <emotion type="1" name="Disappoint">
@@ -382,7 +382,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/FC_face_happy.dds" control="" delay="1933" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Change_Hair.xml" />
+    
   </emotion>
 
   <emotion type="1" name="equipChangeMantle">
@@ -406,7 +406,7 @@
      <textureani target="FA:1">
       <texture file="Item_Face/FC_face_panic.dds" control="" delay="1133" loop="true" />
     </textureani>
-      <effect file="CH/Emotion/Eff_Male_Facedown.xml" />
+      
   </emotion>
 
   <!-- 잠자기 -->

@@ -3,20 +3,62 @@
 <ms2>
 	<state name="대기"> 
 		<onEnter>
-			<action name="오브젝트반응설정한다" arg1="12000084" arg2="2" />
+			<action name="SetUserValue" triggerID="99990002" key="Team1Battle" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="Team2Battle" value="0" />
 		</onEnter>
-		<condition name="유저를감지했으면" arg1="901" >
-			<transition state="시작" />		
+		<condition name="CountUsers" arg1="9001" arg2="2" arg3="Equal">
+			<transition state="세팅" />		
 		</condition>		
+	</state>
+
+	<state name="세팅"> 
+		<onEnter>
+			<action name="MoveRandomUserToPortal" targetPortal="2" triggerBoxID="9001" count="1" />
+			<action name="이벤트UI를설정한다" arg1="1" arg2="잠시 후 경기가 시작됩니다." arg3="3000" />
+		</onEnter>
+		<condition name="WaitTick" waitTick="3000" >
+			<transition state="시작" />		
+		</condition>
 	</state>
 
 	<state name="시작"> 
 		<onEnter>
-			<action name="오브젝트반응설정한다" arg1="12000084" arg2="1" />
+			<action name="이벤트UI를설정한다" arg1="1" arg2="경기 시작!" arg3="3000" />
+			<action name="SetUserValue" triggerID="99990002" key="Team1Battle" value="1" />
+			<action name="SetUserValue" triggerID="99990003" key="Team2Battle" value="1" />
 		</onEnter>
-		<condition name="오브젝트가반응했으면" arg1="12000084" arg2="0" >
-			<transition state="시작"/>
+		<condition name="UserValue" key="Team1Win" value="1" >
+			<transition state="1팀승리" />		
 		</condition>
+		<condition name="UserValue" key="Team2Win" value="1" >
+			<transition state="2팀승리" />		
+		</condition>
+		<condition name="PVP존이종료했으면" arg1="9001" >
+			<transition state="타임업" />
+		</condition>
+	</state>
+
+	<state name="1팀승리">
+		<onEnter>
+			<action name="이벤트UI를설정한다" arg1="1" arg2="1팀이 승리했습니다." />
+			<action name="SetUserValue" triggerID="99990002" key="Team1Battle" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="Team2Battle" value="0" />
+		</onEnter>
+	</state>
+
+	<state name="2팀승리">
+		<onEnter>
+			<action name="이벤트UI를설정한다" arg1="1" arg2="2팀이 승리했습니다." />
+			<action name="SetUserValue" triggerID="99990002" key="Team1Battle" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="Team2Battle" value="0" />
+		</onEnter>
+	</state>
+
+	<state name="타임업">
+		<onEnter>
+			<action name="SetUserValue" triggerID="99990002" key="Team1Battle" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="Team2Battle" value="0" />
+		</onEnter>
 	</state>
 	
 </ms2>

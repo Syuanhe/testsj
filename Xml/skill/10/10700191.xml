@@ -3,12 +3,12 @@
 <ms2 feature="">
 	<basic feature="JobChange_02">
 		<ui icon="./Data/Resource/Image/skill/icon/10700191.png" movie="" exceptUI="0" attackType="0" />
-		<kinds type="0" subType="0" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="1" weaponDependency="0" unrideOnUse="0" releaseObjectWeapon="1" releaseStunState="0" />
+		<kinds type="0" subType="2" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="1" weaponDependency="0" unrideOnUse="0" releaseObjectWeapon="1" releaseStunState="0" />
 		<stateAttr battle="0" speedRank="0" superArmor="0" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="0" ignoreReduceCooldown="0" />
 	</basic>
 	<basic feature="JobChange_01">
 		<ui icon="./Data/Resource/Image/skill/icon/10700191.png" movie="" exceptUI="0" attackType="0" />
-		<kinds type="1" subType="0" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="0" releaseObjectWeapon="1" releaseStunState="0" />
+		<kinds type="1" subType="2" rangeType="0" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="0" releaseObjectWeapon="1" releaseStunState="0" />
 		<stateAttr battle="0" speedRank="0" superArmor="0" autoTargeting="1" autoTargetingType="0" moveType="0" notKeepEffect="0" keyIsDown="0" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="0" clearCooldownFromPVPZone="0" ignoreReduceCooldown="1" />
 	</basic>
 	<level value="1" feature="JobChange_02">

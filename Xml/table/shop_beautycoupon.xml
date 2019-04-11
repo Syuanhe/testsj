@@ -243,6 +243,18 @@
 	<shop shopID="696" byItem="1">
 		<item id="10200164" />
 	</shop>
+	<shop shopID="697" byItem="1">
+		<item id="10200131" />
+	</shop>
+	<shop shopID="698" byItem="1">
+		<item id="10200136" />
+	</shop>
+	<shop shopID="699" byItem="1">
+		<item id="10200135" />
+	</shop>
+	<shop shopID="700" byItem="1">
+		<item id="10200207" />
+	</shop>
 	<shop shopID="900" byItem="1">
 		<item id="10400192" locale="NA" />
 	</shop>

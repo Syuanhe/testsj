@@ -3111,42 +3111,18 @@
 	<key id="11004060" />
 	<key id="11004061" />
 	<key id="11004062" />
-	<key id="11004063" />
-	<key id="11004064" />
-	<key id="11004065" />
-	<key id="11004066" />
-	<key id="11004067" />
-	<key id="11004068" />
-	<key id="11004069" name="사랑에 빠진" />
-	<key id="11004070" />
-	<key id="11004071" />
-	<key id="11004072" />
-	<key id="11004073" />
-	<key id="11004074" />
-	<key id="11004075" />
-	<key id="11004076" />
-	<key id="11004077" />
-	<key id="11004078" />
-	<key id="11004079" name="심심한" />
-	<key id="11004080" />
-	<key id="11004081" />
-	<key id="11004082" />
-	<key id="11004083" name="용암 연구원" />
-	<key id="11004084" />
-	<key id="11004085" />
-	<key id="11004086" />
-	<key id="11004087" />
-	<key id="11004088" />
-	<key id="11004089" />
-	<key id="11004090" />
-	<key id="11004091" />
-	<key id="11004092" />
-	<key id="11004093" />
-	<key id="11004094" />
-	<key id="11004095" />
-	<key id="11004096" />
-	<key id="11004097" />
-	<key id="11004098" />
+	<key id="11004069" name="사랑에 빠진" locale="NA" />
+	<key id="11004069" name="사랑에 빠진" locale="JP" />
+	<key id="11004069" name="사랑에 빠진" locale="TH" />
+	<key id="11004069" name="사랑에 빠진" locale="TW" />
+	<key id="11004079" name="심심한" locale="NA" />
+	<key id="11004079" name="심심한" locale="JP" />
+	<key id="11004079" name="심심한" locale="TH" />
+	<key id="11004079" name="심심한" locale="TW" />
+	<key id="11004083" name="용암 연구원" locale="NA" />
+	<key id="11004083" name="용암 연구원" locale="JP" />
+	<key id="11004083" name="용암 연구원" locale="TH" />
+	<key id="11004083" name="용암 연구원" locale="TW" />
 	<key id="11004099" name="사랑에 빠진" />
 	<key id="11004100" name="사랑에 빠진" />
 	<key id="11004101" name="사랑스런" />
@@ -3262,13 +3238,37 @@
 	<key id="11004231" />
 	<key id="11004243" />
 	<key id="11004252" name="관찰자" locale="NA" />
+	<key id="11004252" name="관찰자" locale="JP" />
+	<key id="11004252" name="관찰자" locale="TH" />
+	<key id="11004252" name="관찰자" locale="TW" />
 	<key id="11004253" name="루미나 해방군" locale="NA" />
+	<key id="11004253" name="루미나 해방군" locale="JP" />
+	<key id="11004253" name="루미나 해방군" locale="TH" />
+	<key id="11004253" name="루미나 해방군" locale="TW" />
 	<key id="11004258" name="연구원" locale="NA" />
+	<key id="11004258" name="연구원" locale="JP" />
+	<key id="11004258" name="연구원" locale="TH" />
+	<key id="11004258" name="연구원" locale="TW" />
 	<key id="11004265" name="DJ" locale="NA" feature="KarkarIsland" />
+	<key id="11004265" name="DJ" locale="JP" feature="KarkarIsland" />
+	<key id="11004265" name="DJ" locale="TH" feature="KarkarIsland" />
+	<key id="11004265" name="DJ" locale="TW" feature="KarkarIsland" />
 	<key id="11004266" name="뮤지션" locale="NA" feature="KarkarIsland" />
+	<key id="11004266" name="뮤지션" locale="JP" feature="KarkarIsland" />
+	<key id="11004266" name="뮤지션" locale="TH" feature="KarkarIsland" />
+	<key id="11004266" name="뮤지션" locale="TW" feature="KarkarIsland" />
 	<key id="11004267" name="레이싱 걸" locale="NA" feature="KarkarIsland" />
+	<key id="11004267" name="레이싱 걸" locale="JP" feature="KarkarIsland" />
+	<key id="11004267" name="레이싱 걸" locale="TH" feature="KarkarIsland" />
+	<key id="11004267" name="레이싱 걸" locale="TW" feature="KarkarIsland" />
 	<key id="11004270" name="연구소장" locale="NA" feature="KarkarIsland" />
+	<key id="11004270" name="연구소장" locale="JP" feature="KarkarIsland" />
+	<key id="11004270" name="연구소장" locale="TH" feature="KarkarIsland" />
+	<key id="11004270" name="연구소장" locale="TW" feature="KarkarIsland" />
 	<key id="11004274" name="행복한" locale="NA" feature="KarkarIsland" />
+	<key id="11004274" name="행복한" locale="JP" feature="KarkarIsland" />
+	<key id="11004274" name="행복한" locale="TH" feature="KarkarIsland" />
+	<key id="11004274" name="행복한" locale="TW" feature="KarkarIsland" />
 	<key id="11004289" name="마드모아젤" feature="Season1" />
 	<key id="11004290" name="지배인" feature="Season1" />
 	<key id="11004291" name="벨보이" feature="Season1" />
@@ -3356,25 +3356,27 @@
 	<key id="11004514" />
 	<key id="11004515" />
 	<key id="11004516" />
-	<key id="11004527" name="생태 연구원" />
-	<key id="11004528" name="생태 연구원" />
-	<key id="11004529" name="생태 연구원" />
-	<key id="11004530" name="그린후드 요원" />
+	<key id="11004527" name="생태 연구원" feature="Kritias_2018_12" />
+	<key id="11004528" name="생태 연구원" feature="Kritias_2018_12" />
+	<key id="11004529" name="생태 연구원" feature="Kritias_2018_12" />
+	<key id="11004530" name="그린후드 요원" feature="Kritias_2018_12" />
 	<key id="11004535" />
 	<key id="11004536" />
 	<key id="11004537" />
 	<key id="11004538" />
 	<key id="11004539" />
 	<key id="11004540" />
-	<key id="11004541" name="스카이 포트리스 연구팀" />
-	<key id="11004542" name="스카이 포트리스 연구팀" />
-	<key id="11004543" name="스카이 포트리스 연구팀" />
+	<key id="11004541" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
+	<key id="11004542" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
+	<key id="11004543" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
 	<key id="11004545" />
 	<key id="11004546" />
 	<key id="11004547" />
 	<key id="11004552" name="이벤트 도우미" />
 	<key id="11004553" />
 	<key id="11004554" />
+	<key id="11004557" name="핑크핑크" />
+	<key id="11004558" />
 	<key id="11400001" />
 	<key id="11400002" />
 	<key id="11200000" name="닥터" />

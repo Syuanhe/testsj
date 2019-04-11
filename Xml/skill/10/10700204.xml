@@ -3,7 +3,7 @@
 <ms2 feature="">
 	<basic feature="JobChange_01">
 		<ui icon="./Data/Resource/Image/skill/icon/10700203.png" movie="" exceptUI="1" attackType="1" />
-		<kinds type="0" subType="1" rangeType="1" jump="10700204" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
+		<kinds type="0" subType="2" rangeType="1" jump="10700204" continue="0" spRecoverySkill="0" element="0" offsetNameTag="0" immediateActive="0" weaponDependency="0" unrideOnUse="1" releaseObjectWeapon="1" releaseStunState="0" />
 		<stateAttr battle="1" speedRank="0" superArmor="0" autoTargeting="1" autoTargetingType="1" moveType="0" notKeepEffect="0" keyIsDown="1" useDefaultSkill="0" useInGameTime="0" cooldownGroupID="10700200" clearCooldownFromPVPZone="1" ignoreReduceCooldown="0" />
 	</basic>
 	<level value="1" feature="JobChange_01">

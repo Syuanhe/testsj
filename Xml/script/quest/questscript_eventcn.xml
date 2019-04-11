@@ -2484,4 +2484,139 @@
 			<content text="$script:0116133817004293$" />
 		</script>
 	</quest>
+	<quest id="80010320">
+		<script id="100" feature="Event" locale="CN">
+			<content text="$script:0208171317004294$" />
+			<content text="$script:0208171317004295$" />
+			<content text="$script:0208171317004296$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0208171317004297$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content text="$script:0208171317004298$" />
+		</script>
+	</quest>
+	<quest id="80010330">
+		<script id="100" feature="Event" locale="CN">
+			<content text="$script:0208171317004299$" />
+			<content text="$script:0208171317004300$" />
+			<content text="$script:0208171317004301$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0208171317004302$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content text="$script:0208171317004303$" />
+		</script>
+	</quest>
+	<quest id="80010340">
+		<script id="100" feature="Event" locale="CN">
+			<content text="$script:0208171317004304$" />
+			<content text="$script:0208171317004305$" />
+			<content text="$script:0208171317004306$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0208171317004307$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content text="$script:0208171317004308$" />
+		</script>
+	</quest>
+	<quest id="80010341">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004309$" />
+			<content text="$script:0219092217004310$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004311$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004312$" />
+		</script>
+	</quest>
+	<quest id="80010342">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004313$" />
+			<content text="$script:0219092217004314$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004315$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004316$" />
+		</script>
+	</quest>
+	<quest id="80010343">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004317$" />
+			<content text="$script:0219092217004318$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004319$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004320$" />
+		</script>
+	</quest>
+	<quest id="80010344">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004321$" />
+			<content text="$script:0219092217004322$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004323$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004324$" />
+		</script>
+	</quest>
+	<quest id="80010345">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004325$" />
+			<content text="$script:0219092217004326$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004327$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004328$" />
+		</script>
+	</quest>
+	<quest id="80010346">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004329$" />
+			<content text="$script:0219092217004330$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004331$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004332$" />
+		</script>
+	</quest>
+	<quest id="80010347">
+		<script id="100" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000947" text="$script:0219092217004333$" />
+			<content text="$script:0219092217004334$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0219092217004335$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content voiceID="ko/Npc/02000943" text="$script:0219092217004336$" />
+		</script>
+	</quest>
+	<quest id="80010350">
+		<script id="100" feature="Event" locale="CN">
+			<content text="$script:0307110317004337$" />
+			<content text="$script:0307110317004338$" />
+		</script>
+		<script id="200" feature="Event" locale="CN">
+			<content text="$script:0307110317004339$" />
+		</script>
+		<script id="300" feature="Event" locale="CN">
+			<content text="$script:0307110317004340$" />
+		</script>
+	</quest>
 </ms2>

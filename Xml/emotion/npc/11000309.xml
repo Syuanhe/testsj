@@ -93,7 +93,7 @@
       <texture file="Item_Face/MC_face_indifferent01.dds" control="" delay="300" loop="true" />
       <texture file="Item_Face/MC_face_indifferent02.dds" control="" delay="300" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Troubled.xml" />
+    
   </emotion>
 
   <!-- 엉큼하게 바라보기(F4) -->
@@ -101,7 +101,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_sneaky.dds" control="" delay="3133" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Smile.xml" />
+    
   </emotion>
 
   <!-- 실망하기(F5) -->
@@ -118,7 +118,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_happy.dds" control="" delay="2533" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Nice.xml" />
+    
   </emotion>
 
   <!-- 모른척하기(F7) -->
@@ -133,7 +133,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_smile.dds" control="" delay="2667" loop="true" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Smile.xml" />
+    
   </emotion>
 
   <!-- 좌절하기(F9) -->
@@ -149,7 +149,7 @@
       <textureani target="FA:1">
      <texture file="Item_Face/MC_face_expect.dds" control="" delay="2667" loop="true" />
     </textureani>
-        <effect file="CH/Emotion/Eff_Male_Haha.xml" />
+        
   </emotion>
 
   <!-- 떼쓰기(F11) -->
@@ -165,7 +165,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_smile.dds" control="" delay="2267" />
     </textureani>
-       <effect file="CH/Emotion/Eff_Male_Nice.xml" />
+       
   </emotion>
 
 <!-- 신규 웃기 -->
@@ -173,7 +173,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_sneaky2.dds" control="" delay="2267" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Sneaky.xml" />
+    
   </emotion>
 
 <!-- 신규 춤추기 -->
@@ -200,7 +200,7 @@
      <textureani target="FA:1">
       <texture file="Item_Face/MC_face_panic.dds" control="" delay="3667" loop="true" />
     </textureani>
-      <effect file="CH/Emotion/Eff_Male_Facedown.xml" />
+      
   </emotion>
 
   <!-- 신규 잠자기 -->
@@ -411,7 +411,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_happy.dds" control="" delay="2267" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Change_Hair.xml" />
+    
   </emotion>
 
   <emotion type="1" name="equipChangeMantle">

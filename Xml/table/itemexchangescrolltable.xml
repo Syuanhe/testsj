@@ -6815,7 +6815,7 @@
 		<receipe id="36000448" rank="5" count="16" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="20302312" rank="5" count="1" />
-		<require meso="5000000" />
+		<require meso="2500000" />
 	</exchange>
 	<exchange id="36000449" type="exchange">
 		<receipe id="36000449" rank="3" count="100" />
@@ -6953,6 +6953,12 @@
 		<receipe id="36000471" rank="3" count="50" />
 		<requireEquip id="" rank="" count="" />
 		<exchange id="42000991" rank="3" count="1" />
+		<require meso="1000" />
+	</exchange>
+	<exchange id="36000472" type="exchange" locale="NA">
+		<receipe id="36000472" rank="1" count="100" />
+		<requireEquip id="" rank="" count="" />
+		<exchange id="20302422" rank="1" count="1" />
 		<require meso="1000" />
 	</exchange>
 </ms2>

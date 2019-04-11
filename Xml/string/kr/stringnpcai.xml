@@ -108,7 +108,7 @@
 	<key id="Balrog_FinalBroken01" name="우워워어!! 모든걸 부셔버리겠다!!" />
 	<key id="Balrog_FinalBroken02" name="이제 도망갈곳은 없다. 이곳이 너의 무덤이다" />
 	<key id="Balrog_CannonBroken01" name="저 대포가 거슬려....." feature="Kritias_Balrog01" />
-	<key id="Balrog_CannonBroken02" name="정말 귀찮은 장남감이군" feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken02" name="정말 귀찮은 장난감이군" feature="Kritias_Balrog01" />
 	<key id="Balrog_CannonBroken03" name="모든 것을 부셔버리겠다!!" feature="Kritias_Balrog01" />
 	<key id="Balrog_Kritias_Dead" name="새로운 힘이 코 앞이었는데...!!" feature="Kritias_Balrog01" />
 	<key id="Balrog_Test01" name="삼각 큐브 체크_test" />
@@ -404,4 +404,21 @@
 	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS3__1" name="헛수작 부리지 못하게 해주마." feature="Fieldwar02" />
 	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS4__0" name="이건 어떠냐!" feature="Fieldwar02" />
 	<key id="LEGIONBATTLE__AI_LEGION_FINALBOSS4__1" name="파리같은 놈들..." feature="Fieldwar02" />
+	<key id="COLOSSEUM__AI_MIKAWADES_COLOSSEUM__0" name="뭐야? 제법이잖아!?" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_MIKAWADES_COLOSSEUM__1" name="생각보다 끈질긴데?" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_MIKAWADES_COLOSSEUM__2" name="아직 안심하긴 이르다구!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_MIKAWADES_COLOSSEUM__3" name="여유 부리다간 큰코다칠걸?" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_MIKAWADES_COLOSSEUM__4" name="헉헉...너무해!!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS2_COLOSSEUM__0" name="꽤 제법이군. 하지만 여유부릴 때는 지났어." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS2_COLOSSEUM__1" name="그렇다면 이번엔 이렇게 해볼까." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS2_COLOSSEUM__2" name="과연 이것도 막을 수 있을까!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS_COLOSSEUM__0" name="신기한 걸 보여주지." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS_COLOSSEUM__1" name="이번엔 조금 다를 것이다." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS_COLOSSEUM__2" name="조금 아플거다." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_PATOS_COLOSSEUM__3" name="그 정도론 날 막을 수 없어!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_ROVE_COLOSSEUM__0" name="제법이군. 그럼 이건 어떨까!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_ROVE_COLOSSEUM__1" name="정신 없게 만들어 주지." feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_VASARACHEN_COLOSSEUM__0" name="제법이군. 이건 어떨지 볼까!" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_VASARACHEN_COLOSSEUM__1" name="이걸 막을 수 있을지 궁금해지는걸?" feature="Colosseum01" />
+	<key id="COLOSSEUM__AI_VASARACHEN_COLOSSEUM__2" name="생각보다 꽤 하는군. 하지만 이번엔 다르다." feature="Colosseum01" />
 </ms2>

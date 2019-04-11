@@ -399,4 +399,14 @@
 	<systemSound key="System_Mokum_Message_01" group="MS2Sound/Sound/system" soundID="02100312" />
 	<systemSound key="System_Matching_Popup_01" group="MS2Sound/Sound/system" soundID="02100313" />
 	<systemSound key="System_PartyReady_Popup_01" group="MS2Sound/Sound/system" soundID="02100076" />
+	<systemSound key="System_Mission_Right_01" group="MS2Sound/Sound/system" soundID="02100315" />
+	<systemSound key="System_Mission_Wrong_01" group="MS2Sound/Sound/system" soundID="02100316" />
+	<systemSound key="System_PinkBeans_Arcade_Start_01" group="MS2Sound/Sound/system" soundID="02100322" />
+	<systemSound key="System_PinkBeans_Arcade_GetReadyGo_01" group="MS2Sound/Sound/system" soundID="02100323" />
+	<systemSound key="System_PinkBeans_Arcade_ArrowPopup_01" group="MS2Sound/Sound/system" soundID="02100324" />
+	<systemSound key="System_PinkBeans_Arcade_Click_01" group="MS2Sound/Sound/system" soundID="02100325" />
+	<systemSound key="System_PinkBeans_Arcade_Turning_01" group="MS2Sound/Sound/system" soundID="02100326" />
+	<systemSound key="System_PinkBeans_Arcade_Correct_01" group="MS2Sound/Sound/system" soundID="02100327" />
+	<systemSound key="System_PinkBeans_Arcade_Wrong_01" group="MS2Sound/Sound/system" soundID="02100328" />
+	<systemSound key="System_PinkBeans_Arcade_Result_01" group="MS2Sound/Sound/system" soundID="02100329" />
 </ms2>

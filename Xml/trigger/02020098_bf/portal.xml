@@ -10,6 +10,10 @@
         <action name="포탈을설정한다" arg1="5" arg2="0" arg3="0" arg4="0"/>   <!--2페이지 5시 전투판에 있는 던전 나가기 포탈 최초에 감추기 -->			
         <action name="포탈을설정한다" arg1="6" arg2="0" arg3="0" arg4="0"/>   <!--2페이지 12시 전투판에 있는 던전 나가기 포탈 최초에 감추기 -->			
         <action name="포탈을설정한다" arg1="7" arg2="0" arg3="0" arg4="0"/>	<!--3페이지 마지막 전투판에 있는 던전 나가기 포탈 최초에 감추기 -->	
+		
+		<action name="SetUserValue" key="BossOnePhaseEnd" value="0" />	<!-- 변수 초기화, 보스AI로 부터 이 변수 1 신호를 받으면 이 트리거 작동시켜 1페이지 순간이동 포탈 Off 상태로 만들기 -->		
+  		<action name="포탈을설정한다" arg1="40" arg2="1" arg3="1" arg4="1"/>	<!-- 1페이지의 왼쪽 순간이동 포탈 최초에 On 설정 하기-->	
+  		<action name="포탈을설정한다" arg1="50" arg2="1" arg3="1" arg4="1"/>	<!-- 1페이지의 오른쪽 순간이동 포탈 최초에 On 설정 하기-->			
     </onEnter>
 		<condition name="유저를감지했으면" arg1="10"> <!--   MS2TriggerBox   TriggerObjectID = 10, 이 트리거 박스 안에 플레이어가 한명이라도 체크 되면        10은 스타팅 포인트 지점만 커버하는 비교적 좁은 범위-->
 			<transition state="포탈체크시작"/>
@@ -28,6 +32,13 @@
 		<onEnter>
 			
 		</onEnter>
+		
+			<!-- 인페르녹 보스가 1페이지 전투 끝나면 BossOnePhaseEnd =  1, 신호를 보내서 트리거 작동 시킴-->
+			<condition name="UserValue" key="BossOnePhaseEnd" value="1">   
+				<transition state="순간이동포탈OFF"/>
+			</condition>			
+		
+		
 			<!-- 인페르녹 보스가 죽으면 BossDead =  1, 신호를 보내서 전투 끝났음을 알림-->
 			<condition name="UserValue" key="BossDead" value="1">   
 				<transition state="나가기포탈생성잠시대기"/>
@@ -38,6 +49,18 @@
 
 	</state>  	
 
+	
+	<state name="순간이동포탈OFF">
+		<onEnter>
+  			<action name="포탈을설정한다" arg1="40" arg2="0" arg3="0" arg4="0"/>	<!-- 1페이지의 왼쪽 순간이동 포탈 Off 설정 하기-->	
+  			<action name="포탈을설정한다" arg1="50" arg2="0" arg3="0" arg4="0"/>	<!-- 1페이지의 오른쪽 순간이동 포탈 Off 설정 하기-->	
+			<action name="SetUserValue" key="BossOnePhaseEnd" value="0" />	<!-- 변수 초기화, 이거 안하면 무한루프에 빠짐 -->		
+		</onEnter>
+			<condition name="WaitTick" waitTick="1000" > 
+				<transition state="포탈체크대기중" /> <!-- 다시 이전 단계로 돌아가기 -->	
+			</condition>		
+	</state>        	
+	
 	
     <state name="나가기포탈생성잠시대기">
 		<condition name="WaitTick" waitTick="9500" >  <!-- 던전 클리어 연출 뜨기 전에 나가기 포탈로 나가면 혹시 모를 버그가 나올 수 있어서 10여초 정도 잠시 딜레이 함-->

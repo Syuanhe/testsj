@@ -12642,4 +12642,108 @@
 	<key id="0510165107009912" feature="" locale="" npc="레인보우 슬라임" name="아~ 맛있어!" />
 	<key id="0510165107009913" feature="" locale="" npc="레인보우 슬라임" name="내가 좋아하는 무지개 맛이구나! 고마워~" />
 	<key id="0510165107009914" feature="" locale="" npc="레인보우 슬라임" name="맛있는 걸 먹는 건 역시 행복해~" />
+	<key id="0218154407014479" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블의 진행자! MC나기입니다!" />
+	<key id="0218154407014480" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블에 오신 모험가님, 환영해요!&#x0A;벌써 강인한 기개가 느껴지는군요." />
+	<key id="0226180207014575" feature="Colosseum01" locale="" npc="나기" name="그럼, 경기를 시작해볼까요!&#x0A;긴장해주세요!" />
+	<key id="0226181607014578" feature="Colosseum01" locale="" npc="pc" name="(알겠다고 말한다.)" />
+	<key id="0218154407014481" feature="Colosseum01" locale="" npc="나기" name="경기에 앞서.&#x0A;모험가님의 선택은 어떻게 되시나요?!" />
+	<key id="0218154407014482" feature="Colosseum01" locale="" npc="pc" name="새로하기" />
+	<key id="0218154407014483" feature="Colosseum01" locale="" npc="pc" name="이어하기" />
+	<key id="0218154407014484" feature="Colosseum01" locale="" npc="나기" name="새로운 도전이군요!&#x0A;행운이 모험가님께 가득하기를!&#x0A;그럼~ 시작합니다!" />
+	<key id="0218154407014485" feature="Colosseum01" locale="" npc="나기" name="어라라? 이미 모든 선수를 쓰러뜨리셨었네요?&#x0A;아! 다시 도전하시는 거군요?&#x0A;그렇다면 경기를 처음부터 다시 시작합니다!" />
+	<key id="0226191507014580" feature="Colosseum01" locale="" npc="나기" name="지난번의 투기를 이어 도전하시는군요!&#x0A;다시 불타오르는데요?&#x0A;그럼, 시작합니다!" />
+	<key id="0226191507014581" feature="Colosseum01" locale="" npc="나기" name="첫 도전이시군요!&#x0A;행운을 빌어요. 시작합니다!" />
+	<key id="0304150007014584" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블에 오신 것을 환영합니다!" />
+	<key id="0304150007014585" feature="Colosseum01" locale="" npc="나기" name="대화가 끊기면, 다시 저에게 말을 걸어주세요!" />
+	<key id="0220211107014487" feature="Colosseum01" locale="" npc="민트" name="음음음~" />
+	<key id="0220211107014488" feature="Colosseum01" locale="" npc="민트" name="음음음~" />
+	<key id="0220211107014489" feature="Colosseum01" locale="" npc="민트" name="앗? 안녕하세요!&#x0A;왠지 자주 뵈었던 얼굴인데…?" />
+	<key id="0220211107014490" feature="Colosseum01" locale="" npc="pc" name="(나도 널 많이 봤다고 말한다.)" />
+	<key id="0220211107014491" feature="Colosseum01" locale="" npc="민트" name="흐흥~ 하긴!&#x0A;메이플 월드에 거주하는 분이라면!&#x0A;저, 민트를 모르는 게 이상하죠!" />
+	<key id="0220211107014492" feature="Colosseum01" locale="" npc="민트" name="보아하니…퀸크빈 럼블에 참가하시려는 거죠?&#x0A;실력은 어떠신가요?" />
+	<key id="0220211107014493" feature="Colosseum01" locale="" npc="pc" name="($npcName:11004559[gender:1]$ 정도는 가뿐하다고 말한다.)" />
+	<key id="0220211107014494" feature="Colosseum01" locale="" npc="민트" name="하…! 제가 매일 춤만 추고 있어서 만만하신 모양인데,&#x0A;그러다 큰코다치실걸요?&#x0A;방금 그 말 후회하지 마세요!" />
+	<key id="0307173907014586" feature="Colosseum01" locale="" npc="민트" name="귀염둥이 $npcName:11004559[gender:1]$$pp:를,을$ 얕보지 마세요!" />
+	<key id="0220211107014495" feature="Colosseum01" locale="" npc="로베" name="음." />
+	<key id="0220211107014496" feature="Colosseum01" locale="" npc="로베" name="음? 넌 뭐지?" />
+	<key id="0220211107014497" feature="Colosseum01" locale="" npc="로베" name="처음 보는 얼굴이군.&#x0A;꽤 강해 보이는데 말이야." />
+	<key id="0220211107014498" feature="Colosseum01" locale="" npc="pc" name="(넌 누구냐고 묻는다.)" />
+	<key id="0220211107014499" feature="Colosseum01" locale="" npc="로베" name="나에 대해 묻는건가?&#x0A;…크흠! 나로 말할 것 같으면,&#x0A;트라이아 기사단원을 양성하는 교관. 로베라고 한다." />
+	<key id="0220211107014500" feature="Colosseum01" locale="" npc="로베" name="너와 비슷한 또래의 기사단원들도 많이 배출했지.&#x0A;…갑자기 예전에 가르쳤던 어떤 정의로운 멍청이가 생각나는군." />
+	<key id="0220211107014501" feature="Colosseum01" locale="" npc="로베" name="그럼, 난 이만.&#x0A;퀸크빈 럼블에서 만나지." />
+	<key id="0220211107014502" feature="Colosseum01" locale="" npc="로베" name="!!!" />
+	<key id="0220211107014503" feature="Colosseum01" locale="" npc="로베" name="넌…" />
+	<key id="0220211107014504" feature="Colosseum01" locale="" npc="pc" name="$npcName:11004560[gender:0]$ 교관님…?" />
+	<key id="0220211107014505" feature="Colosseum01" locale="" npc="로베" name="용케 살아있었군.&#x0A;바보 같은 정의감은 안녕한가?&#x0A;여긴 뭐하러 온 거지?" />
+	<key id="0220211107014506" feature="Colosseum01" locale="" npc="pc" name="경기에 관심이 있어서죠." />
+	<key id="0220211107014507" feature="Colosseum01" locale="" npc="로베" name="오랜만의 대련이 되겠군.&#x0A;네 녀석이 얼마나 성장했는지 알 수 있겠어.&#x0A;그럼, 기대하지." />
+	<key id="0220211107014508" feature="Colosseum01" locale="" npc="스타츠" name="이봐, 너." />
+	<key id="0220211107014509" feature="Colosseum01" locale="" npc="스타츠" name="이봐, 너." />
+	<key id="0220211107014510" feature="Colosseum01" locale="" npc="스타츠" name="그래 너. 여기서 보게 되는군." />
+	<key id="0220211107014511" feature="Colosseum01" locale="" npc="pc" name="(여긴 무슨 일이냐고 말한다.)" />
+	<key id="0220211107014512" feature="Colosseum01" locale="" npc="스타츠" name="물론, 퀸크빈 럼블에 참가하기 위해서지.&#x0A;분홍콩들이 스카우트 제의를 해왔거든." />
+	<key id="0220211107014513" feature="Colosseum01" locale="" npc="스타츠" name="내가 요리뿐 아니라 싸움도 잘한다는 걸 알아낸 거지.&#x0A;하…정말 피곤하다니까." />
+	<key id="0220211107014514" feature="Colosseum01" locale="" npc="스타츠" name="날 만난다면 기대하는 게 좋을 거야." />
+	<key id="0220211107014515" feature="Colosseum01" locale="" npc="구르는 천둥" name="여어!" />
+	<key id="0220211107014516" feature="Colosseum01" locale="" npc="구르는 천둥" name="안녕? 이런 곳에서 다보네.&#x0A;음…네가 퀸크빈 럼블에 참가하는 건 어쩌면 당연한 일이려나?" />
+	<key id="0220211107014517" feature="Colosseum01" locale="" npc="pc" name="(그렇다고 말한다.)" />
+	<key id="0220211107014518" feature="Colosseum01" locale="" npc="구르는 천둥" name="역시, 내가 아는 너 답네!&#x0A;잠깐. 그럼 우리...싸우게 될 수도 있겠는 걸?" />
+	<key id="0220211107014519" feature="Colosseum01" locale="" npc="구르는 천둥" name="이거 이거~ 긴장되는걸?&#x0A;진심으로 겨뤄보자고! 잘 부탁해." />
+	<key id="0307173907014587" feature="Colosseum01" locale="" npc="구르는 천둥" name="$map:02000051$ 전사의 명예를 걸겠어!" />
+	<key id="0220211107014520" feature="Colosseum01" locale="" npc="알론" name="음?" />
+	<key id="0220211107014521" feature="Colosseum01" locale="" npc="알론" name="음?" />
+	<key id="0220211107014522" feature="Colosseum01" locale="" npc="알론" name="오, 역시 너도 퀸크빈 럼블에 참가하는 건가?&#x0A;예상은 했다만…" />
+	<key id="0220211107014523" feature="Colosseum01" locale="" npc="pc" name="($npcName:11004563[gender:0]$$pp:가,이$ 참가할 줄은 몰랐다고 말한다.)" />
+	<key id="0220211107014524" feature="Colosseum01" locale="" npc="알론" name="하하, 긴장하는 건가?&#x0A;영광으로 삼아야겠군.&#x0A;트라이아의 영웅과 싸울 기회가 생기다니 말이야." />
+	<key id="0220211107014525" feature="Colosseum01" locale="" npc="알론" name="그럼, 기대하고 있지." />
+	<key id="0220211107014526" feature="Colosseum01" locale="" npc="오르데" name="흐음…" />
+	<key id="0220211107014527" feature="Colosseum01" locale="" npc="오르데" name="하아아아…" />
+	<key id="0220211107014528" feature="Colosseum01" locale="" npc="pc" name="(땅 꺼지겠다고 말한다.)" />
+	<key id="0220211107014529" feature="Colosseum01" locale="" npc="오르데" name="어? 넌…" />
+	<key id="0220211107014530" feature="Colosseum01" locale="" npc="오르데" name="오호라~너도 퀸크빈 럼블에 참가하나 보구나?&#x0A;…혹시 네가 나의 대전 상대?!" />
+	<key id="0220211107014531" feature="Colosseum01" locale="" npc="오르데" name="그렇다면 이야기가 빨라지겠는걸!&#x0A;그게, 분홍콩들이 말하길…&#x0A;퀸크빈 럼블에서 단 한 번이라도 이기면!" />
+	<key id="0220211107014532" feature="Colosseum01" locale="" npc="오르데" name="저기 있는 $npcName:11004568[gender:1]$$pp:와,과$ 대화를 할 수 있게 해준다는 이야길 해주더라구!&#x0A;끄아아! 용의 아이와 인터뷰라니!" />
+	<key id="0220211107014533" feature="Colosseum01" locale="" npc="오르데" name="그래서 말인데…나를 만나게 되면 &#x0A;눈 한 번 딱! 감고 져주면 안 될까? 응응?" />
+	<key id="0220211107014534" feature="Colosseum01" locale="" npc="pc" name="(그건 좀…)" />
+	<key id="0220211107014535" feature="Colosseum01" locale="" npc="오르데" name="쳇. 역시 안 넘어 오는 건가?&#x0A;뭐, 나도 자신이 없는 건 아니니까.&#x0A;그때봐!" />
+	<key id="0220211107014536" feature="Colosseum01" locale="" npc="오필리아" name="으으음." />
+	<key id="0220211107014537" feature="Colosseum01" locale="" npc="오필리아" name="어머, 안녕?&#x0A;인챈트를 하려고 온 건 아닐 테고…&#x0A;아! 너도 퀸크빈 럼블에 참가하는구나?" />
+	<key id="0220211107014538" feature="Colosseum01" locale="" npc="pc" name="($npcName:11004565[gender:1]$$pp:가,이$ 나오길 기도했다고 말한다.)" />
+	<key id="0220211107014539" feature="Colosseum01" locale="" npc="오필리아" name="응? 왜?&#x0A;혹시…내가 보고 싶어서?&#x0A;하긴, 이 천재 대장장이를 보고 싶은 건 당연…" />
+	<key id="0220211107014540" feature="Colosseum01" locale="" npc="pc" name="(아니라고 말한다.)" />
+	<key id="0220211107014541" feature="Colosseum01" locale="" npc="오필리아" name="그…그럼. 왜?" />
+	<key id="0220211107014542" feature="Colosseum01" locale="" npc="pc" name="(이유는 말할 수 없다고 한다.)" />
+	<key id="0220211107014543" feature="Colosseum01" locale="" npc="오필리아" name="그래…?&#x0A;이거, 왠지 불안해지는걸…" />
+	<key id="0307173907014588" feature="Colosseum01" locale="" npc="오필리아" name="아이템을 두들기고 싶어…뭐 없을까?" />
+	<key id="0220211107014544" feature="Colosseum01" locale="" npc="파토스" name="후우." />
+	<key id="0220211107014545" feature="Colosseum01" locale="" npc="파토스" name="뭐지?" />
+	<key id="0220211107014546" feature="Colosseum01" locale="" npc="파토스" name="퀸크빈 럼블 참가자인가 보군.&#x0A;용건이 없다면 더 이상의 대화는 하지 않겠다." />
+	<key id="0220211107014547" feature="Colosseum01" locale="" npc="바사라 첸" name="이거 꽤…" />
+	<key id="0220211107014548" feature="Colosseum01" locale="" npc="바사라 첸" name="음?" />
+	<key id="0220211107014549" feature="Colosseum01" locale="" npc="바사라 첸" name="꽤 강해 보이는군.&#x0A;내가 아는 그 녀석 만큼이나 말이야." />
+	<key id="0220211107014550" feature="Colosseum01" locale="" npc="pc" name="(엄청난 근육…)" />
+	<key id="0220211107014551" feature="Colosseum01" locale="" npc="바사라 첸" name="너, 잿빛의 이리를 알고 있나?&#x0A;주먹으로는 유명한 녀석인데." />
+	<key id="0220211107014552" feature="Colosseum01" locale="" npc="pc" name="(들어본 적은 있다고 말한다.)" />
+	<key id="0220211107014553" feature="Colosseum01" locale="" npc="바사라 첸" name="이곳에서 만나게 될지도 모르겠군.&#x0A;그럼, 시합에서 보도록 하지." />
+	<key id="0220211107014554" feature="Colosseum01" locale="" npc="바사라 첸" name="여, 잿빛의 이리." />
+	<key id="0220211107014555" feature="Colosseum01" locale="" npc="pc" name="어어어? 바사라 첸?" />
+	<key id="0220211107014556" feature="Colosseum01" locale="" npc="바사라 첸" name="역시, 너도 이곳에 올 줄 알았어.&#x0A;투기를 풀곳을 찾고 있을 거라 생각했던 게 정답이었군." />
+	<key id="0220211107014557" feature="Colosseum01" locale="" npc="바사라 첸" name="뭐. 나도 너와의 대련이 기대되어서 참가를 결정한 거지만." />
+	<key id="0220211107014558" feature="Colosseum01" locale="" npc="pc" name="재미있어 지는구만." />
+	<key id="0220211107014559" feature="Colosseum01" locale="" npc="바사라 첸" name="각오하는 게 좋을 거야.&#x0A;그동안 나도 놀고만 있진 않았으니까." />
+	<key id="0220211107014560" feature="Colosseum01" locale="" npc="미카" name="음음음~" />
+	<key id="0220211107014561" feature="Colosseum01" locale="" npc="미카" name="음음음~ 으음~" />
+	<key id="0220211107014562" feature="Colosseum01" locale="" npc="미카" name="음? 어! 안녕?&#x0A;…뭐라구? 안 들려!" />
+	<key id="0220211107014563" feature="Colosseum01" locale="" npc="pc" name="(헤드셋을 벗으라고 말한다.)" />
+	<key id="0220211107014564" feature="Colosseum01" locale="" npc="미카" name="앗차! 내 정신 좀 봐. 헤헤.&#x0A;너도 퀸크빈 럼블 때문에 온 거구나?" />
+	<key id="0220211107014565" feature="Colosseum01" locale="" npc="미카" name="뭐야 그 눈빛은…?&#x0A;&apos;미카가 싸움을…?&apos; 이라는 표정인데?" />
+	<key id="0220211107014566" feature="Colosseum01" locale="" npc="pc" name="(어떻게 알았냐고 묻는다.)" />
+	<key id="0220211107014567" feature="Colosseum01" locale="" npc="미카" name="풉. 나에 대해 어떻게 생각하는진 모르겠지만…&#x0A;그렇게 호락호락하진 않을 거야." />
+	<key id="0220211107014568" feature="Colosseum01" locale="" npc="미카" name="분홍콩들이 가장 먼저 섭외한 선수가 나거든.&#x0A;왜 그 멀고 험한 카르카르까지 와서 날 스카우트했겠어?" />
+	<key id="0220211107014569" feature="Colosseum01" locale="" npc="미카" name="그럼, 시합에서 봐!" />
+	<key id="0220212507014570" feature="Colosseum01" locale="" npc="알베르토빈" name="반갑습니다." />
+	<key id="0220212507014571" feature="Colosseum01" locale="" npc="알베르토빈" name="퀸크빈 럼블에 참가할 자격이 충분해 보이시는 군요." />
+	<key id="0220212507014572" feature="Colosseum01" locale="" npc="알베르토빈" name="그쪽이라면 여왕님의 미소를 볼 수 있을 겁니다." />
+	<key id="0221103007014573" feature="Colosseum01" locale="" npc="알베르토빈" name="여왕님의 미소를 보여주시죠." />
+	<key id="0221103007014574" feature="Colosseum01" locale="" npc="알베르토빈" name="퀸크빈님을 위해서라면!" />
 </ms2>

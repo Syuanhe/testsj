@@ -358,7 +358,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_happy.dds" control="" delay="2267" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Change_Hair.xml" />
+    
   </emotion>
 
   <emotion type="1" name="equipChangeMantle">

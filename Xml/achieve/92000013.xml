@@ -13,22 +13,4 @@
 			<reward type="item" code="11850080" value="1" rank="1" />
 		</grade>
 	</achieves>
-	<achieves id="92000013" account="1" icon="emblem.png" noticePercent="1" locking="" feature="Event" locale="JP">
-		<grade value="3">
-			<condition type="item_add" code="20300637" value="15" target="" />
-			<reward type="item" code="11850080" value="1" rank="1" />
-		</grade>
-	</achieves>
-	<achieves id="92000013" account="1" icon="emblem.png" noticePercent="1" locking="" feature="Event" locale="TH">
-		<grade value="3">
-			<condition type="item_add" code="20300637" value="15" target="" />
-			<reward type="item" code="11850080" value="1" rank="1" />
-		</grade>
-	</achieves>
-	<achieves id="92000013" account="1" icon="emblem.png" noticePercent="1" locking="" feature="Event" locale="TW">
-		<grade value="3">
-			<condition type="item_add" code="20300637" value="15" target="" />
-			<reward type="item" code="11850080" value="1" rank="1" />
-		</grade>
-	</achieves>
 </ms2>

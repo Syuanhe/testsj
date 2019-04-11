@@ -145,7 +145,8 @@
             <action name="타이머를설정한다" arg1="1" arg2="6" />
             <action name="이벤트UI를설정한다" arg1="0" arg2="1,5" />
 		 <!--action name="PlaySystemSoundInBox" arg2="ME_001_Massive00_03"/-->  					
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000001_ME_001__MASSIVE00__3$" arg3="1,5" />
+            
+			<action name="ShowCountUI" text="$61000001_ME_001__MASSIVE00__3$" stage="1" count="5"  />
         </onEnter>
         <condition name="시간이경과했으면" arg1="1">
             <transition state="퍼즐단계1" />
@@ -187,8 +188,7 @@
         <onEnter />
         <condition name="유저를감지했으면" arg1="301">
             <action name="이벤트UI를설정한다" arg1="0" arg2="2,5" />
-		 <!--action name="PlaySystemSoundInBox" arg2="ME_001_Massive00_04"/-->  					
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000001_ME_001__MASSIVE00__4$" arg3="2,5" />
+			<action name="ShowCountUI" text="$61000001_ME_001__MASSIVE00__4$" stage="2" count="5"  />
             <transition state="퍼즐단계2대기" />
         </condition>
         <onExit />
@@ -238,7 +238,7 @@
         <onEnter />
         <condition name="유저를감지했으면" arg1="301">
             <action name="이벤트UI를설정한다" arg1="0" arg2="3,5" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000001_ME_001__MASSIVE00__5$" arg3="3,5" />
+			<action name="ShowCountUI" text="$61000001_ME_001__MASSIVE00__5$" stage="3" count="5"  />
             <transition state="퍼즐단계3대기" />
         </condition>
         <onExit />
@@ -287,7 +287,7 @@
         <onEnter />
         <condition name="유저를감지했으면" arg1="301">
             <action name="이벤트UI를설정한다" arg1="0" arg2="4,5" />
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000001_ME_001__MASSIVE00__6$" arg3="4,5" />
+			<action name="ShowCountUI" text="$61000001_ME_001__MASSIVE00__6$" stage="4" count="5"  />
             <transition state="퍼즐단계4대기" />
         </condition>
         <onExit />
@@ -337,7 +337,7 @@
         <condition name="유저를감지했으면" arg1="301">
             <action name="이벤트UI를설정한다" arg1="0" arg2="5,5" />
 		 <!--action name="PlaySystemSoundInBox" arg2="ME_001_Massive00_07"/-->  					
-            <action name="이벤트UI를설정한다" arg1="2" arg2="$61000001_ME_001__MASSIVE00__7$" arg3="5,5" />
+			<action name="ShowCountUI" text="$61000001_ME_001__MASSIVE00__7$" stage="5" count="5"  />
             <transition state="퍼즐단계5대기" />
         </condition>
         <onExit />

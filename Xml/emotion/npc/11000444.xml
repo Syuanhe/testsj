@@ -120,7 +120,7 @@
     <textureani target="FA:1">
       <texture file="Item_Face/MC_face_happy.dds" control="" delay="2533" />
     </textureani>
-    <effect file="CH/Emotion/Eff_Male_Nice.xml" />
+    
   </emotion>
  
   <!-- 꽃받침하기-->
@@ -128,14 +128,14 @@
       <textureani target="FA:1">
      <texture file="Item_Face/MC_face_serious.dds" control="" delay="2667" loop="true" />
     </textureani>
-        <effect file="CH/Emotion/Eff_Male_Haha.xml" />
+        
   </emotion>  
    <!-- 포복하기-->
   <emotion type="1" name="Prostrate_Idle_A">
       <textureani target="FA:1">
      <texture file="Item_Face/MC_face_serious.dds" control="" delay="2667" loop="true" />
     </textureani>
-        <effect file="CH/Emotion/Eff_Male_Haha.xml" />
+        
   </emotion>  
    <!-- 좌절하기-->
   <emotion type="1" name="Emotion_Failure_Idle_A">
@@ -182,7 +182,7 @@
      <textureani target="FA:1">
       <texture file="Item_Face/MC_face_panic.dds" control="" delay="1133" loop="true" />
     </textureani>
-      <effect file="CH/Emotion/Eff_Male_Facedown.xml" />
+      
   </emotion>
 
   <!-- 댄스 -->

@@ -230,7 +230,7 @@
 <!-- 무작위 이동 안내 / 라운드 공용-->
 	<state name="PlayerRandomPickStartCount"> 
 		<onEnter>	
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$66200001_GD__01_MASSIVEMAIN__6$" arg3="0,3" arg4="0"/> <!-- 숫자 카운트를 하는 이벤트 UI-->						
+			<action name="ShowCountUI" text="$66200001_GD__01_MASSIVEMAIN__6$" stage="0" count="3"  />
 		</onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="PlayerRandomPickMove"/>	 

@@ -4596,6 +4596,15 @@
 		</textureani>
 	</emotion>
 
+	<!-- 인싸 댄스 -->
+  	<emotion name="Dance_X">
+		<anim name="Emotion_Dance_X" />
+		<idleAnim name="Emotion_Dance_X" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_smile.dds" control="" loop="true" />
+		</textureani>
+	</emotion>
+	
   <emotion name="Halloween_Ghost_A">
     <anim name="Emotion_Halloween_Ghost_A" />
     <idleAnim name="Emotion_Halloween_Ghost_A" />
@@ -5625,6 +5634,46 @@
     </textureani>
 		<effect file="CH/Emotion/Eff_Emotion_PlaywithPoing_A.xml" />			
   </emotion>	  
+  
+  	<!-- 열공모드-->
+	<emotion name="StudyHard_Ready_A">
+		<anim name="Emotion_StudyHard_Ready_A" />
+		<idleAnim name="Emotion_StudyHard_Loop_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_angry.dds" control="" loop="true" />
+		</textureani>
+	</emotion>
+ 
+  	<!-- 꿀잠 쿨쿨-->
+	<emotion name="DeepSleep_Ready_A">
+		<anim name="Emotion_DeepSleep_Ready_A" />
+		<idleAnim name="Emotion_DeepSleep_Loop_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="100" loop="true" />
+		</textureani>
+	</emotion> 
+
+  <!--알베르토빈의 트레이닝-->	
+    <emotion name="AlbertobeanPT_A">
+		<anim name="Emotion_AlbertobeanPT_A" />
+		<idleAnim name="Emotion_AlbertobeanPT_A" />		
+    <textureani target="FA">
+	  <texture file="Item_Face/FC_face_angry.dds" control="" loop="true" />
+    </textureani>
+		<effect file="CH/Emotion/Eff_Emotion_AlbertobeanPT_A.xml" />	
+  </emotion>
+	
+	<!-- 찰칵찰칵 인생샷-->
+	<emotion name="Selfie_A">
+		<anim name="Emotion_Selfie_A" />
+		<idleAnim name="Emotion_Selfie_A" />
+		<textureani target="FA">
+		<texture file="Item_Face/FC_face_smile.dds" control="" delay="3701" loop="true" />
+		<texture file="Item_Face/FC_face_expect.dds" control="" delay="1044" />
+		<texture file="Item_Face/FC_face_smile.dds" control="" delay="370" />
+		</textureani>
+		<effect file="CH/Emotion/Eff_Emotion_Selfie_A.xml" />
+	</emotion>	
   
 <!--황금고래-->	
   <emotion name="FlyType001_Idle_A">

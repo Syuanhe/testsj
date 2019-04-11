@@ -9,7 +9,7 @@
 	</customize>
 	<slots>
 		<slot name="SH">
-			<asset replace="1" ani="1" gender="1" name="Data/Resource/Model/Item/1/17/11601165_F_GLLuminous.nif" targetnode="SH" selfnode="SH" />
+			<asset replace="1" ani="1" gender="1" name="Data/Resource/Model/Item/1/17/11701260_F_SHLuminous.nif" targetnode="SH" selfnode="SH" />
 		</slot>
 	</slots>
 </ms2>

@@ -95,7 +95,7 @@
 	<state name="1라운드시작" >
 		<onEnter>		
 			<action name="HideGuideSummary" entityID="20002411"/>				
-			<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__1$" arg3="0,3" arg4="0" />		
+			<action name="ShowCountUI" text="$02100004_BF__MAIN__1$" stage="0" count="3"  />
 			<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>						
 		</onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
@@ -125,7 +125,7 @@
         <onEnter>		
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	      		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__2$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__2$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="2라운드" />
@@ -154,7 +154,7 @@
         <onEnter>		
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	      		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>						
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__3$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__3$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="3라운드" />
@@ -183,7 +183,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	      		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__4$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__4$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="4라운드" />
@@ -212,7 +212,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__5$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__5$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="5라운드" />
@@ -241,7 +241,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__6$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__6$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="6라운드" />
@@ -270,7 +270,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__7$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__7$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="7라운드" />
@@ -299,7 +299,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__8$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__8$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="8라운드" />
@@ -328,7 +328,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="SetUserValue" triggerID="999992" key="RoundStart" value="1"/>				
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__9$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__9$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="9라운드" />
@@ -357,7 +357,7 @@
         <onEnter>	
 		<action name="이펙트를설정한다" arg1="601" arg2="1" />	    		
 		<action name="몬스터를생성한다" arg1="2000" arg2="1" />		
-		<action name="이벤트UI를설정한다" arg1="2" arg2="$02100004_BF__MAIN__10$" arg3="0,3" arg4="0" />
+		<action name="ShowCountUI" text="$02100004_BF__MAIN__10$" stage="0" count="3"  />
         </onEnter>
 				<condition name="WaitTick" waitTick="3000" > 
 					<transition state="10라운드" />

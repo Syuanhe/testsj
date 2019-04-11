@@ -1107,8 +1107,8 @@
 	<key id="s_quest_epic_restart_event_end" value="이벤트 기간이 종료되었습니다." />
 	<key id="s_quest_epic_restart_restarted" value="이미 에픽 다시하기를 했습니다." />
 	<key id="s_quest_epic_restart_invalid_field" value="이 맵에서는 에픽 다시하기를 할 수 없습니다." />
-	<key id="s_quest_scroll_progress_quest" value="이미 진행중인 퀘스트가 있습니다." />
-	<key id="s_quest_scroll_invalid_begin_quest" value="시작할 수 없는 퀘스트가 있습니다." />
+	<key id="s_quest_scroll_progress_quest" value="이미 쑥쑥 성장 스크롤을 사용한 캐릭터입니다. 다른 캐릭터에 사용해주세요." />
+	<key id="s_quest_scroll_invalid_begin_quest" value="이미 쑥쑥 성장 스크롤을 사용한 캐릭터입니다. 다른 캐릭터에 사용해주세요." />
 	<key id="s_quest_scroll_inventory_full" value="소지품 창을 비워주세요." />
 	<key id="s_quest_scroll_package_title" value="{0}레벨 달성 보상 패키지 세부 구성품" />
 	<key id="s_quest_scroll_package_invalid_event" value="쑥쑥 성장 스크롤 이벤트 기간이 종료되었습니다." />
@@ -2662,6 +2662,7 @@
 	<key id="s_shop_npc_talk_welcome" value="항상 최상의 물건만을 제공하고 있습니다. 천천히 둘러보세요!" />
 	<key id="s_shop_no_star_point_event" value="이벤트 기간 중에만 사용 가능합니다." />
 	<key id="s_shop_err_item_restricted" value="일시적으로 판매가 제한된 아이템입니다." />
+	<key id="s_shop_err_change_reset_price" value="재입고 금액을 다시 확인해 주세요." locale="CN" />
 	<key id="s_shop_text_give_point" value="&lt;FONT color=&apos;#64FE2E&apos; &gt;+ {0} &lt;img src=&apos;{1}&apos; width=&apos;19&apos; height=&apos;18&apos; vspace=&apos;-6&apos;/&gt;" />
 	<key id="s_shop_text_notice_pssb" value="스타일 박스에서 나온 아이템을 분해하면 스타일 코인을 획득할 수 있습니다." locale="NA" />
 	<key id="s_store_ask_expand" value="{0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 은행 금고를 확장하시겠습니까?\n한번에 {1}칸씩 확장됩니다." />
@@ -2952,6 +2953,20 @@
 	<key id="s_html_chat_super_custom" value="&lt;TEXTFORMAT indent=&apos;{0}&apos;&gt;" />
 	<key id="s_html_chat_super_dropdown" value="&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;26&apos; height=&apos;21&apos;&gt;슈퍼" />
 	<key id="s_html_chat_super_preview" value="&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;&lt;FONT color=&apos;#{1:x}&apos; size=&apos;18&apos;&gt;{2} &lt;/FONT&gt;&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;" />
+	<key id="s_tooltip_chat_emoticon_description" value="사용 시 이모티콘 {0}종 획득" feature="ChatEmoticon" />
+	<key id="s_tooltip_chat_emoticon_description_enddate" value="등록 후 아래 기간까지 사용 가능\n- {0}년 {1}월 {2}일 {3}시 {4}분까지" feature="ChatEmoticon" />
+	<key id="s_tooltip_chat_emoticon_description_duration" value="등록 후 {0} 간 사용 가능" feature="ChatEmoticon" />
+	<key id="s_tooltip_chat_emoticon_extra_comment_image_tag" value="&lt;Img Src=&apos;{0}&apos; &gt;" feature="ChatEmoticon" />
+	<key id="s_tooltip_chat_emoticon_extra_comment_image_gap" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_expired" value="만료된 이모티콘이 있어\n자동으로 삭제됐습니다." feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_item_use_description" value="아이템을 사용하면 이모티콘이 등록됩니다.\n이모티콘을 등록하시겠습니까?\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_item_use_description_enddate" value="\n&lt;font color=&apos;#ff5f5f&apos;&gt;등록 후 아래 기간까지 사용 가능\n- {0}년 {1}월 {2}일 {3}시 {4}분까지&lt;/font&gt;\n\n" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_item_use_description_duration" value="&lt;font color=&apos;#ffd200&apos;&gt;등록 후 {0} 간 사용할 수 있습니다.&lt;/font&gt;\n" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_item_use_description_warning" value="&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 이미 등록된 이모티콘이 있을 경우 자동으로 더 긴 기간으로 교체됩니다.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_print_failed" value="이모티콘 출력을 실패했습니다." feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_add_failed" value="이모티콘 등록에 실패했습니다." feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_add_failed_already_exist" value="이모티콘을 등록할 수 없습니다.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;사용 기간이 없는 이모티콘이 이미 등록되어 있거나, &#x0A;  지금 등록하려는 이모티콘의 사용 기간이 등록된 이모티콘보다 더 짧습니다.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_add_notify_message" value="{0}$pp:를,을$ 등록했습니다." feature="ChatEmoticon" />
 	<key id="s_html_chat_user_dungeon_helper" value="&lt;a href={0}&gt;[도움이 필요한 모험가]&lt;/a&gt; " />
 	<key id="s_html_chat_user_dungeon_member" value="&lt;a href={0}&gt;[동료를 구하는 모험가]&lt;/a&gt; " />
 	<key id="s_html_chat_join_party" value="&lt;a href={0}&gt;&lt;FONT color=&apos;#ffd200&apos;&gt;[파티참가]&lt;/FONT&gt;&lt;/a&gt;" />
@@ -3787,6 +3802,7 @@
 	<key id="s_room_dungeon_canEnterDayOfWeeks" value="입장 가능한 요일이 아닙니다. \n던전 정보에서 입장 조건을 다시 확인하세요." />
 	<key id="s_room_dungeon_AlreadyChaosHall" value="이미 전당에 도착했습니다." />
 	<key id="s_room_dungeon_AlreadyLapentaHall" value="이미 아이 오브 라펜타에 도착했습니다." feature="LapentaDungeon" />
+	<key id="s_room_dungeon_AlreadyColosseumHall" value="이미 여왕의 응접실에 도착했습니다." feature="ColosseumDungeon" />
 	<key id="s_room_dungeon_CantEnterInDungeon" value="던전 내에서는 이동 할 수 없습니다." />
 	<key id="s_room_dungeon_OverMaxUserCount" value="최대 {0}인까지 가능합니다." />
 	<key id="s_room_dungeon_UnderMinUserCount" value="최소 {0}인의 파티원이 필요합니다." />
@@ -3872,6 +3888,7 @@
 	<key id="s_dungeonRoom_reward_daily" value="일간 보상 획득 횟수" />
 	<key id="s_dungeonRoom_reward_weekly" value="주간 보상 획득 횟수" />
 	<key id="s_dungeonRoom_reward_account" value="(계정 보상)" />
+	<key id="s_dungeonRoom_reward_round" value="클리어한 라운드 : {0} / 전체 라운드 수 : {1}" comment="{0}:라운드 수, {1}:라운드 수" />
 	<key id="s_dungeonRoom_seasonRankBar_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;랭크 보상&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n주간 랭크 보상은 우편으로 지급되며 매주 {0} 0시에 초기화됩니다.\n주간 랭크 보상은 기간 내 달성하는 모든 랭크 보상을 획득할 수 있습니다.\n상위 랭크 달성 시 하위 랭크 보상도 함께 획득합니다.\n각 랭크 보상은 1회만 획득 가능합니다." />
 	<key id="s_dungeonRoom_seasonSummary_tooltip1" value="주간 랭크 달성도는 매주 {0} 0시에 초기화되며 &lt;FONT color=&apos;#00AEEF&apos;&gt;카오스 레이드({1}레벨이상)&lt;/FONT&gt; 던전의 \n랭크 합산 점수에 따라 우편으로 보상이 지급됩니다.\n" />
 	<key id="s_dungeonRoom_seasonSummary_tooltip2" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\n보상 정보\n&lt;/FONT&gt;" />
@@ -3884,8 +3901,8 @@
 	<key id="s_dungeonRoom_helper_reward_count" value="코인 획득 횟수 {0}" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_findHelper_dont_use" value="&lt;FONT color=&apos;#636363&apos; &gt;친절한 기사를 이용할수 없는 던전&lt;/FONT&gt;" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_findHelper_status_beginner" value="&lt;FONT color=&apos;#a2ff00&apos; &gt;초보 모험가&lt;/FONT&gt;" feature="FindDungeonHelp" />
-	<key id="s_dungeonRoom_beginner" value="초보 모험가" feature="" />
-	<key id="s_dungeonRoom_expert" value="숙련 모험가" feature="" />
+	<key id="s_dungeonRoom_beginner" value="초보 모험가" feature="FindDungeonHelp" />
+	<key id="s_dungeonRoom_expert" value="숙련 모험가" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_change_help_dungeon" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;이미 요청한 던전이 있습니다.\n던전을 변경하겠습니까?&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 던전 : &lt;FONT color=&apos;#00a2ed&apos;&gt;{0}&lt;/FONT&gt;\n변경할 던전 : &lt;FONT color=&apos;#ffd200&apos;&gt;{1}&lt;/FONT&gt;" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_change_expert_message" value="숙련 모험가가 되시겠습니까?\n상태 변경 후에는 초보 모험가가 될 수 없습니다." />
 	<key id="s_dungeonRoom_cant_ask_help_has_dungeon" value="진행 중인 던전이 존재합니다. 던전 초기화 후 요청이 가능합니다. 던전을 초기화 하시겠습니까?" feature="FindDungeonHelp" />
@@ -3893,7 +3910,7 @@
 	<key id="s_dungeonRoom_missionBar_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;랭크 산정 기준&lt;/FONT&gt;\n" />
 	<key id="s_dungeonRoom_missionBar_tooltip_item" value="{0} 랭크: {1}점 이상\n" />
 	<key id="s_dungeonRoom_findMember_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;파티원 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n버튼을 클릭해서 던전을 함께 모험할 파티원을 모집할 수 있습니다.\n초보 모험가와 함께 클리어할 경우, 친절한 기사 상자를 \n하루 {0}회 추가로 획득할 수 있습니다." feature="FindDungeonHelp" />
-	<key id="s_dungeonRoom_party_status_tooltip" value="{0} ({1})\n" />
+	<key id="s_dungeonRoom_party_status_tooltip" value="{0}{1}\n" />
 	<key id="s_dungeonRoom_addExtraRewardCount" value="보상 횟수 추가\n({0}/{1})" />
 	<key id="s_dungeonRoom_unionRewardInfo" value=" / &lt;FONT color=&apos;#00A2ED&apos;&gt;{0}&lt;/FONT&gt; 던전의 보상 획득 횟수가 공유됩니다." comment="{0}:던전 이름" />
 	<key id="s_dungeonLobby_title" value="{0}: {1}" />
@@ -4232,14 +4249,14 @@
 	<key id="s_dps_type_gain_exp" value="획득경험치" />
 	<key id="s_dps_type_gain_meso" value="획득메소" />
 	<key id="s_partydps_titlebar" value="미터기[파티]\n{0}" />
-	<key id="s_partydps_notice_history_prefix" value="\n[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}\n" />
-	<key id="s_partydps_notice_history_row" value="{0}. {1} {2}\n" />
-	<key id="s_partydps_notice_history_total_time" value="누적시간 {0}" />
+	<key id="s_partydps_notice_history_prefix" value="[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}" />
+	<key id="s_partydps_notice_history_row" value=" [{0}. {1} - {2}]" />
+	<key id="s_partydps_notice_history_total_time" value=" 누적시간 {0}" />
 	<key id="s_individualdps_titlebar" value="미터기\n{0}" />
 	<key id="s_chaosdps_titlebar" value="미터기[파티]\n{0}" />
-	<key id="s_chaosdps_notice_history_prefix" value="\n[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}\n" />
-	<key id="s_chaosdps_notice_history_row" value="{0}. {1} {2}\n" />
-	<key id="s_chaosdps_notice_history_total_time" value="누적시간 {0}" />
+	<key id="s_chaosdps_notice_history_prefix" value="[{0:02d}:{1:02d}:{2:02d}] 미터기 - {3}" />
+	<key id="s_chaosdps_notice_history_row" value=" [{0}. {1} - {2}]" />
+	<key id="s_chaosdps_notice_history_total_time" value=" 누적시간 {0}" />
 	<key id="s_msgbox_format_profile_char_detail" value="레벨 {0} {1}" />
 	<key id="s_messenger_comfirm_chat_super" value="슈퍼 월드 대화를 보내시겠습니까?\n 아래 아이템이 소모됩니다." />
 	<key id="s_messenger_comfirm_chat_world" value="월드 대화를 보내시겠습니까?\n {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt; 이 소모됩니다.\n" />
@@ -4417,6 +4434,7 @@
 	<key id="s_enum_dungeon_group_worldBoss" value="월드 인베이젼" feature="WorldBossDungeon" />
 	<key id="s_enum_dungeon_group_fameChallenge" value="포트리스 럼블" feature="FameChallengeDungeon" />
 	<key id="s_enum_dungeon_group_lapenta" value="아이 오브 라펜타" feature="LapentaDungeon" />
+	<key id="s_enum_dungeon_group_colosseum" value="퀸크빈 럼블" feature="ColosseumDungeon" />
 	<key id="s_partysearch_sort_party_create_hi" value="신규 등록 순" />
 	<key id="s_partysearch_sort_party_create_low" value="등록 순" />
 	<key id="s_partysearch_sort_party_level_hi" value="레벨 높은 순" />
@@ -5214,8 +5232,8 @@
 	<key id="s_itemsocket_scroll_error_server_fail_unlock_socket" value="소켓 활성화에 실패했습니다. " feature="ItemSocketSystem" />
 	<key id="s_itemsocket_scroll_error_server_fail_consume_scroll" value="주문서 사용에 실패 했습니다." feature="ItemSocketSystem" />
 	<key id="s_itemsocket_scroll_error_server_default" value="소켓 주문서 에러: code=[{0},{1}]" feature="ItemSocketSystem" />
-	<key id="s_itemslot_exchange_count_enable" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;/{1}" />
-	<key id="s_itemslot_exchange_count_disable" value="&lt;FONT color=&apos;#C00000&apos;&gt;{0}&lt;/FONT&gt;/{1}" />
+	<key id="s_itemslot_exchange_count_enable" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; / {1}" />
+	<key id="s_itemslot_exchange_count_disable" value="&lt;FONT color=&apos;#C00000&apos;&gt;{0}&lt;/FONT&gt; / {1}" />
 	<key id="s_itemslot_exchange_title" value="장비 초월 제거" />
 	<key id="s_itemslot_exchange_count_invalid" value="아이템 개수가 부족합니다." />
 	<key id="s_itemslot_exchange_count_check" value="합성 개수를 확인해 주세요." />
@@ -5377,6 +5395,7 @@
 	<key id="s_gameranking_tab_famechallenge_shortest_time" value="S랭크 최단 시간" />
 	<key id="s_gameranking_tab_arcade_season" value="{0}회차" />
 	<key id="s_gameranking_tab_ugc_season" value="{0}년 {1}월" />
+	<key id="s_gameranking_tab_bosscolosseum_season" value="{0}주차" />
 	<key id="s_gameranking_tab_guild_trophy" value="종합" />
 	<key id="s_gameranking_tab_individual_trophy" value="종합" />
 	<key id="s_gameranking_tab_my_rank" value="내 순위 : &lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;위" />
@@ -6083,4 +6102,6 @@
 	<key id="s_closet_tooltip_msg_for_remove" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;현재 아이템을 소지하고 있지 않습니다.&lt;/FONT&gt;" feature="Closet" />
 	<key id="s_word_commingSoon" value="준비 중입니다." />
 	<key id="s_fieldwar_sidepopup_script" value="군단 침입 경보 발령!\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;\n즉시 지원이 필요합니다." comment="{0} : 필드맵" feature="Fieldwar01" />
+	<key id="s_arcade_game_preparing" value="준비 중" />
+	<key id="s_arcade_text_effect_consecutive_win" value="{0}연승 중!" feature="Event" />
 </ms2>

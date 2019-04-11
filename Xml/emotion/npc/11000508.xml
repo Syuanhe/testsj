@@ -45,6 +45,10 @@
     </textureani>
   </emotion>
 
-  
+  <emotion type="1" name="Attack">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Friendly/11000508_EnchantMaster1_Face_Skill.dds" control="" delay="1000" loop="true"/>
+    </textureani>
+  </emotion>
   
 </ms2>

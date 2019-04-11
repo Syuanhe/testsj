@@ -39,7 +39,7 @@
 	
 	<state name="칼리브해안전경_02"> 
         <onEnter>
-		<action name="SetSceneSkip" arg1="이슈라모션" arg2="exit"/>
+		<action name="SetSceneSkip" arg1="종료_02" arg2="exit"/>
 		<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/>	
 		<action name="카메라경로를선택한다" arg1="4001,4002" arg2="0"/><!--전경비추는카메라-->					
 		</onEnter>
@@ -227,7 +227,6 @@
         <onEnter>
 		<action name="SetNPcEmotionLoop" arg1="104" arg2="Talk_A" arg3="4000" />
 		<action name="AddCinematicTalk" npcID="11003845" illustID="Ishura_normal" msg="$52010061_QD__main__9$" duration="3000" align="left"/>
-		<action name="SetSceneSkip" arg1="" arg2=""/>
 		</onEnter>
 			<condition name="WaitTick" waitTick="3000">
 				<transition state="이슈라모션"/> 
@@ -249,6 +248,7 @@
 	
 	<state name="종료"> 
         <onEnter>
+			<action name="SetSceneSkip" arg1="" arg2=""/>
 		</onEnter>
 			<condition name="WaitTick" waitTick="1000">
 				<transition state="종료_02"/> 
