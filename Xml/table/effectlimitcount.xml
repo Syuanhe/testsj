@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<default count="0" />
+	<effects>
+		<unit id="ch/effectbadge/eff_effectbadge_gamemeister_a01.xml" count="20" />
+	</effects>
+</ms2>
