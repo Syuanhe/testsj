@@ -10,7 +10,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300080_Pig_Cannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Scene Root">
+      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300080_Pig_Cannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01">
         <dummy gender="0" sequence="" rotation="29,172,-17" translation="-19,-2,-16" />
         <dummy gender="1" sequence="" rotation="29,172,-17" translation="-19,-2,-16" />
 	  </asset>

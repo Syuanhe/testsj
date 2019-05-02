@@ -10,7 +10,7 @@
 	<slots>
 		<slot name="RH"/>
 		<slot name="LH">
-			<asset name="Data/Resource/Model/Item/1/53/15300261_DarkStreamCannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Scene Root"  >
+			<asset name="Data/Resource/Model/Item/1/53/15300261_DarkStreamCannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01"  >
 				<dummy gender="0" sequence="" rotation="-120,5,0" translation="-13,-5,-15" />
 				<dummy gender="1" sequence="" rotation="-120,5,0" translation="-15,-5,-15" />
 			</asset>

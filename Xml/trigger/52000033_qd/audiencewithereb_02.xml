@@ -141,8 +141,8 @@
 
     <state name="talk_02"> 
         <onEnter>
-			<action name="AddCinematicTalk" npcID="11001666" illustID="Fray_normal" msg="$52000033_QD__AUDIENCEWITHEREB_02__9$" duration="3000" delayTick="3"  align="center" />			
-			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_normal" msg="$52000033_QD__AUDIENCEWITHEREB_02__10$" duration="1000" delayTick="0" align="left" /> <!-- 에레브 -->
+			<action name="AddCinematicTalk" npcID="11001666" illustID="Fray_serious" msg="$52000033_QD__AUDIENCEWITHEREB_02__9$" duration="3000" delayTick="3"  align="center" />			
+			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_closeEye" msg="$52000033_QD__AUDIENCEWITHEREB_02__10$" duration="1000" delayTick="0" align="left" /> <!-- 에레브 -->
 			<action name="AddCinematicTalk" npcID="11001665" illustID="Karl_normal" msg="$52000033_QD__AUDIENCEWITHEREB_02__11$" duration="1000" delayTick="0"  align="right" /> <!-- 칼 -->									
 		</onEnter>
 			<condition name="WaitTick" waitTick="6649">	

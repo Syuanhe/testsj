@@ -994,6 +994,7 @@
 	<key id="s_login_err_version" value="업데이트가 됐습니다.\n새 버전을 다운로드 받아주세요." />
 	<key id="s_err_cannot_move" value="강제 이동이 불가능한 지역입니다." />
 	<key id="s_notice_shutdown" value="서버와 접속이 끊어졌습니다.\n다시 접속하여 주세요." />
+	<key id="s_notice_unstable_network_state" value="네트워크 연결이 불안정합니다.\n 클라이언트를 다시 실행해 주세요." locale="CN" />
 	<key id="s_msg_game_over" value="정말 나가실 거예요?" />
 	<key id="s_msg_disconnect_kickuser" value="비정상 행위가 확인되어 접속을 종료합니다." />
 	<key id="s_item_err_drop" value="버릴 수 없는 아이템입니다." />
@@ -2296,6 +2297,7 @@
 	<key id="s_msg_item_sell_count_request" value="{0} 아이템을 {1}개 판매했습니다." />
 	<key id="s_msg_item_sell_confirm" value="정말 판매하시겠습니까?" />
 	<key id="s_msg_item_buy_confirm" value="아이템을 구입하시겠습니까?" />
+	<key id="s_msg_item_buy_confirm_prepaid" value="&lt;FONT color=&apos;#FFD200&apos;&gt;이 아이템은 prepaid NX로만 구입할 수 있습니다.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;현재 메소 거래 평균가 :&lt;/FONT&gt; {2} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;이번 달 메소 구매 가능 횟수 :&lt;/FONT&gt; {0}/{1}\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#&apos;&gt;아이템을 구입하시겠습니까?&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_msg_item_break" value="몇 개를 분해하시겠습니까?" />
 	<key id="s_msg_quest_item_drop_stack" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;퀘스트에 필요한 아이템입니다.\n\n몇 개를 버리시겠습니까?" />
 	<key id="s_msg_quest_item_drop" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;퀘스트에 필요한 아이템입니다.\n\n아이템을 정말 버리시겠습니까?" />
@@ -2758,6 +2760,24 @@
 	<key id="s_quest_dialog_unknown_quest" value="레벨이 낮거나 이전 스토리를 완료하지 않아 이 퀘스트 정보를 확인할 수 없습니다." />
 	<key id="s_quest_dispatch_yes" value="이동하기" />
 	<key id="s_quest_dispatch_no" value="머무르기" />
+	<key id="s_quest_alliance_accept_all_confirm" value="[유니크] 임무를 제외한 모든 임무가 자동으로 수락됩니다. 수락 하시겠습니까?" feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_confirm" value="완료 가능한 모든 임무가 자동으로 완료됩니다. 완료 하시겠습니까?" feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_darkwind" value="모든 임무, 완벽하게 수행해 줄 거지? 아기고양이만 믿는다?" feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_mapleunion" value="중요하지 않은 임무는 없다. 모두 완벽히 수행하도록." feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_lumiknight" value="제 눈은 항상 당신을 보고 있습니다. 빠른 임무 수행을 기대하죠." feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_triaroyalguard" value="꾸물거리지 말고 얼른 수행하라고!" feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_greenhood" value="그린후드 임무 전달 완료. 기다리겠습니다!" feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_mapleunion_kritiasexped" value="미지의 대륙이라고 임무에 소홀할 순 없다. 항상 그랬듯이 완벽하게 수행하라." feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_lumiknight_kritiasexped" value="모든 임무는 이미 당신에게 텔레파시로 전달하였습니다. 다녀오시죠." feature="FameContents" />
+	<key id="s_quest_alliance_accept_all_greenhood_kritiasexped" value="크리티아스 탐사를 위한 임무 전달 드렸습니다. 빠른 결과 기대해도 되겠죠?" feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_darkwind" value="역시~ 해낼 거라 믿고 있었다니깐?" feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_mapleunion" value="임무 완료를 확인하였다. 수고 많았다." feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_lumiknight" value="당신이 임무를 수행했다는 것은 이미 알고 있었습니다." feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_triaroyalguard" value="하하핫, 깔끔한 솜씨구먼. 잘했어, 잘했어." feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_greenhood" value="임무를 완벽하게 수행하셨네요! 굉장해요!" feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_mapleunion_kritiasexped" value="역시 완벽한 솜씨군. 수고 많았다." feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_lumiknight_kritiasexped" value="제가 결과를 이미 알고 있었다는 점은, 굳이 말씀 안 드려도 되겠죠?" feature="FameContents" />
+	<key id="s_quest_alliance_complete_all_greenhood_kritiasexped" value="굉장해요! 다음에도 잘 부탁드립니다!" feature="FameContents" />
 	<key id="s_realestate_expire_data" value="{0}일" />
 	<key id="s_realestate_building_type_0" value="대지형" />
 	<key id="s_realestate_area" value="바닥 {0}칸, 높이 {1}칸" />
@@ -3154,6 +3174,7 @@
 	<key id="s_system_achieve_reward_mentor_token" value="&lt;FONT color=&apos;#&apos;FFB400&gt;멘토 포인트 {0} 획득&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_mentee_token" value="&lt;FONT color=&apos;#&apos;FFB400&gt;멘티 포인트 {0} 획득&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_star_point" value="&lt;FONT color=&apos;#&apos;FFB400&gt;별 포인트 {0} 획득&lt;/FONT&gt;" />
+	<key id="s_system_achieve_reward_meso_market_token" value="&lt;FONT color=&apos;#&apos;FFB400&gt;메소토큰 {0} 획득&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color=&apos;#&apos;FFB400&gt;{0} 구매 권한 획득&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 아이템 아이디" />
 	<key id="s_system_achieve_reward_dynamicaction" value="&lt;FONT color=&apos;#&apos;FFB400&gt;{0} 사용 권한 획득&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 다이나믹 액션" />
 	<key id="s_system_achieve_reward_beauty" value="&lt;FONT color=&apos;#&apos;FFB400&gt;{0} 구매 권한 획득&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 뷰티 아이템 아이디" />
@@ -3170,7 +3191,7 @@
 	<key id="s_mainplayinfo_build_count" value="&lt;font size=&apos;15&apos;&gt;배치할 수 있는 건물 개수 : &lt;/font&gt;&lt;FONT size=&apos;15&apos; color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;font size=&apos;15&apos;&gt;/{1}&lt;/FONT&gt;" />
 	<key id="s_mainplayinfo_maid_count" value="&lt;font size=&apos;15&apos;&gt; 배치할 수 있는 메이드 수 : &lt;/font&gt;&lt;FONT size=&apos;15&apos; color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;font size=&apos;15&apos;&gt;/{1}&lt;/FONT&gt;" />
 	<key id="s_mainplayinfo_trigger_count" value="&lt;font size=&apos;15&apos;&gt; 배치할 수 있는 트리거 제어기 개수 : &lt;/font&gt;&lt;FONT size=&apos;15&apos; color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;font size=&apos;15&apos;&gt;/{1}&lt;/FONT&gt;" />
-	<key id="s_mainplayinfo_installnpc_count" value="&lt;font size=&apos;15&apos;&gt; 배치할 수 있는 포탑형 스킬 인테리어 개수 : &lt;/font&gt;&lt;FONT size=&apos;15&apos; color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;font size=&apos;15&apos;&gt;/{1}&lt;/FONT&gt;" />
+	<key id="s_mainplayinfo_installnpc_count" value="&lt;font size=&apos;15&apos;&gt; 배치할 수 있는 스킬 인테리어 개수 : &lt;/font&gt;&lt;FONT size=&apos;15&apos; color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;font size=&apos;15&apos;&gt;/{1}&lt;/FONT&gt;" />
 	<key id="s_warehouse_timeleft_day_normal" value="{0}일 남음" />
 	<key id="s_warehouse_timeleft_day_red" value="&lt;FONT color=&apos;#FF5F5F&apos; &gt;{0}일 남음&lt;/FONT&gt;" />
 	<key id="s_warehouse_timeleft_hour_red" value="&lt;FONT color=&apos;#FF5F5F&apos; &gt;{0}시간 남음&lt;/FONT&gt;" />
@@ -3411,6 +3432,7 @@
 	<key id="s_tooltip_gamemenu_MeratCharge" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;메럿 충전샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메럿을 구입할 수 있습니다." locale="NA" />
 	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스타일 코인샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n스타일 코인으로 아이템을 구입할 수 있습니다.\n스타일 코인은 스타일 박스에서 획득한 아이템을 분해하면 얻을 수 있습니다." />
 	<key id="s_tooltip_gamemenu_collectitemgroupevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;마법 더하기 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템을 수집하여 보상을 받을 수 있습니다." />
+	<key id="s_tooltip_gamemenu_bingoevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;체크체크 올빙고 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n빙고를 완성하여 보상을 받을 수 있습니다." feature="Event" />
 	<key id="s_eventtag_gamemenu_mushking_royal" value="신청중" />
 	<key id="s_chat_restrict_samechat" value="같은 말을 여러 번 입력하여 {0}초간 지역/채널/월드/귓속말 채팅을 할 수 없습니다. (도배 경고 : 1회)" />
 	<key id="s_chat_restrict_fastchat" value="짧은 시간에 여러 번 대화를 입력하여 {0}초간 지역/채널/월드/귓속말 채팅을 할 수 없습니다. (도배 경고 : 1회)" />
@@ -3561,8 +3583,10 @@
 	<key id="s_mesoMarket_sellMeso_dropdownItem" value="{0}" />
 	<key id="s_mesoMarket_ask_buy_text" value="&lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;를\n&lt;FONT color=&apos;#47FFFF&apos; &gt;{1}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;에 구입하시겠습니까?" />
 	<key id="s_mesoMarket_register_notice" value="· 판매 가격 : 평균 가격의 ±20% 이내\n· 판매 기간 : 등록 신청  후 {0}일간 \n· 판매 수수료 : 판매 금액의 {1}%\n   (판매 대금 지급 시 차감)\n· 메소 등록 횟수 제한 : 계정 당 1일 {2}회\n   (매일 밤 12시 초기화)\n※메소 판매 금액은 게임 메럿으로 지급" />
+	<key id="s_mesoMarket_register_notice" value="· 판매 가격 : 평균 가격의 ±20% 이내\n· 판매 기간 : 등록 신청  후 {0}일간 \n· 메소 등록 횟수 제한 : 계정 당 1일 {2}회\n   (매일 밤 12시 초기화)\n※메소 판매 금액은 블루 메럿으로 지급" locale="NA" feature="MesoMarket" />
 	<key id="s_mesoMarket_sale_range_rate" value="(평균 가격의 {0}% 이내)" />
 	<key id="s_mesoMarket_market_price" value="(평균 가격) {0} 메소 당 {1} &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt;" />
+	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#4efcfb&apos; &gt;{0}&lt;/font&gt; {1}" />
 	<key id="s_mesoMarket_register_count" value="{0}/{1}" />
 	<key id="s_mesoMarket_register_count_per_day" value="판매 등록 {0}회 (계정 당 1일 최대 {1}회)" />
 	<key id="s_mesoMarket_buy_count" value="메소 구입 {0}회 (계정 당 1일 최대 {1}회)" />
@@ -3572,6 +3596,7 @@
 	<key id="s_mesoMarket_listItem_sellMesoText" value="[{0}]" />
 	<key id="s_mesoMarket_listItem_unitPrice" value="{0} 메소 당 {1}" />
 	<key id="s_mesoMarket_sale_per_price" value="{0} 메소 당 판매 가격" />
+	<key id="s_mesoMarket_sale_per_price" value="메소 판매 가격" locale="NA" feature="MesoMarket" />
 	<key id="s_mesoMarket_mail_to_sender" value="블랙마켓 트레이더" />
 	<key id="s_mesoMarket_mail_to_seller_title" value="[블랙마켓] 메소 판매 완료" />
 	<key id="s_mesoMarket_mail_to_seller_content" value="블랙마켓에 등록한 메소가 판매됐습니다.\n첨부 금액을 확인해 주세요.\n\n판매 메소: {0}\n판매 가격: {1} 메럿\n판매 수수료: - {2}메럿(판매 금액의 {3}%)\n&lt;img src=&apos;export_dotline_brown_f16_276&apos;/&gt;\n정산 금액: {4}메럿" />
@@ -3639,7 +3664,7 @@
 	<key id="s_item_repacking_item_consume_count" value="&lt;FONT color=&apos;#FFD200&apos;&gt;재포장 시 필요한 트레이더스 리본 개수 : {0}개&lt;/FONT&gt;" />
 	<key id="s_item_repacking_item_limit_desc" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#ffffff&apos;&gt;&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;레벨\n{1} 등급\n\n{2}에 사용 가능&lt;/font&gt;\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;1회 이상 거래&lt;/FONT&gt;가 가능했던 {1} 아이템이 &lt;FONT color=&apos;#FF5F5F&apos;&gt;거래 불가&lt;/FONT&gt; 상태가 되었을 때, 해당 아이템을 다시 포장하여\n &lt;FONT color=&apos;#FFD200&apos;&gt;거래 횟수를 1회 늘려줍니다.&lt;/FONT&gt;\n\n재포장 가능 횟수가 1회 이상 남아 있어야 사용할 수 있습니다.&lt;/p&gt;" />
 	<key id="s_item_repacking_pet_limit_desc" value="&lt;p align=&apos;center&apos;&gt;요구 레벨 &lt;FONT color=&apos;#ffffff&apos;&gt;&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\n{1} 등급 펫\n\n{2}에 사용 가능&lt;/font&gt;\n\n{1} 등급의 펫 아이템을 다시 포장하여\n &lt;FONT color=&apos;#FFD200&apos;&gt;거래 횟수를 1회 늘려줍니다.&lt;/FONT&gt;\n\n재포장 가능 횟수가 1회 이상 남아 있어야 사용할 수 있습니다.&lt;/p&gt;" />
-	<key id="s_item_repacking_item_consume_desc" value="이 아이템을 포장하려면\n&lt;FONT color=&apos;#FFD200&apos;&gt;{0} {1}개가 필요합니다.&lt;/FONT&gt;\n포장하시겠습니까?" />
+	<key id="s_item_repacking_item_consume_desc" value="이 아이템을 포장하려면\n&lt;FONT color=&apos;#FFD200&apos;&gt;$item:{0}$ {1}개가 필요합니다.&lt;/FONT&gt;\n포장하시겠습니까?" />
 	<key id="s_item_repacking_scroll_already_open" value="이미 열려있는 창이 있습니다.\n창을 닫고 다시 시도해 주세요." />
 	<key id="s_item_repacking_scroll_success_system" value="아이템이 잘 포장되었습니다. [{0}]의 거래 횟수가 1회 늘어났습니다." />
 	<key id="s_item_repacking_scroll_success_dialog" value="아이템이 잘 포장되었습니다." />
@@ -4659,7 +4684,7 @@
 	<key id="s_itemremake_option_raw" value="· {0}\n" />
 	<key id="s_itemremake_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}% &lt;/FONT&gt;할인 이벤트 중" />
 	<key id="s_itemremake_sa_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}% &lt;/FONT&gt;할인 효과 적용 중" />
-	<key id="s_itemremake_ask_lock_item_option" value="옵션을 잠그게 되면, 옵션 바꾸기를 진행하더라도 옵션과 수치가 변경되지 않습니다. 옵션 바꾸기 진행 시 {0} 아이템이 소모됩니다. 진행하시겠습니까?" feature="OptionBlock01" />
+	<key id="s_itemremake_ask_lock_item_option" value="옵션을 잠그게 되면, 옵션 바꾸기를 진행하더라도 옵션과 수치가 변경되지 않습니다. 옵션 바꾸기 진행 시 아래 아이템이 소모됩니다.\n진행하시겠습니까?\n\n - {0}" feature="OptionBlock01" />
 	<key id="s_itemremake_ask_high_sa_item_option" value="위와 같은 추가 옵션이 적용되어 있습니다.\n정말 추가 옵션을 변경 하시겠습니까?" />
 	<key id="s_itemremake_notice_disable_lock_item_option" value="{0} 아이템을 소지하고 있지 않아, 옵션 잠금 기능을 사용할 수 없습니다." feature="OptionBlock01" />
 	<key id="s_itemremake_notice_disable_lock_item_option_when_click_remake" value="{0} 아이템을 소지하고 있지 않아, 옵션 잠금 기능을 사용할 수 없습니다. 옵션 잠금을 해제하고 다시 시도해 주세요." feature="OptionBlock01" />
@@ -4681,7 +4706,7 @@
 	<key id="s_itemremake_scroll_pet_cur_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;현재 능력\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_pet_new_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;새로운 능력\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_pet_final_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;변경된 능력\n{0}&lt;/font&gt;" />
-	<key id="s_itemremake_scroll_desc" value="{1}를 사용합니다.\n주문서를 사용 시 주문서 기능에 따라 아이템의 옵션이 변경됩니다.\n&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;{0}" />
+	<key id="s_itemremake_scroll_desc" value="{1}$pp:를,을$ 사용합니다.\n주문서를 사용 시 주문서 기능에 따라 아이템의 옵션이 변경됩니다.\n&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;{0}" />
 	<key id="s_itemremake_scroll_desc_add" value=", {0}" />
 	<key id="s_itemremake_scroll_desc_add_option_kind_o" value="추가 옵션 종류가 변경됩니다." />
 	<key id="s_itemremake_scroll_desc_add_option_kind_x" value="추가 옵션 종류가 변경되지 않습니다." />
@@ -4798,6 +4823,7 @@
 	<key id="s_tooltip_itemmerge_option_range_f" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
 	<key id="s_tooltip_petremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 능력 변경 가능 (누적 변경 횟수 : {0}회)&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_petremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 능력 변경 가능&lt;/font&gt;" feature="PetRemake01" />
+	<key id="s_tooltip_fmt_in_package_money" value="{0} ({1})" comment="{0}:재화이름, {1}:수량" />
 	<key id="s_play_instrument_grade_Lv1" value="초보 연주가" />
 	<key id="s_play_instrument_grade_Lv2" value="중급 연주가" />
 	<key id="s_play_instrument_grade_Lv3" value="상급 연주가" />
@@ -5093,6 +5119,7 @@
 	<key id="s_itemlock_invalid_item_unlock" value="잠금 해제를 할 수 없는 아이템입니다." />
 	<key id="s_itemlock_selected_item" value="이미 선택된 아이템입니다." />
 	<key id="s_itemlock_invalid_petcompose" value="잠금 설정을 한 펫은 재료로 사용할 수 없습니다." />
+	<key id="s_itemlock_mail_remove" value="잠금 상태의 아이템이 첨부되어 있습니다.\n첨부된 물품을 받은 후에 시도해 주세요." />
 	<key id="s_event_return_user_item_buff" value="복귀 유저 혜택이 적용 중입니다. ( 6/16 ~ 8/25 점검 전까지 )\n1~4인 노멀 던전 클리어 시 보상을 2배 획득할 수 있습니다." />
 	<key id="s_event_open_item_box_ui_button" value="선물 받기" />
 	<key id="s_event_open_item_box_ui_not_event_time" value="이벤트 시간이 종료되었습니다." />
@@ -5565,6 +5592,8 @@
 	<key id="s_lullu_key_not_enough_item_shop_link" value="$item:{0}$ 아이템이 부족합니다.\n프리미엄 샵으로 구매하러 가시겠습니까?" />
 	<key id="s_lullu_key_single_open_tooltip" value="\n{0} 1개와 {1} 1개를 사용합니다.\n전체 아이템 중 1개의 아이템을 소환합니다.\n\n" />
 	<key id="s_lullu_key_multi_open_tooltip" value="\n{0} 10개와 {1} 10개를 사용합니다.\n위에 보여지는 고급 아이템 중 1개를 확정적으로 획득할 수 있습니다.\n\n" />
+	<key id="s_lullu_key_showwindow_title_codi_box" value="아래 아이템 중 1개를 획득할 수 있습니다." locale="CN" />
+	<key id="s_lullu_key_showwindow_desc_codi_box" value="" locale="CN" />
 	<key id="s_error_talk_already_talking" value="이미 대화중입니다." />
 	<key id="s_error_talk_battle_state_force_talk" value="전투 중에는 사용할 수 없습니다." />
 	<key id="s_stampevent_count" value="수집한 스탬프 개수 : {0} / {1}" />
@@ -5643,8 +5672,11 @@
 	<key id="s_pet_remake_cur_random_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;현재 추가 능력\n{0}&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_pet_remake_new_random_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;새로운 추가 능력\n{0}&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_pet_remake_error_server_impossible" value="추가 능력 변경을 할 수 없는 펫 입니다." feature="PetRemake01" />
-	<key id="s_pet_remake_ask_lock_item_option" value="추가 능력을 잠그면 추가 능력 변경 시 종류와 수치가 변경되지 않습니다. &lt;FONT color=&apos;#FFD200&apos;&gt;단, 추가 능력이 작동되는 펫 레벨 수치는 변경될 수 있습니다. &lt;/FONT&gt;추가 능력 바꾸기 진행 시 {0} 아이템이 소모됩니다. 진행하시겠습니까?" feature="PetRemake01" />
-	<key id="s_pet_remake_notice_disable_lock_item_option" value="{0} 아이템을 소지하고 있지 않아, 추가 능력 잠금 기능을 사용할 수 없습니다." feature="PetRemake01" />
+	<key id="s_pet_remake_ask_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;펫 추가 능력을 잠근 상태에서 능력을 변경합니다.\n잠긴 능력은 능력 바꾸기를 해도 종류와 수치가 변경되지 않습니다.\n\n[고정된 옵션 : &lt;font color=&apos;#ff4040&apos;&gt;{0}&lt;/font&gt;/{1}]\n{2}\n[옵션 고정에 필요한 아이템]\n- {3}\n\n{3} 아이템으로는 추가 능력을 최대 {4}개까지 고정할 수 있습니다.\n\n추가 능력을 변경하시겠습니까?&lt;/p&gt;" feature="PetRemake01" />
+	<key id="s_pet_remake_ask_have_not_lock" value="고정할 펫 추가 능력을 선택하지 않았습니다.\n펫 추가 능력 고정 없이 능력 변경을 진행할까요?\n([예]를 눌러서 추가 능력을 변경해도 선택하신 {0}는 소모되지 않습니다.) " feature="PetRemake01" />
+	<key id="s_pet_remake_notice_disable_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;선택된 펫 추가 능력 고정 재료가 없어 추가 능력 잠금 기능을 사용할 수 없습니다.\n\n- $item:30000923$\n- $item:30001345$&lt;/p&gt;" feature="PetRemake01" />
+	<key id="s_pet_remake_notice_lock_item_option_limit" value="{0} 아이템으로는 최대 {1}개까지만 옵션을 고정할 수 있습니다.\n새로운 옵션을 고정하려면 고정된 옵션을 해제해 주세요." feature="PetRemake01" />
+	<key id="s_pet_remake_notice_lock_item_option_max_count" value="모든 옵션을 고정할 수 없습니다.\n새로운 옵션을 고정하려면 고정된 옵션을 해제해 주세요." feature="PetRemake01" />
 	<key id="s_pet_remake_notice_disable_lock_item_option_when_click_remake" value="{0} 아이템을 소지하고 있지 않아, 추가 능력 잠금 기능을 사용할 수 없습니다. 추가 능력 잠금을 해제하고 다시 시도해 주세요." feature="PetRemake01" />
 	<key id="s_pet_remake_error_server_fail_apply_option" value="추가 능력 변경에 실패했습니다." feature="PetRemake01" />
 	<key id="s_pet_remake_sa_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}% &lt;/FONT&gt;할인 효과 적용 중" feature="PetRemake01" />
@@ -6104,4 +6136,14 @@
 	<key id="s_fieldwar_sidepopup_script" value="군단 침입 경보 발령!\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;\n즉시 지원이 필요합니다." comment="{0} : 필드맵" feature="Fieldwar01" />
 	<key id="s_arcade_game_preparing" value="준비 중" />
 	<key id="s_arcade_text_effect_consecutive_win" value="{0}연승 중!" feature="Event" />
+	<key id="s_character_skill_charging" value="1단계" />
+	<key id="s_character_skill_charging2" value="2단계" />
+	<key id="s_character_skill_chargingmax" value="Max" />
+	<key id="s_dungeon_control_center_reward_weekly" value="{0} / {1}" />
+	<key id="s_dungeon_control_center_reward_daily" value="{0} / {1}" />
+	<key id="s_dungeon_control_center_dungeon_title" value="Lv {0}. {1}" />
+	<key id="s_dungeon_control_center_require_reward_count" value="{0}회" />
+	<key id="s_dungeon_control_center_require_reward_complete" value="완료" />
+	<key id="s_dungeon_control_center_recommend_category" value="적정 던전" feature="DungeonFindRenewal01" />
+	<key id="s_dungeon_search_setting_group_none" value="전체 던전" />
 </ms2>

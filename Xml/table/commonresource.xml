@@ -115,6 +115,7 @@
 	<stat_point_icon_path value="./Data/Resource/Image/ETC/statpoint.png" />
 	<skill_point2_icon_path value="./Data/Resource/Image/ETC/skillpoint2.png" />
 	<skill_point2_icon_path value="./Data/Resource/Image/ETC/CN/skillpoint2.png" locale="CN" />
+	<meso_market_token_icon_path value="./Data/Resource/Image/ETC/meso_market_token.png" />
 	<FISHING_CURSOR_ENABLED value="./Data/Resource/Model/Effect/ETC/Fishing/Eff_fishing_cursor_02.nif" />
 	<FISHING_CURSOR_DISABLED value="./Data/Resource/Model/Effect/ETC/Fishing/Eff_fishing_cursor_01.nif" />
 	<FISH_HINT_EFFECT_SMALL value="ETC/Fishing/Eff_fish.xml" />
@@ -155,4 +156,12 @@
 	<EFFECT_SUMMON_PORTAL value="BG/Common/Eff_co_summon_portal.xml" />
 	<MUSIC_SCORE_PREMIUM_SHOP_SAMPLE value="./Data/Xml/MusicScore/sample.xml" />
 	<EFFECT_ADVENTURE_LEVEL_UP value="CH/Common/Eff_AdvantureLevelUp.xml" />
+	<allinace_sidepopup_illust_darkwind value="Schatten_normal" />
+	<allinace_sidepopup_illust_mapleunion value="Bliche_normal" />
+	<allinace_sidepopup_illust_lumiknight value="Mason_normal" />
+	<allinace_sidepopup_illust_triaroyalguard value="Conder_normal" />
+	<allinace_sidepopup_illust_greenhood value="Neirin_normal" />
+	<allinace_sidepopup_illust_mapleunion_kritiasexped value="Bliche_normal" />
+	<allinace_sidepopup_illust_lumiknight_kritiasexped value="Mason_normal" />
+	<allinace_sidepopup_illust_greenhood_kritiasexped value="Neirin_normal" />
 </ms2>

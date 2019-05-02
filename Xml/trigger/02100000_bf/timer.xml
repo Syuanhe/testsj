@@ -52,8 +52,6 @@
 
 			<onExit>   
 			<action name="타이머를초기화한다" arg1="10000"/>  
-	     	<action name="포탈을설정한다" arg1="19" arg2="1" arg3="1" arg4="1" /> 
-	     	<action name="포탈을설정한다" arg1="5" arg2="1" arg3="1" arg4="1" /> 
 			</onExit>
 	</state>
  
@@ -64,7 +62,7 @@
             <action name="업적이벤트를발생시킨다" arg1="9900" arg2="trigger" arg3="Find02100000"/> 
 			<action name="이벤트UI를설정한다" arg1="7" arg2="$02100000_BF__TIMER__1$" arg3="2000" arg4="0" />			
 			</onEnter>		
-			<condition name="WaitTick" waitTick="2000">	
+			<condition name="WaitTick" waitTick="5000">	
 				<action name="DungeonClear"/>		 						
 				<transition state="종료"/>	
 			</condition>			
@@ -75,13 +73,17 @@
 			<action name="이벤트UI를설정한다" arg1="5" arg2="$02100000_BF__TIMER__0$" arg3="2000" arg4="0" />					
 			<action name="몬스터소멸시킨다" arg1="all" />			
 		</onEnter>		 
-			<condition name="WaitTick" waitTick="2000" > 
+			<condition name="WaitTick" waitTick="5000" > 
 				<action name="DungeonFail" /> 						
 				<transition state="종료" />
 			</condition>
 	</state> 	
 
 	<state name="종료">			
+		<onEnter>
+	     	<action name="포탈을설정한다" arg1="19" arg2="1" arg3="1" arg4="1" /> 
+	     	<action name="포탈을설정한다" arg1="5" arg2="1" arg3="1" arg4="1" /> 
+		</onEnter>
 	</state>	
 	
 </ms2>

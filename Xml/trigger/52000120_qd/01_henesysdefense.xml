@@ -324,7 +324,7 @@
 
 	<state name="OskhalTalk03">
         <onEnter>
-			<action name="AddCinematicTalk" npcID="11003319" msg="$52000120_QD__01_HENESYSDEFENSE__8$" duration="4000" align="center" illustID="Oskhal_normal"/>
+			<action name="AddCinematicTalk" npcID="11003319" msg="$52000120_QD__01_HENESYSDEFENSE__8$" duration="4000" align="center" illustID="Oskhal_serious"/>
 			<!-- align = 일러스트 위치 : (left/ center/ right) 3가지 지원 (생략 시 center) -->
 			<!-- illustID = 표시할 일러스트의 npc id, 일러스트를 표시하기 싫으면 0으로 기입 -->
         </onEnter>

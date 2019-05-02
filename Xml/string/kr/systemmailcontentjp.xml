@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<mail id="" sender="" subject="" content="" />
+	<mail id="30000002" sender="시스템 관리자" subject="아이템을 돌려드립니다." content="잘못된 소켓에 장착되어 있던 젬스톤 또는 루미스톤을 돌려드립니다.&#x0A;소지품을 비우고 아이템을 받으세요." feature="ItemSocketSystem" locale="JP" />
 </ms2>

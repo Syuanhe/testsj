@@ -41,14 +41,14 @@
 			<condition type="level" value="1" target="62" />
 		</quest>
 	</environment>
-	<environment feature="ExtendLevel65" locale="NA">
+	<environment feature="ExtendLevel70" locale="NA">
 		<quest>
 			<basic chapterID="0" questID="70000016" questType="3" account="0" standardLevel="0" autoStart="1" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20301227" rank="1" count="1" />
+				<essentialJobItem code="20302538" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -61,14 +61,14 @@
 			<condition type="level" value="1" target="62" />
 		</quest>
 	</environment>
-	<environment feature="ExtendLevel65" locale="JP">
+	<environment feature="ExtendLevel70" locale="JP">
 		<quest>
 			<basic chapterID="0" questID="70000016" questType="3" account="0" standardLevel="0" autoStart="1" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20301227" rank="1" count="1" />
+				<essentialJobItem code="20302538" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -81,14 +81,14 @@
 			<condition type="level" value="1" target="62" />
 		</quest>
 	</environment>
-	<environment feature="ExtendLevel65" locale="TH">
+	<environment feature="ExtendLevel70" locale="TH">
 		<quest>
 			<basic chapterID="0" questID="70000016" questType="3" account="0" standardLevel="0" autoStart="1" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20301227" rank="1" count="1" />
+				<essentialJobItem code="20302538" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -101,14 +101,14 @@
 			<condition type="level" value="1" target="62" />
 		</quest>
 	</environment>
-	<environment feature="ExtendLevel65" locale="TW">
+	<environment feature="ExtendLevel70" locale="TW">
 		<quest>
 			<basic chapterID="0" questID="70000016" questType="3" account="0" standardLevel="0" autoStart="1" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="FALSE" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20301227" rank="1" count="1" />
+				<essentialJobItem code="20302538" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />

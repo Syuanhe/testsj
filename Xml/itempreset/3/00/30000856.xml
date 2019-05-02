@@ -6,7 +6,7 @@
     <FD translation="0" rotation="0" scale="0" />
     <CP xrotation="0" yrotation="0" zrotation="0" />
   </customize>
-  <install asset="Data/Resource/Model/Npc/11/11003300/11003300_M_MapleKnightRecruit2.nif"/>
+  <install asset="Data/Resource/Model/Npc/11/11003300/11003300_Lance.nif"/>
   <slots>
     <slot name="">
       <asset name="" targetnode="" selfnode=""/>

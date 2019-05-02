@@ -26,7 +26,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -37,7 +37,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -65,7 +65,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -76,7 +76,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -104,7 +104,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -115,7 +115,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -143,7 +143,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -154,7 +154,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -182,7 +182,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -193,7 +193,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -221,7 +221,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -232,7 +232,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -260,7 +260,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -271,7 +271,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -299,7 +299,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -310,7 +310,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -338,7 +338,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -349,7 +349,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -377,7 +377,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -388,7 +388,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -416,7 +416,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -427,7 +427,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -455,7 +455,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -466,7 +466,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -494,7 +494,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -505,7 +505,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -533,7 +533,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -544,7 +544,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -572,7 +572,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -583,7 +583,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -611,7 +611,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -622,7 +622,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -650,7 +650,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -661,7 +661,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -689,7 +689,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -700,7 +700,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -728,7 +728,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -739,7 +739,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -767,7 +767,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -778,7 +778,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -806,7 +806,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -817,7 +817,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -845,7 +845,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -856,7 +856,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -884,7 +884,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -895,7 +895,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -923,7 +923,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill_Feature_CharacterBalance_02/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -934,7 +934,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="300" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="375" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -962,7 +962,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -973,7 +973,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1001,7 +1001,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1012,7 +1012,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1040,7 +1040,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1051,7 +1051,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1079,7 +1079,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1090,7 +1090,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1118,7 +1118,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1129,7 +1129,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1157,7 +1157,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1168,7 +1168,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1196,7 +1196,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1207,7 +1207,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1235,7 +1235,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1246,7 +1246,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1274,7 +1274,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1285,7 +1285,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1313,7 +1313,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1324,7 +1324,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1352,7 +1352,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1363,7 +1363,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1391,7 +1391,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1402,7 +1402,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1430,7 +1430,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1441,7 +1441,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1469,7 +1469,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1480,7 +1480,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1508,7 +1508,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1519,7 +1519,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1547,7 +1547,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1558,7 +1558,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1586,7 +1586,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1597,7 +1597,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1625,7 +1625,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1636,7 +1636,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1664,7 +1664,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1675,7 +1675,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1703,7 +1703,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1714,7 +1714,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1742,7 +1742,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1753,7 +1753,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1781,7 +1781,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1792,7 +1792,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1820,7 +1820,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1831,7 +1831,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1859,7 +1859,7 @@
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>
 			<motionProperty sequenceName="Thief_PoisonBlow_03_B" selfInputCombo="" sequenceSpeed="1" motionEffect="" loopEffect="" endEffect="" splashInvokeEffect="" splashEndEffect="" strTagEffects="e0=CH/Skill/Thief/Eff_Thief_PoisonBlowEX03_Cast_01.xml" IgnoreOptimalHideCastEffect="false" IgnoreOptimalHideEndEffect="false" IgnoreOptimalHideSplashInvokeEffect="false" IgnoreOptimalHideSplashEndEffect="false" weaponSequenceName="" keyMove="25" movetype="0" moveangle="0" movevangle="0" movedistance="0" moveEaseType="0" moveMid="0" moveHeight="0" hide="0" ignoreCollisionGroups="0" holdWeapon="1" loopCount="0" pushCylinderVelH="0" pushCylinderVelV="0" pushCylinderOuter="0" pushCylinderInner="0" pushCylinderHeight="0" faceTarget="1" doesPlayIdleOnSkillEnd="true" startNoneBlendDelay="0" />
-			<attack point="p0" pointGroupID="10700018" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p0" pointGroupID="10700018" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />
@@ -1870,7 +1870,7 @@
 					</beginCondition>
 				</conditionSkill>
 			</attack>
-			<attack point="p1" pointGroupID="107000181" targetCount="5" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
+			<attack point="p1" pointGroupID="107000181" targetCount="8" magicPathID="0" cubeMagicPathID="0" direction="3" sequence="0" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="1.2" unrideOnHit="1" releaseObjectWeaponOnHit="1" compulsionType="" grabTargetType="0" grabNodeCategory="">
 				<pauseProperty pauseDuration="0" pauseShakeDuration="0.1" pauseAmp="10" />
 				<rangeProperty includeCaster="0" rangeType="box" distance="200" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="200" width="250" endWidth="0" applyTarget="1" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 				<arrowProperty overlap="0" explosion="0" rayPhysxTest="0" nonTarget="1" bounceType="0" bounceCount="0" bounceRadius="0" bounceOverlap="1" collision="0.000000,0.000000,0.000000" collisionAdd="0.000000,0.000000,0.000000" effect="" effectRemain="" effectRay="" effectDestroy="" targetKeepEffect="" rayType="0" />

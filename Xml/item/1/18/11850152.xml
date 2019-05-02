@@ -25,7 +25,7 @@
 		<skill skillID="0" skillLevel="1" />
 		<objectWeaponSkill skillID="0" skillLevel="1" />
 		<title maxCount="0" />
-		<effect enchantShape="1" idle="" battleIdle="" characterIdle="Item/Cape/Eff_Mantle_MTFunkyNeonCat.xml" characterBattleIdle="Item/Cape/Eff_Mantle_MTFunkyNeonCat.xml" />
+		<effect enchantShape="1" idle="Item/Cape/Eff_Mantle_MTFunkyNeonCat.xml" battleIdle="Item/Cape/Eff_Mantle_MTFunkyNeonCat.xml" characterIdle="" characterBattleIdle="" />
 		<fusion fusionable="0" />
 		<cutting />
 		<install placeable="0" unchangeable="0" cannotStackAttach="0" stackable="0" stackableD="0" attachable="0" wall="0" generatePhysX="0" cubeProp="0" space="0" animatable="0" funcCode="0" objCode="0" staticAngle="0" indoor="0" bankType="0" asset="" preset="" physXdimension="0.000000, 0.000000, 0.000000" mapAttribute="" propCollisionGroup="" />

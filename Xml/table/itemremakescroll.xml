@@ -127,4 +127,15 @@
 	<remakeScroll id="10000125" minLv="70" maxLv="70" slot="50,51,52,53,54,55,56" rank="6" representOpValue="1" mainOpKind="0" mainOpValue="0" addOpKind="1" addOpValue="1" />
 	<remakeScroll id="10000126" minLv="70" maxLv="70" slot="13,14,15,16,17,22" rank="6" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
 	<remakeScroll id="10000127" minLv="70" maxLv="70" slot="12,18,19,20,21" rank="6" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000128" minLv="50" maxLv="99" onlyPet="1" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" feature="PetRemake01" />
+	<remakeScroll id="10000129" minLv="60" maxLv="60" slot="18" rank="4" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000130" minLv="60" maxLv="60" slot="21" rank="4" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000131" minLv="60" maxLv="60" slot="12" rank="4" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000132" minLv="60" maxLv="60" slot="19" rank="4" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000133" minLv="60" maxLv="60" slot="20" rank="4" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000134" minLv="60" maxLv="60" slot="18" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000135" minLv="60" maxLv="60" slot="21" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000136" minLv="60" maxLv="60" slot="12" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000137" minLv="60" maxLv="60" slot="19" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
+	<remakeScroll id="10000138" minLv="60" maxLv="60" slot="20" rank="5" representOpValue="0" mainOpKind="0" mainOpValue="0" addOpKind="0" addOpValue="1" />
 </ms2>

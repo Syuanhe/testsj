@@ -264,7 +264,7 @@
 	<state name="PC대사01">
         <onEnter>	
 			<action name="카메라경로를선택한다" arg1="8120" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="0" illustID="0" msg="$52000133_QD__MAIN__6$" duration="3000" align="right" />]
+			<action name="AddCinematicTalk" npcID="0" illustID="0" msg="$52000133_QD__MAIN__6$" duration="3000" />
 			<action name="SetPcEmotionLoop" arg1="Talk_A" arg2="2000"/>
 			<action name="유저를경로이동시킨다" arg1="2_MS2PatrolData_PC02"/>
 <!-- 			<action name="스킵을설정한다" arg1="예민한아노스_스킵완료"/> -->
@@ -407,7 +407,7 @@
 	
 	<state name="PC대사03">
         <onEnter>	
-			<action name="AddCinematicTalk" npcID="0" illustID="0" msg="$52000133_QD__MAIN__12$" duration="3000" align="right" />
+			<action name="AddCinematicTalk" npcID="0" illustID="0" msg="$52000133_QD__MAIN__12$" align="center" duration="3000" />
 			<action name="SetPcEmotionLoop" arg1="Emotion_Hello_A" arg2="2000"/>
 <!-- 			<action name="스킵을설정한다" arg1="예민한아노스_스킵완료"/> -->
         </onEnter>
@@ -637,7 +637,7 @@
 	<state name="아노스대사06">
         <onEnter>	
 			<action name="카메라경로를선택한다" arg1="8140" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="11003259" illustID="Anos_normal" msg="$52000133_QD__MAIN__21$" duration="3000" align="left" />
+			<action name="AddCinematicTalk" npcID="11003259" illustID="Anos_serious" msg="$52000133_QD__MAIN__21$" duration="3000" align="left" />
 			<action name="SetNpcEmotionLoop" arg1="112" arg2="Bore_A" arg3="5800"/>	
 <!-- 			<action name="스킵을설정한다" arg1="예민한아노스_스킵완료"/> -->
         </onEnter>
@@ -663,7 +663,7 @@
 	<state name="아노스대사07">
         <onEnter>	
 			<action name="카메라경로를선택한다" arg1="8140" arg2="0"/>
-			<action name="AddCinematicTalk" npcID="11003259" illustID="Anos_normal" msg="$52000133_QD__MAIN__22$" duration="3000" align="left" />
+			<action name="AddCinematicTalk" npcID="11003259" illustID="Anos_serious" msg="$52000133_QD__MAIN__22$" duration="3000" align="left" />
 			<action name="SetSceneSkip" arg1="" arg2=""/> <!-- setsceneskip 2 close --> <!-- setsceneskip 2 close --> <!-- setsceneskip 2 close -->
         </onEnter>
 			<condition name="WaitTick" waitTick="3000" > 

@@ -211,7 +211,12 @@
 	<key skillID="90200128" default="0" reserved="열공|열공모드" />
 	<key skillID="90200129" default="0" reserved="꿀잠|꿀잠쿨쿨" />
 	<key skillID="90200130" default="0" reserved="인싸|인싸춤|인싸댄스" />
+	<key skillID="90200131" default="0" reserved="셀카|셀카찍기|인생샷" />
 	<key skillID="90200132" default="0" reserved="트레이닝|퍼스널트레이닝|물구나무서기" />
+	<key skillID="90200133" default="0" reserved="히어로등장" />
+	<key skillID="90200134" default="0" reserved="이번엔내차례" />
+	<key skillID="90200135" default="0" reserved="이몸등장" />
+	<key skillID="90200137" default="0" reserved="벚꽃나무|벚꽃나무아래서" />
 	<key skillID="90220001" default="0" reserved="" />
 	<key skillID="90220002" default="0" reserved="" />
 	<key skillID="90220003" default="0" reserved="" />
@@ -232,4 +237,5 @@
 	<key skillID="90220018" default="0" reserved="" />
 	<key skillID="90220019" default="0" reserved="" />
 	<key skillID="90220020" default="0" reserved="" />
+	<key skillID="90220021" default="0" reserved="" />
 </ms2>

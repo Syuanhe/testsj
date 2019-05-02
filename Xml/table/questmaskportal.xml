@@ -1072,7 +1072,7 @@
 	</field>
 	<field fieldID="02000268">
 		<key id="90" enableInMask="1">
-			<mask startQuestID="50100440" startQuestState="1" endQuestID="50100460" endQuestState="2" feature="LapentaFrontierQuest" />
+			<mask startQuestID="50100440" startQuestState="1" endQuestID="50100460" endQuestState="2" />
 		</key>
 	</field>
 </ms2>

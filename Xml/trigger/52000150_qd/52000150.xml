@@ -424,7 +424,7 @@
 	<state name="아노스흑화전대사02"> 
 		<onEnter>	
 <!-- 			<action name="카메라경로를선택한다" arg1="3002" arg2="0"/>		 --> 
-			<action name="AddCinematicTalk" npcID="11003442" illustID="Caitlyn_normal" msg="$52000150_QD__52000150__12$" duration="3000" align="right" />	<!--케이틀린 대사-->			
+			<action name="AddCinematicTalk" npcID="11003442" illustID="Caitlyn_serious" msg="$52000150_QD__52000150__12$" duration="3000" align="right" />	<!--케이틀린 대사-->			
 			<!-- #######################케이틀린#…선생님…\n이제 괜찮아요. 저희가 지켜드릴게요…#scriptkey:0713175511006311#######################-->	
 		</onEnter>
 			<condition name="WaitTick" waitTick="3000">
@@ -450,7 +450,7 @@
 	<state name="아노스흑화전대사04"> 
 		<onEnter>	
 <!-- 			<action name="카메라경로를선택한다" arg1="3002" arg2="0"/>		 -->	
-			<action name="AddCinematicTalk" npcID="11003442" illustID="Caitlyn_normal" msg="$52000150_QD__52000150__14$" duration="3000" align="right" />	<!--케이틀린 대사-->			
+			<action name="AddCinematicTalk" npcID="11003442" illustID="Caitlyn_serious" msg="$52000150_QD__52000150__14$" duration="3000" align="right" />	<!--케이틀린 대사-->			
 			<!-- #######################케이틀린#…선생님?!#scriptkey:0713175511006314#######################-->	
 		</onEnter>
 			<condition name="WaitTick" waitTick="3000">

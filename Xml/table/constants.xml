@@ -511,7 +511,7 @@
 	<v key="GoodIteriorRecommendUICloseTime" value="15" />
 	<v key="UGCInfoDetailViewPage" value="maview:/GuideUGC/Main/" />
 	<v key="UGCInfoDetailViewPage" value="http://www.nexon.net/en/legal/user-generated-content-policy" locale="NA" />
-	<v key="UGCInfoDetailViewPage" value="http://www.nexon.net/en/legal/user-generated-content-policy" locale="JP" />
+	<v key="UGCInfoDetailViewPage" value="https://maplestory2.nexon.co.jp/news/agreements" locale="JP" />
 	<v key="UGCInfoDetailViewPage" value="http://www.nexon.net/en/legal/user-generated-content-policy" locale="TH" />
 	<v key="UGCInfoDetailViewPage" value="http://www.nexon.net/en/legal/user-generated-content-policy" locale="TW" />
 	<v key="UGCInfoStoryBookID" value="39000038" />
@@ -535,7 +535,7 @@
 	<v key="characterMaxLevel" value="99" locale="KR" />
 	<v key="characterMaxLevel" value="70" locale="CN" />
 	<v key="characterMaxLevel" value="50" locale="NA" />
-	<v key="characterMaxLevel" value="50" locale="JP" />
+	<v key="characterMaxLevel" value="60" locale="JP" />
 	<v key="characterMaxLevel" value="50" locale="TH" />
 	<v key="characterMaxLevel" value="50" locale="TW" />
 	<v key="DropSPEPBallMaxLength" value="300" />
@@ -601,7 +601,7 @@
 	<v key="WriteMusicDetailWebPage" value="maview:/News/DetailView?page=1&amp;tp=notice&amp;k=&amp;s=552883" locale="KR" />
 	<v key="WriteMusicDetailWebPage" value="http://mxd2.qq.com/cp/a20160420news/content-2.shtml" locale="CN" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="NA" />
-	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="JP" />
+	<v key="WriteMusicDetailWebPage" value="https://maplestory2.nexon.co.jp/about/tips/performance" locale="JP" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="TH" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="TW" />
 	<v key="WriteMusicStoryBookID" value="39000047" />
@@ -621,9 +621,9 @@
 	<v key="DungeonSeasonRankMinLevel" value="99" locale="TW" />
 	<v key="LimitMeratRevival" value="0" />
 	<v key="LimitMeratRevival" value="1" locale="NA" />
-	<v key="LimitMeratRevival" value="1" locale="JP" />
-	<v key="LimitMeratRevival" value="1" locale="TH" />
-	<v key="LimitMeratRevival" value="1" locale="TW" />
+	<v key="LimitMeratRevival" value="0" locale="JP" />
+	<v key="LimitMeratRevival" value="0" locale="TH" />
+	<v key="LimitMeratRevival" value="0" locale="TW" />
 	<v key="MinimapScaleSkipDuration" value="5000" />
 	<v key="MinimapScaleSkipSplitPixel" value="20" />
 	<v key="TradeMinMeso" value="100" />
@@ -649,6 +649,7 @@
 	<v key="MesoMarketProductUnit7" value="80000000" locale="KR" />
 	<v key="MesoMarketProductUnit8" value="90000000" locale="KR" />
 	<v key="MesoMarketProductUnit9" value="100000000" locale="KR" />
+	<v key="MesoMarketBuyPayType" value="3" locale="KR" />
 	<v key="MesoMarketIconType" value="0" locale="KR" />
 	<v key="MesoMarketBasePrice" value="1000000" locale="CN" />
 	<v key="MesoMarketProductUnit0" value="1000000" locale="CN" />
@@ -658,19 +659,12 @@
 	<v key="MesoMarketProductUnit4" value="100000000" locale="CN" />
 	<v key="MesoMarketProductUnit5" value="200000000" locale="CN" />
 	<v key="MesoMarketProductUnit6" value="500000000" locale="CN" />
+	<v key="MesoMarketBuyPayType" value="3" locale="CN" />
 	<v key="MesoMarketIconType" value="2" locale="CN" />
-	<v key="MesoMarketBasePrice" value="10000000" locale="NA" />
-	<v key="MesoMarketProductUnit0" value="10000000" locale="NA" />
-	<v key="MesoMarketProductUnit1" value="20000000" locale="NA" />
-	<v key="MesoMarketProductUnit2" value="30000000" locale="NA" />
-	<v key="MesoMarketProductUnit3" value="40000000" locale="NA" />
-	<v key="MesoMarketProductUnit4" value="50000000" locale="NA" />
-	<v key="MesoMarketProductUnit5" value="60000000" locale="NA" />
-	<v key="MesoMarketProductUnit6" value="70000000" locale="NA" />
-	<v key="MesoMarketProductUnit7" value="80000000" locale="NA" />
-	<v key="MesoMarketProductUnit8" value="90000000" locale="NA" />
-	<v key="MesoMarketProductUnit9" value="100000000" locale="NA" />
-	<v key="MesoMarketIconType" value="2" locale="NA" />
+	<v key="MesoMarketBasePrice" value="5000000" locale="NA" />
+	<v key="MesoMarketProductUnit0" value="5000000" locale="NA" />
+	<v key="MesoMarketBuyPayType" value="16" locale="NA" />
+	<v key="MesoMarketIconType" value="0" locale="NA" />
 	<v key="MesoMarketBasePrice" value="10000000" locale="JP" />
 	<v key="MesoMarketProductUnit0" value="10000000" locale="JP" />
 	<v key="MesoMarketProductUnit1" value="20000000" locale="JP" />
@@ -682,6 +676,7 @@
 	<v key="MesoMarketProductUnit7" value="80000000" locale="JP" />
 	<v key="MesoMarketProductUnit8" value="90000000" locale="JP" />
 	<v key="MesoMarketProductUnit9" value="100000000" locale="JP" />
+	<v key="MesoMarketBuyPayType" value="3" locale="JP" />
 	<v key="MesoMarketIconType" value="2" locale="JP" />
 	<v key="MesoMarketBasePrice" value="10000000" locale="TH" />
 	<v key="MesoMarketProductUnit0" value="10000000" locale="TH" />
@@ -694,6 +689,7 @@
 	<v key="MesoMarketProductUnit7" value="80000000" locale="TH" />
 	<v key="MesoMarketProductUnit8" value="90000000" locale="TH" />
 	<v key="MesoMarketProductUnit9" value="100000000" locale="TH" />
+	<v key="MesoMarketBuyPayType" value="3" locale="TH" />
 	<v key="MesoMarketIconType" value="2" locale="TH" />
 	<v key="MesoMarketBasePrice" value="10000000" locale="TW" />
 	<v key="MesoMarketProductUnit0" value="10000000" locale="TW" />
@@ -706,6 +702,7 @@
 	<v key="MesoMarketProductUnit7" value="80000000" locale="TW" />
 	<v key="MesoMarketProductUnit8" value="90000000" locale="TW" />
 	<v key="MesoMarketProductUnit9" value="100000000" locale="TW" />
+	<v key="MesoMarketBuyPayType" value="3" locale="TW" />
 	<v key="MesoMarketIconType" value="2" locale="TW" />
 	<v key="BeautyHairShopGotoFieldID" value="52000008" />
 	<v key="BeautyHairShopGotoPortalID" value="1" />
@@ -930,6 +927,7 @@
 	<v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.net/en/news/article/32249/mushking-royale-championship-rewards" locale="TW" />
 	<v key="TreewateringEmotion" value="10000" />
 	<v key="ShopProbInfoUrl" value="http://maplestory2.nexon.com/ItemProbability/VwItem/" locale="KR" />
+	<v key="AdventureLevelLimit" value="10000" feature="AdventureLevel" />
 	<v key="AdventureLevelLvUpExp" value="1000000" feature="AdventureLevel" />
 	<v key="AdventureLevelMaxExp" value="1500000" feature="AdventureLevel" />
 	<v key="AdventureLevelFactor" value="0.02" feature="AdventureLevel" />

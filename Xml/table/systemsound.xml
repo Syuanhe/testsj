@@ -409,4 +409,14 @@
 	<systemSound key="System_PinkBeans_Arcade_Correct_01" group="MS2Sound/Sound/system" soundID="02100327" />
 	<systemSound key="System_PinkBeans_Arcade_Wrong_01" group="MS2Sound/Sound/system" soundID="02100328" />
 	<systemSound key="System_PinkBeans_Arcade_Result_01" group="MS2Sound/Sound/system" soundID="02100329" />
+	<systemSound key="System_Bingo_X_01" group="MS2Sound/Sound/system" soundID="02100330" />
+	<systemSound key="System_Bingo_Line_01" group="MS2Sound/Sound/system" soundID="02100331" />
+	<systemSound key="System_Bingo_LineComplete_01" group="MS2Sound/Sound/system" soundID="02100332" />
+	<systemSound key="System_Bingo_Flip_01" group="MS2Sound/Sound/system" soundID="02100333" />
+	<systemSound key="System_Bingo_Button_get_01" group="MS2Sound/Sound/system" soundID="02100334" />
+	<systemSound key="System_Bingo_RegPopUp_01" group="MS2Sound/Sound/system" soundID="02100335" />
+	<systemSound key="System_Bingo_SpecialPopUp_01" group="MS2Sound/Sound/system" soundID="02100336" />
+	<systemSound key="System_Bingo_Button_over_01" group="MS2Sound/Sound/system" soundID="02100337" />
+	<systemSound soundID="02100338" group="MS2Sound/Sound/system" key="System_Bingo_Success_01" />
+	<systemSound soundID="02100339" group="MS2Sound/Sound/system" key="System_Bingo_UI_01" />
 </ms2>

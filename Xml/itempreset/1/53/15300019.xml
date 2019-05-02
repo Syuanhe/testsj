@@ -10,7 +10,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset name="urn:15300012_QuadBarrel" targetnode="Weapon_Back_B_Point" selfnode="15300012_QuadBarrel">
+      <asset name="urn:15300012_QuadBarrel" targetnode="Weapon_Back_B_Point" selfnode="Move_Point01">
 		<dummy gender="0" sequence="" rotation="0,2,-11" translation="-14,-9,18" />
 	    <dummy gender="1" sequence="" rotation="2,-1,-16" translation="-13,-9,21" />
 	  </asset>

@@ -8,5 +8,5 @@
 		<camera position="-0.000096, -1100.000000, 977.627930" rotation="49.106133, 89.980209, -0.000000" />
 		<edit zoomfactor="1" />
 	</minimap>
-	<clientProperty bgDay="BG_Winter_Login.swf" />
+	<clientProperty bgDay="BG_Spring_Login.swf" />
 </ms2>

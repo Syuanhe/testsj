@@ -536,4 +536,28 @@
 			<content text="$script:0215163318003067$" />
 		</script>
 	</quest>
+	<quest id="80020121">
+		<script id="100" feature="Event" locale="NA">
+			<content voiceID="ko/Npc/02000947" text="$script:0311152418003068$" />
+			<content text="$script:0311152418003069$" />
+		</script>
+		<script id="200" feature="Event" locale="NA">
+			<content text="$script:0311152418003070$" />
+		</script>
+		<script id="300" feature="Event" locale="NA">
+			<content voiceID="ko/Npc/02000943" text="$script:0311152418003071$" />
+		</script>
+	</quest>
+	<quest id="80020122">
+		<script id="100" feature="Event" locale="NA">
+			<content voiceID="ko/Npc/02000947" text="$script:0311152418003072$" />
+			<content text="$script:0311152418003073$" />
+		</script>
+		<script id="200" feature="Event" locale="NA">
+			<content text="$script:0311152418003074$" />
+		</script>
+		<script id="300" feature="Event" locale="NA">
+			<content voiceID="ko/Npc/02000943" text="$script:0311152418003075$" />
+		</script>
+	</quest>
 </ms2>

@@ -627,10 +627,13 @@
 	<category id="51">
 		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="1">
 			<tab name="2031" category="SKIN" priority="2" />
-			<tab name="1011" category="Badge" priority="3" />
-			<tab name="1006" category="EventHouse" priority="4" />
-			<tab name="1014" category="Pet" priority="5" />
-			<tab name="3038" category="ETC" priority="6" />
+			<tab name="1009" category="Ride" priority="3" />
+			<tab name="1011" category="Badge" priority="4" />
+			<tab name="1006" category="EventHouse" priority="5" />
+			<tab name="1014" category="Pet" priority="6" />
+			<tab name="1013" category="Coupon" priority="7" />
+			<tab name="2015" category="PS" priority="8" static="0" />
+			<tab name="3038" category="ETC" priority="9" />
 		</tab>
 	</category>
 	<category id="52">

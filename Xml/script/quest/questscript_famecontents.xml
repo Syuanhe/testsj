@@ -3769,4 +3769,102 @@
 			<content leftIllust="Neirin_smile" speakerIllust="Neirin_smile" speakerNpc="11004315" text="$script:0124202519011059$" />
 		</script>
 	</quest>
+	<quest id="91000980">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" screenEffectMovie="mask_black" screenEffectAction="fadeout" screenEffectValue="1000" text="$script:0325112619011063$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011075$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004408" text="$script:0327150219011076$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004408" text="$script:0327150219011077$" />
+			<content leftIllust="Eone_closeEye" rightIllust="Bliche_normal" speakerIllust="Eone_closeEye" text="$script:0327150219011078$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Eone_normal" text="$script:0327150219011079$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" screenEffectMovie="mask_black" screenEffectAction="fadein" screenEffectValue="3000" text="$script:0327150219011080$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0325112619011064$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011081$" />
+			<content myTalk="1" text="$script:0327150219011082$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011083$" />
+			<content myTalk="1" text="$script:0327150219011084$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011085$" />
+		</script>
+	</quest>
+	<quest id="91000990">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0327150219011086$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0325112619011067$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0327150219011087$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\knight_past.dds" text="$script:0327150219011088$" />
+			<content myTalk="1" imagePlate="Data\Resource\Image\QuestImagePlate\knight_past.dds" text="$script:0327150219011089$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\knight_past.dds" text="$script:0327150219011090$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" text="$script:0327150219011091$" />
+			<content myTalk="1" text="$script:0327150219011092$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_demon.dds" text="$script:0327150219011093$" />
+			<content leftIllust="Eone_normal" rightIllust="siman_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_paul1.dds" text="$script:0327150219011094$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_paul1.dds" text="$script:0327150219011095$" />
+			<content myTalk="1" text="$script:0325112619011068$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011096$" />
+			<content myTalk="1" text="$script:0327150219011097$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011098$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" text="$script:0327150219011099$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" text="$script:0327150219011100$" />
+			<content myTalk="1" text="$script:0327150219011101$" />
+		</script>
+	</quest>
+	<quest id="91001000">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0325112619011069$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0325112619011070$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0325112619011071$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011102$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" text="$script:0327150219011103$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011104$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_neirin01.dds" text="$script:0327150219011105$" />
+			<content myTalk="1" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_neirin01.dds" text="$script:0327150219011106$" />
+			<content myTalk="1" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_neirin01.dds" text="$script:0327150219011107$" />
+			<content myTalk="1" text="$script:0327150219011108$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011109$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011110$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011111$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011112$" />
+			<content myTalk="1" text="$script:0327150219011113$" />
+		</script>
+	</quest>
+	<quest id="91001010">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0325112619011072$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0325112619011073$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0325112619011074$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011114$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_Rogues.dds" text="$script:0327150219011115$" />
+			<content myTalk="1" text="$script:0327150219011116$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" text="$script:0327150219011117$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_trace.dds" text="$script:0327150219011118$" />
+			<content myTalk="1" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_trace.dds" text="$script:0327150219011119$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\EP1_trace.dds" text="$script:0327150219011120$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_FireRubics.dds" text="$script:0327170419011130$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_FireRubics.dds" text="$script:0327150219011121$" />
+			<content myTalk="1" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_FireRubics.dds" text="$script:0327150219011122$" />
+			<content myTalk="1" text="$script:0327150219011123$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" text="$script:0327150219011124$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" text="$script:0327150219011125$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_shop.dds" text="$script:0327150219011126$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" imagePlate="Data\Resource\Image\QuestImagePlate\Fame_shop.dds" text="$script:0327150219011127$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" text="$script:0327150219011128$" />
+			<content myTalk="1" text="$script:0327150219011129$" />
+		</script>
+	</quest>
 </ms2>

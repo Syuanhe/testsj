@@ -17,7 +17,7 @@
 			<stat />
 		</consume>
 		<targetItem>
-			<item id="80000219" count="0" />
+			<item id="50600219" count="0" />
 		</targetItem>
 		<upgrade />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />

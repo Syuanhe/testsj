@@ -140,10 +140,10 @@
 			<action name="사운드를설정한다" arg1="9000" arg2="1" /> 		
 			<action name="카메라경로를선택한다" arg1="2002" arg2="0"/>
 			<action name="SetOnetimeEffect" id="40" enable="1" path="BG/Common/Eff_Com_Vibrate_Short.xml"/> 				
-			<action name="AddCinematicTalk" npcID="11003292" illustID="0" msg="$52000108_QD__52000108__4$" duration="4000" align="right" />
+			<action name="AddCinematicTalk" npcID="11003292" illustID="0" msg="$52000108_QD__52000108__4$" duration="6000" align="right" />
 			<action name="SetOnetimeEffect" id="3000973" enable="1" path="BG/Common/Sound/Eff_Ayesha_IntroMovie_03000973.xml"/>			
 		</onEnter>
-				<condition name="WaitTick" waitTick="5000">
+				<condition name="WaitTick" waitTick="6000">
 					<transition state="불끄기퀘스트07"/>
 				</condition>	
 		<onExit>

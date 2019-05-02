@@ -2369,6 +2369,7 @@
 	<individualDropBox individualDropBoxID="381000035" dropGroup="1" item="30001118" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="381000036" dropGroup="1" item="30001119" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="381000037" dropGroup="1" item="30001153" minCount="1" maxCount="1" socketDataID="" locale="CN" />
+	<individualDropBox individualDropBoxID="381000037" dropGroup="1" item="30001344" minCount="1" maxCount="1" socketDataID="" locale="NA" />
 	<individualDropBox individualDropBoxID="382000001" dropGroup="1" item="40100023" minCount="999" maxCount="999" socketDataID="" />
 	<individualDropBox individualDropBoxID="382000002" dropGroup="1" item="90000001" minCount="100000" maxCount="100000" socketDataID="" />
 	<individualDropBox individualDropBoxID="383000001" dropGroup="1" item="90000008" minCount="0" maxCount="0" socketDataID="" />

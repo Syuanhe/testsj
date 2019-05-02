@@ -768,4 +768,7 @@
 	<key id="10000742" name="레인보우 슬라임 사육사" feature="Event" locale="NA" />
 	<key id="10000743" name="퀸크빈 럼블 매니아" feature="Colosseum01" />
 	<key id="10000744" name="퀸크빈의" feature="Colosseum01" />
+	<key id="10000745" name="보라해" feature="Event" />
+	<key id="10000746" name="미션! 셋, 둘, 하나 마스터" feature="Event" />
+	<key id="10000747" name="화려함의 극치" locale="CN" />
 </ms2>

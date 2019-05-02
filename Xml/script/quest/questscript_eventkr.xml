@@ -7015,4 +7015,165 @@
 			<content voiceID="ko/Npc/02000943" text="$script:0306175514003947$" />
 		</script>
 	</quest>
+	<quest id="80000580">
+		<script id="100" feature="Event" locale="">
+			<content text="$script:0327171714003964$" />
+			<content text="$script:0327171714003949$" />
+			<content text="$script:0402144014003970$" />
+		</script>
+		<script id="200" feature="Event" locale="">
+			<content text="$script:0327171714003950$">
+				<distractor text="$script:0402144014003987$" goto="201" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="Event" locale="">
+			<content text="$script:0402144014003988$">
+				<distractor text="$script:0402144014003989$" goto="202" gotoFail="" />
+			</content>
+		</script>
+		<script id="202" feature="Event" locale="">
+			<content text="$script:0402144014003990$" />
+			<content text="$script:0402144014003991$">
+				<distractor text="$script:0402144014003992$" goto="203" gotoFail="" />
+				<distractor text="$script:0402144014003993$" goto="205" gotoFail="" />
+			</content>
+		</script>
+		<script id="203" feature="Event" locale="">
+			<content text="$script:0402144014003994$">
+				<distractor text="$script:0402144014003995$" goto="204" gotoFail="" />
+				<distractor text="$script:0402144014003996$" goto="205" gotoFail="" />
+			</content>
+		</script>
+		<script id="204" feature="Event" locale="">
+			<content text="$script:0402144014003997$">
+				<distractor text="$script:0402144014003998$" goto="203" gotoFail="" />
+			</content>
+		</script>
+		<script id="205" feature="Event" locale="">
+			<content text="$script:0402144014003999$" />
+		</script>
+		<script id="300" feature="Event" locale="">
+			<content text="$script:0327171714003951$">
+				<distractor text="$script:0402144014004000$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="Event" locale="">
+			<content text="$script:0402144014004001$" />
+		</script>
+	</quest>
+	<quest id="80000581">
+		<script id="100" feature="Event" locale="">
+			<content text="$script:0327171714003952$">
+				<distractor text="$script:0402144014004002$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Event" locale="">
+			<content text="$script:0327171714003953$" />
+			<content text="$script:0402144014004003$" />
+		</script>
+		<script id="200" feature="Event" locale="">
+			<content text="$script:0327171714003954$" />
+		</script>
+		<script id="300" feature="Event" locale="">
+			<content text="$script:0327171714003955$">
+				<distractor text="$script:0402144014004004$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="Event" locale="">
+			<content text="$script:0402144014004005$" />
+		</script>
+	</quest>
+	<quest id="80000582">
+		<script id="100" feature="Event" locale="">
+			<content text="$script:0327171714003956$">
+				<distractor text="$script:0402144014004006$" goto="101" gotoFail="" />
+				<distractor text="$script:0402144014004007$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Event" locale="">
+			<content text="$script:0327171714003957$">
+				<distractor text="$script:0402144014004008$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Event" locale="">
+			<content text="$script:0402144014004009$">
+				<distractor text="$script:0402144014004010$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Event" locale="">
+			<content text="$script:0402144014004011$" />
+			<content text="$script:0402144014004012$">
+				<distractor text="$script:0402144014004013$" goto="104" gotoFail="" />
+				<distractor text="$script:0402144014004014$" goto="105" gotoFail="" />
+			</content>
+		</script>
+		<script id="104" feature="Event" locale="">
+			<content text="$script:0402144014004015$" />
+			<content text="$script:0402144014004016$" />
+		</script>
+		<script id="105" feature="Event" locale="">
+			<content text="$script:0402144014004017$">
+				<distractor text="$script:0402144014004018$" goto="104" gotoFail="" />
+			</content>
+		</script>
+		<script id="200" feature="Event" locale="">
+			<content text="$script:0327171714003958$" />
+		</script>
+		<script id="300" feature="Event" locale="">
+			<content text="$script:0327171714003959$">
+				<distractor text="$script:0402144014004019$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="Event" locale="">
+			<content text="$script:0402144014004020$" />
+		</script>
+	</quest>
+	<quest id="80000583">
+		<script id="100" feature="Event" locale="">
+			<content text="$script:0327171714003960$">
+				<distractor text="$script:0402144014004021$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Event" locale="">
+			<content text="$script:0327171714003961$">
+				<distractor text="$script:0402144014004022$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Event" locale="">
+			<content text="$script:0402144014004023$">
+				<distractor text="$script:0402144014004024$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Event" locale="">
+			<content text="$script:0402144014004025$">
+				<distractor text="$script:0402144014004026$" goto="104" gotoFail="" />
+			</content>
+		</script>
+		<script id="104" feature="Event" locale="">
+			<content text="$script:0402144014004027$" />
+		</script>
+		<script id="200" feature="Event" locale="">
+			<content text="$script:0327171714003962$">
+				<distractor text="$script:0402144014004028$" goto="201,202" gotoFail="203" />
+				<distractor text="$script:0402144014004029$" goto="204" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="Event" locale="">
+			<content openTalkReward="1" text="$script:0402144014004030$" functionID="1" />
+		</script>
+		<script id="202" feature="Event" locale="">
+			<content text="$script:0402144014004031$" />
+		</script>
+		<script id="203" feature="Event" locale="">
+			<content text="$script:0402144014004032$" />
+		</script>
+		<script id="204" feature="Event" locale="">
+			<content text="$script:0402144014004033$" />
+		</script>
+		<script id="300" feature="Event" locale="">
+			<content text="$script:0327171714003963$" />
+			<content otherNpcTalk="11004313" text="$script:0402153414004034$" />
+			<content text="$script:0402153414004035$" />
+		</script>
+	</quest>
 </ms2>

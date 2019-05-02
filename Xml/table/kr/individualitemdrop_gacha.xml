@@ -3989,11 +3989,11 @@
 	<individualDropBox individualDropBoxID="330002003" dropGroup="1" item="40100039" smartDropRate="100" showTooltip="2" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002003" dropGroup="1" item="40100039" smartDropRate="100" showTooltip="2" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002003" dropGroup="1" item="40100039" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1000" maxCount="1000" PackageUIShowGrade="1" />
-	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="50600235" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
-	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
-	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" />
-	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
-	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="50600235" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" feature="SurvivalContents01" />
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20301487" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20301489" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20301490" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
@@ -4001,11 +4001,11 @@
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20301484" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20000021" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002004" dropGroup="1" item="20000004" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
-	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="50600235" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
-	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
-	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" />
-	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
-	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="50600235" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="SurvivalContents01" />
+	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="61200001" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" feature="SurvivalContents01" />
 	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="20301487" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="20301489" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="330002005" dropGroup="1" item="20301488" smartDropRate="100" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />

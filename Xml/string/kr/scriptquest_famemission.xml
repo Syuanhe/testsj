@@ -3026,8 +3026,8 @@
 	<key id="1217195521026468" feature="Kritias_2018_12" locale="" npc="PC" name="(물론이라고 하며, 다녀오겠다고 말한다.)" />
 	<key id="1217195521026469" feature="Kritias_2018_12" locale="" npc="블리체" name="잠깐, 이왕이면 네발이 달린 귀여운 외형의 몬스터면 좋을 것 같다.&#x0A;연구원들의 연구 의욕을 높이기 위한 방안이니, 오해 말도록." />
 	<key id="0129160221029547" feature="Kritias_2018_12" locale="" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(흐음?)&lt;/font&gt;' />
-	<key id="1217195521026470" feature="Kritias_2018_12" locale="" npc="블리체" name='온순한 몬스터는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020033$&lt;/font&gt;에 있을 것으로 추정된다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020033$&lt;/font&gt;$pp2:로,으로$ 이동해서 온순한 몬스터를 찾아보도록.' />
-	<key id="1217195521026471" feature="Kritias_2018_12" locale="" npc="블리체" name='온순한 몬스터는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020033$&lt;/font&gt;에 있을 것으로 추정된다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020033$&lt;/font&gt;$pp2:로,으로$ 이동해서 온순한 몬스터를 찾아보도록.' />
+	<key id="1217195521026470" feature="Kritias_2018_12" locale="" npc="블리체" name='온순한 몬스터는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020008$&lt;/font&gt;에 있을 것으로 추정된다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020008$&lt;/font&gt;$pp2:로,으로$ 이동해서 온순한 몬스터를 찾아보도록.' />
+	<key id="1217195521026471" feature="Kritias_2018_12" locale="" npc="블리체" name='온순한 몬스터는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020008$&lt;/font&gt;에 있을 것으로 추정된다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020008$&lt;/font&gt;$pp2:로,으로$ 이동해서 온순한 몬스터를 찾아보도록.' />
 	<key id="1217195521026472" feature="Kritias_2018_12" locale="" npc="블리체" name="성과는 있었나?" />
 	<key id="1217195521026473" feature="Kritias_2018_12" locale="" npc="PC" name='(가져온 &lt;font color=&quot;#ffd200&quot;&gt;$item:61000167$&lt;/font&gt;$pp:를,을$ 보여준다.)' />
 	<key id="1217195521026474" feature="Kritias_2018_12" locale="" npc="분홍 꿈트리" name="뀨!" />
@@ -4462,13 +4462,13 @@
 	<key id="1220183321028232" feature="Kritias_2018_12" locale="" npc="네이린" name='그러니, 부탁드려요!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02020009$&lt;/font&gt;$pp2:로,으로$ 가서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:25021604$&lt;/font&gt;$pp:를,을$ 제압하고 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001256$&lt;/font&gt;$pp:를,을$ 되찾아 주세요.' />
 	<key id="1220183321028233" feature="Kritias_2018_12" locale="" npc="네이린" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02020009$&lt;/font&gt;$pp2:로,으로$ 가서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:25021604$&lt;/font&gt;$pp:를,을$ 제압하고 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001256$&lt;/font&gt;$pp:를,을$ 되찾아 주세요.' />
 	<key id="1220183321028234" feature="Kritias_2018_12" locale="" npc="네이린" name="정말 감사해요, $MyPCName$님!&#x0A;덕분에 해독제 신약 양산을 할 수 있게 되었어요!" />
-	<key id="1220183321028235" feature="Kritias_2018_12" locale="" npc="네이린" name="어서 오세요, $MyPCName$님.&#x0A;전에$map:02020018$에서 많은 에네르가 검출되었다고 말씀드릴 것 기억하고 계세요?" />
+	<key id="1220183321028235" feature="Kritias_2018_12" locale="" npc="네이린" name="어서 오세요, $MyPCName$님.&#x0A;전에 $map:02020018$에서 많은 에네르가 검출되었다고 말씀드릴 것 기억하고 계세요?" />
 	<key id="0130145621029740" feature="Kritias_2018_12" locale="" npc="PC" name="(아… 물론 기억하고 있다고 말한다.)" />
 	<key id="0130145621029741" feature="Kritias_2018_12" locale="" npc="네이린" name="음… 뭔가 표정은 기억 안 난다는 표정인데…&#x0A;뭐 괜찮아요. 어차피 임무 때문에 브리핑 드려야 하니까요." />
 	<key id="0130145621029742" feature="Kritias_2018_12" locale="" npc="네이린" name="그린후드는 많은 에네르를 채취하고 연구를 시작하기 위해 $map:02020018$에 연구 캠프를 설치하기로 결정했어요." />
-	<key id="0130145621029743" feature="Kritias_2018_12" locale="" npc="네이린" name="하지만 $npcName:23001006$의 방해로 연구 캠프 설치는커녕 연구원들도 도망가기 바쁜 상황이에요." />
-	<key id="0130145621029744" feature="Kritias_2018_12" locale="" npc="네이린" name='$map:02020018$$pp:는,은$ 에네르 연구와 채취를 위해 반드시 확보해야 할 지역이에요.&#x0A;캠프를 건설할 수 있도록 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020018$&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23001006$&lt;/font&gt;를 몰아내 주세요!' />
-	<key id="1220183321028237" feature="Kritias_2018_12" locale="" npc="네이린" name='캠프를 건설할 수 있도록 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020018$&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23001006$&lt;/font&gt;를 몰아내 주세요!' />
+	<key id="0130145621029743" feature="Kritias_2018_12" locale="" npc="네이린" name="하지만 $npcName:25021703$의 방해로 연구 캠프 설치는커녕 연구원들도 도망가기 바쁜 상황이에요." />
+	<key id="0130145621029744" feature="Kritias_2018_12" locale="" npc="네이린" name='$map:02020018$$pp:는,은$ 에네르 연구와 채취를 위해 반드시 확보해야 할 지역이에요.&#x0A;캠프를 건설할 수 있도록 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020018$&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:25021703$&lt;/font&gt;를 몰아내 주세요!' />
+	<key id="1220183321028237" feature="Kritias_2018_12" locale="" npc="네이린" name='캠프를 건설할 수 있도록 &lt;font color=&quot;#ffd200&quot;&gt;$map:02020018$&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:25021703$&lt;/font&gt;를 몰아내 주세요!' />
 	<key id="1220183321028238" feature="Kritias_2018_12" locale="" npc="네이린" name="연구팀이 캠프를 설치하기 시작했다는 보고에요!&#x0A;$MyPCName$님 덕분이에요!" />
 	<key id="1220183321028239" feature="Kritias_2018_12" locale="" npc="네이린" name="$MyPCName$님 오셨나요?&#x0A;게오르크로부터 기밀문서 전달받으셨나요?" />
 	<key id="0130145621029745" feature="Kritias_2018_12" locale="" npc="PC" name='&lt;font color=&quot;#909090&quot;&gt;(무슨 기밀문서를 말하는 것인지…)&lt;/font&gt;' />

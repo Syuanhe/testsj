@@ -290,6 +290,13 @@
 		<v rank="4" itemID="20301808" systemMailID="53000039" />
 		<v rank="5" itemID="20301809" systemMailID="53000040" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10011" locale="NA">
+		<v rank="1" itemID="20302567" systemMailID="53000063" />
+		<v rank="2" itemID="20302568" systemMailID="53000064" />
+		<v rank="3" itemID="20302569" systemMailID="53000065" />
+		<v rank="4" itemID="20302570" systemMailID="53000066" />
+		<v rank="5" itemID="20302571" systemMailID="53000067" />
+	</DungeonRankReward>
 	<DungeonRankReward rewardID="10012" locale="KR">
 		<v rank="1" itemID="20301810" systemMailID="53000041" />
 		<v rank="2" itemID="20301811" systemMailID="53000042" />
@@ -303,6 +310,13 @@
 		<v rank="3" itemID="20301812" systemMailID="53000043" />
 		<v rank="4" itemID="20301813" systemMailID="53000044" />
 		<v rank="5" itemID="20301814" systemMailID="53000045" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10012" locale="NA">
+		<v rank="1" itemID="20302572" systemMailID="53000068" />
+		<v rank="2" itemID="20302573" systemMailID="53000069" />
+		<v rank="3" itemID="20302574" systemMailID="53000070" />
+		<v rank="4" itemID="20302575" systemMailID="53000071" />
+		<v rank="5" itemID="20302576" systemMailID="53000072" />
 	</DungeonRankReward>
 	<DungeonRankReward rewardID="10013" locale="KR">
 		<v rank="1" itemID="20301815" systemMailID="53000046" />
@@ -318,12 +332,26 @@
 		<v rank="4" itemID="20301818" systemMailID="53000049" />
 		<v rank="5" itemID="20301819" systemMailID="53000050" />
 	</DungeonRankReward>
+	<DungeonRankReward rewardID="10013" locale="NA">
+		<v rank="1" itemID="20302577" systemMailID="53000073" />
+		<v rank="2" itemID="20302578" systemMailID="53000074" />
+		<v rank="3" itemID="20302579" systemMailID="53000075" />
+		<v rank="4" itemID="20302580" systemMailID="53000076" />
+		<v rank="5" itemID="20302581" systemMailID="53000077" />
+	</DungeonRankReward>
 	<DungeonRankReward rewardID="10014">
 		<v rank="1" itemID="20301820" systemMailID="53000051" />
 		<v rank="2" itemID="20301821" systemMailID="53000052" />
 		<v rank="3" itemID="20301822" systemMailID="53000053" />
 		<v rank="4" itemID="20301823" systemMailID="53000054" />
 		<v rank="5" itemID="20301824" systemMailID="53000055" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10014" locale="NA">
+		<v rank="1" itemID="20302582" systemMailID="53000078" />
+		<v rank="2" itemID="20302583" systemMailID="53000079" />
+		<v rank="3" itemID="20302584" systemMailID="53000080" />
+		<v rank="4" itemID="20302585" systemMailID="53000081" />
+		<v rank="5" itemID="20302586" systemMailID="53000082" />
 	</DungeonRankReward>
 	<DungeonRankReward rewardID="10015">
 		<v rank="1" itemID="20302032" systemMailID="53000056" />
@@ -429,5 +457,26 @@
 		<v rank="3" itemID="20302395" systemMailID="53000068" />
 		<v rank="4" itemID="20302396" systemMailID="53000069" />
 		<v rank="5" itemID="20302397" systemMailID="53000070" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10021">
+		<v rank="1" itemID="20302552" systemMailID="53000048" />
+		<v rank="2" itemID="20302553" systemMailID="53000049" />
+		<v rank="3" itemID="20302554" systemMailID="53000050" />
+		<v rank="4" itemID="20302555" systemMailID="53000051" />
+		<v rank="5" itemID="20302556" systemMailID="53000052" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10022">
+		<v rank="1" itemID="20302557" systemMailID="53000053" />
+		<v rank="2" itemID="20302558" systemMailID="53000054" />
+		<v rank="3" itemID="20302559" systemMailID="53000055" />
+		<v rank="4" itemID="20302560" systemMailID="53000056" />
+		<v rank="5" itemID="20302561" systemMailID="53000057" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10023">
+		<v rank="1" itemID="20302562" systemMailID="53000058" />
+		<v rank="2" itemID="20302563" systemMailID="53000059" />
+		<v rank="3" itemID="20302564" systemMailID="53000060" />
+		<v rank="4" itemID="20302565" systemMailID="53000061" />
+		<v rank="5" itemID="20302566" systemMailID="53000062" />
 	</DungeonRankReward>
 </ms2>

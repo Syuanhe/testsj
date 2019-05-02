@@ -303,7 +303,7 @@
 		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="10300231">
-		<move traceTargetOffsetPos="0" fireOffsetPosition="0,150,65" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="7000.0" distance="750.0" nonTargetMoveDistance="800" destroyTime="0" controlRate="0" lookAtType="0" catmullrom="0" />
+		<move traceTargetOffsetPos="0" fireOffsetPosition="0,0,65" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="7000.0" distance="750.0" nonTargetMoveDistance="800" destroyTime="0" controlRate="0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="103002411">
 		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
@@ -660,7 +660,7 @@
 		<move fireOffsetPosition="0,-10,80" direction="0,1,-0.03" controlValue0="0,0.8,50" controlValue1="0,0.8,50" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="900.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="106002011">
-		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,-50" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="10600211">
 		<move fireOffsetPosition="0,750,600" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" piercingAttackInterval="500" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="1200.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
@@ -675,7 +675,7 @@
 		<move fireOffsetPosition="0,130,70" direction="0,1,-0.03" controlValue0="0,0.8,50" controlValue1="0,0.8,50" delayTime="0.0" spawnTime="0.0" vel="1500.0" distance="900.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="106002311">
-		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,-40" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="10600261">
 		<move fireOffsetPosition="0,0,140" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="1200.0" distance="900.0" nonTargetMoveDistance="800" destroyTime="0.1" controlRate="0.5" lookAtType="2" catmullrom="0" />
@@ -1193,7 +1193,7 @@
 		<move fireOffsetPosition="0,20,125" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.00" spawnTime="0.0" vel="1500.0" distance="600.0" destroyTime="0.1" controlRate="0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="111003131">
-		<move align="0" alignCubeHeight="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" ignoreAdjustCubePosition="1" />
+		<move align="0" alignCubeHeight="1" fireOffsetPosition="0,0,-110" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" ignoreAdjustCubePosition="1" />
 	</type>
 	<type id="11100204">
 		<move fireOffsetPosition="0,20,65" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.00" spawnTime="0.0" vel="1500.0" distance="600.0" destroyTime="0.1" controlRate="0" lookAtType="0" catmullrom="0" />
@@ -2340,6 +2340,9 @@
 		<move fireOffsetPosition="0,-10,60" direction="0,1,-0.03" controlValue0="0,0.8,100" controlValue1="0,0.8,100" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="600.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 		<move fireOffsetPosition="0,-10,60" direction="-1,1,-0.03" controlValue0="0,0.8,100" controlValue1="0,0.8,100" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="600.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
+	<type id="600120711">
+		<move fireOffsetPosition="0,0,-30" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
+	</type>
 	<type id="60013051">
 		<move fireOffsetPosition="0,0,60" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="900.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
@@ -3256,6 +3259,20 @@
 		<move fireOffsetPosition="0,-10,60" direction="1,1,-0.03" controlValue0="0,0.8,100" controlValue1="0,0.8,100" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="600.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 		<move fireOffsetPosition="0,-10,60" direction="0,1,-0.03" controlValue0="0,0.8,100" controlValue1="0,0.8,100" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="500.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
 		<move fireOffsetPosition="0,-10,60" direction="-1,1,-0.03" controlValue0="0,0.8,100" controlValue1="0,0.8,100" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="700.0" destroyTime="0.01" controlRate="0.0" lookAtType="0" catmullrom="0" />
+	</type>
+	<type id="60076080">
+		<move fireOffsetPosition="0,-10,60" direction="1,0.8,-0.05" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.8" spawnTime="0.0" vel="1200.0" distance="1400.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="1,2,-0.08" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.6" spawnTime="0.0" vel="1200.0" distance="1200.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="0,1,-0.03" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.4" spawnTime="0.0" vel="1200.0" distance="1100.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="-1,2,-0.08" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.2" spawnTime="0.0" vel="1200.0" distance="1300.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="-1,0.8,-0.05" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.0" spawnTime="0.0" vel="1200.0" distance="1500.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+	</type>
+	<type id="60076081">
+		<move fireOffsetPosition="0,-10,60" direction="1,1,-0.08" controlValue0="0,0.7,700" controlValue1="0,0.7,700" delayTime="0.8" spawnTime="0.0" vel="1000.0" distance="1000.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="1,1.3,-0.05" controlValue0="0,0.7,700" controlValue1="0,0.7,700" delayTime="0.6" spawnTime="0.0" vel="1000.0" distance="800.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="0,1,-0.03" controlValue0="0,0.7,700" controlValue1="0,0.7,700" delayTime="0.4" spawnTime="0.0" vel="1000.0" distance="700.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="-1,1.3,-0.05" controlValue0="0,0.7,700" controlValue1="0,0.7,700" delayTime="0.2" spawnTime="0.0" vel="1000.0" distance="900.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move fireOffsetPosition="0,-10,60" direction="-1,1,-0.08" controlValue0="0,0.7,700" controlValue1="0,0.7,700" delayTime="0.0" spawnTime="0.0" vel="1000.0" distance="1100.0" destroyTime="0.03" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="60076001">
 		<move fireOffsetPosition="0,0,200" direction="1,1,0" controlValue0="0,0.8,800" controlValue1="0,0.8,800" delayTime="0.6" spawnTime="0.00" vel="500.0" distance="750.0" destroyTime="0.1" controlRate="0" lookAtType="2" catmullrom="0" />
@@ -17220,6 +17237,9 @@
 	<type id="6601">
 		<move fireOffsetPosition="0,50,50" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.00" vel="450.0" distance="0.0" destroyTime="0" controlRate="0" lifeTime="3" alignCubeHeight="1" lookAtType="0" traceTargetDuration="3" catmullrom="0" />
 	</type>
+	<type id="6602">
+		<move fireOffsetPosition="0,50,50" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.00" vel="800.0" distance="0.0" destroyTime="0" controlRate="0" lifeTime="3" alignCubeHeight="1" lookAtType="0" traceTargetDuration="10" catmullrom="0" />
+	</type>
 	<type id="7001">
 		<move fireOffsetPosition="20,0,65" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="2200.0" distance="900.0" destroyTime="0.1" controlRate="0.5" lookAtType="2" catmullrom="0" />
 	</type>
@@ -18247,7 +18267,7 @@
 		<move fireOffsetPosition="0,150,0" direction="0,1,0" controlValue0="0,0,120" controlValue1="0,0.12,120" delayTime="0.0" spawnTime="0" vel="3000.0" distance="900.0" destroyTime="0.1" controlRate="0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="1200100101">
-		<move align="0" alignCubeHeight="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move align="0" alignCubeHeight="1" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="1200300401">
 		<move align="0" ignoreAdjustCubePosition="1" fireOffsetPosition="0,-200,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
@@ -18256,6 +18276,6 @@
 		<move fireOffsetPosition="0,150,0" direction="0,1,0" controlValue0="0,0,120" controlValue1="0,0.12,120" delayTime="0.0" spawnTime="0" vel="3000.0" distance="900.0" destroyTime="0.1" controlRate="0" lookAtType="0" catmullrom="0" />
 	</type>
 	<type id="1200201971">
-		<move align="0" alignCubeHeight="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
+		<move align="0" alignCubeHeight="1" ignoreAdjustCubePosition="1" fireOffsetPosition="0,0,0" direction="0,1,0" controlValue0="0,0,0" controlValue1="0,0,0" delayTime="0.0" spawnTime="0.0" vel="0.0" distance="0.0" destroyTime="0.0" controlRate="0.0" lookAtType="0" catmullrom="0" />
 	</type>
 </ms2>

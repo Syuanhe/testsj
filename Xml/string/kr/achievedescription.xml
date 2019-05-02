@@ -1911,6 +1911,10 @@
 	<achieve id="23100393" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400320$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400320$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100394" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400321$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400321$ 사용하기 완료" feature="Season1" />
 	<achieve id="23100395" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400322$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400322$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100396" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400316$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400316$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100397" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400326$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400326$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100398" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400327$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400327$ 사용하기 완료" feature="Season1" />
+	<achieve id="23100399" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400328$ 사용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400328$ 사용하기 완료" feature="Season1" />
 	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200002" desc="택시 요금으로 {0}메소 사용하기" complete="지금까지 택시 요금으로 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23200004" desc="상점에서 아이템 구입하는데 {0}메소 사용하기" complete="지금까지 상점에서 아이템 구입하는데 {0}메소 사용" manualDesc="" manualComplete="" feature="Season1" />
@@ -2073,6 +2077,7 @@
 	<achieve id="23400051" desc="$item:20001294$ {0}회 획득하기" complete="지금까지 $item:20001294$ {0}회 획득" manualDesc="" manualComplete="" locale="CN" />
 	<achieve id="23400052" desc="$item:20001151$ {0}회 획득하기" complete="지금까지 $item:20001151$ {0}회 획득" manualDesc="" manualComplete="" locale="NA" />
 	<achieve id="23400053" desc="" complete="" manualDesc="이벤트 기간 내 블루프린트 1회 제작해보기" manualComplete="이벤트 기간 내 블루프린트 1회 제작" feature="Blueprint" locale="CN" />
+	<achieve id="23400054" desc="$item:20302590$ {0}회 사용하기" complete="지금까지 $item:20302590$ {0}회 사용" manualDesc="" manualComplete="" locale="CN" />
 	<achieve id="23500001" desc="" complete="" manualDesc="대지형 부동산 계약하기" manualComplete="대지형 부동산 계약 완료" feature="Season1" />
 	<achieve id="23500003" desc="부동산 계약 {0}번 연장하기" complete="지금까지 부동산 계약 {0}번 연장" manualDesc="" manualComplete="" feature="Season1" />
 	<achieve id="23500004" desc="" complete="" manualDesc="$item:50400035$ 또는 $item:50400036$ 내 집에 설치해보기" manualComplete="$item:50400035$ 또는 $item:50400036$ 내 집에 설치 완료" feature="Season1" />
@@ -2239,7 +2244,6 @@
 	<achieve id="92000094" desc="$item:20301428$ {0}개 사용하기" complete="$item:20301428$ {0}개 사용 완료" manualDesc="" manualComplete="" feature="WorldChampionMushroom" />
 	<achieve id="92000095" desc="다른 집에서 $npc:50400282$$pp:와,과$ 2회 놀아 주기" complete="다른 집에서 $npc:50400282$$pp:와,과$ 2회 놀아 주기 완료" manualDesc="" manualComplete="" />
 	<achieve id="92000096" desc="레인보우 슬라임의 성장도 100 증가시키기" complete="레인보우 슬라임의 성장도 100 증가시키기 완료" manualDesc="" manualComplete="" />
-	<achieve id="92000097" desc="" complete="" manualDesc="메이플스토리2 전직 사전예약 이벤트 참여하기" manualComplete="메이플스토리2 전직 사전예약 이벤트 참여" locale="KR" />
 	<achieve id="92000098" desc="$item:30001154$ {0}개 모으기" complete="$item:30001154$ {0}개 모으기 완료" manualDesc="" manualComplete="" locale="KR" />
 	<achieve id="92000099" desc="" complete="" manualDesc="[썬샤인을 찾아라] 퀘스트 2회 완료하기" manualComplete="[썬샤인을 찾아라] 퀘스트 2회 완료" locale="CN" />
 	<achieve id="92000100" desc="호화패키지 구매하기" complete="호화패키지 구매" manualDesc="" manualComplete="" locale="CN" />

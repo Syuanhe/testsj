@@ -28,8 +28,7 @@
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="TW" />
 			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
 			<child id="WorldChampion" feature="WorldChampionMushroom" />
-			<child id="Arcade" locale="NA" />
-			<child id="Arcade" locale="JP" />
+			<child id="Arcade" />
 			<child id="Achieve" />
 			<child id="DungeonSearch" />
 			<child id="EpicRestart" filterType="eventType" filterValue="EpicRestart" />
@@ -66,13 +65,10 @@
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="CN" />
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="KR" />
 		<menu col="4" id="VIP" feature="VIP" row="2" locale="NA" />
-		<menu col="4" id="VIP" feature="VIP" row="2" locale="JP" />
-		<menu col="4" id="VIP" feature="VIP" row="2" locale="TH" />
-		<menu col="4" id="VIP" feature="VIP" row="2" locale="TW" />
+		<menu col="4" id="VIP" feature="VIP" row="1" locale="JP" />
+		<menu col="4" id="VIP" feature="VIP" row="1" locale="TH" />
+		<menu col="4" id="VIP" feature="VIP" row="1" locale="TW" />
 		<menu col="4" id="PssbShop" row="3" locale="NA" />
-		<menu col="4" id="PssbShop" row="3" locale="JP" />
-		<menu col="4" id="PssbShop" row="3" locale="TH" />
-		<menu col="4" id="PssbShop" row="3" locale="TW" />
 		<menu col="5" id="Design" row="1" />
 		<menu col="4" id="SkyFortress" feature="FameContents" row="3" locale="CN" />
 		<menu col="5" id="SkyFortress" feature="FameContents" row="3" locale="NA" />
@@ -88,16 +84,12 @@
 		<menu col="4" id="MeratMarket" feature="MeratMarket" row="1" locale="TW" />
 		<menu col="5" id="CashShop" feature="CashShop" row="2" locale="KR" />
 		<menu col="5" id="MeratCharge" row="2" locale="NA" />
-		<menu col="5" id="MeratCharge" row="2" locale="JP" />
-		<menu col="5" id="MeratCharge" row="2" locale="TH" />
-		<menu col="5" id="MeratCharge" row="2" locale="TW" />
 		<menu col="5" id="Ranking" locale="CN" row="3" />
 		<menu col="3" id="ChangeJob" feature="LapentaFrontierQuest" row="2" />
 		<menu col="3" id="GalleryEvent" row="1" filterType="eventType" filterValue="Gallery" />
 		<menu col="3" id="CollectItemGroupEvent" row="1" filterType="eventType" filterValue="CollectItemGroup" />
 		<menu col="3" id="StampEvent" row="1" filterType="eventType" filterValue="StampEvent" />
-		<menu col="3" id="Arcade" row="1" locale="KR" />
-		<menu col="3" id="Arcade" row="1" locale="CN" />
+		<menu col="3" id="BingoEvent" row="1" filterType="eventType" filterValue="BingoEvent" />
 	</menuSet>
 	<menuSet type="gamePad" feature="GamePad">
 		<menu id="GamePad_SystemGroup" col="0" row="0">
@@ -121,6 +113,7 @@
 			<child id="GalleryEvent" filterType="eventType" filterValue="Gallery" />
 			<child id="CollectItemGroupEvent" filterType="eventType" filterValue="CollectItemGroup" />
 			<child id="StampEvent" filterType="eventType" filterValue="StampEvent" />
+			<child id="BingoEvent" filterType="eventType" filterValue="BingoEvent" />
 			<child id="TimeRunEvent" filterType="eventType" filterValue="TimeRunEvent" />
 			<child id="Rps" filterType="eventType" filterValue="RPS" />
 			<child id="CoupleDanceEvent" filterType="eventType" filterValue="CoupleDance" />

@@ -22,7 +22,7 @@
 		<exp customExp="-1" />
 		<shadow scale="230" bias="1" />
 		<normal action="Idle_A,Bore_A,Walk_A" prob="4500,1500,4000" movearea="150" maidExpired="Idle_A" />
-		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="40000173,740000173,940000173" globalHitDropBoxId="" individualHitDropBoxId="" />
+		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="" globalHitDropBoxId="" individualHitDropBoxId="" />
 		<lookattarget targetdummy="" lookAtMyPCWhenTalking="0" useTalkMotion="1" />
 		<crystals />
 	</environment>

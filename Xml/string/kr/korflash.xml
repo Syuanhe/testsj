@@ -55,6 +55,8 @@
 	<key id="$s_common_excellent" value="엑설런트" />
 	<key id="$s_common_legendary" value="레전더리" />
 	<key id="$s_common_artifact" value="에픽" />
+	<key id="$s_common_copyright" value="Copyright. NEXON Korea Corporation.  All Right Reserved." locale="KR" />
+	<key id="$s_common_copyright" value="Copyright © 2019 NEXON Korea Corporation All Rights Reserved." locale="JP" />
 	<key id="$s_cursor_talk" value="NPC 대화하기 (Click)" />
 	<key id="$s_saletag_new" value="NEW" />
 	<key id="$s_saletag_sale" value="SALE" />
@@ -273,6 +275,7 @@
 	<key id="$s_gameoption_tooltip_enchant_effect" value="무기에 부여되는 이펙트를 항상 노출합니다." />
 	<key id="$s_gameoption_tooltip_effect" value="이펙트 품질을 조정합니다.\n\n&lt;FONT color=&apos;#FFD200&apos; &gt;단계가 높을수록 고사양이 필요합니다.&lt;/FONT&gt;" />
 	<key id="$s_gameoption_MyName" value="나의 이름 표시" />
+	<key id="$s_gameoption_PlayerSymbol" value="플레이어 마크 표시" />
 	<key id="$s_gameoption_FriendlyName" value="우호적인 플레이어 이름 표시" />
 	<key id="$s_gameoption_EnemyName" value="적대적인 플레이어 이름 표시" />
 	<key id="$s_gameoption_NpcName" value="NPC 이름 표시" />
@@ -514,6 +517,7 @@
 	<key id="$s_gamemenu_btn_MeratCharge" value="메럿 충전샵" />
 	<key id="$s_gamemenu_btn_pssbshop" value="스타일 코인샵" />
 	<key id="$s_gamemenu_btn_collectitemgroupevent" value="마법 더하기" />
+	<key id="$s_gamemenu_btn_bingoevent" value="빙고" />
 	<key id="$s_gamemenu_btn_demolish" value="실내 비우기" />
 	<key id="$s_gamemenu_btn_construct" value="건설 시작하기" />
 	<key id="$s_gamemenu_btn_normal" value="건설 종료하기" />
@@ -1699,6 +1703,7 @@
 	<key id="$s_guild_event_title" value="길드 이벤트" />
 	<key id="$s_guild_event_join" value="지금 입장" />
 	<key id="$s_guild_event_start" value="이벤트 시작" />
+	<key id="$s_guild_event_open_flag" value="OPEN" />
 	<key id="$s_guild_house_title" value="길드 하우스" />
 	<key id="$s_guild_house_npc_title" value="길드 NPC" />
 	<key id="$s_guild_house_upgrade_view" value="업그레이드" />
@@ -1779,6 +1784,7 @@
 	<key id="$s_blackmarket_search_open_socket" value="열린 소켓 개수" feature="ItemSocketSystem" />
 	<key id="$s_blackmarket_search_open_socket_max" value="MAX" feature="ItemSocketSystem" />
 	<key id="$s_blackmarket_btn_search" value="검색" />
+	<key id="$s_blackmarket_btn_refresh" value="새로고침" />
 	<key id="$s_blackmarket_btn_register" value="등록" />
 	<key id="$s_blackmarket_btn_cancel_sell" value="판매 취소" />
 	<key id="$s_blackmarket_btn_cancel_sell_hide" value="물품 회수" />
@@ -1837,6 +1843,7 @@
 	<key id="$s_enchant_select_type1_desc" value="오필리아 : 확률 기반의 인챈트" />
 	<key id="$s_enchant_select_type2_title" value="차.근.차.근!!" />
 	<key id="$s_enchant_select_type2_desc" value="피치 : 성장 기반의 인챈트" />
+	<key id="$s_enchant_select_type2_recommend" value="-추천-" />
 	<key id="$s_enchant_select_enchant_button" value="인챈트 하기" />
 	<key id="$s_enchant_select_type1_tooltip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;오필리아 : 확률 기반의 인챈트&lt;/FONT&gt;\n강화 단계가 올라갈수록 성공 확률은 낮아지지만,\n적은 양의 재료로 인챈트에 도전할 수 있습니다." />
 	<key id="$s_enchant_select_type2_tooltip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;피치 : 성장 기반의 인챈트&lt;/FONT&gt;\n언제나 100% 강화 성공을 보장하지만,\n많은 양의 재료로 인챈트에 도전해야 합니다." />
@@ -2085,6 +2092,7 @@
 	<key id="$s_meratmarket_tooltip_basket_btn_buy_merat" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;메럿 구매하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메럿을 구매합니다." />
 	<key id="$s_meratmarket_tooltip_bookmark_btn_remove_seller" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;삭제&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n판매자를 즐겨찾기 목록에서 삭제합니다." />
 	<key id="$s_meratmarket_tooltip_basket_btn_remove_item" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;삭제&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n해당 아이템을 장바구니에서 삭제합니다." />
+	<key id="$s_meratmarket_tooltip_merat_area" value="블루 메럿, 레드 메럿 모두 사용할 수 있는 경우, 소지한 레드 메럿을 먼저 소모합니다." locale="JP" />
 	<key id="$s_meratmarket_tooltip_btn_report" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;신고하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n해당 아이템을 판매하는 디자이너를 신고합니다." />
 	<key id="$s_meratmarket_tooltip_btn_to_basket" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;장바구니에 담기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n해당 아이템을 장바구니에 담습니다." />
 	<key id="$s_meratmarket_tooltip_btn_add_bookmark" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;즐겨찾기에 추가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n해당 아이템을 판매하는 디자이너를\n즐겨찾기에 추가합니다." />
@@ -2216,6 +2224,8 @@
 	<key id="$s_msgbox_ugc_turms_detail_view" value="UGC 주의 사항 보기" />
 	<key id="$s_msgbox_ugc_turms_ok" value="동의하고 시작하기" />
 	<key id="$s_msgbox_ugc_turms_center_homepage" value="권리 침해 센터 홈페이지" />
+	<key id="$s_msgbox_ugc_shop_terms_title" value="디자이너스 UGC 이용 전에 아래 내용을 확인해 주세요." locale="JP" />
+	<key id="$s_msgbox_ugc_shop_terms_content" value="디자이너스 &lt;FONT color=&apos;#FFD200&apos; &gt;아래 내용을 포함하여 UGC 운영정책을 어길 시 게임 이용에 제한이 있을 수 있습니다.&lt;/FONT&gt;\n● 디자인, 이름, 태그, 설명 등에 특정 캐릭터나 작품 명을 포함하면 안 돼요.\n● 디자인, 이름, 태그, 설명 등에 특정 로고나 상표를 포함하면 안 돼요.\n● 특정 브랜드나 저작물의 독창적 디자인 특징을 이용하면 안 돼요.\n● 다른 사람에게 불쾌함을 줄 수 있는 디자인과 내용을 포함하면 안 돼요.\n● 모든 연령이 이용하는 메이플스토리2와 어울리지 않는 선정적 내용을 포함하면 안 돼요." locale="JP" />
 	<key id="$s_partysearch_tab_memeber_seach" value="파티 모집" />
 	<key id="$s_partysearch_check_show_similarlevel" value="비슷한 레벨만 보기" />
 	<key id="$s_partysearch_btn_register_partysearch" value="파티 참가 신청" />
@@ -2377,6 +2387,7 @@
 	<key id="$s_petsystem_remakeoption_msg" value="펫 추가 능력을 변경합니다." feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_selected" value="추가 능력을 변경할 펫을 선택하세요." feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_title1" value="추가 능력 변경 가능한 펫" feature="PetRemake01" />
+	<key id="$s_petsystem_remakeoption_title2" value="펫 추가 능력 고정 재료" feature="PetRemakeBlock02" />
 	<key id="$s_petsystem_remakeoption_cur_randomoption" value="현재 추가 능력" feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_final_randomoption" value="변경된 추가 능력" feature="PetRemake01" />
 	<key id="$s_petsystem_remakeoption_select_option" value="추가 능력을 선택하지 않으면 새로운 추가 능력이 적용됩니다." feature="PetRemake01" />
@@ -2534,6 +2545,7 @@
 	<key id="$s_itemremake_scroll_btn_apply" value="옵션 적용하기" />
 	<key id="$s_itemremake_scroll_btn_restart" value="다시 하기" />
 	<key id="$s_itemremake_scroll_btn_ok" value="확인" />
+	<key id="$s_itemremake_scroll_notice_pet_ingredient_item" value="사용할 펫 추가 능력 고정 재료를 올려 주세요." feature="PetRemakeBlock02" />
 	<key id="$s_itemremake_scroll_notice_top_show_option" value="" />
 	<key id="$s_itemremake_scroll_notice_bottom_show_option" value="" />
 	<key id="$s_itemremake_scroll_notice_top_select_option" value="&lt;font color=&apos;#FF5F5F&apos;&gt;적용할 옵션을 선택하세요." />
@@ -2674,6 +2686,7 @@
 	<key id="$s_xbox_guide_b" value="취소" />
 	<key id="$s_xbox_guide_a" value="점프" />
 	<key id="$s_xbox_guide_d" value="메뉴 이동 및 메뉴 단축키" />
+	<key id="$s_xbox_guide_menu_shortcut" value="메뉴 단축키" />
 	<key id="$s_xbox_guide_dleft" value="캐릭터 정보" />
 	<key id="$s_xbox_guide_dright" value="소지품" />
 	<key id="$s_xbox_guide_dup" value="미니맵확대" />
@@ -2694,6 +2707,7 @@
 	<key id="$s_dualshock_guide_quad" value="액션" />
 	<key id="$s_dualshock_guide_cir" value="취소" />
 	<key id="$s_dualshock_guide_d" value="메뉴 이동 및 메뉴 단축키" />
+	<key id="$s_dualshock_guide_menu_shortcut" value="메뉴 단축키" />
 	<key id="$s_dualshock_guide_dleft" value="캐릭터 정보" />
 	<key id="$s_dualshock_guide_dright" value="소지품" />
 	<key id="$s_dualshock_guide_dup" value="미니맵확대" />
@@ -2717,7 +2731,7 @@
 	<key id="$s_mouse_guide_m" value="월드맵" />
 	<key id="$s_mouse_guide_p" value="캐릭터 정보" />
 	<key id="$s_mouse_guide_enter" value="채팅" />
-	<key id="$s_mouse_guide_ctrl" value="점프" />
+	<key id="$s_mouse_guide_ctrl" value="공격" />
 	<key id="$s_mouse_guide_alt" value="점프" />
 	<key id="$s_mouse_guide_space" value="점프" />
 	<key id="$s_mouse_guide_comma" value="걷기" />
@@ -2761,13 +2775,13 @@
 	<key id="$s_item_exchange_upgrade_warning" value="합성시킬 장비에 인챈트 단계가 있을 경우 합성 후 인챈트 단계가 유지되지만, 장비 레벨 차이에 대한 인챈트 비용이 추가됩니다." />
 	<key id="$s_bluemarble_title" value="3주년 마블" />
 	<key id="$s_bluemarble_title" value="쫑즈 마블" locale="CN" />
-	<key id="$s_bluemarble_title" value="메이플 마블" locale="NA" />
+	<key id="$s_bluemarble_title" value="무지개 마블" locale="NA" />
 	<key id="$s_bluemarble_tag_starting" value="출발" />
 	<key id="$s_bluemarble_tag_paradise" value="보물창고" />
 	<key id="$s_bluemarble_tag_worldtour" value="세계여행" />
 	<key id="$s_bluemarble_complete_count" value="누적 완주 횟수 :" />
 	<key id="$s_bluemarble_warning" value="주사위를 던지면 마블 티켓 1장이 소모됩니다." />
-	<key id="$s_bluemarble_warning" value="주사위를 던지면 메이플 코인 3개가 소모됩니다." locale="NA" />
+	<key id="$s_bluemarble_warning" value="주사위를 던지면 무지개 달걀 3개가 소모됩니다." locale="NA" />
 	<key id="$s_bluemarble_coin_count" value="소지한 티켓 개수 :" />
 	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" locale="NA" />
 	<key id="$s_bluemarble_dice_result" value="{0}칸 이동!" />
@@ -3168,6 +3182,8 @@
 	<key id="$s_famepoint_board_title" value="평판" />
 	<key id="$s_famepoint_board_fame_log" value="세력 메세지" />
 	<key id="$s_alliance_quest_shop" value="세력 상점" />
+	<key id="$s_alliance_quest_accept_all" value="모두 수락" />
+	<key id="$s_alliance_quest_complete_all" value="모두 완료" />
 	<key id="$s_quest_postbox_title" value="수행 가능한 퀘스트" />
 	<key id="$s_quest_postbox_desc" value="퀘스트를 클릭해 보세요." />
 	<key id="$s_selectsuperworldchat_title" value="슈퍼 월드 대화 쿠폰" />
@@ -3361,4 +3377,44 @@
 	<key id="$s_chat_emoticon_title" value="이모티콘" feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_empty_message" value="즐겨찾기 이모티콘이 없습니다.\n이모티콘을 등록해보세요." feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_shop_button" value="구입하러 가기" feature="ChatEmoticon" />
+	<key id="$s_bingo_event_dialog_title" value="체크체크 올빙고" feature="Event" />
+	<key id="$s_bingo_event_dialog_receive_button" value="받기" feature="Event" />
+	<key id="$s_bingo_event_dialog_use_item_button" value="사용하기" feature="Event" />
+	<key id="$s_bingo_event_dialog_unuse_item_button" value="사용 완료" feature="Event" />
+	<key id="$s_bingo_event_dialog_daily_number" value="오늘의 빙고 숫자" feature="Event" />
+	<key id="$s_bingo_event_dialog_reward" value="빙고 보상" feature="Event" />
+	<key id="$s_bingo_event_dialog_reward_condition" value="X {0}" feature="Event" />
+	<key id="$s_bingo_event_dialog_reward_condition_last" value="X ALL" feature="Event" />
+	<key id="$s_bingo_event_dialog_infomation" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;체크체크 올빙고 정보\n&lt;/FONT&gt;빙고판을 완성하여 완성된 빙고 줄 수에 따라 다양한 보상을 획득할 수 있습니다.\n매직 펜슬 아이템을 사용하면 오늘의 빙고 숫자를 체크할 수 있고,\n매직 펜슬 플러스 아이템을 사용하면 원하는 숫자를 체크할 수 있습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;주의 사항&lt;/FONT&gt;\n- 오늘의 빙고 숫자는 매일 자정 발표됩니다.\n- 빙고판은 계정 단위로 동작됩니다.\n- 보상은 계정 당 1회 획득 가능합니다." feature="Event" />
+	<key id="$s_bingo_event_click_normal" value="오늘의 빙고 숫자 중 1개를 선택해주세요." feature="Event" />
+	<key id="$s_bingo_event_click_rare" value="{0}$pp:를,을$ 사용하여 체크할 숫자를 선택해주세요." feature="Event" />
+	<key id="$s_bingo_event_description" value="{0}, {1}의 [사용하기] 버튼을 눌러 빙고 숫자를 체크하세요.\n오늘의 빙고 숫자는 매일 자정 발표됩니다." feature="Event" />
+	<key id="$s_bingo_event_complete_bingo" value="{0}줄 빙고 완성" feature="Event" />
+	<key id="$s_bingo_event_complete_all_bingo" value="ALL 빙고 완성" feature="Event" />
+	<key id="$s_bingo_event_check" value="{0}$pp:를,을$ 사용하여 숫자 {1}$pp:를,을$ 체크하시겠습니까?" feature="Event" />
+	<key id="$s_bingo_event_change_day" value="새로운 오늘의 빙고 숫자가 발표되었습니다. \n빙고 이벤트를 다시 실행해 주세요." feature="Event" />
+	<key id="$s_dungeon_control_center_title" value="던전 찾기" />
+	<key id="$s_dungeon_control_center_find" value="모험가 모집" />
+	<key id="$s_dungeon_control_center_match" value="파티 매칭" />
+	<key id="$s_dungeon_control_center_find_cancel" value="모집 취소" />
+	<key id="$s_dungeon_control_center_match_cancel" value="매칭 취소" />
+	<key id="$s_dungeon_control_center_reward_count" value="보상 획득 횟수" />
+	<key id="$s_dungeon_control_center_clear_bonus" value="클리어 보너스 까지" />
+	<key id="$s_dungeon_control_center_reward_tooltip" value="모험[일반/어려움] 던전의 보상 획득 횟수는 던전 별로 정해져 있지 않고\n하나의 통합된 횟수로 되어 있습니다.\n\n일간 보상 획득 횟수, 주간 보상 획득 횟수 중 한 가지라도\n초과된 경우에는 보상을 획득할 수 없습니다.\n\n보너스 상자는 던전 클리어 시\n주간 보상 횟수가 1, 3, 5, 10, 15, 20, 25, 30에 해당될 경우\n클리어 보상과 함께 획득할 수 있으며, 주간 단위로 초기화 됩니다.\n(캐릭터 레벨이 50이 되었을 때는 별도로 초기화 됩니다.)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보상 획득 횟수&lt;/FONT&gt;\n주간 : 30회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매주 금요일 0시 초기화)&lt;/FONT&gt;\n일간 : 10회 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(매일 0시 초기화)&lt;/FONT&gt;" />
+	<key id="$s_dungeon_control_center_tab_scenario" value="메인" />
+	<key id="$s_dungeon_control_center_tab_etc" value="서브" />
+	<key id="$s_dungeon_control_center_bookmark" value="&lt;Img Src=&apos;dungeon_control_star&apos; vspace=&apos;-5&apos;&gt;&lt;/Img&gt;즐겨찾기" />
+	<key id="$s_dungeon_control_center_dungeon_select" value="&lt;Img Src=&apos;dungeon_control_dot&apos; vspace=&apos;-3&apos;&gt;&lt;/Img&gt; 던전 레벨 &lt;Img Src=&apos;dungeon_control_dot&apos; vspace=&apos;-3&apos;&gt;&lt;/Img&gt;" />
+	<key id="$s_dungeon_control_center_dungeon_select_lv1" value="~ Lv. 49" />
+	<key id="$s_dungeon_control_center_dungeon_select_lv50" value="Lv. 50" />
+	<key id="$s_dungeon_control_center_dungeon_select_lv60" value="Lv. 60" />
+	<key id="$s_dungeon_control_center_dungeon_select_lv70" value="Lv. 70" />
+	<key id="$s_dungeon_control_center_dungeon_list_recommend" value="적정 던전" feature="DungeonFindRenewal01" />
+	<key id="$s_dungeon_control_center_dungeon_lobby" value="로비 입장" />
+	<key id="$s_dungeon_control_center_setting_tooltip" value="던전 설정하기" feature="DungeonFindRenewal01" />
+	<key id="$s_dungeon_search_setting_title" value="던전 설정" />
+	<key id="$s_dungeon_search_setting_group" value="그룹 설정" />
+	<key id="$s_dungeon_popup_reward_title" value="던전 보상" />
+	<key id="$s_dungeon_popup_reward_count" value="보상 획득 횟수" />
+	<key id="$s_dungeon_popup_reward_reset" value="리셋 Beta" />
 </ms2>

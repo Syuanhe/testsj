@@ -33,7 +33,6 @@
 	<exp expType="miniGame" expTableID="1" factor="25" />
 	<exp expType="userMiniGame" expTableID="1" factor="1.5" />
 	<exp expType="userMiniGameExtra" expTableID="1" factor="1.5" />
-	<exp expType="eventDungeon" expTableID="1" factor="10" />
 	<exp expType="dungeonRelative" expTableID="1" factor="1" />
 	<exp expType="guildUserExp" expTableID="1" factor="1" />
 	<exp expType="petTaming" expTableID="1" factor="1" feature="PetBase" />
@@ -46,6 +45,7 @@
 	<exp expType="weeklyGuildQuest" expTableID="1" factor="20" />
 	<exp expType="dailymission" expTableID="7" factor="1" />
 	<exp expType="dailymissionLevelUp" expTableID="8" factor="1" />
+	<exp expType="questSkyFortress" expTableID="12" factor="5" />
 	<exp expType="mapCommon" expTableID="3" factor="0.05" locale="NA" />
 	<exp expType="mapHidden" expTableID="3" factor="0.05" locale="NA" />
 	<exp expType="taxi" expTableID="3" factor="0.05" locale="NA" />
@@ -76,7 +76,6 @@
 	<exp expType="miniGame" expTableID="4" factor="1" locale="NA" />
 	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="NA" />
 	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="NA" />
-	<exp expType="eventDungeon" expTableID="3" factor="10" locale="NA" />
 	<exp expType="dungeonRelative" expTableID="3" factor="1" locale="NA" />
 	<exp expType="guildUserExp" expTableID="3" factor="0.1" locale="NA" />
 	<exp expType="petTaming" expTableID="3" factor="0.5" feature="PetBase" locale="NA" />
@@ -89,6 +88,7 @@
 	<exp expType="weeklyGuildQuest" expTableID="3" factor="3" locale="NA" />
 	<exp expType="dailymission" expTableID="3" factor="1" locale="NA" />
 	<exp expType="dailymissionLevelUp" expTableID="3" factor="2" locale="NA" />
+	<exp expType="questSkyFortress" expTableID="11" factor="1" locale="NA" />
 	<exp expType="mapCommon" expTableID="3" factor="0.05" locale="JP" />
 	<exp expType="mapHidden" expTableID="3" factor="0.05" locale="JP" />
 	<exp expType="taxi" expTableID="3" factor="0.05" locale="JP" />
@@ -119,7 +119,6 @@
 	<exp expType="miniGame" expTableID="4" factor="1" locale="JP" />
 	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="JP" />
 	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="JP" />
-	<exp expType="eventDungeon" expTableID="3" factor="10" locale="JP" />
 	<exp expType="dungeonRelative" expTableID="3" factor="1" locale="JP" />
 	<exp expType="guildUserExp" expTableID="3" factor="0.1" locale="JP" />
 	<exp expType="petTaming" expTableID="3" factor="0.5" feature="PetBase" locale="JP" />
@@ -132,6 +131,7 @@
 	<exp expType="weeklyGuildQuest" expTableID="3" factor="3" locale="JP" />
 	<exp expType="dailymission" expTableID="3" factor="1" locale="JP" />
 	<exp expType="dailymissionLevelUp" expTableID="3" factor="2" locale="JP" />
+	<exp expType="questSkyFortress" expTableID="11" factor="1" locale="JP" />
 	<exp expType="mapCommon" expTableID="3" factor="0.05" locale="TH" />
 	<exp expType="mapHidden" expTableID="3" factor="0.05" locale="TH" />
 	<exp expType="taxi" expTableID="3" factor="0.05" locale="TH" />
@@ -162,7 +162,6 @@
 	<exp expType="miniGame" expTableID="4" factor="1" locale="TH" />
 	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="TH" />
 	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="TH" />
-	<exp expType="eventDungeon" expTableID="3" factor="10" locale="TH" />
 	<exp expType="dungeonRelative" expTableID="3" factor="1" locale="TH" />
 	<exp expType="guildUserExp" expTableID="3" factor="0.1" locale="TH" />
 	<exp expType="petTaming" expTableID="3" factor="0.5" feature="PetBase" locale="TH" />
@@ -175,6 +174,7 @@
 	<exp expType="weeklyGuildQuest" expTableID="3" factor="3" locale="TH" />
 	<exp expType="dailymission" expTableID="3" factor="1" locale="TH" />
 	<exp expType="dailymissionLevelUp" expTableID="3" factor="2" locale="TH" />
+	<exp expType="questSkyFortress" expTableID="11" factor="1" locale="TH" />
 	<exp expType="mapCommon" expTableID="3" factor="0.05" locale="TW" />
 	<exp expType="mapHidden" expTableID="3" factor="0.05" locale="TW" />
 	<exp expType="taxi" expTableID="3" factor="0.05" locale="TW" />
@@ -205,7 +205,6 @@
 	<exp expType="miniGame" expTableID="4" factor="1" locale="TW" />
 	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="TW" />
 	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="TW" />
-	<exp expType="eventDungeon" expTableID="3" factor="10" locale="TW" />
 	<exp expType="dungeonRelative" expTableID="3" factor="1" locale="TW" />
 	<exp expType="guildUserExp" expTableID="3" factor="0.1" locale="TW" />
 	<exp expType="petTaming" expTableID="3" factor="0.5" feature="PetBase" locale="TW" />
@@ -218,4 +217,5 @@
 	<exp expType="weeklyGuildQuest" expTableID="3" factor="3" locale="TW" />
 	<exp expType="dailymission" expTableID="3" factor="1" locale="TW" />
 	<exp expType="dailymissionLevelUp" expTableID="3" factor="2" locale="TW" />
+	<exp expType="questSkyFortress" expTableID="11" factor="1" locale="TW" />
 </ms2>

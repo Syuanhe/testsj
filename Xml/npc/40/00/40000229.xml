@@ -22,7 +22,7 @@
 		<exp customExp="15393" />
 		<shadow scale="95" bias="1" />
 		<normal action="Idle_A,Bore_A,Walk_A" prob="4500,1000,4500" movearea="150" maidExpired="Idle_A" />
-		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="40000229,740000229,940000229" globalHitDropBoxId="" individualHitDropBoxId="" />
+		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="" globalHitDropBoxId="" individualHitDropBoxId="" />
 		<lookattarget targetdummy="" lookAtMyPCWhenTalking="0" useTalkMotion="1" />
 		<crystals />
 	</environment>
@@ -47,7 +47,7 @@
 		<exp customExp="15393" />
 		<shadow scale="95" bias="1" />
 		<normal action="Idle_A,Bore_A,Walk_A" prob="4500,1000,4500" movearea="150" maidExpired="Idle_A" />
-		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="40000229,740000229,940000229" globalHitDropBoxId="" individualHitDropBoxId="" />
+		<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" fireVelocity="100" globalDropBoxId="5" globalDeadDropBoxId="" individualDropBoxId="" globalHitDropBoxId="" individualHitDropBoxId="" />
 		<lookattarget targetdummy="" lookAtMyPCWhenTalking="0" useTalkMotion="1" />
 		<crystals />
 	</environment>

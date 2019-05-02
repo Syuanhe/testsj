@@ -9,7 +9,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300137_Inferno_Cannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Scene Root">
+      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300137_Inferno_Cannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01">
 	  	<dummy gender="0" sequence="" rotation="-120.000000, 9.000000, 0.000000" translation="-17.000000, 0.000000, -20.000000" />
         <dummy gender="1" sequence="" rotation="-120.000000, 9.000000, 0.000000" translation="-19.000000, 0.000000, -20.000000" />
 	  </asset>

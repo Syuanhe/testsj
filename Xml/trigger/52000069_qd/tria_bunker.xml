@@ -105,7 +105,7 @@
         <onEnter>	
 		    <action name="카메라를선택한다" arg1="303" arg2="1"/>
 			<action name="SetNpcEmotionSequence" arg1="2003" arg2="Bore_A" />	
-			<action name="대화를설정한다" arg1="2" arg2="11000119" arg3="$52000069_QD__TRIA_BUNKER__2$" arg4="4"/>
+			<action name="AddCinematicTalk" npcID="11000119" illustID="Fray_serious" msg="$52000069_QD__TRIA_BUNKER__2$" duration="4000" align="center" />				
 			<action name="SetSceneSkip" arg1="대사스킵용01" arg2=""/>
 		</onEnter>
 				<condition name="WaitTick" waitTick="4000" > 
@@ -284,7 +284,7 @@
     <state name="에레브대사04">
         <onEnter>
 			<action name="사운드를설정한다" arg1="90000" arg2="0" /> <!--TriaAttack-->			
-			<action name="대화를설정한다" arg1="2" arg2="11000075" arg3="$52000069_QD__TRIA_BUNKER__8$" arg4="4"/>
+			<action name="AddCinematicTalk" npcID="11000075" illustID="Ereb_surprise" msg="$52000069_QD__TRIA_BUNKER__8$" duration="4000" align="center" />							
 		</onEnter>
 				<condition name="WaitTick" waitTick="5000" > 
 					<transition state="마드리아등장"/>
@@ -389,7 +389,7 @@
 
     <state name="마드리아공격">
         <onEnter>	
-		    <action name="대화를설정한다" arg1="2" arg2="11000075" arg3="$52000069_QD__TRIA_BUNKER__10$" arg4="3"/>	<!-- 대사 -->							
+			<action name="AddCinematicTalk" npcID="11000075" illustID="Ereb_serious" msg="$52000069_QD__TRIA_BUNKER__10$" duration="3000" align="center" />				
 		    <action name="카메라를선택한다" arg1="311" arg2="1"/>
 		</onEnter>		
 				<condition name="WaitTick" waitTick="5000" > 

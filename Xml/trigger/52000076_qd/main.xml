@@ -738,7 +738,7 @@
     <state name="EveTalk01" >
         <onEnter>				
 			<action name="카메라를선택한다" arg1="314" arg2="1"/>					
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__4$" arg4="5" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__4$" duration="5000" align="center" />				
 			<action name="SetNpcEmotionSequence" arg1="1400" arg2="Talk_A" />						
 			<!-- <action name="스킵을설정한다" arg1="EveTalk01Skip"/>		 -->
 				</onEnter>		
@@ -764,7 +764,7 @@
 	
     <state name="EveTalk02" >
         <onEnter>							
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__5$" arg4="5" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__5$" duration="5000" align="center" />				
 			<action name="SetNpcEmotionSequence" arg1="1400" arg2="Talk_A" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk02Skip"/>		 -->
 				</onEnter>		
@@ -962,7 +962,7 @@
     <state name="EveTalk10" >
         <onEnter>		
 			<action name="SetNpcEmotionSequence" arg1="1400" arg2="Talk_A" />				
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__11$" arg4="5" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__11$" duration="5000" align="center" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk10Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="5000">	
@@ -988,7 +988,7 @@
     <state name="EveTalk11" >
         <onEnter>	
 			<action name="SetNpcEmotionSequence" arg1="1400" arg2="Talk_A" />				
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__12$" arg4="7" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__12$" duration="7000" align="center" />	
 			<!-- <action name="스킵을설정한다" arg1="EveTalk11Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="7000">	
@@ -1392,7 +1392,7 @@
     <state name="EveTalk20" >
         <onEnter>		
 			<action name="SetNpcEmotionSequence" arg1="1410" arg2="Talk_A" />				
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__25$" arg4="6" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__25$" duration="6000" align="center" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk20Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="6000">	
@@ -1418,7 +1418,7 @@
     <state name="EveTalk21" >
         <onEnter>		
 			<action name="SetNpcEmotionSequence" arg1="1410" arg2="Talk_A" />				
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__26$" arg4="6" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__26$" duration="6000" align="center" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk21Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="6000">	
@@ -1470,7 +1470,7 @@
     <state name="EveTalk30" >
         <onEnter>		
 			<action name="SetNpcEmotionSequence" arg1="1410" arg2="Talk_A" />				
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__28$" arg4="3" />     <!-- 이브 -->
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__28$" duration="3000" align="center" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk30Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="3000">	
@@ -1496,7 +1496,7 @@
 
     <state name="EveTalk31" >
         <onEnter>					
-			<action name="대화를설정한다" arg1="2" arg2="11000523" arg3="$52000076_QD__MAIN__29$" arg4="5" />     <!-- 이브 -->			
+			<action name="AddCinematicTalk" npcID="11000523" illustID="Eve_serious" msg="$52000076_QD__MAIN__29$" duration="5000" align="center" />				
 			<!-- <action name="스킵을설정한다" arg1="EveTalk31Skip"/>		 -->
 				</onEnter>		
 				<condition name="WaitTick" waitTick="5000">	

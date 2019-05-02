@@ -10,7 +10,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset name="urn:15300003_SingleActionCannon01" targetnode="Weapon_Back_B_Point" selfnode="15300003_SingleActionCannon01">
+      <asset name="urn:15300003_SingleActionCannon01" targetnode="Weapon_Back_B_Point" selfnode="Move_Point01">
 	  	<dummy gender="0" sequence="" rotation="0,0,0" translation="-6,-1,26" />
         <dummy gender="1" sequence="" rotation="4,0,0" translation="-6,-1,26" />
 	  </asset>

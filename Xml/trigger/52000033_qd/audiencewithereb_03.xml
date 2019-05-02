@@ -135,7 +135,7 @@
 	
     <state name="ErebTalk_04"> 
         <onEnter>
-			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_normal" msg="$52000033_QD__AUDIENCEWITHEREB_03__5$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
+			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_surprise" msg="$52000033_QD__AUDIENCEWITHEREB_03__5$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
 		</onEnter>
 			<condition name="WaitTick" waitTick="4000">	
 				<transition state="ErebTalk_05"/>
@@ -147,7 +147,7 @@
     <state name="ErebTalk_05"> 
         <onEnter>
 			<action name="사운드를설정한다" arg1="7001" arg2="1"/>		
-			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_normal" msg="$52000033_QD__AUDIENCEWITHEREB_03__6$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
+			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_closeEye" msg="$52000033_QD__AUDIENCEWITHEREB_03__6$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
 			<action name="AddBalloonTalk" spawnPointID="401" msg="$52000033_QD__AUDIENCEWITHEREB_03__7$" duration="3000" />	
 		</onEnter>
 			<condition name="WaitTick" waitTick="3000">	
@@ -159,7 +159,7 @@
 	
     <state name="ErebTalk_06"> 
         <onEnter>
-			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_normal" msg="$52000033_QD__AUDIENCEWITHEREB_03__8$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
+			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_serious" msg="$52000033_QD__AUDIENCEWITHEREB_03__8$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
             <action name="NPC를이동시킨다" arg1="601" arg2="MS2PatrolData_1006" />
 		</onEnter>
 			<condition name="WaitTick" waitTick="4000">	
@@ -171,7 +171,7 @@
 	
     <state name="ErebTalk_07"> 
         <onEnter>
-			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_normal" msg="$52000033_QD__AUDIENCEWITHEREB_03__9$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
+			<action name="AddCinematicTalk" npcID="11001663" illustID="Ereb_closeEye" msg="$52000033_QD__AUDIENCEWITHEREB_03__9$" duration="3000" delayTick="0" align="left" /> <!-- 에레브 -->			
 			<action name="몬스터소멸시킨다" arg1="601"/>	
 		<action name="SetSceneSkip" arg1="" arg2=""/>	
 		</onEnter>

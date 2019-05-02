@@ -223,7 +223,7 @@
 	<key id="21230050" name="(계정) 승천하는 뿔사자" />
 	<key id="21230051" name="(계정) 미궁 속으로" />
 	<key id="21230052" name="(계정) 빛을 삼키는 어둠의 힘" feature="Barkhant" />
-	<key id="21230053" name="(계정) 끝나지 않은 배신" />
+	<key id="21230053" name="(계정) 끝나지 않은 배신" feature="KatvanDungeon" />
 	<key id="21230054" name="(계정) 히든 카드" />
 	<key id="21230055" name="(계정) 룬의 거신" feature="NutaNuta" />
 	<key id="21230056" name="(계정) 까마귀 역병 의사" feature="ShadowCrack" />
@@ -1065,7 +1065,6 @@
 	<key id="22200488" name="$map:02020041$ 발견하기" feature="Kritias_2018_12" />
 	<key id="22200489" name="$map:02020030$ 발견하기" feature="Kritias_2018_12" />
 	<key id="22200490" name="키델 탐험가" feature="Kritias_2018_12" />
-	<key id="22200491" name="오늘은 내가 조종사" feature="Gigantica01" />
 	<key id="22200492" name="새로운 곳을 찾아서 : 크리티아스 키델 지역" feature="Kritias_2018_12" />
 	<key id="22210001" name="그럼 이제 내가 함장인가" feature="FameChallengeDungeon" />
 	<key id="22210002" name="콘부장? 내 심부름 좀 하게나." feature="FameChallengeDungeon" />
@@ -1966,6 +1965,10 @@
 	<key id="23100393" name="흥을 깨우는 사운드!" />
 	<key id="23100394" name="반짝반짝 춤추는 이퀄라이저! " />
 	<key id="23100395" name="반짝반짝 스테이지는 내 것! " />
+	<key id="23100396" name="더키의 꿈은 백조" />
+	<key id="23100397" name="무대의 완성은 조명" />
+	<key id="23100398" name="오색빛깔 찬란한 백조의 호수" />
+	<key id="23100399" name="발끝에서 시작되는 아름다운 발레" />
 	<key id="23200001" name="티끌 모아 태산" />
 	<key id="23200002" name="돈으로 시간을 사겠어!" />
 	<key id="23200003" name="모범 택시비는 얼마죠?" />
@@ -2129,6 +2132,7 @@
 	<key id="23400051" name="사랑의 쇼콜라티에" locale="CN" />
 	<key id="23400052" name="사랑의 쇼콜라티에" locale="NA" />
 	<key id="23400053" name="(계정) 청사진을 그리는 사람" feature="Blueprint" locale="CN" />
+	<key id="23400054" name="(계정) 화려함의 극치" locale="CN" />
 	<key id="23500001" name="(계정) 즐거운 나의 집" />
 	<key id="23500003" name="(계정) 터줏대감" />
 	<key id="23500004" name="(계정) 향긋한 비누 냄새" />
@@ -2301,7 +2305,6 @@
 	<key id="92000094" name="포자가 두렵지 않아!" feature="WorldChampionMushroom" />
 	<key id="92000095" name="레인보우 슬라임의 친구" />
 	<key id="92000096" name="레인보우 슬라임 사육사" />
-	<key id="92000097" name="전직에 도전하는" feature="JobChange_01" />
 	<key id="92000098" name="메이플스토리2 3주년을 축하해!" locale="KR" />
 	<key id="92000099" name="뜨거운 태양" locale="CN" />
 	<key id="92000100" name="호화패키지 구매자" locale="CN" />

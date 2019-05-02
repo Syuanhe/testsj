@@ -10,7 +10,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300021_GrifinaCannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Scene Root">
+      <asset weapon="53" name="Data/Resource/Model/Item/1/53/15300021_GrifinaCannon.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01">
 	  	<dummy gender="0" sequence="" rotation="0,2,-11" translation="-14,-9,18" />
 	    <dummy gender="1" sequence="" rotation="2,-1,-16" translation="-13,-9,21" />
 	  </asset>

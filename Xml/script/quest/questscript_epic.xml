@@ -4568,7 +4568,7 @@
 			</content>
 		</script>
 		<script id="301" feature="" locale="">
-			<content text="$script:0831174302002666$" />
+			<content leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:0831174302002666$" />
 		</script>
 	</quest>
 	<quest id="10002197">
@@ -12153,7 +12153,7 @@
 			</content>
 		</script>
 		<script id="102" feature="" locale="">
-			<content text="$script:1208210003002544$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:1208210003002544$" />
 			<content text="$script:1208210003002545$">
 				<distractor text="$script:1208210003002546$" goto="103" gotoFail="" />
 			</content>
@@ -12167,15 +12167,15 @@
 		<script id="300" feature="" locale="">
 			<content otherNpcTalk="11000076" text="$script:1205153903002498$" />
 			<content otherNpcTalk="11000601" text="$script:1205153903002499$" />
-			<content otherNpcTalk="11000075" text="$script:1205153903002500$" />
+			<content otherNpcTalk="11000075" leftIllust="Ereb_sad" speakerIllust="Ereb_sad" text="$script:1205153903002500$" />
 			<content otherNpcTalk="11000601" text="$script:1205153903002501$" />
-			<content otherNpcTalk="11000075" text="$script:1205153903002502$" />
+			<content otherNpcTalk="11000075" leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:1205153903002502$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002503$" />
-			<content otherNpcTalk="11000075" text="$script:1205153903002504$" />
+			<content otherNpcTalk="11000075" leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:1205153903002504$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002505$" />
-			<content otherNpcTalk="11000074" text="$script:1205153903002506$" />
-			<content otherNpcTalk="11000523" text="$script:1205153903002507$" />
-			<content otherNpcTalk="11000523" text="$script:1205153903002508$" />
+			<content otherNpcTalk="11000074" leftIllust="Karl_closeEye" speakerIllust="Karl_closeEye" text="$script:1205153903002506$" />
+			<content otherNpcTalk="11000523" leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:1205153903002507$" />
+			<content otherNpcTalk="11000523" leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:1205153903002508$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002509$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002510$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002511$" />
@@ -12184,11 +12184,11 @@
 			<content otherNpcTalk="11000064" text="$script:1205153903002514$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002515$" />
 			<content otherNpcTalk="11000529" text="$script:1205153903002516$" />
-			<content otherNpcTalk="11000119" text="$script:1205153903002517$" />
+			<content otherNpcTalk="11000119" leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:1205153903002517$" />
 			<content otherNpcTalk="11000064" text="$script:1205153903002518$" />
 			<content otherNpcTalk="11000074" text="$script:1205153903002519$" />
 			<content otherNpcTalk="11000119" text="$script:1205153903002520$" />
-			<content otherNpcTalk="11000119" text="$script:1205153903002521$" />
+			<content otherNpcTalk="11000119" leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:1205153903002521$" />
 		</script>
 	</quest>
 	<quest id="20002264">
@@ -17207,7 +17207,7 @@
 			</content>
 		</script>
 		<script id="301" feature="" locale="">
-			<content text="$script:1118071205001771$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:1118071205001771$" />
 			<content text="$script:1118071205001772$" />
 		</script>
 	</quest>
@@ -17353,14 +17353,14 @@
 		</script>
 		<script id="300" feature="" locale="">
 			<content text="$script:1118071205001825$" />
-			<content text="$script:1118071205001826$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:1118071205001826$" />
 		</script>
 	</quest>
 	<quest id="40002682">
 		<script id="100" feature="" locale="">
 			<content text="$script:1118071205001827$" />
 			<content text="$script:1118071205001828$" />
-			<content text="$script:1118071205001829$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:1118071205001829$" />
 			<content text="$script:1118071205001830$" />
 			<content text="$script:1118071205001831$" />
 		</script>
@@ -22741,7 +22741,7 @@
 		<script id="100" feature="Quest2017" locale="">
 			<content text="$script:0519030511005527$" />
 			<content otherNpcTalk="11001665" text="$script:0519030511005528$" />
-			<content text="$script:0519030511005529$" />
+			<content leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:0519030511005529$" />
 			<content otherNpcTalk="11001665" text="$script:0519030511005530$">
 				<distractor text="$script:0519030511005531$" goto="101" gotoFail="" />
 			</content>
@@ -22755,12 +22755,12 @@
 			<content myTalk="1" text="$script:0519030511005535$" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
-			<content text="$script:0519030511005536$">
+			<content leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:0519030511005536$">
 				<distractor text="$script:0519030511005537$" goto="301" gotoFail="" />
 			</content>
 		</script>
 		<script id="301" feature="Quest2017" locale="">
-			<content text="$script:0519030511005538$">
+			<content leftIllust="Ereb_surprise" speakerIllust="Ereb_surprise" text="$script:0519030511005538$">
 				<distractor text="$script:0519030511005539$" goto="302" gotoFail="" />
 			</content>
 		</script>
@@ -22771,13 +22771,13 @@
 	<quest id="50001551">
 		<script id="100" feature="Quest2017" locale="">
 			<content text="$script:0519030511005541$" />
-			<content text="$script:0519030511005542$">
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" text="$script:0519030511005542$">
 				<distractor text="$script:0519030511005543$" goto="101" gotoFail="" />
 				<distractor text="$script:0519030511005544$" goto="102" gotoFail="" />
 			</content>
 		</script>
 		<script id="101" feature="Quest2017" locale="">
-			<content text="$script:0519030511005545$" functionID="1" />
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" text="$script:0519030511005545$" functionID="1" />
 		</script>
 		<script id="102" feature="Quest2017" locale="">
 			<content text="$script:0519030511005546$">
@@ -22802,10 +22802,10 @@
 		<script id="101" feature="Quest2017" locale="">
 			<content text="$script:0519030511005554$" />
 			<content otherNpcTalk="11003239" text="$script:0519030511005555$" />
-			<content text="$script:0519030511005556$" />
+			<content leftIllust="Oskhal_serious" speakerIllust="Oskhal_serious" text="$script:0519030511005556$" />
 		</script>
 		<script id="200" feature="Quest2017" locale="">
-			<content text="$script:0519030511005557$" />
+			<content leftIllust="Oskhal_serious" speakerIllust="Oskhal_serious" text="$script:0519030511005557$" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
 			<content text="$script:0519030511005558$" />
@@ -23129,7 +23129,7 @@
 	</quest>
 	<quest id="50001564">
 		<script id="100" feature="Quest2017" locale="">
-			<content text="$script:0519030511005677$" />
+			<content leftIllust="Oskhal_serious" speakerIllust="Oskhal_serious" text="$script:0519030511005677$" />
 			<content otherNpcTalk="11003246" text="$script:0519030511005678$" />
 		</script>
 		<script id="200" feature="Quest2017" locale="">
@@ -23152,7 +23152,7 @@
 		</script>
 		<script id="101" feature="Quest2017" locale="">
 			<content text="$script:0519030511005685$" />
-			<content otherNpcTalk="11003246" text="$script:0519030511005686$" />
+			<content otherNpcTalk="11003246" leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:0519030511005686$" />
 			<content text="$script:0519030511005687$" />
 		</script>
 		<script id="200" feature="Quest2017" locale="">
@@ -23253,15 +23253,15 @@
 			<content text="$script:0519030511005727$" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
-			<content text="$script:0519030511005728$" />
+			<content leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0519030511005728$" />
 		</script>
 	</quest>
 	<quest id="50001569">
 		<script id="100" feature="Quest2017" locale="">
-			<content text="$script:0519030511005729$" />
-			<content text="$script:0519030511005730$" />
-			<content text="$script:0519030511005731$" />
-			<content text="$script:0519030511005732$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511005729$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511005730$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511005731$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511005732$" />
 			<content text="$script:0519030511005733$">
 				<distractor text="$script:0519030511005734$" goto="101" gotoFail="" />
 			</content>
@@ -23334,7 +23334,7 @@
 			</content>
 		</script>
 		<script id="101" feature="Quest2017" locale="">
-			<content otherNpcTalk="11003249" text="$script:0519030511005763$">
+			<content otherNpcTalk="11003249" leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0519030511005763$">
 				<distractor text="$script:0519030511005764$" goto="103" gotoFail="" />
 			</content>
 		</script>
@@ -23350,12 +23350,12 @@
 			<content text="$script:0519030511005768$" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
-			<content text="$script:0519030511005769$" />
+			<content leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0519030511005769$" />
 		</script>
 	</quest>
 	<quest id="50001573">
 		<script id="100" feature="Quest2017" locale="">
-			<content text="$script:0519030511005770$">
+			<content leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0519030511005770$">
 				<distractor text="$script:0519030511005771$" goto="101" gotoFail="" />
 			</content>
 		</script>
@@ -23976,8 +23976,8 @@
 			</content>
 		</script>
 		<script id="301" feature="Quest2017" locale="">
-			<content otherNpcTalk="11003259" text="$script:0519030511006013$" />
-			<content text="$script:0519030511006014$" />
+			<content otherNpcTalk="11003259" leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511006013$" />
+			<content leftIllust="Caitlyn_shy" speakerIllust="Caitlyn_shy" text="$script:0519030511006014$" />
 		</script>
 	</quest>
 	<quest id="50001599">
@@ -23994,9 +23994,9 @@
 		</script>
 		<script id="102" feature="Quest2017" locale="">
 			<content text="$script:0519030511006020$" />
-			<content otherNpcTalk="11003259" text="$script:0519030511006021$" />
+			<content otherNpcTalk="11003259" leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511006021$" />
 			<content text="$script:0519030511006022$" />
-			<content otherNpcTalk="11003259" text="$script:0519030511006023$">
+			<content otherNpcTalk="11003259" leftIllust="Anos_serious" speakerIllust="Anos_serious" text="$script:0519030511006023$">
 				<distractor text="$script:0519030511006024$" goto="103" gotoFail="" />
 			</content>
 		</script>
@@ -24131,29 +24131,29 @@
 			<content text="$script:0519030511006074$" functionID="1" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
-			<content redirect="1" text="$script:0519030511006075$" />
+			<content redirect="1" leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006075$" />
 		</script>
 	</quest>
 	<quest id="50001604">
 		<script id="100" feature="Quest2017" locale="">
-			<content text="$script:0519030511006076$" />
-			<content text="$script:0519030511006077$">
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006076$" />
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006077$">
 				<distractor text="$script:0519030511006078$" goto="101" gotoFail="" />
 			</content>
 		</script>
 		<script id="101" feature="Quest2017" locale="">
-			<content text="$script:0519030511006079$">
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006079$">
 				<distractor text="$script:0519030511006080$" goto="102" gotoFail="" />
 			</content>
 		</script>
 		<script id="102" feature="Quest2017" locale="">
-			<content text="$script:0519030511006081$" />
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006081$" />
 		</script>
 		<script id="200" feature="Quest2017" locale="">
-			<content text="$script:0519030511006082$" />
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006082$" />
 		</script>
 		<script id="300" feature="Quest2017" locale="">
-			<content text="$script:0519030511006083$" />
+			<content leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" text="$script:0519030511006083$" />
 		</script>
 	</quest>
 	<quest id="50001605">
@@ -24427,13 +24427,13 @@
 			</content>
 		</script>
 		<script id="101" feature="Quest2017_2" locale="">
-			<content text="$script:0713175511006194$" />
+			<content leftIllust="Karl_closeEye" speakerIllust="Karl_closeEye" text="$script:0713175511006194$" />
 			<content text="$script:0713175511006195$">
 				<distractor text="$script:0713175511006196$" goto="102" gotoFail="" />
 			</content>
 		</script>
 		<script id="102" feature="Quest2017_2" locale="">
-			<content text="$script:0713175511006197$" />
+			<content leftIllust="Karl_closeEye" speakerIllust="Karl_closeEye" text="$script:0713175511006197$" />
 			<content text="$script:0713175511006198$" />
 		</script>
 		<script id="200" feature="Quest2017_2" locale="">
@@ -24683,69 +24683,69 @@
 			<content text="$script:0713175511006299$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
-			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" speakerNpc="11003442" text="$script:0713175511006300$" />
+			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006300$" />
 			<content leftIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003438" text="$script:0713175511006301$" />
 			<content leftIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003438" text="$script:0713175511006302$" />
 			<content leftIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003438" text="$script:0713175511006303$" />
-			<content otherNpcTalk="11003442" redirect="1" leftIllust="Horrhe_normal" speakerNpc="11003442" text="$script:0713175511006304$" />
+			<content otherNpcTalk="11003442" redirect="1" leftIllust="Horrhe_normal" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006304$" />
 		</script>
 	</quest>
 	<quest id="50001641">
 		<script id="100" feature="Quest2017_2" locale="">
-			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" speakerNpc="11003442" text="$script:0713175511006305$" />
+			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006305$" />
 			<content leftIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003140" text="$script:0713175511006306$" />
 			<content leftIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003140" text="$script:0713175511006307$" />
-			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" speakerNpc="11003442" text="$script:0713175511006308$" />
+			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006308$" />
 		</script>
 		<script id="200" feature="Quest2017_2" locale="">
-			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" speakerNpc="11003442" text="$script:0713175511006309$" />
+			<content otherNpcTalk="11003442" leftIllust="Horrhe_normal" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006309$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
-			<content redirect="1" leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006317$" />
+			<content redirect="1" leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006317$" />
 		</script>
 		<script id="399" feature="Quest2017_2" locale="">
 			<content text="$script:0713175511006310$" />
-			<content otherNpcTalk="11003442" text="$script:0713175511006311$" />
+			<content otherNpcTalk="11003442" leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006311$" />
 			<content text="$script:0713175511006312$" />
 			<content text="$script:0713175511006313$" />
-			<content otherNpcTalk="11003442" text="$script:0713175511006314$" />
+			<content otherNpcTalk="11003442" leftIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003442" text="$script:0713175511006314$" />
 			<content otherNpcTalk="11003438" text="$script:0713175511006315$" />
 			<content text="$script:0713175511006316$" />
 		</script>
 	</quest>
 	<quest id="50001642">
 		<script id="100" feature="Quest2017_2" locale="">
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006318$" />
-			<content otherNpcTalk="11003439" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006319$" />
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006320$" />
-			<content otherNpcTalk="11003146" leftIllust="Anos_normal" speakerNpc="11003146" text="$script:0713175511006321$" />
-			<content otherNpcTalk="11003146" leftIllust="Anos_normal" speakerNpc="11003146" text="$script:0713175511006322$" />
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006323$" />
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006324$" />
-			<content otherNpcTalk="11003146" leftIllust="Anos_normal" speakerNpc="11003146" text="$script:0713175511006325$" />
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006326$" />
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006327$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006318$" />
+			<content otherNpcTalk="11003439" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006319$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006320$" />
+			<content otherNpcTalk="11003146" leftIllust="Anos_serious" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003146" text="$script:0713175511006321$" />
+			<content otherNpcTalk="11003146" leftIllust="Anos_serious" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003146" text="$script:0713175511006322$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006323$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006324$" />
+			<content otherNpcTalk="11003146" leftIllust="Anos_serious" rightIllust="Caitlyn_serious" speakerIllust="Caitlyn_serious" speakerNpc="11003146" text="$script:0713175511006325$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006326$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006327$" />
 		</script>
 		<script id="200" feature="Quest2017_2" locale="">
-			<content leftIllust="Anos_normal" speakerIllust="Anos_normal" speakerNpc="11000440" text="$script:0713175511006328$" />
+			<content leftIllust="Anos_serious" speakerIllust="Anos_serious" speakerNpc="11000440" text="$script:0713175511006328$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
 			<content rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006329$" />
-			<content otherNpcTalk="11003440" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Anos_normal" speakerNpc="11003440" text="$script:0713175511006330$">
+			<content otherNpcTalk="11003440" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Anos_serious" speakerNpc="11003440" text="$script:0713175511006330$">
 				<distractor text="$script:0713175511006331$" goto="301" gotoFail="" />
 			</content>
 		</script>
 		<script id="301" feature="Quest2017_2" locale="">
-			<content otherNpcTalk="11003440" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Anos_normal" speakerNpc="11003440" text="$script:0713175511006332$" />
-			<content otherNpcTalk="11003440" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Anos_normal" speakerNpc="11003440" text="$script:0713175511006333$" />
-			<content otherNpcTalk="11003440" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Anos_normal" speakerNpc="11003440" text="$script:0713175511006334$" />
-			<content otherNpcTalk="11003440" leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Anos_normal" speakerNpc="11003440" text="$script:0713175511006335$" />
-			<content leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006336$">
+			<content otherNpcTalk="11003440" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Anos_serious" speakerNpc="11003440" text="$script:0713175511006332$" />
+			<content otherNpcTalk="11003440" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Anos_serious" speakerNpc="11003440" text="$script:0713175511006333$" />
+			<content otherNpcTalk="11003440" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Anos_serious" speakerNpc="11003440" text="$script:0713175511006334$" />
+			<content otherNpcTalk="11003440" leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Anos_serious" speakerNpc="11003440" text="$script:0713175511006335$" />
+			<content leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006336$">
 				<distractor text="$script:0713175511006337$" goto="302" gotoFail="" />
 			</content>
 		</script>
 		<script id="302" feature="Quest2017_2" locale="">
-			<content leftIllust="Anos_normal" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006338$" />
+			<content leftIllust="Anos_serious" rightIllust="Horrhe_normal" speakerIllust="Horrhe_normal" speakerNpc="11003439" text="$script:0713175511006338$" />
 		</script>
 	</quest>
 	<quest id="50001650">
@@ -25164,10 +25164,10 @@
 			<content text="$script:0713175511006496$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
-			<content text="$script:0713175511006497$" />
+			<content leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0713175511006497$" />
 			<content text="$script:0713175511006498$" />
 			<content text="$script:0713175511006499$" />
-			<content text="$script:0713175511006500$" />
+			<content leftIllust="Anos_smile" speakerIllust="Anos_smile" text="$script:0713175511006500$" />
 		</script>
 	</quest>
 	<quest id="50001670">
@@ -26176,7 +26176,7 @@
 			</content>
 		</script>
 		<script id="301" feature="Quest2017_2" locale="">
-			<content text="$script:0720003111007190$" />
+			<content leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:0720003111007190$" />
 		</script>
 	</quest>
 	<quest id="50001736">
@@ -26188,17 +26188,17 @@
 			<content text="$script:0720003111007193$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
-			<content text="$script:0720003111007194$">
+			<content leftIllust="Ereb_surprise" speakerIllust="Ereb_surprise" text="$script:0720003111007194$">
 				<distractor text="$script:0720003111007195$" goto="301" gotoFail="" />
 			</content>
 		</script>
 		<script id="301" feature="Quest2017_2" locale="">
-			<content text="$script:0720003111007196$">
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" text="$script:0720003111007196$">
 				<distractor text="$script:0720003111007197$" goto="302" gotoFail="" />
 			</content>
 		</script>
 		<script id="302" feature="Quest2017_2" locale="">
-			<content text="$script:0720003111007198$" />
+			<content leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:0720003111007198$" />
 		</script>
 	</quest>
 	<quest id="50001737">
@@ -26377,12 +26377,12 @@
 			</content>
 		</script>
 		<script id="301" feature="Quest2017_2" locale="">
-			<content text="$script:0828182711007334$" />
+			<content leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:0828182711007334$" />
 		</script>
 	</quest>
 	<quest id="50001743">
 		<script id="100" feature="Quest2017_2" locale="">
-			<content text="$script:0828182711007335$">
+			<content leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:0828182711007335$">
 				<distractor text="$script:0828182711007336$" goto="101" gotoFail="" />
 			</content>
 		</script>
@@ -26393,7 +26393,7 @@
 			<content text="$script:0828182711007338$" />
 		</script>
 		<script id="300" feature="Quest2017_2" locale="">
-			<content text="$script:0828182711007339$">
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:0828182711007339$">
 				<distractor text="$script:0828182711007340$" goto="301" gotoFail="" />
 			</content>
 		</script>
@@ -26426,9 +26426,9 @@
 			</content>
 		</script>
 		<script id="301" feature="Quest2017_2" locale="">
-			<content text="$script:0828182711007342$" />
-			<content text="$script:0828182711007343$" />
-			<content text="$script:0828182711007344$" functionID="1" />
+			<content leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:0828182711007342$" />
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" text="$script:0828182711007343$" />
+			<content leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" text="$script:0828182711007344$" functionID="1" />
 		</script>
 	</quest>
 	<quest id="50001750">
@@ -32256,10 +32256,10 @@
 	</quest>
 	<quest id="60100145">
 		<script id="100" feature="" locale="">
-			<content text="$script:0330111912002360$" />
+			<content leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:0330111912002360$" />
 		</script>
 		<script id="200" feature="" locale="">
-			<content text="$script:0330111912002361$" />
+			<content leftIllust="Eve_serious" speakerIllust="Eve_serious" text="$script:0330111912002361$" />
 		</script>
 		<script id="300" feature="" locale="">
 			<content text="$script:0330111912002362$" />
@@ -32504,7 +32504,7 @@
 			<content text="$script:0330111912002422$" />
 		</script>
 		<script id="300" feature="" locale="">
-			<content text="$script:0330111912002423$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:0330111912002423$" />
 		</script>
 	</quest>
 	<quest id="60100220">
@@ -32514,7 +32514,7 @@
 			</content>
 		</script>
 		<script id="101" feature="" locale="">
-			<content text="$script:0330111912002426$" />
+			<content leftIllust="Lennon_closeEye" speakerIllust="Lennon_closeEye" text="$script:0330111912002426$" />
 		</script>
 		<script id="200" feature="" locale="">
 			<content text="$script:0330111912002427$" />
@@ -32596,7 +32596,7 @@
 			<content text="$script:0330111912002450$" />
 		</script>
 		<script id="300" feature="" locale="">
-			<content text="$script:0330111912002451$" />
+			<content leftIllust="Fray_serious" speakerIllust="Fray_serious" text="$script:0330111912002451$" />
 		</script>
 	</quest>
 	<quest id="60200000">

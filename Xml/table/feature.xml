@@ -9,7 +9,7 @@
 	<feature name="VisitorBook" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
 	<feature name="EnableGoToNpc" KR="1" JP="1" CN="99" NA="1" TH="1" TW="99" />
 	<feature name="CashShop" KR="1" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="CashCharge" KR="1" JP="30" CN="1" NA="31" TH="1" TW="99" />
+	<feature name="CashCharge" KR="1" JP="99" CN="1" NA="31" TH="1" TW="99" />
 	<feature name="CrazyRunnerTrophy" KR="1" JP="1" CN="100" NA="1" TH="1" TW="99" />
 	<feature name="LobbyMap01" KR="1" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="Season2" KR="2" JP="2" CN="2" NA="2" TH="1" TW="99" />
@@ -31,6 +31,7 @@
 	<feature name="MusicInstrument" KR="9" JP="9" CN="9" NA="9" TH="1" TW="99" />
 	<feature name="Fishing" KR="9" JP="9" CN="9" NA="9" TH="1" TW="99" />
 	<feature name="Fishing02" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
+	<feature name="Fishing03" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="KarkarIsland" KR="9" JP="31" CN="29" NA="33" TH="1" TW="99" />
 	<feature name="Balrogitem3rd" KR="10" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Barkhant" KR="10" JP="31" CN="29" NA="33" TH="99" TW="99" />
@@ -42,8 +43,9 @@
 	<feature name="ItemOptionProbability" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="ItemRemakeOption" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="ItemRemakeOption02" KR="99" JP="29" CN="31" NA="29" TH="1" TW="99" />
-	<feature name="MesoMarket" KR="12" JP="99" CN="12" NA="99" TH="99" TW="99" />
+	<feature name="MesoMarket" KR="12" JP="99" CN="12" NA="39" TH="99" TW="99" />
 	<feature name="MesoMarketNA" KR="99" JP="99" CN="99" NA="39" TH="99" TW="99" />
+	<feature name="MesoMarketToken" KR="99" JP="99" CN="99" NA="39" TH="99" TW="99" />
 	<feature name="ArcadeSpringFarm" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="RewardPreview" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
 	<feature name="ArcadeSystem" KR="12" JP="12" CN="12" NA="12" TH="1" TW="99" />
@@ -60,16 +62,16 @@
 	<feature name="ExtendLevel55" KR="15" JP="31" CN="15" NA="33" TH="1" TW="99" />
 	<feature name="ExtendLevel60" KR="15" JP="31" CN="29" NA="33" TH="1" TW="99" />
 	<feature name="ExtendLevel65" KR="15" JP="99" CN="32" NA="99" TH="99" TW="99" />
-	<feature name="ExtendLevel70" KR="15" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="ExtendLevel70" KR="15" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="ExtendLevel80" KR="15" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="ExtendLevel90" KR="15" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="ExtendLevel99" KR="15" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="CharacterMaxLevelConstant" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="CharacterAbility" KR="15" JP="99" CN="15" NA="99" TH="99" TW="99" />
 	<feature name="ItemSocketSystem" KR="15" JP="30" CN="29" NA="32" TH="1" TW="99" />
-	<feature name="SkinBreak" KR="15" JP="99" CN="29" NA="33" TH="99" TW="99" />
+	<feature name="SkinBreak" KR="15" JP="31" CN="29" NA="33" TH="99" TW="99" />
 	<feature name="EnchantedGearItemBreak01" KR="43" JP="99" CN="45" NA="35" TH="99" TW="99" />
-	<feature name="Striker" KR="16" JP="99" CN="39" NA="99" TH="99" TW="99" />
+	<feature name="Striker" KR="16" JP="99" CN="39" NA="41" TH="99" TW="99" />
 	<feature name="JazzInstrument" KR="16" JP="16" CN="16" NA="16" TH="1" TW="99" />
 	<feature name="DrumInstrument" KR="43" JP="99" CN="44" NA="35" TH="99" TW="99" />
 	<feature name="ShadowExpedition" KR="17" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -96,18 +98,18 @@
 	<feature name="UGCMarket" KR="21" JP="30" CN="21" NA="30" TH="1" TW="99" />
 	<feature name="UGCMapFun" KR="21" JP="21" CN="21" NA="21" TH="1" TW="99" />
 	<feature name="NPCPortal01" KR="23" JP="23" CN="23" NA="23" TH="1" TW="99" />
-	<feature name="PirateOcean" KR="23" JP="99" CN="40" NA="99" TH="99" TW="99" />
-	<feature name="SnowKingdom" KR="23" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="PirateOcean" KR="23" JP="99" CN="40" NA="41" TH="99" TW="99" />
+	<feature name="SnowKingdom" KR="23" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="VIP" KR="23" JP="30" CN="23" NA="32" TH="1" TW="99" />
 	<feature name="VIPDungeon" KR="23" JP="30" CN="23" NA="32" TH="1" TW="99" />
 	<feature name="PvpTestSeason" KR="23" JP="23" CN="23" NA="35" TH="1" TW="99" />
-	<feature name="DarkCastle" KR="24" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="DarkCastle" KR="24" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="MasterySecond" KR="24" JP="24" CN="24" NA="24" TH="1" TW="99" />
 	<feature name="Mastery03" KR="26" JP="26" CN="26" NA="26" TH="1" TW="99" />
 	<feature name="Mastery04" KR="28" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="Mastery05" KR="37" JP="29" CN="37" NA="29" TH="1" TW="99" />
-	<feature name="Mastery06" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
-	<feature name="ItemDungeon" KR="24" JP="30" CN="31" NA="30" TH="1" TW="99" />
+	<feature name="Mastery06" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
+	<feature name="ItemDungeon" KR="24" JP="99" CN="31" NA="30" TH="1" TW="99" />
 	<feature name="ItemPartyDungeon" KR="25" JP="25" CN="25" NA="25" TH="1" TW="99" />
 	<feature name="BattleField51to55" KR="26" JP="31" CN="26" NA="33" TH="1" TW="99" />
 	<feature name="BattleField56to60" KR="26" JP="31" CN="29" NA="33" TH="1" TW="99" />
@@ -136,24 +138,24 @@
 	<feature name="DungeonOpenPeriodNA" KR="100" JP="100" CN="100" NA="99" TH="100" TW="100" />
 	<feature name="DungeonRank01" KR="27" JP="29" CN="29" NA="29" TH="1" TW="99" />
 	<feature name="DungeonRank02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="GuildRaid01" KR="29" JP="31" CN="29" NA="35" TH="1" TW="99" />
+	<feature name="GuildRaid01" KR="29" JP="99" CN="29" NA="35" TH="1" TW="99" />
 	<feature name="GuildRaid02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="PinkBean01" KR="28" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="PinkBean01" KR="28" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="BattleFieldOnly01" KR="25" JP="31" CN="25" NA="32" TH="1" TW="99" />
 	<feature name="HousingTogether" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="BlackBean01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="CrimsonBalrog01" KR="34" JP="99" CN="36" NA="36" TH="99" TW="99" />
 	<feature name="WorldBossDungeon" KR="34" JP="99" CN="35" NA="99" TH="99" TW="99" />
-	<feature name="LapentaDungeon" KR="40" JP="99" CN="41" NA="99" TH="99" TW="99" />
+	<feature name="LapentaDungeon" KR="40" JP="99" CN="41" NA="41" TH="99" TW="99" />
 	<feature name="ColosseumDungeon" KR="46" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="DungeonFindRenewal01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="SurvivalContents01" KR="37" JP="30" CN="38" NA="30" TH="1" TW="99" />
+	<feature name="DungeonFindRenewal01" KR="47" JP="31" CN="49" NA="40" TH="1" TW="1" />
+	<feature name="SurvivalContents01" KR="37" JP="99" CN="38" NA="30" TH="1" TW="99" />
 	<feature name="SurvivalContentsTest" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="SurvivalContents02" KR="38" JP="30" CN="40" NA="30" TH="1" TW="99" />
-	<feature name="SurvivalContents03" KR="99" JP="30" CN="99" NA="31" TH="1" TW="99" />
-	<feature name="SurvivalContentsTeam" KR="99" JP="30" CN="99" NA="31" TH="1" TW="99" />
-	<feature name="SurvivalContentsGroggy" KR="99" JP="30" CN="99" NA="31" TH="1" TW="99" />
-	<feature name="SurvivalTutorial" KR="99" JP="30" CN="99" NA="31" TH="1" TW="99" />
+	<feature name="SurvivalContents02" KR="38" JP="99" CN="40" NA="30" TH="1" TW="99" />
+	<feature name="SurvivalContents03" KR="99" JP="99" CN="99" NA="31" TH="1" TW="99" />
+	<feature name="SurvivalContentsTeam" KR="99" JP="99" CN="99" NA="31" TH="1" TW="99" />
+	<feature name="SurvivalContentsGroggy" KR="99" JP="99" CN="99" NA="31" TH="1" TW="99" />
+	<feature name="SurvivalTutorial" KR="99" JP="99" CN="99" NA="31" TH="1" TW="99" />
 	<feature name="itemOptionRenewal" KR="26" JP="26" CN="26" NA="26" TH="1" TW="99" />
 	<feature name="itemOptionRenewal02" KR="34" JP="29" CN="32" NA="29" TH="1" TW="99" />
 	<feature name="SuperWorldChat" KR="30" JP="29" CN="31" NA="29" TH="1" TW="99" />
@@ -163,7 +165,7 @@
 	<feature name="GameDictionary" KR="25" JP="25" CN="25" NA="25" TH="1" TW="99" />
 	<feature name="InGameRank" KR="29" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="RedMerat" KR="99" JP="30" CN="1" NA="30" TH="1" TW="99" />
-	<feature name="RedMeratShop" KR="99" JP="99" CN="1" NA="32" TH="99" TW="99" />
+	<feature name="RedMeratShop" KR="99" JP="31" CN="1" NA="32" TH="99" TW="99" />
 	<feature name="Gift" KR="28" JP="30" CN="28" NA="99" TH="1" TW="99" />
 	<feature name="GiftUgc" KR="28" JP="30" CN="28" NA="99" TH="1" TW="99" />
 	<feature name="GiftPremium" KR="28" JP="30" CN="28" NA="99" TH="1" TW="99" />
@@ -171,7 +173,7 @@
 	<feature name="VIPAirTaxi" KR="99" JP="30" CN="1" NA="32" TH="1" TW="99" />
 	<feature name="GuildHouse01" KR="26" JP="26" CN="26" NA="26" TH="1" TW="99" />
 	<feature name="AdventureBar" KR="99" JP="99" CN="1" NA="99" TH="99" TW="99" />
-	<feature name="SkinSocket" KR="25" JP="99" CN="29" NA="99" TH="99" TW="99" />
+	<feature name="SkinSocket" KR="25" JP="31" CN="29" NA="99" TH="99" TW="99" />
 	<feature name="DungeonLimitMesoRevival" KR="27" JP="27" CN="27" NA="27" TH="1" TW="99" />
 	<feature name="WebGuide" KR="99" JP="99" CN="1" NA="33" TH="99" TW="99" />
 	<feature name="MusicConcert" KR="33" JP="1" CN="1" NA="1" TH="1" TW="99" />
@@ -192,7 +194,7 @@
 	<feature name="GemSwim" KR="26" JP="26" CN="26" NA="26" TH="1" TW="99" />
 	<feature name="GemFishingRod" KR="28" JP="28" CN="28" NA="28" TH="1" TW="99" />
 	<feature name="GemCharEffect" KR="31" JP="29" CN="31" NA="29" TH="1" TW="99" />
-	<feature name="GemPetSkin" KR="44" JP="99" CN="46" NA="37" TH="99" TW="99" />
+	<feature name="GemPetSkin" KR="44" JP="31" CN="46" NA="37" TH="99" TW="99" />
 	<feature name="PetBase" KR="28" JP="29" CN="29" NA="29" TH="1" TW="99" />
 	<feature name="PetBattle" KR="28" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetList_Taming" KR="29" JP="30" CN="32" NA="30" TH="1" TW="99" />
@@ -206,9 +208,10 @@
 	<feature name="PetBalance01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetTaming01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="PetCombine01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
-	<feature name="PetEvolution01" KR="45" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="PetEvolution01" KR="45" JP="31" CN="48" NA="99" TH="99" TW="99" />
 	<feature name="PetRemake01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
-	<feature name="PetRemakeBlock01" KR="41" JP="99" CN="33" NA="99" TH="99" TW="99" />
+	<feature name="PetRemakeBlock01" KR="41" JP="31" CN="33" NA="99" TH="99" TW="99" />
+	<feature name="PetRemakeBlock02" KR="47" JP="99" CN="49" NA="99" TH="99" TW="99" />
 	<feature name="PetUpdate01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetButton01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
 	<feature name="PetItem01" KR="31" JP="30" CN="32" NA="30" TH="1" TW="99" />
@@ -217,12 +220,14 @@
 	<feature name="Pet_Zakum" KR="36" JP="99" CN="33" NA="99" TH="99" TW="99" />
 	<feature name="Pet_Zakum_Quest" KR="99" JP="99" CN="33" NA="99" TH="99" TW="99" />
 	<feature name="Pet_Infernog" KR="45" JP="99" CN="47" NA="36" TH="99" TW="99" />
-	<feature name="Pet_60Lv" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="Pet_60Lv" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="Pet_70Lv" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="Pet_70Lv_Taming" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="Pet_70Lv_Boss" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="Peachy01" KR="1" JP="30" CN="1" NA="30" TH="1" TW="99" />
-	<feature name="TreasureMap01" KR="32" JP="30" CN="33" NA="30" TH="1" TW="99" />
+	<feature name="Peachy02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="PeachyRecommended" KR="99" JP="99" CN="99" NA="40" TH="99" TW="99" />
+	<feature name="TreasureMap01" KR="32" JP="99" CN="33" NA="30" TH="1" TW="99" />
 	<feature name="AutoMastery01" KR="26" JP="26" CN="29" NA="26" TH="1" TW="99" />
 	<feature name="AutoMastery02" KR="31" JP="29" CN="31" NA="29" TH="1" TW="99" />
 	<feature name="MasteryEffect01" KR="31" JP="29" CN="31" NA="29" TH="1" TW="99" />
@@ -257,8 +262,8 @@
 	<feature name="HiddenStatAdd02" KR="100" JP="100" CN="1" NA="100" TH="100" TW="100" />
 	<feature name="HiddenStatAdd03" KR="100" JP="1" CN="100" NA="1" TH="1" TW="99" />
 	<feature name="MassiveCrazyRunnersShanghai" KR="31" JP="99" CN="30" NA="37" TH="99" TW="99" />
-	<feature name="MagicScroll00" KR="99" JP="30" CN="1" NA="99" TH="1" TW="99" />
-	<feature name="MagicScroll01" KR="23" JP="30" CN="23" NA="99" TH="1" TW="99" />
+	<feature name="MagicScroll00" KR="99" JP="99" CN="1" NA="99" TH="1" TW="99" />
+	<feature name="MagicScroll01" KR="23" JP="99" CN="23" NA="99" TH="1" TW="99" />
 	<feature name="MagicScroll02" KR="24" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="MagicScroll03" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="MikaBooks" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
@@ -268,6 +273,10 @@
 	<feature name="GlobalTransferType" KR="100" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="GlobalTransferTypeNA" KR="99" JP="99" CN="99" NA="33" TH="99" TW="99" />
 	<feature name="GlobalQuestRewardItem" KR="100" JP="1" CN="1" NA="1" TH="1" TW="99" />
+	<feature name="DungeonFindIcon01" KR="47" JP="31" CN="49" NA="40" TH="1" TW="1" />
+	<feature name="DungeonFindIcon02" KR="47" JP="31" CN="49" NA="40" TH="1" TW="1" />
+	<feature name="DungeonFindIcon03" KR="47" JP="99" CN="49" NA="41" TH="99" TW="99" />
+	<feature name="DungeonFindIcon04" KR="47" JP="99" CN="49" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1701" KR="99" JP="99" CN="28" NA="28" TH="1" TW="99" />
 	<feature name="DungeonOpenCN1702" KR="99" JP="99" CN="29" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenCN1703" KR="99" JP="99" CN="30" NA="99" TH="99" TW="99" />
@@ -286,12 +295,12 @@
 	<feature name="DungeonOpenNA1809" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1810" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenNA1901" KR="99" JP="99" CN="99" NA="36" TH="99" TW="99" />
-	<feature name="DungeonOpenNA1906" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="DungeonOpenNA1906" KR="99" JP="99" CN="99" NA="41" TH="99" TW="99" />
 	<feature name="DungeonOpenJP1901" KR="99" JP="31" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenJP1903" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonOpenJP1904" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="DungeonClearCoupon" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="EnchantScrollTab01" KR="23" JP="30" CN="23" NA="99" TH="1" TW="99" />
+	<feature name="EnchantScrollTab01" KR="23" JP="99" CN="23" NA="99" TH="1" TW="99" />
 	<feature name="EnchantScroll50A" KR="99" JP="99" CN="1" NA="99" TH="99" TW="99" />
 	<feature name="EnchantScroll50B" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="EnchantScroll52A" KR="23" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -300,7 +309,7 @@
 	<feature name="EnchantScroll54B" KR="23" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="EnchantScroll56A" KR="24" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="EnchantScroll56B" KR="24" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="EnchantScroll5099A" KR="39" JP="30" CN="40" NA="99" TH="1" TW="99" />
+	<feature name="EnchantScroll5099A" KR="39" JP="99" CN="40" NA="99" TH="1" TW="99" />
 	<feature name="EpicEnchantScroll50A" KR="40" JP="99" CN="32" NA="99" TH="99" TW="99" />
 	<feature name="EpicEnchantScroll5099A" KR="40" JP="99" CN="40" NA="99" TH="99" TW="99" />
 	<feature name="RestoreScrollTab01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -324,7 +333,7 @@
 	<feature name="ProtectedScroll54B" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="ProtectedScroll56A" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="ProtectedScroll56B" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="MeratMarket" KR="1" JP="30" CN="1" NA="30" TH="1" TW="99" />
+	<feature name="MeratMarket" KR="1" JP="99" CN="1" NA="30" TH="1" TW="99" />
 	<feature name="ChaosRaid" KR="28" JP="30" CN="29" NA="34" TH="1" TW="99" />
 	<feature name="LiveBroadCast" KR="99" JP="99" CN="28" NA="99" TH="99" TW="99" />
 	<feature name="VIPGM" KR="99" JP="99" CN="28" NA="99" TH="99" TW="99" />
@@ -337,29 +346,30 @@
 	<feature name="GiganTika" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="FameContents" KR="32" JP="99" CN="35" NA="35" TH="1" TW="99" />
 	<feature name="FameContents02" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
+	<feature name="Fame_Geo01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="QuestPostbox" KR="32" JP="29" CN="33" NA="29" TH="1" TW="99" />
 	<feature name="FameChallengeDungeon" KR="35" JP="99" CN="35" NA="36" TH="1" TW="99" />
 	<feature name="FameChallengeDungeon02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="userOpenMinigame" KR="29" JP="29" CN="29" NA="29" TH="1" TW="99" />
-	<feature name="Skin2tab" KR="30" JP="99" CN="46" NA="99" TH="99" TW="99" />
-	<feature name="ItemExtraction" KR="30" JP="31" CN="99" NA="32" TH="1" TW="99" />
-	<feature name="FindDungeonHelp" KR="30" JP="31" CN="30" NA="99" TH="1" TW="99" />
-	<feature name="FindDungeonHelp_shop01" KR="99" JP="31" CN="33" NA="99" TH="1" TW="99" />
+	<feature name="Skin2tab" KR="30" JP="31" CN="46" NA="99" TH="99" TW="99" />
+	<feature name="ItemExtraction" KR="30" JP="99" CN="99" NA="32" TH="1" TW="99" />
+	<feature name="FindDungeonHelp" KR="30" JP="99" CN="30" NA="99" TH="1" TW="99" />
+	<feature name="FindDungeonHelp_shop01" KR="99" JP="99" CN="33" NA="99" TH="1" TW="99" />
 	<feature name="BlockExpelDungeonRoom" KR="99" JP="29" CN="29" NA="29" TH="1" TW="99" />
 	<feature name="Mentoring" KR="30" JP="99" CN="30" NA="99" TH="99" TW="99" />
 	<feature name="ExtendSkillBook" KR="30" JP="29" CN="30" NA="29" TH="1" TW="99" />
-	<feature name="DailyMission" KR="30" JP="29" CN="31" NA="29" TH="1" TW="99" />
+	<feature name="DailyMission" KR="30" JP="99" CN="31" NA="99" TH="1" TW="99" />
 	<feature name="HappyBirthday" KR="99" JP="99" CN="31" NA="99" TH="99" TW="99" />
 	<feature name="EpicItem" KR="40" JP="99" CN="31" NA="99" TH="99" TW="99" />
-	<feature name="Level60Item" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="Level60Item" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="Level70Item" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="PcIllustOption" KR="32" JP="29" CN="31" NA="29" TH="1" TW="99" />
-	<feature name="BlackmarketMaxPrice" KR="99" JP="99" CN="31" NA="99" TH="99" TW="99" />
+	<feature name="BlackmarketMaxPrice" KR="47" JP="99" CN="31" NA="99" TH="99" TW="99" />
 	<feature name="promotionContents01" KR="99" JP="29" CN="32" NA="29" TH="1" TW="99" />
 	<feature name="EnchantTransform01" KR="39" JP="99" CN="32" NA="99" TH="99" TW="99" />
 	<feature name="SkillDataGlobal01" KR="100" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="FameContents_EP1_01" KR="33" JP="99" CN="35" NA="35" TH="1" TW="99" />
-	<feature name="ItemSocketTransfer01" KR="32" JP="99" CN="33" NA="99" TH="99" TW="99" />
+	<feature name="ItemSocketTransfer01" KR="32" JP="31" CN="33" NA="99" TH="99" TW="99" />
 	<feature name="EnchantExpansion01" KR="39" JP="29" CN="40" NA="29" TH="1" TW="99" />
 	<feature name="EnchantReformation01" KR="39" JP="30" CN="40" NA="30" TH="1" TW="99" />
 	<feature name="OHItemAdditionalLevel01" KR="39" JP="30" CN="40" NA="30" TH="1" TW="99" />
@@ -378,13 +388,13 @@
 	<feature name="CharacterBalance_01" KR="35" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="CharacterBalance_Striker_01" KR="35" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="CharacterBalance_SoulBinder_01" KR="35" JP="100" CN="100" NA="100" TH="100" TW="100" />
-	<feature name="JobChange_01" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="JobChange_01" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="CharacterBalance_Striker_02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="CharacterBalance_SoulBinder_02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="CharacterBalance_02" KR="100" JP="1" CN="37" NA="1" TH="1" TW="99" />
 	<feature name="CharacterBalance_03" KR="100" JP="1" CN="100" NA="1" TH="1" TW="99" />
 	<feature name="RideShareAuthority" KR="99" JP="99" CN="35" NA="99" TH="99" TW="99" />
-	<feature name="HoldAttack" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="HoldAttack" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="MonsterBalance_CN_01" KR="100" JP="100" CN="99" NA="100" TH="100" TW="100" />
 	<feature name="MouseContoller" KR="38" JP="29" CN="39" NA="29" TH="1" TW="99" />
 	<feature name="NoneMouseContoller" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
@@ -398,9 +408,10 @@
 	<feature name="NaDynamicAction" KR="100" JP="29" CN="100" NA="29" TH="1" TW="99" />
 	<feature name="GemEffect" KR="37" JP="29" CN="37" NA="29" TH="1" TW="99" />
 	<feature name="AdventureLevel" KR="37" JP="29" CN="37" NA="29" TH="1" TW="99" />
+	<feature name="AdventureLevel02" KR="47" JP="33" CN="49" NA="40" TH="99" TW="99" />
 	<feature name="NaColorSystem" KR="99" JP="29" CN="99" NA="29" TH="1" TW="99" />
 	<feature name="EnableCustomColor" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
-	<feature name="SurvivalObserver" KR="37" JP="30" CN="38" NA="30" TH="1" TW="99" />
+	<feature name="SurvivalObserver" KR="37" JP="99" CN="38" NA="30" TH="1" TW="99" />
 	<feature name="AchieveReward01" KR="99" JP="29" CN="99" NA="29" TH="1" TW="99" />
 	<feature name="AchieveRewardMakeUp" KR="38" JP="29" CN="38" NA="29" TH="1" TW="99" />
 	<feature name="MeratMessage" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -410,30 +421,31 @@
 	<feature name="TriggerEditorHelpURL" KR="37" JP="30" CN="37" NA="30" TH="1" TW="99" />
 	<feature name="NpcRashi" KR="26" JP="99" CN="26" NA="99" TH="99" TW="99" />
 	<feature name="KarmaTokenItem01" KR="37" JP="99" CN="37" NA="99" TH="99" TW="99" />
-	<feature name="ChronicleDungeon60_01" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="ChronicleDungeon60_01" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="UseNumberString" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
-	<feature name="LapentaFrontierQuest" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="LapentaFrontierQuest" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="EmptyHouse" KR="99" JP="29" CN="99" NA="29" TH="1" TW="99" />
 	<feature name="LunaYear2018" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
 	<feature name="WaterMark" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="TriggerVoiceDuration" KR="38" JP="30" CN="39" NA="30" TH="1" TW="99" />
-	<feature name="Lapenshard01" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="Lapenshard01" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="Treasure_add01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="FittingDollEquipAll" KR="40" JP="30" CN="41" NA="30" TH="1" TW="99" />
-	<feature name="FreeSkin2tab" KR="38" JP="99" CN="46" NA="99" TH="99" TW="99" />
+	<feature name="FreeSkin2tab" KR="38" JP="31" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="NextEpicQuestGuide" KR="99" JP="30" CN="99" NA="30" TH="1" TW="99" />
 	<feature name="CharacterBalance_04" KR="39" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="JobChangeFGT" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="KREquipmentBalance_01" KR="1" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="CNEquipmentBalance_01" KR="100" JP="100" CN="1" NA="100" TH="100" TW="100" />
-	<feature name="RedCrystal" KR="39" JP="99" CN="40" NA="99" TH="99" TW="99" />
+	<feature name="NAEquipmentBalance_01" KR="100" JP="1" CN="100" NA="1" TH="100" TW="100" />
+	<feature name="RedCrystal" KR="39" JP="99" CN="40" NA="41" TH="99" TW="99" />
 	<feature name="GamePadLStickMoveSensitivity" KR="40" JP="30" CN="41" NA="30" TH="1" TW="99" />
-	<feature name="RazorChroma" KR="99" JP="30" CN="99" NA="30" TH="1" TW="99" />
+	<feature name="RazorChroma" KR="99" JP="99" CN="99" NA="30" TH="1" TW="99" />
 	<feature name="SplashIncludeCaster" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
 	<feature name="NxAFoundersPack" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="MushKingRoyaleModeSelect" KR="100" JP="100" CN="100" NA="100" TH="100" TW="100" />
-	<feature name="EyeOfLapentaQuest" KR="40" JP="99" CN="41" NA="99" TH="99" TW="99" />
-	<feature name="MushkingLand" KR="99" JP="30" CN="99" NA="99" TH="1" TW="99" />
+	<feature name="EyeOfLapentaQuest" KR="40" JP="99" CN="41" NA="41" TH="99" TW="99" />
+	<feature name="MushkingLand" KR="99" JP="99" CN="99" NA="99" TH="1" TW="99" />
 	<feature name="FoundersPackMode" KR="100" JP="100" CN="100" NA="31" TH="100" TW="100" />
 	<feature name="PremiumShop" KR="1" JP="31" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="JobChange_02" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
@@ -442,11 +454,12 @@
 	<feature name="LumiStoneJewelBox_01" KR="40" JP="99" CN="42" NA="99" TH="99" TW="99" />
 	<feature name="DirectQuestFindParty" KR="99" JP="30" CN="99" NA="32" TH="1" TW="99" />
 	<feature name="SwitchWeaponLR" KR="99" JP="30" CN="99" NA="32" TH="1" TW="99" />
-	<feature name="HousingLevelhurdle" KR="100" JP="1" CN="100" NA="100" TH="1" TW="99" />
+	<feature name="HousingLevelhurdle" KR="100" JP="99" CN="100" NA="100" TH="1" TW="99" />
 	<feature name="HousingDownsize" KR="42" JP="31" CN="44" NA="34" TH="1" TW="99" />
-	<feature name="HighlightGameMenu" KR="99" JP="99" CN="99" NA="32" TH="99" TW="99" />
-	<feature name="MonsterBalance_NA_01" KR="100" JP="100" CN="32" NA="32" TH="100" TW="100" />
+	<feature name="HighlightGameMenu" KR="99" JP="31" CN="99" NA="32" TH="99" TW="99" />
+	<feature name="MonsterBalance_NA_01" KR="100" JP="31" CN="32" NA="32" TH="100" TW="100" />
 	<feature name="Kritias_2018_12" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
+	<feature name="Kritias02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="StatScore_01" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
 	<feature name="PartyVoteKick" KR="99" JP="31" CN="43" NA="33" TH="1" TW="99" />
 	<feature name="MouseInteract" KR="42" JP="31" CN="44" NA="34" TH="1" TW="99" />
@@ -455,6 +468,7 @@
 	<feature name="Newbie" KR="1" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="AutoNewEquipSet" KR="99" JP="31" CN="99" NA="35" TH="1" TW="99" />
 	<feature name="Colosseum01" KR="46" JP="99" CN="50" NA="99" TH="99" TW="99" />
+	<feature name="Colosseum02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka01" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Turka03" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -465,13 +479,15 @@
 	<feature name="Kritias_Zakum01" KR="45" JP="99" CN="48" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Inferno01" KR="45" JP="99" CN="48" NA="99" TH="99" TW="99" />
 	<feature name="Kritias_Epic01" KR="44" JP="99" CN="46" NA="99" TH="99" TW="99" />
+	<feature name="Kritias_Epic02" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="Kritias_Epic03" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="Blueprint" KR="44" JP="31" CN="46" NA="37" TH="1" TW="99" />
 	<feature name="BlueprintMarket" KR="44" JP="31" CN="46" NA="37" TH="1" TW="99" />
 	<feature name="ETCMaterialDrop" KR="1" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="Fieldwar02" KR="45" JP="99" CN="47" NA="99" TH="99" TW="99" />
 	<feature name="ChatEmoticon" KR="46" JP="99" CN="48" NA="39" TH="99" TW="99" />
-	<feature name="Discord" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
-	<feature name="InventoryPieceTab" KR="45" JP="99" CN="47" NA="38" TH="99" TW="99" />
+	<feature name="Discord" KR="99" JP="99" CN="99" NA="40" TH="99" TW="99" />
+	<feature name="InventoryPieceTab" KR="45" JP="31" CN="47" NA="38" TH="99" TW="99" />
 	<feature name="Event" KR="1" JP="1" CN="1" NA="1" TH="1" TW="99" />
 	<feature name="GemStoneUpgrade100" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 	<feature name="LapenshardUpgrade100" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
@@ -479,5 +495,8 @@
 	<feature name="SummonPetSkill" KR="45" JP="31" CN="47" NA="38" TH="1" TW="99" />
 	<feature name="FameCompletionTicket" KR="45" JP="99" CN="47" NA="99" TH="99" TW="99" />
 	<feature name="MonsterBuffFilter" KR="46" JP="31" CN="48" NA="39" TH="1" TW="99" />
-	<feature name="ComboKeyCoolTime" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="ComboKeyCoolTime" KR="99" JP="33" CN="49" NA="40" TH="1" TW="99" />
+	<feature name="ScreenshotWebSend" KR="99" JP="31" CN="99" NA="99" TH="99" TW="99" />
+	<feature name="LUA_itemRemakeOption" KR="99" JP="31" CN="99" NA="39" TH="99" TW="99" />
+	<feature name="MSRebuild" KR="99" JP="99" CN="99" NA="99" TH="99" TW="99" />
 </ms2>

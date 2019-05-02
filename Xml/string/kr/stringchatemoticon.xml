@@ -36,4 +36,8 @@
 	<key id="400010" name="" command="Urza10" feature="ChatEmoticon" />
 	<key id="400011" name="" command="Urza11" feature="ChatEmoticon" />
 	<key id="400012" name="" command="Urza12" feature="ChatEmoticon" />
+	<key id="200009" name="" command="Ducky9" feature="ChatEmoticon" />
+	<key id="200010" name="" command="Ducky10" feature="ChatEmoticon" />
+	<key id="200011" name="" command="Ducky11" feature="ChatEmoticon" />
+	<key id="200012" name="" command="Ducky12" feature="ChatEmoticon" />
 </ms2>

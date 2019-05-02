@@ -37,7 +37,7 @@
 		<function name="OpenItemBox" parameter="0,1,0,330001508" onlyShadowContinent="0" />
 		<AdditionalEffect id="" level="" />
 		<tool itemPreset="empty" itemPresetPath="" />
-		<option title="0" static="0" random="0" constant="4" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
+		<option title="0" static="0" random="0" constant="3" staticMakeType="0" randomMakeType="0" constantMakeType="0" optionRandom="0" optionLevelFactor="0" optionID="0" />
 		<maid maidID="0" />
 		<PCBang PCBang="0" />
 		<MusicScore playCount="0" masteryValue="0" masteryValueMax="0" isCustomNote="false" noteLengthMax="0" fileName="" playTime="0" recommendCategoryId="0" />

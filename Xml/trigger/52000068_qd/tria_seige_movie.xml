@@ -98,7 +98,7 @@
 
     <state name="프레이대사">
 		<onEnter>
-			<action name="대화를설정한다" arg1="2" arg2="11000064" arg3="$52000068_QD__TRIA_SEIGE_MOVIE__0$" arg4="5" />
+			<action name="AddCinematicTalk" npcID="11000064" illustID="Lennon_closeEye" msg="$52000068_QD__TRIA_SEIGE_MOVIE__0$" duration="5000" align="center" />				
 		</onEnter>
 			<condition name="WaitTick" waitTick="5000">
 				<transition state="알론대사"/>

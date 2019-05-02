@@ -3192,6 +3192,51 @@
 			<action type="uiArrowDialog" align="1" direction="3" childName="m_shopLinkPage.m_shopBtn" dialogName="ChatEmoticonDialog" entityId="11120" offset="70,15,0" textId="11120" />
 		</openAction>-
 	</event>
+	<event id="11200" desc="(이모티콘 구입 시)이모티콘 창 열기">
+		<open>
+			<condition type="guideClear" id="11100" />
+			<condition type="chatEmoticon" />
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="timeout" value="20000" />
+				<condition dialogName="ChatEmoticonDialog" isOpen="1" type="dialog" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="uiArrowDialog" customPosType="messenger" childName="m_chatEmoticonOpen" direction="2" entityId="11200" align="1" offset="-2,-10,0" textId="11100" />
+		</openAction>
+	</event>
+	<event id="11210" saveId="11210" desc="빙고 매직 펜슬 안내">
+		<open>
+			<condition dialogName="BingoEventDialog" isOpen="1" type="dialog" />
+			<condition type="ExistItem" itemId="20302533" />
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="ExistItem" itemId="20302533" not="1" />
+				<condition dialogName="BingoEventDialog" isOpen="0" type="dialog" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="uiArrowDialog" childName="m_useFreeItem" dialogName="BingoEventDialog" direction="0" entityId="11210" align="1" offset="-2,25,0" textId="11210" />
+		</openAction>
+	</event>
+	<event id="11220" saveId="11220" desc="빙고 매직 펜슬 플러스 안내">
+		<open>
+			<condition dialogName="BingoEventDialog" isOpen="1" type="dialog" />
+			<condition type="ExistItem" itemId="20302534" />
+		</open>
+		<close>
+			<condition type="anyOne">
+				<condition type="ExistItem" itemId="20302534" not="1" />
+				<condition dialogName="BingoEventDialog" isOpen="0" type="dialog" />
+			</condition>
+		</close>
+		<openAction>
+			<action type="uiArrowDialog" childName="m_useCashItem" dialogName="BingoEventDialog" direction="0" entityId="11220" align="1" offset="-2,25,0" textId="11220" />
+		</openAction>
+	</event>
 	<event id="20000" saveId="20000" desc="UGC 가이드:전광판 열었을때 가이드 툴팁">
 		<open>
 			<condition type="guideClear" id="40000" />

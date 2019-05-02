@@ -3296,6 +3296,7 @@
 	<key id="31000015" name="굴려라! 메이플 마블!" locale="JP" />
 	<key id="31000015" name="굴려라! 메이플 마블!" locale="TH" />
 	<key id="31000015" name="굴려라! 메이플 마블!" locale="TW" />
+	<key id="31000016" name="굴려라! 무지개 마블!" feature="Event" locale="NA" />
 	<key id="32000000" name="서랍장" />
 	<key id="32000001" name="낡은 인형" />
 	<key id="32000002" name="스위트 룸의 열쇠" />

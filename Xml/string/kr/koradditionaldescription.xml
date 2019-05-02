@@ -1984,6 +1984,7 @@
 	<key id="90000826" level="1" name="전문가용 빛나는 황금 미끼(3시간)" tooltipDescription="빛나는 황금 어종을 유인합니다.\n12가지 빛나는 황금 어종 낚시 가능" />
 	<key id="90000827" level="1" name="맛있는 체다 핫도그" tooltipDescription="최대 HP 250 증가" />
 	<key id="90000836" level="1" name="무지개 마그넷 미끼" tooltipDescription="$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001153$$pp:를,을$ 획득할 수 있다." />
+	<key id="90000836" level="1" name="무지개 마그넷 미끼" tooltipDescription="$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001344$$pp:를,을$ 획득할 수 있다." locale="NA" />
 	<key id="90000838" level="1" name="윈터 버닝 효과" tooltipDescription="10레벨에서 70레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" />
 	<key id="90000840" level="1" name="미스릴 체인 메일 장갑" tooltipDescription="축산 생산량 100% 증가" feature="Mastery06" />
 	<key id="90000841" level="1" name="무지개 옷감 주머니" tooltipDescription="채광 생산량 100% 증가" feature="Mastery06" />
@@ -2020,10 +2021,6 @@
 	<key id="90000933" level="1" name="능력치마크 1" tooltipDescription="크리티컬 대미지 150 증가\n공격속도 4% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000934" level="1" name="능력치마크 2" tooltipDescription="보스 공격 시 대미지 7% 증가\nHP 500 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000935" level="1" name="능력치마크 3" tooltipDescription="보스 공격 시 대미지 4% 증가\n공격속도 5% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
-	<key id="90000936" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 2750 (실적용 1084)\nKR 70 엑설런트" />
-	<key id="90000937" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 3150 (실적용 1241)\nCN 70 엑설런트" />
-	<key id="90000938" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 지분 6.0%" />
-	<key id="90000939" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 지분 24.4%" />
 	<key id="90000940" level="1" name="핑크 페인트" tooltipDescription="페인트 범벅이 되었습니다" feature="Event" />
 	<key id="90000942" level="1" name="초록 페인트" tooltipDescription="페인트 범벅이 되었습니다" feature="Event" />
 	<key id="90001001" level="1" name="트라이아에서 이동속도 5% 증가" tooltipDescription="트라이아에서 이동속도 5% 증가" />
@@ -2038,6 +2035,7 @@
 	<key id="90001143" level="1" name="플라이 투더 유니버스" tooltipDescription="매 초마다 HP 221 회복" />
 	<key id="90001144" level="1" name="에네르바" tooltipDescription="대미지 6% 증가 " feature="Kritias_2018_12" />
 	<key id="90001145" level="1" name="에네르드링크" tooltipDescription="HP 300 증가\n방어력 6% 증가" feature="Kritias_2018_12" />
+	<key id="90001147" level="1" name="고독한 짜장면" tooltipDescription="일시적으로 몸집 증가" feature="Event" />
 	<key id="90002101" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;공격 시 일정 확률로 적에게 전염병 감염&lt;/FONT&gt;" />
 	<key id="90002201" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;공격 시 일정 확률로 적 이동속도, 공격력 감소&lt;/FONT&gt;" />
 	<key id="90002202" level="1" name="발록의 뿔" tooltipDescription="이동속도 10%, 물리/마법 공격력 5% 감소" />

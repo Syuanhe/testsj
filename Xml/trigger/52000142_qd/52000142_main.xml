@@ -107,7 +107,7 @@
         <onEnter>
 			<action name="카메라경로를선택한다" arg1="8003,8005" arg2="0"/>					
 		</onEnter>					
-		<condition name="WaitTick" waitTick="5000">
+		<condition name="WaitTick" waitTick="4000">
 			<transition state="구보훈련_02"/>
 		</condition>					
 		<onExit>
@@ -120,7 +120,7 @@
 			
 			<action name="유저를경로이동시킨다" arg1="MS2PatrolData_2001" />
 		</onEnter>					
-		<condition name="WaitTick" waitTick="1000">
+		<condition name="WaitTick" waitTick="4000">
 			<transition state="구보훈련_03"/>
 		</condition>					
 		<onExit>
@@ -129,7 +129,7 @@
 	
 	<state name="구보훈련_03" >
         <onEnter>
-			
+			<action name="카메라경로를선택한다" arg1="8007" arg2="0"/>
 			<action name="AddCinematicTalk" npcID="0" msg="$52000142_QD__52000142_MAIN__0$" duration="3500" align="right" />
 			
 		</onEnter>				
@@ -142,7 +142,7 @@
 	
 	<state name="구보훈련_04_1" >
         <onEnter>
-			<action name="카메라리셋" interpolationTime="1"/>
+			<action name="카메라리셋" interpolationTime="0"/>
 		</onEnter>				
 		<condition name="WaitTick" waitTick="1000">
 			<transition state="구보훈련_04"/>

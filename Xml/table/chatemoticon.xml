@@ -36,4 +36,8 @@
 	<chatEmoticon id="400010" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_10.png" feature="ChatEmoticon" />
 	<chatEmoticon id="400011" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_11.png" feature="ChatEmoticon" />
 	<chatEmoticon id="400012" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_12.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200009" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_9.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200010" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_10.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200011" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_11.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200012" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_12.png" feature="ChatEmoticon" />
 </ms2>

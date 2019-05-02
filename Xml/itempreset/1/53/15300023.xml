@@ -10,7 +10,7 @@
   <slots>
     <slot name="RH"/>
     <slot name="LH">
-      <asset name="Data/Resource/Model/Item/1/53/15300023_Artillery.nif" targetnode="Weapon_Back_B_Point" selfnode="Scene Root">
+      <asset name="Data/Resource/Model/Item/1/53/15300023_Artillery.nif" targetnode="Weapon_Back_B_Point" selfnode="Point01">
 	    <dummy gender="0" sequence="" rotation="0,0,-12" translation="-8,-5,17" />
         <dummy gender="1" sequence="" rotation="0,0,-12" translation="-8,-5,17" />
 	  </asset>

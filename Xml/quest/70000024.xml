@@ -48,7 +48,7 @@
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20302353" rank="1" count="1" />
+				<essentialJobItem code="20302546" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -68,7 +68,7 @@
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20302353" rank="1" count="1" />
+				<essentialJobItem code="20302546" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -88,7 +88,7 @@
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20302353" rank="1" count="1" />
+				<essentialJobItem code="20302546" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />
@@ -108,7 +108,7 @@
 			<require level="0" maxLevel="99" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
-				<essentialJobItem code="20302353" rank="1" count="1" />
+				<essentialJobItem code="20302546" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="" />
 			<guide guideType="level" guideIcon="" guideMinLevel="1" guideMaxLevel="99" />

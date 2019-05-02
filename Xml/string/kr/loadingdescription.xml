@@ -310,16 +310,8 @@
 	<tip id="351" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 아이템을 제작하면 경험치를 얻을 수 있습니다." />
 	<tip id="352" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공 숙련도는 아이템을 제작하면 상승합니다." />
 	<tip id="353" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 제작하는 아이템의 재료는\n채광이나 축산을 통해 얻을 수 있습니다." />
-	<tip id="356" locale="" feature="ChaosRaid" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="카오스 레이드에 도전하려면\n$map:63000047$에 가야 합니다." />
 	<tip id="357" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬은 생활기술의 마법부여를 통해 얻을 수 있습니다." />
-	<tip id="358" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="안정화 룬은 생활기술의 마법부여를 통해 얻을 수 있습니다." />
-	<tip id="359" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="프랙타 룬은 생활기술의 마법부여를 통해 얻을 수 있습니다." />
-	<tip id="360" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬은 미스터리 박스에서 얻는\n정령의 마력석을 재료로 마법부여 할 수 있습니다." />
-	<tip id="361" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="안정화 룬은 미스터리 박스에서 얻는\n정령의 보호석을 재료로 마법부여 할 수 있습니다." />
-	<tip id="362" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="프랙타 룬은 인챈트 실패 시 얻는\n프랙타 결정이 있어야 만들 수 있습니다." />
 	<tip id="363" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬을 사용하면 원하는 장비를\n한번에 높은 단계로 인챈트 할 수 있습니다." />
-	<tip id="364" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="안정화 룬을 사용하면 불안정한 장비가\n회복되어 다시 인챈트 할 수 있게 됩니다." />
-	<tip id="365" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="프랙타 룬을 사용하면 원하는 장비를\n한번에 +10 인챈트 상태로 만들 수 있습니다." />
 	<tip id="366" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
 	<tip id="366" locale="NA" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
 	<tip id="366" locale="JP" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />

@@ -2511,4 +2511,70 @@
 	<key id="0306175514003945" feature="Event" locale="" npc="루비" name='하지만 조심하세요. 너무 과한 장난은 화를 부를 수도 있답니다. &#x0A;제가 적당히 장난치는 법, 알려드릴까요?&#x0A;우편으로 받으신 &lt;font color=&quot;#ffd200&quot;&gt;&apos;$item:20000674$&apos;&lt;/font&gt; 어때요? 한번 먹어 보세요!' />
 	<key id="0306175514003946" feature="Event" locale="" npc="루비" name="쑥쑥 알약을 먹고 거대해진 모습으로 친구들을 깜짝 놀래켜 보세요!&#x0A;시시하다고요?&#x0A;과한 장난은 화를 부른답니다! 쑥쑥 알약! 딱 좋아요! 딱! " />
 	<key id="0306175514003947" feature="Event" locale="" npc="루비" name="쑥쑥 알약으로 친구들을 놀래켜 주는 데 성공하셨군요!&#x0A;축하드려요.&#x0A;만우절에 딱 어울리는 아주 재밌는 물건을 선물로 드리겠습니다." />
+	<key id="0327171714003964" feature="Event" locale="" npc="콘대르" name='$MyPCName$! 기운이 없어 보이는데 무슨 일이야?&#x0A;혹시 너도 &lt;font color=&quot;#ffd200&quot;&gt;솔로라서 힘이 없다&lt;/font&gt;는둥, 그런 나약한 생각을 하고 있는 건가?' />
+	<key id="0327171714003949" feature="Event" locale="" npc="콘대르" name='마! 이렇게 나약해서야, 원. 우리 때는 말이야, 그럴 수가 없었는데…&#x0A;그러지 말고, 우리 근위대에 전해 내려오는 &lt;font color=&quot;#ffd200&quot;&gt;나는 나와 연애한다&lt;/font&gt; 훈련에 참가해라!&#x0A;쓸데없는 생각 따윈 싹 잊어버리게 되지. 그뿐이야? 선물도 있다고!' />
+	<key id="0402144014003970" feature="Event" locale="" npc="콘대르" name='첫 번째 훈련은 일단 가벼운 몸풀기다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;필드 보스&lt;/font&gt;를 한 마리 처치하고, $map:02000118$의 $npc:11000158[gender:0]$에게 가 보도록!' />
+	<key id="0327171714003950" feature="Event" locale="" npc="콘대르" name='첫 번째 훈련은 일단 가벼운 몸풀기다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;필드 보스&lt;/font&gt;를 한 마리 처치하고, $map:02000118$의 $npc:11000158[gender:0]$에게 가 보도록!' />
+	<key id="0402144014003987" feature="Event" locale="" npc="pc" name="처치할 필드 보스를 알려달라고 한다." />
+	<key id="0402144014003988" feature="Event" locale="" npc="콘대르" name="마! 그것도 몰라? 여태까지 모험 헛했구나! " />
+	<key id="0402144014003989" feature="Event" locale="" npc="pc" name="부장님의 멋지고 우렁찬 목소리를 듣고 싶다고 한다." />
+	<key id="0402144014003990" feature="Event" locale="" npc="콘대르" name="허, 참! 그런 거였냐? 자식~ 귀는 고급이구나!&#x0A;딱 한번만 말해줄 테니 잘 들어라! " />
+	<key id="0402144014003991" feature="Event" locale="" npc="콘대르" name='$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$, &#x0A;$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,&#x0A;$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$. &lt;font color=&quot;#ffd200&quot;&gt;알겠지?&lt;/font&gt;' />
+	<key id="0402144014003992" feature="Event" locale="" npc="pc" name="부장님의 멋진 목소리를 한 번 더 듣고 싶다고 한다." />
+	<key id="0402144014003993" feature="Event" locale="" npc="pc" name="즉시 출발하겠다고 한다." />
+	<key id="0402144014003994" feature="Event" locale="" npc="콘대르" name="뭐야? 이 녀석이. 겨우 이런 것도 기억 못 한단 말이야? &#x0A;이렇게 크게 또박또박 얘기해 주는데, 엉? 자꾸 말 시키면 목이 아프다고!" />
+	<key id="0402144014003995" feature="Event" locale="" npc="pc" name="(부장님 놀리는 재미가 쏠쏠한데…?) 듣고 싶다고 한다." />
+	<key id="0402144014003996" feature="Event" locale="" npc="pc" name="즉시 출발하겠다고 한다." />
+	<key id="0402144014003997" feature="Event" locale="" npc="콘대르" name='$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$, &#x0A;$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,&#x0A;$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$. &lt;font color=&quot;#ffd200&quot;&gt;됐냐?&lt;/font&gt;' />
+	<key id="0402144014003998" feature="Event" locale="" npc="pc" name="부장님의 멋진 목소리를 한 번 더 듣고 싶다고 한다." />
+	<key id="0402144014003999" feature="Event" locale="" npc="콘대르" name="훗, 이제 만족했나? 다녀오면 내 목소리를 원없이 듣도록 해 주지!&#x0A;어서 출발하도록!" />
+	<key id="0327171714003951" feature="Event" locale="" npc="브루노" name='앗… $MyPCName$님이셨군요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;나는 나와 연애한다&lt;/font&gt; 훈련에 참가하신다는 분이 누군가 했는데… ' />
+	<key id="0402144014004000" feature="Event" locale="" npc="pc" name="어색하게 인사한다." />
+	<key id="0402144014004001" feature="Event" locale="" npc="브루노" name="하핫, 네. 부장님께서 잘 도와주라고 하셨습니다.&#x0A;그럼, 훈련을 계속해 볼까요?" />
+	<key id="0327171714003952" feature="Event" locale="" npc="브루노" name='&lt;font color=&quot;#ffd200&quot;&gt;나는 나와 연애한다&lt;/font&gt; 훈련은 &quot;나 스스로의 멋짐을 찾아가는 여행&quot;이라고 할 수 있습니다.&#x0A;그러자면 누구보다 멋진 자신을 가꾸는 작업이 필요하겠죠?' />
+	<key id="0402144014004002" feature="Event" locale="" npc="pc" name="멋진 말이라고 칭찬한다." />
+	<key id="0327171714003953" feature="Event" locale="" npc="브루노" name='맞아요. $npcName:11004313[gender:0]$ 부장님께서 하신 말씀인데, 참 멋있죠?&#x0A;그리고, 부장님은 말씀하셨습니다. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:50400096$&lt;/font&gt; 위에서 달리다 보면 잡념도, 집착도, 우울도 사라진다고요.' />
+	<key id="0402144014004003" feature="Event" locale="" npc="브루노" name='두 번째 훈련은 나 또는 남의 집에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$item:50400096$&lt;/font&gt;에서 달려 보는 겁니다.&#x0A;훈련을 마치고 나면, 다음엔 제 동료인 $npcName:11000157[gender:0]$$pp:를,을$ 만나보십시오.&#x0A;다음 훈련을 안내해 줄 겁니다.' />
+	<key id="0327171714003954" feature="Event" locale="" npc="브루노" name='두 번째 훈련은 나 또는 남의 집에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$item:50400096$&lt;/font&gt;에서 달려 보는 겁니다.&#x0A;훈련을 마치고 나면, 다음엔 제 동료인 $npcName:11000157[gender:0]$$pp:를,을$ 만나보십시오.&#x0A;다음 훈련을 안내해 줄 겁니다.' />
+	<key id="0327171714003955" feature="Event" locale="" npc="폴" name="$MyPCName$님, 기다리고 있었습니다.&#x0A;두 번째 훈련을 마치셨군요. " />
+	<key id="0402144014004004" feature="Event" locale="" npc="pc" name="나 어떠냐고 물어본다." />
+	<key id="0402144014004005" feature="Event" locale="" npc="폴" name="멋집니다. 빛이 나세요! &#x0A;자, 그럼 다음 훈련으로 넘어가 볼까요?" />
+	<key id="0327171714003956" feature="Event" locale="" npc="폴" name='$MyPCName$님, &lt;font color=&quot;#ffd200&quot;&gt;나는 나와 연애한다&lt;/font&gt; 훈련 참가를 환영합니다.&#x0A;세 번째 훈련의 내용에 대해 설명하기 전에, 한 가지 질문을 드려 보겠습니다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;낭만&lt;/font&gt;이란 무엇이라 생각하시나요?' />
+	<key id="0402144014004006" feature="Event" locale="" npc="pc" name="낭만의 결정체가 바로 나야, 나! 라고 대답한다." />
+	<key id="0402144014004007" feature="Event" locale="" npc="pc" name="나와는 상관 없는 것… 이라고 대답한다." />
+	<key id="0327171714003957" feature="Event" locale="" npc="폴" name="자신을 사랑하는 마음이 아주 멋지시네요, $MyPCName$님. 존경스럽습니다.&#x0A;그럼, 제가 생각하는 낭만에 대해서 이야기해봐도 될까요?" />
+	<key id="0402144014004008" feature="Event" locale="" npc="pc" name="말해달라고 한다." />
+	<key id="0402144014004009" feature="Event" locale="" npc="폴" name="아닙니다, $MyPCName$님. &#x0A;제가 생각하기엔 바로 지금, $MyPCName$님의 모습이야말로 낭만 그 자체거든요. " />
+	<key id="0402144014004010" feature="Event" locale="" npc="pc" name="낭만이 대체 뭐라고 생각하냐고 물어본다." />
+	<key id="0402144014004011" feature="Event" locale="" npc="폴" name='그건 바로 &lt;font color=&quot;#ffd200&quot;&gt;고독&lt;/font&gt;입니다. &#x0A;진정한 낭만은 나 홀로, 고독을 즐기며 나 자신을 탐색하는 것이지요. &#x0A;전 그래서, 우울할 때 탈춤을 추지요. ' />
+	<key id="0402144014004012" feature="Event" locale="" npc="폴" name="$MyPCName$님. 낭만을 즐겨 보지 않으시겠습니까?" />
+	<key id="0402144014004013" feature="Event" locale="" npc="pc" name="뭔진 모르겠지만 해 보자고 한다." />
+	<key id="0402144014004014" feature="Event" locale="" npc="pc" name="탈춤을 추고 싶지 않다고 말한다." />
+	<key id="0402144014004015" feature="Event" locale="" npc="폴" name='아무 악보로나 한 곡을 &lt;font color=&quot;#ffd200&quot;&gt;연주&lt;/font&gt;해 보세요.&#x0A;오롯이 음악과 나, 단 둘만이 존재하는 세계에 빠져 보시는 겁니다.&#x0A;이게 바로 &lt;font color=&quot;#ffd200&quot;&gt;세 번째 훈련&lt;/font&gt;입니다.' />
+	<key id="0402144014004016" feature="Event" locale="" npc="폴" name='훈련을 마치고 나면, 다음엔 제 동료인 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000617[gender:0]$&lt;/font&gt;$pp:를,을$ 만나보십시오.&#x0A;다음 훈련을 안내해 줄 겁니다.' />
+	<key id="0402144014004017" feature="Event" locale="" npc="폴" name='아아, 오해하지 마십시오. 그거 아닙니다. &#x0A;제가 말씀드리려던 건 바로 &lt;font color=&quot;#ffd200&quot;&gt;세 번째 훈련&lt;/font&gt;이거든요.' />
+	<key id="0402144014004018" feature="Event" locale="" npc="pc" name="그렇다면 하겠다고 말한다." />
+	<key id="0327171714003958" feature="Event" locale="" npc="폴" name='&lt;font color=&quot;#ffd200&quot;&gt;세 번째 훈련&lt;/font&gt;은 아무 악보로나 한 곡을 &lt;font color=&quot;#ffd200&quot;&gt;연주&lt;/font&gt;해보는 것입니다.&#x0A;오롯이 음악과 나, 단 둘만이 존재하는 세계에 빠져 보시는 겁니다.&#x0A;훈련을 마치고 나면, 다음엔 제 동료인 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000617[gender:0]$&lt;/font&gt;$pp:를,을$ 만나보십시오.' />
+	<key id="0327171714003959" feature="Event" locale="" npc="머뭇" name="아, 참… 곤란하네… &#x0A;이 훈련인지 뭔지, 정말 부끄럽다고 몇 번을 말했는데…" />
+	<key id="0402144014004019" feature="Event" locale="" npc="pc" name="인사를 건넨다." />
+	<key id="0402144014004020" feature="Event" locale="" npc="머뭇" name="아… 아. 어서오세요. $MyPCName$님. &#x0A;세 번째 훈련을 끝내셨으니 이제 마지막 훈련으로 넘어가시죠." />
+	<key id="0327171714003960" feature="Event" locale="" npc="머뭇" name='마지막 훈련은 아주 간단합니다. &#x0A;여태까지 훈련을 하시면서 받으셨던 &lt;font color=&quot;#ffd200&quot;&gt;$item:20001312$&lt;/font&gt;$pp:를,을$ 먹어보시면 끝이거든요.' />
+	<key id="0402144014004021" feature="Event" locale="" npc="pc" name="정말 그게 다냐고 물어본다." />
+	<key id="0327171714003961" feature="Event" locale="" npc="머뭇" name="네, 그게 다입니다. 진짜로 그게 다예요. " />
+	<key id="0402144014004022" feature="Event" locale="" npc="pc" name="뒤에 감춘 종이는 뭐냐고 물어본다." />
+	<key id="0402144014004023" feature="Event" locale="" npc="머뭇" name='…하, 정말 쓸데없이 눈이 밝으시네요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;검은 맛 헌장&lt;/font&gt;입니다. 부장님이 주신 건데… 뭐… 훈련을 마치는 사람을 위한 노래라고 하네요.' />
+	<key id="0402144014004024" feature="Event" locale="" npc="pc" name="불러달라고 한다." />
+	<key id="0402144014004025" feature="Event" locale="" npc="머뭇" name="검, 검은 맛. 궁금해 근위… 깨물면 점점 녹아드는 짜장의 그 맛.&#x0A;코너 중국집, 찾아가 근위. 내가 제일 좋아하는 건 고독한 나…" />
+	<key id="0402144014004026" feature="Event" locale="" npc="pc" name="(부장님의 감성이란…!) 그만 됐다고 한다." />
+	<key id="0402144014004027" feature="Event" locale="" npc="머뭇" name='네. 좋은 선택입니다. 이런 훈련은 빨리 끝내는 게 좋아요, 아무렴요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:20001312$&lt;/font&gt;$pp:를,을$ 먹은 뒤, 저에게 돌아오시면 선물을 드리겠습니다.' />
+	<key id="0327171714003962" feature="Event" locale="" npc="머뭇" name="$MyPCName$님, 왜 그러시죠?" />
+	<key id="0402144014004028" feature="Event" locale="" npc="pc" name="$item:20001312$$pp:가,이$ 하나도 없다고 한다." />
+	<key id="0402144014004029" feature="Event" locale="" npc="pc" name="그냥 불러봤다고 한다." />
+	<key id="0402144014004030" feature="Event" locale="" npc="머뭇" name='휴… 이거 참. 어쩔 수 없네요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;제가 먹던 것&lt;/font&gt;이라도 드리겠습니다. 이거라도 드시고, 빨리 끝내시죠.' />
+	<key id="0402144014004031" feature="Event" locale="" npc="머뭇" name='$MyPCName$님… 가방 안을 보세요. &lt;font color=&quot;#ffd200&quot;&gt;갖고 있으신데요.&lt;/font&gt;&#x0A;하나만 있으면 충분합니다. 욕심을 부리시면 부장님께 이를 겁니다.' />
+	<key id="0402144014004032" feature="Event" locale="" npc="머뭇" name="저기… 가방부터 정리하고 말씀하시는 게 좋겠습니다.&#x0A;그렇게 꽉 차 있으면 아무것도 드릴 수 없어요." />
+	<key id="0402144014004033" feature="Event" locale="" npc="머뭇" name='휴… 그럴 시간이 있으시면 빨리 훈련부터 끝내시죠.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:20001312$&lt;/font&gt;$pp:를,을$ 먹은 뒤, 저에게 돌아오시면 선물을 드리겠습니다.' />
+	<key id="0327171714003963" feature="Event" locale="" npc="머뭇" name='드디어 끝내셨군요. 휴… 그럼 부장님이 시키신 대로… &lt;font color=&quot;#ffd200&quot;&gt;수료식&lt;/font&gt;을 진행하겠습니다. &#x0A;더욱 멋진 나를 만들기 위한 훈련! &lt;font color=&quot;#ffd200&quot;&gt;나는 나와 연애한다&lt;/font&gt;에 참여해 주셔서 감사합니다.&#x0A;부장님 말씀이 있겠습니다. ' />
+	<key id="0402153414004034" feature="Event" locale="" npc="머뭇" name='&lt;font color=&quot;#ffd200&quot;&gt;한결 더 크고 멋진 사람이 될 수 있는 훈련, 보람되지 않았나?&lt;/font&gt;&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;외롭다고 골골대지 말고, 미래를 위해 나 자신과 연애하듯 자기 계발에 힘쓰게!&lt;/font&gt;' />
+	<key id="0402153414004035" feature="Event" locale="" npc="머뭇" name="…라고 부장님이 전해 달라고 하셨고요. 마지막으로, &#x0A;$npcName:11004313[gender:0]$ 부장님이 준비하신 선물을 드리겠습니다. 수고하셨습니다." />
 </ms2>

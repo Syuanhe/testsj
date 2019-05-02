@@ -372,10 +372,10 @@
 	<pets code="61100144" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="1" npcID="61100144" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">
 		<skill id="0" level="0" />
 	</pets>
-	<pets code="61100145" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="61100145" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">
+	<pets code="61100145" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="1" npcID="61100145" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">
 		<skill id="0" level="0" />
 	</pets>
-	<pets code="61100146" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="61100146" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">
+	<pets code="61100146" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="1" npcID="61100146" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">
 		<skill id="0" level="0" />
 	</pets>
 	<pets code="61100147" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="1" npcID="61100147" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="Pet_70Lv_Boss">

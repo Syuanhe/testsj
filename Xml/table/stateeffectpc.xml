@@ -96,4 +96,34 @@
 	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_DeepSleep_Loop_A.xml">
 		<Info emotionSkillID="90200129" gender="2" />
 	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_ChangePose_Ready_A.xml">
+		<Info emotionSkillID="90200133" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_ChangePose_Loop_A.xml">
+		<Info emotionSkillID="90200133" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_ChangePose_Ready_B.xml">
+		<Info emotionSkillID="90200134" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_ChangePose_Loop_B.xml">
+		<Info emotionSkillID="90200134" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_ChangePose_Ready_C.xml">
+		<Info emotionSkillID="90200135" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_ChangePose_Loop_C.xml">
+		<Info emotionSkillID="90200135" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_CherryBlossomTree_Ready_A.xml">
+		<Info emotionSkillID="90200137" gender="0" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_CherryBlossomTree_Loop_A.xml">
+		<Info emotionSkillID="90200137" gender="0" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_CherryBlossomTree_Ready_B.xml">
+		<Info emotionSkillID="90200137" gender="1" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_CherryBlossomTree_Loop_B.xml">
+		<Info emotionSkillID="90200137" gender="1" />
+	</StateEffect>
 </ms2>

@@ -78,7 +78,7 @@
    <state name="1차어나운스01">
         <onEnter>
 		<action name="이펙트를설정한다" arg1="" arg2="1" />
-		<action name="대화를설정한다" arg1="2" arg2="11000032" arg3="$02000066_BF__MAIN__4$" arg4="5" />
+		<action name="AddCinematicTalk" npcID="11000032" illustID="Anos_serious" msg="$02000066_BF__MAIN__4$" duration="5000" align="center" />	
 		<action name="스킵을설정한다" arg1="1차어나운스03" />
         </onEnter>
 				<condition name="WaitTick" waitTick="5000" > 
@@ -88,7 +88,7 @@
 
     <state name="1차어나운스02">
         <onEnter>
-		<action name="대화를설정한다" arg1="2" arg2="11000032" arg3="$02000066_BF__MAIN__5$" arg4="5" />
+		<action name="AddCinematicTalk" npcID="11000032" illustID="Anos_serious" msg="$02000066_BF__MAIN__5$" duration="5000" align="center" />			
 		<action name="스킵을설정한다" arg1="1차어나운스03" />
         </onEnter>
 				<condition name="WaitTick" waitTick="5000" > 

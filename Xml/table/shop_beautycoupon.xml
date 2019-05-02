@@ -255,6 +255,54 @@
 	<shop shopID="700" byItem="1">
 		<item id="10200207" />
 	</shop>
+	<shop shopID="701" byItem="1">
+		<item id="10200147" />
+	</shop>
+	<shop shopID="702" byItem="1">
+		<item id="10200142" />
+	</shop>
+	<shop shopID="703" byItem="1">
+		<item id="10200210" />
+	</shop>
+	<shop shopID="704" byItem="1">
+		<item id="10200223" />
+	</shop>
+	<shop shopID="705" byItem="1">
+		<item id="10200201" feature="Event" />
+	</shop>
+	<shop shopID="706" byItem="1">
+		<item id="10200205" feature="Event" />
+	</shop>
+	<shop shopID="707" byItem="1">
+		<item id="10200207" feature="Event" />
+	</shop>
+	<shop shopID="708" byItem="1">
+		<item id="10200209" feature="Event" />
+	</shop>
+	<shop shopID="709" byItem="1">
+		<item id="10200211" feature="Event" />
+	</shop>
+	<shop shopID="710" byItem="1">
+		<item id="10200224" feature="Event" />
+	</shop>
+	<shop shopID="711" byItem="1">
+		<item id="10200200" feature="Event" />
+	</shop>
+	<shop shopID="712" byItem="1">
+		<item id="10200204" feature="Event" />
+	</shop>
+	<shop shopID="713" byItem="1">
+		<item id="10200206" feature="Event" />
+	</shop>
+	<shop shopID="714" byItem="1">
+		<item id="10200208" feature="Event" />
+	</shop>
+	<shop shopID="715" byItem="1">
+		<item id="10200210" feature="Event" />
+	</shop>
+	<shop shopID="716" byItem="1">
+		<item id="10200220" feature="Event" />
+	</shop>
 	<shop shopID="900" byItem="1">
 		<item id="10400192" locale="NA" />
 	</shop>
