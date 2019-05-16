@@ -3777,7 +3777,7 @@
 			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004408" text="$script:0327150219011077$" />
 			<content leftIllust="Eone_closeEye" rightIllust="Bliche_normal" speakerIllust="Eone_closeEye" text="$script:0327150219011078$" />
 			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Eone_normal" text="$script:0327150219011079$" />
-			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" screenEffectMovie="mask_black" screenEffectAction="fadein" screenEffectValue="3000" text="$script:0327150219011080$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" screenEffectMovie="mask_black" screenEffectAction="fadein" screenEffectValue="1000" text="$script:0327150219011080$" />
 		</script>
 		<script id="200" feature="Develop" locale="">
 			<content text="$script:0325112619011064$" />

@@ -793,7 +793,8 @@
 	<key id="s_guild_ui_house_npc_upgrade_popup_first" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;을 고용하시겠습니까?" />
 	<key id="s_guild_ui_vsGame_title" value="(미니 게임) 댄스댄스스탑" />
 	<key id="s_guild_ui_vsGame_userCount" value="최대 인원 제한 없음" />
-	<key id="s_guild_ui_vsGame_description" value="신청 가능 시간: 토요일 18시 55분 10초 ~ 20시 00분 00초\n5판 3선승제 승부, 매 라운드에 더 많은 인원이 통과하는 길드가 점수를 획득하는 게임\n승/패에 따라 길드 경험치와 길드 기금을 획득할 수 있음" />
+	<key id="s_guild_ui_vsGame_description" value="신청 가능 시간: 토요일 18시 55분 10초 ~ 20시 00분 00초\n5판 3선승제 승부, 매 라운드에 더 많은 인원이 통과하는 길드가 점수를 획득하는 게임\n승/패에 따라 길드 경험치와 길드 기금을 획득할 수 있음" feature="GuildMinigame01" />
+	<key id="s_guild_ui_vsGame_description" value="5판 3선승제 승부, 매 라운드에 더 많은 인원이 통과하는 길드가 점수를 획득하는 게임\n승/패에 따라 길드 경험치와 길드 기금을 획득할 수 있음" feature="GuildMinigame01" locale="NA" />
 	<key id="s_guild_ui_vsGame_description_close" value="준비 중 입니다." />
 	<key id="s_guild_raid_info_score" value="나의 레이드 점수 {0}\n길드 레이드 점수 {1}" />
 	<key id="s_guild_raid_history_desc" value="({0}) {1} : {2}" />
@@ -1175,6 +1176,7 @@
 	<key id="s_char_err_input" value="최소 2글자 이상 입력하세요." />
 	<key id="s_char_err_delete_name" value="캐릭터 이름을 잘못 입력했습니다." />
 	<key id="s_char_err_char_count" value="캐릭터는 {0}개까지 만들 수 있습니다." />
+	<key id="s_char_err_char_count_by_gameevent" value="캐릭터는 {0}개까지 만들 수 있습니다." />
 	<key id="s_char_err_name" value="최소 2글자 이상 입력하세요." />
 	<key id="s_char_err_already_taken" value="이미 사용 중인 이름입니다." />
 	<key id="s_char_err_system" value="시스템 오류로 캐릭터를 생성할 수 없습니다." />
@@ -2012,6 +2014,9 @@
 	<key id="s_item_opt_sa_improve_riding_speed" value="" />
 	<key id="s_item_opt_sa_improve_riding_speed_v" value="" />
 	<key id="s_item_opt_sa_improve_riding_speed_r" value="" />
+	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee" value="" />
+	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee_v" value="" />
+	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee_r" value="" />
 	<key id="s_item_opt_has_additional_effect" value="{0}" />
 	<key id="s_item_tooltip_icon_code_param2" value="{0} {1}" comment="{0}:ItemRank {1}:ItemType" />
 	<key id="s_item_tooltip_icon_code_param3" value="{0} {1} {2}" comment="{0}:ItemRank {1}:Etc(designed,Cash ..) {2}:ItemType" />
@@ -2970,7 +2975,7 @@
 	<key id="s_html_chat_club" value="&lt;P&gt;&lt;a href={0}&gt;&lt;FONT color=&apos;#{1:x}&apos; size=&apos;{2}&apos;&gt;[{3}][{4}] &lt;/FONT&gt;&lt;/a&gt;{5}&lt;FONT color=&apos;#{6:x}&apos; size=&apos;{7}&apos;&gt;{8}&lt;/FONT&gt;&lt;/P&gt;" />
 	<key id="s_html_chat_ugc_event" value="&lt;P&gt;&lt;Img Src=&apos;export_common_icon_megaphone3&apos; vspace=&apos;-6&apos; width=&apos;18&apos; height=&apos;16&apos;&gt;&lt;/Img&gt; &lt;a href={0}&gt;&lt;FONT color=&apos;#ffff00&apos; size=&apos;15&apos;&gt;[{1}] &lt;/FONT&gt;&lt;/a&gt;&lt;a href={2}&gt;&lt;img src=&apos;{3}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;18&apos; /&gt;&lt;FONT color=&apos;#ffff00&apos; size=&apos;15&apos;&gt; [ {4} ] 이벤트를 열었습니다. 메시지를 클릭해서 지금 바로 참여하세요.&lt;/FONT&gt; &lt;/a&gt; &lt;/P&gt;" />
 	<key id="s_html_chat_system" value="&lt;P&gt;&lt;a href={0}&gt;&lt;FONT color=&apos;#{1:x}&apos; size=&apos;{2}&apos;&gt;[{3}] &lt;/FONT&gt;&lt;/a&gt;{4}&lt;FONT color=&apos;#{5:x}&apos; size=&apos;{6}&apos;&gt;{7}&lt;/FONT&gt;&lt;/P&gt;" feature="ChatFormat" />
-	<key id="s_html_chat_super_custom" value="&lt;TEXTFORMAT indent=&apos;{0}&apos;&gt;" />
+	<key id="s_html_chat_super_custom" value="&lt;TEXTFORMAT indent=&apos;{0}&apos; tabStops=&apos;0&apos;&gt;" />
 	<key id="s_html_chat_super_dropdown" value="&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;26&apos; height=&apos;21&apos;&gt;슈퍼" />
 	<key id="s_html_chat_super_preview" value="&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;&lt;FONT color=&apos;#{1:x}&apos; size=&apos;18&apos;&gt;{2} &lt;/FONT&gt;&lt;Img Src=&apos;{0}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;" />
 	<key id="s_tooltip_chat_emoticon_description" value="사용 시 이모티콘 {0}종 획득" feature="ChatEmoticon" />
@@ -3431,6 +3436,7 @@
 	<key id="s_tooltip_gamemenu_lapenshard" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;라펜샤드 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n라펜샤드를 장착하고 합성할 수 있습니다." feature="Lapenshard01" />
 	<key id="s_tooltip_gamemenu_MeratCharge" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;메럿 충전샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메럿을 구입할 수 있습니다." locale="NA" />
 	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스타일 코인샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n스타일 코인으로 아이템을 구입할 수 있습니다.\n스타일 코인은 스타일 박스에서 획득한 아이템을 분해하면 얻을 수 있습니다." />
+	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;아바타 코인샵 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아바타 코인으로 아이템을 구입할 수 있습니다.\n아바타 코인은 아바타 랜덤 박스에서 획득한 아이템을 분해하면 얻을 수 있습니다." locale="JP" />
 	<key id="s_tooltip_gamemenu_collectitemgroupevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;마법 더하기 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아이템을 수집하여 보상을 받을 수 있습니다." />
 	<key id="s_tooltip_gamemenu_bingoevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;체크체크 올빙고 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n빙고를 완성하여 보상을 받을 수 있습니다." feature="Event" />
 	<key id="s_eventtag_gamemenu_mushking_royal" value="신청중" />
@@ -4086,6 +4092,8 @@
 	<key id="s_meratmarket_gift_success_all" value="아이템을  선물했습니다.\n상세 내역을 확인해 주세요." />
 	<key id="s_meratmarket_gift_success_with_fail" value="일부 아이템만 선물했습니다.\n선물에 실패한 아이템은 상세 내역을 확인해 주세요." />
 	<key id="s_meratmarket_gift_fail_all" value="아이템 선물에 실패했습니다.\n상세 내역을 확인해 주세요." />
+	<key id="s_meratmarket_gift_ask_confirm" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 님에게 선물하시겠습니까?" />
+	<key id="s_meratmarket_gift_ask_confirm_blueprint" value="블루프린트 구매 금액은 디자인의 가격만 포함합니다. 블루프린트 사용 시 보유하고 있지 않은 건설 자재는 사용자가 별도로 구매해야 햡니다.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 님에게 선물하시겠습니까?" feature="Blueprint" />
 	<key id="s_meratmarket_error_buying" value="잠시 후에 다시 시도해 주세요." />
 	<key id="s_meratmarket_error_buying_diff_buytype" value="잠시 후에 다시 시도해 주세요." />
 	<key id="s_meratmarket_error_lack_invenslot" value="소지품 [{0}] 탭의 공간이 {1}개 부족합니다." />
@@ -5967,13 +5975,13 @@
 	<key id="s_multi_riding_item_desc" value="\n파티원, 길드원, 친구만 동승할 수 있다." />
 	<key id="s_function_item_survival_scan_info" value="미니맵에서 다른 참가자의 위치를 알 수 있습니다." feature="SurvivalContents01" />
 	<key id="s_function_item_survival_scan_announce" value="누군가 스캔 아이템을 사용 했습니다." feature="SurvivalContents01" />
-	<key id="s_treewatering_watering" value="단풍나무에 쑥쑥 영양 비료주기" />
-	<key id="s_treewatering_emotion" value="단풍나무와 교감하기" />
-	<key id="s_treewatering_watering_casting" value="단풍나무에 쑥쑥 영양 비료를 주는 중" />
-	<key id="s_treewatering_emotion_casting" value="단풍나무와 교감하는 중" />
-	<key id="s_treewatering_wateringreward" value="단풍나무에 쑥쑥 영양 비료를 주었습니다. ({0}/{1})" />
-	<key id="s_treewatering_emotionreward" value="단풍나무와 교감을 했습니다. ({0}/{1})" />
-	<key id="s_treewatering_no_waterpot" value="쑥쑥 영양 비료가 없습니다." />
+	<key id="s_treewatering_watering" value="벚꽃나무에 물주기" />
+	<key id="s_treewatering_emotion" value="벚꽃나무와 교감하기" />
+	<key id="s_treewatering_watering_casting" value="벚꽃나무에 물을 주는 중" />
+	<key id="s_treewatering_emotion_casting" value="벚꽃나무와 교감하는 중" />
+	<key id="s_treewatering_wateringreward" value="벚꽃나무에 물을 주었습니다. ({0}/{1})" />
+	<key id="s_treewatering_emotionreward" value="벚꽃나무와 교감을 했습니다. ({0}/{1})" />
+	<key id="s_treewatering_no_waterpot" value="물뿌리개가 없습니다." />
 	<key id="s_treewatering_nomore_watering_reward" value="일일 보상을 모두 받았습니다." />
 	<key id="s_treewatering_nomore_emotion_reward" value="일일 보상을 모두 받았습니다." />
 	<key id="s_gamepad_key_icon" value="&lt;Img Src=&apos;export_icon_key_{0}_{1}&apos; vspace=&apos;-10&gt;&lt;/Img&gt;" />
@@ -6143,7 +6151,8 @@
 	<key id="s_dungeon_control_center_reward_daily" value="{0} / {1}" />
 	<key id="s_dungeon_control_center_dungeon_title" value="Lv {0}. {1}" />
 	<key id="s_dungeon_control_center_require_reward_count" value="{0}회" />
-	<key id="s_dungeon_control_center_require_reward_complete" value="완료" />
+	<key id="s_dungeon_control_center_require_reward_complete" value="완료" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_control_center_recommend_category" value="적정 던전" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_search_setting_group_none" value="전체 던전" />
+	<key id="s_lms_checknetcafe_user_count_limit_exceeded" value="PC방 접속 제한수를 초과하여 로그인할 수 없습니다." locale="JP" />
 </ms2>

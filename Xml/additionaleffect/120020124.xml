@@ -32,7 +32,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -67,7 +67,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -102,7 +102,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -137,7 +137,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -172,7 +172,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -207,7 +207,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -242,7 +242,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -277,7 +277,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -312,7 +312,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>
@@ -347,7 +347,7 @@
 			<beginCondition level="1" gender="2" target="0" probability="0.06" invokeEffectFactor="1" cooldownTime="0" useCoolDownShowUI="0" allowDeadState="0" requireDurationWithoutDamage="0" requireDurationWithoutMove="0" useTargetCountFactor="0" onlyShadowWorld="0" onlyFlyableMap="0" applyPvPZoneType="0" allowBattleRidingState="0" onlyBattleRidingState="0">
 				<stat />
 				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="1" eventSkillID="11000261,11000262,11000263,11000264,11000265,11000266" eventEffectID="" />
-				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="0" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="0" NpcRaceString="" hasSkillID="1" hasSkillLevel="1" ignoreOwnerEvent="0" hasNotBuffID="50004546" eventSkillID="" eventEffectID="" />
 			</beginCondition>
 		</conditionSkill>
 	</level>

@@ -8,7 +8,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<complete npc="11003535" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30000925" rank="1" count="63" />
 			</completeReward>
 			<progressMap progressMap="02000412" />
@@ -32,7 +32,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<complete npc="11003535" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001046" rank="1" count="23" />
 			</completeReward>
 			<progressMap progressMap="02000412" />
@@ -56,7 +56,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<complete npc="11003535" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001046" rank="1" count="23" />
 			</completeReward>
 			<progressMap progressMap="02000412" />
@@ -80,7 +80,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<complete npc="11003535" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001046" rank="1" count="23" />
 			</completeReward>
 			<progressMap progressMap="02000412" />
@@ -104,7 +104,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<complete npc="11003535" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001046" rank="1" count="23" />
 			</completeReward>
 			<progressMap progressMap="02000412" />

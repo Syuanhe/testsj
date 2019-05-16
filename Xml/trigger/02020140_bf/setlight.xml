@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!--  MS2TriggerModel  TriggerModelID =  101  -->
+<ms2>    
+	<state name="전투체크">
+		<condition name="CheckUser">
+			<transition state="대기" /> 
+		</condition>	
+	</state>  
+  
+  
+ <state name="대기">
+    <onEnter>
+
+	 	 <action name="SetUserValue" key="SetLight" value="0" />	 <!-- 변수 0으로 초기화 하기-->			 
+		 <action name="SetAmbientLight" arg1="45, 21, 28"/>	<!-- arg1 = AmbientColor RGB값 -->
+		 <action name="SetDirectionalLight" arg1="16, 30, 29" arg2="130, 130, 130"/>		<!-- arg1 = DiffuseColor RGB값,  arg2 = SpecularColor RGB값  -->	
+		 
+    </onEnter>
+
+			<condition name="WaitTick" waitTick="6000">  <!--   waitTick 시간 조절을 넣음 -->
+				<transition state="디폴트조명설정"/>
+			</condition>
+			
+			<condition name="UserValue" key="SetLight" value="1">
+				<transition state="디폴트조명설정" />
+			</condition>							
+			
+		<onExit> 
+		</onExit> 			
+  </state>    
+  
+  
+
+  
+  <state name="디폴트조명설정">
+		<onEnter>
+	<!--		 <action name="ChangeBackground" dds="BG_RedLapenta_A.dds" />	-->
+			 <action name="SetAmbientLight" arg1="255, 140, 172"/>	<!-- arg1 = AmbientColor RGB값 -->
+			 <action name="SetDirectionalLight" arg1="146, 221, 218" arg2="130, 130, 130"/>		<!-- arg1 = DiffuseColor RGB값,  arg2 = SpecularColor RGB값  -->	
+
+			<!-- 	 <action name="SetUserValue" key="DayNightChange" value="0" />	 변수 0으로 초기하 하여 위쪽 단계 "낮밤변환신호대기" 에서 대기 상태가 되도록 하기-->			 
+		</onEnter>
+
+			
+			<condition name="WaitTick" waitTick="3000" > 
+				<transition state="종료" />
+			</condition>
+		  
+		<onExit>
+		
+		</onExit>
+  </state>     
+ 
+
+	
+
+	<state name="종료">
+		<onEnter> 
+		</onEnter>		
+	</state>	
+	
+</ms2>

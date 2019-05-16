@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+
+	<state name="Wait">   
+		<condition name="퀘스트유저를감지하면" arg1="2001" arg2="91000980" arg3="1">
+			<transition state="준비"/>
+		</condition>
+    </state>
+
+    <state name="준비"> 
+		<onEnter>
+			<action name="SetOnetimeEffect" id="1" enable="1" path="BG/Common/ScreenMask/Eff_CameraMasking_FastFadeIn.xml"/>		
+			<action name="SetSceneSkip" arg1="Skip_1" arg2="nextState"/>
+			<action name="연출UI를설정한다" arg1="1"/>
+			<action name="유저를이동시킨다" arg1="52100109" arg2="2"/>	
+			<action name="VisibleMyPC" isVisible="0"/>	
+			<action name="몬스터를생성한다" arg1="101"/>	
+			<action name="몬스터를생성한다" arg1="102"/>	 
+			<action name="몬스터를생성한다" arg1="103"/>	
+			<action name="카메라경로를선택한다" arg1="4001" arg2="0"/>	
+		</onEnter>
+			<condition name="WaitTick" waitTick="2000"> 
+				<transition state="시작"/>
+			</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	 <state name="시작">
+		<onEnter>
+			<action name="SetOnetimeEffect" id="1" enable="0" path="BG/Common/ScreenMask/Eff_CameraMasking_FastFadeIn.xml"/>		
+			<action name="NPC를이동시킨다" arg1="102" arg2="MS2PatrolData_3001"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="5000">
+					<transition state="삼자대면"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면">
+		<onEnter>
+			<action name="카메라경로를선택한다" arg1="4005,4002" arg2="0"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="2000">
+					<transition state="삼자대면_02"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_02">
+		<onEnter>
+			<action name="연출UI를설정한다" arg1="3"/>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="5000"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="이렇게 와주어서 고마워요, 블리체 함장.\n자리를 비우게 만들어서 어쩌죠?" align="left" illustID="Eone_normal" duration="5000"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="5000">
+					<transition state="삼자대면_02_01"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_02_01">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="102" arg2="Talk_A" arg3="8500"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="아닙니다. 네이린에게 잔소리를 조금 듣긴 했지만…" align="right" illustID="Bliche_closeEye" duration="4500"/>	
+			<action name="AddCinematicTalk" npcID="11004616" msg="그보다, 문제 상황에 관해서 이야기해주시죠." align="right" illustID="Bliche_normal" duration="4000"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="8500">
+					<transition state="삼자대면_02_02"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_02_02">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="9000"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="그럼 바로 본론으로 들어가겠습니다." align="left" illustID="Eone_normal" duration="4000"/>	
+			<action name="AddCinematicTalk" npcID="11004614" msg="지금 게오르크는, 창립 이후 최악의 인력난에 시달리고 있어요." align="left" illustID="Eone_serious" duration="5000"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="9000">
+					<transition state="삼자대면_02_03"/>
+				</condition>	
+		<onExit> 
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_02_03">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="102" arg2="Talk_A" arg3="5200"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="?!" align="right" illustID="Bliche_normal" duration="2000"/>	
+			<action name="AddCinematicTalk" npcID="11004616" msg="그게 무슨…." align="right" illustID="Bliche_normal" duration="3200"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="5200">
+					<transition state="삼자대면_02_04"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_02_04">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="3200"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="시만? 설명 부탁해요." align="left" illustID="Eone_closeEye" duration="3200"/>	
+		</onEnter> 
+				<condition name="WaitTick" waitTick="3200"> 
+					<transition state="삼자대면_03"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="103" arg2="Talk_A" arg3="19000"/>
+			<action name="카메라경로를선택한다" arg1="4003" arg2="0"/>	
+			<action name="AddCinematicTalk" npcID="11004615" msg="네. 마를레네님." align="left" illustID="siman_normal" duration="4000"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="4000">
+					<transition state="삼자대면_03_00"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03_00">
+		<onEnter>
+			<action name="카메라경로를선택한다" arg1="4004" arg2="0"/>	
+			<action name="AddCinematicTalk" npcID="11004615" msg="게오르크-메이플 연합 동맹의 전략이 변화한 이후, \n적대 세력과의 접전이 끊이지 않았습니다." align="left" illustID="siman_normal" duration="5000"/>
+			<action name="AddCinematicTalk" npcID="11004615" msg="리치몬드의 검은군단과 타이렌 병사들. \n그리고 케르베스의 기습 공격." align="left" illustID="siman_normal" duration="5000"/>
+			<action name="AddCinematicTalk" npcID="11004615" msg="계속되는 전투로 부상당한 대원들이 늘어나고, \n다른 대원들도 점점 지쳐가고 있는 상황입니다.\n아주 불안정한 상태이죠." align="left" illustID="siman_normal" duration="5000"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="15000">
+					<transition state="삼자대면_03_01"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03_01">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="5000"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="그리고, 전투뿐만이 아닌 여러 가지 부가적인 일들이 매우 많아요.\n이대로라면…" align="left" illustID="Eone_serious" duration="5000"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="5000">
+					<transition state="삼자대면_03_02"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03_02">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="102" arg2="Talk_A" arg3="4500"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="…게오르크에 위기가 오는 건 시간문제겠군요." align="right" illustID="Bliche_closeEye" duration="4500"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="4500">
+					<transition state="삼자대면_03_03"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03_03">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="8500"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="그래요. \n그래서 고심 끝에…" align="left" illustID="Eone_normal" duration="4000"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="동맹인 메이플 연합에 도움을 요청하게 된 것입니다." align="left" illustID="Eone_closeEye" duration="4500"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="……." align="right" illustID="Bliche_closeEye" duration="2800"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="11300">
+					<transition state="삼자대면_03_04"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_03_04">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="102" arg2="Talk_A" arg3="4500"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="납득했습니다.\n동맹으로서 이런 도움 요청을 외면할 수는 없죠." align="right" illustID="Bliche_normal" duration="4500"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="4500">
+					<transition state="삼자대면_04"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_04">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="3200"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="그렇다면…!" align="left" illustID="Eone_normal" duration="3200"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="3200">
+					<transition state="삼자대면_04_01"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_04_01">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="102" arg2="Talk_A" arg3="4500"/>
+			<action name="AddCinematicTalk" npcID="11004616" msg="지금 바로 돌아가서, $MyPCName$대원을 이쪽으로 보내도록 하죠." align="right" illustID="Bliche_normal" duration="4500"/>
+			<action name="AddCinematicTalk" npcID="11004615" msg="!!!" align="left" illustID="siman_normal" duration="2000"/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="6500">
+					<transition state="삼자대면_04_02"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="삼자대면_04_02">
+		<onEnter>
+			<action name="SetNpcEmotionLoop" arg1="101" arg2="Talk_A" arg3="8000"/>
+			<action name="AddCinematicTalk" npcID="11004614" msg="!!! \n정말 고맙습니다. 블리체 함장." align="left" illustID="Eone_normal" duration="4000"/>
+			<action name="AddCinematicTalk" npcID="11004615" msg="감사드립니다." align="right" illustID="siman_normal" duration="4000"/>
+			<action name="SetSceneSkip" arg1="" arg2=""/>
+		</onEnter>
+				<condition name="WaitTick" waitTick="8000">
+					<transition state="삼자대면끝"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="Skip_1" >
+        <onEnter>
+			<action name="SetOnetimeEffect" id="2" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/> 
+        </onEnter>	
+				<condition name="WaitTick" waitTick="1000">
+					<transition state="정리"/>
+				</condition>		
+        <onExit />
+    </state>
+	
+	<state name="삼자대면끝">
+		<onEnter>
+			<action name="SetOnetimeEffect" id="2" enable="1" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/> 
+		</onEnter>
+				<condition name="WaitTick" waitTick="1000">
+					<transition state="정리"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="정리">
+		<onEnter>
+			<action name="몬스터소멸시킨다" arg1="101"/> 
+			<action name="몬스터소멸시킨다" arg1="102"/> 
+			<action name="몬스터소멸시킨다" arg1="103"/> 
+			<action name="VisibleMyPC" isVisible="1"/>	
+		</onEnter>
+				<condition name="WaitTick" waitTick="4000">
+					<transition state="정리_02"/>
+				</condition>	
+		<onExit>
+		</onExit>
+    </state>
+	
+	<state name="정리_02">
+		<onEnter>
+			<action name="SetOnetimeEffect" id="2" enable="0" path="BG/Common/ScreenMask/Eff_fadein_1sec.xml"/> 
+			<action name="카메라리셋" interpolationTime="0.0"/>
+			<action name="연출UI를설정한다" arg1="0"/>
+			<action name="연출UI를설정한다" arg1="2"/>
+			<action name="업적이벤트를발생시킨다" arg1="2001" arg2="" arg3="Georg"/>
+		</onEnter>
+    </state>
+
+</ms2>
+

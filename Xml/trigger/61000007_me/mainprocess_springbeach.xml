@@ -101,6 +101,18 @@
         <onExit />
     </state>
 	
+		<state feature="JPTriggerVoice" name="시작멘트3" posX="406" posY="48">
+        <onEnter>
+		<action name="PlaySystemSoundInBox" arg2="ME_Mainprocess_Springbeach_04"/>				
+            <action name="타이머를설정한다" arg1="15" arg2="7" />
+            <action name="이벤트UI를설정한다" arg1="1" arg2="$61000007_ME__MAINPROCESS_SPRINGBEACH__4$" arg3="7000" />
+        </onEnter>
+        <condition name="시간이경과했으면" arg1="15">
+            <transition state="라운드1" />
+        </condition>
+        <onExit />
+    </state>
+	
 	<state name="시작멘트3" posX="406" posY="48">
         <onEnter>
 		<action name="PlaySystemSoundInBox" arg2="ME_Mainprocess_Springbeach_04"/>				

@@ -15,7 +15,7 @@
 				<decal />
 			</slot>
 		</slots>
-		<limit jobLimit="" recommendJobs="0" levelLimit="1" levelLimitMax="0" genderLimit="2" transferType="2" shopSell="0" enableBreak="0" enableRegisterMeratMarket="0" exceptEnchant="0" />
+		<limit jobLimit="" recommendJobs="40" levelLimit="1" levelLimitMax="0" genderLimit="2" transferType="2" shopSell="0" enableBreak="0" enableRegisterMeratMarket="0" exceptEnchant="0" />
 		<skill skillID="0" skillLevel="1" />
 		<objectWeaponSkill skillID="0" skillLevel="1" />
 		<title maxCount="0" />

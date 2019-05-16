@@ -41,7 +41,7 @@
 			<CP xrotation="0" yrotation="0" zrotation="0" scale="0" attach="0" />
 		</customize>
 		<function name="" parameter="" onlyShadowContinent="0" />
-		<AdditionalEffect id="" level="" />
+		<AdditionalEffect id="90051430,90051431,90051433" level="1,1,1" />
 		<tool itemPreset="15600197" itemPresetPath="1/56/" />
 		<option title="15660227" static="15660227" random="15660227" constant="15660227" staticMakeType="2" randomMakeType="1" constantMakeType="2" optionRandom="0" optionLevelFactor="60" optionID="156010101" />
 		<maid maidID="0" />

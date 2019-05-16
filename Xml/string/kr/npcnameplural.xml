@@ -1463,8 +1463,8 @@
 	<key id="11001510" name="정글 남자 주민2:s" />
 	<key id="11001511" name="정글 남자 주민3:s" />
 	<key id="11001512" name="정글 남자 주민4:s" />
-	<key id="11001513" name="폴리:s" />
-	<key id="11001514" name="롤리:s" />
+	<key id="11001513" name="폴리:s" feature="SpecialHair" />
+	<key id="11001514" name="롤리:s" feature="SpecialHair" />
 	<key id="11001515" name="아시란테:s" />
 	<key id="11001516" name="테릴시아:s" />
 	<key id="11001517" name="럭키스핀:s" />
@@ -3536,6 +3536,9 @@
 	<key id="11004568" name="미카:s" feature="Colosseum01" />
 	<key id="11004569" name="MC 나기:s" feature="Colosseum01" />
 	<key id="11004570" name="MC 나기:s" feature="Colosseum01" />
+	<key id="11004625" name="로니:s" feature="Season1" />
+	<key id="11004637" name="키키:s" feature="Season1" />
+	<key id="11004638" name="오픈 기념 럭키스핀:s" feature="Event" locale="JP" />
 	<key id="11400001" name="버섯 보트:s" feature="SurvivalContents01" />
 	<key id="11400002" name="버섯 열기구:s" feature="SurvivalContents01" />
 	<key id="11200000" name="그레이:s" feature="GuildHouse01" />
@@ -6445,30 +6448,30 @@
 	<key id="27000002" name="할로윈의 전령:s" />
 	<key id="27000003" name="의문의 킹슬라임:s" />
 	<key id="27000004" name="수수께끼 버섯:s" />
-	<key id="27000005" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000006" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000007" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000008" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000009" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000010" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000011" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000012" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000013" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000014" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000015" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000016" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000017" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000018" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000019" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000020" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000021" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000022" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000023" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000024" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000025" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000026" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000027" name="깜짝 보물상자:s" locale="CN" />
-	<key id="27000028" name="깜짝 보물상자:s" locale="CN" />
+	<key id="27000005" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000006" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000007" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000008" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000009" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000010" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000011" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000012" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000013" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000014" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000015" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000016" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000017" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000018" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000019" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000020" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000021" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000022" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000023" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000024" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000025" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000026" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000027" name="깜짝 보물상자:s" feature="Event" />
+	<key id="27000028" name="깜짝 보물상자:s" feature="Event" />
 	<key id="27000029" name="의문의 그리피나:s" />
 	<key id="27000030" name="의문의 토토와 구구스:s" />
 	<key id="27000031" name="의문의 토토:s" />

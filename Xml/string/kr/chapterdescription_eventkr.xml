@@ -159,6 +159,8 @@
 	<chapter id="8157" name="GM을 찾아라!" isTutorial="" regionID="" feature="Event" />
 	<chapter id="8158" name="만우절을 즐겨라!" isTutorial="" regionID="" feature="Event" locale="KR" />
 	<chapter id="8159" name="나는 나와 연애한다" isTutorial="" regionID="" feature="Event" locale="KR" />
+	<chapter id="8160" name="바람개비 만들기" isTutorial="" regionID="" feature="Event" locale="KR" />
+	<chapter id="8161" name="바람개비 모으기" isTutorial="" regionID="" feature="Event" locale="KR" />
 	<chapter id="8989" name="슈반다의 크리스마스 갤러리" isTutorial="" regionID="" />
 	<chapter id="8990" name="할로윈 스탬프" isTutorial="" regionID="" />
 	<chapter id="8991" name="달토끼 스탬프" isTutorial="" regionID="" />

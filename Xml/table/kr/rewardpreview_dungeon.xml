@@ -6389,7 +6389,6 @@
 	<preview id="26001001">
 		<item itemID="40100041" grade="1" feature="GuildSystem01" />
 		<item itemID="30000861" grade="4" feature="GuildSystem01" />
-		<item itemID="40100029" grade="4" feature="Peachy01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="40300003" grade="1" feature="ItemSocketSystem" />
@@ -6410,7 +6409,6 @@
 	<preview id="26002001">
 		<item itemID="40100041" grade="1" feature="GuildSystem01" />
 		<item itemID="30000861" grade="4" feature="GuildSystem01" />
-		<item itemID="40100029" grade="4" feature="Peachy01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="40300003" grade="1" feature="ItemSocketSystem" />
@@ -6431,7 +6429,6 @@
 	<preview id="26003001">
 		<item itemID="40100041" grade="1" feature="GuildSystem01" />
 		<item itemID="30000861" grade="4" feature="GuildSystem01" />
-		<item itemID="40100029" grade="4" feature="Peachy01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="40300003" grade="1" feature="ItemSocketSystem" />
@@ -6452,7 +6449,6 @@
 	<preview id="26004001">
 		<item itemID="40100041" grade="1" feature="GuildSystem01" />
 		<item itemID="30000861" grade="4" feature="GuildSystem01" />
-		<item itemID="40100029" grade="4" feature="Peachy01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="40300003" grade="1" feature="ItemSocketSystem" />
@@ -6473,7 +6469,6 @@
 	<preview id="26005001">
 		<item itemID="40100041" grade="1" feature="GuildSystem01" />
 		<item itemID="30000861" grade="4" feature="GuildSystem01" />
-		<item itemID="40100029" grade="4" feature="Peachy01" />
 		<item itemID="33000280" grade="4" feature="MagicScroll01" />
 		<item itemID="33000279" grade="4" feature="MagicScroll01" />
 		<item itemID="40300003" grade="1" feature="ItemSocketSystem" />

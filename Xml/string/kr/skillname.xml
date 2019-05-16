@@ -565,6 +565,8 @@
 	<key id="90000916" name="네이린의 특제 캔디" />
 	<key id="90000940" name="핑크 페인트" feature="Event" />
 	<key id="90000942" name="초록 페인트" feature="Event" />
+	<key id="90001148" name="달콤한 더키 떡" feature="Event" locale="JP" />
+	<key id="90001149" name="쌉싸름 더키 떡" feature="Event" locale="JP" />
 	<key id="90200001" name="화나" />
 	<key id="90200002" name="기합" />
 	<key id="90200003" name="삐죽" />
@@ -692,7 +694,11 @@
 	<key id="90200133" name="변신! 히어로 등장" />
 	<key id="90200134" name="변신! 이번엔 내 차례" />
 	<key id="90200135" name="변신! 이몸등장" />
+	<key id="90200136" name="살랑살랑 마리아치 댄스" />
 	<key id="90200137" name="벚꽃 나무 아래서" />
+	<key id="90200138" name="손을 잡고 빙글빙글" />
+	<key id="90200139" name="마주 보고 빙글빙글" />
+	<key id="90200140" name="우주공간" />
 	<key id="90210001" name="박수치기" locale="CN" />
 	<key id="90210002" name="야광봉 흔들기" locale="CN" />
 	<key id="90220001" name="포옹" />
@@ -716,6 +722,9 @@
 	<key id="90220019" name="눈물 젖은 사탕" />
 	<key id="90220020" name="캔디 러브" />
 	<key id="90220021" name="서프라이즈 에그" />
+	<key id="90220022" name="커플 소풍" />
+	<key id="90220023" name="빙글빙글 손뼉춤" />
+	<key id="90220024" name="유니콘 회전목마" />
 	<key id="90300001" name="타격 시 20% 확률로 화상 유발" />
 	<key id="90300011" name="타격 시 20% 확률로 INT 증가" />
 	<key id="90400001" name="타격 시 10% 확률로 빙결 유발" />

@@ -111,10 +111,10 @@
 	<key id="241" />
 	<key id="242" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;전직&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n60레벨 달성 후, [전직하기] 버튼을 눌러 에픽 퀘스트를 수행하면 각 직업에 맞는 전직을 진행할 수 있습니다." feature="JobChange_01" />
 	<key id="243" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;라펜샤드&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n전직 에픽 퀘스트 완료 후, 프론티어 재단 회의실에서 라네모네와 대화하세요.\n‘새로운 힘, 라펜샤드의 활용법’ 퀘스트를 완료하면 라펜샤드 시스템을 이용할 수 있습니다.&#x0A;" feature="Lapenshard01" />
-	<key id="244" feature="LapentaDungeon" />
-	<key id="245" feature="LapentaDungeon" />
-	<key id="246" feature="LapentaDungeon" />
-	<key id="247" feature="LapentaDungeon" />
+	<key id="244" feature="LapentaDungeon" locale="CN" />
+	<key id="245" feature="LapentaDungeon" locale="CN" />
+	<key id="246" feature="LapentaDungeon" locale="CN" />
+	<key id="247" feature="LapentaDungeon" locale="CN" />
 	<key id="248" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;전직&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n60레벨 달성 후, [전직하기] 버튼을 눌러 에픽 퀘스트를 수행하면 각 직업에 맞는 전직을 진행할 수 있습니다." feature="JobChange_01" />
 	<key id="249" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;라펜샤드&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n전직 에픽 퀘스트 완료 후, 프론티어 재단 회의실에서 라네모네와 대화하세요.\n‘새로운 힘, 라펜샤드의 활용법’ 퀘스트를 완료하면 라펜샤드 시스템을 이용할 수 있습니다.&#x0A;" feature="Lapenshard01" />
 	<key id="250" feature="LapentaDungeon" />
@@ -145,6 +145,10 @@
 	<key id="279" feature="Kritias_Inferno01" />
 	<key id="280" feature="Kritias_Inferno01" />
 	<key id="281" feature="Colosseum01" />
+	<key id="285" />
+	<key id="286" />
+	<key id="287" />
+	<key id="288" />
 	<key id="297" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;일일 퀘스트&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n퀸즈 타운 및 루델리 시티에서 일일 퀘스트를 완료하면 메소와 함께 루를 획득할 수 있습니다." />
 	<key id="298" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;푸른 별&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n푸른 별을 모아 별지기 상점을 방문해보세요. 다양한 아이템을 구입할 수 있습니다." feature="Season3" />
 	<key id="299" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;붉은 별&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n붉은 별을 모아 별지기 상점을 방문해보세요. 다양한 아이템을 구입할 수 있습니다." feature="Season3" />

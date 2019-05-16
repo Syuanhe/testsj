@@ -8,7 +8,7 @@
 		</grade>
 		<grade value="2">
 			<condition type="pet_evolution_by_rank" code="2" value="3" target="" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 		<grade value="3">
 			<condition type="pet_evolution_by_rank" code="2" value="5" target="" />

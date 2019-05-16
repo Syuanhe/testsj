@@ -4,7 +4,7 @@
 	<achieves id="21100046" account="1" icon="hero_levelUp.png" noticePercent="1" locking="" categoryTag="combat,growth" feature="Striker">
 		<grade value="1">
 			<condition type="level_up" code="100" value="1" target="50" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

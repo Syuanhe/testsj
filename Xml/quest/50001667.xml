@@ -14,8 +14,8 @@
 				<essentialItem code="20000025" rank="1" count="5" />
 				<essentialItem code="20000031" rank="1" count="5" />
 				<globalEssentialItem code="20301135" rank="1" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000026" rank="3" count="1" />
 				<globalEssentialJobItem code="13100249" rank="3" count="2" />
 				<globalEssentialJobItem code="13300243" rank="3" count="1" />

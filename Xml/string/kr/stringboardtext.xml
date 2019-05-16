@@ -126,6 +126,15 @@
 	<key id="124" name="세인트 패트릭 데이 기념 이벤트! 이벤트 기간 동안 캐시마트 아르바이트 던전 클리어 시 계정 당 1회에 한해 매력만점 녹색모자를 획득할 수 있어요!  (UTC) 3/16 00:00 ~ 3/17 23:59" locale="NA" />
 	<key id="125" name="계정 당 일일 최대 3회까지 펫 포획 시마다 마정석 1개 획득!  거기에 펫 합성 메소 비용 50% 할인까지!" locale="CN" />
 	<key id="126" name="4월 1일! 만우절의 OX 퀴즈는 어떻게 다를까요? 참여해서 확인해 보시고 케이 코인도 2배로 받아가세요." locale="NA" />
-	<key id="127" name="스카이 포트리스 보상 2배 이벤트 진행 중!" locale="NA" />
+	<key id="127" name="포트리스 럼블 보상 2배 이벤트 진행 중!" locale="NA" />
 	<key id="128" name="카오스 레이드 던전 보상 2배 이벤트 진행 중!" locale="NA" />
+	<key id="129" name="계정 당 일일 최대 5회까지 펫 포획 시마다 마정석 1개 획득! " locale="NA" />
+	<key id="130" name="Buy a Musical Instrument Day! (UTC 기준) 5/22 00:00 ~ 5/23 23:59 에는 메럿 마켓에서 악기 30% 깜짝 할인 판매! " feature="Event" locale="NA" />
+	<key id="131" name="핫타임 이벤트! 이번 주말엔 모든 뷰티 30% 할인!" feature="Event" locale="CN" />
+	<key id="132" name="핫타임 이벤트! 이번 주말엔 낚시, 연주 경험치가 2배!" feature="Event" locale="CN" />
+	<key id="133" name="핫타임 이벤트! 이번 주말엔 일일 임무 경험치가 2배! (일일 현장 임무는 제외)" feature="Event" locale="CN" />
+	<key id="134" name="핫타임 이벤트! 이번 주말엔 젬스톤 업그레이드 재료 50% 할인!" feature="Event" locale="CN" />
+	<key id="135" name="펫 합성 메소 비용 50% 할인 이벤트 진행 중!" feature="Event" locale="NA" />
+	<key id="136" name="아이 오브 라펜타 신규 에픽 퀘스트 [수색작전, 개시!], [가슴 아픈 조우], [어색한 2인조]를 각각 완료 할 때 마다 특별한 건설 아이템을 획득할 수 있어요!" feature="Event" locale="NA" />
+	<key id="137" name="06월 09일부터 23일까지 일요일마다 접속하시면 보상으로 [$item:30001381$ 5개]를 보내 드립니다." feature="Event" locale="JP" />
 </ms2>

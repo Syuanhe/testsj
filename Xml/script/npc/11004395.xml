@@ -6,7 +6,6 @@
 	</select>
 	<script randomPick="1" id="10" feature="Kritias_Epic01" locale="">
 		<content text="$script:0108212907012643$" />
-		<content text="$script:0108212907012644$" />
 	</script>
 	<script randomPick="1" id="20" feature="Kritias_2018_12" locale="">
 		<content text="$script:0108212907012645$" />
@@ -26,5 +25,16 @@
 	</script>
 	<script id="23" feature="Kritias_2018_12" locale="">
 		<content text="$script:0108212907012652$" />
+	</script>
+	<script randomPick="1" id="30" feature="Develop" locale="">
+		<content text="$script:0429131407014658$" />
+		<content text="$script:0429131407014659$" />
+		<content text="$script:0429131407014660$">
+			<distractor text="$script:0429131407014661$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="Develop" locale="">
+		<content text="$script:0429131407014662$" />
+		<content text="$script:0429131407014663$" />
 	</script>
 </ms2>

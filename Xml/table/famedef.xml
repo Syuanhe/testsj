@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<fame alliance="DarkWind" officerNpcKind="100" symbol="DarkWind" isExped="0" feature="" />
+	<fame alliance="MapleUnion" officerNpcKind="101" symbol="MapleUnion" isExped="0" feature="" />
+	<fame alliance="LumiKnight" officerNpcKind="102" symbol="LumiKnight" isExped="0" feature="" />
+	<fame alliance="TriaRoyalGuard" officerNpcKind="103" symbol="TriaRoyalGuard" isExped="0" feature="" />
+	<fame alliance="GreenHood" officerNpcKind="104" symbol="GreenHood" isExped="0" feature="" />
+	<fame alliance="MapleUnion_KritiasExped" officerNpcKind="105" symbol="MapleUnion" isExped="1" feature="Kritias_2018_12" />
+	<fame alliance="LumiKnight_KritiasExped" officerNpcKind="106" symbol="LumiKnight" isExped="1" feature="Kritias_2018_12" />
+	<fame alliance="GreenHood_KritiasExped" officerNpcKind="107" symbol="GreenHood" isExped="1" feature="Kritias_2018_12" />
+</ms2>

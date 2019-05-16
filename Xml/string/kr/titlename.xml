@@ -748,12 +748,12 @@
 	<key id="10000722" name="으쌰!으쌰!" feature="PetEvolution01" />
 	<key id="10000723" name="힘 내!" feature="PetEvolution01" />
 	<key id="10000724" name="엘리트" feature="PetEvolution01" />
-	<key id="10000725" name="갈아타는 중" feature="PetEvolution01" />
-	<key id="10000726" name="전설을 만드는" feature="PetEvolution01" />
+	<key id="10000725" name="갈아타는 중" feature="Pet_70Lv" />
+	<key id="10000726" name="전설을 만드는" feature="Pet_70Lv" />
 	<key id="10000727" name="이걸 다 하는" feature="PetEvolution01" />
 	<key id="10000728" name="진화하는" feature="PetEvolution01" />
 	<key id="10000729" name="노력파" feature="PetEvolution01" />
-	<key id="10000730" name="전설 수집가" feature="PetEvolution01" />
+	<key id="10000730" name="전설 수집가" feature="Pet_70Lv" />
 	<key id="10000731" name="벚꽃의 노래" locale="KR" />
 	<key id="10000732" name="레알" feature="Event" locale="KR" />
 	<key id="10000733" name="항상 이기는" feature="Event" />
@@ -771,4 +771,9 @@
 	<key id="10000745" name="보라해" feature="Event" />
 	<key id="10000746" name="미션! 셋, 둘, 하나 마스터" feature="Event" />
 	<key id="10000747" name="화려함의 극치" locale="CN" />
+	<key id="10000748" name="2019 스타 건축가" locale="JP" />
+	<key id="10000749" name="2019 탑 디자이너" locale="JP" />
+	<key id="10000750" name="벚꽃나무 명당" feature="Event" locale="CN" />
+	<key id="10000751" name="스타트 대시" feature="Event" locale="JP" />
+	<key id="10000755" name="메이플 지킴이" feature="Event" locale="JP" />
 </ms2>

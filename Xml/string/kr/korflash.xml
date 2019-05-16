@@ -516,7 +516,8 @@
 	<key id="$s_gamemenu_btn_lapenshard" value="라펜샤드" feature="Lapenshard01" />
 	<key id="$s_gamemenu_btn_MeratCharge" value="메럿 충전샵" />
 	<key id="$s_gamemenu_btn_pssbshop" value="스타일 코인샵" />
-	<key id="$s_gamemenu_btn_collectitemgroupevent" value="마법 더하기" />
+	<key id="$s_gamemenu_btn_pssbshop" value="아바타 코인샵" locale="JP" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="메타 배지 더하기" />
 	<key id="$s_gamemenu_btn_bingoevent" value="빙고" />
 	<key id="$s_gamemenu_btn_demolish" value="실내 비우기" />
 	<key id="$s_gamemenu_btn_construct" value="건설 시작하기" />
@@ -888,6 +889,7 @@
 	<key id="$s_tooltip_myinfo_gem_effect" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;이펙트 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 캐릭터 주변에 이펙트가 나타납니다." feature="GemEffect" />
 	<key id="$s_tooltip_myinfo_adventure_level" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;모험레벨&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 계정의 모험레벨입니다." feature="AdventureLevel" />
 	<key id="$s_tooltip_myinfo_gem_petSkin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;펫 스킨 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n소환되어 있는 펫의 외형을 배지에 설정된 외형으로 변신시킵니다.\n펫 외형과 펫이 공격하는 모습이 변경되며 펫의 능력치는 바뀌지 않습니다." feature="GemPetSkin" />
+	<key id="$s_tooltip_myinfo_gem_meta" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;메타 배지&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메타 배지에 부여된 능력치를 내 캐릭터에 적용할 수 있습니다." feature="GemMeta" />
 	<key id="$s_tooltip_minimap_channel" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;채널 이동&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n같은 서버 안에서 채널을 이동할 수 있습니다." />
 	<key id="$s_tooltip_minimap_worldmap" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;월드맵 [M]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n월드의 모습을 확인할 수 있습니다.\n지금 있는 곳의 정보와 몬스터가 나오는 곳의 정보를 확인해 보세요." />
 	<key id="$s_tooltip_minimap_setting" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;미니맵 설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n미니맵에 표시할 정보를 설정할 수 있습니다." />
@@ -1747,6 +1749,8 @@
 	<key id="$s_guild_main_tab_storage" value="길드 창고" />
 	<key id="$s_guild_main_tab_raid" value="길드 레이드" />
 	<key id="$s_guild_main_tab_accept_member_with_count" value="가입 신청 관리 ({0})" />
+	<key id="$s_guild_ui_vsGame_info_desc1" value="댄스댄스 이벤트는 매주 토요일 18시 55분부터 20시 00분까지 신청이 가능합니다." feature="GuildMinigame01" />
+	<key id="$s_guild_ui_vsGame_info_desc1" value="댄스댄스 이벤트는 서버 별로 시작 시간이 다르니 서버와 시작 시간을 참고해주시기 바랍니다.\nNorth America West: PDT 7PM (+7 UTC)\nNorth America East: EDT 7PM (+4 UTC)\nEurope: CEST 7PM (-2 UTC)\nOceania: AEDT 7PM (-11 UTC)\nSouth America: BRT 7 PM (+3 UTC)" feature="GuildMinigame01" locale="NA" />
 	<key id="$s_mavier_title" value="메이뷰" />
 	<key id="$s_webbrowserpopup_title2" value="메이플스토리2" />
 	<key id="$s_regist_arena_tooltip" value="전투장 입장을 신청합니다." />
@@ -2108,6 +2112,7 @@
 	<key id="$s_meratmarketreg_tooltip_check_ad" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;랜덤 광고 신청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n랜덤 광고는 광고를 신청한 상품 목록 중 무작위로 선택해서\n메럿마켓의 디자이너스샵 추천상품 탭의 광고 란에 보여줍니다." />
 	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록 수수료&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n등록된 개수에 따라 수수료가 달라집니다." />
 	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록 수수료&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n등록 시 지불하는 수수료입니다. 등록된 개수에 따라 수수료가 달라집니다. 이용 약관을 위반해서 물품이 삭제된 경우 등록 수수료는 환불되지 않습니다." locale="NA" />
+	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록 수수료&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n등록 시 지불하는 수수료입니다. 등록된 개수에 따라 수수료가 달라집니다. 이용 약관을 위반해서 물품이 삭제된 경우 등록 수수료는 환불되지 않습니다." locale="JP" />
 	<key id="$s_meratmarketreg_tooltip_btn_period" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;판매 기간&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n등록 기간 동안 디자인 상품을 판매합니다.\n등록 기간이 지나면 자동으로 판매 중지 상태로 변경됩니다." />
 	<key id="$s_meratmarketreg_tooltip_btn_show_enable_designs" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;등록 가능한 디자인만 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이미 등록한 디자인을 제외하고,\n등록 가능한 디자인들만 보여줍니다." />
 	<key id="$s_meratmarketreg_tooltip_btn_resale" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;재판매&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n판매 중지 상태인 디자인 상품을 다시 판매 상태로 변경합니다.\n판매 중지 상태인 상품은 디자이너스샵에 목록에 보이지 않습니다.\n재판매를 눌러 다시 등록하면 판매 개수와 등록 날짜가 그대로 유지되므로\n신상품 순으로 정렬해도 최근 목록에 나오지 않고 기존 위치에 표시됩니다." />
@@ -2154,6 +2159,10 @@
 	<key id="$s_cashshop_text_bill_notice" value="구입한 아이템은 우편으로 지급됩니다." />
 	<key id="$s_cashshop_text_basket_notice" value="| 장바구니는 저장되지 않습니다." />
 	<key id="$s_cash_soldout" value="재고 없음" />
+	<key id="$s_cashshop_nxa_credit_title" value="NX Credit" locale="NA" />
+	<key id="$s_cashshop_nxa_prepaid_title" value="NX Prepaid" locale="NA" />
+	<key id="$s_cashshop_jp_cash_name" value="ポイント" locale="JP" />
+	<key id="$s_cashshop_jp_detail_button" value="資金決済法" locale="JP" />
 	<key id="$s_msgbox_apartment_subtext1" value="동" />
 	<key id="$s_msgbox_apartment_subtext2" value="호" />
 	<key id="$s_pcbang_effect" value="PC방 접속 상시 혜택" />
@@ -2397,10 +2406,11 @@
 	<key id="$s_petsystem_evolution_selected" value="진화 시킬 펫을 선택하세요." feature="PetEvolution01" />
 	<key id="$s_petsystem_evolution_cost" value="진화 비용:" feature="PetEvolution01" />
 	<key id="$s_petsystem_evolution_button" value="진화" feature="PetEvolution01" />
-	<key id="$s_item_enchant_transform_title" value="인챈트 주문서로 교환 가능한 장비\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;* 장착 중인 장비는 교환 불가능 합니다.&lt;/FONT&gt;" feature="EnchantTransform01" />
+	<key id="$s_item_enchant_transform_title" value="인챈트 주문서로 교환 가능한 장비" feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_msg" value="인챈트 된 장비를 인챈트 주문서로 변환합니다." feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_selected" value="인챈트 주문서로 변환할 장비를 선택하세요." feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_desc" value="&lt;FONT color=&apos;#C0C0C0&apos;&gt;인챈트 주문서로 변경할 경우 장비가 소멸됩니다.&lt;/FONT&gt;" feature="EnchantTransform01" />
+	<key id="$s_item_enchant_transform_notice" value="* 장착 중인 장비는 교환 불가능 합니다.&lt;/FONT&gt;" feature="EnchantTransform01" />
 	<key id="$s_petsetting_renderer_empty_slot" value="소중한 친구에게 컴패니언 캔디를 선물해 보세요.\n몸과 마음이 튼튼해진 작은 친구는 특별한 능력을 발휘합니다." />
 	<key id="$s_petextension_title" value="펫 먹이 주기" />
 	<key id="$s_petextension_ok" value="먹이 주기" />
@@ -2754,6 +2764,9 @@
 	<key id="$s_itemsocket_scroll_btn_action" value="사용하기" feature="ItemSocketSystem" />
 	<key id="$s_selectItemBox_title" value="아이템 받기" />
 	<key id="$s_selectItemBox_select_button" value="선택완료" />
+	<key id="$s_selectItemBox_next_button" value="다음" />
+	<key id="$s_ItemBox_MultiOpen_title" value="상자 여러 개 열기" />
+	<key id="$s_ItemBox_MultiOpen_button" value="열기" />
 	<key id="$s_pvp_ranking_detail" value="상세" />
 	<key id="$s_item_repacking_scroll_title" value="트레이더스 리본" feature="ItemRePacking" />
 	<key id="$s_item_repacking_scroll_ready" value="포장할 아이템을 올려 주세요." feature="ItemRePacking" />
@@ -2782,8 +2795,10 @@
 	<key id="$s_bluemarble_complete_count" value="누적 완주 횟수 :" />
 	<key id="$s_bluemarble_warning" value="주사위를 던지면 마블 티켓 1장이 소모됩니다." />
 	<key id="$s_bluemarble_warning" value="주사위를 던지면 무지개 달걀 3개가 소모됩니다." locale="NA" />
+	<key id="$s_bluemarble_warning" value="주사위를 던지면 메이플 코인 1개가 소모됩니다." feature="Event" locale="JP" />
 	<key id="$s_bluemarble_coin_count" value="소지한 티켓 개수 :" />
 	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" locale="NA" />
+	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" feature="Event" locale="JP" />
 	<key id="$s_bluemarble_dice_result" value="{0}칸 이동!" />
 	<key id="$s_bluemarble_notify_action_fail" value="꽝!! 다음엔 잘될꺼야" />
 	<key id="$s_bluemarble_notify_action_trap" value="숫자 {0} 이상이 되면 석방해주지!" />
@@ -3369,10 +3384,10 @@
 	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 제작하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 꾸며진 모습을 블루프린트 아이템으로 제작할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 샵&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자이너스 샵의 판매 중인 블루프린트를 확인할 수 있습니다." feature="BlueprintMarket" />
 	<key id="$s_sidepopup_fieldwar_enter" value="입장하기" feature="" />
-	<key id="$s_collect_item_group_event_dialog_title" value="마법 더하기 " feature="Event" />
-	<key id="$s_collect_item_group_event_dialog_desc1" value="* 세 가지 아이템을 모두 얻은 후 [더하기 보상 받기]를 누르면 보상을 받을 수 있습니다." feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_title" value="메타 배지 더하기 " feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* 메타 코어를 모두 모은 후 [더하기 보상 받기]를 누르면 보상을 받을 수 있습니다." feature="Event" />
 	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템이 사라지는 것은 아닙니다." feature="Event" />
-	<key id="$s_collect_item_group_event_dialog_guide" value="출석체크 + 가위바위보 + 글자 모으기를 모두 완료하세요. 보상품을 모두 모으면 더하기 아이템을 추가로 받으실 수 있어요!" feature="Event" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="사냥, 낚시, 연주를 통해 메타 코어를 모아 더하기를 완료하세요. 더 좋은 능력치의 메타 배지를 가질 수 있습니다!" feature="Event" />
 	<key id="$s_collect_item_group_event_dialog_recieve_button" value="더하기 보상 받기" feature="Event" />
 	<key id="$s_chat_emoticon_title" value="이모티콘" feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_empty_message" value="즐겨찾기 이모티콘이 없습니다.\n이모티콘을 등록해보세요." feature="ChatEmoticon" />

@@ -6812,26 +6812,26 @@
 	<key id="0416153812003085" feature="Mastery05" locale="" npc="도날드" name="날씨가 좋군." />
 	<key id="0416153812003086" feature="Mastery05" locale="" npc="테오" name="최악의 상황이었어.&#x0A;폭풍이 몰아치는 바다 위에서 배에 구멍까지 났으니 말이야." />
 	<key id="0416153812003087" feature="Mastery05" locale="" npc="테오" name="자칫하면 바닷속 인어 아가씨들한테 장가갈지도 모르는 상황이었지.&#x0A;으하하! 날 놓친 인어 아가씨들에게 있어선 정말 아쉬운 순간이었겠지만 말이야." />
-	<key id="0416153812003088" feature="Mastery05" locale="" npc="테오" name='&lt;font color=&quot;#909090&quot;&gt;(인어 아가씨들도 보는 눈이 있을텐데…….)&lt;/font&gt;' />
-	<key id="0416153812003089" feature="Mastery05" locale="" npc="" name="그래서! 그래서!&#x0A;그 다음엔 어떻게 됐어요?" />
-	<key id="0416153812003090" feature="Mastery05" locale="" npc="" name="어떻게 되긴 어떻게 돼.&#x0A;가까스로 $map:02000424$에 배를 대는 바람에 살아남을 수 있었지!" />
-	<key id="0416153812003091" feature="Mastery05" locale="" npc="" name="우와…….&#x0A;하지만 배가 고장나서 돌아올 수 없는 상황이라고 하지 않았어요?" />
+	<key id="0416153812003088" feature="Mastery05" locale="" npc="브리" name='&lt;font color=&quot;#909090&quot;&gt;(인어 아가씨들도 보는 눈이 있을텐데…….)&lt;/font&gt;' />
+	<key id="0416153812003089" feature="Mastery05" locale="" npc="페이슨" name="그래서! 그래서!&#x0A;그 다음엔 어떻게 됐어요?" />
+	<key id="0416153812003090" feature="Mastery05" locale="" npc="테오" name="어떻게 되긴 어떻게 돼.&#x0A;가까스로 $map:02000424$에 배를 대는 바람에 살아남을 수 있었지!" />
+	<key id="0416153812003091" feature="Mastery05" locale="" npc="페이슨" name="우와…….&#x0A;하지만 배가 고장나서 돌아올 수 없는 상황이라고 하지 않았어요?" />
 	<key id="0416153812003092" feature="Mastery05" locale="" npc="PC" name="저기……." />
 	<key id="0416153812003093" feature="Mastery05" locale="" npc="테오" name="음?&#x0A;나한테 볼 일이 있어서 찾아온건가?" />
 	<key id="0416153812003094" feature="Mastery05" locale="" npc="PC" name="($npc:11000454[gender:0]$에게 $map:02000424$$pp2:로,으로$ 가는 방법을 알고 싶어서 찾아왔다고 말했다.)" />
 	<key id="0416153812003095" feature="Mastery05" locale="" npc="테오" name="$npcName:11003870[gender:0]$씨가 말한 사람이 바로 너였나 보군!&#x0A;소질 있는 광부라고 했던가?" />
 	<key id="0416153812003096" feature="Mastery05" locale="" npc="테오" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000062$ 남쪽 부둣가&lt;/font&gt;에 있는 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000981[gender:0]$&lt;/font&gt;$pp:를,을$ 찾아가게.&#x0A;내가 그 녀석에게 자네를 $map:02000424$까지 안내하라고 말해놨으니 말이야.' />
-	<key id="0416153812003097" feature="Mastery05" locale="" npc="" name="아저씨 아까 하던 이야기 마저 해주세요!" />
-	<key id="0416153812003098" feature="Mastery05" locale="" npc="" name="으하하! 그럴까?&#x0A;어디까지 이야기 했지?" />
-	<key id="0416153812003099" feature="Mastery05" locale="" npc="" name="$map:02000424$에 도착한 내용까지 말씀하셨어요!" />
-	<key id="0416153812003100" feature="Mastery05" locale="" npc="" name="거기서부터 이야기하면 되는 거였군!&#x0A;가까스로 $map:02000424$에 도착했지만 이미 배는 부서진 뒤였어." />
-	<key id="0416153812003101" feature="Mastery05" locale="" npc="" name="섬에 고립된 내가 할 수 있는 있는 것은 그저 기다리는 것 뿐이었지.&#x0A;하지만 내가 누구야! $map:02000062$의 최고 어부 $npc:11000454[gender:0]$님 아니겠어?" />
-	<key id="0416153812003102" feature="Mastery05" locale="" npc="테오" name='&lt;font color=&quot;#909090&quot;&gt;(최고 어부는 무슨? 가게에서 팔 물고기 구경한지가 언제적인지 기억도 안난다.)&lt;/font&gt;' />
-	<key id="0416153812003103" feature="Mastery05" locale="" npc="" name="오오!!!" />
-	<key id="0416153812003104" feature="Mastery05" locale="" npc="" name="가만히 있을 수 없었던 나는 $map:02000424$$pp:를,을$ 탐험하기로 했지.&#x0A;그리고 그곳에서 발견하고 만 거야! 수많은 광물을!" />
-	<key id="0416153812003105" feature="Mastery05" locale="" npc="" name="내 용기로 인해 진정한 $map:02000424$$pp:가,이$ 발견된 순간이었지!" />
-	<key id="0416153812003106" feature="Mastery05" locale="" npc="" name="역시 대단해요!" />
-	<key id="0416153812003107" feature="Mastery05" locale="" npc="" name="으하하!!!&#x0A;내가 좀 대단하긴 하지!" />
+	<key id="0416153812003097" feature="Mastery05" locale="" npc="페이슨" name="아저씨 아까 하던 이야기 마저 해주세요!" />
+	<key id="0416153812003098" feature="Mastery05" locale="" npc="테오" name="으하하! 그럴까?&#x0A;어디까지 이야기 했지?" />
+	<key id="0416153812003099" feature="Mastery05" locale="" npc="페이슨" name="$map:02000424$에 도착한 내용까지 말씀하셨어요!" />
+	<key id="0416153812003100" feature="Mastery05" locale="" npc="테오" name="거기서부터 이야기하면 되는 거였군!&#x0A;가까스로 $map:02000424$에 도착했지만 이미 배는 부서진 뒤였어." />
+	<key id="0416153812003101" feature="Mastery05" locale="" npc="테오" name="섬에 고립된 내가 할 수 있는 있는 것은 그저 기다리는 것 뿐이었지.&#x0A;하지만 내가 누구야! $map:02000062$의 최고 어부 $npc:11000454[gender:0]$님 아니겠어?" />
+	<key id="0416153812003102" feature="Mastery05" locale="" npc="브리" name='&lt;font color=&quot;#909090&quot;&gt;(최고 어부는 무슨? 가게에서 팔 물고기 구경한지가 언제적인지 기억도 안난다.)&lt;/font&gt;' />
+	<key id="0416153812003103" feature="Mastery05" locale="" npc="페이슨" name="오오!!!" />
+	<key id="0416153812003104" feature="Mastery05" locale="" npc="테오" name="가만히 있을 수 없었던 나는 $map:02000424$$pp:를,을$ 탐험하기로 했지.&#x0A;그리고 그곳에서 발견하고 만 거야! 수많은 광물을!" />
+	<key id="0416153812003105" feature="Mastery05" locale="" npc="테오" name="내 용기로 인해 진정한 $map:02000424$$pp:가,이$ 발견된 순간이었지!" />
+	<key id="0416153812003106" feature="Mastery05" locale="" npc="페이슨" name="역시 대단해요!" />
+	<key id="0416153812003107" feature="Mastery05" locale="" npc="테오" name="으하하!!!&#x0A;내가 좀 대단하긴 하지!" />
 	<key id="0416153812003108" feature="Mastery05" locale="" npc="PC" name="($npc:11000981[gender:0]$에게 $npc:11000454[gender:0]$의 소개를 받아 찾아왔다고 말했다.)" />
 	<key id="0416153812003109" feature="Mastery05" locale="" npc="크리스토퍼" name="아 네가 $npc:11000454[gender:0]$님이 말한 사람이구나.&#x0A;좋아. $map:02000424$$pp2:로,으로$ 가는 방법을 알려줄게." />
 	<key id="0416153812003110" feature="Mastery05" locale="" npc="크리스토퍼" name="$map:02000424$$pp2:로,으로$ 가기 위해서는 베르크 길드 소속의 배를 타야 해.&#x0A;배는 내가 탈 수 있도록 조치 해줄게." />

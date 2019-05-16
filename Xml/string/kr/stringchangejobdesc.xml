@@ -16,8 +16,8 @@
 	<key id="5011" name="&lt;font color=&apos;#FFD200&apos;&gt;속사 특화&lt;/FONT&gt;\n빠른 점사와 폭발적인 화력을 이용해 적을 공격합니다." feature="JobChange_01" />
 	<key id="5012" name="&lt;font color=&apos;#FFD200&apos;&gt;조준 특화&lt;/FONT&gt;\n긴 사거리와 관통 화살을 사용하여 강력한 한발로 공격합니다." feature="JobChange_01" />
 	<key id="6010" name="천재 공학자, 라펜샤드를 이용한 신무기를 개발하다!\n플라즈마 에너지와 각종 미사일을 사용해 막강한 화력을 뽐낼 수 있습니다." feature="JobChange_01" />
-	<key id="6011" name="&lt;font color=&apos;#FFD200&apos;&gt;플라즈마 특화&lt;/FONT&gt;\n고정된 자리에서 막강한 화력을 적에게 퍼부을 수 있습니다." feature="JobChange_01" />
-	<key id="6012" name="&lt;font color=&apos;#FFD200&apos;&gt;미사일 특화&lt;/FONT&gt;\n플라즈마 에너지를 이용해 기동력을 살린 공격을 펼칠 수 있습니다." feature="JobChange_01" />
+	<key id="6011" name="&lt;font color=&apos;#FFD200&apos;&gt;미사일 특화&lt;/FONT&gt;\n고정된 자리에서 막강한 화력을 적에게 퍼부을 수 있습니다." feature="JobChange_01" />
+	<key id="6012" name="&lt;font color=&apos;#FFD200&apos;&gt;플라즈마 특화&lt;/FONT&gt;\n플라즈마 에너지를 이용해 기동력을 살린 공격을 펼칠 수 있습니다." feature="JobChange_01" />
 	<key id="7010" name="복수심에 불타는 힘!\n폭발적인 연타와 강력한 맹독을 사용합니다." feature="JobChange_01" />
 	<key id="7011" name="&lt;font color=&apos;#FFD200&apos;&gt;전투/독 특화&lt;/FONT&gt;\n빠른 연타와 강력한 맹독으로 적을 공격합니다." feature="JobChange_01" />
 	<key id="7012" name="&lt;font color=&apos;#FFD200&apos;&gt;그림자 특화&lt;/FONT&gt;\n어떠한 상황에서도 적을 놓치지 않고 추격합니다." feature="JobChange_01" />

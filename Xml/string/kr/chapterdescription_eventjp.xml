@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<chapter id="" name="" isTutorial="" regionID="" />
+	<chapter id="83000" name="매일 매일 보상받기!" isTutorial="" regionID="" feature="Event" locale="JP" />
+	<chapter id="89700" name="시간과의 달리기" isTutorial="" regionID="" feature="Event" locale="JP" />
 </ms2>

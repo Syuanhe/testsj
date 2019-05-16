@@ -26,8 +26,8 @@
 				<essentialJobItem code="13200246" rank="3" count="1" />
 				<essentialJobItem code="14100214" rank="3" count="1" />
 				<essentialJobItem code="15000250" rank="3" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000027" rank="2" count="1" />
 				<globalEssentialJobItem code="13100251" rank="2" count="2" />
 				<globalEssentialJobItem code="13300245" rank="2" count="1" />
@@ -81,8 +81,8 @@
 				<essentialJobItem code="13200246" rank="3" count="1" />
 				<essentialJobItem code="14100214" rank="3" count="1" />
 				<essentialJobItem code="15000250" rank="3" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000027" rank="2" count="1" />
 				<globalEssentialJobItem code="13100251" rank="2" count="2" />
 				<globalEssentialJobItem code="13300245" rank="2" count="1" />
@@ -136,8 +136,8 @@
 				<essentialJobItem code="13200246" rank="3" count="1" />
 				<essentialJobItem code="14100214" rank="3" count="1" />
 				<essentialJobItem code="15000250" rank="3" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000027" rank="2" count="1" />
 				<globalEssentialJobItem code="13100251" rank="2" count="2" />
 				<globalEssentialJobItem code="13300245" rank="2" count="1" />
@@ -191,8 +191,8 @@
 				<essentialJobItem code="13200246" rank="3" count="1" />
 				<essentialJobItem code="14100214" rank="3" count="1" />
 				<essentialJobItem code="15000250" rank="3" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000027" rank="2" count="1" />
 				<globalEssentialJobItem code="13100251" rank="2" count="2" />
 				<globalEssentialJobItem code="13300245" rank="2" count="1" />
@@ -246,8 +246,8 @@
 				<essentialJobItem code="13200246" rank="3" count="1" />
 				<essentialJobItem code="14100214" rank="3" count="1" />
 				<essentialJobItem code="15000250" rank="3" count="1" />
-				<globalEssentialItem code="20000023" rank="1" count="4" />
-				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="13000027" rank="2" count="1" />
 				<globalEssentialJobItem code="13100251" rank="2" count="2" />
 				<globalEssentialJobItem code="13300245" rank="2" count="1" />

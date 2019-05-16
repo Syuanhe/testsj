@@ -23,6 +23,7 @@
 	<key id="16" name="2세 메린이 칭호 획득 시 표시" feature="Season1" locale="KR" />
 	<key id="17" name="TGP를 통해 게임을 실행시키면 표시" locale="CN" />
 	<key id="18" name="GM 전용 마크" locale="CN" />
+	<key id="18" name="GM 전용 마크" locale="JP" />
 	<key id="19" name="초월 200회 이상 시도 시 표시" feature="ItemMerge" />
 	<key id="20" name="초월 500회 이상 시도 시 표시" feature="ItemMerge" />
 	<key id="21" name="초월 1000회 이상 시도 시 표시" feature="ItemMerge" />
@@ -54,4 +55,6 @@
 	<key id="48" name="붉은 함박꽃 상자 사용 시 획득" locale="CN" />
 	<key id="49" name="노랑 함박꽃 상자 사용 시 획득" locale="CN" />
 	<key id="50" name="벚꽃의 노래 상자 사용 시 획득" locale="KR" />
+	<key id="51" name="2019 스타 건축가 칭호 획득 시 표시" locale="JP" />
+	<key id="52" name="2019 탑 디자이너 칭호 획득 시 표시" locale="JP" />
 </ms2>

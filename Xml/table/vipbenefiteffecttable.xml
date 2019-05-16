@@ -6,4 +6,6 @@
 	<benefit feature="" locale="CN" effectID="100000015" effectLevel="1" />
 	<benefit feature="" locale="NA" effectID="100000043" effectLevel="1" />
 	<benefit feature="" locale="NA" effectID="100000045" effectLevel="1" />
+	<benefit feature="" locale="JP" effectID="100000014" effectLevel="1" />
+	<benefit feature="" locale="JP" effectID="100000015" effectLevel="1" />
 </ms2>

@@ -211,7 +211,7 @@
 			<transition state="2_scene_05"/>
 		</condition>
     <onExit>
-		<action name="몬스터소멸시킨다" arg1="201,202,203,101,301,302,303,402,403"/>
+		<action name="몬스터소멸시킨다" arg1="201,202,203,101,301,302,303,402,403,506"/>
     </onExit>
   </state>  		
  	
@@ -389,7 +389,7 @@
 		<action name="SetOnetimeEffect" id="1966" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_01_00001966.xml"/> 
 		<action name="ShowCaption" scale="2.3" type="NameCaption" title="$63000041_CS__MAIN__56$" desc="$63000041_CS__MAIN__57$" align="centerLeft" offestRateX="-0.15" duration="4000"/>
 	</onEnter>
-		<condition name="WaitTick" waitTick="4000" > 
+		<condition name="WaitTick" waitTick="8000" > 
 			<transition state="3_scene_02"/>
 		</condition>
     <onExit>
@@ -398,12 +398,12 @@
   
   <state name="3_scene_02"> <!-- #3 scene -->
     <onEnter>	
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__24$" duration="6000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__24$" duration="8000" align="center" />
 		<action name="SetOnetimeEffect" id="1967" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_02_00001967.xml"/>		
-		<action name="SetPcEmotionLoop" arg1="Attack_Idle_A" arg2="8000"/>
-		<action name="SetNpcEmotionLoop" arg1="102" arg2="Attack_Idle_A" arg3="6000"/>		
+		<action name="SetPcEmotionLoop" arg1="Attack_Idle_A" arg2="10000"/>
+		<action name="SetNpcEmotionLoop" arg1="102" arg2="Attack_Idle_A" arg3="10000"/>		
 	</onEnter>
-		<condition name="WaitTick" waitTick="6000" > 
+		<condition name="WaitTick" waitTick="8000" > 
 			<transition state="3_scene_03"/>
 		</condition>
     <onExit>
@@ -417,13 +417,13 @@
 		<action name="이펙트를설정한다" arg1="7309" arg2="1" />	<!-- Eff_Object_Madria_Magic_Regen_01 -->	
 		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__25$" duration="3000" align="center" />
 		<action name="SetOnetimeEffect" id="1968" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_03_00001968.xml"/>	
-		<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_01_B"/>
 	</onEnter>
-		<condition name="WaitTick" waitTick="1000" >
+		<condition name="WaitTick" waitTick="3000" >
 			<transition state="3_scene_04"/>
+		<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_01_A"/>					
 		</condition>
     <onExit>
-		<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_01_A"/>		
+
     </onExit>
   </state>  
   
@@ -466,7 +466,8 @@
   
   
 	<state name="fadeout">
-		<onEnter>	
+		<onEnter>
+		<action name="이펙트를설정한다" arg1="7004" arg2="0" />		
 			<action name="몬스터소멸시킨다" arg1="701,702,703,704"/>
 			<action name="연출UI를설정한다" arg1="1"/> 
 			<action name="연출UI를설정한다" arg1="3"/> 
@@ -493,11 +494,11 @@
     <onEnter>
 		<action name="카메라경로를선택한다" arg1="8016,8021" arg2="0"/>
 <!-- 		<action name="카메라경로를선택한다" arg1="8024" arg2="0"/> -->
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__28$" duration="5000" align="center" />	
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__28$" duration="8000" align="center" />	
 		<action name="SetOnetimeEffect" id="1969" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_04_00001969.xml"/>			
-		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__29$" duration="3000" delayTick="0"/>		
+		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__29$" duration="8000" delayTick="0"/>		
 	</onEnter>
-		<condition name="WaitTick" waitTick="6000" > 
+		<condition name="WaitTick" waitTick="8000" > 
 			<transition state="3_scene_06_b"/>
 		</condition>
     <onExit>
@@ -509,21 +510,22 @@
 		<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_022_C"/>	
 		<action name="이펙트를설정한다" arg1="7003" arg2="1" />
 		<action name="이펙트를설정한다" arg1="7310" arg2="1" />	<!-- Eff_Object_Madria_Pc_Magic_On_01 -->			
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__30$" duration="3000" align="center" />
-		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__31$" duration="3000" delayTick="0"/>
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__30$" duration="5000" align="center" />
+		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__31$" duration="5000" delayTick="0"/>
 		<action name="SetOnetimeEffect" id="1970" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_05_00001970.xml"/>			
 	</onEnter>
-		<condition name="WaitTick" waitTick="2000" >
+		<condition name="WaitTick" waitTick="6000" >
 			<transition state="3_scene_06_c"/>
 		</condition>
     <onExit>
-		<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_01_B"/>		
+			<action name="이펙트를설정한다" arg1="7004" arg2="1" />			
+			<action name="SetNpcEmotionSequence" arg1="666" arg2="Attack_01_B"/>			
     </onExit>
   </state> 
   
   <state name="3_scene_06_c"> <!-- #3 scene -->
     <onEnter>
-		<action name="SetPcEmotionLoop" arg1="Push_A" arg2="90000"/>
+		<action name="SetPcEmotionLoop" arg1="Push_A" arg2="200000"/>
 		<action name="FaceEmotion" spawnPointID="0" emotionName="PC_Pain_86000"/> 			
 		<action name="이펙트를설정한다" arg1="7004" arg2="1" />	
 	</onEnter>
@@ -535,7 +537,8 @@
   </state>  
   
   <state name="3_scene_06_d"> <!-- #3 scene -->
-    <onEnter>	
+    <onEnter>
+			<action name="이펙트를설정한다" arg1="7004" arg2="0" />			
 	</onEnter>
 		<condition name="WaitTick" waitTick="1000" > 
 			<transition state="3_scene_06"/>
@@ -549,11 +552,11 @@
 		<action name="이펙트를설정한다" arg1="7003" arg2="0" />
 		<action name="이펙트를설정한다" arg1="7004" arg2="0" />	
 		<action name="이펙트를설정한다" arg1="7309" arg2="0" />
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__32$" duration="3000" align="center" />
-		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__33$" duration="3000" delayTick="0"/>
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__32$" duration="5000" align="center" />
+		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__33$" duration="5000" delayTick="0"/>
 		<action name="SetOnetimeEffect" id="1971" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_06_00001971.xml"/>		
 	</onEnter>
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="5000" > 
 			<transition state="3_scene_07"/>
 		</condition>
     <onExit>
@@ -563,7 +566,7 @@
   <state name="3_scene_07"> <!-- #3 scene -->
     <onEnter>
 	</onEnter>
-		<condition name="WaitTick" waitTick="4000" > 
+		<condition name="WaitTick" waitTick="1000" > 
 			<transition state="3_scene_08"/>
 		</condition>
     <onExit>
@@ -573,8 +576,8 @@
    <state name="3_scene_08"> <!-- #3 scene -->
     <onEnter>
 		<action name="카메라경로를선택한다" arg1="8017" arg2="0"/>
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__34$" duration="4000" align="center" />
-		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__35$" duration="4000" delayTick="0"/>
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__34$" duration="7500" align="center" />
+		<action name="AddBalloonTalk" spawnPointID="666" msg="$63000041_CS__MAIN__35$" duration="7500" delayTick="500"/>
 		<action name="SetOnetimeEffect" id="1972" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_07_00001972.xml"/>		
 	</onEnter>
 		<condition name="WaitTick" waitTick="8000" > 
@@ -611,9 +614,9 @@
 	<state name="3_scene_11"> <!-- #3 scene -->
     <onEnter>
 		<action name="카메라경로를선택한다" arg1="8025" arg2="0"/>
-		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__36$" duration="3000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__36$" duration="5000" align="center" />
 	</onEnter>
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="5000" > 
 			<transition state="3_scene_12"/>
 		</condition>
     <onExit>
@@ -622,11 +625,11 @@
   
   	<state name="3_scene_12"> <!-- #3 scene -->
     <onEnter>
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__37$" duration="6000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__37$" duration="8000" align="center" />
 		<action name="SetOnetimeEffect" id="1973" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_08_00001973.xml"/>			
 		<action name="NPC를이동시킨다" arg1="666" arg2="MS2PatrolData_6663" />  
 	</onEnter>
-		<condition name="WaitTick" waitTick="6000" > 
+		<condition name="WaitTick" waitTick="8000" > 
 			<transition state="3_scene_13"/>
 		</condition>
     <onExit>
@@ -635,9 +638,9 @@
   
   <state name="3_scene_13"> <!-- #3 scene -->
     <onEnter>
-		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__38$" duration="3000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__38$" duration="5000" align="center" />
 	</onEnter>
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="5000" > 
 			<transition state="3_scene_14"/>
 		</condition>
     <onExit>
@@ -659,9 +662,9 @@
    <state name="3_scene_15"> <!-- #3 scene -->
     <onEnter>
 		<action name="SetNpcEmotionSequence" arg1="888" arg2="Talk_A" />
-		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__40$" duration="3000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__40$" duration="8000" align="center" />
 	</onEnter>
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="8000" > 
 			<transition state="3_scene_16"/>
 		</condition>
     <onExit>
@@ -683,9 +686,9 @@
    <state name="3_scene_17"> <!-- #3 scene -->
     <onEnter>
 		<action name="카메라경로를선택한다" arg1="8020" arg2="0"/>
-		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__42$" duration="3000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001852" msg="$63000041_CS__MAIN__42$" duration="5000" align="center" />
 	</onEnter>
-		<condition name="WaitTick" waitTick="3000" > 
+		<condition name="WaitTick" waitTick="5000" > 
 			<transition state="3_scene_18"/>
 		</condition>
     <onExit>
@@ -695,10 +698,10 @@
   <state name="3_scene_18"> <!-- #3 scene -->
     <onEnter>
 		<action name="NPC를이동시킨다" arg1="666" arg2="MS2PatrolData_6664" />  
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__43$" duration="4000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__43$" duration="6000" align="center" />
 		<action name="SetOnetimeEffect" id="1976" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_11_00001976.xml"/>		
 	</onEnter>
-		<condition name="WaitTick" waitTick="4000" > 
+		<condition name="WaitTick" waitTick="6000" > 
 			<transition state="3_scene_19"/>
 		</condition>
     <onExit>
@@ -720,13 +723,13 @@
 
   <state name="3_scene_20"> <!-- #3 scene -->
     <onEnter>
-		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__44$" duration="4000" align="center" />
+		<action name="AddCinematicTalk" npcID="11001851" msg="$63000041_CS__MAIN__44$" duration="5000" align="center" />
 		<action name="SetOnetimeEffect" id="1977" enable="1" path="BG/Common/Sound/Eff_Madria_Tutorial_12_00001977.xml"/>		
 		<action name="NPC를이동시킨다" arg1="888" arg2="MS2PatrolData_8801" /> 
 		<action name="카메라경로를선택한다" arg1="8022" arg2="0"/>
 		<action name="이펙트를설정한다" arg1="7006" arg2="1" />
 	</onEnter>
-		<condition name="WaitTick" waitTick="5000" > 
+		<condition name="WaitTick" waitTick="6000" > 
 			<transition state="3_scene_21"/>
 		</condition>
     <onExit>
@@ -1074,7 +1077,7 @@
 
   <state name="skip_02">
     <onEnter>
-		<action name="몬스터소멸시킨다" arg1="101,102,201,202,203,101,301,302,303,401,402,403"/>	
+		<action name="몬스터소멸시킨다" arg1="101,102,201,202,203,101,301,302,303,401,402,403,,506"/>	
 		<action name="카메라경로를선택한다" arg1="8035" arg2="0"/>		
 		<action name="이펙트를설정한다" arg1="7309" arg2="1" />	<!-- Eff_Object_Madria_Magic_Regen_01 -->		
 	</onEnter>

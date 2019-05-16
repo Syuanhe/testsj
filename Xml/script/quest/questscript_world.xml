@@ -16879,7 +16879,7 @@
 	<quest id="60110055">
 		<script id="100" feature="Mastery05" locale="">
 			<content leftIllust="June_normal" speakerIllust="June_normal" speakerNpc="11003879" text="$script:0416153812003210$" />
-			<content myTalk="1" leftIllust="June_normal" speakerIllust="June_normal" speakerNpc="11003879" text="$script:0416153812003211$" />
+			<content myTalk="1" leftIllust="June_normal" speakerIllust="June_normal" text="$script:0416153812003211$" />
 			<content leftIllust="June_normal" speakerIllust="June_normal" speakerNpc="11003879" text="$script:0416153812003212$" />
 		</script>
 		<script id="200" feature="Mastery05" locale="">
@@ -16899,7 +16899,7 @@
 		<script id="300" feature="Mastery05" locale="">
 			<content myTalk="1" leftIllust="11000010" text="$script:0416153812003214$" />
 			<content leftIllust="11000010" speakerIllust="11000010" speakerNpc="11003878" text="$script:0416153812003215$" />
-			<content myTalk="1" leftIllust="11000010" speakerIllust="11000010" speakerNpc="11003878" text="$script:0416153812003216$" />
+			<content myTalk="1" leftIllust="11000010" speakerIllust="11000010" text="$script:0416153812003216$" />
 			<content leftIllust="11000010" speakerIllust="11000010" speakerNpc="11003878" text="$script:0416153812003217$" />
 			<content leftIllust="11000010" speakerIllust="11000010" speakerNpc="11003878" text="$script:0416153812003218$" />
 			<content leftIllust="11000010" speakerIllust="11000010" speakerNpc="11003878" text="$script:0416153812003219$" />
@@ -17233,6 +17233,372 @@
 		</script>
 		<script id="300" feature="Develop" locale="">
 			<content text="$script:0906110312003321$" />
+		</script>
+	</quest>
+	<quest id="40002797">
+		<script id="100" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0425174323003445$" />
+			<content speakerNpc="11004574" text="$script:0425174323003446$" />
+			<content speakerNpc="11004574" text="$script:0425174323003447$" />
+			<content speakerNpc="11004574" text="$script:0425174323003448$" />
+			<content speakerNpc="11004574" text="$script:0430132423003567$" />
+			<content speakerNpc="11004574" text="$script:0430132423003568$" />
+			<content speakerNpc="11004574" text="$script:0430132523003569$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003450$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003451$" />
+			<content speakerNpc="11004574" text="$script:0425174323003452$" />
+		</script>
+	</quest>
+	<quest id="40002798">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004620" text="$script:0425174323003456$" />
+			<content myTalk="1" text="$script:0425174323003457$" />
+			<content speakerNpc="11004620" text="$script:0425174323003458$" />
+			<content myTalk="1" text="$script:0425174323003459$" />
+			<content speakerNpc="11004620" text="$script:0425174323003460$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004620" text="$script:0425174323003461$" />
+		</script>
+		<script id="100" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0425174323003462$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004620" text="$script:0425174323003463$" />
+			<content speakerNpc="11004620" text="$script:0425174323003464$" />
+		</script>
+	</quest>
+	<quest id="40002799">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003467$" />
+			<content speakerNpc="11004574" text="$script:0425174323003468$" />
+			<content myTalk="1" text="$script:0425174323003469$" />
+			<content speakerNpc="11004574" text="$script:0425174323003470$" />
+			<content speakerNpc="11004574" text="$script:0425174323003471$" />
+			<content myTalk="1" text="$script:0430165323003570$" />
+			<content speakerNpc="11004574" text="$script:0430165723003571$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003472$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003473$" />
+			<content speakerNpc="11004574" text="$script:0425174323003474$" />
+		</script>
+		<script id="100" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0425174323003475$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003476$" />
+		</script>
+	</quest>
+	<quest id="40002800">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003478$" />
+			<content speakerNpc="11004574" text="$script:0425174323003479$" />
+			<content speakerNpc="11004574" text="$script:0425174323003480$" />
+			<content myTalk="1" text="$script:0425174323003481$" />
+			<content speakerNpc="11004574" text="$script:0425174323003482$" />
+			<content speakerNpc="11004574" text="$script:0430172723003572$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0425174323003483$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0425174323003484$" />
+			<content speakerNpc="11004574" text="$script:0425174323003485$" />
+			<content myTalk="1" text="$script:0425174323003486$" />
+			<content speakerNpc="11004574" text="$script:0425174323003487$" />
+		</script>
+	</quest>
+	<quest id="40002801">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003489$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003490$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003491$" />
+		</script>
+	</quest>
+	<quest id="40002802">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003492$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003493$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003494$" />
+		</script>
+	</quest>
+	<quest id="40002803">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003495$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003496$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003497$" />
+		</script>
+	</quest>
+	<quest id="40002804">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003498$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003499$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003500$" />
+		</script>
+	</quest>
+	<quest id="40002805">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003501$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003502$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003503$" />
+		</script>
+	</quest>
+	<quest id="40002806">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003504$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003505$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003506$" />
+		</script>
+	</quest>
+	<quest id="40002807">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003507$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003508$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003509$" />
+		</script>
+	</quest>
+	<quest id="40002808">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003510$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003511$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003512$" />
+		</script>
+	</quest>
+	<quest id="40002809">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003513$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003514$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003515$" />
+		</script>
+	</quest>
+	<quest id="40002810">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003516$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003517$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003518$" />
+		</script>
+	</quest>
+	<quest id="40002811">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003519$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003520$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003521$" />
+		</script>
+	</quest>
+	<quest id="40002812">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003522$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003523$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003524$" />
+		</script>
+	</quest>
+	<quest id="40002813">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003525$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003526$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003527$" />
+		</script>
+	</quest>
+	<quest id="40002814">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003528$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003529$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003530$" />
+		</script>
+	</quest>
+	<quest id="40002815">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003531$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003532$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003533$" />
+		</script>
+	</quest>
+	<quest id="40002816">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003534$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003535$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003536$" />
+		</script>
+	</quest>
+	<quest id="40002817">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003537$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003538$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003539$" />
+		</script>
+	</quest>
+	<quest id="40002818">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003540$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003541$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003542$" />
+		</script>
+	</quest>
+	<quest id="40002819">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003543$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003544$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003545$" />
+		</script>
+	</quest>
+	<quest id="40002820">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003546$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003547$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003548$" />
+		</script>
+	</quest>
+	<quest id="40002821">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003549$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003550$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003551$" />
+		</script>
+	</quest>
+	<quest id="40002822">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003552$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003553$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003554$" />
+		</script>
+	</quest>
+	<quest id="40002823">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003555$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003556$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003557$" />
+		</script>
+	</quest>
+	<quest id="40002824">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003558$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003559$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003560$" />
+		</script>
+	</quest>
+	<quest id="40002825">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003561$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003562$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003563$" />
+		</script>
+	</quest>
+	<quest id="40002826">
+		<script id="100" feature="Develop" locale="">
+			<content text="$script:0425174323003564$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0425174323003565$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content text="$script:0425174323003566$" />
 		</script>
 	</quest>
 </ms2>

@@ -12,8 +12,8 @@
 			<completeReward exp="101500" relativeExp="epicQuest" money="3250" karma="0" lu="0">
 				<essentialItem code="20000023" rank="1" count="6" />
 				<essentialItem code="20000029" rank="1" count="6" />
-				<globalEssentialItem code="20000022" rank="1" count="4" />
-				<globalEssentialItem code="20000028" rank="1" count="4" />
+				<globalEssentialItem code="20000023" rank="1" count="3" />
+				<globalEssentialItem code="20000029" rank="1" count="3" />
 				<globalEssentialJobItem code="0" rank="0" count="0" />
 			</completeReward>
 			<progressMap progressMap="02000001" />

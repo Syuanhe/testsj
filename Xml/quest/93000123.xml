@@ -10,7 +10,7 @@
 			<acceptReward>
 				<essentialItem code="20000717" rank="1" count="1" />
 			</acceptReward>
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30000925" rank="1" count="2" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -33,7 +33,7 @@
 			<acceptReward>
 				<essentialItem code="20000717" rank="1" count="1" />
 			</acceptReward>
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001047" rank="1" count="10" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -56,7 +56,7 @@
 			<acceptReward>
 				<essentialItem code="20000717" rank="1" count="1" />
 			</acceptReward>
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001047" rank="1" count="10" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -79,7 +79,7 @@
 			<acceptReward>
 				<essentialItem code="20000717" rank="1" count="1" />
 			</acceptReward>
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001047" rank="1" count="10" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -102,7 +102,7 @@
 			<acceptReward>
 				<essentialItem code="20000717" rank="1" count="1" />
 			</acceptReward>
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
 				<essentialItem code="30001047" rank="1" count="10" />
 			</completeReward>
 			<progressMap progressMap="" />

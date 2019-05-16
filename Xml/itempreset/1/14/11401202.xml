@@ -8,11 +8,10 @@
     </customize>
     <slots>
         <slot name="CL">
-          <asset gender="0" replace="1" ani="1" name="Data/Resource/Model/Item/1/14/11401065_M_Event003.nif" targetnode="CL" selfnode="CL" />
-          <asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/14/11401065_F_Event003.nif" targetnode="CL" selfnode="CL" />		          
+          <asset gender="1" replace="1" ani="1" name="Data/Resource/Model/Item/1/14/11401202_F_StripesCollarTshirts.nif" targetnode="CL" selfnode="CL" />		          
         </slot>
     </slots>
  <cutting>
-   <mesh gender="2" name="PA_Belt" />
+	<mesh gender="1" name="GL_Wrist" />
  </cutting> 	
 </ms2>

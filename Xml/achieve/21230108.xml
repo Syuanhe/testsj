@@ -4,7 +4,7 @@
 	<achieves id="21230108" account="0" icon="hero_battle.png" noticePercent="1" locking="" categoryTag="combat,boss" feature="ChronicleDungeon60_01">
 		<grade value="1">
 			<condition type="buff" code="50000914,50000915,50000916" value="1" target="" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 		<grade value="2">
 			<condition type="buff" code="50000914,50000915,50000916" value="10" target="" />

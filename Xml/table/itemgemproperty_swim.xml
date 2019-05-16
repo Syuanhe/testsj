@@ -16,6 +16,7 @@
 	<swim id="70600015" kf="G" idleEffect="CH/Swim/Eff_Lakemonster_SwimIdle.xml" runEffect="CH/Swim/Eff_Lakemonster_SwimRun.xml" dashEffect="CH/Swim/Eff_Lakemonster_SwimDash.xml" />
 	<swim id="70600017" kf="J" idleEffect="CH/Swim/Eff_Paperboat_Plain_SwimIdle.xml" runEffect="CH/Swim/Eff_Paperboat_Plain_SwimRun.xml" dashEffect="CH/Swim/Eff_Paperboat_Plain_SwimDash.xml" />
 	<swim id="70600021" kf="E" idleEffect="CH/Swim/Eff_DonutsA_SwimIdle.xml" runEffect="CH/Swim/Eff_DonutsA_SwimRun.xml" dashEffect="CH/Swim/Eff_DonutsA_SwimDash.xml" />
+	<swim id="70600022" kf="E" idleEffect="CH/Swim/Eff_Avocado_SwimIdle.xml" runEffect="CH/Swim/Eff_Avocado_SwimRun.xml" dashEffect="CH/Swim/Eff_Avocado_SwimDash.xml" />
 	<swim id="70600023" kf="E" idleEffect="CH/Swim/Eff_DonutsB_SwimIdle.xml" runEffect="CH/Swim/Eff_DonutsB_SwimRun.xml" dashEffect="CH/Swim/Eff_DonutsB_SwimDash.xml" />
 	<swim id="70600027" kf="J" idleEffect="CH/Swim/Eff_Paperboat_Pink_SwimIdle.xml" runEffect="CH/Swim/Eff_Paperboat_Pink_SwimRun.xml" dashEffect="CH/Swim/Eff_Paperboat_Pink_SwimDash.xml" />
 	<swim id="70600028" kf="J" idleEffect="CH/Swim/Eff_Paperboat_Green_SwimIdle.xml" runEffect="CH/Swim/Eff_Paperboat_Green_SwimRun.xml" dashEffect="CH/Swim/Eff_Paperboat_Green_SwimDash.xml" />

@@ -14,8 +14,8 @@
 				<essentialItem code="20000024" rank="1" count="6" />
 				<essentialItem code="20000030" rank="1" count="6" />
 				<globalEssentialItem code="20000024" rank="1" count="5" />
-				<globalEssentialItem code="20000023" rank="1" count="3" />
-				<globalEssentialItem code="20000029" rank="1" count="3" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
 				<globalEssentialJobItem code="0" rank="0" count="0" />
 			</completeReward>
 			<progressMap progressMap="02000215" />

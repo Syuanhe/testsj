@@ -1589,8 +1589,10 @@
 	<key id="0831180407001330" feature="" locale="" npc="나탈리" name="무슨 일이에요?" />
 	<key id="0831180407001331" feature="" locale="" npc="나탈리" name="지나간 시간 속에 감춰진 비밀이 얼마나 많은데… " />
 	<key id="0831180407001332" feature="" locale="KR" npc="나탈리" name="그거 알아요? &#x0A;세상에는 말이죠… 이유없이 존재하는 건 아무것도 없어요.&#x0A;모두 나름대로의 사연이 있는 법이라구요." />
-	<key id="1212112607009630" feature="TreasureMap01" locale="" npc="나탈리" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." />
-	<key id="1218095907009744" feature="TreasureMap01" locale="" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
+	<key id="1212112607009630" feature="TreasureMap01" locale="KR" npc="나탈리" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." />
+	<key id="0424170807014641" feature="TreasureMap01" locale="CN" npc="나탈리" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." />
+	<key id="1218095907009744" feature="TreasureMap01" locale="KR" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
+	<key id="0424170807014642" feature="TreasureMap01" locale="CN" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
 	<key id="0818192907008878" feature="" locale="KR" npc="나탈리" name="얼마 전, 낡고 오래된 책 한 권을 구해 읽어봤는데요.&#x0A;그 안에 놀라운 사실이 적혀 있었어요." />
 	<key id="0818192907008879" feature="" locale="KR" npc="pc" name="뭐가 적혀 있었는지 물어본다." />
 	<key id="0818192907008880" feature="" locale="KR" npc="나탈리" name="오래전, 어둠에 땅에 있던 작고 반짝이는 조각들이&#x0A;몬스터들의 옷가지에 묻어 메이플 월드로 옮겨졌다는군요." />
@@ -1612,22 +1614,14 @@
 	<key id="1218095907009741" feature="TreasureMap01" locale="KR" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
 	<key id="1218095907009742" feature="TreasureMap01" locale="KR" npc="pc" name="무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다." />
 	<key id="1218095907009743" feature="TreasureMap01" locale="KR" npc="pc" name="할 말이 있다고 한다." />
+	<key id="0502125007014664" feature="" locale="NA" npc="나탈리" name="무슨 일이시죠?" />
+	<key id="0502125007014665" feature="" locale="JP" npc="나탈리" name="무슨 일이시죠?" />
+	<key id="0502125007014666" feature="" locale="TW" npc="나탈리" name="무슨 일이시죠?" />
+	<key id="0502125007014667" feature="" locale="TH" npc="나탈리" name="무슨 일이시죠?" />
 	<key id="0623194907010354" feature="TreasureMap01" locale="CN" npc="나탈리" name="무슨 일이시죠?" />
 	<key id="0623194907010355" feature="TreasureMap01" locale="CN" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
 	<key id="0623194907010356" feature="TreasureMap01" locale="CN" npc="pc" name="무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다." />
 	<key id="0623194907010357" feature="TreasureMap01" locale="CN" npc="pc" name="할 말이 있다고 한다." />
-	<key id="0623194907010351" feature="TreasureMap01" locale="NA" npc="나탈리" name="무슨 일이시죠?" />
-	<key id="0623194907010352" feature="TreasureMap01" locale="NA" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="0623194907010353" feature="TreasureMap01" locale="NA" npc="pc" name="할 말이 있다고 한다." />
-	<key id="0201172907012744" feature="TreasureMap01" locale="JP" npc="나탈리" name="무슨 일이시죠?" />
-	<key id="0201172907012745" feature="TreasureMap01" locale="JP" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="0201172907012746" feature="TreasureMap01" locale="JP" npc="pc" name="할 말이 있다고 한다." />
-	<key id="0201172907012748" feature="TreasureMap01" locale="TH" npc="나탈리" name="무슨 일이시죠?" />
-	<key id="0201172907012749" feature="TreasureMap01" locale="TH" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="0201172907012750" feature="TreasureMap01" locale="TH" npc="pc" name="할 말이 있다고 한다." />
-	<key id="0201172907012752" feature="TreasureMap01" locale="TW" npc="나탈리" name="무슨 일이시죠?" />
-	<key id="0201172907012753" feature="TreasureMap01" locale="TW" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="0201172907012754" feature="TreasureMap01" locale="TW" npc="pc" name="할 말이 있다고 한다." />
 	<key id="0831180407001333" feature="" locale="" npc="메르자파" name="무슨 일인가?" />
 	<key id="0831180407001334" feature="" locale="" npc="메르자파" name="오래된 물건일수록 귀한 법이지…" />
 	<key id="0831180407001335" feature="" locale="" npc="메르자파" name="요즘 사람들은 말이야.&#x0A;오래되고 낡은 물건을 너무 쉽게 버리는 경향이 있어.&#x0A;참 안타까운 일이지… " />
@@ -11790,9 +11784,8 @@
 	<key id="1109213607011818" feature="Season1" locale="" npc="보리스" name="어른들도 좋아합니다.&#x0A;다만, 자신이 크리스마스를 좋아한다는 사실을 잊고 있어요." />
 	<key id="1109213607011819" feature="Season1" locale="" npc="pc" name='&quot;메리 크리스마스&quot;' />
 	<key id="1109213607011820" feature="Season1" locale="" npc="보리스" name="메리 크리스마스! &#x0A;신나는 겨울! 우리가 크리스마스를 얼마나 좋아하는지 잊지 말자고요!" />
-	<key id="0109181107012670" feature="Kritias_Epic01" locale="" npc="마를레네" name="모두를 지켜야 해" />
-	<key id="0108212907012643" feature="Kritias_Epic01" locale="" npc="마를레네" name="당신은?" />
-	<key id="0108212907012644" feature="Kritias_Epic01" locale="" npc="마를레네" name="여기엔 무슨 일이시죠?" />
+	<key id="0109181107012670" feature="Kritias_Epic01" locale="" npc="마를레네" name="모두를 지켜야 해." />
+	<key id="0108212907012643" feature="Kritias_Epic01" locale="" npc="마를레네" name="우리 게오르크는 크리티아스의 평화를 위해 존재합니다." />
 	<key id="0108212907012645" feature="Kritias_2018_12" locale="" npc="마를레네" name='어서 와요, $MyPCName$. 오랜만이에요!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004312[gender:0]$&lt;/font&gt;함장이 보낸다는 지원군이 당신이었군요.' />
 	<key id="0108212907012646" feature="Kritias_2018_12" locale="" npc="마를레네" name="잘 지내고 있나 궁금했어요." />
 	<key id="0108212907012647" feature="Kritias_2018_12" locale="" npc="pc" name="(가끔 임무가 힘들기는 하지만 잘 지낸다고 말한다.)" />
@@ -12003,6 +11996,9 @@
 	<key id="1231140707012489" feature="Kritias_2018_12" locale="" npc="칸타타" name="뭔가 짚이시는 거라도 있으십니까?" />
 	<key id="1231140707012490" feature="Kritias_2018_12" locale="" npc="pc" name="(아니… 설마 그건 아닐 거야…)" />
 	<key id="1231140707012491" feature="Kritias_2018_12" locale="" npc="칸타타" name="혹시 뭔가 단서를 더 알아내면 말씀드리겠습니다.&#x0A;그럼 저는 이곳을 계속 조사해보겠습니다." />
+	<key id="0410153807014589" feature="Kritias_2018_12" locale="" npc="칸타타" name="흐으으음…" />
+	<key id="0410153807014590" feature="Kritias_2018_12" locale="" npc="칸타타" name="어디 있다는 거지…&#x0A;전혀 알 수가 없는데…" />
+	<key id="0410153807014591" feature="Kritias_2018_12" locale="" npc="칸타타" name="설마 가짜 제보는 아니겠지…?" />
 	<key id="1227192907012056" feature="Kritias_2018_12" locale="" npc="파렌니스" name="어서 오세요! 수송을 담당하고 있는 $npcName:11004459[gender:0]$$pp:라고,이라고$ 합니다!" />
 	<key id="1227192907012057" feature="Kritias_2018_12" locale="" npc="파렌니스" name="어서 오세요! 수송을 담당하고 있는 $npcName:11004459[gender:0]$$pp:라고,이라고$ 합니다!" />
 	<key id="1227192907012058" feature="Kritias_2018_12" locale="" npc="파렌니스" name="신대륙에 이런 대규모 건설을 단기간에 해낼 수 있었던 것도 스카이 포트리스의 수송 능력 덕분이죠!" />
@@ -12642,19 +12638,19 @@
 	<key id="0510165107009912" feature="" locale="" npc="레인보우 슬라임" name="아~ 맛있어!" />
 	<key id="0510165107009913" feature="" locale="" npc="레인보우 슬라임" name="내가 좋아하는 무지개 맛이구나! 고마워~" />
 	<key id="0510165107009914" feature="" locale="" npc="레인보우 슬라임" name="맛있는 걸 먹는 건 역시 행복해~" />
-	<key id="0218154407014479" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블의 진행자! MC나기입니다!" />
-	<key id="0218154407014480" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블에 오신 모험가님, 환영해요!&#x0A;벌써 강인한 기개가 느껴지는군요." />
-	<key id="0226180207014575" feature="Colosseum01" locale="" npc="나기" name="그럼, 경기를 시작해볼까요!&#x0A;긴장해주세요!" />
+	<key id="0218154407014479" feature="Colosseum01" locale="" npc="MC 나기" name="퀸크빈 럼블의 진행자! MC나기입니다!" />
+	<key id="0218154407014480" feature="Colosseum01" locale="" npc="MC 나기" name="퀸크빈 럼블에 오신 모험가님, 환영해요!&#x0A;벌써 강인한 기개가 느껴지는군요." />
+	<key id="0226180207014575" feature="Colosseum01" locale="" npc="MC 나기" name="그럼, 경기를 시작해볼까요!&#x0A;긴장해주세요!" />
 	<key id="0226181607014578" feature="Colosseum01" locale="" npc="pc" name="(알겠다고 말한다.)" />
-	<key id="0218154407014481" feature="Colosseum01" locale="" npc="나기" name="경기에 앞서.&#x0A;모험가님의 선택은 어떻게 되시나요?!" />
+	<key id="0218154407014481" feature="Colosseum01" locale="" npc="MC 나기" name="경기에 앞서.&#x0A;모험가님의 선택은 어떻게 되시나요?!" />
 	<key id="0218154407014482" feature="Colosseum01" locale="" npc="pc" name="새로하기" />
 	<key id="0218154407014483" feature="Colosseum01" locale="" npc="pc" name="이어하기" />
-	<key id="0218154407014484" feature="Colosseum01" locale="" npc="나기" name="새로운 도전이군요!&#x0A;행운이 모험가님께 가득하기를!&#x0A;그럼~ 시작합니다!" />
-	<key id="0218154407014485" feature="Colosseum01" locale="" npc="나기" name="어라라? 이미 모든 선수를 쓰러뜨리셨었네요?&#x0A;아! 다시 도전하시는 거군요?&#x0A;그렇다면 경기를 처음부터 다시 시작합니다!" />
-	<key id="0226191507014580" feature="Colosseum01" locale="" npc="나기" name="지난번의 투기를 이어 도전하시는군요!&#x0A;다시 불타오르는데요?&#x0A;그럼, 시작합니다!" />
-	<key id="0226191507014581" feature="Colosseum01" locale="" npc="나기" name="첫 도전이시군요!&#x0A;행운을 빌어요. 시작합니다!" />
-	<key id="0304150007014584" feature="Colosseum01" locale="" npc="나기" name="퀸크빈 럼블에 오신 것을 환영합니다!" />
-	<key id="0304150007014585" feature="Colosseum01" locale="" npc="나기" name="대화가 끊기면, 다시 저에게 말을 걸어주세요!" />
+	<key id="0218154407014484" feature="Colosseum01" locale="" npc="MC 나기" name="새로운 도전이군요!&#x0A;행운이 모험가님께 가득하기를!&#x0A;그럼~ 시작합니다!" />
+	<key id="0218154407014485" feature="Colosseum01" locale="" npc="MC 나기" name="어라라? 이미 모든 선수를 쓰러뜨리셨었네요?&#x0A;아! 다시 도전하시는 거군요?&#x0A;그렇다면 경기를 처음부터 다시 시작합니다!" />
+	<key id="0226191507014580" feature="Colosseum01" locale="" npc="MC 나기" name="지난번의 투기를 이어 도전하시는군요!&#x0A;다시 불타오르는데요?&#x0A;그럼, 시작합니다!" />
+	<key id="0226191507014581" feature="Colosseum01" locale="" npc="MC 나기" name="첫 도전이시군요!&#x0A;행운을 빌어요. 시작합니다!" />
+	<key id="0304150007014584" feature="Colosseum01" locale="" npc="MC 나기" name="퀸크빈 럼블에 오신 것을 환영합니다!" />
+	<key id="0304150007014585" feature="Colosseum01" locale="" npc="MC 나기" name="대화가 끊기면, 다시 저에게 말을 걸어주세요!" />
 	<key id="0220211107014487" feature="Colosseum01" locale="" npc="민트" name="음음음~" />
 	<key id="0220211107014488" feature="Colosseum01" locale="" npc="민트" name="음음음~" />
 	<key id="0220211107014489" feature="Colosseum01" locale="" npc="민트" name="앗? 안녕하세요!&#x0A;왠지 자주 뵈었던 얼굴인데…?" />
@@ -12746,4 +12742,12 @@
 	<key id="0220212507014572" feature="Colosseum01" locale="" npc="알베르토빈" name="그쪽이라면 여왕님의 미소를 볼 수 있을 겁니다." />
 	<key id="0221103007014573" feature="Colosseum01" locale="" npc="알베르토빈" name="여왕님의 미소를 보여주시죠." />
 	<key id="0221103007014574" feature="Colosseum01" locale="" npc="알베르토빈" name="퀸크빈님을 위해서라면!" />
+	<key id="0502182807014668" feature="Season1" locale="" npc="키키" name="안녕하세요? $MyPCName$님!&#x0A;빵원샵 이벤트 안내와 넥슨캐시 티켓 교환을 도와드리고 있습니다." />
+	<key id="0502182807014669" feature="Season1" locale="KR" npc="키키" name='&lt;font color=&quot;#ffd200&quot;&gt;5월 25일과 6월 8일 저녁 6시부터 단 1시간&lt;/font&gt; 동안&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;넥슨캐시 티켓 랜덤상자&lt;/font&gt;를 0메럿에 구매할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;빵원샵&lt;/font&gt; 이벤트가 진행 중이에요.&#x0A;상자를 사용하면 넥슨캐시로 교환할 수 있는 티켓 아이템을 획득할 수 있어요.&#x0A;$item:30001369$ 아이템을 일정 수량 모아오시면 제가 티켓으로 교환해 드리고 있습니다.' />
+	<key id="0502182807014670" feature="Season1" locale="KR" npc="pc" name="넥슨캐시 티켓 랜덤상자는 어디서 구하냐고 묻는다." />
+	<key id="0502182807014671" feature="Season1" locale="KR" npc="키키" name='&lt;font color=&quot;#ffd200&quot;&gt;5월 25일, 6월 8일 저녁 6시부터 6시 59분&lt;/font&gt;까지 프리미업샵 메뉴의 기능, 소비 탭에서 구매할 수 있습니다.&#x0A;아이템의 구매 및 사용 모두 해당 시간에만 가능한 점 꼭 기억해 주세요.' />
+	<key id="0502182807014672" feature="Season1" locale="KR" npc="pc" name="그럼 넥슨캐시는 언제 주는지 묻는다." />
+	<key id="0502182807014673" feature="Season1" locale="KR" npc="키키" name="흠흠…제가 어서 정리 후 6월 20일 점검 이후에 공지사항을 통해 알려드릴 예정입니다. 그전에 넥슨캐시 티켓을 삭제하시면 제가 찾을 수 없으니 만료될 때까지 잘 가지고 있어 주세요." />
+	<key id="0502182807014674" feature="Season1" locale="KR" npc="pc" name="더 주의해야 할 점은 없는지 묻는다." />
+	<key id="0502182807014675" feature="Season1" locale="KR" npc="키키" name="$item:30001369$ 아이템은 꼭 제게 오셔서 티켓으로 교환 해두시는 것!&#x0A;잊지 마시길 바랍니다. 그럼 행운을 빌어요~" />
 </ms2>

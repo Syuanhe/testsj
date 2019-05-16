@@ -10,7 +10,7 @@
 		<skill ids="35010001" levels="1" priorities="1" probs="100" coolDown="0" />
 		<additionalEffect codes="72000001" levels="1" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
-		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
+		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="true" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
 		<aiInfo path="BossDungeon/Colosseum/AI_BattleControl_01_Colosseum.xml" />
 		<collision shape="box" width="150" height="150" depth="150" widthOffset="0" depthOffset="2500" heightOffset="2000" />

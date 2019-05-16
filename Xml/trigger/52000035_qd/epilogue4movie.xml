@@ -838,11 +838,11 @@
     <state name="Epilogue4Talk30">
 		<onEnter>
 			<action name="카메라경로를선택한다" arg1="1400,1406" arg2="0"/>		
-			<action name="대화를설정한다" arg1="2" arg2="11001851" arg3="$52000035_QD__EPILOGUE4MOVIE__19$" arg4="5" />
+			<action name="대화를설정한다" arg1="2" arg2="11001851" arg3="$52000035_QD__EPILOGUE4MOVIE__19$" arg4="8" />
 			<action name="SetOnetimeEffect" id="1978" enable="1" path="BG/Common/Sound/Eff_Madria_Chapter4_End_01_00001978.xml"/>				
 			<action name="스킵을설정한다" arg1="Epilogue4Talk31"/>
 			</onEnter>
-				<condition name="WaitTick" waitTick="5000">
+				<condition name="WaitTick" waitTick="8000">
 					<transition state="Epilogue4Talk31"/>
 				</condition>	
 		<onExit>
@@ -1173,10 +1173,10 @@
 		<onEnter>
 			<action name="카메라경로를선택한다" arg1="1100,1101,1104" arg2="0"/>	
 			<action name="SetOnetimeEffect" id="1918" enable="1" path="BG/Common/Sound/Eff_Sound_52000035_Turka_00001918.xml"/> 		
-			<action name="대화를설정한다" arg1="2" arg2="11001956" arg3="$52000035_QD__EPILOGUE4MOVIE__32$" arg4="8" />
+			<action name="대화를설정한다" arg1="2" arg2="11001956" arg3="$52000035_QD__EPILOGUE4MOVIE__32$" arg4="12" />
 			<action name="스킵을설정한다" arg1="Epilogue4Talk58"/>
 			</onEnter>
-				<condition name="WaitTick" waitTick="8000">
+				<condition name="WaitTick" waitTick="12000">
 					<transition state="Epilogue4Talk58"/>
 				</condition>	
 		<onExit>

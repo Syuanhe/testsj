@@ -524,4 +524,18 @@
 	<key id="19031301" name="웨딩데이 세트" />
 	<key id="19031302" name="웨딩데이 세트" />
 	<key id="19032001" name="마드라칸 군주 세트" feature="Level60Item" />
+	<key id="19042501" name="오드리 튜튜 세트" />
+	<key id="19042502" name="오드리 튜튜 세트" />
+	<key id="19041501" name="강화된 품위의 전투 세트" feature="PvPRankingDuelMode" />
+	<key id="19041502" name="강화된 품위의 광란 세트" feature="PvPRankingDuelMode" />
+	<key id="19041503" name="강화된 품위의 마법 세트" feature="PvPRankingDuelMode" />
+	<key id="19041504" name="강화된 품위의 신성 세트" feature="PvPRankingDuelMode" />
+	<key id="19041505" name="강화된 품위의 집중 세트" feature="PvPRankingDuelMode" />
+	<key id="19041506" name="강화된 품위의 포격 세트" feature="PvPRankingDuelMode" />
+	<key id="19041507" name="강화된 품위의 혼란 세트" feature="PvPRankingDuelMode" />
+	<key id="19041508" name="강화된 품위의 암살 세트" feature="PvPRankingDuelMode" />
+	<key id="19041509" name="강화된 품위의 주술 세트" feature="PvPRankingDuelMode" />
+	<key id="19041510" name="강화된 품위의 난투 세트" feature="PvPRankingDuelMode" />
+	<key id="19041511" name="강화된 품위의 의식 세트" feature="PvPRankingDuelMode" />
+	<key id="19041512" name="강화된 품위의 액세서리 세트" feature="PvPRankingDuelMode" />
 </ms2>

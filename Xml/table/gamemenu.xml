@@ -65,10 +65,11 @@
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="CN" />
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="KR" />
 		<menu col="4" id="VIP" feature="VIP" row="2" locale="NA" />
-		<menu col="4" id="VIP" feature="VIP" row="1" locale="JP" />
+		<menu col="4" id="VIP" feature="VIP" row="2" locale="JP" />
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="TH" />
 		<menu col="4" id="VIP" feature="VIP" row="1" locale="TW" />
 		<menu col="4" id="PssbShop" row="3" locale="NA" />
+		<menu col="4" id="PssbShop" row="3" locale="JP" />
 		<menu col="5" id="Design" row="1" />
 		<menu col="4" id="SkyFortress" feature="FameContents" row="3" locale="CN" />
 		<menu col="5" id="SkyFortress" feature="FameContents" row="3" locale="NA" />
@@ -84,6 +85,7 @@
 		<menu col="4" id="MeratMarket" feature="MeratMarket" row="1" locale="TW" />
 		<menu col="5" id="CashShop" feature="CashShop" row="2" locale="KR" />
 		<menu col="5" id="MeratCharge" row="2" locale="NA" />
+		<menu col="5" id="MeratCharge" row="2" locale="JP" />
 		<menu col="5" id="Ranking" locale="CN" row="3" />
 		<menu col="3" id="ChangeJob" feature="LapentaFrontierQuest" row="2" />
 		<menu col="3" id="GalleryEvent" row="1" filterType="eventType" filterValue="Gallery" />

@@ -2,10 +2,10 @@
 <!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
 	<minimap>
-		<frustum left="-10809.7" right="10809.7" top="6756.04" bottom="-6756.04" near="10" far="100000" ortho="true" />
+		<frustum left="-15878.6" right="15878.6" top="9924.11" bottom="-9924.11" near="10" far="100000" ortho="true" />
 		<screen left="0" right="1920" top="0" bottom="1200" />
-		<image left="507.95" right="1531.95" top="132" bottom="1156" name="./Data/Resource/Image/Map/Minimap/02020068.dds" icon="" />
-		<camera position="-4236.249512, -1848.344849, 7248.920898" rotation="90.000000, 45.000000, -45.000000" />
-		<edit zoomfactor="5.63003" />
+		<image left="496.95" right="1520.95" top="60" bottom="1084" name="./Data/Resource/Image/Map/Minimap/02020068.dds" icon="" />
+		<camera position="-3669.834229, -2414.760986, 8702.920898" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="8.27009" />
 	</minimap>
 </ms2>

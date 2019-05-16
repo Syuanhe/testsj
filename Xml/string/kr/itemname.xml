@@ -223,6 +223,8 @@
 	<key id="10200225" class="hair" name="시크보이 컬링 헤어" />
 	<key id="10200226" class="hair" name="볼륨 단발 펌" />
 	<key id="10200229" class="hair" name="볼류밍 애즈펌" />
+	<key id="10200233" class="hair" name="깜찍한 사과 머리" />
+	<key id="10200234" class="hair" name="쫑쫑 헤어" />
 	<key id="10200241" class="hair" name="카일 스타일 헤어" />
 	<key id="10200242" class="hair" name="롤리 스타일 헤어" />
 	<key id="10200243" class="hair" name="메이슨 스타일 헤어" />
@@ -398,6 +400,8 @@
 	<key id="10300173" class="face" name="해맑은 얼굴" />
 	<key id="10300174" class="face" name="노곤노곤 얼굴" />
 	<key id="10300175" class="face" name="노곤노곤 얼굴" />
+	<key id="10300176" class="face" name="별반짝 고양이 얼굴" />
+	<key id="10300177" class="face" name="별반짝 고양이 얼굴" />
 	<key id="10400000" class="face mark" name="꾸미기 없음" />
 	<key id="10400001" class="face mark" name="부끄부끄 홍조" />
 	<key id="10400002" class="face mark" name="하트 타투" />
@@ -646,6 +650,8 @@
 	<key id="10400185" class="face mark" name="펭귄 얼굴 페인팅" />
 	<key id="10400186" class="face mark" name="더블하트 페인팅" />
 	<key id="10400188" class="face mark" name="알록달록 달걀 페인팅" />
+	<key id="10400189" class="face mark" name="선인장 페인팅" />
+	<key id="10400190" class="face mark" name="몸통 통통 공룡 페인팅" />
 	<key id="10400192" class="face mark" name="Razer 페인팅" locale="NA" />
 	<key id="10400193" class="face mark" name="Razer 페인팅" locale="NA" />
 	<key id="10400194" class="face mark" name="불꽃 팡팡 폭죽 페인팅" />
@@ -653,6 +659,8 @@
 	<key id="10400196" class="face mark" name="펭귄 얼굴 페인팅" />
 	<key id="10400197" class="face mark" name="더블하트 페인팅" />
 	<key id="10400199" class="face mark" name="알록달록 달걀 페인팅" />
+	<key id="10400200" class="face mark" name="선인장 페인팅" />
+	<key id="10400201" class="face mark" name="몸통 통통 공룡 페인팅" />
 	<key id="10400203" class="face mark" name="체리 페인팅" />
 	<key id="10400204" class="face mark" name="체리 페인팅" />
 	<key id="10500001" class="ear" name="귀" />
@@ -1007,8 +1015,8 @@
 	<key id="11250104" class="earring" name="키튼 방울 이어링 (여)" />
 	<key id="11250105" class="earring" name="일루셔니스트 테슬 이어링 (남)" />
 	<key id="11250106" class="earring" name="일루셔니스트 테슬 이어링 (여)" />
-	<key id="11250107" class="earring" name="오드리 튜튜 이어링 (남)" />
-	<key id="11250108" class="earring" name="오드리 튜튜 이어링 (여)" />
+	<key id="11250107" class="earring" name="오드리 튜튜 쥬얼 이어링 (남)" />
+	<key id="11250108" class="earring" name="오드리 튜튜 쥬얼 이어링 (여)" />
 	<key id="11250109" class="earring" name="스노우 테일 이어링 (남)" />
 	<key id="11250110" class="earring" name="스노우 테일 이어링 (여)" />
 	<key id="11250111" class="earring" name="타락천사 귀고리 (남)" />
@@ -1027,6 +1035,10 @@
 	<key id="11250124" class="earring" name="웨딩데이 하트 이어링 (여)" />
 	<key id="11250125" class="earring" name="바니 플라워 로즈 이어링 (남)" />
 	<key id="11250126" class="earring" name="바니 플라워 로즈 이어링 (여)" />
+	<key id="11250129" class="earring" name="큐티 꼬마곰 젤리 이어링 (남)" />
+	<key id="11250130" class="earring" name="큐티 꼬마곰 젤리 이어링 (여)" />
+	<key id="11250131" class="earring" name="우주 스킨 귀고리 (남)" />
+	<key id="11250132" class="earring" name="우주 스킨 귀고리 (여)" />
 	<key id="11250135" class="earring" name="해피 슬라임 이어링" />
 	<key id="11250136" class="earring" name="살랑 벚꽃 귀고리" />
 	<key id="11250137" class="earring" name="페어리 메탈 이어링" />
@@ -1066,7 +1078,9 @@
 	<key id="11250171" class="earring" name="브래스 스터드 이어링" locale="CN" />
 	<key id="11250172" class="earring" name="썬플라워 이어링" locale="CN" />
 	<key id="11250173" class="earring" name="해변의 낭만 파인애플 이어링" />
+	<key id="11250174" class="earring" name="여름 축제 달마 귀고리" />
 	<key id="11260044" class="earring" name="복제된 흉포의 귀고리" />
+	<key id="11260045" class="earring" name="귀여운 더키볼 귀고리" feature="Event" locale="JP" />
 	<key id="11260089" class="earring" name="블랙퓨리티 이어링" feature="Level60Item" />
 	<key id="11260090" class="earring" name="라펜샤드 이어링" feature="Level60Item" />
 	<key id="11260091" class="earring" name="떠돌이 모험가의 유산 : 골동품 귀고리" feature="Level60Item" />
@@ -1075,6 +1089,7 @@
 	<key id="11260094" class="earring" name="센츄리온 레드 티어" feature="Level60Item" />
 	<key id="11260095" class="earring" name="블랙퓨리티 이어링" feature="Level60Item" />
 	<key id="11260096" class="earring" name="마드라칸 군주의 귀고리" feature="Level60Item" />
+	<key id="11260097" class="earring" name="강화된 품위의 귀고리" feature="PvPRankingDuelMode" />
 	<key id="11280118" class="" name="플루토 이어링" feature="ItemExtraction" />
 	<key id="11290006" class="" name="발록의 귀고리" feature="ItemExtraction" />
 	<key id="11290029" class="" name="마크52 오메가의 귀고리" feature="ItemExtraction" />
@@ -2450,6 +2465,10 @@
 	<key id="11301376" class="hat" name="웨딩데이 하트뿅뿅 티아라 (여)" />
 	<key id="11301377" class="hat" name="바니 플라워 토끼귀 헤어밴드 (남)" />
 	<key id="11301378" class="hat" name="바니 플라워 토끼귀 헤어밴드 (여)" />
+	<key id="11301381" class="hat" name="큐티 곰돌이 베레모 (남)" />
+	<key id="11301382" class="hat" name="큐티 곰돌이 베레모 (여)" />
+	<key id="11301383" class="hat" name="우주 스킨 모자 (남)" />
+	<key id="11301384" class="hat" name="우주 스킨 모자 (여)" />
 	<key id="11301387" class="hat" name="존엄의 모자" feature="PvPRankingDuelMode" />
 	<key id="11301388" class="hat" name="2019 머리띠" />
 	<key id="11301389" class="hat" name="해피 슬라임 머리핀" />
@@ -2548,6 +2567,12 @@
 	<key id="11301482" class="hat" name="말랑말랑 해파리 모자" />
 	<key id="11301483" class="hat" name="거친 바이킹 모자" />
 	<key id="11301484" class="hat" name="해변의 낭만 고래 머리핀" />
+	<key id="11301485" class="hat" name="출렁 파도 머리핀" />
+	<key id="11301486" class="hat" name="알록달록 조개 머리핀" />
+	<key id="11301487" class="hat" name="여름 축제 슬라임 머리띠" />
+	<key id="11301488" class="hat" name="뿔버섯 가면" />
+	<key id="11301489" class="hat" name="슬라임 가면" />
+	<key id="11301490" class="hat" name="다크 판타지 모자" />
 	<key id="11304762" class="hat" name="하랑 면류관 (남)" />
 	<key id="11304763" class="hat" name="나예 가체 (여)" />
 	<key id="11304764" class="hat" name="샤인 스타 베레모 (남)" />
@@ -2574,8 +2599,8 @@
 	<key id="11304785" class="hat" name="펑키 카우보이 햇 (남)" />
 	<key id="11304786" class="hat" name="펑키 카우보이 햇 (여)" />
 	<key id="11304787" class="hat" name="데보라크의 뿔" />
-	<key id="11304788" class="hat" name="오드리 튜튜 헤어 (남)" />
-	<key id="11304789" class="hat" name="오드리 튜튜 헤어 (여)" />
+	<key id="11304788" class="hat" name="오드리 튜튜 깃털 장식 (남)" />
+	<key id="11304789" class="hat" name="오드리 튜튜 깃털 장식 (여)" />
 	<key id="11304790" class="hat" name="일루셔니스트 깃털 모자 (남)" />
 	<key id="11304791" class="hat" name="일루셔니스트 깃털 모자 (여)" />
 	<key id="11304792" class="hat" name="생일 축하 모자 (3일)" />
@@ -2618,6 +2643,8 @@
 	<key id="11309997" class="hat" name="블러드 레퀴엠 모자" />
 	<key id="11309998" class="hat" name="피닉스 모자" />
 	<key id="11309999" class="hat" name="설설이의 철갑 투구" />
+	<key id="11310000" class="hat" name="나른한 더키볼" feature="Event" locale="JP" />
+	<key id="11310001" class="hat" name="(PC방) 하얀 고양이 귀" feature="PCBang" />
 	<key id="11330073" class="hat" name="다크 스위프트 버글러" />
 	<key id="11330077" class="hat" name="샤이닝 위자드리 햇" />
 	<key id="11330078" class="hat" name="나이티지 버거넷" />
@@ -3088,6 +3115,17 @@
 	<key id="11361316" class="hat" name="블랙퓨리티 루나틱 페더 (룬블레이더)" feature="Level60Item" />
 	<key id="11361317" class="hat" name="블랙퓨리티 루나틱 페더 (스트라이커)" feature="Level60Item" />
 	<key id="11361318" class="hat" name="블랙퓨리티 루나틱 페더 (소울바인더)" feature="Level60Item" />
+	<key id="11361319" class="hat" name="강화된 품위의 전투 모자" feature="PvPRankingDuelMode" />
+	<key id="11361320" class="hat" name="강화된 품위의 광란 모자" feature="PvPRankingDuelMode" />
+	<key id="11361321" class="hat" name="강화된 품위의 마법 모자" feature="PvPRankingDuelMode" />
+	<key id="11361322" class="hat" name="강화된 품위의 신성 모자" feature="PvPRankingDuelMode" />
+	<key id="11361323" class="hat" name="강화된 품위의 집중 모자" feature="PvPRankingDuelMode" />
+	<key id="11361324" class="hat" name="강화된 품위의 포격 모자" feature="PvPRankingDuelMode" />
+	<key id="11361325" class="hat" name="강화된 품위의 혼란 모자" feature="PvPRankingDuelMode" />
+	<key id="11361326" class="hat" name="강화된 품위의 암살 모자" feature="PvPRankingDuelMode" />
+	<key id="11361327" class="hat" name="강화된 품위의 주술 모자" feature="PvPRankingDuelMode" />
+	<key id="11361328" class="hat" name="강화된 품위의 난투 모자" feature="PvPRankingDuelMode" />
+	<key id="11361329" class="hat" name="강화된 품위의 의식 모자" feature="PvPRankingDuelMode" />
 	<key id="11370073" class="" name="다크 스위프트 버글러" feature="ItemExtraction" />
 	<key id="11370077" class="" name="샤이닝 위자드리 햇" feature="ItemExtraction" />
 	<key id="11370078" class="" name="나이티지 버거넷" feature="ItemExtraction" />
@@ -4510,6 +4548,7 @@
 	<key id="11401201" class="coat" name="스트라이프 카라 티셔츠 (남)" />
 	<key id="11401202" class="coat" name="스트라이프 카라 티셔츠 (여)" />
 	<key id="11401203" class="coat" name="거친 바이킹 상의" />
+	<key id="11401204" class="coat" name="다크 판타지 상의" />
 	<key id="11409996" class="coat" name="세비지 상의" />
 	<key id="11409997" class="coat" name="오리할콘 상의" />
 	<key id="11409998" class="coat" name="피닉스 상의" />
@@ -4927,6 +4966,17 @@
 	<key id="11461134" class="coat" name="블랙퓨리티 시니스터 코트 (룬블레이더)" feature="Level60Item" />
 	<key id="11461135" class="coat" name="블랙퓨리티 시니스터 코트 (스트라이커)" feature="Level60Item" />
 	<key id="11461136" class="coat" name="블랙퓨리티 시니스터 코트 (소울바인더)" feature="Level60Item" />
+	<key id="11461137" class="coat" name="강화된 품위의 전투 상의" feature="PvPRankingDuelMode" />
+	<key id="11461138" class="coat" name="강화된 품위의 광란 상의" feature="PvPRankingDuelMode" />
+	<key id="11461139" class="coat" name="강화된 품위의 마법 상의" feature="PvPRankingDuelMode" />
+	<key id="11461140" class="coat" name="강화된 품위의 신성 상의" feature="PvPRankingDuelMode" />
+	<key id="11461141" class="coat" name="강화된 품위의 집중 상의" feature="PvPRankingDuelMode" />
+	<key id="11461142" class="coat" name="강화된 품위의 포격 상의" feature="PvPRankingDuelMode" />
+	<key id="11461143" class="coat" name="강화된 품위의 혼란 상의" feature="PvPRankingDuelMode" />
+	<key id="11461144" class="coat" name="강화된 품위의 암살 상의" feature="PvPRankingDuelMode" />
+	<key id="11461145" class="coat" name="강화된 품위의 주술 상의" feature="PvPRankingDuelMode" />
+	<key id="11461146" class="coat" name="강화된 품위의 난투 상의" feature="PvPRankingDuelMode" />
+	<key id="11461147" class="coat" name="강화된 품위의 의식 상의" feature="PvPRankingDuelMode" />
 	<key id="11470048" class="" name="다크 스위프트" feature="ItemExtraction" />
 	<key id="11470054" class="" name="쉐도우 스파이크 베스트" feature="ItemExtraction" />
 	<key id="11470055" class="" name="디멘티드 숄더 메일" feature="ItemExtraction" />
@@ -6164,6 +6214,7 @@
 	<key id="11501086" class="pants" name="견습 파티셰 하의 (남)" />
 	<key id="11501087" class="pants" name="견습 파티셰 하의 (여)" />
 	<key id="11501088" class="pants" name="거친 바이킹 하의" />
+	<key id="11501089" class="pants" name="다크 판타지 하의" />
 	<key id="11509996" class="pants" name="세비지 하의" />
 	<key id="11509997" class="pants" name="오리할콘 하의" />
 	<key id="11509998" class="pants" name="피닉스 하의" />
@@ -6581,6 +6632,17 @@
 	<key id="11561036" class="pants" name="블랙퓨리티 래더 핏츠 (룬블레이더)" feature="Level60Item" />
 	<key id="11561037" class="pants" name="블랙퓨리티 래더 핏츠 (스트라이커)" feature="Level60Item" />
 	<key id="11561038" class="pants" name="블랙퓨리티 래더 핏츠 (소울바인더)" feature="Level60Item" />
+	<key id="11561039" class="pants" name="강화된 품위의 전투 하의" feature="PvPRankingDuelMode" />
+	<key id="11561040" class="pants" name="강화된 품위의 광란 하의" feature="PvPRankingDuelMode" />
+	<key id="11561041" class="pants" name="강화된 품위의 마법 하의" feature="PvPRankingDuelMode" />
+	<key id="11561042" class="pants" name="강화된 품위의 신성 하의" feature="PvPRankingDuelMode" />
+	<key id="11561043" class="pants" name="강화된 품위의 집중 하의" feature="PvPRankingDuelMode" />
+	<key id="11561044" class="pants" name="강화된 품위의 포격 하의" feature="PvPRankingDuelMode" />
+	<key id="11561045" class="pants" name="강화된 품위의 혼란 하의" feature="PvPRankingDuelMode" />
+	<key id="11561046" class="pants" name="강화된 품위의 암살 하의" feature="PvPRankingDuelMode" />
+	<key id="11561047" class="pants" name="강화된 품위의 주술 하의" feature="PvPRankingDuelMode" />
+	<key id="11561048" class="pants" name="강화된 품위의 난투 하의" feature="PvPRankingDuelMode" />
+	<key id="11561049" class="pants" name="강화된 품위의 의식 하의" feature="PvPRankingDuelMode" />
 	<key id="11570047" class="" name="다크 스위프트 바지" feature="ItemExtraction" />
 	<key id="11570053" class="" name="쉐도우 스파이크 팬츠" feature="ItemExtraction" />
 	<key id="11570054" class="" name="디멘티드 타이 가드" feature="ItemExtraction" />
@@ -6792,7 +6854,9 @@
 	<key id="11600032" class="gloves" name="미들 헌팅 장갑" />
 	<key id="11600033" class="gloves" name="명사수 장갑" />
 	<key id="11600034" class="gloves" name="디자인 벙어리 장갑 (남)" />
+	<key id="11600034" class="gloves" name="디자인 손모아 장갑 (남)" locale="KR" />
 	<key id="11600035" class="gloves" name="디자인 벙어리 장갑 (여)" />
+	<key id="11600035" class="gloves" name="디자인 손모아 장갑 (여)" locale="KR" />
 	<key id="11600036" class="gloves" name="펑크 라이더 장갑" />
 	<key id="11600038" class="gloves" name="블랙 스파이크 밴드 (여)" />
 	<key id="11600039" class="gloves" name="스파이크 밴드 (여)" />
@@ -6870,7 +6934,9 @@
 	<key id="11600112" class="gloves" name="호루스 건틀릿" />
 	<key id="11600113" class="gloves" name="그리피나 건틀릿" />
 	<key id="11600114" class="gloves" name="니트 벙어리 장갑 (남)" />
+	<key id="11600114" class="gloves" name="도톰한 니트 장갑 (남)" locale="KR" />
 	<key id="11600115" class="gloves" name="니트 벙어리 장갑 (여)" />
+	<key id="11600115" class="gloves" name="도톰한 니트 장갑 (여)" locale="KR" />
 	<key id="11600116" class="gloves" name="데보라크의 장갑" />
 	<key id="11600117" class="gloves" name="크러스트 장갑" />
 	<key id="11600118" class="gloves" name="디비전 장갑" />
@@ -8060,6 +8126,9 @@
 	<key id="11601333" class="gloves" name="아쿠아 썸머 꽃게 팔찌 (남)" />
 	<key id="11601334" class="gloves" name="아쿠아 썸머 꽃게 팔찌 (여)" />
 	<key id="11601335" class="gloves" name="거친 바이킹 장갑" />
+	<key id="11601336" class="gloves" name="여름 축제 금붕어 반지 (남)" />
+	<key id="11601337" class="gloves" name="여름 축제 금붕어 반지 (여)" />
+	<key id="11601338" class="gloves" name="다크 판타지 장갑" />
 	<key id="11604684" class="gloves" name="아리솔 반지 (남)" />
 	<key id="11604685" class="gloves" name="아리솔 반지 (여)" />
 	<key id="11604686" class="gloves" name="샤인 스타 브레이슬릿 (남)" />
@@ -8076,8 +8145,8 @@
 	<key id="11604696" class="gloves" name="호루스 건틀릿" />
 	<key id="11604697" class="gloves" name="데보라크의 장갑" />
 	<key id="11604698" class="gloves" name="그리피나 건틀릿" />
-	<key id="11604699" class="gloves" name="오드리 튜튜 장갑 (남)" />
-	<key id="11604700" class="gloves" name="오드리 튜튜 장갑 (여)" />
+	<key id="11604699" class="gloves" name="오드리 튜튜 브레이슬릿 (남)" />
+	<key id="11604700" class="gloves" name="오드리 튜튜 브레이슬릿 (여)" />
 	<key id="11604701" class="gloves" name="일루셔니스트 다이아 장갑 (남)" />
 	<key id="11604702" class="gloves" name="일루셔니스트 다이아 장갑 (여)" />
 	<key id="11604703" class="gloves" name="오버 윈터 티타늄 링 (남)" />
@@ -8108,6 +8177,10 @@
 	<key id="11610014" class="gloves" name="웨딩데이 실버링 (여)" />
 	<key id="11610015" class="gloves" name="바니 플라워 토끼 반지 (남)" />
 	<key id="11610016" class="gloves" name="바니 플라워 토끼 반지 (여)" />
+	<key id="11610019" class="gloves" name="큐티 꽃장식 팔찌 (남)" />
+	<key id="11610020" class="gloves" name="큐티 꽃장식 팔찌 (여)" />
+	<key id="11610021" class="gloves" name="우주 스킨 장갑 (남)" />
+	<key id="11610022" class="gloves" name="우주 스킨 장갑 (여)" />
 	<key id="11610025" class="gloves" name="해피 슬라임 반지" />
 	<key id="11610026" class="gloves" name="정열의 별빛 반지 (남)" />
 	<key id="11610027" class="gloves" name="정열의 디스크 브레이슬릿 (여)" />
@@ -8576,6 +8649,17 @@
 	<key id="11661217" class="gloves" name="블랙퓨리티 레이지 클로 (룬블레이더)" feature="Level60Item" />
 	<key id="11661218" class="gloves" name="블랙퓨리티 레이지 클로 (스트라이커)" feature="Level60Item" />
 	<key id="11661219" class="gloves" name="블랙퓨리티 레이지 클로 (소울바인더)" feature="Level60Item" />
+	<key id="11661220" class="gloves" name="강화된 품위의 전투 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661221" class="gloves" name="강화된 품위의 광란 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661222" class="gloves" name="강화된 품위의 마법 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661223" class="gloves" name="강화된 품위의 신성 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661224" class="gloves" name="강화된 품위의 집중 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661225" class="gloves" name="강화된 품위의 포격 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661226" class="gloves" name="강화된 품위의 혼란 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661227" class="gloves" name="강화된 품위의 암살 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661228" class="gloves" name="강화된 품위의 주술 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661229" class="gloves" name="강화된 품위의 난투 장갑" feature="PvPRankingDuelMode" />
+	<key id="11661230" class="gloves" name="강화된 품위의 의식 장갑" feature="PvPRankingDuelMode" />
 	<key id="11670040" class="" name="다크 스위프트 핸드가드" feature="ItemExtraction" />
 	<key id="11670044" class="" name="샤이닝 위자드리 암슬리브" feature="ItemExtraction" />
 	<key id="11670045" class="" name="나이티지 리스트 가드" feature="ItemExtraction" />
@@ -10204,6 +10288,12 @@
 	<key id="11701436" class="shoes" name="거친 바이킹 신발" />
 	<key id="11701437" class="shoes" name="해변의 낭만 비치 샌들 (남)" />
 	<key id="11701438" class="shoes" name="해변의 낭만 비치 샌들 (여)" />
+	<key id="11701439" class="shoes" name="여름 축제 나막신 (남)" />
+	<key id="11701440" class="shoes" name="여름 축제 나막신 (여)" />
+	<key id="11701441" class="shoes" name="일본 여름 나막신 (남)" />
+	<key id="11701442" class="shoes" name="일본 여름 나막신 (여)" />
+	<key id="11701443" class="shoes" name="다크 판타지 신발" />
+	<key id="11701444" class="shoes" name="더키볼 유치원 슈즈" feature="Event" locale="JP" />
 	<key id="11709001" class="shoes" name="무딘 가죽 워 부츠" />
 	<key id="11709002" class="shoes" name="무딘 좀도둑 운동화" />
 	<key id="11709003" class="shoes" name="무딘 초보 마법사 구두" />
@@ -10232,8 +10322,8 @@
 	<key id="11710016" class="shoes" name="쿨링쿨링 마린 슈즈 (여)" />
 	<key id="11710017" class="shoes" name="펑키 카우보이 부츠 (남)" />
 	<key id="11710018" class="shoes" name="펑키 카우보이 부츠 (여)" />
-	<key id="11710019" class="shoes" name="오드리 튜튜 슈즈 (남)" />
-	<key id="11710020" class="shoes" name="오드리 튜튜 슈즈 (여)" />
+	<key id="11710019" class="shoes" name="오드리 튜튜 금장 슈즈 (남)" />
+	<key id="11710020" class="shoes" name="오드리 튜튜 스트랩 슈즈 (여)" />
 	<key id="11710021" class="shoes" name="일루셔니스트 다이아 부츠 (남)" />
 	<key id="11710022" class="shoes" name="일루셔니스트 다이아 부츠 (여)" />
 	<key id="11710023" class="shoes" name="알파인 스키 부츠 (남)" />
@@ -10244,6 +10334,10 @@
 	<key id="11710028" class="shoes" name="웨딩데이 유리알 구두 (여)" />
 	<key id="11710029" class="shoes" name="바니 플라워 토끼 부츠 (남)" />
 	<key id="11710030" class="shoes" name="바니 플라워 스트랩 구두 (여)" />
+	<key id="11710033" class="shoes" name="큐티 레이스 구두 (남)" />
+	<key id="11710034" class="shoes" name="큐티 레이스 구두 (여)" />
+	<key id="11710035" class="shoes" name="우주 스킨 신발 (남)" />
+	<key id="11710036" class="shoes" name="우주 스킨 신발 (여)" />
 	<key id="11710039" class="shoes" name="해피 슬라임 운동화" />
 	<key id="11710040" class="shoes" name="정열의 마리아치 구두 (남)" />
 	<key id="11710041" class="shoes" name="정열의 장미 스트랩 슈즈 (여)" />
@@ -10712,6 +10806,17 @@
 	<key id="11761298" class="shoes" name="블랙퓨리티 카발릭 부츠 (룬블레이더)" feature="Level60Item" />
 	<key id="11761299" class="shoes" name="블랙퓨리티 카발릭 부츠 (스트라이커)" feature="Level60Item" />
 	<key id="11761300" class="shoes" name="블랙퓨리티 카발릭 부츠 (소울바인더)" feature="Level60Item" />
+	<key id="11761301" class="shoes" name="강화된 품위의 전투 신발" feature="PvPRankingDuelMode" />
+	<key id="11761302" class="shoes" name="강화된 품위의 광란 신발" feature="PvPRankingDuelMode" />
+	<key id="11761303" class="shoes" name="강화된 품위의 마법 신발" feature="PvPRankingDuelMode" />
+	<key id="11761304" class="shoes" name="강화된 품위의 신성 신발" feature="PvPRankingDuelMode" />
+	<key id="11761305" class="shoes" name="강화된 품위의 집중 신발" feature="PvPRankingDuelMode" />
+	<key id="11761306" class="shoes" name="강화된 품위의 포격 신발" feature="PvPRankingDuelMode" />
+	<key id="11761307" class="shoes" name="강화된 품위의 혼란 신발" feature="PvPRankingDuelMode" />
+	<key id="11761308" class="shoes" name="강화된 품위의 암살 신발" feature="PvPRankingDuelMode" />
+	<key id="11761309" class="shoes" name="강화된 품위의 주술 신발" feature="PvPRankingDuelMode" />
+	<key id="11761310" class="shoes" name="강화된 품위의 난투 신발" feature="PvPRankingDuelMode" />
+	<key id="11761311" class="shoes" name="강화된 품위의 의식 신발" feature="PvPRankingDuelMode" />
 	<key id="11770059" class="" name="다크 스위프트 부츠" feature="ItemExtraction" />
 	<key id="11770064" class="" name="샤이닝 위자드리 부츠" feature="ItemExtraction" />
 	<key id="11770065" class="" name="나이티지 배틀 부츠" feature="ItemExtraction" />
@@ -11230,8 +11335,8 @@
 	<key id="11850158" class="mantle" name="키튼 리본 방울 꼬리 (여)" />
 	<key id="11850159" class="mantle" name="일루셔니스트 피죤 가렌더 (남)" />
 	<key id="11850160" class="mantle" name="일루셔니스트 피죤 가렌더 (여)" />
-	<key id="11850161" class="mantle" name="오드리 튜튜 망토 (남)" />
-	<key id="11850162" class="mantle" name="오드리 튜튜 망토 (여)" />
+	<key id="11850161" class="mantle" name="오드리 튜튜 깃털 망토 (남)" />
+	<key id="11850162" class="mantle" name="오드리 튜튜 깃털 망토 (여)" />
 	<key id="11850163" class="mantle" name="스노우 테일 글로우 윙 (남)" />
 	<key id="11850164" class="mantle" name="스노우 테일 글로우 윙 (여)" />
 	<key id="11850165" class="mantle" name="둥둥 달토끼" />
@@ -11255,6 +11360,10 @@
 	<key id="11850183" class="mantle" name="마법학교 견습생 망토 (여)" />
 	<key id="11850186" class="mantle" name="바니 플라워 무지개 망토 (남)" />
 	<key id="11850187" class="mantle" name="바니 플라워 무지개 망토 (여)" />
+	<key id="11850190" class="mantle" name="큐티 더키볼 삼색 풍선 망토 (남)" />
+	<key id="11850191" class="mantle" name="큐티 더키볼 삼색 풍선 망토 (여)" />
+	<key id="11850192" class="mantle" name="우주 스킨 망토 (남)" />
+	<key id="11850193" class="mantle" name="우주 스킨 망토 (여)" />
 	<key id="11850196" class="mantle" name="Razer 백팩" locale="NA" />
 	<key id="11850197" class="mantle" name="해피 슬라임 가방" />
 	<key id="11850198" class="mantle" name="빵빠레 베이비 엔젤" feature="Event" />
@@ -11305,6 +11414,8 @@
 	<key id="11850243" class="mantle" name="아이언 윙" locale="CN" />
 	<key id="11850244" class="mantle" name="아쿠아 썸머 열대어 망토" />
 	<key id="11850245" class="mantle" name="해변의 낭만 우쿨렐레" />
+	<key id="11850246" class="mantle" name="돼지 모기향 망토 (남)" />
+	<key id="11850247" class="mantle" name="돼지 모기향 망토 (여)" />
 	<key id="11860060" class="mantle" name="복제된 흉포의 망토" />
 	<key id="11860061" class="mantle" name="오색빛깔 무지개" />
 	<key id="11860062" class="mantle" name="해피 벌룬 푸들" />
@@ -11320,6 +11431,7 @@
 	<key id="11860120" class="mantle" name="블랙퓨리티 리버티윙" feature="Level60Item" />
 	<key id="11860121" class="mantle" name="마드라칸 군주의 그림자" feature="Level60Item" />
 	<key id="11860122" class="mantle" name="아리엘의 날개" feature="Level60Item" />
+	<key id="11860123" class="mantle" name="강화된 품위의 망토" feature="PvPRankingDuelMode" />
 	<key id="11880176" class="" name="플루토 망토" feature="ItemExtraction" />
 	<key id="11890008" class="" name="마크52 알파의 추진기" feature="ItemExtraction" />
 	<key id="11890009" class="" name="마크52 베타의 추진기" feature="ItemExtraction" />
@@ -11498,6 +11610,7 @@
 	<key id="11960120" class="necklace" name="센츄리온 오스 키퍼" feature="Level60Item" />
 	<key id="11960121" class="necklace" name="블랙퓨리티 넥클리스" feature="Level60Item" />
 	<key id="11960122" class="necklace" name="세이렌의 목걸이" feature="Level60Item" />
+	<key id="11960123" class="necklace" name="강화된 품위의 목걸이" feature="PvPRankingDuelMode" />
 	<key id="12000001" class="ring" name="능력의 반지" />
 	<key id="12000002" class="ring" name="정령의 반지" />
 	<key id="12000003" class="ring" name="루비 반지" />
@@ -11635,6 +11748,7 @@
 	<key id="12060108" class="ring" name="센츄리온 씰드 링" feature="Level60Item" />
 	<key id="12060109" class="ring" name="블랙퓨리티 크로스링" feature="Level60Item" />
 	<key id="12060110" class="ring" name="서리의 반지" feature="Level60Item" />
+	<key id="12060111" class="ring" name="강화된 품위의 반지" feature="PvPRankingDuelMode" />
 	<key id="12080000" class="ring" name="피눈물 반지" />
 	<key id="12080001" class="ring" name="피바람 반지" />
 	<key id="12080002" class="ring" name="피몰이 반지" />
@@ -11777,6 +11891,7 @@
 	<key id="12160109" class="belt" name="센츄리온 아너드 벨트" feature="Level60Item" />
 	<key id="12160110" class="belt" name="블랙퓨리티 벨트" feature="Level60Item" />
 	<key id="12160111" class="belt" name="눈보라의 벨트" feature="Level60Item" />
+	<key id="12160112" class="belt" name="강화된 품위의 벨트" feature="PvPRankingDuelMode" />
 	<key id="12200001" class="dress" name="초보 마법사 로브" />
 	<key id="12200002" class="dress" name="여행자 로브" />
 	<key id="12200003" class="dress" name="달빛 여행자 로브" />
@@ -12305,8 +12420,8 @@
 	<key id="12200530" class="dress" name="쿨링쿨링 마린 원피스 (여)" />
 	<key id="12200531" class="dress" name="펑키 카우보이 전신 (남)" />
 	<key id="12200532" class="dress" name="펑키 카우보이 원피스 (여)" />
-	<key id="12200533" class="dress" name="오드리 튜튜 슈트 (남)" />
-	<key id="12200534" class="dress" name="오드리 튜튜 슈트 (여)" />
+	<key id="12200533" class="dress" name="오드리 튜튜 발레 슈트 (남)" />
+	<key id="12200534" class="dress" name="오드리 튜튜 발레 원피스 (여)" />
 	<key id="12200535" class="dress" name="일루셔니스트 클래식 전신 (남)" />
 	<key id="12200536" class="dress" name="일루셔니스트 파티 드레스 (여)" />
 	<key id="12200537" class="dress" name="페리오닉 전통 의상 (남)" />
@@ -12345,6 +12460,10 @@
 	<key id="12200570" class="dress" name="웨딩데이 진주 드레스 (여)" />
 	<key id="12200571" class="dress" name="바니 플라워 레이어드 전신 (남)" />
 	<key id="12200572" class="dress" name="바니 플라워 레이어드 원피스 (여)" />
+	<key id="12200575" class="dress" name="큐티 케이프 데님 전신 (남)" />
+	<key id="12200576" class="dress" name="큐티 케이프 데님 원피스 (여)" />
+	<key id="12200577" class="dress" name="우주 스킨 전신 (남)" />
+	<key id="12200578" class="dress" name="우주 스킨 전신 (여)" />
 	<key id="12200581" class="dress" name="해피 슬라임 캐쥬얼 슈트" />
 	<key id="12200582" class="dress" name="오버 윈터 모직 숏코트 의상 (남)" />
 	<key id="12200583" class="dress" name="오버 윈터 모직 숏코트 의상 (여)" />
@@ -12418,6 +12537,11 @@
 	<key id="12200651" class="dress" name="체크 자켓 스키니 진 (여)" />
 	<key id="12200652" class="dress" name="해변의 낭만 비치 로브 (남)" />
 	<key id="12200653" class="dress" name="해변의 낭만 비치 로브 (여)" />
+	<key id="12200654" class="dress" name="여름 축제 의상 (남)" />
+	<key id="12200655" class="dress" name="여름 축제 의상 (여)" />
+	<key id="12200656" class="dress" name="일본 여름 전통 의상 (남)" />
+	<key id="12200657" class="dress" name="일본 여름 전통 의상 (여)" />
+	<key id="12200658" class="dress" name="더키볼 유치원 슈트" feature="Event" locale="JP" />
 	<key id="12209999" class="dress" name="블러드 레퀴엠 전신옷" />
 	<key id="12230024" class="dress" name="샤이닝 위자드리 코트" />
 	<key id="12230025" class="dress" name="나이티지 숄더 메일" />
@@ -12927,6 +13051,7 @@
 	<key id="13100319" class="dagger" name="디자인 웨이브 대거 (단검)" />
 	<key id="13100320" class="dagger" name="강화된 품위의 대거" feature="Level70Item" />
 	<key id="13100321" class="dagger" name="퐁퐁이냥 단검" />
+	<key id="13100323" class="dagger" name="다크 판타지 대거" />
 	<key id="13130036" class="dagger" name="황금빛 태극부채" />
 	<key id="13130042" class="dagger" name="킨 나이프" />
 	<key id="13130043" class="dagger" name="이올릿 대거" />
@@ -12983,6 +13108,7 @@
 	<key id="13160305" class="dagger" name="에일리온 샤프 포인트" feature="Level60Item" />
 	<key id="13160306" class="dagger" name="블랙 뱅가드 쉐도우 나이프" feature="Level60Item" />
 	<key id="13160307" class="dagger" name="블랙퓨리티 라펜도우 대거" feature="Level60Item" />
+	<key id="13160308" class="dagger" name="강화된 품위의 대거" feature="PvPRankingDuelMode" />
 	<key id="13170045" class="" name="금장 이올릿 대거" feature="ItemExtraction" />
 	<key id="13170054" class="dagger" name="희미한 패링 대거" />
 	<key id="13180045" class="" name="빛나는 금장 이올릿 대거" feature="ItemExtraction" />
@@ -13332,6 +13458,7 @@
 	<key id="13200314" class="longsword" name="디자인 폴첸 (롱소드)" />
 	<key id="13200315" class="longsword" name="강화된 품위의 롱소드" feature="Level70Item" />
 	<key id="13200316" class="longsword" name="퐁퐁이냥 롱소드" />
+	<key id="13200318" class="longsword" name="다크 판타지 롱소드" />
 	<key id="13209001" class="longsword" name="낡은 스파타" />
 	<key id="13230042" class="longsword" name="기사단 장검" />
 	<key id="13230044" class="longsword" name="광휘의 강철 장검" />
@@ -13389,6 +13516,7 @@
 	<key id="13260300" class="longsword" name="에일리온 인베이더 소드" feature="Level60Item" />
 	<key id="13260301" class="longsword" name="블랙 뱅가드 글라디우스" feature="Level60Item" />
 	<key id="13260302" class="longsword" name="블랙퓨리티 라펜티움 소드" feature="Level60Item" />
+	<key id="13260303" class="longsword" name="강화된 품위의 롱소드" feature="PvPRankingDuelMode" />
 	<key id="13270046" class="" name="광휘의 흑철 장검" feature="ItemExtraction" />
 	<key id="13270057" class="longsword" name="희미한 퍼멀 롱소드" />
 	<key id="13280046" class="" name="빛나는 광휘의 흑철 장검" feature="ItemExtraction" />
@@ -13734,6 +13862,7 @@
 	<key id="13300311" class="scepter" name="황금 사자 홀 (홀)" />
 	<key id="13300314" class="scepter" name="강화된 품위의 홀" feature="Level70Item" />
 	<key id="13300315" class="scepter" name="퐁퐁이냥 홀" />
+	<key id="13300317" class="scepter" name="다크 판타지 홀" />
 	<key id="13330033" class="scepter" name="승리의 홀" />
 	<key id="13330038" class="scepter" name="실버 프라임 홀" />
 	<key id="13330039" class="scepter" name="브론즈 타이니벨 셉터" />
@@ -13790,6 +13919,7 @@
 	<key id="13360299" class="scepter" name="에일리온 갤럭시 완드" feature="Level60Item" />
 	<key id="13360300" class="scepter" name="블랙 뱅가드 다크 완드" feature="Level60Item" />
 	<key id="13360301" class="scepter" name="블랙퓨리티 라펜스펠 완드" feature="Level60Item" />
+	<key id="13360302" class="scepter" name="강화된 품위의 홀" feature="PvPRankingDuelMode" />
 	<key id="13370041" class="" name="골드 타이니벨 셉터" feature="ItemExtraction" />
 	<key id="13370049" class="scepter" name="희미한 크로스 홀" />
 	<key id="13380041" class="" name="빛나는 골드 타이니벨 셉터" feature="ItemExtraction" />
@@ -14139,6 +14269,7 @@
 	<key id="13400310" class="javelin" name="황금 사자 표창 (표창)" />
 	<key id="13400313" class="javelin" name="강화된 품위의 표창" feature="Level70Item" />
 	<key id="13400314" class="javelin" name="퐁퐁이냥 표창" />
+	<key id="13400316" class="javelin" name="다크 판타지 표창" />
 	<key id="13430035" class="javelin" name="관통 수리검" />
 	<key id="13430039" class="javelin" name="상아색 선회 표창" />
 	<key id="13430040" class="javelin" name="검은테 표창" />
@@ -14195,6 +14326,7 @@
 	<key id="13460298" class="javelin" name="에일리온 데들리 데브리" feature="Level60Item" />
 	<key id="13460299" class="javelin" name="블랙 뱅가드 그림 리퍼" feature="Level60Item" />
 	<key id="13460300" class="javelin" name="블랙퓨리티 라펜도우 스톰" feature="Level60Item" />
+	<key id="13460301" class="javelin" name="강화된 품위의 표창" feature="PvPRankingDuelMode" />
 	<key id="13470042" class="" name="은빛테 표창" feature="ItemExtraction" />
 	<key id="13470050" class="javelin" name="희미한 크로스 스타" />
 	<key id="13480042" class="" name="빛나는 은빛테 표창" feature="ItemExtraction" />
@@ -14505,6 +14637,7 @@
 	<key id="14000273" class="book" name="황금 사자 법전 (법전)" />
 	<key id="14000276" class="book" name="강화된 품위의 법전" feature="Level70Item" />
 	<key id="14000277" class="book" name="퐁퐁이냥 법전" />
+	<key id="14000279" class="book" name="다크 판타지 법전" />
 	<key id="14030028" class="book" name="유니티 스크롤" />
 	<key id="14030030" class="book" name="골든 위즈 코덱스" />
 	<key id="14030031" class="book" name="블랙 위즈 코덱스" />
@@ -14561,6 +14694,7 @@
 	<key id="14060261" class="book" name="에일리온 패러독스 노트" feature="Level60Item" />
 	<key id="14060262" class="book" name="블랙 뱅가드 리인카스 북" feature="Level60Item" />
 	<key id="14060263" class="book" name="블랙퓨리티 라펜스펠 북" feature="Level60Item" />
+	<key id="14060264" class="book" name="강화된 품위의 법전" feature="PvPRankingDuelMode" />
 	<key id="14070031" class="" name="블랙 위즈 코덱스" feature="ItemExtraction" />
 	<key id="14070043" class="book" name="희미한 블레시드 스크롤" />
 	<key id="14080031" class="" name="빛나는 블랙 위즈 코덱스" feature="ItemExtraction" />
@@ -14876,6 +15010,7 @@
 	<key id="14100284" class="shield" name="디자인 버클러 (방패)" />
 	<key id="14100285" class="shield" name="강화된 품위의 방패" feature="Level70Item" />
 	<key id="14100286" class="shield" name="퐁퐁이냥 방패" />
+	<key id="14100288" class="shield" name="다크 판타지 방패" />
 	<key id="14130036" class="shield" name="인듀어 실드" />
 	<key id="14130039" class="shield" name="광휘의 강철 방패" />
 	<key id="14130042" class="shield" name="금빛 몰타 실드" />
@@ -14932,6 +15067,7 @@
 	<key id="14160270" class="shield" name="에일리온 리플렉트 쉴드" feature="Level60Item" />
 	<key id="14160271" class="shield" name="블랙 뱅가드 캐슬 쉴드" feature="Level60Item" />
 	<key id="14160272" class="shield" name="블랙퓨리티 라펜티움 실드" feature="Level60Item" />
+	<key id="14160273" class="shield" name="강화된 품위의 방패" feature="PvPRankingDuelMode" />
 	<key id="14170044" class="" name="광휘의 흑철 방패" feature="ItemExtraction" />
 	<key id="14170052" class="shield" name="희미한 케틀 실드" />
 	<key id="14180044" class="" name="빛나는 광휘의 흑철 방패" feature="ItemExtraction" />
@@ -15284,6 +15420,7 @@
 	<key id="15000316" class="large sword" name="황금 사자 라지소드 (라지소드)" />
 	<key id="15000319" class="large sword" name="강화된 품위의 대검" feature="Level70Item" />
 	<key id="15000320" class="large sword" name="퐁퐁이냥 라지소드" />
+	<key id="15000322" class="large sword" name="다크 판타지 대검" />
 	<key id="15030040" class="large sword" name="브루탈 소드" />
 	<key id="15030042" class="large sword" name="보이드 대검" />
 	<key id="15030043" class="large sword" name="황혼의 보이드 대검" />
@@ -15340,6 +15477,7 @@
 	<key id="15060304" class="large sword" name="에일리온 데바스터 라지 소드" feature="Level60Item" />
 	<key id="15060305" class="large sword" name="블랙 뱅가드 드레드 소드" feature="Level60Item" />
 	<key id="15060306" class="large sword" name="블랙퓨리티 라펜티움 엣지" feature="Level60Item" />
+	<key id="15060307" class="large sword" name="강화된 품위의 대검" feature="PvPRankingDuelMode" />
 	<key id="15070044" class="" name="새벽의 보이드 대검" feature="ItemExtraction" />
 	<key id="15070055" class="large sword" name="희미한 포인티드 라지소드" />
 	<key id="15080044" class="" name="빛나는 새벽의 보이드 대검" feature="ItemExtraction" />
@@ -15686,6 +15824,7 @@
 	<key id="15100310" class="bow" name="디자인 리커브 (활)" />
 	<key id="15100311" class="bow" name="강화된 품위의 활" feature="Level70Item" />
 	<key id="15100312" class="bow" name="퐁퐁이냥 활" />
+	<key id="15100314" class="bow" name="다크 판타지 활" />
 	<key id="15109001" class="bow" name="낡은 트윅 보우" />
 	<key id="15130038" class="bow" name="호밍 헌터보우" />
 	<key id="15130042" class="bow" name="메탈릭 피니언 보우" />
@@ -15743,6 +15882,7 @@
 	<key id="15160296" class="bow" name="에일리온 애로우 코멧트" feature="Level60Item" />
 	<key id="15160297" class="bow" name="블랙 뱅가드 커스드 보우" feature="Level60Item" />
 	<key id="15160298" class="bow" name="블랙퓨리티 라펜시어 보우" feature="Level60Item" />
+	<key id="15160299" class="bow" name="강화된 품위의 활" feature="PvPRankingDuelMode" />
 	<key id="15170045" class="" name="블랙웜 보우" feature="ItemExtraction" />
 	<key id="15170053" class="bow" name="희미한 태핑 보우" />
 	<key id="15180045" class="" name="빛나는 블랙웜 보우" feature="ItemExtraction" />
@@ -16095,6 +16235,7 @@
 	<key id="15200315" class="staff" name="황금 사자 스태프 (스태프)" />
 	<key id="15200318" class="staff" name="강화된 품위의 스태프" feature="Level70Item" />
 	<key id="15200319" class="staff" name="퐁퐁이냥 스태프" />
+	<key id="15200321" class="staff" name="다크 판타지 스태프" />
 	<key id="15209001" class="staff" name="낡은 견습 스태프" />
 	<key id="15230036" class="staff" name="인텔리전트 스태프" />
 	<key id="15230038" class="staff" name="어스웜 스태프" />
@@ -16152,6 +16293,7 @@
 	<key id="15260303" class="staff" name="에일리온 호라이즌 스태프" feature="Level60Item" />
 	<key id="15260304" class="staff" name="블랙 뱅가드 메이지 액스" feature="Level60Item" />
 	<key id="15260305" class="staff" name="블랙퓨리티 라펜스펠 스태프" feature="Level60Item" />
+	<key id="15260306" class="staff" name="강화된 품위의 스태프" feature="PvPRankingDuelMode" />
 	<key id="15270040" class="" name="블랙웜 스태프" feature="ItemExtraction" />
 	<key id="15270051" class="staff" name="희미한 윙드 스태프" />
 	<key id="15280040" class="" name="빛나는 블랙웜 스태프" feature="ItemExtraction" />
@@ -16502,6 +16644,7 @@
 	<key id="15300311" class="cannon" name="황금 사자 캐논 (캐논)" />
 	<key id="15300314" class="cannon" name="강화된 품위의 캐논" feature="Level70Item" />
 	<key id="15300315" class="cannon" name="퐁퐁이냥 캐논" />
+	<key id="15300317" class="cannon" name="다크 판타지 캐논" />
 	<key id="15330035" class="cannon" name="블로우 캐논" />
 	<key id="15330037" class="cannon" name="브라운 스파이럴 캐논" />
 	<key id="15330038" class="cannon" name="블랙 스파이럴 캐논" />
@@ -16558,6 +16701,7 @@
 	<key id="15360299" class="cannon" name="에일리온 플래닛 버스터" feature="Level60Item" />
 	<key id="15360300" class="cannon" name="블랙 뱅가드 시즈 엔진" feature="Level60Item" />
 	<key id="15360301" class="cannon" name="블랙퓨리티 라펜시어 캐논" feature="Level60Item" />
+	<key id="15360302" class="cannon" name="강화된 품위의 캐논" feature="PvPRankingDuelMode" />
 	<key id="15370039" class="" name="메탈 스파이럴 캐논" feature="ItemExtraction" />
 	<key id="15370050" class="cannon" name="희미한 봄버 캐논" />
 	<key id="15380039" class="" name="빛나는 메탈 스파이럴 캐논" feature="ItemExtraction" />
@@ -16778,6 +16922,7 @@
 	<key id="15400180" class="blade" name="브라이트 스타 블레이드" />
 	<key id="15400181" class="blade" name="바다의 빛 블레이드" />
 	<key id="15400182" class="blade" name="엘리트 어드벤쳐 블레이드" feature="Level60Item" />
+	<key id="15400183" class="blade" name="다크 판타지 블레이드" />
 	<key id="15400200" class="blade" name="(PC방) 베이직 블레이드" />
 	<key id="15400201" class="blade" name="(PC방) 룬 블레이드" />
 	<key id="15400202" class="blade" name="(PC방) 참 블레이드" />
@@ -16932,6 +17077,7 @@
 	<key id="15460184" class="blade" name="에일리온 어나힐 블레이드" feature="Level60Item" />
 	<key id="15460185" class="blade" name="블랙 뱅가드 데슬라이서" feature="Level60Item" />
 	<key id="15460186" class="blade" name="블랙퓨리티 라펜티움 블레이드" feature="Level60Item" />
+	<key id="15460187" class="blade" name="강화된 품위의 블레이드" feature="PvPRankingDuelMode" />
 	<key id="15470044" class="blade" name="희미한 하몬 블레이드" />
 	<key id="15470085" class="" name="새벽의 릿지 블레이드" feature="ItemExtraction" />
 	<key id="15480085" class="" name="빛나는 새벽의 릿지 블레이드" feature="ItemExtraction" />
@@ -17190,6 +17336,7 @@
 	<key id="15500226" class="knuckle" name="타이렌 로열 너클" feature="Level70Item" />
 	<key id="15500227" class="knuckle" name="엘리트 어드벤쳐 너클" feature="Level70Item" />
 	<key id="15500228" class="knuckle" name="퐁퐁이냥 너클" />
+	<key id="15500229" class="knuckle" name="다크 판타지 너클" />
 	<key id="15500501" class="knuckle" name="야옹야옹 너클 (너클)" feature="Striker" />
 	<key id="15500502" class="knuckle" name="쿨 샤크 너클 (너클)" feature="Striker" />
 	<key id="15500503" class="knuckle" name="빨간 바닷가재 (너클)" feature="Striker" />
@@ -17287,6 +17434,7 @@
 	<key id="15560221" class="knuckle" name="에일리온 메테오 너클" feature="Level60Item" />
 	<key id="15560222" class="knuckle" name="블랙 뱅가드 램 핸드" feature="Level60Item" />
 	<key id="15560223" class="knuckle" name="블랙퓨리티 라펜도우 너클" feature="Level60Item" />
+	<key id="15560224" class="knuckle" name="강화된 품위의 너클" feature="PvPRankingDuelMode" />
 	<key id="15570021" class="knuckle" name="희미한 블레디드 너클" />
 	<key id="15570062" class="" name="새벽의 릿지 너클" feature="ItemExtraction" />
 	<key id="15580062" class="" name="빛나는 새벽의 릿지 너클" feature="ItemExtraction" />
@@ -17546,6 +17694,7 @@
 	<key id="15600228" class="orb" name="타이렌 로열 스피릿" feature="Level70Item" />
 	<key id="15600229" class="orb" name="엘리트 어드벤쳐 오브" feature="Level70Item" />
 	<key id="15600230" class="orb" name="퐁퐁이냥 오브" />
+	<key id="15600231" class="orb" name="다크 판타지 오브" />
 	<key id="15600501" class="orb" name="이프리트 크리스탈 오브 (오브)" feature="SoulBinder" />
 	<key id="15600502" class="orb" name="달달한 컵케이크 (오브)" feature="SoulBinder" />
 	<key id="15600503" class="orb" name="시원한 수박화채 (오브)" feature="SoulBinder" />
@@ -17636,6 +17785,7 @@
 	<key id="15660225" class="orb" name="에일리온 웜 스피어" feature="Level60Item" />
 	<key id="15660226" class="orb" name="블랙 뱅가드 둠드 소울" feature="Level60Item" />
 	<key id="15660227" class="orb" name="블랙퓨리티 라펜스펠 오브" feature="Level60Item" />
+	<key id="15660228" class="orb" name="강화된 품위의 오브" feature="PvPRankingDuelMode" />
 	<key id="15670021" class="orb" name="희미한 곡옥 오브" />
 	<key id="15670062" class="" name="새벽의 릿지 오브" feature="ItemExtraction" />
 	<key id="15680062" class="" name="빛나는 새벽의 릿지 오브" feature="ItemExtraction" />
@@ -17876,6 +18026,9 @@
 	<key id="19100084" class="instrument" name="골드스타 큰북 (본)" feature="DrumInstrument" />
 	<key id="19100085" class="instrument" name="골드스타 작은북 (본)" feature="DrumInstrument" />
 	<key id="19100086" class="instrument" name="골드스타 심벌즈 (본)" feature="DrumInstrument" />
+	<key id="19100087" class="instrument" name="단풍 풍류 샤미센 (본)" />
+	<key id="19100088" class="instrument" name="동백 풍류 고토 (본)" />
+	<key id="19100089" class="instrument" name="대나무 풍류 사쿠하치 (본)" />
 	<key id="20000004" class="consume" name="엘릭서" />
 	<key id="20000013" class="consume" name="거북이 알" />
 	<key id="20000014" class="consume" name="전투 식량" />
@@ -19017,6 +19170,10 @@
 	<key id="20001311" class="consume" name="엘릭서" feature="Event" />
 	<key id="20001312" class="consume" name="고독한 짜장면" feature="Event" />
 	<key id="20001313" class="consume" name="화려한 깃털 폭죽" />
+	<key id="20001314" class="consume" name="60레벨 레벨업 포션" feature="Event" locale="NA" />
+	<key id="20001315" class="consume" name="칭호 : 스타트 대시" feature="Event" locale="JP" />
+	<key id="20001316" class="consume" name="달콤한 더키 떡" feature="Event" locale="JP" />
+	<key id="20001317" class="consume" name="쌉싸름 더키 떡" feature="Event" locale="JP" />
 	<key id="20200001" class="consume" name="액션 수강증 : 기합" />
 	<key id="20200002" class="consume" name="액션 수강증 : 몰라" />
 	<key id="20200003" class="consume" name="액션 수강증 : 자랑" />
@@ -19127,7 +19284,10 @@
 	<key id="20200108" class="consume" name="액션 수강증 : 스텝 셔플 댄스" />
 	<key id="20200109" class="consume" name="액션 수강증 : 열공모드" />
 	<key id="20200110" class="consume" name="액션 수강증 : 찰칵찰칵 인생샷!" />
+	<key id="20200111" class="consume" name="액션 수강증 : 우주공간" />
 	<key id="20200113" class="consume" name="액션 수강증 : 변신! 히어로 등장" />
+	<key id="20200114" class="consume" name="액션 수강증 : 살랑살랑 마리아치 댄스" />
+	<key id="20200115" class="consume" name="액션 수강증 : 손을 잡고 빙글빙글" />
 	<key id="20200120" class="consume" name="액션 수강증 : 변신! 이번엔 내 차례" />
 	<key id="20200121" class="consume" name="액션 수강증 : 변신! 이몸등장" />
 	<key id="20200122" class="consume" name="액션 수강증 : 메이슨 따라쟁이" feature="Kritias_2018_12" />
@@ -19137,6 +19297,8 @@
 	<key id="20200126" class="consume" name="액션 수강증 : 인싸댄스" />
 	<key id="20200127" class="consume" name="액션 수강증 : 알베르토빈의 트레이닝" feature="Colosseum01" />
 	<key id="20200128" class="consume" name="액션 수강증 : 벚꽃 나무 아래서" feature="Event" />
+	<key id="20200129" class="consume" name="액션 수강증 : 마주 보고 빙글빙글" />
+	<key id="20200130" class="consume" name="액션 수강증 : OBT 축하해" feature="Event" locale="JP" />
 	<key id="20210001" class="consume" name="2인 액션 수강증 : 포옹" />
 	<key id="20210002" class="consume" name="2인 액션 수강증 : 주먹 인사" />
 	<key id="20210003" class="consume" name="2인 액션 수강증 : 첫눈" />
@@ -19160,7 +19322,9 @@
 	<key id="20210020" class="consume" name="2인 액션 수강증 : 캔디 러브" />
 	<key id="20210021" class="consume" name="2인 액션 수강증 : 서프라이즈 에그" />
 	<key id="20210022" class="consume" name="2인 액션 수강증 : 커플 소풍" />
+	<key id="20210024" class="consume" name="2인 액션 수강증 : 유니콘 회전목마" />
 	<key id="20210027" class="consume" name="2인 액션 수강증 : 눈물 젖은 사탕" />
+	<key id="20210028" class="consume" name="2인 액션 수강증 : 빙글빙글 손뼉춤" />
 	<key id="20300001" class="consume" name="메이플 쿠폰" />
 	<key id="20300002" class="consume" name="777 웰컴 팩" />
 	<key id="20300003" class="consume" name="로터스 무전기" />
@@ -21791,7 +21955,7 @@
 	<key id="20302585" class="package" name="블랙샤드 체임버 S랭크 보상 상자" feature="LapentaDungeon" />
 	<key id="20302586" class="package" name="블랙샤드 체임버 S+랭크 보상 상자" feature="LapentaDungeon" />
 	<key id="20302587" class="package" name="블랙퓨리티 액세서리 랜덤 상자" feature="Level60Item" />
-	<key id="20302588" class="consume" name="아기자기 힐링캣 카페" />
+	<key id="20302588" class="consume" name="건설 패키지 : 아기자기 힐링캣 카페" />
 	<key id="20302589" class="consume" name="화려한 깃털 폭죽 패키지" locale="CN" />
 	<key id="20302590" class="consume" name="화려한 미스터리 박스" />
 	<key id="20302591" class="consume" name="화려한 깃털 열쇠" />
@@ -21803,7 +21967,41 @@
 	<key id="20302597" class="package" name="역전! 뷰티 상자" feature="Event" locale="KR" />
 	<key id="20302598" class="package" name="역전! 메소 상자" feature="Event" locale="KR" />
 	<key id="20302599" class="package" name="역전! 럭코 상자" feature="Event" locale="KR" />
+	<key id="20302600" class="package" name="스탬프 투어 선물 상자" feature="Event" locale="NA" />
 	<key id="20302601" class="consume" name="일일 임무 즉시 완료권" feature="Event" />
+	<key id="20302602" class="consume" name="물뿌리개" feature="Event" locale="CN" />
+	<key id="20302604" class="package" name="복귀 유저 보상 스크롤" feature="Event" locale="NA" />
+	<key id="20302605" class="package" name="사전 예약 보상 스크롤" feature="Event" locale="NA" />
+	<key id="20302606" class="package" name="메럿 패키지 : 100메럿" locale="JP" />
+	<key id="20302607" class="package" name="메럿 패키지 : 500메럿" locale="JP" />
+	<key id="20302608" class="package" name="메럿 패키지 : 2,500메럿" locale="JP" />
+	<key id="20302609" class="package" name="메럿 패키지 : 5,000메럿" locale="JP" />
+	<key id="20302610" class="package" name="메럿 패키지 : 10,000메럿" locale="JP" />
+	<key id="20302611" class="package" name="Lv.60 패키지" feature="Event" locale="NA" />
+	<key id="20302612" class="package" name="(이벤트) Lv.60 엑설런트 무기 선택 상자" feature="Event" locale="NA" />
+	<key id="20302613" class="package" name="(이벤트) Lv.60 엑설런트 상의 하의 선택 상자" feature="Event" locale="NA" />
+	<key id="20302614" class="package" name="50레벨 엑설런트 액세서리 옵션 변경권 선택 상자" />
+	<key id="20302618" class="package" name="행운의 클로버 패키지" locale="CN" />
+	<key id="20302619" class="package" name="젬스톤 더스트 선택상자" />
+	<key id="20302620" class="package" name="작은 더스트 선택상자" />
+	<key id="20302621" class="consume" name="퐁퐁이냥 웨폰 박스" />
+	<key id="20302622" class="consume" name="(프리미엄) 버라이어티 랜덤 박스 조각" locale="JP" />
+	<key id="20302623" class="consume" name="아바타 랜덤 박스" locale="JP" />
+	<key id="20302624" class="consume" name="스펙 랜덤 박스" locale="JP" />
+	<key id="20302625" class="consume" name="버라이어티 랜덤 박스" locale="JP" />
+	<key id="20302626" class="consume" name="메타 코어" feature="GemMeta" locale="KR" />
+	<key id="20302629" class="package" name="넥슨캐시 티켓 랜덤상자 (1회차)" feature="Event" locale="KR" />
+	<key id="20302630" class="package" name="넥슨캐시 티켓 랜덤상자 (2회차)" feature="Event" locale="KR" />
+	<key id="20302631" class="package" name="메이플 월드 매일 보상 스크롤" feature="Event" locale="JP" />
+	<key id="20302632" class="package" name="빛나는 해피 슬라임 스킨 상자" feature="Event" locale="JP" />
+	<key id="20302633" class="package" name="슈테판의 악보 상자" feature="Event" locale="JP" />
+	<key id="20302634" class="consume" name="오픈 기념 매일 보상 스크롤" locale="JP" />
+	<key id="20302635" class="consume" name="초월의 모래시계" feature="Event" locale="JP" />
+	<key id="20302636" class="package" name="건설 패키지 : 꽃 피는 여름" locale="JP" />
+	<key id="20302641" class="consume" name="건설 패키지 : 스윗 파티룸" locale="JP" />
+	<key id="20302642" class="consume" name="건설 패키지 : 모던 카페" locale="JP" />
+	<key id="20302644" class="consume" name="칭호 : 메이플 지킴이" feature="Event" locale="JP" />
+	<key id="20302647" class="package" name="로터스 무전기 상자" feature="Event" locale="KR" />
 	<key id="20400001" class="PetConsume" name="올가닉 컴패니언 쿠키 7kg" />
 	<key id="20400002" class="PetConsume" name="올가닉 컴패니언 쿠키 30kg" />
 	<key id="20400003" class="PetConsume" name="올가닉 컴패니언 쿠키 90kg" />
@@ -23316,6 +23514,22 @@
 	<key id="30001345" class="etc" name="펫 추가 능력 2개 고정 캔디" feature="PetRemakeBlock02" />
 	<key id="30001346" class="etc" name="펫 추가 능력 2개 고정 캔디" feature="PetRemakeBlock02" />
 	<key id="30001347" class="etc" name="펫 추가 능력 3개 고정 캔디" feature="PetRemakeBlock02" locale="KR" />
+	<key id="30001351" class="etc" name="펫 추가 능력 2개 고정 캔디" feature="PetRemakeBlock02" locale="CN" />
+	<key id="30001352" class="etc" name="반짝이는 벚꽃잎" feature="Event" locale="CN" />
+	<key id="30001369" class="etc" name="넥슨캐시 티켓 조각" feature="Event" locale="KR" />
+	<key id="30001370" class="etc" name="넥슨캐시 티켓 : 10원" feature="Event" locale="KR" />
+	<key id="30001371" class="etc" name="넥슨캐시 티켓 : 100원" feature="Event" locale="KR" />
+	<key id="30001372" class="etc" name="넥슨캐시 티켓 : 1,000원" feature="Event" locale="KR" />
+	<key id="30001373" class="etc" name="넥슨캐시 티켓 : 5,000원" feature="Event" locale="KR" />
+	<key id="30001374" class="etc" name="넥슨캐시 티켓 : 10,000원" feature="Event" locale="KR" />
+	<key id="30001375" class="etc" name="넥슨캐시 티켓 : 30,000원" feature="Event" locale="KR" />
+	<key id="30001377" class="mission" name="색종이" feature="Event" locale="KR" />
+	<key id="30001378" class="mission" name="뾰족핀" feature="Event" locale="KR" />
+	<key id="30001379" class="mission" name="수수깡" feature="Event" locale="KR" />
+	<key id="30001380" class="mission" name="바람개비" feature="Event" locale="KR" />
+	<key id="30001381" class="mission" name="메이플 코인" feature="Event" locale="JP" />
+	<key id="30001382" class="etc" name="넥슨캐시 티켓 : 300원" feature="Event" locale="KR" />
+	<key id="30001384" class="etc" name="아바타 코인" locale="JP" />
 	<key id="30050859" class="enchant" name="옵션 고정 주문서 (무기)" feature="OptionBlock02" />
 	<key id="30050860" class="enchant" name="옵션 고정 주문서 (방어구)" feature="OptionBlock02" />
 	<key id="30050889" class="enchant" name="옵션 고정 주문서 (액세서리)" feature="OptionBlock02" />
@@ -23338,6 +23552,7 @@
 	<key id="30061166" class="etc" name="크리미 화이트 초콜릿 상자" locale="CN" />
 	<key id="30061167" class="etc" name="하트 데코 스프링클" locale="CN" />
 	<key id="30061168" class="etc" name="하트 데코 스프링클" locale="CN" />
+	<key id="30061169" class="etc" name="토드의 연마석 (기간제)" feature="EnchantReformation01" locale="NA" />
 	<key id="31000001" class="enchant" name="1단계 하급 인챈트 주문서" />
 	<key id="31000002" class="enchant" name="2단계 하급 인챈트 주문서" />
 	<key id="31000003" class="enchant" name="3단계 하급 인챈트 주문서" />
@@ -24497,6 +24712,258 @@
 	<key id="31001655" class="enchant" name="60레벨 레전더리 귀고리 옵션 수치 변경권" feature="Level60Item" />
 	<key id="31001656" class="enchant" name="60레벨 레전더리 목걸이 옵션 수치 변경권" feature="Level60Item" />
 	<key id="31001657" class="enchant" name="60레벨 레전더리 반지 옵션 수치 변경권" feature="Level60Item" />
+	<key id="31001658" class="enchant" name="10단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001659" class="enchant" name="11단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001660" class="enchant" name="12단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001661" class="enchant" name="13단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001662" class="enchant" name="14단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001663" class="enchant" name="15단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001664" class="enchant" name="10단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001665" class="enchant" name="11단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001666" class="enchant" name="12단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001667" class="enchant" name="13단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001668" class="enchant" name="14단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001669" class="enchant" name="15단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001670" class="enchant" name="10단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001671" class="enchant" name="11단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001672" class="enchant" name="12단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001673" class="enchant" name="13단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001674" class="enchant" name="14단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001675" class="enchant" name="15단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001676" class="enchant" name="10단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001677" class="enchant" name="11단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001678" class="enchant" name="12단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001679" class="enchant" name="13단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001680" class="enchant" name="14단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001681" class="enchant" name="15단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001682" class="enchant" name="10단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001683" class="enchant" name="11단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001684" class="enchant" name="12단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001685" class="enchant" name="13단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001686" class="enchant" name="14단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001687" class="enchant" name="15단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001688" class="enchant" name="10단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001689" class="enchant" name="11단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001690" class="enchant" name="12단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001691" class="enchant" name="13단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001692" class="enchant" name="14단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001693" class="enchant" name="15단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001694" class="enchant" name="10단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001695" class="enchant" name="11단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001696" class="enchant" name="12단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001697" class="enchant" name="13단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001698" class="enchant" name="14단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001699" class="enchant" name="15단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001700" class="enchant" name="10단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001701" class="enchant" name="11단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001702" class="enchant" name="12단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001703" class="enchant" name="13단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001704" class="enchant" name="14단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001705" class="enchant" name="15단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001706" class="enchant" name="10단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001707" class="enchant" name="11단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001708" class="enchant" name="12단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001709" class="enchant" name="13단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001710" class="enchant" name="14단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001711" class="enchant" name="15단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001712" class="enchant" name="10단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001713" class="enchant" name="11단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001714" class="enchant" name="12단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001715" class="enchant" name="13단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001716" class="enchant" name="14단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001717" class="enchant" name="15단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001718" class="enchant" name="10단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001719" class="enchant" name="11단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001720" class="enchant" name="12단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001721" class="enchant" name="13단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001722" class="enchant" name="14단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001723" class="enchant" name="15단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001724" class="enchant" name="10단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001725" class="enchant" name="11단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001726" class="enchant" name="12단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001727" class="enchant" name="13단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001728" class="enchant" name="14단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001729" class="enchant" name="15단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001730" class="enchant" name="10단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001731" class="enchant" name="11단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001732" class="enchant" name="12단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001733" class="enchant" name="13단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001734" class="enchant" name="14단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001735" class="enchant" name="15단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001736" class="enchant" name="10단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001737" class="enchant" name="11단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001738" class="enchant" name="12단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001739" class="enchant" name="13단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001740" class="enchant" name="14단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001741" class="enchant" name="15단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001742" class="enchant" name="10단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001743" class="enchant" name="11단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001744" class="enchant" name="12단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001745" class="enchant" name="13단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001746" class="enchant" name="14단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001747" class="enchant" name="15단계 엑설런트 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001748" class="enchant" name="10단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001749" class="enchant" name="11단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001750" class="enchant" name="12단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001751" class="enchant" name="13단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001752" class="enchant" name="14단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001753" class="enchant" name="15단계 엑설런트 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001754" class="enchant" name="10단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001755" class="enchant" name="11단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001756" class="enchant" name="12단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001757" class="enchant" name="13단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001758" class="enchant" name="14단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001759" class="enchant" name="15단계 엑설런트 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001760" class="enchant" name="10단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001761" class="enchant" name="11단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001762" class="enchant" name="12단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001763" class="enchant" name="13단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001764" class="enchant" name="14단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001765" class="enchant" name="15단계 엑설런트 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001766" class="enchant" name="10단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001767" class="enchant" name="11단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001768" class="enchant" name="12단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001769" class="enchant" name="13단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001770" class="enchant" name="14단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001771" class="enchant" name="15단계 엑설런트 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001772" class="enchant" name="10단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001773" class="enchant" name="11단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001774" class="enchant" name="12단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001775" class="enchant" name="13단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001776" class="enchant" name="14단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001777" class="enchant" name="15단계 엑설런트 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001778" class="enchant" name="10단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001779" class="enchant" name="11단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001780" class="enchant" name="12단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001781" class="enchant" name="13단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001782" class="enchant" name="14단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001783" class="enchant" name="15단계 엑설런트 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001784" class="enchant" name="10단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001785" class="enchant" name="11단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001786" class="enchant" name="12단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001787" class="enchant" name="13단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001788" class="enchant" name="14단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001789" class="enchant" name="15단계 엑설런트 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001790" class="enchant" name="10단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001791" class="enchant" name="11단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001792" class="enchant" name="12단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001793" class="enchant" name="13단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001794" class="enchant" name="14단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001795" class="enchant" name="15단계 엑설런트 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001796" class="enchant" name="10단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001797" class="enchant" name="11단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001798" class="enchant" name="12단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001799" class="enchant" name="13단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001800" class="enchant" name="14단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001801" class="enchant" name="15단계 엑설런트 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001802" class="enchant" name="10단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001803" class="enchant" name="11단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001804" class="enchant" name="12단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001805" class="enchant" name="13단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001806" class="enchant" name="14단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001807" class="enchant" name="15단계 엑설런트 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001808" class="enchant" name="10단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001809" class="enchant" name="11단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001810" class="enchant" name="12단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001811" class="enchant" name="13단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001812" class="enchant" name="14단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001813" class="enchant" name="15단계 엑설런트 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001814" class="enchant" name="10단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001815" class="enchant" name="11단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001816" class="enchant" name="12단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001817" class="enchant" name="13단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001818" class="enchant" name="14단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001819" class="enchant" name="15단계 엑설런트 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001820" class="enchant" name="10단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001821" class="enchant" name="11단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001822" class="enchant" name="12단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001823" class="enchant" name="13단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001824" class="enchant" name="14단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001825" class="enchant" name="15단계 엑설런트 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001826" class="enchant" name="10단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001827" class="enchant" name="11단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001828" class="enchant" name="12단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001829" class="enchant" name="13단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001830" class="enchant" name="14단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001831" class="enchant" name="15단계 에픽 인챈트 주문서(모자)" feature="EnchantTransform01" />
+	<key id="31001832" class="enchant" name="10단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001833" class="enchant" name="11단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001834" class="enchant" name="12단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001835" class="enchant" name="13단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001836" class="enchant" name="14단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001837" class="enchant" name="15단계 에픽 인챈트 주문서(상하의)" feature="EnchantTransform01" />
+	<key id="31001838" class="enchant" name="10단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001839" class="enchant" name="11단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001840" class="enchant" name="12단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001841" class="enchant" name="13단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001842" class="enchant" name="14단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001843" class="enchant" name="15단계 에픽 인챈트 주문서(장갑,신발)" feature="EnchantTransform01" />
+	<key id="31001844" class="enchant" name="10단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001845" class="enchant" name="11단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001846" class="enchant" name="12단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001847" class="enchant" name="13단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001848" class="enchant" name="14단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001849" class="enchant" name="15단계 에픽 인챈트 주문서(롱소드)" feature="EnchantTransform01" />
+	<key id="31001850" class="enchant" name="10단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001851" class="enchant" name="11단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001852" class="enchant" name="12단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001853" class="enchant" name="13단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001854" class="enchant" name="14단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001855" class="enchant" name="15단계 에픽 인챈트 주문서(라지소드)" feature="EnchantTransform01" />
+	<key id="31001856" class="enchant" name="10단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001857" class="enchant" name="11단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001858" class="enchant" name="12단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001859" class="enchant" name="13단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001860" class="enchant" name="14단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001861" class="enchant" name="15단계 에픽 인챈트 주문서(스태프)" feature="EnchantTransform01" />
+	<key id="31001862" class="enchant" name="10단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001863" class="enchant" name="11단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001864" class="enchant" name="12단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001865" class="enchant" name="13단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001866" class="enchant" name="14단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001867" class="enchant" name="15단계 에픽 인챈트 주문서(홀)" feature="EnchantTransform01" />
+	<key id="31001868" class="enchant" name="10단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001869" class="enchant" name="11단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001870" class="enchant" name="12단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001871" class="enchant" name="13단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001872" class="enchant" name="14단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001873" class="enchant" name="15단계 에픽 인챈트 주문서(활)" feature="EnchantTransform01" />
+	<key id="31001874" class="enchant" name="10단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001875" class="enchant" name="11단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001876" class="enchant" name="12단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001877" class="enchant" name="13단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001878" class="enchant" name="14단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001879" class="enchant" name="15단계 에픽 인챈트 주문서(캐논)" feature="EnchantTransform01" />
+	<key id="31001880" class="enchant" name="10단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001881" class="enchant" name="11단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001882" class="enchant" name="12단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001883" class="enchant" name="13단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001884" class="enchant" name="14단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001885" class="enchant" name="15단계 에픽 인챈트 주문서(단검)" feature="EnchantTransform01" />
+	<key id="31001886" class="enchant" name="10단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001887" class="enchant" name="11단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001888" class="enchant" name="12단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001889" class="enchant" name="13단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001890" class="enchant" name="14단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001891" class="enchant" name="15단계 에픽 인챈트 주문서(표창)" feature="EnchantTransform01" />
+	<key id="31001892" class="enchant" name="10단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001893" class="enchant" name="11단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001894" class="enchant" name="12단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001895" class="enchant" name="13단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001896" class="enchant" name="14단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001897" class="enchant" name="15단계 에픽 인챈트 주문서(블레이드)" feature="EnchantTransform01" />
+	<key id="31001898" class="enchant" name="10단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001899" class="enchant" name="11단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001900" class="enchant" name="12단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001901" class="enchant" name="13단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001902" class="enchant" name="14단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001903" class="enchant" name="15단계 에픽 인챈트 주문서(너클)" feature="EnchantTransform01" />
+	<key id="31001904" class="enchant" name="10단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001905" class="enchant" name="11단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001906" class="enchant" name="12단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001907" class="enchant" name="13단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001908" class="enchant" name="14단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
+	<key id="31001909" class="enchant" name="15단계 에픽 인챈트 주문서(오브)" feature="EnchantTransform01" />
 	<key id="32000001" class="fishingRod" name="나뭇가지 낚싯대" />
 	<key id="32000002" class="fishingRod" name="빨간색 철제 낚싯대" />
 	<key id="32000003" class="fishingRod" name="파란색 철제 낚싯대" />
@@ -25012,6 +25479,9 @@
 	<key id="34000088" class="instrument" name="골드스타 큰북" feature="DrumInstrument" />
 	<key id="34000089" class="instrument" name="골드스타 작은북" feature="DrumInstrument" />
 	<key id="34000090" class="instrument" name="골드스타 심벌즈" feature="DrumInstrument" />
+	<key id="34000091" class="instrument" name="단풍 풍류 샤미센" />
+	<key id="34000092" class="instrument" name="동백 풍류 고토" />
+	<key id="34000093" class="instrument" name="대나무 풍류 사쿠하치" />
 	<key id="35000001" class="score" name="메이플스토리2 OST #1" />
 	<key id="35000002" class="score" name="메이플스토리2 OST #2" />
 	<key id="35000003" class="score" name="메이플스토리2 OST #3 (합주곡)" />
@@ -26628,7 +27098,7 @@
 	<key id="40400078" class="flight" name="로맨틱 레인보우 멜로디" />
 	<key id="40400079" class="flight" name="비공정" />
 	<key id="40400080" class="flight" name="빙글빙글 회오리 집" />
-	<key id="40400081" class="flight" name="날으는 침대" />
+	<key id="40400081" class="flight" name="두둥실 드림캐처 침대" />
 	<key id="40400082" class="flight" name="두둥실 호박 풍선" />
 	<key id="40400086" class="flight" name="조디 풍선" locale="NA" />
 	<key id="40400087" class="flight" name="보름달 열기구" />
@@ -29344,6 +29814,11 @@
 	<key id="50201046" class="UGC" name="반짝이는 밤하늘 하단 커튼" />
 	<key id="50201047" class="UGC" name="반짝이는 밤하늘 중간 커튼" />
 	<key id="50201048" class="UGC" name="반짝이는 밤하늘 상단 커튼" />
+	<key id="50201049" class="UGC" name="연꽃 분수대" />
+	<key id="50201050" class="UGC" name="연잎이 뜬 분수대" />
+	<key id="50201051" class="UGC" name="은은한 연꽃등" />
+	<key id="50201052" class="UGC" name="파릇파릇한 연잎들" />
+	<key id="50201053" class="UGC" name="푸르른 연잎" />
 	<key id="50300001" class="UGC" name="강철 스파이크 함정" />
 	<key id="50300002" class="UGC" name="붉은 집게 함정" />
 	<key id="50300003" class="UGC" name="은색 집게 함정" />
@@ -29677,6 +30152,8 @@
 	<key id="50400326" class="UGC" name="크리스탈 무대 조명" />
 	<key id="50400327" class="UGC" name="우아한 크리스탈 백조 조명" />
 	<key id="50400328" class="UGC" name="화려한 오르골 발판" />
+	<key id="50400329" class="UGC" name="활짝 피는 연꽃" />
+	<key id="50400330" class="UGC" name="영롱한 연꽃 분수 기둥" />
 	<key id="50410001" class="UGC" name="화이트 체스말 : 스페셜 킹" />
 	<key id="50410002" class="UGC" name="화이트 체스말 : 킹" />
 	<key id="50410003" class="UGC" name="화이트 체스말 : 퀸" />
@@ -29869,6 +30346,7 @@
 	<key id="50600163" class="ride" name="배달의 달인 스쿠터" />
 	<key id="50600164" class="ride" name="로제 캠퍼밴" />
 	<key id="50600165" class="ride" name="황금 복돼지" />
+	<key id="50600166" class="ride" name="듬직한 예티" />
 	<key id="50600166" class="ride" name="듬직한 예티" locale="CN" />
 	<key id="50600167" class="ride" name="춤추는 사자" />
 	<key id="50600168" class="ride" name="위엄있는 자쿰의 손" />
@@ -29952,7 +30430,7 @@
 	<key id="50600245" class="ride" name="달려라 달팽이" />
 	<key id="50600246" class="ride" name="빛나는 순록 마차" />
 	<key id="50600247" class="ride" name="영롱한 컬러 라펜틱 재규어" />
-	<key id="50600248" class="ride" name="보행기" />
+	<key id="50600248" class="ride" name="살랑 봄꽃 보행기" />
 	<key id="50600249" class="ride" name="뚱냥이" />
 	<key id="50600250" class="ride" name="티라노사우르스" />
 	<key id="50600251" class="ride" name="복실복실 강아지" />
@@ -30002,6 +30480,12 @@
 	<key id="50600305" class="ride" name="미니 우르르 바키볼" feature="Event" />
 	<key id="50600306" class="ride" name="러브러브 발렌타인 : 피치" feature="Event" />
 	<key id="50600314" class="ride" name="커다란 벚꽃잎을 타고" feature="Event" />
+	<key id="50600316" class="ride" name="내 사랑 블리체 쿠션" />
+	<key id="50600317" class="ride" name="내 사랑 콘대르 쿠션" />
+	<key id="50600318" class="ride" name="내 사랑 샤텐 쿠션" />
+	<key id="50600319" class="ride" name="장수풍뎅이" />
+	<key id="50600320" class="ride" name="황금 장수풍뎅이" />
+	<key id="50600321" class="ride" name="일본풍 여우" />
 	<key id="50700004" class="charm" name="에레브 여제 조각상" />
 	<key id="50700005" class="charm" name="칼 비드블라임 조각상" />
 	<key id="50700006" class="charm" name="마노비치 조각상" />
@@ -30577,6 +31061,9 @@
 	<key id="59200350" class="package" name="발랄 교복 룩 패키지" />
 	<key id="59200351" class="package" name="바니 플라워 룩 패키지" />
 	<key id="59200352" class="package" name="웨딩데이 룩 패키지" />
+	<key id="59200353" class="package" name="큐티 룩 패키지" />
+	<key id="59200357" class="package" name="오드리 튜튜 룩 패키지" />
+	<key id="59200358" class="package" name="로즈 페어리 룩 패키지" feature="Event" locale="JP" />
 	<key id="59300001" class="BuildPack" name="해피 하우스 인테리어 공사권" />
 	<key id="59300002" class="BuildPack" name="해피 하우스 인테리어 공사권" />
 	<key id="59300003" class="BuildPack" name="설원 오두막 인테리어 공사권" />
@@ -30767,48 +31254,48 @@
 	<key id="61000168" class="battle_Pet" name="버럭모랑" feature="Pet_70Lv_Taming" />
 	<key id="61000169" class="battle_Pet" name="나이트레토" feature="Pet_70Lv_Taming" />
 	<key id="61000170" class="battle_Pet" name="헤비휴롯" feature="Pet_70Lv_Taming" />
-	<key id="61020002" class="battle_Pet" name="슬라임" feature="PetBattle" locale="CN" />
-	<key id="61020005" class="battle_Pet" name="더키볼" feature="PetList_Taming" locale="CN" />
-	<key id="61020007" class="battle_Pet" name="빨강 달팽이" feature="PetBattle" locale="CN" />
-	<key id="61020009" class="battle_Pet" name="주니어 부기" feature="PetList_Taming" locale="CN" />
-	<key id="61020016" class="battle_Pet" name="버크" feature="PetBattle" locale="CN" />
-	<key id="61020018" class="battle_Pet" name="스텀프" feature="PetBattle" locale="CN" />
-	<key id="61020019" class="battle_Pet" name="케르베" feature="PetBattle" locale="CN" />
-	<key id="61020026" class="battle_Pet" name="아기 멧돼지" feature="PetBattle" locale="CN" />
-	<key id="61020029" class="battle_Pet" name="그루몽" feature="PetBattle" locale="CN" />
-	<key id="61020033" class="battle_Pet" name="프로투스" feature="PetList_Taming" locale="CN" />
-	<key id="61020041" class="battle_Pet" name="아기 달곰" feature="PetBattle" locale="CN" />
-	<key id="61020046" class="battle_Pet" name="플라카" feature="PetList_Taming" locale="CN" />
-	<key id="61020047" class="battle_Pet" name="자생 버섯" feature="PetBattle" locale="CN" />
-	<key id="61020059" class="battle_Pet" name="베비콜리" feature="PetBattle" locale="CN" />
-	<key id="61020067" class="battle_Pet" name="베르카우" feature="PetList_Taming" locale="CN" />
-	<key id="61020077" class="battle_Pet" name="트윙코" feature="PetBattle" locale="CN" />
-	<key id="61020079" class="battle_Pet" name="발록" feature="PetUpdate01" locale="CN" />
-	<key id="61020084" class="battle_Pet" name="블록 골렘 Y" feature="PetBattle" locale="CN" />
-	<key id="61020096" class="battle_Pet" name="류호" feature="PetBattle" locale="CN" />
-	<key id="61020097" class="battle_Pet" name="우디" feature="PetBattle" locale="CN" />
-	<key id="61020098" class="battle_Pet" name="오염된 젤라임" feature="PetBattle" locale="CN" />
-	<key id="61020099" class="battle_Pet" name="코볼크" feature="PetBattle" locale="CN" />
-	<key id="61020100" class="battle_Pet" name="트윙쿠" feature="PetBattle" locale="CN" />
-	<key id="61020152" class="battle_Pet" name="산토끼" feature="PetBattle" locale="CN" />
-	<key id="61020153" class="battle_Pet" name="맹독 놀라쥬" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020154" class="battle_Pet" name="터렛 MK-I" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020155" class="battle_Pet" name="붉은 아룸" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020156" class="battle_Pet" name="솔저레토" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020157" class="battle_Pet" name="푸른 쿠우쿠" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020158" class="battle_Pet" name="초록 포잉" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020159" class="battle_Pet" name="튼튼모랑" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020160" class="battle_Pet" name="가드 MK-II" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020161" class="battle_Pet" name="타이렌 MK-I-S" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020162" class="battle_Pet" name="핑크 라플레시아" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020163" class="battle_Pet" name="레드 메카랩터" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020164" class="battle_Pet" name="메카캐논" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020165" class="battle_Pet" name="킬러휴롯" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020166" class="battle_Pet" name="블루 메카티라노" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020167" class="battle_Pet" name="분홍 꿈트리" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020168" class="battle_Pet" name="버럭모랑" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020169" class="battle_Pet" name="나이트레토" feature="Pet_70Lv_Taming" locale="CN" />
-	<key id="61020170" class="battle_Pet" name="헤비휴롯" feature="Pet_70Lv_Taming" locale="CN" />
+	<key id="61020002" class="battle_Pet" name="슬라임" feature="PetBattle" />
+	<key id="61020005" class="battle_Pet" name="더키볼" feature="PetList_Taming" />
+	<key id="61020007" class="battle_Pet" name="빨강 달팽이" feature="PetBattle" />
+	<key id="61020009" class="battle_Pet" name="주니어 부기" feature="PetList_Taming" />
+	<key id="61020016" class="battle_Pet" name="버크" feature="PetBattle" />
+	<key id="61020018" class="battle_Pet" name="스텀프" feature="PetBattle" />
+	<key id="61020019" class="battle_Pet" name="케르베" feature="PetBattle" />
+	<key id="61020026" class="battle_Pet" name="아기 멧돼지" feature="PetBattle" />
+	<key id="61020029" class="battle_Pet" name="그루몽" feature="PetBattle" />
+	<key id="61020033" class="battle_Pet" name="프로투스" feature="PetList_Taming" />
+	<key id="61020041" class="battle_Pet" name="아기 달곰" feature="PetBattle" />
+	<key id="61020046" class="battle_Pet" name="플라카" feature="PetList_Taming" />
+	<key id="61020047" class="battle_Pet" name="자생 버섯" feature="PetBattle" />
+	<key id="61020059" class="battle_Pet" name="베비콜리" feature="PetBattle" />
+	<key id="61020067" class="battle_Pet" name="베르카우" feature="PetList_Taming" />
+	<key id="61020077" class="battle_Pet" name="트윙코" feature="PetBattle" />
+	<key id="61020079" class="battle_Pet" name="발록" feature="PetUpdate01" />
+	<key id="61020084" class="battle_Pet" name="블록 골렘 Y" feature="PetBattle" />
+	<key id="61020096" class="battle_Pet" name="류호" feature="PetBattle" />
+	<key id="61020097" class="battle_Pet" name="우디" feature="PetBattle" />
+	<key id="61020098" class="battle_Pet" name="오염된 젤라임" feature="PetBattle" />
+	<key id="61020099" class="battle_Pet" name="코볼크" feature="PetBattle" />
+	<key id="61020100" class="battle_Pet" name="트윙쿠" feature="PetBattle" />
+	<key id="61020152" class="battle_Pet" name="산토끼" feature="PetBattle" />
+	<key id="61020153" class="battle_Pet" name="맹독 놀라쥬" feature="Pet_70Lv_Taming" />
+	<key id="61020154" class="battle_Pet" name="터렛 MK-I" feature="Pet_70Lv_Taming" />
+	<key id="61020155" class="battle_Pet" name="붉은 아룸" feature="Pet_70Lv_Taming" />
+	<key id="61020156" class="battle_Pet" name="솔저레토" feature="Pet_70Lv_Taming" />
+	<key id="61020157" class="battle_Pet" name="푸른 쿠우쿠" feature="Pet_70Lv_Taming" />
+	<key id="61020158" class="battle_Pet" name="초록 포잉" feature="Pet_70Lv_Taming" />
+	<key id="61020159" class="battle_Pet" name="튼튼모랑" feature="Pet_70Lv_Taming" />
+	<key id="61020160" class="battle_Pet" name="가드 MK-II" feature="Pet_70Lv_Taming" />
+	<key id="61020161" class="battle_Pet" name="타이렌 MK-I-S" feature="Pet_70Lv_Taming" />
+	<key id="61020162" class="battle_Pet" name="핑크 라플레시아" feature="Pet_70Lv_Taming" />
+	<key id="61020163" class="battle_Pet" name="레드 메카랩터" feature="Pet_70Lv_Taming" />
+	<key id="61020164" class="battle_Pet" name="메카캐논" feature="Pet_70Lv_Taming" />
+	<key id="61020165" class="battle_Pet" name="킬러휴롯" feature="Pet_70Lv_Taming" />
+	<key id="61020166" class="battle_Pet" name="블루 메카티라노" feature="Pet_70Lv_Taming" />
+	<key id="61020167" class="battle_Pet" name="분홍 꿈트리" feature="Pet_70Lv_Taming" />
+	<key id="61020168" class="battle_Pet" name="버럭모랑" feature="Pet_70Lv_Taming" />
+	<key id="61020169" class="battle_Pet" name="나이트레토" feature="Pet_70Lv_Taming" />
+	<key id="61020170" class="battle_Pet" name="헤비휴롯" feature="Pet_70Lv_Taming" />
 	<key id="61100010" class="battle_Pet" name="피로스 파드" feature="PetBattle" />
 	<key id="61100020" class="battle_Pet" name="카보" feature="PetBattle" />
 	<key id="61100030" class="battle_Pet" name="바르칸트" feature="PetUpdate01" />
@@ -30818,11 +31305,11 @@
 	<key id="61100070" class="battle_Pet" name="파풀라투스" feature="PetUpdate01" />
 	<key id="61100090" class="battle_Pet" name="누타만" feature="PetUpdate01" />
 	<key id="61100100" class="battle_Pet" name="기간티카" feature="Gigantica01" />
-	<key id="61100110" class="battle_Pet" name="저주의 자쿰" feature="Pet_Zakum" locale="CN" />
+	<key id="61100110" class="battle_Pet" name="저주의 자쿰" feature="Pet_Zakum" />
 	<key id="61100111" class="battle_Pet" name="저주의 자쿰" feature="Pet_Zakum" />
-	<key id="61100120" class="battle_Pet" name="수호의 자쿰" feature="Pet_Zakum" locale="CN" />
+	<key id="61100120" class="battle_Pet" name="수호의 자쿰" feature="Pet_Zakum" />
 	<key id="61100121" class="battle_Pet" name="수호의 자쿰" feature="Pet_Zakum" />
-	<key id="61100130" class="battle_Pet" name="분노의 자쿰" feature="Pet_Zakum" locale="CN" />
+	<key id="61100130" class="battle_Pet" name="분노의 자쿰" feature="Pet_Zakum" />
 	<key id="61100131" class="battle_Pet" name="분노의 자쿰" feature="Pet_Zakum" />
 	<key id="61100132" class="battle_Pet" name="셀린" feature="Pet_60Lv" />
 	<key id="61100133" class="battle_Pet" name="알바노스" feature="Pet_60Lv" />
@@ -30906,6 +31393,9 @@
 	<key id="70100004" class="gem" name="자동 생산 배지 (7일)" feature="AutoMastery02" />
 	<key id="70100005" class="gem" name="자동 생산 배지 (30일)" feature="AutoMastery02" />
 	<key id="70100006" class="gem" name="무료 자동 생산 배지 (4시간)" feature="Mastery06" />
+	<key id="70150000" class="gem" name="메타 배지 : 브론즈 공격력의 표식" feature="GemMeta" locale="KR" />
+	<key id="70150001" class="gem" name="메타 배지 : 실버 공격력의 표식" feature="GemMeta" locale="KR" />
+	<key id="70150002" class="gem" name="메타 배지 : 골드 공격력의 표식" feature="GemMeta" locale="KR" />
 	<key id="70200001" class="gem" name="말풍선 배지 : 밤쥐" />
 	<key id="70200002" class="gem" name="말풍선 배지 : 반짝별빛" />
 	<key id="70200003" class="gem" name="말풍선 배지 : 네온사인" />
@@ -31029,11 +31519,19 @@
 	<key id="70200133" class="gem" name="말풍선 배지 : 봄의 정원" />
 	<key id="70200134" class="gem" name="말풍선 배지 : 롤리팝" />
 	<key id="70200135" class="gem" name="말풍선 배지 : 토끼와 달걀" />
+	<key id="70200136" class="gem" name="말풍선 배지 : 근로자의 힘" />
 	<key id="70200137" class="gem" name="말풍선 배지 : 튤립 정원" />
+	<key id="70200138" class="gem" name="말풍선 배지 : 슈퍼 히어로" />
+	<key id="70200139" class="gem" name="말풍선 배지 : 멕시칸 모자" />
+	<key id="70200140" class="gem" name="말풍선 배지 : 라비앙로즈" />
+	<key id="70200141" class="gem" name="말풍선 배지 : 회전목마" />
 	<key id="70200146" class="gem" name="말풍선 배지 : 우수한 보안 의식" locale="KR" />
 	<key id="70200147" class="gem" name="말풍선 배지 : 따끈따끈 돼지 만두" />
 	<key id="70200148" class="gem" name="말풍선 배지 : 신비한 에네르" feature="Event" />
 	<key id="70200149" class="gem" name="말풍선 배지 : 카네이션" feature="Event" />
+	<key id="70200151" class="gem" name="말풍선 배지 : 냐옹냐옹 고양이" />
+	<key id="70200152" class="gem" name="말풍선 배지 : 포동포동 하양이" />
+	<key id="70200153" class="gem" name="말풍선 배지 : 포동포동 노랑이" />
 	<key id="70300001" class="gem" name="이름표 배지 : 벚꽃" />
 	<key id="70300002" class="gem" name="이름표 배지 : 반짝 별님" />
 	<key id="70300003" class="gem" name="이름표 배지 : 나뭇잎" />
@@ -31178,7 +31676,11 @@
 	<key id="70300142" class="gem" name="이름표 배지 : 봄의 정원" />
 	<key id="70300143" class="gem" name="이름표 배지 : 롤리팝" feature="Event" />
 	<key id="70300144" class="gem" name="이름표 배지 : 토끼와 달걀" feature="Event" />
+	<key id="70300145" class="gem" name="이름표 배지 : 근로자의 힘" />
 	<key id="70300146" class="gem" name="이름표 배지 : 튤립 정원" feature="Event" />
+	<key id="70300147" class="gem" name="이름표 배지 : 슈퍼 히어로" />
+	<key id="70300148" class="gem" name="이름표 배지 : 멕시칸 모자" />
+	<key id="70300150" class="gem" name="이름표 배지 : 회전목마" />
 	<key id="70300155" class="gem" name="이름표 배지 : 우수한 보안 의식" locale="KR" />
 	<key id="70300156" class="gem" name="이름표 배지 : Razer" locale="NA" />
 	<key id="70300157" class="gem" name="이름표 배지 : 용맹의 표식" feature="PvPRankingDuelMode" />
@@ -31189,6 +31691,9 @@
 	<key id="70300162" class="gem" name="이름표 배지 : 근엄한 경비병" feature="Colosseum01" />
 	<key id="70300163" class="gem" name="이름표 배지 : 나는 나와 연애한다" feature="Event" locale="KR" />
 	<key id="70300164" class="gem" name="이름표 배지 : 카네이션" feature="Event" />
+	<key id="70300166" class="gem" name="이름표 배지 : 박물관에 다녀온" feature="Event" locale="KR" />
+	<key id="70300167" class="gem" name="이름표 배지 : 냐옹냐옹 고양이" />
+	<key id="70300168" class="gem" name="이름표 배지 : 에레브의 축복" feature="Event" locale="JP" />
 	<key id="70400001" class="gem" name="대미지 폰트 배지 : 인페르노" />
 	<key id="70400002" class="gem" name="대미지 폰트 배지 : 스위트 캔디" />
 	<key id="70400003" class="gem" name="대미지 폰트 배지 : 반짝 스퀘어" />
@@ -31226,6 +31731,10 @@
 	<key id="70400035" class="gem" name="대미지 폰트 배지 : 컵케이크" />
 	<key id="70400036" class="gem" name="대미지 폰트 배지 : 마시멜로" />
 	<key id="70400037" class="gem" name="대미지 폰트 배지 : 클로버" />
+	<key id="70400038" class="gem" name="대미지 폰트 배지 : 맛있는 당근" />
+	<key id="70400039" class="gem" name="대미지 폰트 배지 : 블링블링 골드" />
+	<key id="70400040" class="gem" name="대미지 폰트 배지 : 고운 단풍" />
+	<key id="70400041" class="gem" name="대미지 폰트 배지 : 아름다운 무지개" />
 	<key id="70400042" class="gem" name="대미지 폰트 배지 : 메콩데이 2222 " feature="Event" />
 	<key id="70400043" class="gem" name="대미지 폰트 배지 : 만우절 기호체" feature="Event" />
 	<key id="70500001" class="gem" name="비석 배지 : 니할왕조의 관" />

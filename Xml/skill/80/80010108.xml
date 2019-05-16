@@ -23,7 +23,7 @@
 		<upgrade />
 		<detectProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
 		<sensorProperty includeCaster="0" rangeType="" distance="0" rangeAdd="0.000000,0.000000,0.000000" rangeOffset="0.000000,0.000000,0.000000" rangeZRotateDegree="0" height="0" width="0" endWidth="0" applyTarget="0" castTarget="0" sensorStartDelay="0" sensorSplashStartDelay="0" />
-		<glideProperty gravity="5" heightLimit="1300" horizontalAccelerate="200" horizontalVelocity="100" verticalAccelerate="0" verticalVelocity="170" verticalVibrateAmplitude="150" verticalVibrateFrequency="2000" glideHorizontalAccelerateLimit="550" bEffect="1" effectRun="CH/Fly/40400104_F_transformers_Run_A.xml" effectIdle="CH/Fly/40400104_F_transformers_Idle_A.xml" aniIdle="FlyType010_Idle_A" aniLeft="FlyType010_Run_A" aniRight="" aniRun="FlyType010_Run_A" onGroundDisable="0" />
+		<glideProperty gravity="5" heightLimit="1300" horizontalAccelerate="200" horizontalVelocity="100" verticalAccelerate="0" verticalVelocity="170" verticalVibrateAmplitude="150" verticalVibrateFrequency="2000" glideHorizontalAccelerateLimit="550" bEffect="1" effectRun="CH/Fly/40400104_F_transformers_Run_A.xml" effectIdle="CH/Fly/40400104_F_transformers_Idle_A.xml" aniIdle="FlyType016_Idle_A" aniLeft="FlyType016_Run_A" aniRight="" aniRun="FlyType016_Run_A" onGroundDisable="0" />
 		<combo comboSkill="0" chargingSkill="0" comboOriginSkill="0" inputSkill="" outputSkill="" />
 		<recoveryProperty spValue="0" spRate="0" />
 		<motion>

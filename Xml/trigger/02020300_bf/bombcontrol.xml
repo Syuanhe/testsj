@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ms2>
+
+    <state name="대기" >
+        <onEnter>
+			<action name="SetUserValue" triggerID="99990001" key="SpawnRoomEnd" value="0" />
+        </onEnter>
+		<condition name="UserValue" key="RandomBomb" value="1" >
+			<transition state="스폰시작"/>
+		</condition>
+    </state>
+
+    <state name="스폰시작" >
+        <onEnter>
+			<action name="StartCombineSpawn" groupId="516" isStart="true" />
+        </onEnter>
+		<condition name="WaitTick" waitTick="15000" >
+			<transition state="종료"/>
+		</condition>
+    </state>
+
+    <state name="종료" >
+        <onEnter>
+			<action name="SetUserValue" triggerID="99990001" key="RandomBombEnd" value="1" />
+			<action name="StartCombineSpawn" groupId="516" isStart="false" />
+        </onEnter>
+    </state>
+
+</ms2>

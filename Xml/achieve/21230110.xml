@@ -4,7 +4,7 @@
 	<achieves id="21230110" account="0" icon="hero_battle.png" noticePercent="1" locking="" categoryTag="combat,boss" feature="ChronicleDungeon60_01">
 		<grade value="1">
 			<condition type="trigger" code="BigSisterFirst" value="1" target="" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 	</achieves>
 </ms2>

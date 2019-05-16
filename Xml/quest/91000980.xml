@@ -18,6 +18,10 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
+			<dispatch type="monologueAccept" field="52100109" portal="2" script="2" />
+			<condition type="trigger" code="Georg" value="1">
+				<navi type="npc" code="11004395" map="52100109" />
+			</condition>
 		</quest>
 	</environment>
 </ms2>

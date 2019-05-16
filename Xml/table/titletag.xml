@@ -748,12 +748,12 @@
 	<key id="10000722" tag="" feature="PetEvolution01" />
 	<key id="10000723" tag="" feature="PetEvolution01" />
 	<key id="10000724" tag="" feature="PetEvolution01" />
-	<key id="10000725" tag="" feature="PetEvolution01" />
-	<key id="10000726" tag="" feature="PetEvolution01" />
+	<key id="10000725" tag="" feature="Pet_70Lv" />
+	<key id="10000726" tag="" feature="Pet_70Lv" />
 	<key id="10000727" tag="" feature="PetEvolution01" />
 	<key id="10000728" tag="" feature="PetEvolution01" />
 	<key id="10000729" tag="" feature="PetEvolution01" />
-	<key id="10000730" tag="" feature="PetEvolution01" />
+	<key id="10000730" tag="" feature="Pet_70Lv" />
 	<key id="10000731" tag="" />
 	<key id="10000732" tag="" feature="Event" />
 	<key id="10000733" tag="" feature="Event" />
@@ -771,4 +771,9 @@
 	<key id="10000745" tag="" feature="Event" />
 	<key id="10000746" tag="" feature="Event" />
 	<key id="10000747" tag="" />
+	<key id="10000748" tag="" />
+	<key id="10000749" tag="" />
+	<key id="10000750" tag="" feature="Event" />
+	<key id="10000751" tag="" feature="Event" />
+	<key id="10000755" tag="" feature="Event" />
 </ms2>

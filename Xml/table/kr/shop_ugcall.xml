@@ -1096,7 +1096,14 @@
 	<key id="50100424" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="300" />
 	<key id="50100425" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
 	<key id="50100426" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100427" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100428" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100429" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100430" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
 	<key id="50100431" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100432" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100433" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
+	<key id="50100434" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="10" />
 	<key id="50200381" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="100000" />
 	<key id="50200382" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="100000" />
 	<key id="50200398" ugcHousingBuy="0" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
@@ -1503,6 +1510,25 @@
 	<key id="50201004" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
 	<key id="50201005" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
 	<key id="50201020" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201030" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201031" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201032" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201033" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201034" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201035" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201036" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201037" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201038" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201039" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201040" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201041" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201042" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201043" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201044" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201045" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201046" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201047" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
+	<key id="50201048" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="30" />
 	<key id="50300001" ugcHousingBuy="0" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50300002" ugcHousingBuy="0" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
 	<key id="50300003" ugcHousingBuy="0" ugcHousingMoneyType="1" ugcHousingDefaultPrice="0" />
@@ -1693,11 +1719,18 @@
 	<key id="50400312" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400313" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400314" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400316" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400318" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400319" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400320" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400321" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50400322" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400323" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400324" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400325" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400326" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400327" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
+	<key id="50400328" ugcHousingBuy="0" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50410001" ugcHousingBuy="1" ugcHousingMoneyType="3" ugcHousingDefaultPrice="50" />
 	<key id="50410002" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="2000" />
 	<key id="50410003" ugcHousingBuy="1" ugcHousingMoneyType="1" ugcHousingDefaultPrice="1000" />

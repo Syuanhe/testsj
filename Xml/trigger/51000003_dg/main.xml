@@ -77,6 +77,7 @@
 	        <onEnter>
 				<action name="PlaySystemSoundInBox" arg2="System_Monkey_01"/> <!-- [02100226] System_Monkey_01 ~ 06 (원숭이 간헐적으로 우키키, 우카카) -->
 				<action name="업적이벤트를발생시킨다" arg1="701" arg2="trigger" arg3="boomocean_start"/>	<!-- 붐붐오션 시작하기 (트로피) -->	
+				<action name="업적이벤트를발생시킨다" arg1="701" arg2="trigger" arg3="arcade_startcheck"/>	<!-- 아케이드 참여 일괄 체크용-->	
 				<action name="메쉬를설정한다" arg1="6101-6200" arg2="0" arg3="0" arg4="0" arg5="0" /> <!--벽 설정-->
 				<action name="버프를삭제한다" arg1="49179004" arg2="0" />
 

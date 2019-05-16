@@ -23,6 +23,7 @@
 	<symbol id="16" icon="secondyear" conditionType="title" code="10000341" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="KR" />
 	<symbol id="17" icon="TGP" conditionType="TGP" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="CN" />
 	<symbol id="18" icon="GM" conditionType="gm" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="CN" />
+	<symbol id="18" icon="GM" conditionType="gm" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="JP" />
 	<symbol id="19" icon="itemMerge1" conditionType="title" code="10000379" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="ItemMerge" locale="" />
 	<symbol id="20" icon="itemMerge2" conditionType="title" code="10000380" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="ItemMerge" locale="" />
 	<symbol id="21" icon="itemMerge3" conditionType="title" code="10000381" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="ItemMerge" locale="" />
@@ -54,4 +55,6 @@
 	<symbol id="48" icon="FlowerRed" conditionType="title" code="10000712" hideSymbol="" pushSymbol="1" buffID="90000933" buffLv="1" feature="" locale="CN" />
 	<symbol id="49" icon="FlowerYellow" conditionType="title" code="10000713" hideSymbol="" pushSymbol="1" buffID="90000934" buffLv="1" feature="" locale="CN" />
 	<symbol id="50" icon="CherryBlossom" conditionType="title" code="10000731" hideSymbol="" pushSymbol="1" buffID="90000935" buffLv="1" feature="" locale="KR" />
+	<symbol id="51" icon="architect2019" conditionType="title" code="10000748" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="JP" />
+	<symbol id="52" icon="seller2019" conditionType="title" code="10000749" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="JP" />
 </ms2>

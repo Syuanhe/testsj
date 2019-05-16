@@ -2,6 +2,7 @@
 <ms2>
 	<key id="90000747" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 : 34%" />
 	<key id="90000748" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 35%" />
+	<key id="90000855" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 15.7%" />
 	<key id="90000856" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 21.4%" />
 	<key id="90000858" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 : 14.4%" />
 	<key id="90000869" level="1" name="던전 밸런스 테스트" tooltipDescription="특제 전사+마법사 물약 대체" />
@@ -29,5 +30,5 @@
 	<key id="89000002" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 25.2%" />
 	<key id="89000003" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 49%" />
 	<key id="89000004" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 36%" />
-	<key id="" name="" />
+	<key id="89000005" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 2040 (실적용 804)\NA 60 엑설런트" />
 </ms2>

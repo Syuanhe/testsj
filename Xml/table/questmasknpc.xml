@@ -883,4 +883,7 @@
 			<mask startQuestID="91000290" startQuestState="2" endQuestID="91000290" endQuestState="3" feature="Kritias_Inferno01" />
 		</key>
 	</field>
+	<field fieldID="52100109">
+		<key id="11004395" enableInMask="0" />
+	</field>
 </ms2>

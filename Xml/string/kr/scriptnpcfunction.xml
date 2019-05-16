@@ -1752,4 +1752,17 @@
 	<key id="0102174210002230" feature="Kritias_2018_12" locale="" npc="마유" name='아직 수행하지 않은 크리티아스 임무가 있진 않으시죠?&#x0A;임무가 아직 남아있으시다면 언제든 &apos;&lt;font color=&quot;#ffd200&quot;&gt;루미윈드 비행선&lt;/font&gt;&apos;를 이용해 주시기 바랍니다!&#x0A;지금 $map:02000001$$pp2:로,으로$ 출발하실 건가요?' />
 	<key id="0102174210002231" feature="Kritias_2018_12" locale="" npc="pc" name="(지금 $map:02000001$$pp2:로,으로$ 이동한다.)" />
 	<key id="0102174210002232" feature="Kritias_2018_12" locale="" npc="마유" name="네! 지금 바로 출발합니다~!" />
+	<key id="0506173210002239" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='환영합니다~!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 3개를 제게 주시면 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11004638$&lt;/font&gt;$pp:를,을$ 돌릴 기회를 드릴게요!&#x0A;지금 $npc:11004638$$pp:를,을$ 돌려보시겠어요?' />
+	<key id="0506173210002240" feature="Event" locale="JP" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 3개를 내고 돌린다.' />
+	<key id="0506173210002241" feature="Event" locale="JP" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 30개를 내고 10번 돌린다.' />
+	<key id="0506173210002242" feature="Event" locale="JP" npc="pc" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 300개를 내고 100번 돌린다.' />
+	<key id="0506173210002243" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name="스핀을 돌려 원하는 아이템을 뽑아가세요!&#x0A;어서 돌려~돌려~!" />
+	<key id="0506173210002244" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='행운의 여신이 &lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;님과 함께하길~!' />
+	<key id="0506173210002245" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='가지고 계신 코인 수가 부족하신 것 같네요?&#x0A;$npc:11004638$$pp:를,을$ 돌리려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 3개가 필요해요!' />
+	<key id="0506173210002246" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='$npc:11004638$$pp:를,을$ 돌리려면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt; 3개가 필요해요.&#x0A;$item:30001381$$pp:는,은$ 매일 &lt;font color=&quot;#ffd200&quot;&gt;접속시마다 3개씩&lt;/font&gt; 우편으로 선물 받을 수 있답니다.&#x0A;추가로 접속 &lt;font color=&quot;#ffd200&quot;&gt;누적시간&lt;/font&gt;에 따라 코인을 획득하실 수 있어요.&#x0A;이외에도 다양한 &lt;font color=&quot;#ffd200&quot;&gt;이벤트&lt;/font&gt;를 통해서 코인을 획득하실 수 있다는 것 기억하세요!' />
+	<key id="0506173210002247" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30001381$&lt;/font&gt;$pp:를,을$ 얻게 되면 잊지 말고 &lt;font color=&quot;#ffd200&quot;&gt;$map:63000078$&lt;/font&gt;$pp2:로,으로$ 오세요!' />
+	<key id="0506173210002248" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='자! 10번 한번에 돌려볼까요?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;님 긴장하세요!' />
+	<key id="0506173210002249" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name="$rouletteCurrent$회차 룰렛 돌아갑니다!&#x0A;행운을 빌어요!" />
+	<key id="0506173210002250" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name='자! 100번 한번에 돌려볼까요?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;님 긴장하세요!' />
+	<key id="0506173210002251" feature="Event" locale="JP" npc="오픈 기념 럭키스핀" name="$rouletteCurrent$회차 룰렛 돌아갑니다!&#x0A;행운을 빌어요!" />
 </ms2>

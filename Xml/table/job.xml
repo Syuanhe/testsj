@@ -173,8 +173,9 @@
 		</learn>
 	</job>
 	<job code="020" characterBGM="156" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90110005" locale="" />
-		<characterVoice value="ko/Normal/Female/91110005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91110005" locale="" />
+		<characterVoice value="ko/Normal/Male/90110005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90110005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15000224" grade="1" count="1" />
 		</startInvenItem>
@@ -213,7 +214,6 @@
 	</job>
 	<job feature="JobChange_01" code="020" characterBGM="156" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
 		<characterVoice value="ko/Normal/Male/90110005" locale="" />
-		<characterVoice value="ko/Normal/Female/91110005" locale="NA" />
 		<startInvenItem>
 			<item itemID="15000224" grade="1" count="1" />
 		</startInvenItem>
@@ -262,7 +262,6 @@
 	</job>
 	<job feature="JobChange_02" code="020" characterBGM="156" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
 		<characterVoice value="ko/Normal/Male/90110005" locale="" />
-		<characterVoice value="ko/Normal/Female/91110005" locale="NA" />
 		<startInvenItem>
 			<item itemID="15000224" grade="1" count="1" />
 		</startInvenItem>
@@ -452,8 +451,9 @@
 		</learn>
 	</job>
 	<job code="040" characterBGM="153" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
-		<characterVoice value="ko/Normal/Male/90130005" locale="" />
-		<characterVoice value="ko/Normal/Female/91130005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91130005" locale="" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="CN" />
 		<startInvenItem>
 			<item itemID="13300219" grade="1" count="1" />
 			<item itemID="14000181" grade="1" count="1" />
@@ -493,8 +493,9 @@
 		</learn>
 	</job>
 	<job feature="JobChange_01" code="040" characterBGM="153" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
-		<characterVoice value="ko/Normal/Male/90130005" locale="" />
-		<characterVoice value="ko/Normal/Female/91130005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91130005" locale="" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="CN" />
 		<startInvenItem>
 			<item itemID="13300219" grade="1" count="1" />
 			<item itemID="14000181" grade="1" count="1" />
@@ -544,8 +545,9 @@
 		</learn>
 	</job>
 	<job feature="JobChange_02" code="040" characterBGM="153" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
-		<characterVoice value="ko/Normal/Male/90130005" locale="" />
-		<characterVoice value="ko/Normal/Female/91130005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91130005" locale="" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90130005" locale="CN" />
 		<startInvenItem>
 			<item itemID="13300219" grade="1" count="1" />
 			<item itemID="14000181" grade="1" count="1" />
@@ -599,8 +601,9 @@
 		</learn>
 	</job>
 	<job code="050" characterBGM="154" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90140005" locale="" />
-		<characterVoice value="ko/Normal/Female/91140005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91140005" locale="" />
+		<characterVoice value="ko/Normal/Male/90140005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90140005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15100216" grade="1" count="1" />
 		</startInvenItem>
@@ -736,8 +739,9 @@
 		</learn>
 	</job>
 	<job code="060" characterBGM="151" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90150005" locale="" />
-		<characterVoice value="ko/Normal/Female/91150005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91150005" locale="" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15300199" grade="1" count="1" />
 		</startInvenItem>
@@ -775,8 +779,9 @@
 		</learn>
 	</job>
 	<job feature="JobChange_01" code="060" characterBGM="151" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90150005" locale="" />
-		<characterVoice value="ko/Normal/Female/91150005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91150005" locale="" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15300199" grade="1" count="1" />
 		</startInvenItem>
@@ -808,7 +813,7 @@
 			<skill main="10600251" subJobCode="601" uiPosition="0, 2" maxLevel="4" />
 			<skill main="10600231" subJobCode="601" uiPosition="0, 4" maxLevel="4" />
 			<skill main="10600171" subJobCode="601" sub="10600172" uiPosition="2, 0" maxLevel="4" />
-			<skill main="10600211" subJobCode="601" sub="10600212" uiPosition="2, 1" maxLevel="4" />
+			<skill main="10600211" subJobCode="601" sub="10600213" uiPosition="2, 1" maxLevel="4" />
 			<skill main="10600241" subJobCode="601" uiPosition="2, 3" maxLevel="4" />
 			<skill main="10600191" subJobCode="601" sub="10600192" uiPosition="2, 4" maxLevel="4" />
 			<skill main="10600221" subJobCode="601" sub="10600223" uiPosition="3, 0" maxLevel="1" />
@@ -824,8 +829,9 @@
 		</learn>
 	</job>
 	<job feature="JobChange_02" code="060" characterBGM="151" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90150005" locale="" />
-		<characterVoice value="ko/Normal/Female/91150005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91150005" locale="" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90150005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15300199" grade="1" count="1" />
 		</startInvenItem>
@@ -877,8 +883,9 @@
 		</learn>
 	</job>
 	<job code="070" characterBGM="155" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="OH">
-		<characterVoice value="ko/Normal/Male/90160005" locale="" />
-		<characterVoice value="ko/Normal/Female/91160005" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91160005" locale="" />
+		<characterVoice value="ko/Normal/Male/90160005" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90160005" locale="CN" />
 		<startInvenItem>
 			<item itemID="13100225" grade="1" count="1" />
 			<item itemID="13100225" grade="1" count="1" />
@@ -919,7 +926,6 @@
 	</job>
 	<job feature="JobChange_01" code="070" characterBGM="155" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="OH">
 		<characterVoice value="ko/Normal/Male/90160005" locale="" />
-		<characterVoice value="ko/Normal/Female/91160005" locale="NA" />
 		<startInvenItem>
 			<item itemID="13100225" grade="1" count="1" />
 			<item itemID="13100225" grade="1" count="1" />
@@ -971,7 +977,6 @@
 	</job>
 	<job feature="JobChange_02" code="070" characterBGM="155" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="OH">
 		<characterVoice value="ko/Normal/Male/90160005" locale="" />
-		<characterVoice value="ko/Normal/Female/91160005" locale="NA" />
 		<startInvenItem>
 			<item itemID="13100225" grade="1" count="1" />
 			<item itemID="13100225" grade="1" count="1" />
@@ -1211,7 +1216,10 @@
 			<skill id="10900041" />
 		</learn>
 	</job>
-	<job feature="JobChange_01" code="090" characterBGM="96" characterVoice="ko/Normal/Female/91180005" startField="63000006" tutorialSaveID="" tutorialSkipField="02000033,1" tutorialSkipItem="15400002" defaultWeaponSlot="RH,LH">
+	<job feature="JobChange_01" code="090" characterBGM="96" startField="63000006" tutorialSaveID="" tutorialSkipField="02000033,1" tutorialSkipItem="15400002" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Male/91180005" locale="" />
+		<characterVoice value="ko/Normal/Female/91180005" locale="KR" />
+		<characterVoice value="ko/Normal/Female/91180005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15400274" grade="1" count="1" />
 		</startInvenItem>
@@ -1262,7 +1270,10 @@
 			<skill id="10900231" />
 		</learn>
 	</job>
-	<job feature="JobChange_02" code="090" characterBGM="96" characterVoice="ko/Normal/Female/91180005" startField="63000006" tutorialSaveID="" tutorialSkipField="02000033,1" tutorialSkipItem="15400002" defaultWeaponSlot="RH,LH">
+	<job feature="JobChange_02" code="090" characterBGM="96" startField="63000006" tutorialSaveID="" tutorialSkipField="02000033,1" tutorialSkipItem="15400002" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Male/91180005" locale="" />
+		<characterVoice value="ko/Normal/Female/91180005" locale="KR" />
+		<characterVoice value="ko/Normal/Female/91180005" locale="CN" />
 		<startInvenItem>
 			<item itemID="15400274" grade="1" count="1" />
 		</startInvenItem>
@@ -1318,8 +1329,9 @@
 		</learn>
 	</job>
 	<job feature="Striker" code="100" characterBGM="122" startField="63000015" tutorialSaveID="" tutorialSkipField="02000001,1" tutorialSkipItem="15500095" defaultWeaponSlot="RH,LH">
-		<characterVoice value="ko/Normal/Male/90900035" locale="" />
-		<characterVoice value="ko/Normal/Female/91900035" locale="NA" />
+		<characterVoice value="ko/Normal/Female/91900035" locale="" />
+		<characterVoice value="ko/Normal/Male/90900035" locale="KR" />
+		<characterVoice value="ko/Normal/Male/90900035" locale="CN" />
 		<startInvenItem>
 			<item itemID="15500514" grade="1" count="1" />
 		</startInvenItem>
@@ -1360,7 +1372,6 @@
 	</job>
 	<job feature="JobChange_01" code="100" characterBGM="122" startField="63000015" tutorialSaveID="" tutorialSkipField="02000001,1" tutorialSkipItem="15500095" defaultWeaponSlot="RH,LH">
 		<characterVoice value="ko/Normal/Male/90900035" locale="" />
-		<characterVoice value="ko/Normal/Female/91900035" locale="NA" />
 		<startInvenItem>
 			<item itemID="15500514" grade="1" count="1" />
 		</startInvenItem>
@@ -1411,7 +1422,6 @@
 	</job>
 	<job feature="JobChange_02" code="100" characterBGM="122" startField="63000015" tutorialSaveID="" tutorialSkipField="02000001,1" tutorialSkipItem="15500095" defaultWeaponSlot="RH,LH">
 		<characterVoice value="ko/Normal/Male/90900035" locale="" />
-		<characterVoice value="ko/Normal/Female/91900035" locale="NA" />
 		<startInvenItem>
 			<item itemID="15500514" grade="1" count="1" />
 		</startInvenItem>

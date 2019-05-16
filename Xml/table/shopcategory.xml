@@ -852,6 +852,15 @@
 			<tab name="1010" category="BBEtc" priority="5" />
 		</tab>
 	</category>
+	<category id="74">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="0">
+			<tab name="3036" category="WapScroll" priority="1" />
+			<tab name="3050" category="CPScroll" priority="2" />
+			<tab name="3051" category="CLPAScroll" priority="3" />
+			<tab name="3052" category="GLSHScroll" priority="4" />
+			<tab name="3038" category="ETC" priority="5" />
+		</tab>
+	</category>
 	<category id="999">
 		<tab name="9999" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" category="Hot" priority="1" static="0" />
 		<tab name="9166" category="Ticket" priority="2" static="0" />

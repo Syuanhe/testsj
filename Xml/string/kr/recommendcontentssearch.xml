@@ -111,10 +111,10 @@
 	<key id="241" />
 	<key id="242" name="전직" feature="JobChange_01" />
 	<key id="243" name="라펜샤드" feature="Lapenshard01" />
-	<key id="244" feature="LapentaDungeon" />
-	<key id="245" feature="LapentaDungeon" />
-	<key id="246" feature="LapentaDungeon" />
-	<key id="247" feature="LapentaDungeon" />
+	<key id="244" feature="LapentaDungeon" locale="CN" />
+	<key id="245" feature="LapentaDungeon" locale="CN" />
+	<key id="246" feature="LapentaDungeon" locale="CN" />
+	<key id="247" feature="LapentaDungeon" locale="CN" />
 	<key id="248" name="전직" feature="JobChange_01" />
 	<key id="249" name="라펜샤드" feature="Lapenshard01" />
 	<key id="250" feature="LapentaDungeon" />
@@ -145,6 +145,10 @@
 	<key id="279" feature="Kritias_Inferno01" />
 	<key id="280" feature="Kritias_Inferno01" />
 	<key id="281" feature="Colosseum01" />
+	<key id="285" />
+	<key id="286" />
+	<key id="287" />
+	<key id="288" />
 	<key id="297" name="일일 퀘스트" />
 	<key id="298" name="푸른 별" feature="Season3" />
 	<key id="299" name="붉은 별" feature="Season3" />

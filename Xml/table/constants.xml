@@ -370,7 +370,7 @@
 	<v key="MeratConsumeWorldChat" value="30" locale="NA" />
 	<v key="MeratConsumeChannelChat" value="3" locale="NA" />
 	<v key="MeratConsumeWorldChat" value="30" locale="JP" />
-	<v key="MeratConsumeChannelChat" value="3" locale="JP" />
+	<v key="MeratConsumeChannelChat" value="5" locale="JP" />
 	<v key="MeratConsumeWorldChat" value="30" locale="TH" />
 	<v key="MeratConsumeChannelChat" value="3" locale="TH" />
 	<v key="MeratConsumeWorldChat" value="30" locale="TW" />
@@ -519,7 +519,7 @@
 	<v key="TriggerEditorHelpURL" value="maview:/News/DetailView?tp=notice&amp;s=535795" locale="KR" />
 	<v key="TriggerEditorHelpURL" value="http://mxd2.qq.com/web/pilot/p_house.shtml" locale="CN" />
 	<v key="TriggerEditorHelpURL" value="http://maplestory2.nexon.net/en/news/article/32326" locale="NA" />
-	<v key="TriggerEditorHelpURL" value="http://maplestory2.nexon.net/en/news/article/32326" locale="JP" />
+	<v key="TriggerEditorHelpURL" value="https://maplestory2.nexon.co.jp/news/triggereditor" locale="JP" />
 	<v key="TriggerEditorHelpURL" value="http://maplestory2.nexon.net/en/news/article/32326" locale="TH" />
 	<v key="TriggerEditorHelpURL" value="http://maplestory2.nexon.net/en/news/article/32326" locale="TW" />
 	<v key="QuestRewardSAIgnoreLevel" value="10" />
@@ -534,7 +534,7 @@
 	<v key="characterMaxLevel" value="99" />
 	<v key="characterMaxLevel" value="99" locale="KR" />
 	<v key="characterMaxLevel" value="70" locale="CN" />
-	<v key="characterMaxLevel" value="50" locale="NA" />
+	<v key="characterMaxLevel" value="60" locale="NA" />
 	<v key="characterMaxLevel" value="60" locale="JP" />
 	<v key="characterMaxLevel" value="50" locale="TH" />
 	<v key="characterMaxLevel" value="50" locale="TW" />
@@ -601,7 +601,7 @@
 	<v key="WriteMusicDetailWebPage" value="maview:/News/DetailView?page=1&amp;tp=notice&amp;k=&amp;s=552883" locale="KR" />
 	<v key="WriteMusicDetailWebPage" value="http://mxd2.qq.com/cp/a20160420news/content-2.shtml" locale="CN" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="NA" />
-	<v key="WriteMusicDetailWebPage" value="https://maplestory2.nexon.co.jp/about/tips/performance" locale="JP" />
+	<v key="WriteMusicDetailWebPage" value="https://maplestory2.nexon.co.jp/news/performance" locale="JP" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="TH" />
 	<v key="WriteMusicDetailWebPage" value="http://maplestory2.nexon.net/en/news/article/32329" locale="TW" />
 	<v key="WriteMusicStoryBookID" value="39000047" />
@@ -723,6 +723,7 @@
 	<v key="TencentCashChargeWebPage" value="http://mxd2.qq.com/webpay/mxdtlhb.html" locale="CN" />
 	<v key="TencentCashChargeWebPageWidth" value="860" locale="CN" />
 	<v key="TencentCashChargeWebPageHight" value="614" locale="CN" />
+	<v key="CashShopJpDetailUrl" value="https://maplestory2.nexon.co.jp/news/settlement" locale="JP" />
 	<v key="NxaCashChargeWebPageWidth" value="650" locale="NA" />
 	<v key="NxaCashChargeWebPageHight" value="650" locale="NA" />
 	<v key="NxaCashChargeWebPageWidth" value="650" locale="JP" />
@@ -765,14 +766,11 @@
 	<v key="InventoryExpandPrice1Row" value="390" locale="KR" />
 	<v key="InventoryExpandPrice1Row" value="1888" locale="CN" />
 	<v key="InventoryExpandPrice1Row" value="390" locale="NA" />
-	<v key="InventoryExpandPrice1Row" value="390" locale="JP" />
+	<v key="InventoryExpandPrice1Row" value="600" locale="JP" />
 	<v key="InventoryExpandPrice1Row" value="390" locale="TH" />
 	<v key="InventoryExpandPrice1Row" value="390" locale="TW" />
 	<v key="VIPServicePeriodLimitDay" value="100000000" />
 	<v key="VIPMarketCommitionSale" value="20" locale="NA" />
-	<v key="VIPMarketCommitionSale" value="20" locale="JP" />
-	<v key="VIPMarketCommitionSale" value="20" locale="TH" />
-	<v key="VIPMarketCommitionSale" value="20" locale="TW" />
 	<v key="BreedDuration" value="767" feature="Mastery" />
 	<v key="HarvestDuration" value="767" feature="Mastery" />
 	<v key="RestartQuestStartField" value="52000056" />

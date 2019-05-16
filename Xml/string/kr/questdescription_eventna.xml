@@ -98,6 +98,96 @@
 	<quest questID="89050015" name="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료" desc="" manual="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기" complete="[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기" count="1" locale="" locking="0" />
 	<quest questID="89050016" name="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료" desc="" manual="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기" complete="[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기" count="1" locale="" locking="0" />
 	<quest questID="89050017" name="$map:63000065$에서 유령들과 /안녕 10회 하기" desc="" manual="$map:63000065$에서 유령들과 /안녕 10회 하기" complete="$map:63000065$에서 유령들과 /안녕 10회 하기" count="1" locale="" locking="0" />
+	<quest questID="89050020" name="함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)" desc="" manual="함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)" complete="함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050021" name="메이플 아케이드 10회 참여" desc="" manual="메이플 아케이드 10회 참여" complete="메이플 아케이드 10회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050022" name="모험[일반/어려움] 보너스 상자 10개 획득" desc="" manual="모험[일반/어려움] 보너스 상자 10개 획득" complete="모험[일반/어려움] 보너스 상자 10개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050023" name="$item:30000869$ 10개 획득" desc="" manual="$item:30000869$ 10개 획득" complete="$item:30000869$ 10개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050024" name="젬스톤 업그레이드 3회 성공" desc="" manual="젬스톤 업그레이드 3회 성공" complete="젬스톤 업그레이드 3회 성공" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050025" name="필드 보스 10회 처치" desc="" manual="필드 보스 10회 처치" complete="필드 보스 10회 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050026" name="$item:33000102$ 허브 30회 채집" desc="" manual="$item:33000102$ 허브 30회 채집" complete="$item:33000102$ 허브 30회 채집" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050027" name="던전 클리어 10회 (모험 / 카오스 레이드)" desc="" manual="던전 클리어 10회 (모험 / 카오스 레이드)" complete="던전 클리어 10회 (모험 / 카오스 레이드)" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050028" name="은 광맥 30회 채광" desc="" manual="은 광맥 30회 채광" complete="은 광맥 30회 채광" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050029" name="펫 합성 5회" desc="" manual="펫 합성 5회" complete="펫 합성 5회" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050030" name="MC케이 이벤트 4회 참여" desc="" manual="MC케이 이벤트 4회 참여" complete="MC케이 이벤트 4회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050031" name="몬스터 1111마리 처치" desc="" manual="몬스터 1111마리 처치" complete="몬스터 1111마리 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050032" name="낚시로 물고기 200마리 낚기" desc="" manual="낚시로 물고기 200마리 낚기" complete="낚시로 물고기 200마리 낚기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050033" name="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" desc="" manual="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" complete="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050034" name="송이버섯 더미에서 $item:33000121$ 30개 획득" desc="" manual="송이버섯 더미에서 $item:33000121$ 30개 획득" complete="송이버섯 더미에서 $item:33000121$ 30개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050035" name="다른 친구들과 1회 합주하기" desc="" manual="다른 친구들과 1회 합주하기" complete="다른 친구들과 1회 합주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050036" name="동아리 1개 가입해보기" desc="" manual="동아리 1개 가입해보기" complete="동아리 1개 가입해보기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050037" name="집 장식도 700점 달성" desc="" manual="집 장식도 700점 달성" complete="집 장식도 700점 달성" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050038" name="황금 보물 상자 10개 찾기" desc="" manual="황금 보물 상자 10개 찾기" complete="황금 보물 상자 10개 찾기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050039" name="$dungeonTitle:25008001$에 도전하여 5라운드 통과하기" desc="" manual="$dungeonTitle:25008001$에 도전하여 5라운드 통과하기" complete="$dungeonTitle:25008001$에 도전하여 5라운드 통과하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050040" name="빙하집 내려찍어 몬스터 10회 공격하기" desc="" manual="빙하집 내려찍어 몬스터 10회 공격하기" complete="빙하집 내려찍어 몬스터 10회 공격하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050041" name="$map:51000001$에서 1라운드 통과하기" desc="" manual="$map:51000001$에서 1라운드 통과하기" complete="$map:51000001$에서 1라운드 통과하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050042" name="UGC 1회 제작" desc="" manual="UGC 1회 제작" complete="UGC 1회 제작" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050043" name="다른 사람 집에서 재배물 10회 수확" desc="" manual="다른 사람 집에서 재배물 10회 수확" complete="다른 사람 집에서 재배물 10회 수확" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050044" name="인챈트 2회 성공하기" desc="" manual="인챈트 2회 성공하기" complete="인챈트 2회 성공하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050045" name="$map:02000064$에서 &apos;안녕&apos;으로 10회 인사하기" desc="" manual="$map:02000064$에서 &apos;안녕&apos;으로 10회 인사하기" complete="$map:02000064$에서 &apos;안녕&apos;으로 10회 인사하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050046" name="30분 동안 연주하기" desc="" manual="30분 동안 연주하기" complete="30분 동안 연주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050047" name="택시 8회 이용" desc="" manual="택시 8회 이용" complete="택시 8회 이용" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050048" name="쉐도우월드 비틀린 공간의 틈 1회 입장" desc="" manual="쉐도우월드 비틀린 공간의 틈 1회 입장" complete="쉐도우월드 비틀린 공간의 틈 1회 입장" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050049" name="기어서 100m 이동하기" desc="" manual="기어서 100m 이동하기" complete="기어서 100m 이동하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050050" name="함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)" desc="" manual="함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)" complete="함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050051" name="메이플 아케이드 8회 참여" desc="" manual="메이플 아케이드 8회 참여" complete="메이플 아케이드 8회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050052" name="모험[일반/어려움] 보너스 상자 8개 획득" desc="" manual="모험[일반/어려움] 보너스 상자 8개 획득" complete="모험[일반/어려움] 보너스 상자 8개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050053" name="$item:30000869$ 8개 획득" desc="" manual="$item:30000869$ 8개 획득" complete="$item:30000869$ 8개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050054" name="젬스톤 업그레이드 2회 성공" desc="" manual="젬스톤 업그레이드 2회 성공" complete="젬스톤 업그레이드 2회 성공" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050055" name="필드 보스 5회 처치" desc="" manual="필드 보스 5회 처치" complete="필드 보스 5회 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050056" name="$item:33000108$ 허브 30회 채집" desc="" manual="$item:33000108$ 허브 30회 채집" complete="$item:33000108$ 허브 30회 채집" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050057" name="던전 클리어 8회 (모험 / 카오스 레이드)" desc="" manual="던전 클리어 8회 (모험 / 카오스 레이드)" complete="던전 클리어 8회 (모험 / 카오스 레이드)" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050058" name="아연 광맥 30회 채광" desc="" manual="아연 광맥 30회 채광" complete="아연 광맥 30회 채광" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050059" name="펫 포획 5마리" desc="" manual="펫 포획 5마리" complete="펫 포획 5마리" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050060" name="MC케이 이벤트 3회 참여" desc="" manual="MC케이 이벤트 3회 참여" complete="MC케이 이벤트 3회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050061" name="몬스터 111마리 처치" desc="" manual="몬스터 111마리 처치" complete="몬스터 111마리 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050062" name="낚시로 물고기 100마리 낚기" desc="" manual="낚시로 물고기 100마리 낚기" complete="낚시로 물고기 100마리 낚기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050063" name="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" desc="" manual="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" complete="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050064" name="사과나무에서 $item:33000119$ 30개 획득" desc="" manual="사과나무에서 $item:33000119$ 30개 획득" complete="사과나무에서 $item:33000119$ 30개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050065" name="다른 친구들과 1회 합주하기" desc="" manual="다른 친구들과 1회 합주하기" complete="다른 친구들과 1회 합주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050066" name="동아리 1개 가입해보기" desc="" manual="동아리 1개 가입해보기" complete="동아리 1개 가입해보기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050067" name="집 장식도 300점 달성" desc="" manual="집 장식도 300점 달성" complete="집 장식도 300점 달성" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050068" name="황금 보물 상자 5개 찾기" desc="" manual="황금 보물 상자 5개 찾기" complete="황금 보물 상자 5개 찾기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050069" name="$dungeonTitle:25004001$ 1회 클리어" desc="" manual="$dungeonTitle:25004001$ 1회 클리어" complete="$dungeonTitle:25004001$ 1회 클리어" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050070" name="타이어 굴려 몬스터 10회 공격하기" desc="" manual="타이어 굴려 몬스터 10회 공격하기" complete="타이어 굴려 몬스터 10회 공격하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050071" name="$map:51000001$에서 1라운드 통과하기" desc="" manual="$map:51000001$에서 1라운드 통과하기" complete="$map:51000001$에서 1라운드 통과하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050072" name="UGC 1회 제작" desc="" manual="UGC 1회 제작" complete="UGC 1회 제작" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050073" name="다른 사람 집에서 축산물 5회 수확" desc="" manual="다른 사람 집에서 축산물 5회 수확" complete="다른 사람 집에서 축산물 5회 수확" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050074" name="인챈트 2회 성공하기" desc="" manual="인챈트 2회 성공하기" complete="인챈트 2회 성공하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050075" name="$map:02000064$에서 &apos;안녕&apos;으로 5회 인사하기" desc="" manual="$map:02000064$에서 &apos;안녕&apos;으로 5회 인사하기" complete="$map:02000064$에서 &apos;안녕&apos;으로 5회 인사하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050076" name="10분 동안 연주하기" desc="" manual="10분 동안 연주하기" complete="10분 동안 연주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050077" name="택시 5회 이용" desc="" manual="택시 5회 이용" complete="택시 5회 이용" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050078" name="쉐도우월드 1회 방문" desc="" manual="쉐도우월드 1회 방문" complete="쉐도우월드 1회 방문" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050079" name="수영으로 1000m 헤엄치기" desc="" manual="수영으로 1000m 헤엄치기" complete="수영으로 1000m 헤엄치기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050080" name="펫 포획 5마리" desc="" manual="펫 포획 5마리" complete="펫 포획 5마리" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050081" name="메이플 아케이드 5회 참여" desc="" manual="메이플 아케이드 5회 참여" complete="메이플 아케이드 5회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050082" name="모험[일반/어려움] 보너스 상자 5개 획득" desc="" manual="모험[일반/어려움] 보너스 상자 5개 획득" complete="모험[일반/어려움] 보너스 상자 5개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050083" name="$item:30000869$ 5개 획득" desc="" manual="$item:30000869$ 5개 획득" complete="$item:30000869$ 5개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050084" name="젬스톤 업그레이드 1회 성공" desc="" manual="젬스톤 업그레이드 1회 성공" complete="젬스톤 업그레이드 1회 성공" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050085" name="필드 보스 3회 처치" desc="" manual="필드 보스 3회 처치" complete="필드 보스 3회 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050086" name="$item:33000100$ 허브 30회 채집" desc="" manual="$item:33000100$ 허브 30회 채집" complete="$item:33000100$ 허브 30회 채집" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050087" name="던전 클리어 5회 (모험 / 카오스 레이드)" desc="" manual="던전 클리어 5회 (모험 / 카오스 레이드)" complete="던전 클리어 5회 (모험 / 카오스 레이드)" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050088" name="주석 광맥 30회 채광" desc="" manual="주석 광맥 30회 채광" complete="주석 광맥 30회 채광" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050089" name="펫 포획 3마리" desc="" manual="펫 포획 3마리" complete="펫 포획 3마리" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050090" name="MC케이 이벤트 2회 참여" desc="" manual="MC케이 이벤트 2회 참여" complete="MC케이 이벤트 2회 참여" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050091" name="몬스터 11마리 처치" desc="" manual="몬스터 11마리 처치" complete="몬스터 11마리 처치" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050092" name="낚시로 물고기 50마리 낚기" desc="" manual="낚시로 물고기 50마리 낚기" complete="낚시로 물고기 50마리 낚기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050093" name="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" desc="" manual="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" complete="신비한 운석 나무에서 &apos;대지의 조각&apos; 10개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050094" name="호박밭에서 $item:33000120$ 30개 획득" desc="" manual="호박밭에서 $item:33000120$ 30개 획득" complete="호박밭에서 $item:33000120$ 30개 획득" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050095" name="다른 친구들과 1회 합주하기" desc="" manual="다른 친구들과 1회 합주하기" complete="다른 친구들과 1회 합주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050096" name="동아리 1개 가입해보기" desc="" manual="동아리 1개 가입해보기" complete="동아리 1개 가입해보기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050097" name="집 장식도 100점 달성" desc="" manual="집 장식도 100점 달성" complete="집 장식도 100점 달성" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050098" name="황금 보물 상자 3개 찾기" desc="" manual="황금 보물 상자 3개 찾기" complete="황금 보물 상자 3개 찾기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050099" name="$dungeonTitle:21001001$ 1회 클리어" desc="" manual="$dungeonTitle:21001001$ 1회 클리어" complete="$dungeonTitle:21001001$ 1회 클리어" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050100" name="부서지는 물건 10개 부수기" desc="" manual="부서지는 물건 10개 부수기" complete="부서지는 물건 10개 부수기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050101" name="$map:51000001$에서 1라운드 통과하기" desc="" manual="$map:51000001$에서 1라운드 통과하기" complete="$map:51000001$에서 1라운드 통과하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050102" name="UGC 1회 제작" desc="" manual="UGC 1회 제작" complete="UGC 1회 제작" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050103" name="다른 사람 집 1회 방문하기" desc="" manual="다른 사람 집 1회 방문하기" complete="다른 사람 집 1회 방문하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050104" name="인챈트 1회 성공하기" desc="" manual="인챈트 1회 성공하기" complete="인챈트 1회 성공하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050105" name="$map:02000064$에서 &apos;안녕&apos;으로 3회 인사하기" desc="" manual="$map:02000064$에서 &apos;안녕&apos;으로 3회 인사하기" complete="$map:02000064$에서 &apos;안녕&apos;으로 3회 인사하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050106" name="1분 동안 연주하기" desc="" manual="1분 동안 연주하기" complete="1분 동안 연주하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050107" name="택시 3회 이용" desc="" manual="택시 3회 이용" complete="택시 3회 이용" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050108" name="망원경으로 풍경 감상하기" desc="" manual="망원경으로 풍경 감상하기" complete="망원경으로 풍경 감상하기" count="1" feature="Event" locale="NA" locking="0" />
+	<quest questID="89050109" name="탈 것타고 1000m 달리기" desc="" manual="탈 것타고 1000m 달리기" complete="탈 것타고 1000m 달리기" count="1" feature="Event" locale="NA" locking="0" />
 	<quest questID="89060001" name="300초간 해피 빌리지에 앉아서 여유 즐기기" desc="" manual="300초간 해피 빌리지에 앉아서 여유 즐기기" complete="300초간 해피 빌리지에 앉아서 여유 즐기기" count="1" locale="" locking="0" />
 	<quest questID="89060002" name="해피 빌리지에서 합주 3번 하기" desc="" manual="해피 빌리지에서 합주 3번 하기" complete="해피 빌리지에서 합주 3번 하기" count="1" locale="" locking="0" />
 	<quest questID="89060003" name="해피 빌리지에서 요정들의 케이크 3번 먹어보기" desc="" manual="해피 빌리지에서 요정들의 케이크 3번 먹어보기" complete="해피 빌리지에서 요정들의 케이크 3번 먹어보기" count="1" locale="" locking="0" />

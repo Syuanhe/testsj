@@ -1040,9 +1040,33 @@
 			<item itemID="20302454" count="1" grade="5" />
 		</v>
 	</table>
-	<table itemTableID="">
+	<table itemTableID="137">
 		<v>
-			<item itemID="" count="" grade="" />
+			<item itemID="30001133" count="1" grade="1" />
+		</v>
+	</table>
+	<table itemTableID="138">
+		<v>
+			<item itemID="20301849" count="1" grade="1" />
+		</v>
+	</table>
+	<table itemTableID="139">
+		<v>
+			<item itemID="20301849" count="10" grade="1" />
+		</v>
+	</table>
+	<table itemTableID="140">
+		<v>
+			<item itemID="40500003" count="50" grade="1" />
+			<item itemID="40500004" count="150" grade="1" />
+			<item itemID="40100032" count="50" grade="1" />
+		</v>
+	</table>
+	<table itemTableID="141">
+		<v>
+			<item itemID="40500003" count="500" grade="1" />
+			<item itemID="40500004" count="1500" grade="1" />
+			<item itemID="40100032" count="500" grade="1" />
 		</v>
 	</table>
 </ms2>

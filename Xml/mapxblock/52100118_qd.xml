@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<minimap>
+		<frustum left="-2707.2" right="2707.2" top="1692" bottom="-1692" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1200" />
+		<image left="452" right="1476" top="64" bottom="1088" name="./Data/Resource/Image/Map/Minimap/52100118.dds" icon="" />
+		<camera position="-2091.733643, 536.098877, 977.627930" rotation="90.000000, 45.000004, -40.893871" />
+		<edit zoomfactor="1.41" />
+	</minimap>
+</ms2>

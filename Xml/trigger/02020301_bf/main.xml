@@ -3,12 +3,87 @@
 <ms2>
 	<state name="대기"> 
 		<onEnter>
+			<action name="메쉬를설정한다" arg1="5241,5242,5243,5244" arg2="0" />			
+			<action name="움직이는발판을설정한다" arg1="5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183" arg2="0" />			
 		</onEnter>
 		
-		<condition name="유저를감지했으면" arg1="1007" >
+		<condition name="유저를감지했으면" arg1="1001" >
 			<transition state="시작" />		
 		</condition>		
 	</state>
+
+	<state name="시작">
+		<onEnter>
+			<action name="몬스터를생성한다" arg1="101" arg2="0" />
+			<action name="몬스터를생성한다" arg1="511,512" arg2="0" />				
+			<action name="메쉬를설정한다" arg1="5241,5242,5243,5244" arg2="1" />			
+		<!--	<action name="몬스터를생성한다" arg1="101" arg2="0" />			-->
+		</onEnter>
+			<condition name="WaitTick" waitTick="1000" >
+			<transition state="시작_2" />					
+			</condition>
+		<onExit>
+		</onExit>
+	</state>	
+	
+	<state name="시작_2">
+		<onEnter>
+                <action name="오브젝트반응설정한다" arg1="10003111" arg2="2" /> 			
+                <action name="오브젝트반응설정한다" arg1="10003112" arg2="2" /> 		
+                <action name="오브젝트반응설정한다" arg1="10003113" arg2="2" /> 		
+                <action name="오브젝트반응설정한다" arg1="10003114" arg2="2" /> 					
+            <action name="오브젝트반응설정한다" arg1="10003101" arg2="2" /> 		
+			<action name="몬스터를생성한다" arg1="501,502" arg2="0" />		
+			<action name="몬스터를생성한다" arg1="601,602,603,604" arg2="0" />				
+			<action name="메쉬를설정한다" arg1="5241,5242,5243,5244" arg2="1" />	
+			<action name="움직이는발판을설정한다" arg1="5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183" arg2="1" />					
+		<!--	<action name="몬스터를생성한다" arg1="101" arg2="0" />			-->
+		</onEnter>
+			<condition name="WaitTick" waitTick="5000" >
+			<transition state="시작_3" />				
+			</condition>
+		<onExit>
+		</onExit>
+	</state>		
+	
+	<state name="시작_3">
+		<onEnter>
+			<action name="SetVisibleBreakableObject" arg1="5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183" arg2="0" />					
+		<!--	<action name="몬스터를생성한다" arg1="101" arg2="0" />			-->
+		</onEnter>
+			<condition name="몬스터가죽어있으면" arg1="101" >
+			<transition state="레버생성_1_완료" />				
+			</condition>
+		<onExit>	
+		</onExit>
+	</state>	
+
+    <state name="레버생성_1_완료"> 
+		<onEnter>
+                <action name="오브젝트반응설정한다" arg1="10003101" arg2="1" /> 		
+                <action name="오브젝트반응설정한다" arg1="10003111" arg2="1" /> 			
+                <action name="오브젝트반응설정한다" arg1="10003112" arg2="1" /> 		
+                <action name="오브젝트반응설정한다" arg1="10003113" arg2="1" /> 		
+                <action name="오브젝트반응설정한다" arg1="10003114" arg2="1" /> 						
+		</onEnter>
+				<condition name="오브젝트가반응했으면" arg1="10003101" arg2="0">				
+			    <transition state="시작_5"/>		
+				</condition>
+		<onExit> 			
+
+			</onExit> 
+	</state>		
+	
+    <state name="시작_5"> 
+		<onEnter>		
+		</onEnter>
+		    	<condition name="WaitTick" waitTick="1000" >				
+			    <transition state="포탈생성"/>		
+				</condition>
+		<onExit> 			
+
+			</onExit> 
+	</state>		
 	
 </ms2>
 

@@ -4,7 +4,7 @@
 	<achieves id="21230124" account="1" icon="hero_battle_2.png" noticePercent="1" locking="" categoryTag="combat,boss" feature="LapentaDungeon">
 		<grade value="1">
 			<condition type="trigger" code="ClearBlueLapenta" value="1" target="" />
-			<reward type="" code="0" value="0" rank="1" />
+			<reward type="itemcoloring" code="100000000" value="0" rank="1" />
 		</grade>
 		<grade value="2">
 			<condition type="trigger" code="ClearBlueLapenta" value="10" target="" />

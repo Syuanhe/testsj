@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<quest id="80030001">
-		<script id="100" feature="" locale="JP">
-			<content text="$script:0131143418003056$" />
-			<content text="$script:0131143418003057$" />
-			<content text="$script:0131143418003058$" />
+	<quest id="80030000">
+		<script id="100" feature="Event" locale="JP">
+			<content text="$script:0507005025003064$" />
+			<content text="$script:0507005025003065$" />
+			<content text="$script:0507005025003066$" />
 		</script>
-		<script id="300" feature="" locale="JP">
-			<content text="$script:0131143418003059$" />
+		<script id="300" feature="Event" locale="JP">
+			<content text="$script:0507005025003067$" />
 		</script>
 	</quest>
 </ms2>

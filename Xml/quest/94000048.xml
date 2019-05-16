@@ -19,7 +19,7 @@
 			<remoteComplete useRemote="0" requireField="0" requireDungeonClear="0" />
 			<summonPortal fieldID="0" portalID="0" />
 			<eventMission event="" />
-			<condition type="dungeon_reward" code="23038" value="5" />
+			<condition type="dungeon_clear" code="23038002" value="5" />
 		</quest>
 	</environment>
 </ms2>

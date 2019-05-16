@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ms2>
+
+    <state name="대기" >
+        <onEnter>
+			<action name="SetUserValue" triggerID="99990002" key="Spawn" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="RandomBomb" value="0" />
+			<action name="포탈을설정한다" arg1="1" arg2="0" arg3="0" arg4="0" />
+			<action name="움직이는발판을설정한다" arg1="5001" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002185" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002186" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002187" arg2="0" />
+        </onEnter>
+		<condition name="유저를감지했으면" arg1="901" >
+			<transition state="시작"/>
+		</condition>
+    </state> 	
+
+    <state name="시작" >
+        <onEnter>
+			<action name="몬스터를생성한다" arg1="101,102,103" arg2="0" />	
+        </onEnter>
+		<condition name="몬스터가죽어있으면" arg1="101,102,103" >	
+			<transition state="엘리베이터_스위치"/>	
+		</condition>
+    </state>
+
+    <state name="엘리베이터_스위치" >
+        <onEnter>
+			<action name="오브젝트반응설정한다" arg1="10002185" arg2="1" />
+        </onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002185" arg2="0" >	
+			<transition state="엘리베이터_활성화"/>	
+		</condition>
+    </state>
+
+    <state name="엘리베이터_활성화" >
+        <onEnter>
+			<action name="움직이는발판을설정한다" arg1="5001" arg2="1" />
+			<action name="오브젝트반응설정한다" arg1="10002186" arg2="1" />
+			<action name="오브젝트반응설정한다" arg1="10002187" arg2="1" />
+        </onEnter>
+		<condition name="유저를감지했으면" arg1="911" >
+			<transition state="웨이브_시작"/>	 
+		</condition>
+    </state>
+
+    <state name="웨이브_시작" >
+        <onEnter>
+			<action name="SetUserValue" triggerID="99990002" key="Spawn" value="1" />
+        </onEnter>
+		<condition name="UserValue" key="SpawnRoomEnd" value="1" >
+			<transition state="길열림"/>
+		</condition>
+    </state>
+
+    <state name="길열림" >
+        <onEnter>
+			<action name="메쉬를설정한다" arg1="1001-1015" arg2="0" arg3="0" arg5="2" />
+        </onEnter>
+		<condition name="유저를감지했으면" arg1="921" >
+			<transition state="지뢰방_시작"/>
+		</condition>
+    </state>
+
+    <state name="지뢰방_시작" >
+        <onEnter>
+			<action name="SetUserValue" triggerID="99990003" key="RandomBomb" value="1" />
+        </onEnter>
+		<condition name="UserValue" key="RandomBombEnd" value="1" >
+			<transition state="보스전"/>
+		</condition>
+    </state>
+
+    <state name="보스전" >
+        <onEnter>
+			<action name="포탈을설정한다" arg1="1" arg2="1" arg3="1" arg4="1" />
+        </onEnter>
+		<condition name="무조건" >
+			<transition state="종료"/>
+		</condition>
+    </state>
+
+    <state name="종료" >
+        <onEnter>
+        </onEnter>
+    </state>
+
+</ms2>

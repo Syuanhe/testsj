@@ -84,6 +84,10 @@
 	<key id="21100074" name="(계정) 마스터 얼티밋 스트라이커!" feature="JobChange_02" />
 	<key id="21100075" name="(계정) 마스터 미스틱 소울바인더!" feature="JobChange_02" />
 	<key id="21100076" name="새로운 자신" feature="JobChange_02" />
+	<key id="21100077" name="새로운 힘" feature="JobChange_01" locale="NA" />
+	<key id="21100077" name="새로운 힘" feature="JobChange_01" locale="JP" />
+	<key id="21100077" name="새로운 힘" feature="JobChange_01" locale="TH" />
+	<key id="21100077" name="새로운 힘" feature="JobChange_01" locale="TW" />
 	<key id="21210001" name="킬러의 본능" />
 	<key id="21210002" name="채식주의자" />
 	<key id="21210003" name="어머 짐승!" />
@@ -1066,6 +1070,10 @@
 	<key id="22200489" name="$map:02020030$ 발견하기" feature="Kritias_2018_12" />
 	<key id="22200490" name="키델 탐험가" feature="Kritias_2018_12" />
 	<key id="22200492" name="새로운 곳을 찾아서 : 크리티아스 키델 지역" feature="Kritias_2018_12" />
+	<key id="22200493" name="$map:02000487$ 발견하기" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22200493" name="$map:02000487$ 발견하기" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22200493" name="$map:02000487$ 발견하기" feature="LapentaFrontierQuest" locale="TH" />
+	<key id="22200493" name="$map:02000487$ 발견하기" feature="LapentaFrontierQuest" locale="TW" />
 	<key id="22210001" name="그럼 이제 내가 함장인가" feature="FameChallengeDungeon" />
 	<key id="22210002" name="콘부장? 내 심부름 좀 하게나." feature="FameChallengeDungeon" />
 	<key id="22210003" name="랜선 영웅 " feature="FameChallengeDungeon" />
@@ -1431,6 +1439,22 @@
 	<key id="22300136" name="하늘의 요새, 스카이 포트리스" feature="FameContents" locale="TW" />
 	<key id="22300137" name="봉인의 비밀" feature="Kritias_Epic01" />
 	<key id="22300138" name="새로운 친구" feature="Kritias_Epic01" />
+	<key id="22300139" name="푸른 바다의 노래" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300139" name="푸른 바다의 노래" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22300139" name="푸른 바다의 노래" feature="LapentaFrontierQuest" locale="TH" />
+	<key id="22300139" name="푸른 바다의 노래" feature="LapentaFrontierQuest" locale="TW" />
+	<key id="22300140" name="얼어붙은 심장의 아리아" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300140" name="얼어붙은 심장의 아리아" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22300140" name="얼어붙은 심장의 아리아" feature="LapentaFrontierQuest" locale="TH" />
+	<key id="22300140" name="얼어붙은 심장의 아리아" feature="LapentaFrontierQuest" locale="TW" />
+	<key id="22300141" name="마드리아의 요새" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300141" name="마드리아의 요새" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22300141" name="마드리아의 요새" feature="LapentaFrontierQuest" locale="TH" />
+	<key id="22300141" name="마드리아의 요새" feature="LapentaFrontierQuest" locale="TW" />
+	<key id="22300142" name="녹아내린 얼음" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300142" name="녹아내린 얼음" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22300142" name="녹아내린 얼음" feature="LapentaFrontierQuest" locale="TH" />
+	<key id="22300142" name="녹아내린 얼음" feature="LapentaFrontierQuest" locale="TW" />
 	<key id="22400001" name="끝나지 않은 여정" />
 	<key id="22400002" name="끝은 새로운 시작" />
 	<key id="22500001" name="스카이 포트리스의 일꾼" feature="FameContents" />
@@ -1955,11 +1979,11 @@
 	<key id="23100383" name="엇!? 이 초록빛은?" feature="PetEvolution01" />
 	<key id="23100384" name="엇!? 이 파란빛은?" feature="PetEvolution01" />
 	<key id="23100385" name="엇!? 이 보랏빛은?" feature="PetEvolution01" />
-	<key id="23100386" name="엇!? 이 금빛은?" feature="PetEvolution01" />
+	<key id="23100386" name="엇!? 이 금빛은?" feature="Pet_70Lv" />
 	<key id="23100387" name="흰색 친구도 더 강해질 거야!" feature="PetEvolution01" />
 	<key id="23100388" name="초록색 친구도 더 강해질 거야!" feature="PetEvolution01" />
 	<key id="23100389" name="파란색 친구도 더 강해질 거야!" feature="PetEvolution01" />
-	<key id="23100390" name="보라색 친구도 더 강해질 거야!" feature="PetEvolution01" />
+	<key id="23100390" name="보라색 친구도 더 강해질 거야!" feature="Pet_70Lv" />
 	<key id="23100391" name="음악에 반응하는 핑크빈" />
 	<key id="23100392" name="미니빈과 함께 신나는 댄스! " />
 	<key id="23100393" name="흥을 깨우는 사운드!" />
@@ -1969,6 +1993,9 @@
 	<key id="23100397" name="무대의 완성은 조명" />
 	<key id="23100398" name="오색빛깔 찬란한 백조의 호수" />
 	<key id="23100399" name="발끝에서 시작되는 아름다운 발레" />
+	<key id="23100400" name="짤랑짤랑 너무 재미있다냥~" />
+	<key id="23100401" name="물은 싫지만 더키볼은 좋다냥!" />
+	<key id="23100402" name="데굴데굴 정신없이 돌아냥!" />
 	<key id="23200001" name="티끌 모아 태산" />
 	<key id="23200002" name="돈으로 시간을 사겠어!" />
 	<key id="23200003" name="모범 택시비는 얼마죠?" />
@@ -2349,4 +2376,7 @@
 	<key id="92000139" name="레인보우 슬라임의 친구" feature="Event" locale="NA" />
 	<key id="92000140" name="레인보우 슬라임 사육사" feature="Event" locale="NA" />
 	<key id="92000141" name="나의 짝꿍을 찾아서!" feature="Event" locale="CN" />
+	<key id="92000142" name="2019 스타 건축가" locale="JP" />
+	<key id="92000143" name="2019 탑 디자이너" locale="JP" />
+	<key id="92000144" name="벚꽃나무 명당" feature="Event" locale="CN" />
 </ms2>

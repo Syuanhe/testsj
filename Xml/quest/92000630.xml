@@ -7,7 +7,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="91000000" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
 				<essentialItem code="30000925" rank="1" count="1" />
 			</completeReward>
 			<progressMap progressMap="02000024" />
@@ -27,7 +27,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="91000000" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
 				<essentialItem code="30001050" rank="1" count="14" />
 			</completeReward>
 			<progressMap progressMap="02000024" />
@@ -47,7 +47,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="91000000" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
 				<essentialItem code="30001050" rank="1" count="14" />
 			</completeReward>
 			<progressMap progressMap="02000024" />
@@ -67,7 +67,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="91000000" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
 				<essentialItem code="30001050" rank="1" count="14" />
 			</completeReward>
 			<progressMap progressMap="02000024" />
@@ -87,7 +87,7 @@
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="50" maxLevel="0" job="" quest="91000015" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="91000000" dayOfWeek="" gearScore="0" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="1" rewardExpExtra="1">
 				<essentialItem code="30001050" rank="1" count="14" />
 			</completeReward>
 			<progressMap progressMap="02000024" />

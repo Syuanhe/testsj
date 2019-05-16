@@ -114,6 +114,20 @@
     </onExit>
   </state>
   
+    <state feature="JPTriggerVoice" name="멘트1">
+    <onEnter>
+      <action name="타이머를설정한다" arg1="1" arg2="11"/>
+			<action name="PlaySystemSoundInBox" arg2="ME_002_Massive01_01"/>  		  
+      <action name="이벤트UI를설정한다" arg1="1" arg2="$61000002_ME_002__MASSIVE01__1$" arg3="11000" />
+    </onEnter>
+    <condition name="시간이경과했으면" arg1="1">
+      <transition state="멘트2"/>
+    </condition>
+    <onExit>
+      <action name="타이머를초기화한다" arg1="1"/>
+    </onExit>
+  </state>
+  
   <state name="멘트1">
     <onEnter>
       <action name="타이머를설정한다" arg1="1" arg2="9"/>
@@ -128,6 +142,20 @@
     </onExit>
   </state>
 
+    <state feature="JPTriggerVoice" name="멘트2">
+    <onEnter>
+      <action name="타이머를설정한다" arg1="1" arg2="9"/>
+	<action name="PlaySystemSoundInBox" arg2="ME_002_Massive01_02"/>  		  
+      <action name="이벤트UI를설정한다" arg1="1" arg2="$61000002_ME_002__MASSIVE01__2$" arg3="9000" />
+    </onEnter>
+    <condition name="시간이경과했으면" arg1="1">
+      <transition state="멘트3"/>
+    </condition>
+    <onExit>
+      <action name="타이머를초기화한다" arg1="1"/>
+    </onExit>
+  </state>
+  
   <state name="멘트2">
     <onEnter>
       <action name="타이머를설정한다" arg1="1" arg2="6"/>

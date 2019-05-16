@@ -8,7 +8,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015,93000179" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="93000180" dayOfWeek="" gearScore="0" alliance="greenhood" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000182" />
 			<complete npc="11003536" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" useMainFamePoint="2" fameLog="5000" rewardExpExtra="2">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" useMainFamePoint="2" fameLog="5000" rewardExpExtra="2">
 				<essentialItem code="30001050" rank="1" count="150" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -29,7 +29,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015,93000179" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="93000180" dayOfWeek="" gearScore="0" alliance="greenhood" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000182" />
 			<complete npc="11003536" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
 				<essentialItem code="30001050" rank="1" count="150" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -50,7 +50,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015,93000179" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="93000180" dayOfWeek="" gearScore="0" alliance="greenhood" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000182" />
 			<complete npc="11003536" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
 				<essentialItem code="30001050" rank="1" count="150" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -71,7 +71,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015,93000179" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="93000180" dayOfWeek="" gearScore="0" alliance="greenhood" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000182" />
 			<complete npc="11003536" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
 				<essentialItem code="30001050" rank="1" count="150" />
 			</completeReward>
 			<progressMap progressMap="" />
@@ -92,7 +92,7 @@
 			<require level="50" maxLevel="0" job="" quest="91000015,93000179" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="93000180" dayOfWeek="" gearScore="0" alliance="greenhood" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000182" />
 			<complete npc="11003536" fieldID="2000422" />
 			<acceptReward />
-			<completeReward exp="0" relativeExp="quest" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
+			<completeReward exp="0" relativeExp="questSkyFortress" money="0" karma="0" lu="0" fameLog="5000" rewardExpExtra="2">
 				<essentialItem code="30001050" rank="1" count="150" />
 			</completeReward>
 			<progressMap progressMap="" />

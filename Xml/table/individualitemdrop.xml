@@ -2578,7 +2578,6 @@
 	<individualDropBox individualDropBoxID="390000081" dropGroup="2" item="40100039" minCount="10" maxCount="100" socketDataID="" />
 	<individualDropBox individualDropBoxID="390000081" dropGroup="3" item="33000280" minCount="10" maxCount="10" socketDataID="" locale="KR" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="390000081" dropGroup="3" item="33000279" minCount="10" maxCount="10" socketDataID="" locale="KR" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="390000081" dropGroup="4" item="40100029" minCount="1" maxCount="5" socketDataID="" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="390000082" dropGroup="1" item="40100039" minCount="10" maxCount="10" socketDataID="" />
 	<individualDropBox individualDropBoxID="390000083" dropGroup="1" item="20301127" minCount="1" maxCount="1" socketDataID="" locale="CN" />
 	<individualDropBox individualDropBoxID="390000084" dropGroup="1" item="20301900" minCount="1" maxCount="1" socketDataID="" />
@@ -2587,7 +2586,6 @@
 	<individualDropBox individualDropBoxID="391000001" dropGroup="1" item="20001098" minCount="1" maxCount="1" socketDataID="" feature="Gigantica01" />
 	<individualDropBox individualDropBoxID="330001328" dropGroup="1" item="33000280" minCount="25" maxCount="25" socketDataID="" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001329" dropGroup="1" item="33000279" minCount="25" maxCount="25" socketDataID="" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001330" dropGroup="1" item="40100029" minCount="3" maxCount="3" socketDataID="" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001331" dropGroup="1" item="40100032" minCount="10" maxCount="10" socketDataID="" />
 	<individualDropBox individualDropBoxID="330001414" dropGroup="1" item="11200061" minCount="1" maxCount="1" socketDataID="1004" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="330001516" dropGroup="1" item="20300846" minCount="1" maxCount="1" socketDataID="" PackageUIShowGrade="4" feature="SkinSocket" />
@@ -3163,112 +3161,42 @@
 	<individualDropBox individualDropBoxID="920006019" dropGroup="2" item="90000017" minCount="190" maxCount="190" socketDataID="" />
 	<individualDropBox individualDropBoxID="920006020" dropGroup="1" item="90000018" minCount="2305" maxCount="2305" socketDataID="" />
 	<individualDropBox individualDropBoxID="920006020" dropGroup="2" item="90000017" minCount="200" maxCount="200" socketDataID="" />
-	<individualDropBox individualDropBoxID="920007001" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007002" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007003" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007004" dropGroup="1" item="61100010" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007005" dropGroup="1" item="61100020" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007006" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007001" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007002" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007003" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007004" dropGroup="1" item="61100010" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007005" dropGroup="1" item="61100020" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007006" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61120030" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61020079" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61100060" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61120060" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61100050" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61120050" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61120090" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61120040" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61120030" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61020079" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61100060" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61120060" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61100050" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61120050" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61120090" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61120040" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007013" dropGroup="1" item="61100132" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007014" dropGroup="1" item="61100133" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007015" dropGroup="1" item="61100134" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007016" dropGroup="1" item="61100135" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007017" dropGroup="1" item="61100136" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007018" dropGroup="1" item="61100137" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61100139" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61120139" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61100138" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61120138" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61100140" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61120140" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007013" dropGroup="1" item="61100132" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007014" dropGroup="1" item="61100133" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007015" dropGroup="1" item="61100134" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007016" dropGroup="1" item="61100135" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007017" dropGroup="1" item="61100136" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007018" dropGroup="1" item="61100137" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61100139" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61120139" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61100138" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61120138" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61100140" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61120140" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007001" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007002" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007003" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007004" dropGroup="1" item="61100010" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007005" dropGroup="1" item="61100020" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007006" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61120030" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61020079" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61100060" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61100050" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61120090" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61120040" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="PetUpdate01" />
-	<individualDropBox individualDropBoxID="920007013" dropGroup="1" item="61100132" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007014" dropGroup="1" item="61100133" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007015" dropGroup="1" item="61100134" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007016" dropGroup="1" item="61100135" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007017" dropGroup="1" item="61100136" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007018" dropGroup="1" item="61100137" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61100139" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61120139" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61100138" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61120138" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61100140" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61120140" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="Pet_60Lv" />
-	<individualDropBox individualDropBoxID="920007022" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007023" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007024" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100141" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100142" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100143" minCount="1" maxCount="1" socketDataID="" locale="KR" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007022" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007023" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007024" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" locale="CN" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007022" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007023" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007024" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
-	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" locale="NA" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007001" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007002" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007003" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007004" dropGroup="1" item="61100010" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007005" dropGroup="1" item="61100020" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007006" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61100030" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007007" dropGroup="1" item="61120030" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61000079" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007008" dropGroup="1" item="61020079" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61100060" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007009" dropGroup="1" item="61120060" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61100050" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007010" dropGroup="1" item="61120050" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61100090" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007011" dropGroup="1" item="61120090" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61100040" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007012" dropGroup="1" item="61120040" minCount="1" maxCount="1" socketDataID="" feature="PetUpdate01" />
+	<individualDropBox individualDropBoxID="920007013" dropGroup="1" item="61100132" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007014" dropGroup="1" item="61100133" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007015" dropGroup="1" item="61100134" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007016" dropGroup="1" item="61100135" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007017" dropGroup="1" item="61100136" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007018" dropGroup="1" item="61100137" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61100139" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007019" dropGroup="1" item="61120139" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61100138" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007020" dropGroup="1" item="61120138" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61100140" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007021" dropGroup="1" item="61120140" minCount="1" maxCount="1" socketDataID="" feature="Pet_60Lv" />
+	<individualDropBox individualDropBoxID="920007022" dropGroup="1" item="61120141" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007023" dropGroup="1" item="61120142" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007024" dropGroup="1" item="61120143" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100141" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100142" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
+	<individualDropBox individualDropBoxID="920007025" dropGroup="1" item="61100143" minCount="1" maxCount="1" socketDataID="" feature="LapentaDungeon" />
 	<individualDropBox individualDropBoxID="330001539" dropGroup="1" item="50600128" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="330001540" dropGroup="1" item="11301063" minCount="1" maxCount="1" socketDataID="" />
 	<individualDropBox individualDropBoxID="330001541" dropGroup="1" item="11301064" minCount="1" maxCount="1" socketDataID="" />

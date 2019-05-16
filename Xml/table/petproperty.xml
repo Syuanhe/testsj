@@ -396,10 +396,16 @@
 	<pets code="62000011" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="62000011" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
 		<skill id="0" level="0" />
 	</pets>
+	<pets code="62000011" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="62000011" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="JP">
+		<skill id="0" level="0" />
+	</pets>
 	<pets code="62000013" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="1" npcID="62000013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" additionalEffectID="61100150" additionalEffectLevel="1" feature="PetBattle">
 		<skill id="0" level="0" />
 	</pets>
 	<pets code="62000013" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="62000013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" additionalEffectID="61100150" additionalEffectLevel="1" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000013" type="1" enablePetExtraction="1" collectGroupId="100" isCollectPreview="0" npcID="62000013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" additionalEffectID="61100150" additionalEffectLevel="1" feature="PetBattle" locale="JP">
 		<skill id="0" level="0" />
 	</pets>
 	<pets code="62900001" type="0" enablePetExtraction="1" collectGroupId="900" isCollectPreview="0" npcID="62900001" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" feature="PetBase">

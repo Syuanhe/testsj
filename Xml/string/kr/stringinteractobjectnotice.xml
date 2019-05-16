@@ -1634,6 +1634,7 @@
 	<key id="11000113" name="" feature="Event" locale="JP" />
 	<key id="11000113" name="" feature="Event" locale="TH" />
 	<key id="11000113" name="" feature="Event" locale="TW" />
+	<key id="11000114" name="" feature="Event" locale="JP" />
 	<key id="11100001" name="" />
 	<key id="11100002" name="" />
 	<key id="11100003" name="" />
@@ -3297,6 +3298,7 @@
 	<key id="31000015" name="" locale="TH" />
 	<key id="31000015" name="" locale="TW" />
 	<key id="31000016" name="" feature="Event" locale="NA" />
+	<key id="31000017" name="" feature="Event" locale="JP" />
 	<key id="32000000" name="" />
 	<key id="32000001" name="" />
 	<key id="32000002" name="" />

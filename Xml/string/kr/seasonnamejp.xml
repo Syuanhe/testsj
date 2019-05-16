@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<season />
-	<season />
+	<season type="DarkStream" id="1" name="프리 시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="2" name="프리 시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="3" name="프리 시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="4" name="프리 시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="5" name="프리 시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="6" name="1시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="7" name="2시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="8" name="3시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="9" name="4시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="10" name="5시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="11" name="6시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="12" name="7시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="13" name="8시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="14" name="9시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="15" name="10시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="16" name="11시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="17" name="12시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="18" name="13시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="19" name="14시즌" feature="TimeAttackDungeon" />
+	<season type="DarkStream" id="20" name="15시즌" feature="TimeAttackDungeon" />
+	<season type="Arcade" id="1" name="프리 시즌" feature="" />
+	<season type="Arcade" id="2" name="프리 시즌" feature="" />
+	<season type="Arcade" id="3" name="프리 시즌" feature="" />
+	<season type="Arcade" id="4" name="프리 시즌" feature="" />
+	<season type="Arcade" id="5" name="프리 시즌" feature="" />
+	<season type="Arcade" id="6" name="프리 시즌" feature="" />
+	<season type="Arcade" id="7" name="프리 시즌" feature="" />
+	<season type="Arcade" id="8" name="프리 시즌" feature="" />
+	<season type="Arcade" id="9" name="프리 시즌" feature="" />
+	<season type="Arcade" id="10" name="프리 시즌" feature="" />
+	<season type="Arcade" id="11" name="1시즌" feature="" />
+	<season type="Arcade" id="12" name="2시즌" feature="" />
+	<season type="Arcade" id="13" name="3시즌" feature="" />
+	<season type="Arcade" id="14" name="4시즌" feature="" />
+	<season type="Arcade" id="15" name="5시즌" feature="" />
+	<season type="Arcade" id="16" name="6시즌" feature="" />
+	<season type="Arcade" id="17" name="7시즌" feature="" />
+	<season type="Arcade" id="18" name="8시즌" feature="" />
+	<season type="Arcade" id="19" name="9시즌" feature="" />
+	<season type="Arcade" id="20" name="10시즌" feature="" />
+	<season type="Arcade" id="21" name="11시즌" feature="" />
+	<season type="Arcade" id="22" name="12시즌" feature="" />
+	<season type="Arcade" id="23" name="13시즌" feature="" />
+	<season type="Arcade" id="24" name="14시즌" feature="" />
+	<season type="Arcade" id="25" name="15시즌" feature="" />
+	<season type="Arcade" id="26" name="16시즌" feature="" />
+	<season type="Arcade" id="27" name="17시즌" feature="" />
+	<season type="Arcade" id="28" name="18시즌" feature="" />
+	<season type="Arcade" id="29" name="19시즌" feature="" />
+	<season type="Arcade" id="30" name="20시즌" feature="" />
+	<season type="Arcade" id="31" name="21시즌" feature="" />
+	<season type="Arcade" id="32" name="22시즌" feature="" />
+	<season type="Arcade" id="33" name="23시즌" feature="" />
+	<season type="Arcade" id="34" name="24시즌" feature="" />
+	<season type="Arcade" id="35" name="25시즌" feature="" />
+	<season type="Arcade" id="36" name="26시즌" feature="" />
+	<season type="Arcade" id="37" name="27시즌" feature="" />
+	<season type="Arcade" id="38" name="28시즌" feature="" />
+	<season type="Arcade" id="39" name="29시즌" feature="" />
+	<season type="Arcade" id="40" name="30시즌" feature="" />
+	<season type="PvP" id="1" name="프리 시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="2" name="프리 시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="3" name="프리 시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="4" name="프리 시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="5" name="1시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="6" name="2시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="7" name="3시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="8" name="4시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="9" name="5시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="10" name="6시즌" feature="PvPRankingDuelMode" />
+	<season type="PvP" id="11" name="7시즌" feature="PvPRankingDuelMode" />
+	<season type="UgcmapCommendation" id="201901" name="프리 시즌" feature="" />
+	<season type="UgcmapCommendation" id="201902" name="프리 시즌" feature="" />
+	<season type="UgcmapCommendation" id="201903" name="프리 시즌" feature="" />
+	<season type="UgcmapCommendation" id="201904" name="# season 1" feature="" />
+	<season type="UgcmapCommendation" id="201905" name="# season 2" feature="" />
+	<season type="UgcmapCommendation" id="201906" name="# season 3" feature="" />
+	<season type="UgcmapCommendation" id="201907" name="# season 4" feature="" />
+	<season type="UgcmapCommendation" id="201908" name="# season 5" feature="" />
+	<season type="UgcmapCommendation" id="201909" name="# season 6" feature="" />
+	<season type="UgcmapCommendation" id="201910" name="# season 7" feature="" />
 	<season />
 </ms2>

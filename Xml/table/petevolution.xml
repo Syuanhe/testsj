@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="KR" requireItemLevel="50" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="CN" requireItemLevel="50" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="NA" requireItemLevel="50" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="KR" requireItemLevel="60" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="CN" requireItemLevel="60" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="0" locale="NA" requireItemLevel="60" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="40" locale="KR" requireItemLevel="70" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="40" locale="CN" requireItemLevel="70" />
-	<petEvolution Grade1="200" Grade2="160" Grade3="80" Grade4="40" locale="NA" requireItemLevel="70" />
+	<petEvolution Grade1="80" Grade2="80" Grade3="80" Grade4="0" requireItemLevel="50" />
+	<petEvolution Grade1="80" Grade2="80" Grade3="80" Grade4="0" requireItemLevel="60" />
+	<petEvolution Grade1="80" Grade2="80" Grade3="80" Grade4="40" requireItemLevel="70" />
 </ms2>

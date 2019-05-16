@@ -1,4 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<quest questID="" name="" desc="" manual="" complete="" count="" locale="" />
+	<quest questID="80030000" name="메이플 월드 보상 스크롤 구매" desc="메럿 마켓에서 $item:20302631$ 상품이 판매되고 있다.&#x0A;&#x0A;$item:20302631$을 사용하면 15일 동안, 매일 푸짐한 보상을 준다.&#x0A;&#x0A;특별 판매 탭에서 0메럿에 판매되고 있으니, 서둘러 구매해보자~♡" manual="메럿 마켓에서 $item:20302631$ 구매해서 사용해보기!" complete="메럿 마켓에서 $item:20302631$ 구매해서 사용해보기!" count="" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070000" name="10레벨 달성" desc="10레벨 달성" manual="10레벨 달성" complete="10레벨 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070001" name="50m 수영" desc="50m 수영" manual="50m 수영" complete="50m 수영" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070002" name="퀸즈타운에서 /안녕 인사" desc="퀸즈타운에서 /안녕 인사" manual="퀸즈타운에서 /안녕 인사" complete="퀸즈타운에서 /안녕 인사" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070003" name="점프 10회" desc="점프 10회" manual="점프 10회" complete="점프 10회" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070004" name="물고기 30마리 낚기" desc="물고기 30마리 낚기" manual="물고기 30마리 낚기" complete="물고기 30마리 낚기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070005" name="15레벨 달성" desc="15레벨 달성" manual="15레벨 달성" complete="15레벨 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070006" name="다른 사람 집 1회 방문" desc="다른 사람 집 1회 방문" manual="다른 사람 집 1회 방문" complete="다른 사람 집 1회 방문" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070007" name="구리 광맥 30회 채광" desc="구리 광맥 30회 채광" manual="구리 광맥 30회 채광" complete="구리 광맥 30회 채광" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070008" name="메이플 아케이드 1회 참여" desc="메이플 아케이드 1회 참여" manual="메이플 아케이드 1회 참여" complete="메이플 아케이드 1회 참여" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070009" name="악보 1곡 연주" desc="악보 1곡 연주" manual="악보 1곡 연주" complete="악보 1곡 연주" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070010" name="20레벨 달성" desc="20레벨 달성" manual="20레벨 달성" complete="20레벨 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070011" name="트로피 20개 달성" desc="트로피 20개 달성" manual="트로피 20개 달성" complete="트로피 20개 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070012" name="몬스터 50마리 처치" desc="몬스터 50마리 처치" manual="몬스터 50마리 처치" complete="몬스터 50마리 처치" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070013" name="나무 보물 상자 3개 열기" desc="나무 보물 상자 3개 열기" manual="나무 보물 상자 3개 열기" complete="나무 보물 상자 3개 열기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070014" name="택시 1회 이용" desc="택시 1회 이용" manual="택시 1회 이용" complete="택시 1회 이용" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070015" name="25레벨 달성" desc="25레벨 달성" manual="25레벨 달성" complete="25레벨 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070016" name="필드 보스 1회 처치" desc="필드 보스 1회 처치" manual="필드 보스 1회 처치" complete="필드 보스 1회 처치" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070017" name="황금 보물 상자 2개 열기" desc="황금 보물 상자 2개 열기" manual="황금 보물 상자 2개 열기" complete="황금 보물 상자 2개 열기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070018" name="벽타고 50m 이동" desc="벽타고 50m 이동" manual="벽타고 50m 이동" complete="벽타고 50m 이동" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070019" name="탈것 타고 50m 이동" desc="탈것 타고 50m 이동" manual="탈것 타고 50m 이동" complete="탈것 타고 50m 이동" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070020" name="모험레벨 4 달성" desc="모험레벨 4 달성" manual="합주 1회 성공" complete="합주 1회 성공" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070021" name="논에서 쌀 10회 수확하기" desc="논에서 쌀 10회 수확하기" manual="논에서 쌀 10회 수확하기" complete="논에서 쌀 10회 수확하기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070022" name="50m 기어서 이동" desc="50m 기어서 이동" manual="50m 기어서 이동" complete="50m 기어서 이동" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070023" name="신호등 10회 휘두르기" desc="신호등 10회 휘두르기" manual="신호등 10회 휘두르기" complete="신호등 10회 휘두르기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070024" name="바닷물에 사는 물고기 10마리 낚기" desc="바닷물에 사는 물고기 10마리 낚기" manual="바닷물에 사는 물고기 10마리 낚기" complete="바닷물에 사는 물고기 10마리 낚기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070025" name="탐험 달성도 20 돌파" desc="탐험 달성도 20 돌파" manual="탐험 달성도 20 돌파" complete="탐험 달성도 20 돌파" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070026" name="펫 포획 1마리 성공" desc="펫 포획 1마리 성공" manual="캐시마트 1회 참여" complete="캐시마트 1회 참여" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070027" name="악마형 몬스터 30마리 처치" desc="악마형 몬스터 30마리 처치" manual="악마형 몬스터 30마리 처치" complete="악마형 몬스터 30마리 처치" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070028" name="구리 주괴 1개 만들기" desc="구리 주괴 1개 만들기" manual="구리 주괴 1개 만들기" complete="구리 주괴 1개 만들기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070029" name="민물에 사는 물고기 10마리 낚기" desc="민물에 사는 물고기 10마리 낚기" manual="민물에 사는 물고기 10마리 낚기" complete="민물에 사는 물고기 10마리 낚기" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070030" name="30레벨 달성" desc="30레벨 달성" manual="30레벨 달성" complete="30레벨 달성" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070031" name="식물형 몬스터 30마리 처치" desc="식물형 몬스터 30마리 처치" manual="식물형 몬스터 30마리 처치" complete="식물형 몬스터 30마리 처치" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070032" name="MC케이 이벤트 1회 참여" desc="MC케이 이벤트 1회 참여" manual="MC케이 이벤트 1회 참여" complete="MC케이 이벤트 1회 참여" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070033" name="친구 1명 추가" desc="친구 1명 추가" manual="친구 1명 추가" complete="친구 1명 추가" count="1" feature="Event" locale="JP" locking="0" />
+	<quest questID="89070034" name="집 장식도 점수 100점 달성" desc="집 장식도 점수 100점 달성" manual="집 장식도 점수 100점 달성" complete="집 장식도 점수 100점 달성" count="1" feature="Event" locale="JP" locking="0" />
 </ms2>

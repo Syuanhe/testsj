@@ -3214,7 +3214,6 @@
 	<individualDropBox individualDropBoxID="330001227" dropGroup="1" item="20000281" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="" locale="CN" />
 	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="33000160" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="200" maxCount="200" PackageUIShowGrade="4" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="33000161" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="200" maxCount="200" PackageUIShowGrade="4" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="10" maxCount="10" PackageUIShowGrade="4" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="20300846" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="40500003" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001336" dropGroup="1" item="40500004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="90" maxCount="90" PackageUIShowGrade="" feature="SkinSocket" />
@@ -3334,7 +3333,6 @@
 	<individualDropBox individualDropBoxID="330001351" dropGroup="11" item="20000033" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="" />
 	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="33000160" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="33000161" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="40100029" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" PackageUIShowGrade="4" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="40500003" smartDropRate="0" showTooltip="2" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="40500004" smartDropRate="0" showTooltip="2" enchantLevel="0" socketDataID="" minCount="150" maxCount="150" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001356" dropGroup="1" item="20300828" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="4" />
@@ -3460,7 +3458,6 @@
 	<individualDropBox individualDropBoxID="330001404" dropGroup="1" item="15600212" smartDropRate="100" enchantLevel="12" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="KR" feature="SoulBinder" />
 	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="33000160" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="33000161" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" PackageUIShowGrade="4" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="40500003" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="40500004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="150" maxCount="150" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001405" dropGroup="1" item="20300828" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="4" />
@@ -3854,7 +3851,6 @@
 	<individualDropBox individualDropBoxID="330001548" dropGroup="3" item="20000669" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="" />
 	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="33000160" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="33000161" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="40100029" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" PackageUIShowGrade="4" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="40500003" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="40500004" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="150" maxCount="150" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001549" dropGroup="1" item="20000506" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="" />
@@ -4010,7 +4006,6 @@
 	<individualDropBox individualDropBoxID="330001574" dropGroup="1" item="20000672" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="3" maxCount="3" PackageUIShowGrade="" locale="CN" />
 	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="33000160" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
 	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="33000161" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="300" maxCount="300" PackageUIShowGrade="4" feature="MagicScroll01" />
-	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="40100029" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="20" maxCount="20" PackageUIShowGrade="4" feature="Peachy01" />
 	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="40500003" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="40500004" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="150" maxCount="150" PackageUIShowGrade="" feature="SkinSocket" />
 	<individualDropBox individualDropBoxID="330001575" dropGroup="1" item="20000506" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="" />
@@ -4538,7 +4533,6 @@
 	<individualDropBox individualDropBoxID="330001740" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001740" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001740" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001740" dropGroup="6" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001741" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001741" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001741" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
@@ -4546,21 +4540,18 @@
 	<individualDropBox individualDropBoxID="330001741" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001741" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001741" dropGroup="7" item="30000959" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001741" dropGroup="8" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001742" dropGroup="6" item="30000961" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001742" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="5" item="20300685" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="CN" />
 	<individualDropBox individualDropBoxID="330001743" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001743" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001744" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001744" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001744" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
@@ -4568,7 +4559,6 @@
 	<individualDropBox individualDropBoxID="330001744" dropGroup="5" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001744" dropGroup="6" item="20301148" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001744" dropGroup="7" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001744" dropGroup="8" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001767" dropGroup="1" item="20000694" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="10" maxCount="10" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001767" dropGroup="2" item="70300028" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001768" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -4577,14 +4567,12 @@
 	<individualDropBox individualDropBoxID="330001768" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001768" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001768" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001768" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="330001769" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="330001769" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="330001772" dropGroup="1" item="20301209" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="" />
 	<individualDropBox individualDropBoxID="330001773" dropGroup="1" item="40400036" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" />
 	<individualDropBox individualDropBoxID="330001773" dropGroup="1" item="59400066" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
@@ -5457,7 +5445,6 @@
 	<individualDropBox individualDropBoxID="340000094" dropGroup="4" item="11700315" smartDropRate="0" isApplySmartGenderDrop="True" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="340000095" dropGroup="1" item="30001165" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" />
 	<individualDropBox individualDropBoxID="340000096" dropGroup="1" item="30001165" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" />
-	<individualDropBox individualDropBoxID="340000097" dropGroup="1" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="10" maxCount="10" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000097" dropGroup="2" item="40100036" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000097" dropGroup="3" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000097" dropGroup="4" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
@@ -5595,7 +5582,6 @@
 	<individualDropBox individualDropBoxID="340000114" dropGroup="3" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000114" dropGroup="6" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="7" item="70300069" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5604,7 +5590,6 @@
 	<individualDropBox individualDropBoxID="340000115" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="7" item="30000959" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000115" dropGroup="8" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="9" item="11840081" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5612,7 +5597,6 @@
 	<individualDropBox individualDropBoxID="340000116" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="5" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="6" item="30000961" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000116" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="8" item="12140064" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5620,7 +5604,6 @@
 	<individualDropBox individualDropBoxID="340000117" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="5" item="20300685" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="CN" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000117" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="50" maxCount="50" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="8" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5629,7 +5612,6 @@
 	<individualDropBox individualDropBoxID="340000118" dropGroup="5" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="6" item="20301148" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="7" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000118" dropGroup="8" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="9" item="20302048" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000119" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000119" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5637,7 +5619,6 @@
 	<individualDropBox individualDropBoxID="340000119" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000119" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000119" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000119" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000119" dropGroup="8" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000120" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000120" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -5645,107 +5626,86 @@
 	<individualDropBox individualDropBoxID="340000120" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000120" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000120" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000120" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000120" dropGroup="8" item="30001121" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="3" maxCount="3" PackageUIShowGrade="3" locale="CN" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
-	<individualDropBox individualDropBoxID="340000114" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
-	<individualDropBox individualDropBoxID="340000115" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="5" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
-	<individualDropBox individualDropBoxID="340000116" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="5" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
-	<individualDropBox individualDropBoxID="340000117" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="5" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="NA" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="4" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" />
-	<individualDropBox individualDropBoxID="340000118" dropGroup="5" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
-	<individualDropBox individualDropBoxID="340000114" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
-	<individualDropBox individualDropBoxID="340000115" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="5" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
-	<individualDropBox individualDropBoxID="340000116" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="5" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
-	<individualDropBox individualDropBoxID="340000117" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="5" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="JP" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="4" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" />
-	<individualDropBox individualDropBoxID="340000118" dropGroup="5" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="JP" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
-	<individualDropBox individualDropBoxID="340000114" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
-	<individualDropBox individualDropBoxID="340000115" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="5" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
-	<individualDropBox individualDropBoxID="340000116" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="5" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
-	<individualDropBox individualDropBoxID="340000117" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="5" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TH" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="4" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="TH" />
-	<individualDropBox individualDropBoxID="340000118" dropGroup="5" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="TH" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000114" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
-	<individualDropBox individualDropBoxID="340000114" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
-	<individualDropBox individualDropBoxID="340000115" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000115" dropGroup="5" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
-	<individualDropBox individualDropBoxID="340000116" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000116" dropGroup="5" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
-	<individualDropBox individualDropBoxID="340000117" dropGroup="4" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000117" dropGroup="5" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="1" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="2" item="20000590" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="3" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="TW" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="4" item="70100004" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="TW" />
-	<individualDropBox individualDropBoxID="340000118" dropGroup="5" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000118" dropGroup="6" item="50600155" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="TW" />
 	<individualDropBox individualDropBoxID="340000121" dropGroup="1" item="30001190" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000121" dropGroup="1" item="30001190" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
@@ -6490,7 +6450,6 @@
 	<individualDropBox individualDropBoxID="340000241" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000241" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000241" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000241" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000241" dropGroup="8" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000242" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000242" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6498,7 +6457,6 @@
 	<individualDropBox individualDropBoxID="340000242" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000242" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000242" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000242" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000242" dropGroup="8" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6506,7 +6464,6 @@
 	<individualDropBox individualDropBoxID="340000243" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000243" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="8" item="20302313" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6514,7 +6471,6 @@
 	<individualDropBox individualDropBoxID="340000244" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000244" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="8" item="31001023" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6522,7 +6478,6 @@
 	<individualDropBox individualDropBoxID="340000245" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000245" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="8" item="30001121" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="3" maxCount="3" PackageUIShowGrade="3" locale="CN" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6530,7 +6485,6 @@
 	<individualDropBox individualDropBoxID="340000246" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000246" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="8" item="20301613" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" />
@@ -6538,7 +6492,6 @@
 	<individualDropBox individualDropBoxID="340000247" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="CN" />
-	<individualDropBox individualDropBoxID="340000247" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="8" item="31001024" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="CN" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
@@ -6546,7 +6499,6 @@
 	<individualDropBox individualDropBoxID="340000243" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
-	<individualDropBox individualDropBoxID="340000243" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000243" dropGroup="8" item="20302313" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
@@ -6554,7 +6506,6 @@
 	<individualDropBox individualDropBoxID="340000244" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
-	<individualDropBox individualDropBoxID="340000244" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000244" dropGroup="8" item="31001008" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
@@ -6562,7 +6513,6 @@
 	<individualDropBox individualDropBoxID="340000245" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
-	<individualDropBox individualDropBoxID="340000245" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000245" dropGroup="8" item="30001121" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="3" maxCount="3" PackageUIShowGrade="3" locale="KR" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
@@ -6570,7 +6520,6 @@
 	<individualDropBox individualDropBoxID="340000246" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
-	<individualDropBox individualDropBoxID="340000246" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000246" dropGroup="8" item="20301610" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="1" item="20301105" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="2" item="20300041" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" />
@@ -6578,7 +6527,6 @@
 	<individualDropBox individualDropBoxID="340000247" dropGroup="4" item="20000593" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="5" item="20300890" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="6" item="20000484" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="1" locale="KR" />
-	<individualDropBox individualDropBoxID="340000247" dropGroup="7" item="40100029" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="100" maxCount="100" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000247" dropGroup="8" item="31001009" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="KR" />
 	<individualDropBox individualDropBoxID="340000248" dropGroup="1" item="20300039" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
 	<individualDropBox individualDropBoxID="340000248" dropGroup="1" item="20300040" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" />
@@ -6836,12 +6784,14 @@
 	<individualDropBox individualDropBoxID="340000308" dropGroup="1" item="70400043" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Event" />
 	<individualDropBox individualDropBoxID="340000308" dropGroup="2" item="20000674" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="10" maxCount="10" PackageUIShowGrade="1" feature="Event" />
 	<individualDropBox individualDropBoxID="340000309" dropGroup="1" item="30001342" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="CN" feature="Event" />
-	<individualDropBox individualDropBoxID="340000310" dropGroup="1" item="30000921" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="CN" feature="Event" />
+	<individualDropBox individualDropBoxID="340000310" dropGroup="1" item="30000921" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" feature="Event" />
 	<individualDropBox individualDropBoxID="340000311" dropGroup="1" item="30001343" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
 	<individualDropBox individualDropBoxID="340000312" dropGroup="1" item="11304824" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" feature="Event" />
 	<individualDropBox individualDropBoxID="340000312" dropGroup="2" item="11401198" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" feature="Event" />
 	<individualDropBox individualDropBoxID="340000312" dropGroup="3" item="70300163" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" feature="Event" />
 	<individualDropBox individualDropBoxID="340000312" dropGroup="4" item="20001312" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" feature="Event" />
+	<individualDropBox individualDropBoxID="340000313" dropGroup="1" item="20300633" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000313" dropGroup="2" item="59200258" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
 	<individualDropBox individualDropBoxID="340000314" dropGroup="1" item="20500088" smartDropRate="0" isApplySmartGenderDrop="True" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
 	<individualDropBox individualDropBoxID="340000314" dropGroup="2" item="20500089" smartDropRate="0" isApplySmartGenderDrop="True" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
 	<individualDropBox individualDropBoxID="340000314" dropGroup="3" item="20500090" smartDropRate="0" isApplySmartGenderDrop="True" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
@@ -6955,4 +6905,50 @@
 	<individualDropBox individualDropBoxID="340000319" dropGroup="2" item="20000304" smartDropRate="0" showTooltip="2" enchantLevel="0" socketDataID="" minCount="10" maxCount="10" PackageUIShowGrade="1" locale="KR" feature="Event" />
 	<individualDropBox individualDropBoxID="340000319" dropGroup="2" item="20300039" smartDropRate="0" showTooltip="2" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" feature="Event" />
 	<individualDropBox individualDropBoxID="340000319" dropGroup="2" item="20300040" smartDropRate="0" showTooltip="2" enchantLevel="0" socketDataID="" minCount="5" maxCount="5" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000320" dropGroup="1" item="20001314" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000320" dropGroup="2" item="20302612" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000320" dropGroup="3" item="20302613" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000321" dropGroup="1" item="20302504" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000321" dropGroup="1" item="20302505" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000321" dropGroup="1" item="20302506" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000322" dropGroup="1" item="20302501" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000322" dropGroup="1" item="20302502" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000322" dropGroup="1" item="20302503" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="2" maxCount="2" PackageUIShowGrade="4" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000323" dropGroup="1" item="31001501" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="340000323" dropGroup="1" item="31001502" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="340000323" dropGroup="1" item="31001503" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="340000323" dropGroup="1" item="31001504" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="340000323" dropGroup="1" item="31001505" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="4" />
+	<individualDropBox individualDropBoxID="340000324" dropGroup="1" item="20302602" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="CN" feature="Event" />
+	<individualDropBox individualDropBoxID="340000325" dropGroup="1" item="30001377" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000325" dropGroup="1" item="30001378" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000325" dropGroup="1" item="30001379" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001369" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001370" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001371" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001372" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001373" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001374" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000326" dropGroup="1" item="30001375" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000327" dropGroup="1" item="30001369" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000327" dropGroup="1" item="30001370" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000328" dropGroup="1" item="50500013" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000329" dropGroup="1" item="50500012" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000330" dropGroup="1" item="50500011" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="NA" feature="Event" />
+	<individualDropBox individualDropBoxID="340000331" dropGroup="1" item="30001381" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" feature="Event" />
+	<individualDropBox individualDropBoxID="340000333" dropGroup="1" item="11300844" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" feature="Event" />
+	<individualDropBox individualDropBoxID="340000333" dropGroup="2" item="11600763" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" feature="Event" />
+	<individualDropBox individualDropBoxID="340000333" dropGroup="3" item="11700817" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" feature="Event" />
+	<individualDropBox individualDropBoxID="340000333" dropGroup="4" item="12200365" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="JP" feature="Event" />
+	<individualDropBox individualDropBoxID="340000334" dropGroup="1" item="20302626" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="GemMeta" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001369" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001370" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001371" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001372" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001373" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="2" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001374" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000335" dropGroup="1" item="30001375" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="3" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000336" dropGroup="1" item="30001369" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000336" dropGroup="1" item="30001370" smartDropRate="0" showTooltip="1" enchantLevel="0" socketDataID="" minCount="1" maxCount="1" PackageUIShowGrade="1" locale="KR" feature="Event" />
+	<individualDropBox individualDropBoxID="340000337" dropGroup="1" item="20300078" smartDropRate="0" enchantLevel="0" socketDataID="" minCount="30" maxCount="30" PackageUIShowGrade="1" locale="KR" feature="Event" />
 </ms2>

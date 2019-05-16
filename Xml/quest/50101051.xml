@@ -3,11 +3,12 @@
 <ms2>
 	<environment feature="Develop" locale="">
 		<quest>
-			<basic chapterID="9997" questID="50101051" questType="" account="0" standardLevel="0" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="" />
+			<basic chapterID="9997" questID="50101051" questType="1" account="0" standardLevel="0" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="" />
 			<notify completeUiEffect="" acceptSoundKey="" completeSoundKey="" />
 			<require level="0" maxLevel="0" job="" quest="" selectableQuest="" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<acceptReward />
 			<completeReward exp="0" relativeExp="" money="0" karma="0" lu="0">
+				<globalEssentialItem code="0" rank="0" count="0" />
 				<globalEssentialJobItem code="0" rank="0" count="0" />
 			</completeReward>
 			<progressMap progressMap="" />

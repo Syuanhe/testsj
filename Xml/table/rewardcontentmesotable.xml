@@ -355,4 +355,56 @@
 		<v level="98" meso="9800" />
 		<v level="99" meso="9900" />
 	</table>
+	<table mesoTableID="5">
+		<v level="50" meso="115630" />
+		<v level="51" meso="116690" />
+		<v level="52" meso="117750" />
+		<v level="53" meso="118820" />
+		<v level="54" meso="119880" />
+		<v level="55" meso="120940" />
+		<v level="56" meso="122000" />
+		<v level="57" meso="123070" />
+		<v level="58" meso="124130" />
+		<v level="59" meso="125190" />
+		<v level="60" meso="126250" />
+		<v level="61" meso="127320" />
+		<v level="62" meso="128380" />
+		<v level="63" meso="129440" />
+		<v level="64" meso="130500" />
+		<v level="65" meso="131570" />
+		<v level="66" meso="132630" />
+		<v level="67" meso="133690" />
+		<v level="68" meso="134750" />
+		<v level="69" meso="135820" />
+		<v level="70" meso="136880" />
+		<v level="71" meso="137940" />
+		<v level="72" meso="139000" />
+		<v level="73" meso="140070" />
+		<v level="74" meso="141130" />
+		<v level="75" meso="142190" />
+		<v level="76" meso="143250" />
+		<v level="77" meso="144320" />
+		<v level="78" meso="145380" />
+		<v level="79" meso="146440" />
+		<v level="80" meso="147500" />
+		<v level="81" meso="148570" />
+		<v level="82" meso="149630" />
+		<v level="83" meso="150690" />
+		<v level="84" meso="151750" />
+		<v level="85" meso="152820" />
+		<v level="86" meso="153880" />
+		<v level="87" meso="154940" />
+		<v level="88" meso="156000" />
+		<v level="89" meso="157070" />
+		<v level="90" meso="158130" />
+		<v level="91" meso="159190" />
+		<v level="92" meso="160250" />
+		<v level="93" meso="161320" />
+		<v level="94" meso="162380" />
+		<v level="95" meso="163440" />
+		<v level="96" meso="164500" />
+		<v level="97" meso="165570" />
+		<v level="98" meso="166630" />
+		<v level="99" meso="167690" />
+	</table>
 </ms2>

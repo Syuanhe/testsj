@@ -33475,4 +33475,662 @@
 			<content myTalk="1" text="$script:1113125512002930$" />
 		</script>
 	</quest>
+	<quest id="10003120">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004312" text="$script:0403172422003322$" />
+			<content myTalk="1" text="$script:0410142122003406$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004312" text="$script:0410142122003407$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004312" text="$script:0410142122003408$" />
+			<content myTalk="1" text="$script:0410142122003409$" />
+			<content leftIllust="Bliche_smile" speakerIllust="Bliche_smile" text="$script:0410142122003410$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004312" text="$script:0403172422003323$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003324$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0410142122003411$" />
+			<content myTalk="1" text="$script:0410142122003412$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0415130222003413$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0415130222003414$" />
+			<content myTalk="1" text="$script:0415130222003415$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0415130222003416$" />
+			<content leftIllust="Bliche_closeEye" rightIllust="Eone_serious" speakerIllust="Bliche_closeEye" speakerNpc="11004577" text="$script:0415130222003417$" />
+			<content myTalk="1" text="$script:0415130222003418$" />
+			<content leftIllust="Bliche_normal" rightIllust="Conder_normal" speakerIllust="Conder_normal" speakerNpc="11004578" text="$script:0415130222003419$" />
+			<content myTalk="1" text="$script:0415130222003420$" />
+			<content leftIllust="Bliche_normal" rightIllust="Conder_smile" speakerIllust="Conder_smile" speakerNpc="11004578" text="$script:0415130222003421$" />
+			<content myTalk="1" redirect="1" text="$script:0415130222003422$" />
+		</script>
+	</quest>
+	<quest id="10003130">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003325$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0415130222003423$" />
+			<content myTalk="1" text="$script:0415130222003424$" />
+			<content myTalk="1" text="$script:0415130222003425$" />
+			<content leftIllust="Schatten_smile" speakerIllust="Schatten_smile" speakerNpc="11004579" text="$script:0415130222003426$" />
+			<content leftIllust="Schatten_smile" rightIllust="Neirin_smile" speakerIllust="Neirin_smile" speakerNpc="11004580" text="$script:0415130222003427$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0415175222003428$" />
+			<content myTalk="1" text="$script:0415175222003429$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0415175222003430$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0415175222003431$" />
+			<content myTalk="1" text="$script:0415175222003432$" />
+			<content leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0415175222003433$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003326$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004571" text="$script:0403172422003327$" />
+			<content myTalk="1" redirect="1" text="$script:0415175222003434$" />
+		</script>
+	</quest>
+	<quest id="10003140">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004571" text="$script:0403172422003328$" />
+			<content myTalk="1" text="$script:0415175222003435$" />
+			<content speakerNpc="11004571" text="$script:0415175222003436$" />
+			<content myTalk="1" text="$script:0415175222003437$" />
+			<content speakerNpc="11004571" text="$script:0415175222003438$" />
+			<content speakerNpc="11004571" text="$script:0415175222003439$" />
+			<content myTalk="1" text="$script:0415175222003440$" />
+			<content speakerNpc="11004571" text="$script:0415175222003441$" />
+			<content myTalk="1" text="$script:0415175222003442$" />
+			<content speakerNpc="11004571" text="$script:0415175222003443$" />
+			<content myTalk="1" text="$script:0415175222003444$" />
+			<content speakerNpc="11004571" text="$script:0415175222003445$" />
+			<content speakerNpc="11004571" text="$script:0417105222003447$" />
+			<content myTalk="1" text="$script:0415175222003446$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004571" text="$script:0403172422003329$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0403172422003330$" />
+			<content myTalk="1" text="$script:0417105222003448$" />
+			<content speakerNpc="11004574" text="$script:0417105222003449$" />
+			<content myTalk="1" text="$script:0417105222003450$" />
+			<content speakerNpc="11004574" text="$script:0417105222003451$" />
+			<content myTalk="1" redirect="1" text="$script:0417105222003452$" />
+		</script>
+	</quest>
+	<quest id="10003150">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0403172422003331$" />
+			<content speakerNpc="11004574" text="$script:0417105222003453$" />
+			<content speakerNpc="11004574" text="$script:0417105222003454$" />
+			<content speakerNpc="11004574" text="$script:0417105222003455$" />
+			<content myTalk="1" text="$script:0417105222003456$" />
+			<content myTalk="1" text="$script:0417105222003457$" />
+			<content speakerNpc="11004574" text="$script:0417105222003458$" />
+			<content myTalk="1" text="$script:0417105222003459$" />
+			<content myTalk="1" text="$script:0417105222003460$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0403172422003332$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004571" text="$script:0403172422003333$" />
+			<content myTalk="1" text="$script:0417105222003461$" />
+			<content speakerNpc="11004571" text="$script:0417105222003462$" />
+			<content speakerNpc="11004571" text="$script:0417105222003463$" />
+		</script>
+	</quest>
+	<quest id="10003160">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0403172422003334$" />
+			<content speakerNpc="11004574" text="$script:0417105222003464$" />
+			<content myTalk="1" text="$script:0417105222003465$" />
+			<content speakerNpc="11004574" text="$script:0417105222003466$" />
+			<content myTalk="1" text="$script:0417105222003467$" />
+			<content myTalk="1" text="$script:0417105222003468$" />
+			<content speakerNpc="11004574" text="$script:0417105222003469$" />
+			<content speakerNpc="11004574" text="$script:0417105222003470$" />
+			<content myTalk="1" text="$script:0417105222003471$" />
+			<content speakerNpc="11004574" text="$script:0417105222003472$" />
+			<content speakerNpc="11004574" text="$script:0417105222003473$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004574" text="$script:0403172422003335$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003336$" />
+			<content speakerNpc="11004576" text="$script:0417105222003474$" />
+			<content myTalk="1" text="$script:0417105222003475$" />
+			<content redirect="1" speakerNpc="11004576" text="$script:0417105222003476$" />
+		</script>
+	</quest>
+	<quest id="10003170">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003337$" />
+			<content myTalk="1" text="$script:0417105222003477$" />
+			<content speakerNpc="11004576" text="$script:0417105222003478$" />
+			<content myTalk="1" text="$script:0417105222003479$" />
+			<content speakerNpc="11004576" text="$script:0417105222003480$" />
+			<content myTalk="1" text="$script:0417105222003481$" />
+			<content text="$script:0417105222003482$" />
+			<content myTalk="1" text="$script:0417105222003483$" />
+			<content speakerNpc="11004576" text="$script:0418135122003484$" />
+			<content speakerNpc="11004576" text="$script:0418135122003485$" />
+			<content speakerNpc="11004576" text="$script:0418135122003486$" />
+			<content speakerNpc="11004576" text="$script:0418135122003487$" />
+			<content myTalk="1" text="$script:0418135122003488$" />
+			<content speakerNpc="11004576" text="$script:0418135122003489$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003338$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003339$" />
+			<content myTalk="1" text="$script:0418135122003490$" />
+			<content redirect="1" speakerNpc="11004576" text="$script:0418135122003491$" />
+		</script>
+	</quest>
+	<quest id="10003180">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003340$" />
+			<content speakerNpc="11004576" text="$script:0418135122003492$" />
+			<content speakerNpc="11004576" text="$script:0418135122003493$" />
+			<content myTalk="1" text="$script:0418135122003494$" />
+			<content speakerNpc="11004576" text="$script:0418135122003495$" />
+			<content myTalk="1" text="$script:0418135122003496$" />
+			<content speakerNpc="11004576" text="$script:0418135122003497$" />
+			<content myTalk="1" text="$script:0418135122003498$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content text="$script:0403172422003341$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003342$" />
+			<content myTalk="1" text="$script:0418135122003499$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0418135122003500$" />
+			<content myTalk="1" text="$script:0418135122003501$" />
+			<content redirect="1" leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0418135122003502$" />
+		</script>
+	</quest>
+	<quest id="10003190">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003343$" />
+			<content leftIllust="Bliche_normal" rightIllust="Conder_normal" speakerIllust="Conder_normal" speakerNpc="11004578" text="$script:0418135122003503$" />
+			<content leftIllust="Mason_closeEye" rightIllust="Conder_normal" speakerIllust="Mason_closeEye" speakerNpc="11004581" text="$script:0418135122003504$" />
+			<content leftIllust="Mason_closeEye" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004578" text="$script:0418135122003505$" />
+			<content leftIllust="siman_normal" rightIllust="Bliche_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0418135122003506$" />
+			<content myTalk="1" text="$script:0418135122003507$" />
+			<content leftIllust="Schatten_smile" speakerIllust="Schatten_smile" speakerNpc="11004579" text="$script:0418135122003508$" />
+			<content myTalk="1" text="$script:0418135122003509$" />
+			<content leftIllust="Schatten_smile" rightIllust="Neirin_serious" speakerIllust="Neirin_serious" speakerNpc="11004580" text="$script:0418135122003510$" />
+			<content leftIllust="Schatten_normal" rightIllust="Neirin_serious" speakerIllust="Schatten_normal" speakerNpc="11004579" text="$script:0418135122003511$" />
+			<content myTalk="1" text="$script:0418135122003512$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003344$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003345$" />
+			<content myTalk="1" text="$script:0418135122003513$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003514$" />
+			<content myTalk="1" text="$script:0424151722003515$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003516$" />
+			<content myTalk="1" text="$script:0424151722003517$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003518$" />
+			<content myTalk="1" text="$script:0424151722003519$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003520$" />
+			<content speakerNpc="11004576" text="$script:0424151722003521$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003522$" />
+			<content speakerNpc="11004576" text="$script:0424151722003523$" />
+			<content myTalk="1" text="$script:0424151722003524$" />
+			<content redirect="1" speakerNpc="11004576" text="$script:0424151722003525$" />
+		</script>
+	</quest>
+	<quest id="10003200">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003346$" />
+			<content myTalk="1" text="$script:0424151722003526$" />
+			<content speakerNpc="11004576" text="$script:0424151722003527$" />
+			<content text="$script:0424151722003528$" />
+			<content myTalk="1" text="$script:0424151722003529$" />
+			<content speakerNpc="11004576" text="$script:0424151722003530$" />
+			<content speakerNpc="11004576" text="$script:0424151722003531$" />
+			<content myTalk="1" text="$script:0424151722003532$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003533$" />
+			<content speakerNpc="11004576" text="$script:0424151722003534$" />
+			<content speakerNpc="11004576" text="$script:0424151722003535$" />
+			<content myTalk="1" text="$script:0424151722003536$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003537$" />
+			<content myTalk="1" text="$script:0424151722003538$" />
+			<content speakerNpc="11004576" text="$script:0424151722003539$" />
+			<content myTalk="1" text="$script:0424151722003540$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004576" text="$script:0403172422003347$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003348$" />
+			<content myTalk="1" text="$script:0424151722003541$" />
+			<content myTalk="1" text="$script:0424151722003542$" />
+		</script>
+	</quest>
+	<quest id="10003210">
+		<script id="100" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003349$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003350$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003351$" />
+			<content myTalk="1" text="$script:0424151722003543$" />
+		</script>
+	</quest>
+	<quest id="10003220">
+		<script id="100" feature="Develop" locale="">
+			<content speakerNpc="11004585" text="$script:0403172422003352$">
+				<distractor text="$script:0424151722003544$" goto="101" gotoFail="" />
+				<distractor text="$script:0424151722003545$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Develop" locale="">
+			<content speakerNpc="11004585" text="$script:0424151722003546$">
+				<distractor text="$script:0424151722003547$" goto="100" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Develop" locale="">
+			<content speakerNpc="11004585" text="$script:0424151722003548$">
+				<distractor text="$script:0424151722003549$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Develop" locale="">
+			<content speakerNpc="11004585" text="$script:0424151722003550$" />
+			<content myTalk="1" text="$script:0424151722003551$" />
+			<content speakerNpc="11004585" text="$script:0424151722003552$" />
+			<content myTalk="1" text="$script:0424151722003553$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content speakerNpc="11004585" text="$script:0403172422003353$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0403172422003354$" />
+			<content myTalk="1" text="$script:0424151722003554$" />
+			<content redirect="1" leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003555$" />
+		</script>
+	</quest>
+	<quest id="10003230">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0403172422003355$" />
+			<content myTalk="1" text="$script:0424151722003556$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003557$" />
+			<content myTalk="1" text="$script:0424151722003558$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003559$" />
+			<content myTalk="1" text="$script:0502112422003746$" />
+			<content myTalk="1" text="$script:0424151722003560$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003561$" />
+			<content myTalk="1" text="$script:0424151722003562$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003563$" />
+			<content myTalk="1" text="$script:0424151722003564$" />
+			<content myTalk="1" text="$script:0424151722003565$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003566$" />
+			<content myTalk="1" text="$script:0424151722003567$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003568$" />
+			<content myTalk="1" text="$script:0424151722003569$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003570$" />
+			<content myTalk="1" text="$script:0424151722003571$" />
+			<content leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003572$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003573$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003356$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003357$" />
+			<content myTalk="1" text="$script:0424151722003574$" />
+			<content leftIllust="Bliche_smile" speakerIllust="Bliche_smile" speakerNpc="11004577" text="$script:0424151722003575$" />
+			<content myTalk="1" text="$script:0424151722003576$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003577$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_shy" speakerIllust="Eone_shy" speakerNpc="11004582" text="$script:0424151722003578$" />
+			<content leftIllust="siman_normal" rightIllust="Eone_shy" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003579$" />
+			<content leftIllust="siman_normal" rightIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0424151722003580$" />
+			<content myTalk="1" text="$script:0424151722003581$" />
+			<content redirect="1" leftIllust="11004115" speakerIllust="11004115" speakerNpc="11004584" text="$script:0424151722003582$" />
+		</script>
+	</quest>
+	<quest id="10003240">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003358$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003583$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003584$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11004580" text="$script:0424151722003585$" />
+			<content myTalk="1" text="$script:0424151722003586$" />
+			<content leftIllust="siman_normal" rightIllust="Neirin_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003587$" />
+			<content myTalk="1" text="$script:0424151722003588$" />
+			<content leftIllust="Bliche_closeEye" speakerIllust="Bliche_closeEye" speakerNpc="11004577" text="$script:0424151722003589$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11004580" text="$script:0424151722003590$" />
+			<content leftIllust="siman_normal" rightIllust="Neirin_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003591$" />
+			<content myTalk="1" text="$script:0424151722003592$" />
+			<content leftIllust="11004112" speakerIllust="11004112" speakerNpc="11004584" text="$script:0424151722003593$" />
+			<content myTalk="1" text="$script:0424151722003594$" />
+			<content leftIllust="11004112" speakerIllust="11004112" speakerNpc="11004584" text="$script:0424151722003595$" />
+			<content myTalk="1" text="$script:0424151722003596$" />
+			<content leftIllust="11004112" rightIllust="Eone_shy" speakerIllust="Eone_shy" speakerNpc="11004582" text="$script:0424151722003597$" />
+			<content leftIllust="11004112" rightIllust="Eone_shy" speakerIllust="11004112" speakerNpc="11004584" text="$script:0424151722003598$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003599$" />
+			<content myTalk="1" text="$script:0424151722003600$" />
+			<content leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0424151722003601$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003359$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003360$" />
+		</script>
+	</quest>
+	<quest id="10003250">
+		<script id="100" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003361$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content myTalk="1" text="$script:0403172422003362$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003363$" />
+			<content myTalk="1" text="$script:0424151722003602$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003603$" />
+			<content myTalk="1" text="$script:0424151722003604$" />
+			<content redirect="1" leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" speakerNpc="11004582" text="$script:0424151722003605$" />
+		</script>
+	</quest>
+	<quest id="10003260">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003364$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003606$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003607$" />
+			<content leftIllust="Eone_serious" rightIllust="Neirin_normal" speakerIllust="Neirin_normal" speakerNpc="11004580" text="$script:0424151722003608$" />
+			<content leftIllust="Eone_serious" rightIllust="Neirin_normal" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003609$" />
+			<content redirect="1" leftIllust="Eone_serious" rightIllust="Neirin_normal" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003610$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0403172422003365$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0403172422003366$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003611$" />
+			<content leftIllust="Eone_serious" rightIllust="11004112" speakerIllust="11004112" speakerNpc="11004584" text="$script:0424151722003612$" />
+			<content myTalk="1" redirect="1" text="$script:0424151722003613$" />
+		</script>
+	</quest>
+	<quest id="10003270">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0403172422003367$" />
+			<content myTalk="1" text="$script:0424151722003614$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0424151722003615$" />
+			<content myTalk="1" redirect="1" text="$script:0424151722003616$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004582" text="$script:0403172422003368$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0403172422003369$" />
+			<content leftIllust="Bliche_normal" rightIllust="11004112" speakerIllust="11004112" speakerNpc="11004584" text="$script:0424151722003617$" />
+			<content leftIllust="Eone_closeEye" speakerIllust="Eone_closeEye" speakerNpc="11004582" text="$script:0424151722003618$" />
+			<content redirect="1" leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003619$" />
+		</script>
+	</quest>
+	<quest id="10003280">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003370$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003620$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003621$" />
+			<content leftIllust="Eone_normal" rightIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003622$" />
+			<content leftIllust="Eone_closeEye" rightIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003623$" />
+			<content leftIllust="Eone_normal" rightIllust="siman_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003624$" />
+			<content leftIllust="Eone_normal" rightIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004582" text="$script:0424151722003625$" />
+			<content leftIllust="Eone_closeEye" rightIllust="siman_normal" speakerIllust="Eone_closeEye" speakerNpc="11004582" text="$script:0424151722003626$" />
+			<content myTalk="1" text="$script:0424151722003627$" />
+			<content leftIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004583" text="$script:0424151722003628$" />
+			<content leftIllust="siman_normal" rightIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003629$" />
+			<content myTalk="1" text="$script:0424151722003630$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003631$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003632$" />
+			<content myTalk="1" text="$script:0424151722003633$" />
+			<content leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0424151722003634$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003371$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003372$" />
+			<content myTalk="1" text="$script:0424151722003635$" />
+			<content redirect="1" leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004582" text="$script:0424151722003636$" />
+		</script>
+	</quest>
+	<quest id="10003290">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003373$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003637$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0424151722003638$" />
+			<content myTalk="1" text="$script:0424151722003639$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004577" text="$script:0424151722003640$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004582" text="$script:0403172422003374$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003375$" />
+			<content redirect="1" leftIllust="Bliche_smile" speakerIllust="Bliche_smile" speakerNpc="11004587" text="$script:0424151722003641$" />
+		</script>
+	</quest>
+	<quest id="10003300">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003376$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11004580" text="$script:0424151722003642$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003377$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003378$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11004590" text="$script:0424151722003643$" />
+			<content myTalk="1" text="$script:0424151722003644$" />
+			<content leftIllust="Conder_normal" rightIllust="Mason_normal" speakerIllust="Conder_normal" speakerNpc="11004588" text="$script:0424151722003645$" />
+			<content leftIllust="Conder_normal" rightIllust="Mason_closeEye" speakerIllust="Mason_closeEye" speakerNpc="11004591" text="$script:0424151722003646$" />
+			<content leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004592" text="$script:0424151722003647$" />
+			<content myTalk="1" text="$script:0424151722003648$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004592" text="$script:0424151722003649$" />
+			<content redirect="1" leftIllust="Eone_serious" speakerIllust="Eone_serious" speakerNpc="11004592" text="$script:0424151722003650$" />
+		</script>
+	</quest>
+	<quest id="10003310">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_closeEye" speakerIllust="Bliche_closeEye" speakerNpc="11004587" text="$script:0403172422003379$" />
+			<content myTalk="1" text="$script:0429151822003651$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003652$" />
+			<content leftIllust="Bliche_normal" rightIllust="Conder_normal" speakerIllust="Conder_normal" speakerNpc="11004588" text="$script:0429151822003653$" />
+			<content leftIllust="Mason_closeEye" rightIllust="Conder_normal" speakerIllust="Mason_closeEye" speakerNpc="11004591" text="$script:0429151822003654$" />
+			<content redirect="1" leftIllust="Bliche_closeEye" rightIllust="Conder_normal" speakerIllust="Bliche_closeEye" speakerNpc="11004587" text="$script:0429151822003655$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003380$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003381$" />
+			<content myTalk="1" text="$script:0429151822003656$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003657$" />
+			<content leftIllust="Bliche_normal" rightIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004593" text="$script:0429151822003658$" />
+			<content leftIllust="Eone_normal" rightIllust="siman_normal" speakerIllust="Eone_normal" speakerNpc="11004592" text="$script:0429151822003659$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003660$" />
+			<content myTalk="1" text="$script:0429151822003661$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003662$" />
+			<content leftIllust="Bliche_mad" speakerIllust="Bliche_mad" speakerNpc="11004587" text="$script:0429174122003744$" />
+		</script>
+	</quest>
+	<quest id="10003320">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003382$" />
+			<content myTalk="1" text="$script:0429151822003663$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003664$" />
+			<content myTalk="1" redirect="1" text="$script:0429151822003665$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003383$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003384$" />
+			<content leftIllust="Bliche_normal" rightIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004592" text="$script:0429151822003666$" />
+			<content myTalk="1" text="$script:0429151822003667$" />
+			<content redirect="1" leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004592" text="$script:0429151822003668$" />
+		</script>
+	</quest>
+	<quest id="10003330">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Turka_normal" speakerIllust="Turka_normal" speakerNpc="11004430" screenEffectMovie="mask_black" screenEffectAction="fadeout" screenEffectValue="2000" text="$script:0403172422003385$" />
+			<content leftIllust="Turka_normal" speakerIllust="Turka_normal" speakerNpc="11004430" text="$script:0429151822003669$" />
+			<content leftIllust="Turka_normal" speakerIllust="Turka_normal" speakerNpc="11004430" text="$script:0429151822003670$" />
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" screenEffectMovie="mask_black" screenEffectAction="fadein" screenEffectValue="100" text="$script:0429151822003671$" />
+			<content myTalk="1" text="$script:0429151822003672$" />
+			<content leftIllust="Bliche_mad" speakerIllust="Bliche_mad" speakerNpc="11004587" text="$script:0429151822003673$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003386$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004595" text="$script:0403172422003387$" />
+			<content leftIllust="Bliche_normal" rightIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11004598" text="$script:0429151822003674$" />
+			<content leftIllust="Schatten_surprise" rightIllust="Neirin_surprise" speakerIllust="Schatten_surprise" speakerNpc="11004597" text="$script:0429151822003675$" />
+			<content leftIllust="Schatten_surprise" rightIllust="siman_normal" speakerIllust="siman_normal" speakerNpc="11004601" text="$script:0429151822003676$" />
+			<content leftIllust="Eone_serious" rightIllust="siman_normal" speakerIllust="Eone_serious" speakerNpc="11004600" text="$script:0429151822003677$" />
+			<content leftIllust="Eone_serious" rightIllust="Conder_normal" speakerIllust="Conder_normal" speakerNpc="11004596" text="$script:0429151822003678$" />
+			<content leftIllust="Mason_normal" rightIllust="Conder_normal" speakerIllust="Mason_normal" speakerNpc="11004599" text="$script:0429151822003679$" />
+			<content leftIllust="Mason_normal" rightIllust="11004112" speakerIllust="11004112" speakerNpc="11004602" text="$script:0429151822003680$" />
+			<content myTalk="1" text="$script:0429151822003681$" />
+			<content leftIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004603" text="$script:0429151822003682$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004603" text="$script:0429151822003683$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004600" text="$script:0429151822003684$" />
+		</script>
+	</quest>
+	<quest id="10003340">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="cladia_smile" speakerIllust="cladia_smile" speakerNpc="11004612" text="$script:0403172422003388$" />
+			<content myTalk="1" text="$script:0429151822003685$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0429151822003686$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0429151822003687$" />
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0429151822003688$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0403172422003389$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Jessica_normal" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0403172422003390$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004612" text="$script:0429151822003689$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="Jessica_smile" speakerNpc="11004575" text="$script:0429151822003690$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0429151822003691$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_normal" speakerIllust="Jessica_smile" speakerNpc="11004575" text="$script:0429151822003692$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004612" text="$script:0429151822003693$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_angry" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003694$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_angry" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003695$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0429151822003696$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003697$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0429151822003698$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003699$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003700$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_normal" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003701$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_normal" speakerIllust="Jessica_smile" speakerNpc="11004575" text="$script:0429151822003702$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004612" text="$script:0429151822003703$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_angry" speakerIllust="Jessica_normal" speakerNpc="11004575" text="$script:0429151822003704$" />
+			<content leftIllust="Jessica_normal" rightIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004612" text="$script:0429151822003705$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="Jessica_smile" speakerNpc="11004575" text="$script:0429151822003706$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="cladia_angry" speakerNpc="11004612" text="$script:0429151822003707$" />
+			<content leftIllust="Jessica_smile" rightIllust="cladia_angry" speakerIllust="Jessica_smile" speakerNpc="11004575" text="$script:0429151822003708$" />
+		</script>
+	</quest>
+	<quest id="10003350">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0403172422003391$" />
+			<content leftIllust="Neirin_surprise" speakerIllust="Neirin_surprise" speakerNpc="11004590" text="$script:0429151822003709$" />
+			<content leftIllust="Neirin_surprise" rightIllust="Schatten_surprise" speakerIllust="Schatten_surprise" speakerNpc="11004589" text="$script:0429151822003710$" />
+			<content leftIllust="Mason_closeEye" rightIllust="Schatten_surprise" speakerIllust="Mason_closeEye" speakerNpc="11004591" text="$script:0429151822003711$" />
+			<content leftIllust="Conder_normal" rightIllust="Mason_closeEye" speakerIllust="Conder_normal" speakerNpc="11004588" text="$script:0429151822003712$" />
+			<content leftIllust="Conder_normal" rightIllust="11004112" speakerIllust="11004112" speakerNpc="11004594" text="$script:0429151822003713$" />
+			<content leftIllust="Bliche_closeEye" rightIllust="11004112" speakerIllust="Bliche_closeEye" speakerNpc="11004587" text="$script:0429151822003714$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="cladia_normal" speakerIllust="cladia_normal" speakerNpc="11004612" text="$script:0403172422003392$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0403172422003393$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003715$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0429151822003716$" />
+			<content myTalk="1" text="$script:0429151822003717$" />
+			<content redirect="1" leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004609" text="$script:0429151822003718$" />
+		</script>
+	</quest>
+	<quest id="10003360">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0403172422003394$" />
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0429151822003719$" />
+			<content myTalk="1" text="$script:0429151822003720$" />
+			<content redirect="1" leftIllust="Eone_smile" speakerIllust="Eone_smile" speakerNpc="11004609" text="$script:0429151822003721$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0403172422003395$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003396$" />
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Eone_normal" speakerNpc="11004609" text="$script:0429151822003722$" />
+			<content redirect="1" leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003723$" />
+		</script>
+	</quest>
+	<quest id="10003370">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Eone_normal" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003397$" />
+			<content leftIllust="Eone_smile" rightIllust="Bliche_normal" speakerIllust="Eone_smile" speakerNpc="11004609" text="$script:0429151822003724$" />
+			<content leftIllust="Eone_smile" rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003725$" />
+			<content rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003726$" />
+			<content myTalk="1" text="$script:0429151822003727$" />
+			<content rightIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0429151822003728$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Bliche_normal" speakerIllust="Bliche_normal" speakerNpc="11004587" text="$script:0403172422003398$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Ereb_surprise" speakerIllust="Ereb_surprise" speakerNpc="11001969" text="$script:0403172422003399$" />
+			<content redirect="1" leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0429151822003729$" />
+		</script>
+	</quest>
+	<quest id="10003380">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Ereb_closeEye" speakerIllust="Ereb_closeEye" speakerNpc="11001969" text="$script:0403172422003400$" />
+			<content myTalk="1" text="$script:0429151822003730$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0429151822003731$" />
+			<content myTalk="1" text="$script:0429151822003732$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0429151822003733$" />
+			<content redirect="1" leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0429151822003734$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0403172422003401$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" speakerNpc="11001969" text="$script:0403172422003402$" />
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" speakerNpc="11001969" text="$script:0429151822003735$" />
+			<content myTalk="1" text="$script:0429151822003736$" />
+			<content leftIllust="Ereb_normal" speakerIllust="Ereb_normal" speakerNpc="11001969" text="$script:0429151822003737$" />
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" speakerNpc="11001969" text="$script:0429175622003745$" />
+		</script>
+	</quest>
+	<quest id="10003390">
+		<script id="100" feature="Develop" locale="">
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" speakerNpc="11001969" text="$script:0403172422003403$" />
+		</script>
+		<script id="200" feature="Develop" locale="">
+			<content leftIllust="Ereb_serious" speakerIllust="Ereb_serious" speakerNpc="11001969" text="$script:0403172422003404$" />
+		</script>
+		<script id="300" feature="Develop" locale="">
+			<content leftIllust="BlackWizard_normal" speakerIllust="BlackWizard_normal" speakerNpc="11004613" text="$script:0403172422003405$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="Bella_normal" speakerNpc="11000057" text="$script:0429151822003738$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="BlackWizard_normal" speakerNpc="11004613" text="$script:0429151822003739$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="BlackWizard_normal" speakerNpc="11004613" text="$script:0429151822003740$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="Bella_normal" speakerNpc="11000057" text="$script:0429151822003741$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="BlackWizard_normal" speakerNpc="11004613" text="$script:0429151822003742$" />
+			<content leftIllust="BlackWizard_normal" rightIllust="Bella_normal" speakerIllust="Bella_normal" speakerNpc="11000057" text="$script:0429151822003743$" />
+		</script>
+	</quest>
 </ms2>

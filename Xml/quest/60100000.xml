@@ -59,7 +59,7 @@
 		<quest>
 			<basic chapterID="5015" questID="60100000" questType="0" account="0" standardLevel="5" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="TRUE" />
 			<notify completeUiEffect="" acceptSoundKey="Chapterbook_Start" completeSoundKey="" />
-			<require level="5" maxLevel="0" job="" quest="" selectableQuest="20002293,20002304,20002315,20002325,40002691,40002700,40002711,40002721,90000419,90000455" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
+			<require level="5" maxLevel="0" job="" quest="" selectableQuest="20002293,20002304,20002315,20002325,40002691,40002700,40002711,40002721,90000419,90000441,90000455" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<start npc="11003180" />
 			<complete npc="11003163" />
 			<acceptReward />
@@ -113,7 +113,7 @@
 		<quest>
 			<basic chapterID="5015" questID="60100000" questType="0" account="0" standardLevel="5" autoStart="0" disableGiveup="0" exceptChapterClear="0" repeatable="0" usePeriod="" eventTag="" locking="0" tabIndex="-1" forceRegistGuide="0" useNavi="TRUE" />
 			<notify completeUiEffect="" acceptSoundKey="Chapterbook_Start" completeSoundKey="" />
-			<require level="5" maxLevel="0" job="" quest="" selectableQuest="20002293,20002304,20002315,20002325,40002691,40002700,40002711,40002721,90000419,90000455" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
+			<require level="5" maxLevel="0" job="" quest="" selectableQuest="20002293,20002304,20002315,20002325,40002691,40002700,40002711,40002721,90000419,90000441,90000455" unrequire="" field="" achievement="0" unreqAchievement="" groupID="0" dayOfWeek="" gearScore="0" />
 			<start npc="11003180" />
 			<complete npc="11003163" />
 			<acceptReward />

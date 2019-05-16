@@ -487,6 +487,69 @@
 		</textureani>
 	</emotion>
 
+	<emotion name="Ballet01_Idle_A">
+		<anim name="Ballet01_Idle_A" /> <!-- 18067ms -->
+		<textureani target="FA">
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="500" loop="true"/>
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="3000" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="1500" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="600" />		
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" /> <!--6040-->
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="600" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="800" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" /> <!--7660-->
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="1000" /> <!--8660-->
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="5000" /> <!--13660-->		
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="2332" /> 
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="910" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="835" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" /> <!--18067-->
+		</textureani>
+	</emotion>
+
+	<emotion name="Ballet01_Walk_A">
+		<anim name="Ballet01_Walk_A" /> <!-- 1333-->
+		<textureani target="FA">			
+			<texture file="Item_Face/{0}/06_Talk.dds" control="Item_Face/{0}/07_Talk_C.dds" delay="557" />			
+			<texture file="Item_Face/{0}/08_Talk_Blink1.dds" control="Item_Face/{0}/09_Talk_Blink1_C.dds" delay="60" />	
+			<texture file="Item_Face/{0}/10_Talk_Blink2.dds" control="Item_Face/{0}/21_Talk_Blink2_C.dds" delay="50" />	
+			<texture file="Item_Face/{0}/06_Talk.dds" control="Item_Face/{0}/07_Talk_C.dds" delay="556" />			
+			<texture file="Item_Face/{0}/08_Talk_Blink1.dds" control="Item_Face/{0}/09_Talk_Blink1_C.dds" delay="60" />	
+			<texture file="Item_Face/{0}/10_Talk_Blink2.dds" control="Item_Face/{0}/21_Talk_Blink2_C.dds" delay="50" />	
+		</textureani>
+	</emotion>
+
+	<emotion name="Ballet01_Run_A">
+		<anim name="Ballet01_Run_A" /> <!-- 4867-->
+		<textureani target="FA">
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="500" loop="true"/>
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="1237" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="2500" />
+			<texture file="Item_Face/{0}/05_Blink2.dds" control="Item_Face/{0}/20_Blink2_C.dds" delay="60" />
+			<texture file="Item_Face/{0}/03_Blink1.dds" control="Item_Face/{0}/04_Blink1_C.dds" delay="50" />
+			<texture file="Item_Face/{0}/01_Idle.dds" control="Item_Face/{0}/02_Idle_C.dds" delay="300" />
+		</textureani>
+	</emotion>
+	
 	<emotion name="Object_React_F">
     <anim name="Object_React_F" />
     <textureani target="FA">
@@ -3117,20 +3180,47 @@
   
     <!-- 별가루를 품은 마법 양탄자 -->
 	<emotion name="FlyType015_Idle_A">
-    <anim name="FlyType015_Idle_A" />
-	<idleAnim name="FlyType015_Idle_A" />
-    <textureani target="FA">
-	<texture file="Item_Face/FC_face_smile.dds" control="" loop="true"/> <!-- 웃는 표정 -->
-    </textureani>
-  </emotion>
+		<anim name="FlyType015_Idle_A" />
+		<idleAnim name="FlyType015_Idle_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_smile.dds" control="" loop="true"/> <!-- 웃는 표정 -->
+		</textureani>
+	</emotion>
 
 	<emotion name="FlyType015_Run_A">
-    <anim name="FlyType015_Run_A" />
-	<idleAnim name="FlyType015_Run_A" />
-    <textureani target="FA">
-	<texture file="Item_Face/FC_face_expect.dds" control="" loop="true"/> <!-- 초롱초롱 표정 -->
-    </textureani>
-  </emotion>
+		<anim name="FlyType015_Run_A" />
+		<idleAnim name="FlyType015_Run_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_expect.dds" control="" loop="true"/> <!-- 초롱초롱 표정 -->
+		</textureani>
+	</emotion>
+	
+	    <!-- 두둥실 드림캐처 침대 -->
+	<emotion name="FlyType018_Idle_A">
+		<anim name="FlyType018_Idle_A" />
+		<idleAnim name="FlyType018_Idle_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/00300002_M_SmartFace_blink2_Talk.dds" control="" loop="true"/> <!-- 눈 감고 자는 표정 -->
+		</textureani>
+	</emotion>
+
+	<emotion name="FlyType018_Run_A">
+		<anim name="FlyType018_Run_A" />
+		<idleAnim name="FlyType018_Run_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/00300003_F_CuteFace_blink2_Talk.dds" control="" loop="true"/> <!-- 눈 감고 자는 표정 -->
+		</textureani>
+	</emotion>
+	
+		<!-- 살랑 봄꽃 보행기 -->
+	<emotion name="Ride_Sp_Idle_049">
+		<anim name="Ride_Sp_Idle_049" />
+		<idleAnim name="Ride_Sp_Idle_049" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_smile.dds" control="" loop="true"/> <!-- 눈 감고 웃는 표정 -->
+		</textureani>
+	</emotion>
+	
  
   	<emotion name="Sit_Chair_Idle_A">
     <anim name="Sit_Chair_Idle_A" />
@@ -5483,7 +5573,7 @@
  <emotion name="PC_Pain_86000">
   <anim name="" />
   <textureani target="FA">
-    <texture file="Item_Face/00300004_F_NaiveFace_pain.dds" control="" delay="86000" loop="true" />
+    <texture file="Item_Face/00300004_F_NaiveFace_pain.dds" control="Item_Face/00300004_F_NaiveFace_pain_C.dds" delay="86000" loop="true" />
   </textureani>
 </emotion>
 
@@ -5854,7 +5944,36 @@
 		<textureani target="FA">
 			<texture file="Item_Face/{0}/11_Attack.dds" control="Item_Face/{0}/12_Attack_C.dds" delay="100" loop="true" />
 		</textureani>
-    </emotion>	
+    </emotion>
+
+		<!--피아와 빙글빙글-->
+	<emotion name="Around_A">
+		<anim name="Emotion_Around_A" />
+		<idleAnim name="Emotion_Around_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_smile.dds" control="Item_Face/{0}/12_Attack_C.dds" delay="100" loop="true" />
+		</textureani>
+		<effect file="CH/Emotion/Eff_Emotion_Around_A.xml" />			
+  </emotion>
+
+		<!--피아와 손뼉춤-->
+	<emotion name="Around_B">
+		<anim name="Emotion_Around_B" />
+		<idleAnim name="Emotion_Around_B" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_smile.dds" control="Item_Face/{0}/12_Attack_C.dds" delay="100" loop="true" />
+		</textureani>
+		<effect file="CH/Emotion/Eff_Emotion_Around_B.xml" />			
+  </emotion>
+
+		<!-- 우주공간-->
+	<emotion name="Gravity_Ready_A">
+		<anim name="Emotion_Gravity_Ready_A" />
+		<idleAnim name="Emotion_Gravity_Loop_A" />
+		<textureani target="FA">
+		<texture file="Item_Face/FC_face_awe.dds" control="" delay="2045" loop="true" />
+		</textureani>
+    </emotion>  
 
   <!--알베르토빈의 트레이닝-->	
     <emotion name="AlbertobeanPT_A">
@@ -5877,6 +5996,16 @@
 		</textureani>
 		<effect file="CH/Emotion/Eff_Female_Emotion_Selfie_A.xml" />
 	</emotion>	
+	
+		<!-- 마리아치 댄스-->
+	<emotion name="Mariachi_A">
+		<anim name="Emotion_Mariachi_A" />
+		<idleAnim name="Emotion_Mariachi_A" />
+		<textureani target="FA">
+		<texture file="Item_Face/FC_face_smile.dds" control="" delay="100" loop="true" />
+		</textureani>
+		<effect file="CH/Emotion/Eff_Emotion_Mariachi_A.xml" />
+	</emotion>
   
 <!--황금고래-->	
   <emotion name="FlyType001_Idle_A">
@@ -5964,15 +6093,55 @@
 			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />		
     </textureani>
   </emotion>  
-	
-	     <!--빙빙빙 회오리 눈-->
+
+<!--표정-->
+  
+ <!--빙빙빙 회오리 눈-->
   <emotion name="FC_face_syncope">
     <textureani target="FA">
 			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" loop="true" />
 			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
 			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />	
     </textureani>
-  </emotion>	
+  </emotion>
+  
+ <!--초롱초롱 눈-->
+  <emotion name="FC_face_expect">
+    <textureani target="FA">
+			<texture file="Item_Face/FC_face_expect.dds" control="" loop="true" />
+    </textureani>
+  </emotion>  
+  
+ <!--두근두근 반짝이는 눈-->
+  <emotion name="FC_face_expectation">
+    <textureani target="FA">
+			<texture file="Item_Face/FC_face_expectation.dds" control="" loop="true" />
+    </textureani>
+  </emotion>
+  
+ <!--웃는 눈-->
+  <emotion name="FC_face_smile">
+    <textureani target="FA">
+	        <texture file="Item_Face/FC_face_smile.dds" control="" loop="true" />
+    </textureani>
+  </emotion> 
+	
+ <!--교활한 표정1-->
+  <emotion name="FC_face_sneaky">
+    <textureani target="FA">
+	        <texture file="Item_Face/FC_face_sneaky.dds" control="" loop="true" />
+    </textureani>
+  </emotion> 
+  
+ <!--교활한 표정2-->
+  <emotion name="FC_face_sneaky2">
+    <textureani target="FA">
+	        <texture file="Item_Face/FC_face_sneaky2.dds" control="" loop="true" />
+    </textureani>
+  </emotion> 
+  
+  
+	
 	
  <!--굴리고굴리고--> 
 	<emotion name="RollingWithYou_Diff_Female_Loop">
@@ -6334,4 +6503,110 @@
 		</textureani>
 	</emotion>
 
+	<!-- 2인 액션 수강증 : 커플 소풍 -->
+	<emotion name="Picnic_Same_Female_Ready_A"> <!-- 5300ms -->
+		<anim name="Emotion_Picnic_Same_Female_Ready_A" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_awe.dds" control="" delay="1500" /> <!--놀람-->
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_smile.dds" control="" delay="1900" /> <!--기대-->
+		</textureani>
+	</emotion>
+
+	<emotion name="Picnic_Same_Female_Ready_B"> <!-- 5300ms -->
+		<anim name="Emotion_Picnic_Same_Female_Ready_B" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_awe.dds" control="" delay="1500" /> <!--놀람-->
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_expect.dds" control="" delay="2320" /> <!--기대-->
+		</textureani>
+	</emotion>
+
+	<emotion name="Picnic_Same_Female_Loop_A"> <!-- 1900ms -->
+		<anim name="Emotion_Picnic_Same_Female_Loop_A" />
+		<textureani target="FA">
+		  <texture file="Item_Face/FC_face_smile.dds" control="" loop="true"/> <!--미소-->
+		</textureani>
+	</emotion>
+
+	<emotion name="Picnic_Same_Female_Loop_B"> <!-- 1900ms -->
+		<anim name="Emotion_Picnic_Same_Female_Loop_B" />
+		<textureani target="FA">
+		  <texture file="Item_Face/FC_face_expect.dds" control="" loop="true"/> <!--기대-->
+		</textureani>
+	</emotion>
+	
+	<emotion name="Picnic_Diff_Female_Ready"> <!-- 5300ms -->
+		<anim name="Emotion_Picnic_Diff_Female_Ready" />
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_awe.dds" control="" delay="1500" /> <!--놀람-->
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+		  	<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope02.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope03.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_syncope01.dds" control="" delay="140" />
+			<texture file="Item_Face/FC_face_smile.dds" control="" delay="2320" /> <!--기대-->
+		</textureani>
+	</emotion>
+
+	<emotion name="Picnic_Diff_Female_Loop"> <!-- 1900ms -->
+		<anim name="Emotion_Picnic_Diff_Female_Loop" />
+		<textureani target="FA">
+		  <texture file="Item_Face/FC_face_smile.dds" control="" loop="true"/> <!--기대-->
+		</textureani>
+	</emotion>
+	
+	<emotion name="Merrygoround_Diff_Female_Loop"> <!-- 8000ms -->
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_happy.dds" control="" delay="8000" loop="true"/>
+		</textureani>
+	</emotion>
+	
+	<emotion name="Merrygoround_Same_Female_Loop_A"> <!-- 8000ms -->
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_happy.dds" control="" delay="8000" loop="true"/>
+		</textureani>
+	</emotion>
+
+	<emotion name="Merrygoround_Same_Female_Loop_B"> <!-- 8000ms -->
+		<textureani target="FA">
+			<texture file="Item_Face/FC_face_happy.dds" control="" delay="8000" loop="true"/>
+		</textureani>
+	</emotion>
+	
 </ms2>

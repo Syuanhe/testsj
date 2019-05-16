@@ -30,6 +30,7 @@
 		<list order="10, 20, 30, 40, 50, 60, 70, 80" disableJobCode="" selectJobCode="" randomselectJobCode="10,20,30,40,50,80" feature="Season1" />
 		<list order="10, 20, 30, 40, 50, 60, 70, 80, 90" disableJobCode="" selectJobCode="90" randomselectJobCode="10,20,30,40,50,80" feature="RuneBlader" />
 		<list order="10, 20, 30, 40, 50, 60, 70, 80, 90, 110" disableJobCode="" selectJobCode="110" randomselectJobCode="" feature="SoulBinder" />
+		<list order="10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110" disableJobCode="" selectJobCode="100" frandomselectJobCode="" feature="Striker" />
 	</group>
 	<group name="display" locale="JP">
 		<list order="10, 20, 30, 40, 50, 60, 70, 80" disableJobCode="" selectJobCode="" randomselectJobCode="10,20,30,40,50,80" feature="Season1" />
